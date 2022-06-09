@@ -1,0 +1,27 @@
+Chia miners are buying up hard discs Shutterstock / nikkytok
+
+Chia, a cryptocurrency intended to be a “green” alternative to bitcoin has instead caused a global shortage of hard discs. Gene Hoffman, the president of Chia Network, the company behind the currency, admits that “we’ve kind of destroyed the short-term supply chain”, but he denies it will become an environmental drain.
+
+Bitcoin requires so-called miners to do vast amounts of useless calculations to maintain the network, a system that is known as proof of work. The most recent studies show that bitcoin may currently consume 0.53 per cent of the world’s electricity supply. Chia instead uses a proof-of-space approach that ditches these calculations and relies on empty hard disc space. The more space a miner devotes to the task, the higher their probability of receiving new coins.
+
+In theory, this would consume less energy, but there has been a surge in demand for hard discs since the currency launched earlier this year. Around 12 million terabytes of hard disc space is currently being used to mine Chia, having risen on an exponential curve since its launch in March. When New Scientist first reported on Chia just two weeks ago, that figure was only at 3 million terabytes.
+
+Advertisement
+
+These discs still require energy to produce and run, and there are reports that the constant reading and writing involved in mining can wear them out in weeks, rendering them useless. Hoffman says this problem only affects the cheapest discs.
+
+The resulting increase in demand has caused significant price rises for hard discs, especially higher-end models. The share price of hard disc maker Western Digital has increased from $52 at the start of the year to $73, while competitor Seagate is up from $60 to $94 over the same period.
+
+Hoffman says he is surprised at the speed at which the hard disc capacity devoted to Chia has grown and admits that this is likely to cause disruptions to the supply chain for some time.
+
+In the long term, he thinks the increased demand being driven by Chia will lower the cost of hard discs as manufacturers ramp up production. He is also adamant that even with continued growth, the network won’t approach bitcoin’s energy consumption.
+
+Hoffman says that if all hard discs sold in a year – which could hold data totalling roughly 1 zettabyte, or 1 billion terabytes – were used exclusively for mining Chia, it would still use less than 1 per cent of the energy currently used by bitcoin. However, the exact energy consumption of the Chia network is currently unknown, as the cryptocurrency is too new for researchers to have produced reliable estimates.
+
+“I’m pretty sure that if we had all 7 zettabytes of storage [the estimated figure for global hard disc capacity], every piece of storage out there – you shut down Google, you shut down Amazon, you shut down Facebook – it’d still be less annual energy consumption,” says Hoffman.
+
+But he does concede that the growth of Chia will require significant resources. “Frankly, a Tesla isn’t green compared to running a bicycle, but we all know how those trade-offs work,” he says.
+
+Hoffman argues that bitcoin is unsustainable in its current form, but was “so close to being exactly right”. He suggests that issues with bitcoin began when specialised hardware was developed that could mine coins faster than standard computers. This kick-started an arms race that has led to its vast energy use, he says, but he insists that Chia is impervious to such a development.
+
+Aggelos Kiayias at the University of Edinburgh, UK, says it is vital to analyse new cryptocurrency technologies to see if the resources they require, such as vast numbers of hard discs, justify the benefit. “Given the current numbers, being merely less resource hungry compared to bitcoin is a rather low bar as far as ‘green’ technology is concerned,” he says.

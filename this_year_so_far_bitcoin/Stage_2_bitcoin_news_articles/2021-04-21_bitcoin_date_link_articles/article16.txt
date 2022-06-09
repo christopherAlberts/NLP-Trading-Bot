@@ -1,0 +1,33 @@
+New York-based Signature Bank will soon start offering its crypto clients bitcoin-backed cash loans, executives revealed on an earnings call Wednesday.
+
+The bank joins its rival Silvergate, which has been offering bitcoin-backed loans since June of last year, and crypto lending startups including Genesis, BlockFi and Unchained Capital. (Genesis, like CoinDesk, is owned by Digital Currency Group.)
+
+The move shows an appetite for crypto-collateralized loans from banks that have more stable funding sources (FDIC-insured deposits) and tougher underwriting standards than the startups.
+
+“We want it to be a zero-loss business,” said Signature CEO Joseph DePaolo. “And so we’re only going to have it for the very, very best clients. We’re going to underwrite it to death, have deep discounts and quality custodians. It will contribute in 2021, but not necessarily in the second quarter to a great extent.”
+
+Signature says it’s still in the process of doing due diligence on the custodians it wants to use for the bitcoin-backed loans. Silvergate works with Fidelity, Coinbase, Anchorage and Bitstamp for its lending product.
+
+“We also want to have the ability to liquidate quickly, and we won’t negotiate on margin or liquidation provisions,” Signature’s DePaolo said.
+
+The bank CEO noted that Signature was open to more cryptocurrencies than just bitcoin as collateral but wouldn’t say what the interest rate yields would be on the loans except that they’d be more “than our traditional CNI” or cash net income.
+
+Deposit growth
+
+Signature also reported that it raked in $4.4 billion in deposits from crypto customers in Q1 of this year.
+
+Last quarter, the bank said its deposits from crypto customers totaled $10 billion. If that number held steady, then the bank now has $14.4 billion from the digital currency space.
+
+The bank added 110 crypto customers for a total of 740 customers from the industry. This falls well below Silvergate Bank’s 1,104 customers in the space, but Signature’s deposit growth from these customers more than doubled Silvergate’s $1.8 billion growth in crypto customer deposits in Q1.
+
+Deposit growth from digital currency customers at Signature is also driven by the bank’s blockchain-based payments platform Signet, which offers real-time fiat payments for crypto customers 24/7. DePaolo would not break out figures on Signet’s transaction volumes.
+
+Signature’s reach
+
+Signature banks dollar reserves for stablecoin issuers, over-the-counter trading desks, crypto exchanges, blockchain companies and bitcoin miners.
+
+On the company’s earnings call, DePaolo was pressed on whether or not deposits from these customers would stick around.
+
+“Well, 30% of those deposits are in [demand deposit accounts] because we’re getting the operating accounts,” DePaolo said. “We’ve been asked, ‘What about the big banks? The Chases and the Citis, if they get into digital in a big way?’ Well, we’ve been competing with them for 20 years so we’re not worried about the big players.”
+
+Similar to Silvergate’s Q1 earnings call, DePaolo was also pushed on how the bank was deploying deposits from crypto firms into securities that would offer higher yields.

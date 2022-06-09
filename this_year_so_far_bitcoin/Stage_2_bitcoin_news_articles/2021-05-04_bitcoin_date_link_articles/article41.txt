@@ -1,0 +1,19 @@
+The road to the Taproot upgrade finally coming in 2021 is already underway, with major Bitcoin (BTC) mining pools already signaling support.
+
+According to data from Taproot.watch, a webpage created by Bitcoin developer Hampus Sjöberg, Taproot signaling now accounts for about 44% of the total Bitcoin hashing power as of the time of writing.
+
+AntPool and F2Pool — the two largest Bitcoin mining pools by hash rate — are among the earliest supporters of the Taproot activation in the mining arena. Other pools in support are Foundry USA and Slush Pool, with the latter responsible for mining the first signaling block.
+
+Based on Bitcoin’s consensus, Taproot activation will only go forward if 90% of all mined blocks include an activation signal within a difficulty adjustment window (2,016 blocks).
+
+This consensus agreement must happen in one of the difficulty epochs between now and Aug. 11 to be locked in as a network upgrade for November. As previously reported by Cointelegraph, the current difficulty period began on May 1 after a 12% downward adjustment.
+
+As of publishing time, only 97 signaling blocks have emerged in the current window. Meanwhile, miners responsible for 382 blocks have elected to not include a “signal bit.”
+
+The “no votes” by these miners, which account for 19% of the 2,016 blocks in the current difficulty window, means that the Taproot activation cannot be locked in until at least the next difficulty epoch.
+
+However, given the reported support by miners for Taproot, the activation — touted to be the most significant for Bitcoin in over four years — is expected to proceed without as much controversy as the Segregated Witness saga of 2016 and 2017.
+
+Taproot as an upgrade to the Bitcoin protocol will reportedly enable users to mask additional spending conditions, which could have significant implications for Bitcoin’s smart contract capabilities.
+
+The ability to hide additional spending conditions beyond the ones triggered by the transacting parties could also improve Bitcoin’s privacy.

@@ -1,0 +1,57 @@
+As the price of bitcoin soars past $56,000, the cryptocurrency's negative environmental impact is becoming harder to ignore. Energy-hogging crypto miners have been blamed for power outages in Iran, while China — a crypto mining hotbed — is cracking down on the practice as it takes a heavier hand with polluting industries.
+
+More such crackdowns may be needed to keep crypto's carbon emissions under control. According to research released this week, bitcoin's record-high prices have created a crypto mining backlog such that, even if the price falls, emissions from mining the virtual currency are likely to stay high for the near future.
+
+The research was published in Joule magazine by cryptocurrency economist Alex De Vries, who noted that bitcoin's energy use this year will rival that of all data centers globally.
+
+"It's the crazy inefficiency of the system that's jarring," De Vries said.
+
+Bitcoin's niche appeal is at odds with its massive energy demands, De Vries explained. With bitcoin's usage limited to a tiny number of concurrent transactions, "it's not really capable of servicing a big group of people," he said. "Despite that, it still consumes as much [power] as all data centers in the world — we're talking about all the data centers that are powering the internet, powering big tech clouds, serving a majority of the world's population. It's extremely disproportional."
+
+While there are only about 1 million bitcoin miners in the world, according to an industry estimate, the amount of electricity that mining consumes in one year is equal to that used to power Malaysia, Sweden or Ukraine, according to the Cambridge Bitcoin Electricity Consumption Index.
+
+London-scale pollution
+
+
+
+While it's hard to say exactly how carbon-intensive cryptocurrency mining is — most miners' locations and energy sources are a closely guarded secret — scientists are worried. De Vries estimates that bitcoin's yearly carbon emissions are on track to match the city of London's, which is estimated to be 98.9 megatons, according to citycarbonfootprints.info.
+
+One group of researchers at the University of New Mexico has put a price on that pollution, estimating in a paper that every dollar of bitcoin value mined accounts for 49 cents' worth of health and climate damage in the U.S.
+
+"With each cryptocurrency, the rising electricity requirements to produce a single coin can lead to an almost inevitable cliff of negative net social benefit," the paper states.
+
+Other studies have found that the environmental damage caused by crypto mining is on par with mineral mining. In an article published in Nature Climate Change, scientists warned that if it were to become as widely adopted as other new technologies, bitcoin alone could push the Earth's temperature 2 degrees above historical levels.
+
+"Bitcoin is inefficient by design. This inefficiency is the price we pay for security," said Anton Dek, crypto asset and blockchain lead at the Cambridge Centre for Alternative Finance (and one of the researchers on the bitcoin energy tracker).
+
+The process of mining a bitcoin involves multitudes of computers competing to solve a complex math problem, in which the first to reach a solution is rewarded with a bitcoin. The complexity of these transactions makes it difficult, for instance, to hack the bitcoin blockchain.
+
+It also means that how much bitcoin you can mine depends on how much computing power you can throw at the problem. That has effectively set off an arms race in which miners invest in even more computing equipment that they keep running 24 hours a day. And the more expensive bitcoin gets, the more people want a shot at the action.
+
+Racks of ASIC mining devices and power units at the BitCluster cryptocurrency mining farm in Norilsk, Russia, on December 20, 2020. Norilsk hosts the Arctic's first crypto farm for producing new bitcoins. Andrey Rudakov/Bloomberg via Getty Images
+
+"If it's more profitable, it encourages more people to enter this competition — it encourages more miners to come," Dek said.
+
+Dek is less concerned than others about bitcoin's potential environmental impact, pointing out that crypto mining uses as much electricity as Americans waste by plugging in electrical appliances that are not running. Most miners use some renewable energy, according to Cambridge research, although more than 60% of crypto mining is powered by fossil fuels.
+
+"We are trying to make the point here that it is not that bad," Dek said. "We also don't want to say it's not an issue at all."
+
+As good as gold?
+
+"We see the use case of bitcoin more and more as gold. It's something to preserve value, not for everyday transactions," Dek said.
+
+That sort of comparison, however, may be driving bitcoin into a speculative frenzy that could "lock in" high emissions for years to come.
+
+Bitcoin's price surge has caused a run on bitcoin mining computers, with Bitmain, a major maker of so-called mining rigs, sold out through August, while competitor Canaan is working through a backlog of 100,000 orders. These purchases aren't refundable, De Vries noted, which means that once miners receive their equipment they are likely to use them — even if a digital coin's price has fallen in the meantime.
+
+"All you care about once you get the machine is, how much do I pay for electricity to run this machine? The sunk cost doesn't matter anymore," he said.
+
+So even if bitcoin's price were to drop by half, the planet is likely locked into high emissions from crypto mining for the near term — unless more miners can find cleaner sources of power to meet their computing demands, or more regions follow China's lead to restrict or eliminate bitcoin mining altogether.
+
+"You have all these miners using electricity — you can boot them off the grid if you want to. That's an option you have as a regulator," De Vries said.
+
+Unlike other economic activities, the bitcoin scheme produces absolutely nothing for all this waste. It is a pure speculative activity of people gambling on the random movements of prices and the only output is simply shuffling numbers around in a computer at insane cost. (10/) — Stephen Diehl (@smdiehl) January 17, 2021
+
+Despite comparisons of bitcoin to gold, many continue to question whether the virtual currency is worth anything. Commentators have compared it to a bubble, noting that the currency can't be exchanged for most goods or services.
+
+"Unlike other economic activities, the bitcoin scheme produces absolutely nothing for all this waste," said Stephen Diehl, a software engineer who frequently writes about cryptocurrency. "It is a pure speculative activity of people gambling on the random movements of prices and the only output is simply shuffling numbers around in a computer at insane cost."

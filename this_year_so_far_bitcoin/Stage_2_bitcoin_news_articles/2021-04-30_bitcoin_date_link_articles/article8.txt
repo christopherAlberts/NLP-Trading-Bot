@@ -1,0 +1,21 @@
+Fintech academic and chartered accountant Gavin Brown examines the impact of Tesla’s decision to hold bitcoin as a treasury asset on its balance sheet, both for the company itself and the wider cryptocurrency market.
+
+In January this year, Tesla published their year-end annual results for 2020. In that same annual report, Tesla also announced that in January 2021 it had purchased $1.5bn of the cryptocurrency bitcoin. This was equivalent to more than 0.2% of the capped total supply of 21 million bitcoins, according to the pseudonymous creator Satoshi Nakamoto’s white paper.
+
+The company also explained in the notes to its 10-K that it expects to begin accepting bitcoin as a form of payment for its products “in the near future”. Not only was a large SEC-listed company now holding bitcoin as a treasury asset on its balance sheet, but it was also enabling future customers to purchase Tesla cars using cryptocurrency.
+
+The impact was huge. Tesla was reported to have made an unrealised profit of $1bn by the time of its announcement, which was less than a month after its original investment. This unrealised profit was more than half its 2020 annual EBITDA, and more than its 12-month (non-GAAP) net income of $903m. A bold move with a material and almost instantaneous payoff.
+
+The bitcoin price was further fuelled by several cryptocurrency-based Tweets from Tesla CEO Elon Musk. This, coupled with ongoing increases in the quantitative easing strategies of global central banks in their response to COVID-19, caused the bitcoin price to increase from £32,570 on 26 January 2021 (the day before Tesla’s bitcoin announcement) to £57,540 on 21 February 2021. A return of 77% in just over three weeks.
+
+Fast forward to this week, and Tesla’s latest 10Q statement to the SEC for quarter one 2021 shows that the electric vehicle manufacturer has already sold $293m of their holding to the benefit of their free cash flow - hardly the HODL (hold on for dear life) strategy many bitcoin enthusiasts had hoped for. Nonetheless, Tesla still holds just over $1.3bn worth of ‘digital assets’ on their quarter-end balance sheet using a mark-to-market fair valuation methodology. They are therefore still very much betting on bitcoin. This material exposure represents over 2.5% of their total near $53bn assets.
+
+Companies holding bitcoin as a treasury asset on their balance sheet is not the exclusive preserve of Tesla. Other companies in this niche group include MicroStrategy Inc and Square Inc - a fuller list of similar cryptocurrency companies can be found here.
+
+Now that the 10Q publication season is upon us, analysts are keenly watching and waiting to see if other companies, the FAANGs (Facebook, Amazon, Apple, Netflix and Google) in particular, might follow where Tesla has led. If this potential outcome unfolds then expect the bull run of cryptocurrency prices to garner further momentum. Although, this is not without its risks. I have written before about the potential threat of volatility spill over from cryptocurrency prices, via listed company balance sheets, ultimately to manifest in our traditional equity capital markets.
+
+Some experts are predicting $100,000 plus Bitcoin prices. If they are proven correct then look for increasing demand from our accounting clients to purchase and hold Bitcoin as well as the increased accounting policy and custodial complexities which such decisions will invariably bring.
+
+Gavin Brown is an Associate Professor in Financial Technology at The University of Liverpool and Fellow of the ICAEW as a chartered accountant.
+
+ICAEW Insights opinion pieces are intended to be thought-provoking and stimulate debate. Views expressed in these opinion pieces are the author’s own and not necessarily shared by ICAEW.

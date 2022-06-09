@@ -1,0 +1,45 @@
+The B-52's playing at the Love Shack in the video for their eponymous 1989 hit.
+
+Lovesac Versus Love Shack
+
+In their 1989 hit "Love Shack", the B-52's sang,
+
+The love shack is a little old place where we can get together
+
+The Love Shack was probably closed during the COVID lockdowns last year, like much else. With most Americans forced to stay home most of the time, they poured money into home improvement. One of the beneficiaries of that has been the Lovesac company (LOVE). They make couches called "sactionals" which feature customizable modular design and machine washable covers. They also sell premium beanbag-type chairs called "sacs".
+
+Lovesac Leading The Pack
+
+The lockdowns have been a boon for the home furniture in general, with Ethan Allen (ETH), Bassett Furniture (BSET), and Dorel Industries (DIIBF) all up triple digits over the past year, but Lovesack is up more than 10-fold since then, outpacing even Bitcoin.
+
+What Next For Lovesac
+
+Wall Street's sell-side analysts have been very bullish on the company.
+
+Chart via Seeking Alpha
+
+It's worth remembering though that sell-side firms are also in the business of selling stock, and if Lovesac is going to raise additional capital in the future, they would want to be part of that. And a company looking to do a secondary offering might be more likely to pick an investment bank that's been bullish on its stock.
+
+Our system estimates an 11% return for Lovesac over the next 6 months, so we're perhaps not as bullish as Wall Street on this stock. Our modest potential return estimate is based mainly on our gauges of options market sentiment on LOVE as of Friday's close. In the event we're still too bullish and LOVE ends up tanking over the next six months, let's look at how longs can add some downside protection here.
+
+Downside Protection For Lovesac
+
+We usually hedge against greater-than-20% declines in these examples for two reasons. It's a large enough decline that the cost of hedging against one greater than that usually isn't too high, and it's a small enough decline that it's not inconceivable your stock can eventually recover from it. It only takes a 25% rally to recover from a 20% decline, for example, while you'd need a 66.6% rally to recover from a 40% decline. So hedging against >20% declines often makes sense (assuming it fits your risk tolerance).
+
+Uncapped Upside – Unavailable
+
+In the case of Lovesac on Friday, it was too expensive to hedge against a >20% decline using optimal, or least-expensive put options over the next six months. If you tried to scan for them, you got this error message.
+
+This and subsequent screen captures are via the Portfolio Armor app.*
+
+Basically, the cost of protecting against a >20% decline in LOVE with puts would have cost more than 20% of position value, so it wouldn't have been optimal.
+
+Capped Upside, Negative Cost
+
+If you were willing to cap your possible upside at 18% over the same time frame, this was the optimal collar to hedge against a >20% decline in LOVE over the next six months.
+
+With this hedge, the net cost was negative, meaning you would have collected a net credit of $3,100, or 4.32% of position value, when opening it. That's assuming, to be conservative, that you placed both trades at the worst ends of their respective spreads, buying the puts at the ask and selling the calls at the bid. In practice, you can often buy and sell options at some price between the bid and ask.
+
+Might be worth considering in case the Lovesac deflates over the next several months.
+
+Benzinga's Related Links:

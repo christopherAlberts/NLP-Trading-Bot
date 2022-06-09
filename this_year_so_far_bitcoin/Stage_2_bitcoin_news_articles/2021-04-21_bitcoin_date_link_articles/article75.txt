@@ -1,0 +1,19 @@
+The IRS clarified queries surrounding taxation on the 2017 Bitcoin hard fork, which saw the creation and distribution of Bitcoin Cash (BCH).
+
+The United States Internal Revenue Service (IRS) published a memorandum on April 9 that clarified taxation guidelines around hard forks. It specifically refers to the Bitcoin and Bitcoin Cash hard fork that occurred in August 2017.
+
+When the fork occurred, bitcoin holders received an equivalent amount of bitcoin cash. However, as users received this at different times for various reasons, there was some confusion about when the asset would be taxed.
+
+The IRS states that taxation only occurs when an individual gains dominion and control over the asset — not according to when the fork occurred. For example, Coinbase users only got their share of BCH on January 1, 2018. At this time, it was trading at around $2,500. In August 2017, it was trading at $200.
+
+In other words, the IRS tax users based on what the price is when they receive control over the asset. For example, Coinbase users have higher charges because it was trading higher at the time.
+
+Taxation has been a problem for both industry insiders and governments. Entities in the space are happy to be taxed to comply with government regulation but are unsure of the guidelines. On the other hand, authorities are unsure how to implement a broad framework for such a nascent asset class.
+
+Authorities around the world issuing tax guidance
+
+Several governments around the globe are clarifying doubts from within the industry. South Korea was one of the first countries to release guidelines, but many others have followed suit. This includes the UK government, which has put some thought into taxing mining and staking as well.
+
+The IRS itself has been intermittently releasing information on crypto taxation. Most recently, in March, it revised its crypto tax rules as the season was approaching. It added several clarifications in an FAQ, including one relating to interest earnings.
+
+The IRS is also looking for the identities of Circle customers who had transacted more than $20,000. It made no allegations but was simply looking to ensure that everyone had complied.

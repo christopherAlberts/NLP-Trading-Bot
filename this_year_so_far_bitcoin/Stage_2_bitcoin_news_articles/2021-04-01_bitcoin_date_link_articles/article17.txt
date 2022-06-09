@@ -1,0 +1,13 @@
+Bitcoin's mining difficulty has posted a moderately large increase to set a new high after months of relatively slower growth.
+
+Data shows the network's mining difficulty adjusted to 23.14 Trillion on 2:00 UTC time Friday, constituting a 5.82% jump compared to the record on March 20. The latest adjustment is the biggest in percentage terms since January 9, which signals a more considerable amount of bitcoin mining hardware has recently hit the market and subsequently plugged in.
+
+Indeed, the 14-day average hash rate on the bitcoin network has increased from 156 exahashes second (EH/s) on March 20 to what is now 165 EH/s. This means all the miners securing the bitcoin network are doing on average 165 million trillion times of hashes per one second to calculate the right answer for mining a new block.
+
+The newly-added 9 EH/s of computing power over the past two weeks is equivalent to what roughly 90,000 units of the latest generation of bitcoin mining equipment, such as Bitmain's AntMiner S19 Pro, can deliver in total.
+
+The spot prices of the latest batch of mining hardware have hit as much as a five-fold premium compared to their preorder prices in November due to both an increased level of demand and an ongoing global chip shortage. Subsequently, a brand new unit of the AntMiner S19 can change hands for as much as $10,000.
+
+In February, The Block reported that existing miners might be enjoying the slow growth of bitcoin's mining difficulty, which significantly lagged behind bitcoin's surging prices because small amounts of hardware were delivered to the market.
+
+But industry players estimated at the time that the overall hash rate would see a sizable increase around Q2 as more of the preorders placed in late 2020 start to arrive.

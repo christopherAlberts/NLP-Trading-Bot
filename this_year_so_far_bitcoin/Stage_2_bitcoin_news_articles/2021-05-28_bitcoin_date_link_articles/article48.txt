@@ -1,0 +1,15 @@
+The U.S. Office of Foreign Assets Control wants a renewed subscription to Chainalysis blockchain surveillance tools for monitoring Bitcoin.
+
+The Office of Foreign Assets Control (OFAC), a financial intelligence and enforcement agency within the U.S. Treasury Department, has requested a second subscription to license, training and support packages from blockchain analysis firm Chainalysis, according to a public contract notice.
+
+“OFAC requires a commercial online blockchain tracing web-based application tool to equip investigators in its Office of Global Targeting (OGT) to analyze and track virtual currency transactions e.g. Bitcoin, in order to gather attribution information on involved parties that OGT may put on the [Specially Designated Nationals] List,” the notice reads. “This tool would specifically support cyber sanctions implementation undertaken by OFAC.”
+
+OFAC made a similar request on May 4, 2021. The Specially Designated Nationals (SDN) List includes parties that are sanctioned from conducting financial transactions by the U.S. due to money laundering or terrorist financing concerns.
+
+While Bitcoin can facilitate pseudonymous financial transactions, every transaction is recorded on a public and immutable digital ledger. This allows blockchain analysis firms such as Chainalysis to determine details about Bitcoin transactions, sometimes including the real-world identities behind them.
+
+There are some privacy layers that Bitcoin users employ to better obscure these transactions, such as coin mixing and CoinJoin. But it appears this latest subscription request is specifically targeting coin mixing services like Wasabi Wallet.
+
+“This license also includes Wasabi Demixing services at no additional cost to OFAC, and with no limits to the number of requests,” per the notice. “Chainalysis meets OFAC’s requirements by effectively providing the following capabilities: Address clustering; Transaction flow mapping and graphing; Wallet explorer; Analysis of user behavior, exchange rate, trade, and market data.”
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.

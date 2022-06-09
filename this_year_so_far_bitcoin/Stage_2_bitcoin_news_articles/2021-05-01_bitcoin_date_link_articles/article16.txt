@@ -1,0 +1,55 @@
+Ushered into existence by Google engineer Charlie Lee on October 13, 2011, Litecoin is the 10th largest cryptocurrency by market capitalization today.
+
+Litecoin coin is an "OG" crypto. Aside from Bitcoin, no other coin has stayed in the top ten longer. BTC and LTC have held places in the charts for 410 and 409 weeks, respectively (other top performers include XRP at 396 weeks and ETH at 291).
+
+It was created following a source code "fork" of the Bitcoin Core blockchain (a fork is when a blockchain diverges into two separate paths, creating two distinct coins). Litecoin’s biggest differences from Bitcoin include:
+
+Lower transaction fees A different hashing algorithm A decreased block generation time An increased maximum cap of coins
+
+Don’t be deterred! We'll get into the specifics of these differences below and also have a look at how these factors contributed to Litecoin's success as a more "spendable" cryptocurrency. You may have heard Bitcoin described as “digital gold,” and following that line of thinking, Litecoin could be considered “digital silver.” But the cryptocurrency’s history isn’t as spotless as you might think.
+
+In an April 26 interview with CNBC’s Worldwide Exchange, Lee discussed Litecoin, comparing and contrasting its attributes with those of Bitcoin. Although Lee is something of a polarizing entity in the cryptosphere, it’s worth hearing what he has to say about the cryptocurrency he invented. Let’s dive in.
+
+CRYPTO-SAVVY is an occasional series from Inverse that explains the world of cryptocurrency and where it’s going next.
+
+Litecoin vs. Bitcoin
+
+The value of Litecoin over the past two years CoinDesk
+
+One of the main differences between the two cryptocurrencies is transaction fees (1). Cryptocurrency miners choose to validate the transactions that pay the most. The current average transaction fee for Litecoin, at the time of writing, is just $0.04. With Bitcoin, that number is much higher, with its average transaction fee being $26.89.
+
+"The Bitcoin blockchain is congested," says Lee. "Everyone is competing to get their transactions into the next block, and the way they do that is by paying more fees."
+
+Another fundamental difference between Litecoin and Bitcoin is their mining algorithms (2). Litecoin employs Scrypt, one of the first hashing algorithms implemented on blockchain networks. Developers of Scrypt intended it to be an improvement on an even earlier hashing algorithm, SHA-256 (the one used by Bitcoin). Lee chose Scrypt for good reason, but we have to take a deeper look at cryptocurrency mining to understand why.
+
+The basics: mining can be performed using a central processing unit (CPU), graphics processing unit (GPU), or application-specific integrated circuit (ASIC) miners. ASIC miners have the advantage of being able to solve the complex data strings needed to mine (think "win") the block much quicker – generating considerably more hashes (think "tries") per second than CPUs or GPUs.
+
+Consequently, Bitcoin mining, using the more expensive and hard-to-find ASICs, is now a sort of arms race. On April 28, Core Scientific, the largest mining pool in North America, announced it had bought 112,800 Antminer mining machines from ASIC manufacturer Bitmain. Core Scientific's CEO says this most recent purchase could help his company increase its global share of Bitcoin’s hash rate from 5% to 12%. To be clear, this would mean one organization could plausibly be processing more than 1/10 of all the Bitcoin blocks and, in the opinion of many, this goes against a philosophy at the very core of cryptocurrencies: decentralization.
+
+This is where Litecoin’s hashing algorithm comes in: Lee went with Scrypt because the algorithm is less susceptible to ASIC mining. While over the years, Scrypt ASIC miners have become more prevalent, the majority of the mining on the Litecoin blockchain still uses CPUs and GPUs, making it much more accessible to the average person and less susceptible to “control” by aforementioned centralized mining pools.
+
+“Digital Gold” versus “Digital Silver”
+
+Shutterstock
+
+In his CNBC interview, Lee also explains why he calls Litecoin the "digital silver" to Bitcoin's "digital gold." As we know, throughout history, both gold and silver have been used as currencies, and because gold is worth so much more than silver, it's better suited for big-ticket items. Gold is the most marketable good when large values are traded (like buying a car), with silver being the most marketable good for smaller transactions (buying groceries).
+
+Arguably, this “spendability” is what Lee is referring to with this “digital silver” narrative. Because of the low transaction fees for Litecoin, the coin can be used more readily. Transactions on the Litecoin network also happen faster (3) than those on the Bitcoin network, on average every 2.5 minutes as opposed to 10 minutes for Bitcoin.
+
+But from a technical standpoint, it's not all good news. While the Litecoin network may be four times faster, there are also four times as many coins (4). As per Coin Market Cap, the current circulating supply of LTC is 66,752,415 (with the max supply being 84,000,000). Conversely, the circulating supply of BTC is 18,694,375 (with the max supply being 21,000,000).
+
+For Litecoin, this could be viewed as a negative attribute because part of the reason Bitcoin is so valuable is its scarcity, and this scarcity is why the top cryptocurrency by market cap is often touted as being the ultimate hedge against inflation.
+
+That said, things could be worse: there’s no limit or max supply cap on Ethereum's native cryptocurrency Ether or another recent favorite, Dogecoin. Instead, supply increases every year. While supporters of Ether might be quick to point out that there are proposed monetary policies in the works aimed at curbing inflation over time without relying on a supply cap, nothing concrete has materialized yet, as Ethereum’s monetary policy is in flux.
+
+“Why do people hate LTC?”
+
+As touched on briefly in the introduction, a contributing factor to the anti-Litecoin sentiment surrounds its founder Lee, who sold all of his LTC holdings in December 2017 when the coin was nearing its all-time high of $310. It is for this reason some people accuse him of pumping and dumping his holdings for his own personal benefit.
+
+Another perspective, according to Ilir Gashi in their Medium piece “Defeating the FUD: Charlie Lee selling his Litecoin due to Conflict of Interest,” is that Lee “sold his Litecoins due to a growing perceived conflict of interest.” Gashi’s article goes on to provide specific reasons that help “clarify why Lee selling was the best thing for Litecoin moving forward, to remain decentralized.”
+
+This explanation makes sense. Distancing oneself from a project to alleviate concerns of conflict of interest is sometimes par for the course in business, and seems like a pretty legitimate reason for Lee’s sale.
+
+A quick Google search reveals a Reddit thread titled “Why do people hate LTC?" The thread helps shed some more light on where this anti-Litecoin sentiment comes from. As per contributors, this perspective stems primarily from so-called “Bitcoin Maximalists” – BTC supporters who believe the Bitcoin network provides any and everything that investors want or need in a digital currency. Some of them see Litecoin as just a copy/paste version of the world's leading crypto.
+
+Perhaps at first glance, there's some truth to that. But in reality, when one dives a little deeper (and as I think I have shown in this piece) there are several significant differences, use cases, and applications for both coins. Don’t @ me!

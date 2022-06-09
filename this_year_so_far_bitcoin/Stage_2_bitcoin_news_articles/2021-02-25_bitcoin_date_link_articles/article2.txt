@@ -1,0 +1,81 @@
+What happens if bitcoin succeeds?
+
+Jon Danielsson
+
+As the price of bitcoin continues to rise, this column argues that most of us would not want to live in a society where bitcoin succeeds. Fortunately, the internal contradictions and perverse consequences of cryptocurrencies' success mean that they are destined for failure. Until then, it might make sense for speculators to ride the cryptocurrency bubble, so long as they get out in time.
+
+Editor's note: This column supersedes a blog by the author published on VoxEU in 2018.
+
+In a week when bitcoin is setting records with a market value exceeding a trillion dollars, what would it mean if cryptocurrencies succeed?
+
+The only reason all the bitcoins are worth a trillion dollars is the expectation of success, as they are not very useful today. Cryptocurrencies must provide some valuable service if they are to justify their high valuation, otherwise holding bitcoin is just like collecting stamps or beanie babies – a minority activity that does not justify the current $51,000 price.
+
+But what is the valuable service that makes bitcoin successful?
+
+To the vast majority of bitcoin investors, success means its price continues to rise. But if that is all there is to it, someday a little boy will yell, "the Emperor has no clothes", and the price will come crashing down.
+
+The bitcoin enthusiasts are quite vague on what success means beyond rising prices, they seem more fond of arguments wrapped in mysticism than basic economic logic. The most important criterion for success is that cryptocurrencies end up being used in commercial transactions, like Tesla accepting bitcoin today. All the other value propositions, like their use in payment systems (Fatás and Weder di Mauro 2018) or their safe-haven role (Cheema et al. 2020), flow from that. If cryptocurrencies cannot be directly exchanged for real goods, they will not be very successful.
+
+In other words, the value proposition for bitcoin is that it will displace fiat money – the dollar, euro, renminbi and all the others – either fully or partially. As I argue below, I think it is inevitable that it will be ‘either, or’ – either full displacement or no displacement, complete success or failure. And as I said here on Vox three years ago (Danielsson 2018), I don't think cryptocurrencies make sense.
+
+So how do bitcoins compare to fiat?
+
+The US dollar is a debt obligation of the US government. The value of the US dollar for the holder of that dollar is the real goods the dollar buys.
+
+In spite of bitcoin containing the word “coin” and cryptocurrencies the word "currency", they are not money in any conventional sense. Just try to explain bitcoin to a typical person, and it becomes immediately clear that cryptocurrencies are not money in the way most people, as well as professional economists, think about money.
+
+The task of comparing bitcoin with money is further made complicated by the fact that there is no single definition of money. Should bitcoin be compared to central bank paper money and reserves, M0, or on-demand money, M1, or something else? And then will bitcoin have the same velocity as the money we use today?
+
+By a first approximation, suppose we use on-demand money, M1, for the fiat-bitcoin comparison and further assume they will have the same velocity. The amount of M1 money in the G20 countries is $31 trillion, which means, of course, that that M1 money can buy $31 trillion worth of goods. If the price of bitcoin goes to $550,000, the holders of bitcoin can buy $10 trillion worth of goods.
+
+If bitcoin ends up equalling the purchasing power of M1 money, the price of a single bitcoin will be $1.5 million. These are very rough approximations, but a full displacement of fiat money would mean the price of a bitcoin would be somewhere in the neighbourhood of a million and a half dollars. Whether it is a million or two million is immaterial for the discussion below, but I think success means the price of bitcoin will be quite a bit higher than that.
+
+That leaves us with two interesting questions. What happens to the holders of bitcoin? And what happens to everybody else?
+
+To begin with, the current owners of bitcoin will become the wealthiest people in the world, rivalling the kings and emperors that ruled over empires in centuries past. They literally will own all the money. They can buy anything they want. There aren't that many of them. Compared to the multitudes that own assets today via all the pension funds and mutual funds and the rest, it is a tiny group of people.
+
+So, a sharp increase in inequality is an inevitable consequence of bitcoin success. And unlike the richest people of today – the Jeff Bezoses and Elon Musks, whose wealth comes from creating companies that benefit most of us – the bitcoin aristocrats will get their rank just by buying early. They will make no contribution to society.
+
+When the bitcoin aristocrats start spending their trillions, what does that mean for the rest of us?
+
+We do know that such extreme levels of inequality fuel social division and populism. The bitcoin aristocrats will come under increasing threat, and the government will have to respond. It will protect or attack; it can't be neutral. Either way, political and social instabilities get worse.
+
+If then the bitcoin investors respond that everybody should buy bitcoin, all that accomplishes is to bid the price up even more, making existing bitcoin investors even more wealthy.
+
+What about the rest of us who don't own bitcoin?
+
+As bitcoin starts displacing fiat money more and more, it will change society in profound ways. Some will benefit. Those who own assets and services they can sell to the bitcoin aristocrats will prosper. Someone has to build their houses and clean their toilets, educate their children and cook their food. Someone has to defend them from the rest of society.
+
+But that is also a small minority.
+
+Those whose material wellbeing depends on fiat will suffer the worst, like pensioners. Because, as bitcoin continues to gain in dominance, the less we want to hold fiat. We will all want to be paid in bitcoin and hold our savings in bitcoin. As in any market, the amount of goods and services that can be acquired by fiat money will inevitably fall, further hurting those whose lives depend on it.1
+
+The bitcoin enthusiasts will, of course, respond by saying they should also buy bitcoin.
+
+But the perverse consequence of this is that as bitcoin continues its ascendance, the less fiat will be worth.
+
+This is why I think coexistence between bitcoin and fiat would be an unstable equilibrium. If bitcoin becomes successful, then we will want to use it more and more. That makes it even more successful so that we disregard fiat even more. In the end, fiat will be fully displaced, as the success of bitcoin becomes a self-fulfilling prophecy (Aizenman 2019, Auer and Claessens 2018).
+
+There is, however, a contradiction in this scenario. If bitcoin becomes the money we use in our daily lives, it must also become a unit of account. The current volatility of bitcoin precludes it from becoming such a unit of account because which shopkeeper wants to change their prices every time bitcoin goes up or down in value, and who wants high volatility in the purchasing power of their salary or savings?
+
+And that contradiction may be the reason why bitcoin cannot become successful. Success means it is used in transactions, but that requires bitcoin becoming a unit of account, and for that to happen, the purchasing power of a bitcoin must stabilise.
+
+Fortunately, the more successful bitcoin becomes, the more visible the perverse consequences and the internal contradictions become, so that bitcoin and other cryptocurrencies will be discarded long before we get to that point. At which time, the price of bitcoin will head to zero.
+
+Bitcoin is a bubble. It makes sense to ride the bubble as long as possible – just get out in time. Watch out for a little boy yelling “the Emperor has no clothes.”
+
+References
+
+Aizenman, J (2019), “On the built-in instability of cryptocurrencies”, VoxEU.org, 12 February.
+
+Auer, R, S Claessens (2018), “Regulating cryptocurrencies: Assessing market reactions”, 9 October.
+
+Cheema, M, R Faff and K Szulczyk (2020), “The influence of the COVID-19 pandemic on safe haven assets", VoxEU.org, 25 July.
+
+Danielsson, J (2018), “Cryptocurrencies don't make sense”, VoxEu.org, 13 February.
+
+Fatás, A and B Weder di Mauro (2018), “Making (some) sense of cryptocurrencies: When payments systems redefine money”, VoxEU.org, 7 May.
+
+Endnotes
+
+1 Listen to the interview with Neil Gandal on Vox at https://voxeu.org/vox-talks/microeconomics-cryptocurrencies.

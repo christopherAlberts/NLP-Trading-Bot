@@ -1,0 +1,45 @@
+At Tuesday's prices, Bitcoin (CRYPTO:BTC) is up more than 700% in the past year, and 13,500% in the past five years. Those are life-changing returns -- and some analysts still see big gains on the horizon.
+
+For instance, investment bank JPMorgan Chase said Bitcoin's price could hit $146,000, a massive increase from today's prices around $58,000. More recently, Ark Invest CEO Cathie Wood explained how its price could climb to over $400,000. In other words, there's still time for investors to cash in on cryptocurrency.
+
+Here are three reasons Bitcoin could double your money (and more).
+
+1. Bitcoin is powered by blockchain
+
+Blockchain is the ingenious recordkeeping system behind decentralized cryptocurrencies like Bitcoin. To understand why that matters, it's necessary to know how mining works.
+
+As Bitcoin transactions occur, they are grouped into blocks. These blocks are secured by cryptography (i.e. complex math problems) -- specifically, all data within a block is run through a cryptographic hash function, which generates a unique signature for that block. Notably, each block's signature is added to the subsequent block, allowing them to be linked in chronological order.
+
+Miners use expensive hardware to solve these complex math problems. Once they find a solution, it is verified by all other nodes (computers) on the network, and then the validated block is added to the blockchain.
+
+This process is important for two reasons: First, when miners successfully solve the cryptographic puzzles, they are awarded Bitcoin as compensation -- and this is the only way Bitcoin can be created. Second, by validating blocks and adding them to the blockchain, miners create a ledger of all past transactions.
+
+In other words, Bitcoin does not need to be (and cannot be) controlled by any central authority. There is no need for a central bank to issue new currency or keep records, because the network takes care of both by itself. This system is not only efficient, it's also very secure.
+
+If anyone attempted to alter information within an existing block (i.e. fabricate new Bitcoin), it would alter the output of the cryptographic hash function, changing the block's signature. That means the new signature would no longer match the signature incorporated into the subsequent block.
+
+As a result, the network would recognize the fraudulent change and reject it, reverting to its original state. In fact, in order to successfully hack the Bitcoin blockchain, an individual would need to control at least 51% of all computing power on the network. That's virtually impossible.
+
+So here's the takeaway: Blockchain is a highly secure and self-governing database, both valuable qualities in a financial system.
+
+2. Bitcoin benefits from scarcity
+
+The supply of Bitcoin is limited to 21 million tokens. That's because every 210,000 blocks, the mining reward is cut in half. Currently, miners receive 6.25 Bitcoin for adding a block to the blockchain, but eventually that figure will drop to zero. After that, miners will only earn transaction fees.
+
+The idea of scarcity may sound trivial, but it's actually critical to Bitcoin's long-term value. According to economic theory, supply and price are inversely related. So if supply rises to infinity, the price should fall to zero -- that's the problem with cryptocurrencies that have no supply limits. But if supply is held constant, the price will rise as demand increases, or fall as demand drops.
+
+As a practical example, assets like gold have value because they exist in limited supply. Bitcoin has been called digital gold because it benefits from the same economic principles.
+
+3. Bitcoin is the most popular cryptocurrency
+
+Bitcoin was the first digital currency, and it remains the most popular. In fact, the combined value of all Bitcoin in circulation is now roughly $1.1 trillion -- more than four times that of second-place Ether. More to the point, its real-world utility is improving.
+
+Fintechs like Square and PayPal now allow consumers to trade Bitcoin, and PayPal recently launched Checkout with Crypto, making it possible to fund purchases with Bitcoin. Likewise, Mastercard and Visa have launched crypto payment cards, which serve a similar purpose.
+
+These products make one thing clear: Cryptocurrency is gaining popularity. And Bitcoin -- the first and largest cryptocurrency -- has an advantage over the rest. Going forward, as more payment processors and merchants accept digital currencies, Bitcoin is virtually guaranteed to be their first choice, which should perpetuate its popularity and drive demand.
+
+A final word
+
+Investors should remember Bitcoin is a highly volatile asset. In fact, it has lost over half its value several times over the last decade. For instance, between December 2017 and December 2018, the price of a token fell more than 80% -- and it's possible (perhaps even likely) that a similar event will occur again.
+
+However, for investors who can tolerate that type of risk and volatility, Bitcoin could be a rewarding long-term investment.

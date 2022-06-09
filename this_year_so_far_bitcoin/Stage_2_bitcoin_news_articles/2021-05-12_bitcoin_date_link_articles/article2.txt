@@ -1,0 +1,23 @@
+Bitcoin (BTC) adoption continues to grow even as the largest cryptocurrency loses market share to several altcoins, according to a report Tuesday by crypto research firm Coin Metrics.
+
+Bitcoin dominance, the ratio of cryptocurrency’s value to the overall market cap of digital assets, is at the lowest level since April 2018. The declining dominance ratio suggests traders are rotating into altcoins such as ether (ETH), which is up about 20% over the past week versus a loss of 3% in BTC during the same period.
+
+But not all is lost for bitcoin.
+
+Although retail investors have been pouring into DOGE “and other small-cap crypto assets, BTC adoption has still been growing,” wrote Coin Metrics.
+
+“The number of addresses holding relatively small amounts, between 0.01 and 1 BTC, has grown by 710,000 since the start of the year with a big surge in April.”
+
+For context, in 2020 addresses holding small amounts of BTC increased by 610,000, according to Coin Metrics.
+
+Additionally, the dollar value of total units on the Bitcoin blockchain transferred on a given day surged in April to an all-time high, indicating greater network activity.
+
+“Despite the relatively muted price action, the Bitcoin ecosystem has continued to expand in the background.”
+
+Chart shows the rise in addresses with 0.01 to 1 BTC over time. Source: Coin Metrics
+
+It’s possible that long-term holders are building conviction as bitcoin adoption grows.
+
+The monthly net position change in long-term holders turned positive in April, which suggests profit taking from January is starting to slow, according to data from Glassnode.
+
+Chart shows net position change of long-term BTC holders turning positive as of April 2021 after profit taking from January depth. Source: Glassnode

@@ -1,0 +1,101 @@
+Most cryptocurrencies are down Monday, prompting a flurry of activity in the options markets as traders reposition themselves amid increased volatility.
+
+Bitcoin (BTC) trading around $44,211 as of 21:00 UTC (4 p.m. ET). Losing 2.8% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $42,269-$46,462 (CoinDesk 20)
+
+Ether (ETH) trading around $3,376 as of 21:00 UTC (4 p.m. ET). In the red 1% over the previous 24 hours.
+
+Ether’s 24-hour range: $3,142-$3,587 (CoinDesk 20)
+
+Bitcoin dumps, rest of crypto follows
+
+Bitcoin’s hourly price chart on Bitstamp since May 14. Source: TradingView
+
+Bitcoin, the largest cryptocurrency by market capitalization, was down Monday 2.8% as of press time and going as low as $42,269 around 17:15 UTC (1:15 p.m. ET). BTC was above the 10-hour moving average and below the 50-day, a sideways signal for market technicians.
+
+“Over the last three months bitcoin has been consolidating around $50,000 within a volatile and wide $45,000 to $60,000 range,” said Jean-Marc Bonnefous, managing partner of investment firm Tellurian Capital. “We are still in a supportive trend generally but a lot of participants are already long bitcoin, so you need more and more bullish news to break this range and the all-time highs.”
+
+BTC volatility is indeed up, according to CoinDesk Research data. As of Sunday, the most recent day for closing data, bitcoin’s 30-day volatility was over 77%, the highest since March 24.
+
+Bitcoin’s 30-day volatility since January 1, 2021. Source: CoinDesk Research
+
+Greg Magadini, CEO of data aggregator Genesis Volatility, also tracks the gyrations in the crypto market by utilizing data from bellwether derivatives exchange Deribit. Late Sunday, the DVOL almost hit 160, by far the highest level of variability over the past month, according to Genesis’ charting.
+
+“We saw the highest print recorded on Deribit’s ‘DVOL’ index,” noted Magadini.
+
+Bitcoin’s DVOL Index, a measure of volatility for derivatives traders. Source: Genesis Volatility
+
+“Elon Musk’s Twitter activity and BTC’s subsequent drop lower proved the bitcoin options market correct,” added Magadini. “Now BTC option markets are very expensive as traders are panic-buying put options.”
+
+Current-day options flow for BTC, according to Skew, are substantiating Magadini’s case. Over 60% of options action were in puts, which is the right but not the obligation to sell an asset before a specified expiration date.
+
+Selling When Tesla Hasn’t
+
+Bitcoin options flows for Monday. Source: Skew
+
+Puts could possibly prove lucrative for BTC options traders, but analysts continue to be concerned about the whims of Musk, CEO of electric car manufacturer Tesla and an increasingly influential cryptocurrency tweeter.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+“Tesla’s recent decision to stop accepting bitcoin for car purchases, and remarks on its environmental impact, seem to have had an impact on bitcoin’s price,” said Alessandro Andreotti, an over-the-counter crypto trader.
+
+Even CNBC’s Jim Cramer has weighed in on Tesla CEO Elon Musk’s grip on the cryptocurrency market, concerned the entrepreneur’s tweets seem to be a catalyst for dumps as well as bullish runs.
+
+This selling comes despite Musk making it clear via Twitter (of course) Sunday that Tesla has not sold any of its bitcoin holdings, reportedly worth more than $1 billion.
+
+“BTC still remains king in the cryptomarket,” added Andreotti. “And when it goes down, [altcoins] inevitably follow suit. Everything is just following bitcoin, in my opinion.”
+
+Welcome to the new BTC range: the $40Ks
+
+Bitcoin’s historical price in 2021. Source: CoinDesk 20
+
+Bitcoin was trading around $38,000 on Feb. 7, when Musk first tweeted about crypto regarding dog-friendly meme asset dogecoin (DOGE). BTC then went as high as $64,829 (a record) on April 15 but is now back to February levels, according to CoinDesk 20 data.
+
+So where does bitcoin’s price go from here?
+
+“Indicators show that most likely BTC will stay in the range between $42,000 to $47,000,” noted investor and technical analyst Constantin Kogan.
+
+“The bitcoin price seems to be driven randomly by the latest anecdotal tweet or rumor,” said Tellurian Capital’s Bonnefous. “On the other hand, ether is still under-invested and has a stronger outlook and resilience in the shorter term.”
+
+ETH price follows bitcoin; call options still favored
+
+Ether’s hourly price chart on Bitstamp since May 14. Source: TradingView
+
+The second-largest cryptocurrency by market capitalization, ether (ETH), was trading around $3,376 as of 21:00 UTC (4:00 p.m. ET), down 1% over the prior 24 hours. ETH went as low as $3,142 around 17:15 UTC (1:15 p.m. ET). The asset is above the 10-hour moving average but below the 50-day, a sideways signal for market technicians.
+
+Analysts have been mostly focused on BTC Monday because of the drop in the signature blockchain asset, and most of the rest of the crypto ecosystem seems to be following that trend. However, Genesis Volatility’s Magadini says the derivatives markets between BTC and ETH are behaving quite differently.
+
+“Something we’ve written about in our newsletter for the past couple of weeks is regarding the divergence between ETH and BTC option skew,” Magadini said. “BTC had been relatively bearish in skew despite prices climbing slightly higher while ETH had a screaming bullish skew.”
+
+ETH options are still trending bullish: While over 60% of bitcoin options are puts, 55% of ether options are calls, based on Monday’s option market flows. Calls are the right but not the obligation to buy an asset before a specific expiration date – and can be used by traders to bet on upside.
+
+Ether option flows for Monday.
+
+The ETH/BTC trading pair, offered on most spot crypto exchanges, reflects the strength of one asset over the other. When the pair is up, it shows traders are selling BTC for ether. When the pair is down, investors are dumping ETH for bitcoin. While the pair did hit as high as 0.082 BTC on May 15, it’s now in a downtrend since that zenith.
+
+The ETH/BTC pair on Coinbase in 2021. Source: TradingView
+
+“ETH had seen strong performance relative to bitcoin,” said Jason Lau, chief operating officer of San Francisco-based exchange OKCoin. “ETH/BTC was up to 0.08 BTC, a level not seen since Jun 2018.”
+
+ETH/BTC is down almost 1% on Coinbase Monday.
+
+Other markets
+
+Digital assets on the CoinDesk 20 are mixed Monday. Notable winners as of 21:00 UTC (4:00 p.m. ET):
+
+Notable losers:
+
+Equities:
+
+Commodities:
+
+Oil was up 1.3%. Price per barrel of West Texas Intermediate crude: $66.33.
+
+Gold was in the green 1.3% and at $1,865 as of press time.
+
+Silver is gaining, up 2.8% and changing hands at $28.18.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield climbed Monday to 1.647 and in the green 1%.

@@ -1,0 +1,31 @@
+Graphic: Yahoo!
+
+In the life of every cryptocurrency investor, there inevitably comes a time when they watch a significant amount of their money disappear in the span of a few hours or days. Often the wait is not long — crypto crashes are so common there’s even a word for what steadfast believers, steeling themselves, try to do in the face of their inevitable feelings of panic: HODL (the term comes from a typo for “hold”).
+
+And so it was this week, when bitcoin collapsed from a high close to $65,000 last month to $30,000 shortly after 9 a.m. Wednesday morning — having dropped nearly 30 percent from the previous day — dragging the rest of the crypto market down with it. On Coinbase, the largest U.S. crypto exchange, every single one of the dozens of digital assets available to trade was down an average of more than 20 percent — except for two cryptocurrencies pegged to the U.S. dollar, which rose just slightly to $1. It’s the kind of carnage that made the crypto markets look like the stock-exchange ticker on Black Monday.
+
+It was hard to pinpoint exactly what caused the sell-off. Some blamed Elon Musk, who had turned the market bearish last week when he said Tesla would stop accepting bitcoin as payment, while others attributed it to China’s newly expanded ban on cryptocurrency banking. Still others figured cryptocurrency was just being swept into the plunge in tech stocks as investors tried to dump risky investments amid worries that inflation will soon make a comeback.
+
+Of course, the crash also came at a time when there were more first-time cryptocurrency investors — from financial institutions and companies that have loaded up on bitcoin to dogecoin buyers — for whom this may have been their first experience with a major dip. Though the crash at the end of 2017 led to a bear market that lasted years (what some in the industry refer to as “crypto winter”), earlier investors remember the mid-2017 drawdown of 25 percent in a single day; the price then stalled around the same level for about six weeks before taking off on an epic bull run. Wednesday’s collapse in crypto prices had many asking: Is this the start of another bear winter for bitcoin, or just a blip of a scare before the next all-time high?
+
+Chris Burniske, a founder and partner of Placeholder, a VC firm that invests directly in digital assets including nitcoin and ethereum, and the former crypto lead at ARK Investment Management, says the angst reminded him of a parable about an earthquake witnessed both by elders and kids who’d never experienced one before. “The little kids were freaking out that ‘the world is about to end; what’s going on?,’” Burniske says. “And the elders are like ‘No, no, it’s an earthquake. It happens now and again.’
+
+“For the veterans in the space, this is an earthquake. It’s a pretty bad earthquake, but we’ll survive. You don’t think it’s the time to sell. It’s the time to HODL.”
+
+Burniske believes that we’re in the “mid-cycle” phase of a larger uptrend for crypto — not at the bottom or in a true bear market, nor at the top. “And this will be one of those days that people reflect on from the cycle, ‘Remember May 19? That was crazy.’ It will harden the veterans, it will spook some people forever, but the quality projects will make it through.” Those survivors will include bitcoin and ethereum, among others, he thinks.
+
+Still, it’s hard to predict whether bitcoin goes up or down from here, at least in the coming days and weeks. Because bitcoin produces no revenue and has no underlying business model, it’s pointless to apply traditional Wall Street methods to come up with a value for what it should be worth.
+
+Rather, the best investors often rely on price analysis, looking at how investor behavior influences the market trajectory to predict where bitcoin is going next. JC Parets, who specializes in such analysis and distributes his research at his firm All Star Charts, has been applying the Fibonacci sequence — the additive pattern that dictates natural proportions in everything from seashells to spiral staircases — to correctly forecast the direction of bitcoin for years.
+
+Earlier this year, after bitcoin passed $30,000, Parets predicted that it was headed for $45,000, a level it hit less than a month later. Parets’s analysis showed that the next target bitcoin was headed for was $70,000 — unless it dropped back below $45,000, in which case it was likely to fall back to $30,000. After dipping under $45,000 on Sunday, bitcoin hit $30,000 Wednesday morning.
+
+“If $30,000 breaks, the next level is $20,000,” Parets says.
+
+So far, though, Bitcoin is acting like $30,000 was a floor — it quickly bounced back from that price and is currently trading around $40,000. It’s like investors collectively decided $30,000 was low enough that they’d be willing to buy in at that price, and many likely did, perhaps even setting automatic orders to purchase Bitcoin when it crossed that threshold.
+
+“It was a logical place to bounce,” says Parets. “The market is symmetrical. And fractal. Humans are the irrational ones. We crazy humans run the show.”
+
+Besides watching for which side of $30,000 bitcoin stays on, Burniske says he’s paying close attention to whether bitcoin is above or below its 200-day moving average, which is currently around $39,800. By Thursday midday, bitcoin was trading at almost exactly that level and the short-term prognosis for the cryptocurrency looked uncertain; heading back to $30,000 seemed possible before another upswing.
+
+“There’s a chance people want to retest that bottom,” Burniske says. Look out below.

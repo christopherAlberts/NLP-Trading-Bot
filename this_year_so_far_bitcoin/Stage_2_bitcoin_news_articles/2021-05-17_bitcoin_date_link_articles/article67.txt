@@ -1,0 +1,29 @@
+Ethereum's Q1 Stats Report Highlights Blockchain's 'Ultra Sound' Financial Growth in 2021
+
+During the first three months of 2021, the cryptocurrency ethereum has shined as 90-day statistics highlight the digital asset has climbed close to 80% in value. On Monday, former Ark Invest analyst James Wang published a detailed summary highlighting the Ethereum project’s first-quarter financial results. Wang’s comprehensive Ethereum analysis showcases a myriad of data points that accentuate the blockchain’s 2021 achievements.
+
+Analyst Publishes Ethereum Stats for the Blockchain’s Q1 Financial Results
+
+Ethereum has been a force to be reckoned with this year and during the last few weeks, the crypto asset has been siphoning away BTC’s market dominance. There are many reasons ETH has been moving up the ranks and organizations like Fundstrat Global Advisors believe ether can reach $10k per unit. The crypto asset proponent and investor, Spencer Noon, has tweeted his reasons as to why he thinks ETH can make it to the five-digit territory. Market performance is one thing, but the Ethereum blockchain has done far more than gather higher market percentages.
+
+On May 17, 2021, the former Ark Invest analyst, James Wang, published a report called “Ethereum Announces First Quarter 2021 Results” on substack.com. The document highlights the blockchain’s financial results during Q1 2021 and ended on March 31, 2021. Wang’s report shows that Ethereum’s network revenue or the total accumulation of transaction fees jumped 200x to $1.7 billion in Q1. This metric is a stark contrast between the $8 million in network revenue collected in Q1 2020. Transaction volume Wang said, “increased 20x to $713 billion in Q1 2021, compared with $33 billion in Q1 2020.”
+
+Additionally, the blockchain’s daily active addresses have increased 71% to around 607,000 as there were only 364,000 in Q1 2020. As far as staking is concerned, a scheme that was invoked in December 2020, more than 3.6 million ETH worth over $11 billion is being staked today. Wang’s report further notes that Q1 2021 decentralized finance (defi) data has seen total value locked (TVL) increase 64x to $52 billion in comparison to Q1 2020 stats. Since then, the aggregated total of defi has increased by another $20 billion.
+
+A recent report published by Glassnode called “Defi Uncovered: The State of Defi,” also highlights the massive growth defi has seen this year. In eight months, defi has “attracted in excess of $100B into smart contracts,” Glassnode detailed on May 12.
+
+Ethereum’s Decentralized Exchange Volumes, Stablecoins, Wrapped Bitcoin Products
+
+The former Ark Invest analyst’s Ethereum study also discusses decentralized exchange (dex) trading volume and how this metric has increased a great deal. Data from Dune Analytics shows Ethereum-based dex volume has been massive in May. Dex metrics show between 16 dex platforms, there’s been over $6 billion in global trade volume. The last seven days have seen more than $35 billion traded on dex platforms like Uniswap, Sushiswap, 0x Native, Curve, and Balancer. As far as wrapped bitcoin tokens and stablecoins, Ethereum has seen large increases in those areas as well, Wang’s report highlights.
+
+“Stablecoin volume increased 100% to $40 billion in Q1 2021, compared with $20 billion in Q1 2020,” the researcher says. “Wrapped BTC volume increased 95x to 170k BTC in Q1 2021, compared with 1.8k BTC in Q1 2020. Approximately 1% of bitcoin supply is wrapped as ERC-20 tokens and traded on top of Ethereum,” Wang’s report adds.
+
+The Q1 study also covers subjects like the four Canadian ETH exchange-traded funds, Meitu purchasing ETH for its balance sheet, and the network’s “dual pronged approach to scaling network.” Wang also grazes over the EIP1559 improvement set to be deployed in the near future. “2021 is perhaps the most important year in Ethereum’s history,” the report notes. “The two key themes for 2021 are economic security and scalability.”
+
+“People are realizing that Ethereum isn’t just money, it’s ultra-sound money,” Justin Drake, a researcher at the Ethereum Foundation explains in Wang’s analysis. “While other cryptocurrencies may boast of having a supply ceiling, Ethereum will soon have no supply floor.”
+
+What do you think about Ethereum’s Q1 performance and Wang’s comprehensive look at the blockchain’s reported financial results? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, James Wang's report, Glassnode defi report, Twitter,
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

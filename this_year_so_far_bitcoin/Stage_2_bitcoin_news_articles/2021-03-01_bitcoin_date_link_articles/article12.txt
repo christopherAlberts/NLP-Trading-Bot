@@ -1,0 +1,29 @@
+Tether has revealed a ransomware demand in which threat actors are allegedly demanding 500 Bitcoin ($24 million).
+
+Over the weekend, the blockchain and cryptocurrency organization said on Twitter that a demand for payment had been made, on pain of documents being leaked online that would "harm the Bitcoin ecosystem."
+
+The wallet address associated with the demand, at the time of writing, has $72 in BTC stored.
+
+Tether said that the payment deadline is March 1, but added, "We are not paying."
+
+"It is unclear whether this is a basic extortion scheme like those directed at other crypto companies or people looking to undermine Tether and the crypto community as a whole," Tether says. "Either way, those seeking to harm Tether are getting increasingly desperate."
+
+The company also used the same thread to claim that documents circling online, allegedly showing dubious communication between employees of Tether, Deltec Bank & Trust, and other parties, are "forged".
+
+The unverified email screenshots appear to relate to Bahamas-based Deltec, which has a banking relationship with Tether, and a discussion over asset backing. Tether says the documents are "bogus."
+
+In a separate tweet, Tether and Bitfinex CTO Paolo Ardoino said the main goal of these alleged leaks "is to discredit #bitcoin and all #crypto."
+
+"While we believe this is a pretty sad attempt at a shakedown, we take it seriously," Tether commented. "We have reported the forged communications and the associated ransom demand to law enforcement. As always, we will fully support law enforcement in an investigation of this extortion scheme."
+
+Update 14.37 GMT: Tether told ZDNet that the company does not know the identity of the individual making the ransom demand and is "not in a position" to provide a copy of the ransom note "at this time."
+
+In other Tether news, the organization has reached an $18.5 million settlement with the New York Attorney General's Office to settle a case in which both Tether and Bitfinex were accused of covering up an $850 million loss.
+
+Letitia James, NY attorney-general, accused the firms of "recklessly and unlawfully covered up massive financial losses to keep their scheme going and protect their bottom lines," adding that "Tether's claims that its virtual currency was fully backed by US dollars at all times was a lie."
+
+Tether admitted no wrongdoing but has agreed to settle, a gesture the firm says "should be viewed as a measure of our desire to put this matter behind us and focus on our business."
+
+Previous and related coverage
+
+Have a tip? Get in touch securely via WhatsApp | Signal at +447713 025 499, or over at Keybase: charlie0

@@ -1,0 +1,67 @@
+LAS VEGAS, May 03, 2021 (GLOBE NEWSWIRE) -- Marathon Digital Holdings, Inc. (NASDAQ:MARA) ("Marathon" or "Company"), one of the largest enterprise Bitcoin self-mining companies in North America, today published unaudited bitcoin (“BTC”) production and miner installation updates for April 2021.
+
+
+
+Corporate Highlights as of May 1, 2021
+
+Produced 162.1 new minted bitcoins during April 2021, increasing total bitcoin holdings to approximately 5,292 with a fair market value of approximately $305.2 million
+
+Cash on hand was approximately $204.4 million and total liquidity, defined as cash and bitcoin holdings, was approximately $509.6 million
+
+Received approximately 13,032 S-19 Pro ASIC miners from Bitmain year to date with an additional 3,885 S-19 Pro ASIC miners currently in transit
+
+Increased active mining fleet to approximately 12,084 miners, generating approximately 1.29 EH/s
+
+Bitcoin Production Update
+
+As of May 1, 2021, Marathon’s mining fleet has produced approximately 354 newly minted bitcoins during 2021. By month, the Company’s bitcoin production was as follows:
+
+January 2021: 50.4 BTC
+
+February 2021: 43.4 BTC
+
+March 2021: 97.9 BTC
+
+April 2021: 162.1 BTC
+
+As a result, Marathon currently holds approximately 5,292 BTC, including the 4,812.66 BTC the Company purchased in January 2021 for an average price of $31,168 per BTC. On May 1, 2021, the fair market value of one bitcoin was approximately $57,678, implying that the approximate fair market value of Marathon’s current bitcoin holdings is approximately $305.2 million.
+
+Miner Installations and Hash Rate Growth
+
+As of May 1, 2021, Bitmain has delivered approximately 13,032 S-19 Pro ASIC miners to the Company’s mining facility in Hardin, MT, all of which were delivered on time and as scheduled. During the month of April, Marathon installed 5,288 new miners, increasing the Company’s active mining fleet to approximately 12,084 miners, generating approximately 1.29 EH/s.
+
+New miners continue to be installed on a daily basis. Based on current delivery and installation schedules, Marathon continues to expect all previously purchased miners to be fully installed by the end of the first quarter of 2022, at which point, the Company’s mining fleet will consist of approximately 103,120 miners, generating approximately 10.37 EH/s.
+
+Management Commentary
+
+“April was an incredibly productive month as we brought 5,288 new miners online and increased our active mining fleet’s hashrate approximately 82% in just 30 days,” said Fred Thiel, Marathon’s CEO. “As a result, by the end of April, we were producing nearly 7 bitcoins per day, up from 3.2 bitcoins per day at the end of March. New miners continue to be delivered and installed on a daily basis, and as they come online, these production figures will continue to improve as our business scales into one of the largest enterprise Bitcoin mining operations in North America.”
+
+Investor Notice
+
+Investing in our securities involves a high degree of risk. Before making an investment decision, you should carefully consider the risks, uncertainties and forward-looking statements described under "Risk Factors" in Item 1A of our most recent Annual Report on Form 10-K for the fiscal year ended December 31, 2020. If any of these risks were to occur, our business, financial condition or results of operations would likely suffer. In that event, the value of our securities could decline and you could lose part or all of your investment. The risks and uncertainties we describe are not the only ones facing us. Additional risks not presently known to us or that we currently deem immaterial may also impair our business operations. In addition, our past financial performance may not be a reliable indicator of future performance, and historical trends should not be used to anticipate results in the future. Future changes in the network-wide mining difficulty rate or Bitcoin hashrate may also materially affect the future performance of Marathon's production of Bitcoin. Additionally, all discussions of financial metrics assume mining difficulty rates as of May 2021. See "Safe Harbor" below.
+
+Forward-Looking Statements
+
+Statements made in this press release include forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements can be identified by the use of words such as “may,” “will,” “plan,” “should,” “expect,” “anticipate,” “estimate,” “continue,” or comparable terminology. Such forward-looking statements are inherently subject to certain risks, trends and uncertainties, many of which the Company cannot predict with accuracy and some of which the Company might not even anticipate and involve factors that may cause actual results to differ materially from those projected or suggested. Readers are cautioned not to place undue reliance on these forward-looking statements and are advised to consider the factors listed above together with the additional factors under the heading “Risk Factors” in the Company's Annual Reports on Form 10-K, as may be supplemented or amended by the Company's Quarterly Reports on Form 10-Q. The Company assumes no obligation to update or supplement forward-looking statements that become untrue because of subsequent events, new information or otherwise.
+
+About Marathon Digital Holdings
+
+Marathon is a digital asset technology company that mines cryptocurrencies with a focus on the blockchain ecosystem and the generation of digital assets.
+
+Marathon Digital Holdings Company Contact:
+
+Jason Assad
+
+Telephone: 678-570-6791
+
+Email: Jason@marathondh.com
+
+Marathon Digital Holdings Investor Contact:
+
+Gateway Investor Relations
+
+Matt Glover and Charlie Schumacher
+
+Telephone: 949-574-3860
+
+Email: MARA@gatewayir.com

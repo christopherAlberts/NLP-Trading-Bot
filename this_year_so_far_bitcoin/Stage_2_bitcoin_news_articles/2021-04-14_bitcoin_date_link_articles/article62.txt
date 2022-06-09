@@ -1,0 +1,15 @@
+Gryphon Digital Mining has raised $14 million for a zero-carbon bitcoin mining operation.
+
+According to a release, Gryphon Digital Mining has raised $14 million in a Series A fundraise for the launch of a zero-carbon footprint Bitcoin mining operation.
+
+“At Gryphon, our long-term strategy is to be the first vertically integrated crypto miner with a wholly-owned, 100 percent renewable energy supply,” said Rob Chang, CEO of Gryphon Digital Mining, per the release. “Our vision is to further develop and use economically viable, renewable, off-grid energy.”
+
+The announcement noted that institutional investors made up more than 30 percent of the Series A and it closed in a little over two weeks. It also noted that Gryphon has partnered with a data center that grants it access to electricity costs as low as $0.013 per kilowatt hour (kWH). At launch, it expects its mining operation to have 730 petahashes per second (PH/s) of processing power which it thinks can grow to more than 2,000 pH/s by the end of the year.
+
+The release did not detail the specific energy sources that Gryphon expects to leverage, but it did position the firm as one that sees opportunity in fueling the practice through green energy.
+
+“Gryphon has the opportunity to become a market leader by providing reliable, low-cost mining while relying on renewable energy to minimize Bitcoin mining’s carbon footprint,” according to the release.
+
+While there is a popular belief that bitcoin mining is a waste of energy that unduly contributes to issues like climate change, projects like this are demonstrating that Bitcoin mining can actually incentivize and drive use of renewable energy sources.
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.

@@ -1,0 +1,15 @@
+The Company Is the First Leading Brand in Cryptocurrency to Offer Users Decentralized, Cross-Blockchain Trading Access (Without KYC)
+
+ShapeShift, an international, non-custodial cryptocurrency leader, announced their decentralized exchange mobile platform is now fully integrated with THORChain, enabling users for the first time to trade native (unwrapped) bitcoin with litecoin and ethereum. The capability is expected to be available on their web platform in the coming weeks.
+
+Recommended AI News: Unbounce Study Finds In a Year of Negative News, Negativity Didn’t Convert For Marketers
+
+“We believe finance must be open and immutable. The THORChain team has built technology that brings these properties to the trading of bitcoin and other leading chains for the first time,” said Erik Voorhees, Founder and CEO of ShapeShift. “We saw the power of this technology and wanted to bring it to our users immediately. This is a continuation of our commitment to offer users an easy, self-custody platform for their decentralized trading needs.”
+
+THORChain solves the problem of cross-chain trading by building efficient, bi-directional bridges between blockchains at the protocol level in a permissionless, non-custodial manner. ShapeShift, which announced decentralized exchange trading for ETH and ERC-20 assets in January, has now expanded, and will continue to grow, their decentralized exchange (DEX) assets available for trade through this integration with the THORChain liquidity platform. Bitcoin and cryptocurrency enthusiasts can participate more freely, securely and privately in trading with other coins while expanding their options in the world of decentralized finance—using one user-friendly and incentivized platform. Only ShapeShift DEX users, including those making trades via the new THORChain integration, can earn FOX Tokens with every trade—qualifying them for Rainfall awards (free USDC rewarded to random ShapeShift users each time someone trades on the platform).
+
+Recommended AI News: 2021 AppNeta Survey reveals Employee Expectations of IT as Companies consider Work from Anywhere
+
+THORChain, founded in 2018, is a community-led project dedicated to enabling the decentralized exchange of assets across blockchains in a non-custodial manner. “The team saw an opportunity to provide a ‘public good’ network that would solve a weak point in the cryptocurrency ecosystem: decentralized, cross-chain exchanging,” said THORChain’s lead engineer. Their team is largely pseudonymous, as is commonly seen in the industry for security, privacy and project integrity reasons (as exemplified by Bitcoin’s founder, Satoshi Nakamoto). Their code is always open source and available on Gitlab.
+
+Recommended AI News: West Ham United to Advance Partner Services With KORE Software

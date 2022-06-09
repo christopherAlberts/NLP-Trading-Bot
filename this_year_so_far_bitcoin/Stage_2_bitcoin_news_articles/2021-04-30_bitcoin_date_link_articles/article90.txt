@@ -1,0 +1,39 @@
+April 30, 2021 4 min read
+
+This story originally appeared on MarketBeat
+
+
+
+Ethereum $3,000 Is A Stone’s Throw Away
+
+Now that Ethereum (CRYPTO: ETH) is trading at a new all-time high and above the $2,700 level, the question is how high will it go? The simple answer is much, much higher but there are some concrete targets investors, speculators, and traders can target. The very first and most obvious is based on Bitcoin. Ethereum and Bitcoin tend to track each other with Bitcoin leading the way and Bitcoin has far outpaced ETH over the past year. In fact, based on Bitcoin’s 200% increase since it cleared the 2018 high, we think Ethereum should already be trading near $4,200 but that will come in time.
+
+#1 - The Berlin Hardfork Came And Went Without Pause -
+
+The Berlin Hardfork went live on April 15th with hardly a ripple in the market. The fork introduced 4 new EIPs (Ethereum Improvement Protocols) that have been in the works for at least two years. The protocols do a number of things to address gas prices (the cost of using the Ethereum network) including limiting fees for some types of transactions and introducing new transaction types. The updates are the precursor for another EIP hard fork scheduled for later this year, an update that will have a far-reaching impact on ETH availability and pricing.
+
+The London Hardfork will introduce EIP 1559 to the network and seriously cut down on gas fees. The EIP not only takes control of setting fees but will burn or permanently “lose” a portion of each fee once it’s collected. This will work to reduce fees and increase traffic, arguably increasing net earnings for miners, while also reducing the supply of Ether. We think it is a win-win but not everyone in the Ethereum community agrees with us.
+
+#2 - Ethereum Gas Prices Are Already Falling
+
+One of the biggest hurdles for the Ethereum network and its users is gas prices. The fees for transactions have been steadily rising on the force of rising demand and the fact miners are allowed to prioritize higher-paying users over others. The gas price for a transaction hit a high last year and held those levels well into 2021 but that situation is already changing. The price of gas spiked shortly after the Berlin hard fork but has since fallen to the lowest levels in nearly a year. If this trend continues it should help attract more users to the network, users that have been turning to other blockchains because of high prices.
+
+
+
+
+
+3) Ethereum Gains Market Share
+
+Even with the high cost of gas, Ethereum has been gaining market share. The best way to view that is via the market dominance or market cap of the cryptocurrency market. Bitcoin has long been the leader and that is not likely to change soon but it has been losing share over the past year. Bitcoin is losing share not only to Ethereum but to the rise of Defi tokens but let’s focus on Ethereum. Ethereum hit a low point in regards to market share early in 2020 and has seen a steady rise since. This rise is in correlation with several key events including multiple hard-forks and EIPs introductions and doubled ETH’s market share from about 7.5% to nearly 15% today. We expect this trend to continue.
+
+4) The Charts, Ethereum Is In The Lead Now
+
+Not only is the chart of Ethereum very bullish, but it shows Ethereum is now leading the market. The price of Bitcoin may be trading at higher level relative to past highs but its price is in consolidation, it is trading below the 30-day moving average, and the indicators are still iffy. Ethereum, on the other hand, is trading at a new high, is trading well above the 30-day moving average, and has bullish indicators. If we were going to bet on one or the other making a strong move higher it would be on Ethereum.
+
+Our first target for major resistance is near $3,350. We get that by projecting the magnitude of the latest rally from the current point of consolidation. Once that target is reached the $4,000 to $4,200 range (200% upside from the 2018 all-time high) comes into view and may be reached before the London hard-fork goes live in July.
+
+
+
+
+
+Featured Article: Futures Contract

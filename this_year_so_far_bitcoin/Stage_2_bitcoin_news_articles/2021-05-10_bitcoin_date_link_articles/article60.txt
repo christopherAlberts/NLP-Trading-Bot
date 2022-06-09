@@ -1,0 +1,69 @@
+By now, most accountants and tax professionals are familiar with the IRS’s question about virtual currency on the first page of Form 1040, and its treatment of cryptocurrency as property, with sales and exchanges reported on Schedule D. Perhaps you have even had clients bring answer “Yes” to that question on their organizer, or ask questions about their crypto-asset reporting requirements.
+
+It’s crucial for tax advisors to get ahead of these issues, yet many aren’t aware of the reporting (and technology) challenges inherent in this new asset breed.
+
+Overview of cryptocurrencies
+
+In case you’ve been studiously avoiding the Bitcoin headlines recently, let’s start with a quick review of what cryptocurrency is.
+
+Cryptocurrency is decentralized digital money designed to be used over the internet. Bitcoin and Ethereum are the most well-known cryptocurrencies, but there are thousands more out there.
+
+The appeal of cryptocurrency is the lack of central authority. People and institutions can transfer value online without any banks or payment processors as intermediaries, and the currency isn’t controlled or issued by a government.
+
+Security is another advantage. All cryptocurrency transactions are recorded on a blockchain, which acts as an immutable digital ledger keeping track of all transactions. The blockchain is distributed across all network participants, and those participants work together to keep it organized.
+
+Wallets vs. exchanges
+
+One common source of confusion for people new to the cryptocurrency arena is the difference between wallets and exchanges. Some people even use the terms interchangeably. An exchange is a service or platform that enables clients to trade crypto for other resources, such as other cryptocurrencies, U.S. dollars or other currencies.
+
+Think of exchanges like banks. They use custodial accounts to hold their users’ funds and then track them on an internal ledger to trade and exchange funds. Trades are made “off-chain,” and no actual crypto is transferred as a result of these trades. They’re only making changes to the ledgers.
+
+There are over 300 actively tracked exchanges worldwide, and they handle anywhere from $8 billion to a few thousand dollars in daily transaction volume. Coinbase, which just went public on Nasdaq under the ticker symbol “COIN,” is the largest, with over 56 million verified users.
+
+If the blockchain is the overall ledger, a public key is the account number and a private key is the password or PIN needed to access the user’s account. Public and private keys are stored and encrypted in a cryptocurrency wallet. Wallets are used to track ownership, and to receive or spend cryptocurrencies. They don’t store the cryptocurrency; they store the private key used to sign transactions.
+
+Wallets may be “hot” or “cold.” Hot wallets are connected to the internet and are more user-friendly but less secure. They’re good for day-to-day transactions. Cold wallets are not connected to the internet and are harder to use but more secure. They’re good for long-term holding.
+
+Cryptocurrency reporting
+
+When your client comes to you and says they have cryptocurrency transactions, the first thing you need to do is gather information from them to account for and report taxable transactions properly. However, accountants and advisors face several hurdles to gathering that information.
+
+1. Forms. It would be great if your clients provided a 1099-B showing the proceeds and basis for each cryptocurrency transaction. However, if they give you an IRS form, it’s likely to be a 1099-K or 1099-MISC showing gross proceeds. The IRS and cryptocurrency exchanges haven’t yet figured out how to handle information reporting for cryptocurrencies.
+
+Unfortunately, 1099-Ks and 1099-MISCs don’t provide any beneficial information. They don’t consider cryptocurrency moving off one exchange and into another or to an on-chain wallet -- all moves are reported as taxable transactions and included in the proceeds on the 1099 form. Currently, those forms are just a big arrow pointing the IRS to the taxpayer. It’s up to clients to provide the detailed information needed to calculate their crypto taxes.
+
+It’s a good idea to discuss the possibility of receiving an IRS notice based on these informational reports with your clients. If they do receive a notice, it’s helpful to have a way to reconcile the 1099 to taxable versus non-taxable transactions.
+
+
+
+Bitcoin mining USB devices in a row with small fans. Arina Habich/arinahabich - stock.adobe.com
+
+A typical report will include information about the transaction type, proceeds, fees, and where the cryptocurrency went. What’s typically not included is the cost basis or where it came from.
+
+2. Exchanges. Roughly 80 percent of cryptocurrency owners hold their cryptocurrencies on an exchange. The major exchanges provide some sort of transaction reports for users — usually in an Excel spreadsheet, PDF or CSV file. The trouble is, each exchange has its own format. They may even use different symbols for the same cryptocurrency. For example, one may refer to Bitcoin as BTC while another calls it XBTC.
+
+3. On-chain transactions. All transactions are written into the blockchain. With a client’s public key, you can see all the transactions over the blockchain’s lifetime. However, clients may be using wallets. Cloud and desktop wallets usually have an export option. Apps, hardware and paper wallets typically don’t. Screenshots or manually maintained spreadsheets may be all the taxpayer can provide.
+
+In most cases, accountants will receive a mixture of 1099s, spreadsheets and screenshots. If you’re using scan-and-populate software, it will recognize 1099-K and 1099-MISC, but send information from those forms to Schedule C or “Other Income” on Schedule 1, rather than Schedule D. This can overstate ordinary income and understate capital gains if not corrected. And, of course, the software won’t be able to auto-populate anything from spreadsheets or screenshots.
+
+There are several consumer-grade cryptocurrency tracking solutions out there that your clients may use, but these aren’t ideal for firm use because:
+
+There are no client management, real-time client collaboration or team management features. Your crypto clients may be high-net-worth individuals, so it’s important to control who has access to their data.
+
+They’re not SOC audited.
+
+They don’t consistently account for fees. The Instructions for Form 8949 are very clear: Taxpayers need to deduct selling expenses from proceeds and add fees for purchasing to basis when calculating a gain or loss on a property transaction. But another challenge here is that sometimes fees are taken out of the client’s crypto. For example, if an exchange charges a $3 transaction fee, it may use a portion of the client’s Bitcoin to cover the fee, rather than taking the fee in U.S. dollars. This results in another taxable event: trading virtual currency for a service. Fees can be significant. If you’re not accounting for them correctly, gains can be overstated, causing your clients to pay more in tax than they should.
+
+They don’t integrate with professional 1040 tax solutions.
+
+These limitations often result in a lot of unpaid work for the tax pro trying to sort out a client’s transactions, account for fees, and ensure all transactions are correctly reported on the client’s tax return.
+
+Is your firm prepared?
+
+Is your firm prepared to seamlessly incorporate cryptocurrency reporting into your tax workflow?
+
+With millions of taxpayers investing and transacting in cryptocurrency, it’s a good idea to start marketing your services and establishing yourself as an authority in the space.
+
+However, with the sheer scale of cryptocurrency exchanges, different types of transactions and rules for calculating basis, manually filing cryptocurrency tax returns for your clients can be arduous and convoluted.
+
+Gearing up to offer this service to your clients may seem daunting, but using a professional-grade cryptocurrency tracking solution along with a scan-and-populate solution can be an enormous boon for your firm and your workflow. You’ll be well on your way to offering more value for your clients and bringing in more revenue for your firm.

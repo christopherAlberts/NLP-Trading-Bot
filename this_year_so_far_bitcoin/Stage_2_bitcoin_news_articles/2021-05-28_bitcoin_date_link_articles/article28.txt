@@ -1,0 +1,49 @@
+“You’d have to shut down the internet.” Hester Peirce, Commissioner to the U.S. Securities and Exchange Commission (SEC) on implementing a Bitcoin ban.
+
+Although Bitcoin’s market capitalization has surpassed $1 trillion, statements from governmental authorities and business leaders continue to fuel speculation about a U.S. ban on bitcoin. U.S. Treasury Secretary, Janet Yellen, has publicly criticized Bitcoin and other cryptocurrencies for their role in “illicit finance.” In the private sector, Ray Dalio, founder of the world’s largest hedge fund, has commented that Bitcoin may be outlawed just as gold was in the 1930s. Jesse Powell, the CEO of Kraken, a U.S.-based cryptocurrency exchange, has also warned that “there could be some crackdown” on the digital assets.
+
+Could the United States implement such a “crackdown” by joining countries like India, Nigeria and Turkey in implementing a ban on Bitcoin? While a complete ban is certainly feasible, the practical, legal, economic and political difficulties of implementing such a ban make it unlikely. Instead, we can expect the U.S. to join other developed economies in further regulating Bitcoin. Regulators will face the challenge of writing laws that can be enforced without strangling the new opportunities for economic growth that Bitcoin offers those countries that embrace it.
+
+Practical Challenges
+
+A basic understanding of blockchain technology underscores the practical challenges of a Bitcoin ban.
+
+“Blockchain” describes a decentralized and distributed ledger that records the histories and transactions associated with digital assets. Bitcoin is a virtual asset that is accessed and recorded on such a blockchain.
+
+The term “cryptocurrency” is a slight misnomer since Bitcoin is more like a decentralized network than a traditional currency that can be held or confiscated from a regulated custodian. Instead of holding physical “coins” or having access to an “account” with a regulated third party, a bitcoin holder uses private keys to unlock digital assets recorded on the blockchain maintained by a decentralized and global network of computers. These private keys are often represented in a series of words, known as a “recovery phrase,”,that can be memorized and used to access bitcoin anywhere in the world with an internet connection. Thus, bitcoin cannot be confiscated any more than memories can.
+
+While the United States could criminalize ownership of bitcoin, it would be all but impossible to enforce such a ban. Specifically, there would be no way for the government to confiscate bitcoin from its global decentralized network. The government would be unable to grab recovery phrases memorized by holders who refuse to share them or claim that they are lost or stolen. Furthermore, bans in other countries show that this move could be counterproductive. For example, when the Central Bank of Nigeria prohibited local financial institutions from servicing cryptocurrency firms, buyers and sellers began using peer-to-peer trading platforms to trade bitcoin at a price premium in that country.
+
+Legal Challenges
+
+The political speech that has been a part of the Bitcoin network since inception and the Bitcoin network’s inherent associative nature would also make any ban on this asset subject to strong First Amendment challenges.
+
+Bitcoin was created as a public network where participants make immutable entries on an electronic ledger. While the most visible manifestation of these entries is the exchange of value, bitcoin is more than merely money. According to noted Bitcoin advocate Andreas Antonopoulous, “Saying bitcoin is digital money is like saying the internet is a fancy telephone. It’s like saying that the internet is all about email. Money is just the first application.”
+
+In fact, the Bitcoin network has been used for political speech from its inception. The first “genesis” block (or recording of transactions) on the Bitcoin blockchain included the following statement: “The Times 03/Jan/2009 Chancellor on brink of second bailout for banks.” On the day of its Nasdaq initial public offering (IPO), Coinbase had a mining pool embed the following headline into the Bitcoin blockchain, “NYTimes 10/Mar/21 House Gives Final Approval to Biden's $1.9T Pandemic Relief Bill.” These messages, which serve as commentary on the role of central banks and governmental authorities, cannot be censored and can be read by anyone with an internet connection. Unlike the occasional handwriting scribbled on a perishable paper dollar, political statements have been permanently and irretrievably etched into the Bitcoin blockchain from its very beginning and throughout significant moments in its history.
+
+The political speech Bitcoin has expressed from its founding as a networked association outside the reach of centralized authorities should subject any attempted ban to the strictest scrutiny. Because the First Amendment has been broadly applied to emerging new technologies, it would be reasonable to expect a similarly broad application to blockchain technology itself. A particularly detailed discussion on why Bitcoin is speech can be found here.
+
+Opponents of a Bitcoin ban in the U.S. would also have arguments for due process under the Fourth, Fifth and Fourteenth Amendments to the U.S. Constitution. The IRS categorizes bitcoin as property and thus any ban would arguably represent an unconstitutional seizure. The U.S. government itself has seized and sold bitcoin, further legitimizing its status as property protected by the constitution. While the government could counter this argument by offering holders a window in which to convert their bitcoin to U.S. dollars, the potential loss of hundreds of billions of net worth to individuals and publicly-traded companies would hardly result in “just compensation” guaranteed by the Constitution.
+
+Economic Challenges
+
+Even if the U.S. government could legally ban Bitcoin, doing so would be economically prohibitive.
+
+Much of the value in bitcoin has been created and is held by U.S. companies. For example, Tesla has purchased $1.5 billion in bitcoin, Coinbase is a publicly-traded and U.S.-based cryptocurrency exchange with a market value of over $85 billion, and mainstream banks like JPMorgan Chase and Goldman Sachs are launching cryptocurrency investment products. Furthermore, payment companies like Visa and PayPal are helping thousands of small businesses accept bitcoin for goods and services. Although opponents may parrot claims that bitcoin is used by terrorists and drug dealers, blockchain analysis suggests that only a small and shrinking fraction of bitcoin transactions are used for nefarious purposes.
+
+The numerous applications of Bitcoin for storing value, authentication and sharing intellectual property promise to create many new companies just as the Internet did in the late 1990s and early 2000s. Any ban or crushing regulation by the U.S. government would squander an opportunity to remain a world leader in new technologies.
+
+Political Challenges
+
+Just as Bitcoin has grown exponentially, so has its political influence. This influence, combined with practical, legal and economic factors, will likely result in the U.S. government creating regulatory certainty rather than an outright ban of Bitcoin.
+
+Companies and individuals with significant exposure already have significant political influence. According to Coindesk, Sam Bankman-Fried, the CEO of cryptocurrency derivatives platform FTX, made the second largest donation to Joe Biden’s presidential campaign. Recently, Fidelity Investments, Square and Coinbase joined forces to launch a Bitcoin trade group to lobby policy makers.
+
+As the number of Bitcoin users continues its rapid growth, any attempted ban would be met with not only corporate lobbying resistance but also the wrath of an exponentially growing and passionate block of the voting public. Indeed, Coinbase, the largest U.S.-based cryptocurrency exchange, has reported approximately 56 million verified users in 2021, up from 35 million in 2020. Coinbase cofounder Fred Ehrsam tweeted that 10% of people now own cryptocurrencies in the United States. While the accuracy of this claim may be debatable, there is no dispute that this rapidly growing group would exert significant political pressure in response to any proposed ban.
+
+Conclusion
+
+Until there is greater regulatory clarity regarding Bitcoin, the statements of some prominent government figures and business leaders will continue to fuel speculation about the imminent demise of this emerging asset. Although an outright ban would be unworkable for the aforementioned reasons, further regulation can be expected. If this regulation is narrowly tailored to avoid strangling the emerging Bitcoin economy, it could bring newfound legitimacy to the digital asset, minimize its use for illicit purposes, and bring additional price stability.
+
+This is a guest post by Stuart Russell. Opinions expressed are entirely their own and do not necessarily reflect those of BTC, Inc. or Bitcoin Magazine.

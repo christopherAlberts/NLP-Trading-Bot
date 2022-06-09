@@ -1,0 +1,97 @@
+Algorithmic Stability: How FRAX Is Developing the Future of Stablecoins
+
+sponsored
+
+Part-collateralized, part-algorithmically stabilized stablecoin, FRAX is the world’s first fractional-algorithmic stablecoin. The Frax protocol is ideologically pure, extremely stable, and highly scalable on-chain money that consists of a two-token system. The stablecoin Frax (FRAX), and the governance token Frax Shares (FXS).
+
+As Cryptocurrencies Rise so Too Stablecoins
+
+Amongst economical uncertainty and global financial instability, cryptocurrencies have been evolving rapidly. Cast aside as ‘fake’ online money by the masses for years, the canyon between fiat and crypto was stark until stablecoins began to bridge the gap. Paired directly to fiat currency prices, stablecoins have provided the much-needed stability required for many merchants, global institutions, and countries to participate in the crypto space.
+
+As the demand for cryptocurrencies continues to rise, so too does the demand for stablecoins and their development. This is evidenced by the current stablecoin market capitalization (market cap) of almost $80 billion – up over 70,000 percent since mid-2017.
+
+Though stablecoins have revolutionized the world of crypto and provided interoperability, there are always pros and cons. For example:
+
+The stability of a stablecoin is directly linked to the asset it is tied to. If the asset falls, so too does the stablecoin. In the event of a fiat ‘flash-crash’, the stablecoin too will plummet in value.
+
+The aim of the crypto space geared towards decentralization. Stablecoins aim to reduce volatility, but in doing so, become in part centralized – thus opposing the purpose of crypto.
+
+Investors are not as interested in stablecoins in comparison to cryptocurrencies due to minimal change in price fluctuations.
+
+Custodial risk/ on-chain over-collateralization of collateralized stablecoins.
+
+FRAX attempts to remedy these aforementioned pitfalls and risks by providing the first trustless stablecoin protocol. The Frax protocol utilizes algorithmic central banking which, conceptually, algorithmically modifies supply to ensure that price stability remains constant.
+
+This article will break down the complexity of the Frax protocol and portray the impact of FRAX on the adapting world of stablecoins.
+
+What Is FRAX?
+
+Part-collateralized, part-algorithmically stabilized stablecoin, FRAX is the world’s first fractional-algorithmic stablecoin.
+
+The Frax protocol is ideologically pure, extremely stable, and highly scalable on-chain money that consists of a two-token system. The stablecoin Frax (FRAX), and the governance token Frax Shares (FXS).
+
+A stablecoin is a cryptocurrency that aims to provide price stability by linking with a reserve asset – usually fiat. As opposed to standard stablecoins, algorithmic stablecoins maintain price stability by generating or burning the number of stablecoins/digital tokens available.
+
+If the price rises above $1, the algorithmic system produces new stablecoins until the price returns to $1. This process works in reverse via the burning of available stablecoins/tokens.
+
+How Does It Work?
+
+The Frax stablecoin protocol is both fractional and algorithmic. Receiving its name (FRAX) from the protocol’s fractional-algorithmic stability mechanism, the FRAX stablecoin supply is the first collateral-algorithmic of its kind. This symbiotic combination functions to maintain stability like so:
+
+If FRAX trades below $1, the protocol increases the collateral ratio – in steps of 0.25%
+
+If FRAX trades above $1, the protocol decreases the collateral ratio – also in steps of 0.25%
+
+Through governance, the refresh rate and step parameters can be adjusted to suit the stablecoin purpose and ensure stability through economic changes. Rather than obtaining a USD price by averaging the prices of stablecoin pools on Uniswap, FRAX does it differently. Calculating a time-weighted average of the Uniswap pair price and the ETH:USD Chainlink oracle, the Frax protocol is able to obtain a true USD price.
+
+Moving the Stablecoin Space Forward
+
+As opposed to other stablecoins, FRAX’s fractional-algorithmic protocol ensures that price fluctuations are met with fractional algorithmic responses to maintain true USD price stability. Amalgamating the combination of fractional stability and algorithmic mechanisms, the Frax protocol aims to further develop the stablecoin space through FXS.
+
+The FXS governance token recently introduced the Algorithmic Market Operations Controller (AMO). An AMO automates the arbitrary FRAX monetary policy to ensure collateral ratio does not decrease and alter the price (and stability) of FRAX. For the first time in human history, FXS facilitates a completely decentralized system that is not hindered or controlled by a National State or Corporation. Performing open market operations algorithmically, AMO controllers cannot mint an amount of FRAX that would destabilize the peg. This ensures FRAX’s base layer stability remains untouched and ideologically pure.
+
+Many stablecoin errors and instabilities have appeared since their creation.
+
+When compared to Tether – whose price lacked all stability at moments – the Frax protocol prevents price slipping below or above $1. Though the stablecoin Tether’s history has always shown quick recovery, that never prevented the price from collapsing to lows of $0.9 or rising to highs of $1.21.
+
+When compared to the likes of DAI and other collateralized stablecoins, the clear advantage of the FRAX stablecoin is reduced risk of over-collateralization. When stablecoins like DAI and others rely wholly on collateral, they risk moments of instability when rapid changes such as flash-crashes occur. Furthermore, collateral-backing the supply of stablecoins can be a very expensive venture. The Frax protocol consistently reduces this expense and replaces it with algorithmic measures – effectively cutting costs on the supply side by reducing DAI’s hyper collateralization with a CR settled by the market (86% at the moment).
+
+Algorithmic Central Banking
+
+Algorithmic stablecoins bring forth a new asset class that is both automation-driven and mathematically precise. Utilizing a part-fractional, part-algorithmic composition, FRAX stablecoins are the first blend between collateralized and algorithmic stablecoins – assimilating all benefits of both types. This new and developing class of stablecoin directly drives innovation towards the pioneering of algorithmic central banking.
+
+The concept of algorithmic central banking is a fairly new and evolving concept, but with endless potential, it aims to revolutionize modern monetary policy. As a mathematical, automated, and stable programmatical system that is price aware of itself, algorithmic central banking stabilizes price without human input. If the price rises, supply is automated to increase and balance out until reattaining the stable level of $1. The same applies again in reverse.
+
+In comparison to Fei Protocol – an incentive stablecoin that aims to maintain a liquid market in which ETH/FEI trades closely to the ETH/USD price – FRAX functions quite differently.
+
+Where FRAX stabilizes price through its fractional-algorithmic protocol, FEI employs direct incentives (DI) which can actually cause FEI price to lack any stability. The DI of FEI can often punish sellers and reward buyers during times of volatility.
+
+For example, buying FEI in early April 2021 would lead to buyers receiving more than 1 FEI per $1. On the other hand, sellers at that same time would be losing out by selling FEI below $1 in value. This instability effectively prevented FEI from functioning as a stablecoin: FEI has failed to maintain its $1 peg, and protocol governance token TRIBE has dropped by around 50% since launch.
+
+FRAX’s algorithmic stablecoin features automation that fractionally returns the FRAX price to $1 – ultimately ensuring the $1 value is maintained regardless of market action/swings. FRAX has maintained the peg since its inception in December 2020.
+
+A New Dawn for Stablecoins?
+
+The Frax protocol addresses the many risks associated with stablecoins while building upon their benefits. By deploying the use of AMOs, FRAX stablecoins alongside the FXS governance token ensure trustless stability that is both a completely decentralized and highly scalable on-chain solution to market instability. When compared to the likes of Tether or DAI, the risk of over-collateralization and rapid market fluctuations impacting FRAX are non-existent.
+
+Developing upon the schematic of purely algorithmic stablecoins such as FEI, FRAX, and FXS stand as two pillars upon the foundation of algorithmic central banking. With each development, stability continues to improve in a market as volatile as crypto: the recent Curve AMO, for instance, puts FRAX and USDC collateral to work providing liquidity for the protocol and tightening the peg.
+
+Recent introductions of the Float Protocol – which fluctuates similarly to fiat currencies – and the Rai Reflex Index – which algorithmically maintains its own stability – continue to show the ongoing evolution of the stablecoin market.
+
+As this market adapts to economical needs and obstacles, the mainstream adoption of crypto and stablecoins increases. Among the latest in crypto innovation, FRAX is pioneering a new approach to stablecoin mechanisms and as such, leads the stablecoin space.
+
+For more about FRAX and its unique fractional-algorithmic approach to stability visit their website here.
+
+Read FRAX’s documentation: https://docs.frax.finance/v/en/
+
+Follow FRAX on Twitter: https://twitter.com/fraxfinance
+
+Join the FRAX community on Telegram: https://t.me/fraxfinance
+
+Stay up-to-date on FRAX’s latest developments on Github: https://github.com/FraxFinance
+
+This is a sponsored post. Learn how to reach our audience here. Read disclaimer below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

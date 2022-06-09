@@ -1,0 +1,23 @@
+LA JOLLA, Calif.--(BUSINESS WIRE)--Silvergate Capital Corporation (“Silvergate” or the “Company”) (NYSE: SI), the leading provider of innovative financial infrastructure solutions to the digital currency industry, today announced Coinbase Custody, one of the global leaders in qualified digital asset custody, as a custodian for SEN Leverage. SEN Leverage provides secure, institutional-grade access to capital through U.S. dollar (“USD”) loans collateralized by bitcoin.
+
+Using SEN Leverage, institutional investors receive USD financing by entering into a loan agreement with Silvergate Bank, and Silvergate uses its proprietary payments network, the Silvergate Exchange Network (“SEN”), to fund loans. The investor’s collateral – bitcoin – is held by Coinbase Custody in a segregated cold storage account. Coinbase Custody maintains what it believes to be an industry-leading insurance policy to protect both online and offline assets across all of their products.
+
+"Traditional lending services generally do not exist in the digital currency industry, which means there aren’t many lenders for investors to choose from,” said Jon Melton, director of digital asset lending at Silvergate. “Our relationship with Coinbase Custody offers institutional investors increased access to capital efficiency so they can take advantage of market opportunities in the digital currency industry.”
+
+SEN Leverage loan amounts start at $5MM with an initial 12-month term, subject to credit approval. Each loan has the potential for renewal at the end of the term with interest calculated daily and due monthly.
+
+“In addition to having access to traditional USD financing, SEN Leverage is even more valuable to our customers because we can provide a first-rate custody experience through Coinbase Custody,” said Melton.
+
+“We’re thrilled to have been selected by Silvergate to expand their industry-leading SEN Leverage product,” said Sam McIngvale, chief executive officer of Coinbase Custody. “As one of the global leaders in the custody of digital assets, we feel this is a relationship of equals and we’re happy to help Silvergate work toward their goal of maximizing capital efficiency for this rapidly growing industry.”
+
+Silvergate made SEN Leverage a full product offering in Q4 2020 and saw loan volume increase from $35.5MM in Q3 2020 to $82.5MM at the end of Q4. The product continues to grow its contribution to the overall success of the Silvergate banking platform.
+
+Learn more about SEN Leverage here.
+
+About Silvergate
+
+Silvergate Capital Corporation (NYSE: SI) is the leading provider of innovative financial infrastructure solutions and services for the growing digital currency industry. The Company’s real-time payments platform, known as the Silvergate Exchange Network, is at the heart of its customer-centric suite of payments, lending and funding solutions serving an expanding class of digital currency companies and investors around the world. Silvergate is enabling the rapid growth of digital currency markets and reshaping global commerce for a digital currency future.
+
+About Coinbase Custody
+
+Coinbase Custody operates as a standalone, independently-capitalized business to Coinbase, Inc. Coinbase Custody is a fiduciary under NY State Banking Law and a qualified custodian. They are one of the largest custodians in the crypto industry; they store billions and have never lost client funds. All digital assets held in their secure custody solution are segregated and held in trust for the benefit of clients.

@@ -1,0 +1,41 @@
+Bitcoin’s price slumped by around 5.6% in the past 24 hours thanks to some Asian traders taking a short-term bearish view and concerns the new Biden administration in the U.S. will seek to put a damper on cryptocurrency use.
+
+Profit-taking occurred in the spot market during Asian market hours after bitcoin failed to consolidate around the record high of $40,000 in the past week. In the derivatives markets, short positions grew, led by institutions and large bitcoin holders known as whales.
+
+Data from Skew shows bitcoin’s perpetual swaps funding on major derivatives exchanges, a proxy for the cost of maintaining a long position in the derivatives market, dropped today, an implication that the demand for oriented trades has decreased.
+
+A weekly chart of perpetual swaps funding on major derivatives exchanges. Source: Skew
+
+At press time, bitcoin traded at $35,008.58, according to CoinDesk 20 data.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+The sell-off also led to major corrections for other cryptocurrencies on the CoinDesk 20, including ether, stellar, xrp and chainlink.
+
+Despite some long-term positive view that bitcoin’s price could reach as high as $100,000, analysts and traders told CoinDesk that large bitcoin holders have become more bearish in the short term, especially after ether, the second-largest cryptocurrency by market cap reached a new all-time high on Tuesday.
+
+“The sentiment in Asia at least has been very bearish in the short term, after they saw the retail side is getting too bullish, ” Alex Zuo, vice president of China-based crypto wallet Cobo, told CoinDesk. He said the recent price surge in alternative cryptocurrencies reflects increased interest from retail investors, who usually tend to react to price volatility more significantly.
+
+As a result, institutions and bitcoin whales are less inclined to put fresh capital into the market. Zuo said. Instead, they are either taking profits by selling on the spot market or executing arbitrate trades by shorting the spot market.
+
+Data from on-chain analytics firm CryptoQuant also indicates there is selling pressure on the spot market. The whale ratio on exchanges, which measures the relative size of the top 10 inflows to total inflows for all exchanges, has gone up since last week to above 0.85, meaning that more large bitcoin holders are depositing bitcoin on exchanges. That is considered a sell signal because it could mean large holders of bitcoin are looking to unload their inventory to the market.
+
+What’s keeping prices from falling drastically, according to CryptoQuant’s company’s chief executive, is the unloaded bitcoins are being snapped up by buyers on one particular exchange.
+
+The whale ratio on exchanges has gone up this week. Source: CryptoQuant
+
+“If we wouldn’t see any significant buying pressure from Coinbase Pro, I think bitcoin would be bearish,” Ki Young Ju, CryptoQuant’s CEO said in a tweet.
+
+Ki told CoinDesk one indicator to watch is bitcoin outflow from Coinbase, usually a metric that implies an institution’s bitcoin purchase via over-the-counter desks. Once significant bitcoin outflows from Coinbase take place, bitcoin’s price could recover and even go up as high as $100,000, he said.
+
+In the derivative market, the at-the-money implied volatility has dropped sharply since it peaked earlier this month, according to data site Skew. The indicator shows investors’ expectation of how turbulent prices will be over the next month; a drop usually leads to a cheap cost on options contracts.
+
+Source: Skew
+
+“Bitcoin put buying over the last several days is finally taking its toll on the market, while at-the-money implied volatility has dropped significantly since peaking earlier in the month,” Denis Vinokourov, head of research at the London-based prime brokerage Bequant, said. “However, call selling has been the dominant play today and there is still a huge amount of open interest in end of the month contracts at the $52,000 mark, which should ease any concerns the bulls may have.”
+
+The declining premium of Grayscale’s Bitcoin Trust versus its net asset value is another negative sign indicating more selling pressure than buying, Cobo’s Zuo added. The premium dropped to 8.66% on Tuesday from a December high at 40.18%. Grayscale is owned by Digital Currency Group (DCG), which also owns CoinDesk.
+
+Another possible cause for the decline is U.S. Treasury Secretary nominee Janet Yellen, who made negative comments about bitcoin and other cryptocurrencies during her confirmation hearing on Tuesday.
+
+During the hearing, Yellen suggested President Joe Biden’s administration could look at how to curtail the use of bitcoin and other cryptocurrencies in financing criminal activity, including terrorism.

@@ -1,0 +1,45 @@
+Source: iStock/Koonsiri Boonnak
+
+Perhaps unsurprisingly, given the recent red that colored the markets, crypto market sentiment dropped yet again - but now, it's close to dropping below the score of 5, where we haven't seen it in quite a while. The average 7-day moving crypto market sentiment score (sentscore) for ten major coins is now 5.03 compared to 5.49 seen last week, according to the crypto market sentiment analysis site Omenics. Furthermore, all coins dropped from the positive zone.
+
+The entire list of the ten major coins has turned red - save for one coin, which is by default our winner of the week. Bitcoin (BTC)'s sentscore has gone up 3% over the past seven days, following two consecutive drops.
+
+On the much longer red side of the coin, the highest drop, that of almost 13% and the only double-digit one, was seen by XRP. Polkadot (DOT) and cardano (ADA) follow it with 9.5% and 9%, respectively. The lowest drop is ethereum (ETH)'s, of less than 1%.
+
+Bitcoin's rise, however, wasn't enough to push its sentscore back to the top, as ethereum still holds that spot - though it too is now out of the positive zone. ETH's sentscore is 5.9, compared to BTC's 5.6.
+
+Tether (USDT) and uniswap (UNI) have 5.2 each, while cardano and polkadot are at 5.1. The remaining coins all have scores below 5, with the lowest being binance coin (BNB)'s and XRP's 4. That leaves USD coin (USDC) and chainlink (LINK), both at almost 5.
+
+There were a couple of changes on the list yet again this week: this time around, litecoin (LTC) and tron (TRX) are out, replaced by USDC and DOT.
+
+Sentiment change among the top 10 coins*:
+
+Interpreting the sentscore’s scale:
+
+- 0 to 2.5: very negative
+
+- 2 to 3.9: somewhat negative zone
+
+- 4 to 5.9: neutral zone
+
+- 6 to 7.49: somewhat positive zone
+
+- 7.5 to 10: very positive zone.
+
+Source: Omenics, 8:43 UTC
+
+The daily situation has continued to worsen as well. The 24h sentcore for the top 10 coins took another step down, currently standing at 4.79 compared to 4.96 recorded last Monday. Two coins have seen their scores increase in the past day, these being BNB and ADA, going up 3%, 2%, and 0.3%, respectively, while and USDC almost unchanged. The rest of the list is down, between DOT's 9% and almost 2% recorded by both BTC and XRP. Ethereum still leads the list, with a score of 5.8, but compared to last Monday, bitcoin is now up from 5.1 to 5.6. USDC is the only other coin with a score above 5 (5.1), while the rest sit in the 4.1 (tether) - 4.9 (uniswap) range.
+
+Daily Bitcoin sentscore change in the past month:
+
+Source: Omenics
+
+But Omenics rates 25 other coins besides the top 10. Over the course of the past week, all but single one have gone down. The only sentscore to barely move up is REN, with 0.3%. Meanwhile, the largest drop is 22% seen by AAVE's sentscore, and the lowest is QTUM's 2%. A significant change compared to last week is that not a single coin now resides within the positive zone - meaning that the entire list of 35 coins is now in the neutral territory. Only eight coins among the 25 now have scores above 5, the highest being algorand (ALGO)'s 5.6. The majority's sentscores are, therefore, below the score of 5, and now, after several weeks, we have a coin in the negative zone again - 0x (ZRX) now sits at 3.5.
+
+____
+
+* - Methodology:
+
+Omenics measures the market sentiment by calculating the sentscore, which aggregates the sentiment from news, social media, technical analysis, viral trends, and coin fundamentals-based upon their proprietary algorithms.
+
+As their website explains, "Omenics aggregates trending news articles and viral social media posts into an all-in-one data platform, where you can also analyze content sentiment," later adding, "Omenics combines the 2 sentiment indicators from news and social media with 3 additional verticals for technical analysis, coin fundamentals, and buzz, resulting in the sentscore which reports a general outlook for each coin." For now, they are rating 35 cryptoassets.

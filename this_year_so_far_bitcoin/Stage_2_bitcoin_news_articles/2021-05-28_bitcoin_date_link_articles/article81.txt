@@ -1,0 +1,79 @@
+It’s a rocky time for Bitcoin, but one crypto trade show celebrates the notable faces of mainstreaming.
+
+Elon Musk isn’t personally responsible for Bitcoin’s recent misfortunes, but the optics around the situation aren’t great for him. Shortly after Musk tweeted a statement suspending the purchase of Tesla vehicles using Bitcoin, Bitcoin dropped 9.5%. Since then, fears of a crackdown on Bitcoin mining operations in China have continued the downward slide which has taken BTC from it’s April high over $65,000 to under $30,000 this week. Institutional investors began trading BTC for gold, while retail investors and Bitcoin adherents HODL in equal parts concern and optimism.
+
+In this atmosphere, Coindesk launched it’s “big tent” virtual crypto summit, Consensus 2021.
+
+Investor and hedge fund manager Ray Dalio headlined the event as opening keynote speaker. Dalio’s address was really a pre-recorded interview in which he shared thoughts on the future of money and monetary policy. But what words of comfort did Dalio have for the virtually assembled adherents of the cryptoverse? Perhaps the cure for Musk’s negative sentiment regarding Bitcoin could be found in the words of another extremely wealthy person?
+
+“I have some Bitcoin,” Dalio stated flatly when asked in the latter quarter of the interview. It made immediate headlines. Sometimes it isn’t so much about what is said, so much as who is saying it.
+
+Others also have some Bitcoin
+
+Michael J.Casey, CoinDesk Chief Content Officer, described the theme of this year’s event in interview with Benzinga as, “The convergence of economic disruption from COVID-19 lockdowns and stimulus efforts with explosive financial innovation across an array of digital asset and blockchain projects is poised to transform money as we know it...”
+
+It seemed that in the content-heavy event, there was another running theme, perhaps more implied than intentional -- the mainstreaming of crypto, especially through Bitcoin and NFTs.
+
+Story continues
+
+In his keynote on NFTs, entrepreneur, author, and speaker, Gary Vaynerchuk said, “...could you imagine if you were able to buy the original Mickey Mouse cell? If you could have actually bought the derivative if this was now and Walt Disney was now that first drawing of Mickey Mouse.”
+
+Vaynerchuk has been an avid supporter of Bitcoin and NFTs for some time now, producing multiple videos for his channel on how to make NFTs and buy crypto. As a successful content producer, it’s easy to imagine Vaynerchuk’s excitement in monetizing and promoting content through NFTs.
+
+Vaynerchuk recently released his own line of NFTs and he said, “This is going to be the greatest era of intellectual property ownership..”
+
+NFL Quarterback and seven-time Superbowl Champion, Tom Brady, appeared as a “Surprise Guest” on Wednesday and followed-up by posting a Twitter profile picture with “laser eyes” -- a sign of support for Bitcoin reaching $100,000.
+
+The Role of Influence
+
+It seems that with mainstreaming comes an ever-expanding cast of characters that arrive to promote Bitcoin and crypto overall.
+
+However, Bitcoin in particular seems especially susceptible to the public opinions of influential people. After all, Bitcoin’s value is “staked” in belief and in the past 18 months that belief has proven more steady than most traditional assets. But do influencers play an overall positive role in the crypto community?
+
+When asked if influencers play a positive role in crypto, Oliver Gale, CEO of Panther Protocol responded, “Replace the industry and the question is the same. Do public figures, celebs and influencers play a positive role in society?... We live in a world where individuals can have enormous sway over different sectors and sometimes it can be positive and sometimes less so. However, the fact that public figures are talking about blockchain and crypto is good in general as it means we are approaching the days of mass adoption and awareness.”
+
+However you measure influence, notable personalities wield in public sentiment around crypto, it’s clear that the phenomenon is amplified greatly by social media. And as mainstreaming continues, it isn’t just famous people promoting crypto in a way that has an impact, as we have seen with FinTok -- the Fintech arm of TikTok, a relative newcomer next to other monolithic social media platforms, but one that has already reached nearly 3 billion users with an emphasis on Millennial and Generation Z audiences. FinTok has had an impact in the rising fortunes of coins like Doge, which has left some of the crypto investing community feeling “trolled” but not everyone sees its influence as negative.
+
+“From a micro-perspective, it's shaking up the investment industry as a whole, and speeds up decentralization and a renewed voice to explain crypto regulations and technical analysis. From the macro-perspective, it's re-writing the narrative on how brands perceive their target investor,” Jordan Anderson, Chief Operating Officer of Bitbuy said.
+
+As for the opinion of Elon Musk -- at the end of Day 1 after 11 PM ET, Justin Sun shared an anecdote during his brief end of day 1-on-1. When the moderator asked Sun how he feels about being the bad boy of crypto, Sun said, "One of the best comments I've heard about Elon Musk... was Elon Musk is gonna' be the next Justin Sun".
+
+Perhaps Musk will supplant Sun in his role.
+
+Seeking Decentralization in a Centralized World
+
+Part of the appeal of the show is its diversity of topics in a content-rich event that spans morning until well after business hours for five days. One of the most compelling presentations, in our estimation, took place mid-conference in the 9:30 PM ET time slot.
+
+Presented by Dr. Robert Epstein, Senior Research Psychologist, American Institute for Behavioral Research and Technology; Amy James, Co-Inventor of Open Index Protocol; and Devon Read James, Inventor of Open Index Protocol, the presentation was sobering in its characterization of how tech giants like Google are not only tracking users’ behavior but also using that information to manipulate users toward desired behaviors.
+
+Dr. Epstein showed leaked internal communications between Google employees in which they discussed how to use “ephemeral experiences” to shift public opinion on policies by the 45th U.S. President. These ephemeral experiences are particularly troubling because, as the name suggests, they are packaged content experiences intended to persuade -- and then disappear. Effectively, these ephemeral experiences turn seemingly neutral sources like Google into propaganda distribution channels in a way that is untraceable and untracked.
+
+“There are three motivators -- the main one, of course, is to make money... but also to manipulate votes and to advance the prevailing values of the company,” Dr. Epstein said. “This manipulation has a profound impact on people without their knowledge.”
+
+Dr. Epstein said that the solution is to monitor Google and other tech giants with “systems that do to them what they do to us and then expose them.”
+
+Open Index Protocol (OIP) is working to make an open source index of metadata information -- and hold tech companies accountable for their actions while allowing start ups to compete with companies like Google, which relies on its enormous index to push out competing search engines.
+
+“There's a tension on the web today between freedom of expression, and the rights of private companies... The reason this tension exists is there isn't a true public space on the web... The platforms we really think of, like Twitter, are private companies, not public spaces. So since the early 2000s, the web has evolved into a walled garden model. On the one hand, regulation compliance would be practically impossible to monitor and enforce... On the other hand, breaking them up would make it even easier for information to be suppressed,” James said in her part of the presentation.
+
+We interviewed James to ask how OIP metadata index would be used in practical terms and whether this is a necessary building block of Web 3.
+
+“Web 3 will mean users’ data and anonymity is protected by default, processes usually done by centralized data centers are instead done by open networks, deep fakes are the source of funny gags but not real threats to information dissemination, and creative content producers can earn a real and reliable living. To achieve these goals absolutely requires a unified and open metadata layer,” James said.
+
+Conclusion
+
+It’s an interesting time to observe the crypto and blockchain community interacting, with Bitcoin down and in a virtual event that is far from the in-person trade show experience.
+
+It’s safe to assume that this is all part of the “new normal” -- a term that is rather a glib summary of some monumental shifts in behavior necessitated by the pandemic -- but the change is not entirely negative.
+
+The community is quick to point out that the principles of blockchain support decentralized experiences, but one thing lacking from the experience is most real two-way communication. Most sessions had no time for questions and when there was time the questions had to be carefully picked out by the moderator from numerous requests for the token giveaways Consensus used to incentivize attendees.
+
+Overall, the experience has the feeling of a work-in-progress. According to Casey, attendance was approximately 15,000 this year, down from 22,000 last year -- although it is not an even comparison since Consensus 2020 was a free event and the 2021 event was not.
+
+Ultimately, any time the community takes time from their projects to communicate with each other is a small success for blockchain. After all, if the voices of crypto influencers are disproportionately strong, the logical solution is to use our own voices and guide the discourse around the innovations that are changing our world.
+
+Cover image is composite of images by Gerd Altmann and Darwin Laganzon from Pixabay
+
+See more from Benzinga
+
+© 2021 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.

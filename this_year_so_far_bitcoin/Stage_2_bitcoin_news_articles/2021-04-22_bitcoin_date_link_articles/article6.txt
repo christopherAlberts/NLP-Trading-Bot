@@ -1,0 +1,3 @@
+The near 15% sell-off in bitcoin ( BTC ) on April 17 marked a quick sentiment shift from “absolute euphoria to agonizing panic,” based on an analysis by Arcane Research of the cryptocurrency’s derivative-funding rates.
+
+In the past few days, the cost to fund long positions in the market for bitcoin perpetual swaps, a type of derivative in the cryptocurrency markets similar to futures contracts in traditional markets, declined into negative territory, which typically precede spot price recoveries. The funding rate period is eight hours and is averaged across exchanges, weighted by the open interest, according to Glassnode.

@@ -1,0 +1,69 @@
+In September 2020, security developers working closely with Bitcoin made an uncomfortable and public revelation.
+
+A couple of years prior in 2018, a bug within Bitcoin’s blockchain was found. If discovered by naughty evil-doers, the line of code could have brought the world’s most famous crypto-currency crashing down.
+
+Known as the Inflation Bug, it would have allowed an attacker the capability to overload one or several of Bitcoin’s blockchain nodes with a surge of fictitious transactions.
+
+A year before in 2017, something also peculiar happened at Facebook that left a few people uncomfortable.
+
+Engineers working on a project within Facebook’s deep testing facility suddenly found themselves having to hit the kill switch. Their new adorable Artificial Intelligence (AI) creation — designed to communicate with itself in order to grow in behaviour and understanding— began to create its own language.
+
+The incident was downplayed of course. Facebook had to deny that their new AI programme was attempting to hide or disguise its language from its human masters. The PR department went on to confirm they had simply and offhandedly pulled the plug due to their ‘lack of interest’ in the event.
+
+The Rise of AI Warfare
+
+While Artificial Intelligence is very much in early stages, experts have predicted that future cyber warfare could eventually lead to AI fighting AI.
+
+That is specifically — ‘good’ AI vs ‘evil’ AI.
+
+Evil AI viruses will be made, beyond the realms of human-made firewalls and capabilities, in order to attack valuable online targets. Therefore in order to combat this threat, humans will be forced to create good AI to protect corporate interests and societal good. Again, beyond the understanding of humans.
+
+But at least we know they’ll be on our side… I think.
+
+So while we sit back and watch the terminators fight each other, we may nervously wonder if Bitcoin could withstand a future attack from Skynet itself. Let’s explore…
+
+Bitcoin Vulnerabilities
+
+Bitcoin’s blockchain is controlled by nodes which is the genius of Bitcoin’s decentralised design. Made up of a anonymous collection of computers located around the world (which number 5,000 total nodes), these ‘miners’ are rewarded for recording and verifying each movement of Bitcoin token on its blockchain ledger.
+
+This system of self-governance or ‘Proof of Work’ (PoW) concept is a protective measure against any likely-hood of one node trying to change a record or the ‘objective truth’ within Bitcoin’s blockchain ledger, since all other nodes (the majority) will disagree with it.
+
+The design of Blockchain however, once thought un-hackable due to its de-centralised nature, has been subjected to successful cyber-attacks. One such attack was against the blockchain underpinning Classic Ethereum, a crypto-currency cousin of Bitcoin.
+
+The anonymous perpetrator, finding a flaw within Classic Ethereum’s blockchain, tricked the nodes in to believing they had a 51% majority control and proceeded to duplicate transactions in a tactic called ‘double-spend’ — that’s when the attacker, by rewriting the ledger, has the power to make the same crypto-transaction over and over out of thin air.
+
+Beware of the Joker
+
+Thankfully for many, one of the best defences that Bitcoin retains is its popularity and sheer volume of usage. This makes it extremely more difficult to launch any 51% majority attempt.
+
+In order to attack, you’ll first need to rent enough computer power costing in the region of USD$250,000 per hour. If you somehow manage that and take control of most of Bitcoin’s nodes for a period of time, the benefits of your attack will still need to outweigh the cost. This is since your Bitcoin key could be tracked down post-attack and any coins in your possession removed by the very upset node majority.
+
+But while security concerns remain focused on the ‘51% attack’ potential, the greatest threat to Bitcoin may not come from someone (or something) who is simply trying to steal from it.
+
+What is more likely is similar to what Batman in Christopher Nolan’s portrayal of the Dark Knight comes to realise about his arch-rival the Joker. Finely summarised by Bruce Wayne’s trusty confident and Butler, Alfred:
+
+“…some men aren’t looking for anything logical, like money. They can’t be bought, bullied, reasoned, or negotiated with. Some men just want to watch the world burn.”
+
+In other words: stealing from Bitcoin is hard, destroying it may be easier (and perhaps more fun).
+
+Skynet’s Arbitrary Power
+
+The story of Skynet, depicted in the movie series ‘The Terminator’, is a unique fascination humans have held for over 100 years since concerns about the rise of machines first appeared (see the 1920’s play R.U.R).
+
+It’s true that within today’s realms that an evil AI probably does not exist at present to cause Bitcoin any real threat. That is because today’s AI is simply weak enough to be controlled or shut off as Facebook did.
+
+However, as the likes of Elon Musk and Stephen Hawking have argued, with AI becoming more powerful and influential in our everyday lives, precautionary measures and steps need to be taken to prevent a future where arbitrary goals of AI could come to dominate everything else.
+
+In a simplistic terms, take for example that in the future you set-up an AI to help you source supplies and operate production equipment to make candles.
+
+You build the AI with its core mission to lower costs and improve the way the candles are produced in order to maximise output. However, you happen to forget to programme in some important boundaries and human ethic considerations before starting off.
+
+With its one goal in mind, your creation begins to self learn in order to acquire more resources and production equipment for candle making. However, it soon becomes uncontrollable in its pro-candle quest by taking resources and attacking anything or anyone in its way towards maximise candle production output, including those trying to shut it down.
+
+While this is a silly illustration, the principle experts fear is the same. Rouge AI with a given arbitrary goal (even seemingly innocent at first) may stop at nothing, including world domination, to produce as many candles as possible.
+
+This is significant consideration for any digital currency, Bitcoin, crypto or otherwise that remains a dependent form of exchange for the future human race.
+
+It may not take long for us to discover if evil AI could indeed become smart enough to target Bitcoin’s weakest points or find more undiscovered bugs — causing just enough disruption for users to lose faith and abandon trust in its decentralised exchange.
+
+Some of you may call that ‘good’ AI.

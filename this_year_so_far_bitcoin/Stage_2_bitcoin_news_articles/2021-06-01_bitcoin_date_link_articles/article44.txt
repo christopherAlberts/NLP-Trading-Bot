@@ -1,0 +1,105 @@
+May was a pretty eventful month on the U.S. regulatory front (and on the crypto front generally). The Biden Administration is finally moving beyond broad statements and beginning to hint at what the industry can actually expect from new crypto regulations.
+
+You’re reading State of Crypto, a CoinDesk newsletter looking at the intersection of cryptocurrency and government. Click here to sign up for future editions.
+
+The Biden Administration gets busy
+
+The narrative
+
+Bitcoin’s price dropped 30%, then recovered a bit, then dropped a bit more, and Elon Musk was only partly responsible. Various U.S. government officials at different agencies described how they’re looking at crypto and crypto regulations. A congressional caucus focused on fintech and crypto has launched.
+
+Why it matters
+
+We’re finally getting a glimpse into how exactly President Joe Biden’s administration sees crypto. There’ve been more warnings against bad actors and too-fast efforts than there are concrete regulatory proposals, but the general trendline seems to be a growing acceptance that crypto is here to stay.
+
+Breaking it down
+
+A lot happened in the last two weeks.
+
+The Federal Deposit Insurance Corporation officially published its request for information about how banks are using digital assets and what the federal regulator could do to assist entities.
+
+New Acting Comptroller of the Currency Michael Hsu announced he had ordered his staff to review all pending matters and interpretive guidance issued under the Trump administration (read: former Acting Comptroller Brian Brooks) before revealing in a congressional hearing the Office of the Comptroller of the Currency, the Federal Reserve and the Federal Deposit Insurance Corporation were discussing a potential interagency group to examine crypto policy. (Fed Vice Chair Randal Quarles confirmed this in another hearing last week.)
+
+A day later, Federal Reserve Chairman Jerome Powell reiterated the Fed’s first research paper about a digital dollar would be published this summer, and he believes a U.S. central bank digital currency should prioritize consumer privacy and protection.
+
+A few hours after that, Securities and Exchange Commission Chairman Gary Gensler warned that bad actors in crypto should prepare for enforcement actions. He spoke during an address to 1,700 members of the Financial Industry Regulatory Authority.
+
+Also on Thursday, the Treasury Department published a tax plan that included an entire section on crypto, warning there was a “significant detection problem” with crypto use for illicit activities. It suggested that exchanges receiving over $10,000 in crypto in a single transaction should report it.
+
+So, yeah, a lot happened.
+
+My personal opinion: Overall, the week was a good sign for the industry. Mainstream adoption will depend in some part on crypto being seen as “normal,” like cash or more traditional assets. As Caitlin Long of Wyoming and Avanti fame put it in this excellent thread, the U.S.’ policy approach under the Biden Administration so far seems to be “if you comply with applicable laws and regulations, we’re cool with whatever.”
+
+Through that lens, the Internal Revenue Service cracking down on those trying to hide their crypto gains or Gensler’s SEC going after scammers or other lawbreakers is good.
+
+(This is, of course, dependent at least a little on Gensler providing some of the regulatory clarity everyone hopes for so crypto companies don’t have to spend hundreds of thousands of dollars on legal counsel to try and conduct a small, legally compliant token sale.)
+
+The Fed’s paper, I think, will be informative, but I’ve still seen nothing to suggest the central bank is actually going to issue a digital dollar or any other form of central bank digital currency. The fact it’s having these discussions publicly is a good sign, though. It normalizes how other institutions are going to be talking about this subject – such as, for example, those banks that may be hesitant to offer crypto companies services or to dabble in stablecoins.
+
+The FDIC’s involvement is another positive sign for banks. If (and this is a pretty big if) banks can secure deposit insurance for crypto-related activities, financial institutions can be even more confident that any money they store in crypto is safe.
+
+The main issues that should concern the industry stem from the OCC. I don’t think Hsu’s review of Brooks’ actions are a surprise. He’s a new agency head who was about to testify in front of a committee, whose chair has already asked President Joe Biden to overturn Brooks’ actions. I’d have been surprised if Hsu said anything other than “we’re taking a look, we’ll get back to you later.”
+
+That being said, the same day as the congressional hearing, Sen. Sherrod Brown (D-Ohio), who runs the Senate Banking Committee, asked Hsu to “reassess” the OCC trust charters issued to Anchorage, Paxos and Protego. These companies currently have conditional trust charters, so Hsu’s response will be key here. Recall that Rep. Maxine Waters (D-Calif.), who chairs the House Financial Services Committee, has already asked that Brooks’ OCC regulations be overturned. With that sort of pressure we might not see much in the way of further crypto-friendly regulations from the agency.
+
+On the flip side: Bitcoin’s recent market movements are probably not great for getting a bitcoin exchange-traded fund (ETF) approved.
+
+Baby banks
+
+Nathan DiCamillo contributed reporting.
+
+Nebraska and Illinois are getting their own special purpose depository institution/crypto banking laws, following in Wyoming’s footsteps and taking the industry closer to having banking institutions stemming directly from the industry.
+
+Illinois’ trust charter bill would create a special purpose trust charter for digital assets, which both new businesses and existing financial institutions – such as banks – could take advantage of, said Rep. Margaret Croke (D), the bill’s sponsor.
+
+The bill would offer stability to businesses that wonder how they could legally provide crypto companies with services, Croke said.
+
+Illinois is starting with a focus on custody, but Chasse Rehwinkel, the acting state banking director, didn’t rule out expanding regulations to cover lending or other activities in the future.
+
+Croke noted that Federal Deposit Insurance Corporation-insured entities can offer crypto custody services under the Illinois bill.
+
+Similarly, Nebraska’s new law would create newly chartered digital asset banks or new digital asset divisions within already established banks.
+
+“I think we’re going to see the true value of crypto over the next few years, but I do think it’s definitely going to have a place in our financial institutions. I think the international impact of crypto and blockchain is a whole ‘nother conversation, but the international aspect I find very, very compelling,” Croke told me.
+
+Croke said the regulations has support from various business types, though she said she couldn’t name any of these businesses at this time.
+
+Importantly, Illinois’ bill appears to have support directly from the state’s banks, according to Rehwinkel.
+
+“More than a year ago we were talking with our existing banks that were trying to be in the crypto space and also the general industry that was looking for custodial services in an Illinois-based company that dealt with crypto, so that spurred us to look around at what other states have done,” Rehwinkel said.
+
+Illinois’ trust charter is designed to fold new crypto rules into the state’s existing bank regulations, Rehwinkel said.
+
+“As we develop new charters, there’s probably things we can pick up and drop off. We always appreciate Wyoming going first with what made sense to them and then looking at the pieces and seeing what makes sense for us,” Rehwinkel said.
+
+The Illinois bill would let de novo, or new, institutions to begin operating, he said.
+
+Nebraska’s legislative bill 649 requires that institutions under the new charter call themselves “digital asset banks” and not refer to themselves just as “banks.”
+
+Unlike Wyoming’s special purpose depository institutions, digital asset banks under the Nebraska legislation cannot take fiat deposits. Like SPDIs, they can custody crypto and stake digital assets.
+
+The measure allows state and national banks to work side by side on digital asset initiatives as letters from the U.S. Office of the Comptroller of the Currency make national banks more comfortable with digital assets, said Mark Quandahl, an Omaha attorney involved in the Nebraska legislation.
+
+“I think this is kind of a good step to help spur more innovation and further items and policy items that the legislature might need to discuss to make sure this is an industry that is both safely overseen and has a strong regulatory structure, but is able to grow and be all that it intends to do,” Rehwinkel said.
+
+Biden’s rule
+
+Changing of the guard
+
+Key: (nom.) = nominee, (rum.) = rumored, (act.) = acting, (inc.) = incumbent (no replacement anticipated)
+
+We continue to sit in a sort of limbo period waiting for President Joe Biden to nominate some full-term heads for some of these agencies. These hypothetical future agency heads will provide further clarity at how the administration looks at crypto regulations.
+
+Elsewhere:
+
+Outside CoinDesk:
+
+( Wall Street Journal ) A few weeks ago I wrote about a New York power generation facility that had pivoted to bitcoin mining and was expanding its operations. A Montana power plant that runs on coal is now following suit, according to the Wall Street Journal, though it’s unclear to me whether its operators are also planning to convert the fuel source to natural gas.
+
+A few weeks ago I wrote about a New York power generation facility that had pivoted to bitcoin mining and was expanding its operations. A Montana power plant that runs on coal is now following suit, according to the Wall Street Journal, though it’s unclear to me whether its operators are also planning to convert the fuel source to natural gas. ( The Washington Post ) Joe Biden’s administration is now looking at crypto, and White House officials have received briefings from federal regulators, the Washington Post reports. Interestingly, the focus seems to be on investor protection without killing the industry (SEC chief Gary Gensler’s position), and officials aren’t concerned about crypto being a systemic risk.
+
+Joe Biden’s administration is now looking at crypto, and White House officials have received briefings from federal regulators, the Washington Post reports. Interestingly, the focus seems to be on investor protection without killing the industry (SEC chief Gary Gensler’s position), and officials aren’t concerned about crypto being a systemic risk. (Politico) It feels like we've been talking about bitcoin ETFs for a while now (we have), but there's reason for that: Regulators and lawmakers are still concerned about what they view as a volatile, less-than-safe bitcoin market. This Politico report breaks down some of these concerns.
+
+If you’ve got thoughts or questions on what I should discuss next week or any other feedback you’d like to share, feel free to email me at nik@coindesk.com or find me on Twitter @nikhileshde.
+
+You can also join the group conversation on Telegram.

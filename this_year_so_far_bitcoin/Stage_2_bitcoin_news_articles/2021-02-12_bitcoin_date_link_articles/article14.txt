@@ -1,0 +1,17 @@
+MicroStrategy is moving to assemble a blockchain analytics team. It would be the first bitcoin-related software product from a company best known for CEO Michael Saylor’s whopping bet on BTC as a reserve asset.
+
+The firm, based in Tysons Corner, Va., put out calls on LinkedIn Friday for a Blockchain Data Analyst and Blockchain Data Engineer, explaining in job postings they will join a team “building an analytics platform with advanced metrics and insights for Bitcoin.”
+
+MicroStrategy hinted last November its interest in building blockchain data products and even stated its intention to hire for them. Executives did not go public then with positions of interest and remained largely mum on program specifics, describing it as a potential data offering at the time.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+But Saylor has been vocal about perceived deficiencies in bitcoin‘s data. He declared last October that “garbage” market data was holding bitcoin back. “Where can you find something so incredibly compelling that has such bad data around it relative to other assets?” Saylor said at the time.
+
+For a man who spent much of last week all but pleading for his fellow CEOs to adopt the bitcoin standard, there’s an obvious, and vested, interest in improving upon the “garbage.”
+
+MicroStrategy did not respond to a request for comment by press time.
+
+The dual hirings add a rough picture to what could eventually become a commercialized intelligence offering for digital assets beyond just bitcoin. MicroStrategy wants analysts experienced with public, private and permission blockchains. (Bitcoin’s network is public and permissionless.)
+
+A product would also produce shareable, digestible analytical insights, the listings indicate. MicroStrategy’s new engineer would be responsible for developing software capable of turning troves of data into “visualizations” that can be shared with “broader audiences.”

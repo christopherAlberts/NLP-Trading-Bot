@@ -1,0 +1,103 @@
+Bitcoin is obviously scarce. And it seems to be becoming scarcer over time.
+
+Bitcoin is obviously scarce. And it seems to be becoming scarcer over time.
+
+But, perhaps due to the current bull run, doubts about both of these propositions are seemingly on the rise among bitcoin skeptics. Criticisms come in a few different flavors. The main one that I have seen argues that bitcoin cannot be scarce because it is highly divisible. Recently, that particular line of reasoning was subject to some particularly colorful discussions on Twitter.
+
+In this article, I want to clarify bitcoin’s scarcity. Let’s start with what the concept of scarcity actually means.
+
+What Is Scarcity?
+
+Scarcity is a core concept within economics. This is attested to by the concept’s frequent appearance in characterizations of the discipline.
+
+Thomas Sowell, for instance, characterizes economics as “the study of the allocation of scarce resources with alternative uses” in his book “Basic Economics.”
+
+Somewhat more elaborately, in the book “Economics,” Paul Samuelson characterizes the discipline as “Economics is the study of how people and society end up choosing, with or without the use of money, to employ scarce productive resources that could have alternative uses, to produce various commodities and distribute them for consumption, now or in the future, among various persons and groups in society. It analyzes the costs and benefits of improving patterns of resource allocation.”
+
+Both Sowell’s and Sameulson’s characterizations borrow from the famous characterization of the discipline made by Lionel Robbins in his “An Essay on the Nature and Significance of Economic Science" in the early twentieth century: “The science which studies human behavior as a relationship between ends and scarce means which have alternative uses.”
+
+The concept of scarcity in all of these characterizations of the economics discipline can be roughly summarized in the following way:
+
+Humans have a variety of wants, such as living by the beach, playing Nintendo every day, eating great food, socializing with friends, having the latest gadgets, becoming a good basketball player and so on. Both material and non-material resources are required for realizing these wants: time, money, labor, raw materials, land, mobile phones, refrigerators and so on.
+
+In some contexts, the resource(s) we require to achieve our wants are in abundance.
+
+For instance, everyone desires to breathe in order to live. On Earth, that just requires the air which covers the surface of our planet. While the air might be limited in a physical sense, it is essentially limitless given human wants. Hence, air is not scarce, but abundant. (One might argue, of course, that “clean air” is not abundant.)
+
+By contrast, most human ends require resources that are scarce: that is, they require resources which are limited given all of the human wants that it might support in fulfilling. It is important to understand that we are not just talking about some physical limitation here — air to breathe is also physically limited in this sense. Instead, the resource must also be limited with regards to what humans actually desire.
+
+Importantly, scarcity and abundance are contextual concepts. While air might be abundant in our standard human setting, it might not be abundant for a human colony on Mars. It certainly is not abundant for a deep-sea diver.
+
+Similarly, while oil might generally be scarce in the modern world, it was not really scarce for most people before the 19th century when applications for it began to emerge. Farmers that discovered it on their lands probably thought it was a nuisance.
+
+To understand the concepts of scarcity and abundance more clearly, lets work through an example that Sowell makes in “Basic Economics”:
+
+Many people in principle would want a house by the beach. But there is only a limited amount of land by the beach. So, even if we constructed houses on all of the suitable land next to our beaches, we would still not be able to meet everyone’s desires with respect to having beachfront property. Hence, land by the beach is scarce. Some demand for it will have to be left unsatisfied.
+
+But the limitations experienced from the land next to our beaches extend further. It, for example, can also be used for creating natural parks, oceanic research facilities, hotels, recreational facilities and so on. Dedicating all of the land that is suitable to beachfront property impinges on these latter human wants that are also common.
+
+Why is this all so important to economics?
+
+Scarce resources with alternative uses mandate an economic system: that is, a system which makes decisions on production and distribution in order to meet human wants. Whether a free market, a feudal system or a communist utopia, every society must make these choices given scarce resources with alternative uses.
+
+If resources were not scarce, there would be no need for economies or a scientific discipline to study them. Hence, the centrality of the concept of scarcity within the discipline.
+
+Compare various economics textbooks under a microscope and you will probably see that they do not use the term “scarcity” completely consistently. But all roughly mean something as explained above with the term and that is sufficient for our purposes.
+
+Is Bitcoin Scarce?
+
+Given the characterization of scarcity above, we must conclude that practically all of the resources we commonly use are scarce. Something like air is the exception, rather than the rule. And so it should not come as a surprise that bitcoin is scarce.
+
+To put it fairly simply, I would be very happy with 1,000 bitcoin. My guess is that I could probably find quite a few other people that would be happy with 1,000 bitcoin. So many, in fact, that we cannot all own 1,000 bitcoins.
+
+Given the wide variety of ends we can achieve with our bitcoin — buying a house, a car, a holiday, storing our wealth or whatever — this desire to hold bitcoin should be obvious. All money that is in relatively common use — even if it experiences more monetary inflation than bitcoin — is also scarce.
+
+Importantly, the fact that bitcoin, as most other monies in common use, is highly divisible — a precondition for being decent money, I would argue — does not make it abundant. It will still be no problem to find more people that want to have 1,000 bitcoin than there are bitcoin in existence.
+
+Consider the following for an illustrative comparison: Suppose a group of people is walking in a desert with a bucket of water and a syringe that can easily divide that amount of water into very many, very small amounts. Does this somehow make the water non-scarce? Of course not. Surely, they have less than what they ultimately want in the burning sun.
+
+Bitcoin Is Becoming Scarcer
+
+Scarcity is not just a binary concept. It seems that we can also sensibly speak of resources becoming more or less scarce. That can be the product of both supply and demand changes.
+
+For instance, suppose that heavy earthquakes destroyed much of the beaches in a particular area, so that there is less land by the beach available. As long as demand for land by the beach stayed relatively consistent, we are fairly reasonable in stating that “land by the beach has become scarcer.”
+
+Put differently, “less scarce” in this example just means that the amount of land relative to our desires for that land — for creating beachfront property, oceanic research facilities, hotels, recreational facilities and so on — has decreased.
+
+In what direction has bitcoin’s scarcity been heading? And how will it develop in the future?
+
+At the moment, bitcoin still experiences a small amount of monetary inflation — about 2 percent per year. This was even higher in the past and has been a decreasing factor on its scarcity from the supply side. People also lose and find previously lost bitcoin. It’s difficult to state how this has impacted the historical trend of bitcoin’s scarcity.
+
+Sometimes bitcoin is charged with having monetary inflation through the backdoor: one can, after all, copy the code, change some parameters and start a new digital currency. That criticism, of course, makes no sense. No one would argue that printing monopoly money somehow creates monetary inflation for the U.S. dollar.
+
+Most importantly with regards to bitcoin’s scarcity, the desire for bitcoin has been increasing over time — though admittedly with heavy fluctuations. This growth in demand has surely outweighed any of the impact from changes in Bitcoin’s supply. Hence, bitcoin’s scarcity has been increasing with time.
+
+And I am somewhat expecting this trend of increasing scarcity to continue.
+
+Bitcoin has a transparently encoded supply function which currently has low monetary inflation, and this monetary inflation will decrease further over time. Given the strong consensus over this production function, it is unlikely to change in the future. Bitcoin also offers people new means for financial freedom and sovereignty.
+
+All this is fairly interesting in a world where the money supply is not particularly transparent, unpredictable and subject to extensive surveillance and control. It leads me to think that demand for bitcoin will continue to increase over time. Given the rigid supply function, I would, therefore, not be surprised to see bitcoin’s scarcity continue to increase. Many people will probably only be able to own a small amount of bitcoin in the future.
+
+This trend, of course, is not an inevitability. Perhaps something could still break Bitcoin’s production algorithm and produce rampant monetary inflation. Or perhaps demand will start decreasing consistently after this current bull run and never recover. While I do not deem such scenarios likely, they are surely not impossible.
+
+Divisibility And Scarcity
+
+We have already established that bitcoin’s divisibility does not make it non-scarce. However, we need to explore the issue a bit further, as divisibility does impact the degree of scarcity.
+
+Imagine, for instance, that there was only one bitcoin in existence and that it was completely indivisible. That would not make for very good money, so I would expect there to be little to no demand for bitcoin in that case. Hence, bitcoin would not be as scarce as it is now.
+
+Alternatively, suppose that there were 21 million bitcoin, but that you could not divide them any further. Suppose further that demand conditions were relatively similar to those currently dominating the market. Assuming decreasing marginal utility from bitcoin ownership, it might be the case that bitcoin is actually scarcer in this situation as compared to the current situation.
+
+Teasing out the relationship between divisibility and scarcity for bitcoin — or really any other resource — can be a bit complicated. In any case, while we can acknowledge that the current level of Bitcoin’s divisibility impacts the degree of scarcity compared to alternatives, it is surely inaccurate to claim that the current level of divisibility negates its scarcity entirely.
+
+Conclusion
+
+Bitcoin is scarce. That fact is not changed by its divisibility.
+
+Of course, I am making those claims against the standard economic understanding of the term “scarcity.” But I think that any other reasonable sense of the term would have to draw the same conclusions. It would certainly require a rather strange understanding of the term “scarcity” to claim that bitcoin is not, in fact, scarce. One that is likely to be meaningless and unproductive for scientific analysis.
+
+Bitcoin scarcity also has been increasing over time, despite that the system has been subject to monetary inflation. This is because demand for bitcoin has increased over time (though admittedly with some severe volatility).
+
+I would expect this trend of increasing scarcity to continue, as its transparency, predictability, consensual nature, and censorship resistance make bitcoin a unique monetary asset. Though all of that is certainly not a given.
+
+This is a guest post by Jan-Willem Burgers. Opinions expressed are entirely their own and do not necessarily reflect those of BTC Inc or Bitcoin Magazine.

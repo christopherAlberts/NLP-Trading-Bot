@@ -1,0 +1,17 @@
+Ireland's health care service (HSE) announced on Friday that it has shut down its IT systems due to a "significant ransomware attack."
+
+"There is a significant ransomware attack on HSE IT systems. We have taken the precaution of shutting down all our IT systems in order to protect them from this attack and to allow us to fully assess the situation with our own security partners, HSE said on Twitter.
+
+It added that the attack and decision to shut down its IT infrastructure had no impact on COVID-19 vaccinations or the dispatch of ambulances nationally.
+
+Ransomware is a form of malware — malicious software — that encrypts a victim's files with the attacker demanding payment to unlock the data.
+
+But some medical appointments were being cancelled on Friday morning with Dublin's Rotunda Hospital — which provides maternal care — announcing on Twitter that "due to a serious IT issue all outpatient visits are cancelled today — unless you are at 36 weeks pregnant or later." Paediatrics appointments were not affected.
+
+HSE Chief Executive Paul Reid described the attack as human-operated and "very sophisticated".
+
+"We did become aware of it during the night and we've been acting on it straight away," he told RTE radio.
+
+"The major priority is obviously to contain it," he added. "As the morning progresses, we'll get greater clarity on the issue and greater clarity on the impact, and greater clarity on the next steps we are taking."
+
+He explained that COVID vaccinations can proceed because the system for it is run on a "separate infrastructure".

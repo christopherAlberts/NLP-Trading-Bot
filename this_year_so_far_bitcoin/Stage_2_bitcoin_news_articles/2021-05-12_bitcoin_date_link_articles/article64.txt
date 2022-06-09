@@ -1,0 +1,87 @@
+Top 10 Cryptocurrencies in Value in May 2021
+
+A glimpse at the top cryptocurrencies based on their value.
+
+Cryptocurrency is currently gaining traction as the value it rises. It has become the latest craze among investors and those interested in finance and technology, as digital money aims to change the way we transact in the coming years.
+
+In this article Analytics Insight has listed the top 10 Cryptocurrencies in value in May 2021
+
+Bitcoin
+
+Bitcoin (BTC) is the first, most well-known, and valuable cryptocurrency throughout the world. It is the first influential use of blockchain technology, which is a permanent and time-code ledger of transactions that is spread across all members of a network and is now being used in a variety of applications. The blockchain that underpins Bitcoin enables users to send and receive money without the need for a third-party intermediary like a bank or payment processor.
+
+Market cap: $1.080 trillion
+
+Value: $57,737.59
+
+Ethereum
+
+Ethereum is a great contender for the title of best cryptocurrency. It does not, however, compete with Bitcoin. It operates on a programmable blockchain, which means it can operate programs or applications on a decentralized basis, i.e. on millions of computers in one go. This opens up a plethora of potential applications, ranging from technology and finance to gaming and collectibles, making Ethereum an appealing investment.
+
+Market cap: $500 billion
+
+Value: $4,318.21
+
+Binance Coin
+
+Binance is one of the few cryptocurrencies that has surpassed its 2017 mark. There was a bull market during that year, and the prices of all cryptocurrencies increased along with it, hitting a peak before peaking and declining in value. Unlike the other cryptocurrencies, Binance Coin has maintained a slow but steady upward trajectory since 2017. Thus, Binance Coin has emerged to be one of the more reliable investment options with fewer risks due to its success.
+
+Market cap: $104 billion
+
+Value: $679.71
+
+Dogecoin
+
+Dogecoin is a cryptocurrency, a kind of digital money that allows peer-to-peer transactions through a decentralized network, just like bitcoin. There are several ways you can obtain Dogecoin, like many other cryptocurrencies. You may dig it yourself, or approve it as a means of payment. Even so, the simplest approach is to buy it from a cryptocurrency exchange. You will usually need to purchase Bitcoin or another common coin first, and then exchange it for DOGE.
+
+Market cap: $63 billion
+
+Value: $0.493584
+
+Cardano
+
+As compared to larger networks like Bitcoin, the Cardano network takes less energy to complete transactions, making it cheaper and more efficient. It aims to be more flexible and stable, thanks to frequent updates that make it less vulnerable to hacking. And with a stronger network, though, it is still unable to compete with the big cryptocurrencies.
+
+Market cap: $57 billion
+
+Value: $1.80
+
+Tether
+
+Since it is linked to the US dollar, Tether is the most reliable of all cryptocurrencies. The Federal Reserve Bank has one dollar for each unit of Tether. Tether is therefore ideal for investors who want to use their cryptocurrency to make transactions.
+
+Market cap: $57 billion
+
+Value: $0.999813
+
+XRP
+
+Ripple Labs’ XRP, which was launched in 2012, is regarded as one of the quickest and most efficient decentralized payment innovations. Admittedly, XRP concludes transactions in four seconds, outpacing Bitcoin, Litecoin, and Ethereum. Ripple’s entire thesis is on payment methods.
+
+Market cap: $53 billion
+
+Value: $1.52
+
+Internet Computer
+
+While Internet Computer was only officially released on May 10, 2021, it quickly climbed onto the Top 10 list of the most valuable cryptocurrencies by market capitalization. According to CoinMarketCap, it’s the world’s first blockchain that runs at web speed with unbounded capacity and also the third major blockchain innovation, alongside Bitcoin and Ethereum.
+
+Market cap: $46 billion
+
+Value: $374.16
+
+Polkadot
+
+Polkadot is a distinctive proof-of-stake cryptocurrency aimed at bringing blockchain adequacy to the masses. Its interface connects permissioned and permissionless blockchains, along with oracles, enabling systems to interact in a single environment. Polkadot allows an internet where independent blockchains can exchange data and transactions in a transparent and secure manner through the Polkadot relay chain. Polkadot’s goal is to make it better to access and link decentralized applications, services, and organizations.
+
+Market cap: $37 billion
+
+Value: $40.52
+
+Bitcoin Cash
+
+Bitcoin cash was created using improved Bitcoin code that enabled greater block sizes, resulting in faster transaction times and increased scalability. Bitcoin Cash is a viable alternative to Bitcoin with an enthusiastic market following, despite not being as commonly accepted or recognized as Bitcoin.
+
+Market cap: $29 billion
+
+Value: $1,576.61

@@ -1,0 +1,63 @@
+The stock market’s recovery from last year’s COVID-driven crash is a testament to the unprecedented level of federal stimulus pumped into the economy over the past twelve months, but few asset classes have benefitted from a rebound in financial markets more than cryptocurrencies.
+
+Bitcoin BTCUSD, +1.14% has risen a staggering 548% during the past twelve months, while Ethereum ETHUSD, +2.65% , the second most valuable cryptocurrency, has gained roughly 690% during that time, according to FactSet, compared to a 71% rise for the S&P 500. But the fate of this rally could depend greatly on President Joe Biden and his administration’s regulatory stance to the burgeoning crypto economy, experts tell MarketWatch. Here are the five biggest regulatory questions the Biden administration will face in the coming months and years that will greatly impact cyrpto investors:
+
+Who will be the Comptroller of the Currency?
+
+The agency in charge of chartering and supervising national banks is typically one of the more obscure federal financial regulators. But OCC has caught the attention of the crypto community through its championing of integration between the crypto economy and the legacy financial system under the brief leadership of former Acting Comptroller of the Currency Brian Brooks, said Jackson Mueller, director of policy and government relations at the crypto consultancy Securrency.
+
+Read more: Fed’s Powell says bitcoin is more of a substitute for gold than the dollar
+
+During his eight months as acting comptroller, Brooks issued issued several guidance letters affirming the ability of nationally chartered banks to serve as custodians of crypto assets and use a type of cryptocurrency called a stablecoin to make payments, among other issues. “The big issue is what happens to the guidance issued by Brooks and his team when someone else comes in,” Mueller told MarketWatch. “Do they go in a completely opposite direction and rescind that guidance?”
+
+Stablecoins are a type of cryptocurrency that pegs its value to some other asset. The most popular is Tether, pegged to the U.S. dollar. The crypto community is fond of these instruments because they facilitate transactions between highly volatile digital currencies — some analysts argue that Bitcoin’s rally has been enabled by aggressive issuance of new Tether tokens.
+
+Unlike currencies like Bitcoin and Ether, however, stablecoins are often not decentralized, but run by single companies and backed by assets held by traditional banks. Brooks’ guidance serves to give federally chartered banks the go-ahead to be a custodian for stablecoins and to use them for their own payments.
+
+The crypto community was excited at reports that Biden would name Michael Barr, who served at the Treasury Department during the Obama administration, as comptroller. Barr had ties to several fintech companies and he served on an advisory board at Ripple, issuer of the eponymous cryptocurrency XRPUSD, +0.67% . But Barr is reportedly no longer in contention for the job after progressives in the administration protested.
+
+Law professor Mehrsa Baradaran, an expert on the racial wealth gap, has emerged as the odds-on favorite to win the role, and crypto investors are less enthused about this pick, given the skepticism she has shown toward cryptocurrencies in the past.
+
+“While I share many of the cryptocurrency industry’s concerns with respect to failures of the banking industry, I do not believe cryptocurrency is the best solution to the problems of financial inclusion and equity in banking,” Baradaran told the Senate Banking Committee in 2019, arguing instead that Congress should task the Federal Reserve with setting up a digital payments infrastructure available to all Americans.
+
+Read more: Why the coming recession could force the Federal Reserve to swap greenbacks for digital dollars
+
+Are cryptocurrencies a threat to financial stability?
+
+The OCC will not be the only financial regulator concerned with the use of stablecoins, given the growing number of observers who claim that these instruments have enabled the growth of a new “shadow” banking system that threatens the stability of the U.S. financial system.
+
+Democratic Rep. Rashida Tlaib of Michigan recently proposed a bill that would require issuers of stablecoins to obtain a banking charter and obtain Federal Deposit Insurance Corporation insurance or keep reserves at the Federal Reserve “to ensure that all stablecoins can be readily converted into United States dollars, on demand.”
+
+Rohan Grey, president of the Modern Money Network, who helped craft the bill, has likened stablecoins to money market mutual funds, which came under great stress during the 2008 financial crisis.
+
+“We were looking at history of shadow banking and the examples in which entities… would claim they’d invented an instrument that walked and talked like money, that could be used like money, could be considered roughly as safe and stable as money in most circumstances,” Grey told The Block in December. “But then at moments of crises those claims turned out to be hollow, they became a massive source of systemic risk and inevitably they’d be bailed out in the name of protecting consumers. The effect of that was to privatize gains to socialize losses.”
+
+This issue of financial stability means that other regulators, including the Federal Reserve and the Treasury Department, may look to regulate stablecoins in the years to come.
+
+How will the government curb crypto money laundering?
+
+The most immediate regulatory issue that crypto investors will have to face is an impending decision by the Financial Crimes Enforcement Network — a Treasury Department unit tasked with fighting money laundering and other financial crimes — on new requirements for banks and other intermediaries to maintain records and verify customer identities for certain crypto transactions.
+
+Jerry Brito of the think tank Coin Center says that in the waning days of the Trump administration, Treasury attempted to fast track new rules that were “ill considered.” New requirements would have enabled the government to learn the owners of private crypto wallets and therefore their entire transaction history, even if that person had done nothing suspicious.
+
+“Since the Biden administration has come in, they’ve been more deferential to FinCen, who I don’t think ever really wanted this as much as [former Treasury Secretary] Steve Mnuchin did,” he said, adding that law enforcement was wary the rules would encourage criminals to refrain from transacting with U.S.-based exchanges that are known to cooperate with criminal investigations. “The Biden administration will take a more rational approach going forward,” said Brito, who is Coin Center’s executive director.
+
+What will happen with the Ripple lawsuit?
+
+Gary Gensler, who is expected to be confirmed as chairman of the Securities and Exchange Commission, will have many crypto-related issues to deal with — not least of which is a lawsuit filed in December against Ripple by the SEC.
+
+In its complaint, the SEC accused Ripple and its executives Brad Garlinghouse and Christian Larsen of selling more than $1 billion in digital currency without registering with the SEC. While SEC officials have said publicly that they don’t believe Bitcoin or Ethereum are securities that must be registered, the lawsuit indicates that the SEC views Ripple differently.
+
+“I’ve been surprised that the suit wasn’t filed a long time ago because Ripple is very different from Bitcoin or Ethereum,” Angela Walch, law professor and cryptocurrency expert at St. Mary’s School of Law, told MarketWatch. “It’s not truly a decentralized currency because you’ve had a single company essentially running it.”
+
+If the SEC is victorious in its suit, that will go a long way in helping define what types of digital assets will be viewed as currencies and which will be viewed as securities, Walch added.
+
+Will the SEC approve bitcoin ETFs?
+
+Crypto enthusiasts cheered Gensler’s nomination to lead the SEC, given his history of teaching blockchain and digital currencies at MIT’s Sloan School of Management. Coin Center’s Brito argued that his accession to the role of chairman will be good news for the many financial services firms attempting to sell Bitcoin exchange-traded funds.
+
+Several major financial services firms have submitted applications to offer bitcoin ETFs, incluind Wisdom Tree, Morgan Stanley MS, -1.44% and VanEck. Theoretically, investors might prefer bitcoin ETFs because purchasing actual bitcoin can be a hassle, as investors have to set up digital wallets or move money on to a crypto exchange. These ETFs, however, could be bought and sold much like traditional stocks.
+
+“Gary Gensler is somebody who likes orderly markets,” Brito said. “What a better way of allowing investors to participate in this asset class in an orderly way than having a well-regulated ETF.”
+
+Now read: A bitcoin winter ahead? Crypto expert predicts just that, but after digital asset hits $300,000 at end of 2021

@@ -1,0 +1,71 @@
+Bitcoin is taking a break, staying in a tight trading range with lower than average volume compared to the past month. Meanwhile, alternative cryptocurrencies and decentralized finance are stealing the spotlight.
+
+Bitcoin (BTC) trading around $33,782 as of 21:00 UTC (4 p.m. ET). Gaining 2.5% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $32,341-$34,715 (CoinDesk 20)
+
+BTC above the 10-hour and the 50-hour moving average just slightly on the hourly chart, a sideways-to-bullish signal for market technicians.
+
+Bitcoin trading on Bitstamp since Jan. 29. Source: TradingView
+
+The price of bitcoin is extending its weekend respite Monday, trading in a fairly tight $32,500-$34,500 range, although its 24-hour performance is up 2.5% as of press time.
+
+“XRP – and DOGE interestingly – both jumped over the weekend while most of the majors, including BTC and ETH, floundered,” noted Andrew Tu, an executive at quantitative trading firm Efficient Frontier. “While the timing is hard to say, it is usually the case after a period of low volatility that the market breaks out in one direction or the other.”
+
+Bitcoin spot trading volumes on major exchanges were at $2.6 billion Monday as of press time on the eight major venues tracked on the CoinDesk 20. That’s much lower than frenzied $4.8 billion average the past month, but well within earshot of the three-month average of $2.7 billion.
+
+Bitcoin volumes on major exchanges the past month Source: Shuai Hao/CoinDesk Research
+
+Lower volumes may explain some price sluggishness. Yet, given its 16% rise over the past month, Tu is skewing more bull than bear.
+
+“The market seems to be leaning bullish, though a break to the downside again is always possible,” he said.
+
+Bitcoin price performance on Bitstamp in 2021. Source: TradingView
+
+“January was a bumper month for bitcoin spot and futures volume, easily establishing new monthly all-time highs,” noted Jason Lau, chief operating officer of San Francisco-based exchange OKCoin. “For OKCoin, January spot volumes were more than two times December, which was already an all-time high,” Lau added “There’s clearly still a lot of interest in bitcoin as an asset, with the latest seeing Elon Musk expressing his support.”
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Lau told CoinDesk he is seeing a consolidation of bitcoin prices at current levels after the run-up to $42,000. He noted bitcoin’s dominance, a measure of the world’s oldest cryptocurrency market share in the ecosystem, continues to drop. Less than a month ago, on Jan. 3, bitcoin dominance peaked at over 73% and it has dropped roughly 10% since then.
+
+Bitcoin’s dominance in the market so far in 2021. Source: TradingView
+
+“Alt and DeFi tokens are having their moment with bitcoin dominance down,” said Lau.
+
+SushiSwap eating up DEX market share
+
+The second-largest cryptocurrency by market capitalization, ether (ETH), was up Monday, trading around $1,334 and climbing 2% in 24 hours as of 21:00 UTC (4:00 p.m. ET).
+
+SushiSwap is making gains in trading volume market share for decentralized exchanges, or DEXs, hitting an all-time high of over 23% of the entire market as of press time, according to data aggregator Dune Analytics.
+
+Market share of DEX trading volume for the past week. Source: Dune Analytics
+
+SushiSwap is a “fork” of reigning DEX by volume Uniswap, meaning that Uniswap’s smart contract code was used to create the rival exchange. Peter Chan, head of trading for OneBit Quant, says both SushiSwap and Uniswap are benefiting from cryptocurrency price gyrations to better position themselves in the market. “They both experienced huge growth in volume lately, most due to increased market volatility,” Chan told CoinDesk.
+
+Market share of major DEXs in the past six months. Source: Dune Analytics
+
+In addition, Misha Alefirenko, co-founder of crypto market maker VelvetFormula, says the DEX exchanges’ token price gains recently enticed traders to switch from centralized exchanges (CEX) over to DEXs. “As we saw in the rally in altcoins, it is predictable that DEXs gain some market share from CEXs, especially in native DeFi tokens.”
+
+Other markets
+
+Digital assets on the CoinDesk 20 are mostly green Monday. Notable winners as of 21:00 UTC (4:00 p.m. ET):
+
+Notable losers:
+
+XRP, the native asset of San Francisco-based Ripple Labs, experienced a huge price run-up and subsequent precipitous fall Monday, making it the top loser on the CoinDesk 20 the past 24 hours.
+
+“The XRP pump and dump may have been another situation where retail day traders brought the price upwards only to crash it,” noted Efficient Frontier’s Tu. “It seems like this sort of phenomenon is going to become more commonplace, especially in less-liquid markets like crypto, having been legitimized by the current zeitgeist.”
+
+Equities:
+
+Commodities:
+
+Oil was up 2.8%. Price per barrel of West Texas Intermediate crude: $53.66.
+
+Gold was in the green 0.75% and at $1,860 as of press time.
+
+Silver made major gains, up 7.5% and changing hands at $28.93.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield was flat Monday at 1.069.

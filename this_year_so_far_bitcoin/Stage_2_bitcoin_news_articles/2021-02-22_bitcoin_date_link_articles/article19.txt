@@ -1,0 +1,33 @@
+Crypto Payment Options Announced, Federal Reserve Official Addresses Bitcoin
+
+By: Joanna F. Wasick
+
+Late last week, BitPay, a leading provider of cryptocurrency payment services, announced that U.S. users of its prepaid debit card, which allows users to make purchases using cryptocurrencies, can add their card to the digital wallet of a major U.S. technology firm’s mobile payment application to enable secure in-store, app and online purchases using cryptocurrencies. A press release noted that BitPay cardholders would also soon be able to use the digital wallets provided by two other major technology firms. Also last week, a global provider of digital marketing promotions announced a new reward program that provides users with a gift card that enables the recipient to receive bitcoin. The cardholder can deposit the bitcoin in an existing cryptocurrency wallet, or set up a new one, with instructions from the provider.
+
+Earlier this week, James Bullard, the president and CEO of the Federal Reserve Bank of St. Louis (the Fed), said in a cable news interview that bitcoin poses no serious threat to the U.S. dollar as the world’s reserve currency. Bullard likened bitcoin to pre-Civil War currencies that were privately issued and were disfavored by the public because of their lack of stability, and the public’s overall desire for one uniform currency. Bullard also stated that the dollar’s position has not been undermined by existing currency competition between fiat currencies. He compared bitcoin’s rising price to historic fluctuations in gold prices, saying neither should affect Fed policy.
+
+For more information, please refer to the following links:
+
+Enforcement Actions Target Crypto Trading, Hacking and Money Laundering
+
+By: Keith R. Murphy
+
+This week separate actions were commenced by the Securities and Exchange Commission and by the New York Attorney General against a digital asset trading company and its officers. According to reports, the actions were brought in connection with the alleged offer and sale of digital asset securities from December 2017 to May 2018, and the trading of cryptocurrencies such as bitcoin without registering as a broker-dealer. Among other claims, the allegations include that the company failed to file a registration statement relating to the offering of digital tokens and that the offering did not meet any exemption from registration, and as a result, prospective investors were not provided with the required information for such an offering. The Attorney General’s action seeks to shut the company down, alleging that investors were defrauded by hidden trading fees and the sale of “worthless” tokens.
+
+According to a press release from the Department of Justice this week, three North Korean computer programmers were indicted in December 2020 on charges of participating in a wide-ranging conspiracy to steal cryptocurrency from financial institutions, to create malicious cryptocurrency applications, and to develop and fraudulently market a cryptocurrency platform. The indictment alleges that the programmers are part of a military intelligence agency within the Democratic People’s Republic of Korea. The press release includes a representative of the US Secret Service observing that the case is a “particularly striking example of the growing alliance between officials within some national governments and highly-sophisticated cyber-criminals.”
+
+Citing law enforcement sources, a French radio station reported that members of a ransomware cartel were recently arrested in Ukraine. Those arrested reportedly provided support for the cartel’s bitcoin money laundering operations, which involve laundering ransom-demand profits through the Bitcoin ecosystem through bitcoin mixing services.
+
+For more information, please refer to the following links:
+
+Flash Loan Attacks Cripple DeFi, Criminal ‘Retires’ with $1Billion in Bitcoin
+
+By: Veronica Reynolds
+
+Decentralized Finance (DeFi) protocols Cream Finance and Alpha Finance were victims of one of the largest flash loan attacks yet to have occurred, with attackers absconding with approximately $37.5 million, according to recent reports. Alpha Finance confirmed that one of its products was the root cause and that the loophole had been remediated. This attack comes on the heels of the recent attack on Yearn Finance, which according to reports, drained approximately $11 million and was caused by an exploit on one of its DAI lending pools.
+
+A large auto manufacturer recently experienced a ransomware attack, with attackers demanding $20 million in bitcoin for decryption and to prevent disclosure of stolen data. Reports indicate that the DoppelPaymer ransomware gang is the group responsible for the attack.
+
+One of the most popular “carding” marketplaces, Joker’s Stash, shut down this month, with the founder allegedly retiring after accumulating over $1 billion in bitcoin, according to reports. Carding refers to the process of stealing credit card credentials and reselling them online, usually in exchange for bitcoin. However, the true reason for the marketplace’s closure is yet unconfirmed, with some speculating that Interpol’s and the FBI’s coordinated seizure of the site’s domains in December might have prompted its demise.
+
+For more information, please refer to the following links:

@@ -1,0 +1,15 @@
+Bitcoin was soaring on Monday and, based on an analysis of blockchain data, the price move may have been weeks in the making.
+
+The “spent output profit ratio” (SOPR), a blockchain data metric that measures the net profit/loss position of outstanding bitcoin (BTC), had approached levels that typically precede price rallies, according to Glassnode, a cryptocurrency analytics firm.
+
+The SOPR dipped below a reading of 1 last week, precisely the level that typically leads to a reversal of a market drawdown, according to Glassnode.
+
+SOPR is used to predict trend reversals by measuring the realized value of the price of BTC sold versus the original purchase price in dollars.
+
+“It would be irrational to sell at a loss when gains are imminent,” according to Glassnode.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Bitcoin’s price fell Sunday to a seven-week low around $47,100 but has since jumped to around $54,200, up 8.9% over the past 24 hours, based on CoinDesk data.
+
+Will Clemente of Bitcoin Magazine Research, in an April 23 analysis published in the newsletter Pomp Letter, wrote it’s “relatively rare to see the aggregate of market participants to take losses in a bull market except during significant corrections.”

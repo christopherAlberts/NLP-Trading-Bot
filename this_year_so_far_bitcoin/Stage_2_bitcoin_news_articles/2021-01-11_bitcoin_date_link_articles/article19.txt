@@ -1,0 +1,29 @@
+What happened
+
+The world's largest cryptocurrency is bitcoin, and its price is plunging. Bitcoin tokens nearly reached a price of $42,000 late last week. But on Monday, bitcoin briefly dipped below $31,000 -- more than a 25% drop in a matter of days.
+
+As might be expected, any stock that has anything to do with bitcoin specifically or cryptocurrencies in general is down today. Several stocks are down by more than 20% as investors take profits off the table following a great run.
+
+Among the hardest hit cryptocurrency stocks today are bitcoin miners like Marathon Patent Group (NASDAQ:MARA), Riot Blockchain (NASDAQ:RIOT), Bit Digital (NASDAQ:BTBT), and CleanSpark (NASDAQ:CLSK) which were down 10%, 13%, 25%, and 4% respectively as of 1:30 p.m. EST.
+
+So what
+
+While I don't know for sure, it's possible an article from British newspaper The Times sparked the bitcoin crash. According to that article, people won't be able to transfer profits out of cryptocurrency exchanges and into their HSBC bank accounts. If you're buying bitcoin and alt-coins as an investment, you're assuming you'll be able to realize those gains in fiat currency someday. But if HSBC can block transfers, could other banks make similar announcements? It seems the possibility is sparking a panicked rush for the exits from bitcoin.
+
+Operational businesses like Marathon Patent Group, Riot Blockchain, Bit Digital, and CleanSpark are engaged in providing computing power to the bitcoin blockchain network and they generate revenue in bitcoin. So if bitcoin's value relative to fiat currency drops, then revenue for miners is worth less in the real world, explaining the drops in these stocks.
+
+However, bitcoin mining stocks are probably among the most pumped small-cap stocks in this space as well. Many of these are multi-bagger stocks in a matter of weeks, and their trading volume is rivaling that of large-cap stocks. The implication is they're firmly controlled by traders with short-term interests.
+
+Generally speaking, if short-term traders have bid these stocks up, it's not surprising to see them fall with the first sign that the party is over. There wasn't any company-specific news from Marathon or Riot Blockchain to explain their drops, other than the price of bitcoin. CleanSpark was giving a virtual roadshow, but the stock fell long before it started -- nothing bad happened at the roadshow to explain why the stock is down.
+
+As of this writing, Bit Digital's website was down, according to Isitdownrightnow.com. So it's unclear whether this bitcoin miner (which until recently was a car-rental business) has news relevant to shareholders. By the way, if it sounds crazy that a car rental company turned to bitcoin mining, wait until you meet Future FinTech Group (NASDAQ:FTFT), a former fruit juice company that's now developing blockchain technology for e-commerce. Both companies do business in China.
+
+Future FinTech Group owns 60% of DCON DigiPay Limited, which operates in Japan. According to news released today by the company, DCON DigiPay Limited has completed work on a product that will allow e-commerce platforms to accept bitcoin as a form of payment. Since Future FinTech Group has e-commerce sites in China, this technology could likely be integrated quickly. It's the kind of news that would typically send a stock like this flying. But since bitcoin is down and hype is muted today, Future FinTech stock was down 16% despite its press release.
+
+Now what
+
+So what if more banks start blocking transfers from cryptocurrency exchanges? If bitcoin remains a popular investment, then that might be good news for Grayscale Bitcoin Trust (OTC:GBTC), even though it's down 14% today. The fund trades over the counter, but holds bitcoin. The idea is it allows people to invest in bitcoin through their traditional stock brokerage accounts.
+
+According to the fund's website, the current value of its bitcoin assets is significantly less than the price of shares. This of course seems illogical -- why would you pay more for shares of a fund than the underlying bitcoin is worth? But it shows there's demand for this investment vehicle. Not everyone wants to set up an account with a cryptocurrency exchange in order to own bitcoin directly, leaving Grayscale Bitcoin Trust as one of the only options.
+
+If more banks block transfers, then investing through cryptocurrency exchanges would become less attractive. Therefore, it's possible there could be more demand for Grayscale Bitcoin Trust. However, the fund's value is still tied to the price of bitcoin. So investors must do research to form an opinion on where bitcoin is headed and whether this fund (with its associated fees) is something that fits their needs.

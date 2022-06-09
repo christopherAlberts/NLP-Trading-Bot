@@ -1,0 +1,61 @@
+March 24, 2021 10 min read
+
+Opinions expressed by Entrepreneur contributors are their own.
+
+When you buy Bitcoin and sell it for a profit you are subject to capital-gains taxes. This is the case whether you buy Bitcoin and sell it for dollars or whether you exchange it for other cryptocurrency for a profit. This is also the case if you buy Bitcoin, it goes up in value and then you exchange the Bitcoin for goods or services.
+
+The IRS has given guidance twice on cryptocurrency tax issues in IRS Revenue Ruling 2014-21 and 2019-24. The critical determination by the IRS in 2014 was that cryptocurrency is property, not currency, for federal tax purposes. This critical determination meant that crypto-trading profits will be treated similar to stock-trading profits, as stock and crypto are both considered property for tax purposes. Treating crypto profits like stock seems straight forward enough, but the rules are not so clear for Bitcoin and other cryptocurrency, since crypto can be purchased with dollars, go up or down in value and then be exchanged to buy a Tesla, pizza or even withdrawn for cash at a Bitcoin ATM. These exchange outcomes are not common in stock trading, and as a result the rules for crypto taxation are confounding.
+
+Related: 7 Things You Should Know About Cryptocurrency Taxes
+
+Trading of crypto and short-term vs. long-term gains
+
+Like a stock portfolio that you personally own, you will need to track the value of the crypto you buy, and then you’ll also need to track the value of crypto when it is sold or exchanged. For example, if you bought Bitcoin for $30,000 and then sold it in exchange for $50,000, you'll have a gain of $20,000. This gain is subject to tax at either short- or long-term capital-gains rates depending on how long you held the Bitcoin. If you held the Bitcoin for more than one year, you get preferred long-term capital-gains rates of 0-20%. Essentially, the long-term capital-gains tax rate is 0% for low- to middle-income earners (generally less than $40,000 if single, $80,000 for married couples) is 15% for middle- to high-income earners (generally income up to $441,000 if single, $496,000 for married couples) and is 20% for high-income earners (generally income in excess of $441,000 if single, $496,000 for married couples).
+
+If you held the Bitcoin or other cryptocurrency for a year or less, then you are subject to short-term capital-gains rates, which vary from 0-37% based on your modified, adjusted gross income.
+
+Exchanging one crypto for another
+
+The exchange of one cryptocurrency for another causes taxable gain. For example, if you bought $50,000 of Bitcoin one month and then exchanged it for Ethereum later worth $70,000, then you have a taxable gain of $20,000. This is the case whether you held the Bitcoin for one minute and traded it for other cryptocurrency or whether it was held for years.
+
+Using crypto for goods or services
+
+When you exchange cryptocurrency for goods or services, you are taxed on the increase in value that cryptocurrency has from the time of purchase until the time it is exchanged. For example, if you bought a Tesla with $100,000 worth of Bitcoin, you would need to track when that $100,000 in Bitcoin was purchased, and you would then pay tax on the increase. If that Bitcoin were purchased at a value of $40,000, then there would be a gain of $60,000 when that Bitcoin is then exchanged for the Tesla. If held for over a year, it will be a long-term capital gain and will be at preferred rates. If the Bitcoin was held a year or less, the $60,000 gain will be taxed at short-term capital-gains rates.
+
+Crypto losses
+
+When you buy and then sell Bitcoin or other cryptocurrency for a loss, you are entitled to a tax loss. Losses can occur when selling crypto at a loss and when exchanging crypto for other cryptocurrency or goods or services at a loss. Losses from one crypto trade or exchange can be used to offset other crypto gains. Short-term crypto losses can offset short-term crypto gains, and long-term crypto losses can be used to offset long-term crypto gains. Crypto losses can also potentially be used to offset gains from stock or mutual funds. If crypto losses exceed crypto gains, as well as stock, ETF and mutual fund gains, then up to $3,000 of the loss can be used to offset other income such as wages or self-employment income. Any losses that cannot fully be used against income in the year incurred can be carried forward to future years and netted against future crypto or stock-trading gains.
+
+Crypto forks and airdrops
+
+IRS guidance in 2019 clarified two unique items that can occur on a crypto blockchain. The first is a fork. There are different kinds of forks that may occur, and what crypto owners need to know for tax purposes is that if a new coin result from a hard fork, those new coins are considered taxable as ordinary income to the recipient. The IRS also clarified in 2019 that an airdrop of new coins to existing cryptocurrency holders will be taxable as ordinary income to the recipient at regular income-tax rates. Airdrops are distributions of free coins or tokens to current cryptocurrency holders and are usually promotional.
+
+Crypto mining and staking is ordinary income taxed at regular rates
+
+Cryptocurrency mining and staking income is ordinary income for tax purposes. Cryptocurrency mining, and its staking counterpart, is a service that computers provide to a cryptocurrency blockchain network. The owners of these computers typically receive cryptocurrency from the network in exchange for their services. So, for example, if I owned computers that provided cryptocurrency mining or staking, then I would typically receive crypto in exchange for these services and would pay tax on that crypto to the IRS. The payment in crypto is taxable income just the same as if I were paid in dollars to perform these same services to the network.
+
+The value of the crypto when it is received is the value to be used for tax-reporting purposes. If the value of the crypto increases after it's received, then you will pay capital-gains tax on the increase of value when the crypto is later sold or exchanged. So, for example, let's say you received Bitcoin worth $1,000 for crypto-mining services and that this crypto then increased in value and three months later was sold and traded for $1,500. The first $1,000 would be taxable as ordinary income. This income will be subject to regular income-tax rates, which range from 0-37%. The $500 increase in value in the Bitcoin after it was earned will be treated as capital-gain income.
+
+Record keeping and reporting is required
+
+The taxation of cryptocurrency is complicated and requires diligent recordkeeping when buying, selling or exchanging. The responsibility to properly report this is on the crypto owner. There are numerous cryptocurrency-tracking applications that have been created to help cryptocurrency investors, users and traders properly track and report their taxes. CryptoTrader.tax and Cointracker.io are lading providers to investigate. There are around 10 companies that have an application to assist in tracking your crypto for tax purposes.
+
+The IRS requires the reporting of cryptocurrency gains and losses on form 8949. Form 8949 is filed with your personal 1040 tax return. The major providers of crypto in the U.S. report crypto transactions and trading to the IRS. This includes Coinbase, Gemini, Kraken, Cash App, PayPal and Binance.us. Whether the exchange you used reports to the IRS or not, you still have a reporting obligation.
+
+But do not think that you can avoid taxation by using a company outside the U.S. You need to be wary, as this can result in additional foreign asset reporting requirements to the IRS. For example, the foreign bank account rules known as FBAR have a pending rule change that would include crypto holdings to fall under the definition of a bank account and would thus result in foreign bank account reporting of crypto assets. Additionally, crypto held with a provider outside the U.S. that exceeds $50,000 in value may also require the filing of a Statement of Specified Foreign Financial Assets, or Form 8938. In sum, do not assume that trading and holding crypto abroad will exempt you from tax-reporting obligations. In fact, it makes it more complicated, and it does not reduce your tax obligations.
+
+Related: Cryptocurrency and Taxes: What You Need to Know
+
+Using an IRA to defer or obtain tax-free gains on crypto profits
+
+A Roth IRA can be used to invest in crypto and can grow and come out tax-free at retirement. When trading crypto with a Roth IRA or other retirement account, you can bypass the tracking and annual tax-reporting, as crypto profits in a Roth IRA or other retirement account are not subject to tax and do not show up on your 1040 personal tax return.
+
+Many early adopters of cryptocurrency who my company worked with found the tax rules and reporting of cryptocurrency gains to be onerous and expensive. These early adopters enjoyed dramatic value increases, and in turn saw significant tax bills when selling or exchanging that cryptocurrency. The Roth IRA became a particular favorite for those who perceived large gains, as it allowed them to invest and own cryptocurrency where the gains can grow and come out tax-free once they reach retirement age of 59 ½.
+
+A self-directed Roth IRA is a more tax-efficient option to invest or trade cryptocurrency for the long haul. For those unfamiliar, the income and gains made by a Roth IRA are not taxable and they grow and come out tax-free at retirement. This is the case with stock you trade in your Roth IRA, and it is the case with crypto that you trade in your Roth IRA. When using a retirement account, you can also skip over the annual tax reporting on your 1040, given that the income in a retirement account is exempt from capital-gains taxes.
+
+In additional to Roth IRAs, you can also use traditional IRAs, HSAs solo 401(k)s and other retirement accounts to invest in bitcoin and other cryptocurrencies. Keep in mind that traditional IRAs and 401(k) accounts are subject to tax on the distributions from those accounts at retirement, but are not subject to tax year-to-year and grow tax-deferred until you take distributions from the account.
+
+It is important to realize that the funds in a Roth IRA or other retirement account cannot be withdrawn until the account owner reaches 59 ½. If the account owner takes a distribution of the gains on a Roth IRA before the owner reaches age 59 ½, they will be subject to early withdrawal penalties and taxes on the investment gains withdrawn.
+
+The usual broker dealers who provide retirement accounts do not allow you to invest and trade cryptocurrency in their IRAs and Roth IRAs. Instead, you will need to use a retirement account custodian who provides self-directed accounts. This is what my company and about 20 other companies in the so called self-directed IRA industry provide. These companies allow you to invest in real estate, private companies, and some allow for cryptocurrency. When choosing a provider for a crypto IRA or crypto Roth IRA, watch out for significant trading fees, make sure they are licensed and ensure that you are comfortable with the management team and services selected.

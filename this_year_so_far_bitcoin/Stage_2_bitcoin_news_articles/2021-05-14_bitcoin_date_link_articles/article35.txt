@@ -1,0 +1,191 @@
+Crypto at a glance
+
+The shockwaves continue to reverberate on social media from Elon Musk’s announcement late Wednesday night that Tesla would no longer accept Bitcoin due to energy concerns, but with the price holding strong at $50,000 the big question now is: does anyone else really care?
+
+Has the cryptocurrency industry outgrown the random warblings of an unpredictable and easily-bored billionaire?
+
+The immediate aftermath of Musk’s meltdown saw Bitcoin’s sharpest drop for four months, falling more than 13 per cent in a day. However, things seem to have settled quickly and it appears support at $50,000 is holding strong. The leading cryptocurrency by market cap is currently trading at $50,039.48, down 1.74 per cent over the last 24 hours.
+
+While Musk’s various statements have given Bitcoin a couple of timely boosts on its way up, experts seem unshaken by the revelations and it seems the same may not be true in the other direction. Bloomberg Intelligence commodity strategist Mike McGlone, for one, wrote on Thursday that: “Elon Musk saying Tesla is suspending purchases using Bitcoin doesn’t shake our thesis that the crypto is in early price discovery days on its way to becoming the global digital reserve asset in a world of accelerating digitalization and electrification.”
+
+There’s limited movement generally today, with Ethereum also down again below $4,000 to just below $3,9000, though it’s still up more than 11 per cent on the week. Several cryptocurrencies actually seem to have benefited from Musk’s announcement, particularly those boasting stronger green credentials. Cardano (ADA) surged yesterday to a high of $1.96, catapulting its market capitalisation to roughly $61.5 billion and making it again the fourth largest cryptocurrency by market cap. Can it break $2?
+
+Other big winners are Dogecoin, which was again the recipient of Musk’s good will as he claimed he was working with developers to improve the technology, despite cynics noting a lack of apparent developers. Will he succeed in making Doge more than just a joke?
+
+
+
+
+
+DeFi & Digital Inclusion Summit…
+
+Join us on Thursday May 20 for six hours of discussion, presentations and insight into the world of cryptocurrency and the technology behind it.
+
+Register for free, here… Defi & Digital Inclusion Registration
+
+All feedback on Crypto AM Daily in association with Luno is welcome via email to James.Bowater@cityam.com 🙏🏻
+
+In the markets
+
+The Bitcoin economy
+
+*Definitions and insights can be found at https://bytetree.com/insights/
+
+Total crypto market cap
+
+The total capitalisation of the entire cryptocurrency market at time of writing is currently, down from $2,313,221,177,3538 yesterday.
+
+What Bitcoin did yesterday
+
+We closed yesterday, May 13 2021, at a price of $49,716.19, up from $49,150.53 the day before.
+
+The daily high yesterday was $51,330.84 and the daily low was $46,980.02.
+
+This time last year, the price of Bitcoin closed the day at $9,269.99. In 2019, it closed at $7,814.92.
+
+Bitcoin market capitalisation
+
+Bitcoin’s market capitalisation at time of writing is $931.38 billion, down from $955.22 billion yesterday. To put that into context, the market cap of gold is $11.656 trillion and Alphabet (Google) is $1.502 trillion.
+
+Bitcoin volume
+
+The total spot trading volume reported by all exchanges over the last 24 hours was $76,444,737,884, down from $96,611,770,408 yesterday. High volumes can indicate that a significant price movement has stronger support and is more likely to be sustained.
+
+Volatility
+
+The price volatility of Bitcoin over the last 30 days is 64.17%.
+
+Fear and Greed Index
+
+Market sentiment today is at 26, down from 31 yesterday.
+
+Bitcoin’s market dominance
+
+Bitcoin’s market dominance today is 41.71, down from 42.08 yesterday. Its lowest ever recorded dominance was 37.09 on January 8 2018.
+
+Relative Strength Index (RSI)
+
+The daily RSI is currently 38.05, down from 40.41 yesterday. Values of 70 or above indicate that an asset is becoming overbought and may be primed for a trend reversal or experience a correction in price – an RSI reading of 30 or below indicates an oversold or undervalued condition.
+
+Convince your Nan: Soundbite of the day
+
+“The source of electricity is increasing from solar and wind, which are cost effective. On a global scale, electricity is going renewable.” – Mark McGlone, Bloomberg Intelligence commodity strategist
+
+What they said yesterday
+
+The man never stops…
+
+MicroStrategy has purchased an additional 271 bitcoins for $15.0 million in cash at an average price of ~$55,387 per #bitcoin. As of 5/13/2021, we #hodl ~91,850 bitcoins acquired for ~$2.241 billion at an average price of ~24,403 per bitcoin. $MSTRhttps://t.co/EwZnRkAt6k — Michael Saylor (@michael_saylor) May 13, 2021
+
+The theories start…
+
+I refuse to believe one of the smartest people on Earth – @elonmusk – JUST realized Bitcoin uses electricity. @APompliano we need to get to the bottom of this lol — Andrei Jikh (@andreijikh) May 13, 2021
+
+Not bitter though…
+
+Bet.
+
+
+
+I wouldn’t buy a Tesla with Bitcoin anyway. — Okung 💯 (@RussellOkung) May 12, 2021
+
+Ok…
+
+Working with Doge devs to improve system transaction efficiency. Potentially promising. — Elon Musk (@elonmusk) May 13, 2021
+
+Oh…
+
+…electricity isn’t used for transaction processing. It’s used to secure the network. Doge is PoW meaning it faces the same basic dynamics as Bitcoin. It uses less electricity now because it’s less secure. — Ari Paul ⛓️ (@AriDavidPaul) May 13, 2021
+
+Crypto AM Editor writes
+
+Ethereum yet to take off and is on track for $5,200 soon say experts…
+
+Ethereum punches through $3,000 with market cap bigger than Bank of America…
+
+Ethereum closing in on $3,000 as Bitcoin eases off the throttle…
+
+Cardano teams up with Save the Children for humanitarian initiative…
+
+HMRC were not clamping down on crypto…
+
+Binance jumps on the NFT market…
+
+Ethiopia overhauls its educational system with IOHK blockchain partnership…
+
+Crypto AM: Longer Reads
+
+City AM Markets: What is Decentralised Finance (DeFi) by Aave…
+
+Crypto AM: Conversation with James Bowater
+
+Crypto AM: Market View
+
+Crypto AM: Technically Speaking
+
+Crypto AM: A Trader’s View with TMG
+
+Crypto AM: Mixing in the Metaverse with Dr Chris Kacher
+
+Crypto AM: Talking Legal
+
+Crypto AM: Spotlight
+
+Crypto AM: Founders Series
+
+Crypto AM: Industry Voices
+
+Crypto AM: Tiptoe through the Crypto with Monty Munford
+
+Crypto AM: Definitively DeFi
+
+Crypto AM Parliamentary Special
+
+Part one of two – April 2021
+
+Part two of two – April 2021
+
+Five-part series – March 2021
+
+Part one…
+
+Part two…
+
+Part three…
+
+Part four…
+
+Part five…
+
+Crypto AM: Recommended Events
+
+Crypto AM DeFi & Digital Inclusion Online Summit powered by Cointelligence Fund
+
+May 20 2021
+
+AIBC World
+
+May 25 to 26 2021 – Dubai
+
+https://aibc.world/events/uae/general-info/
+
+Bitcoin 2021 – Miami
+
+June 3 to 5 2021
+
+https://b.tc/conference
+
+Crypto AM City of London Roundtable
+
+Crypto AM DeFi & Digital Inclusion Summit
+
+&
+
+Crypto AM Awards 2021
+
+September 29 and 30 2021
+
+Cautionary Notes
+
+It’s definitely tempting to get swept up in the excitement, but please heed these words of caution: Do your own research, only invest what you can afford, and make good decisions. The indicators contained in this article will hopefully help in this. Remember though, the content of this article is for information purposes only and is not investment advice or any form of recommendation or invitation. City AM, Crypto AM and Luno always advise you to obtain your own independent financial advice before investing or trading in cryptocurrency.
+
+All information is correct as of 08:30am GMT.

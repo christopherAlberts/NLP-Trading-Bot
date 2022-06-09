@@ -1,0 +1,35 @@
+Mystery Bitcoin Whale from 2010 Disappears, Dormant Address from 2013 Sees Strange Activity
+
+Toward the latter half of 2020 and during the first quarter of 2021, a mystery miner spent 200 block rewards from 2010 by transferring 10,000 bitcoin during the year. Since the whale’s last 1,000 bitcoin spend on March 23, the patterns of 20 decade-old strings of coinbase rewards are seemingly over. Meanwhile, only eight block rewards from 2010 have been spent since the whale’s last string of spends. Alongside this, approximately 21 block rewards from 2011 have been spent since the March 23 report.
+
+2010 Mega-Mining Whale Goes Missing
+
+60 days ago, Bitcoin.com News caught the last spend from the mega-whale miner who transferred 10,000 sleeping bitcoins mined back in 2010. The 10,000 bitcoin was spent during the course of a 12-month period with 200 blocks from 2010 moved. The mystery whale has not returned since then, and it seems that the entity may be done transferring strings of 20 consecutive block rewards that were well over ten years old in age.
+
+The whale was notable because each string of 20 block rewards from 2010 was spent in a single block and most likely stemmed from the same miner. The spending pattern of 10,000 bitcoin (BTC) from the 2010 era was always the same and never deviated from the prior spending schemes.
+
+The research in those reports was bolstered by the blockchain parsing engine Btcparser.com, members of the Telegram channel “gfoundinsh*t,” the blockchain researcher Issak Shvarts and the gfoundinsh*t leader Taisia. At the time, Shvarts had said he believed that the thousands of bitcoin from the 2010 block rewards were sold to Coinbase customers.
+
+Taisia was also instrumental during the recent move by the Bitfinex hackers. The hackers recently moved thousands of BTC from the August 2016 breach. Since the last 20 block spend on March 23, which saw 1,000 BTC mined in 2010 move to another address, only eight 2010 blocks have been spent since then.
+
+It’s also interesting to note that the mystery miner leveraged the most opportune selling times to transfer the BTC if he/she or they decided to sell the coins. BTC’s price has since retreated from a high of $64k per unit to a $30k bottom on May 18, 2021.
+
+Bitcoin’s value managed to jump back above the $40k zone, but since then the value has been riding a couple of thousand dollars below that rate. Out of the eight, 2010 block rewards spent during the last 60 days, three of the blocks worth 150 BTC total were likely mined by the same owner.
+
+Strange Activity from 2013 Bitcoins, Whale Alert Sends Dozens of the Same Telegram Message Repeatedly, 21 Block Rewards from 2011 Spent
+
+In between that 60-day spread, there’s been some strange activity from coins obtained in 2013. On May 4, the Telegram channel operated by the blockchain parser known as “Whale Alert,” published dozens of messages that repeated the same messages.
+
+It said: “A dormant address containing 500 BTC (26,960,325 USD) has just been activated after 7.4 years (valued at 429,542 USD in 2013).”
+
+At the time BTC was exchanging hands at prices between $57k to $59k. Not too long after the dormant 2013 address transfer, bitcoin’s average price plummeted to roughly $53k per unit on May 12.
+
+Two-month stats also show that approximately 21 random block rewards from 2011 have been spent since the mystery whale transfer at the end of March. While 2010 block reward spends are taking place less, especially since the mega whale is ostensibly complete, coinbase rewards from 2011 have been far more prominent.
+
+Although, a 2010 block was transferred on May 21, and it was mined on September 18, 2010, while another 2010 coinbase reward mined on July 15, 2010, was spent on May 14.
+
+What do you think about the frequency of old sleeping bitcoin spends in 2021? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, theholyroger.com/satoshi-bags-tracker, Whale Alert Telegram Channel (screenshot),
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

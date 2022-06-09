@@ -1,0 +1,59 @@
+LONDON, ENGLAND – DECEMBER 07: A visual representation of the digital Cryptocurrency, Bitcoin on December 07, 2017 in London, England. (Photo by Dan Kitwood/Getty Images)
+
+(KTVX) — “Tesla has suspended vehicle purchases using Bitcoin. We are concerned about rapidly increasing use of fossil fuels for Bitcoin mining and transactions, especially coal, which has the worst emissions of any fuel.”
+
+That was the message posted to Twitter on Wednesday by Tesla CEO Elon Musk, a frequent and vocal advocate for cryptocurrency.
+
+“Cryptocurrency is a good idea on many levels and we believe it has a promising future, but this cannot come at great cost to the environment,” Musk continues, saying Tesla will not sell any Bitcoin, but “intend to use it for transactions as soon as mining transitions to more sustainable energy.”
+
+If you’re unfamiliar with cryptocurrency, let’s break this down.
+
+Cryptocurrency has been around for over a decade. It is a non-tangible monetary asset, a “digital representation,” sort of like a stock — you can’t hold it, but you can use it like money, purchasing vehicles and tickets to sporting events, or even making donations to nonprofits. The virtual coin has attracted full communities, like those invested in Dogecoin, a cryptocurrency based on a meme that Musk is also connected with.
+
+According to Bitcoin, there are three primary ways to obtain the virtual currency: buying on an exchange, accepting them for goods and services (like buying a Tesla), and mining new ones. No, you don’t need a pickaxe to mine Bitcoin.
+
+Let’s say you buy a Tesla from your neighbor Steve with Bitcoin. To make sure your Bitcoin is a genuine Bitcoin, miners begin to verify the transaction. All of the transactions that individuals are trying to verify are gathered into boxes with a virtual padlock on them — “block chains.”
+
+As Bitcoin explains, miners run software to find the key to open that padlock. Once it is found, the box opens and the transaction is verified. If your friend Jane is the miner that finds that key, they receive a reward of newly generated Bitcoins.
+
+Currently, Blockchain.com – which presents the latest, real-time Bitcoin transactions – reports it takes over 25 trillion attempts to find that “needle in a haystack” key.
+
+So while there are no people heading to physical mines to collect Bitcoin, it wouldn’t be possible without real miners.
+
+To mine Bitcoin, and do pretty much anything with cryptocurrency, you need electricity.
+
+According to the University of Cambridge Centre for Alternative Finance, Bitcoin – the use of, the mining of – uses an estimated 13.81 gigawatts of electricity annually. In October 2015, when the university began tracking Bitcoin’s electricity consumption, that annual estimated usage was around 2.25 gigawatts.
+
+How much is a gigawatt?
+
+While Doc Brown’s DeLorean in “Back to the Future Part II” needed 1.21 gigawatts to travel through time, the U.S. Office of Energy Efficiency & Renewable Energy offers a better understanding of how much one gigawatt of power is: a watt is a measure of power (and defensive end for the Arizona Cardinals … ba-dum tsss) and there are 1 billion watts in one gigawatt.
+
+Here are examples of how much power is equivalent to one gigawatt:
+
+3.125 million solar panels
+
+412 wind turbines
+
+110 million LEDs
+
+Roughly 1.3 million horses (if you prefer horsepower)
+
+2,000 Corvette Z06s
+
+To understand how much coal is needed to power one gigawatt, we need to do some quick math. To measure coal consumption, we use kilowatt-hours. A kilowatt-hour is a unit of measurement to understand how much energy you would use if you kept a 1,000-watt appliance running for an hour. So, it would take 10 hours of a 100-watt light bulb being on to rack up one kilowatt-hour.
+
+To generate a kilowatt-hour of electricity, you’d need about 1.13 pounds of coal, according to the U.S. Energy Information Administration.
+
+Now, how many kilowatt-hours are equal to one gigawatt hour? One million.
+
+That means for one gigawatt-hour, you need about 1.13 million pounds of coal. To satisfy Bitcoin’s current energy needs, you’d need about 15.6 million pounds of coal.
+
+Musk says they are “looking at other cryptocurrencies that use <1$ of Bitcoin’s energy/transaction.” That would be 0.1381 gigawatts or about 0.16 pounds of coal.
+
+While Musk has expressed concerns over Bitcoin’s energy consumption, another billionaire, owner of the Dallas Mavericks Mark Cuban, says the team will continue accepting Bitcoin and other cryptocurrencies “because we know that replacing Gold as a store of value will help the environment.”
+
+Cuban references a 2021 article from MoneyWeek that explains that while Bitcoin does consume a great chunk of energy, it may be more efficient than traditional monetary resources like banks and associated political activities.
+
+While you might not be able to turn your Bitcoin into a Tesla, you may soon be able to use another up-and-coming cryptocurrency — Dogecoin. Musk, dubbed the Dogefather, recently asked his Twitter followers if his company should accept the virtual coin based on a meme.
+
+Musk has also stated he is “working with Doge [developers] to improve system transaction efficiency. Potentially promising.”

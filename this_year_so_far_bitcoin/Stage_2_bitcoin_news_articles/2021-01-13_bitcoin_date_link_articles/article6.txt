@@ -1,0 +1,13 @@
+The value of digital cryptocurrency Bitcoin has skyrocketed in the last few months, drawing the attention of many investors from around the world. Many people who had invested in Bitcoin earlier on are now millionaires, however, not all early investors are fortunate. One of these early investors is mere inches away from millions of dollars which he owns but can't access because of lost passwords.
+
+Stefan Thomas had invested in Bitcoin back when the currency was valued even less than $10. Currently, Thomas owns 7002 Bitcoins but is not able to access a single one. Back in the day, Thomas has stored all his Bitcoin keys in a small, encrypted hard drive called IronKey. IronKey only offers its users 10 attempts to unlock it by entering the correct password.
+
+If all 10 attempts are wrong then the hard drive will encrypt itself forever making it completely inaccessible. Thomas has not only forgotten his password but has already exhausted all 10 attempts for unlocking the IronKey. Hence, he is incapable of accessing his 7002 Bitcoins which as of today are worth $245 million (approx Rs 1,800 crore), according to The New York Times.
+
+Thomas's situation represents the pitfalls of Bitcoin. Since the digital currency is decentralised, there is no central authority which has the power to access all or any cryptographic key which serves as the identifier of Bitcoin. The key is completely unique and only the person in possession of it, Thomas in this case, will ever know what it is. This means if the owner forgets the password there is no entity that can help them.
+
+The NYT report states that around 20 per cent of Bitcoin is stuck in such crypto wallets; the passwords of which been forgotten by owners. This amounts to $130 billion in real-world money, more than the GDP of many countries. Till a workaround is discovered this money has been essentially locked away from human reach.
+
+Also read: COVID-19 vaccine rollout: Adar Poonawalla says vaccine will be sold to private players at Rs 1,000 per dose
+
+Also read: No option to choose preferred coronavirus vaccine, says Health Ministry

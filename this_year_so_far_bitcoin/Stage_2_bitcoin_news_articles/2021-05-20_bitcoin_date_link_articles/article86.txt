@@ -1,0 +1,45 @@
+(Photo by Beata Zawrzel/NurPhoto via Getty Images))
+
+Even though its value is no longer pinned to great stacks of gold in Fort Knox, the US dollar is a stable and trusted currency worldwide. It’s the reserve currency for the world, supporting international transactions and all aspects of the global economy. But will it continue to hold that position? Might Bitcoin or another cryptocurrency eventually replace it?
+
+At the virtual RSA security conference, Dr. Kenneth Geers, External Communications Analyst for Very Good Security, explored this topic, along with Very Good Security’s CISO Kathy Wang. “Is cryptocurrency going to change my life? Change the world?” asked Geers. “Will it bring the end of the nation-state?”
+
+Geers led off by pointing out Bitcoin’s amazingly meteoric rise. On May 22, 2010—a day now dubbed Bitcoin Pizza Day—early Bitcoin miner Laszlo Hanyecz wanted some pizza and offered to pay 10,000 Bitcoins for a pair of pies from Papa John’s. At today’s exchange rate, that’s easily $400 million.
+
+A Little Currency History
+
+US delegates at the Bretton Woods Conference in 1944 (Image: Getty)
+
+To understand whether cryptocurrency can serve as a worldwide reserve currency, we need to first understand the current situation, so Geers led listeners on a trip through history. He pointed out that in wartime, banks can have their monetary reserves stolen, either captured by the enemy or appropriated by their own country. During WWII, banks in England and France shipped their gold to the US for safekeeping.
+
+After the war, the allies tried to create some stability. In a small New Hampshire town called Bretton Woods, they hammered out an agreement that made the US dollar a worldwide standard. “The dollar was pegged to the price of gold, and foreign currency was pegged to the dollar,” explained Geers. “The US dollar was crowned as the world’s reserve currency. It was a stable source of stored value, a medium of exchange a country’s own currency might not have.”
+
+Nothing lasts forever, though, noted Geers. The New Deal, the Vietnam War, and other factors loosened the Bretton Woods agreement. In 1971, the dollar went floating, with no gold backing. Even so, it remained a global standard.
+
+Geers took a deep dive into economic theory, pointing out that currency solves a problem called “the inconvenience of coincidence of wants.” I have an apple that you want. You have a banana, but I don’t want to trade for your banana. I can buy the banana with currency. He also noted the historical importance of keeping ledgers, immutable records of transactions. Geers currently lives in Africa, where 20,000-year-old tooled bones have been identified as a kind of ledger.
+
+Enter Bitcoin and Blockchain
+
+“In 2008, Satoshi Nakamoto revealed both Bitcoin and blockchain,” said Geers. “Asymmetric cryptography, hash functions, digital signatures, append-only time-stamped logs… these can secure the entire internet with verifiable, immutable transactions.” He pointed out that blockchain is the ledger of this high-tech world. “What happens on blockchain stays forever.”
+
+CISO Kathy Wang took over to explain in detail how Bitcoin mining works. She noted that Bitcoin miners get money by being the first to solve mathematical puzzles, but these aren’t just any puzzles. What Bitcoin miners are actually doing is auditing the legitimacy of Bitcoin transactions. “This minimizes the risk that any Bitcoin holder could spend the same coin twice,” Wang explained. “You can’t do that with a physical dollar!”
+
+Wang also explained that mining cryptocurrency requires a huge base of resources, specifically GPUs and the power to run them. Miners may pool their resources, or even steal resources using cryptojacking malware.
+
+Benefits and Risks
+
+Geers took back the mic to run down the benefits and risks of relying on cryptocurrency. “There are truly revolutionary benefits,” he said, “both personal and transactional. You get confidentiality of ownership. At a country level, you can bank your savings without being dependent on the US dollar.”
+
+He pointed out the potential for political involvement. Relying on cryptocurrency necessarily involves more transparency. “But do governments actually want to be less corrupt?” asked Geer. “These political impacts may slow adoption. Governments will create policy obstacles.”
+
+There are also risks specific to cryptocurrency, such as lost hardware, lost passwords, hacking, scamming, and extortion. “Central banks protect investors and citizens,” noted Geers. “Bitcoin exchanges may not. Governments will be hesitant to let go of the dollar, of their authority.”
+
+Wang took listeners deep into the world of cryptocurrency security. “The pillars of confidentiality, integrity, and availability still apply,” she said. “The holy grail, where secure access is best, is with a crypto wallet. It holds all your private keys. With that, you own the currency.”
+
+“But can attackers steal it? They absolutely can,” Wang continued. She detailed an attack called ElectroRAT that gets into crypto wallets and drains their contents. Wang pointed out that this malware is remarkable because its author wrote the whole thing from scratch, not relying on any existing code libraries that might be found in other malware. That unique quality let it slip past many antivirus systems, at least initially.
+
+Can Cryptocurrency Replace the Dollar?
+
+Geers wrapped up discussing problems that cryptocurrency needs to solve, speed being one of them. Visa can process over 70,000 transactions per second, while Bitcoin would manage just a handful. “There’s plenty of interest,” he said, “but societal norms will take time. Risks must be addressed, and speeds must be faster.” He pointed out that after the introduction of the credit card it took Congress 15 or 20 years to enact laws that recognized that technology’s existence.
+
+“There is no doubt that cryptocurrency is a game changer,” stated Geers. “But in the near term, it will not replace the US dollar. In the long term anything is possible, but expect government resistance.”

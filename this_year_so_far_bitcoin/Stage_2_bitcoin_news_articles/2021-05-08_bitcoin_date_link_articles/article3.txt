@@ -1,0 +1,113 @@
+There are various reasons why you should withdraw your bitcoin and utilize self-custody.
+
+A Bitcoin ETF is coming, whether you like it or not.
+
+You might be excited at the stamp of approval this gives bitcoin from the old guard. It will also allow many investors to much more easily gain exposure to bitcoin through current accounts at big banks. These are huge positives for a new commodity that’s rapidly gaining recognition as a revolutionary instrument for storing value over time.
+
+However, as with many financial products on Wall Street, the people of Main Street should tread with caution. Big banks are not known for having the interests of the average Joe in mind.
+
+The biggest hidden danger of a bitcoin ETF, though, goes deeper than the big banks. It goes all the way to the most powerful governments and the source of the world’s current reserve currency.
+
+We all need to ask ourselves before we buy any bitcoin ETF: At the end of each day, who actually holds your bitcoin?
+
+This question may seem innocent today, but history tells us it could be very important in the near future.
+
+Where Are Your Assets Held?
+
+For all the evolution in “fintech” over the last decade to make investing easier — from robo-advisors to gamified trading apps — the underlying structure has not changed.
+
+Why? Mostly because regulation stipulates who can hold what assets and how that ownership is proven and governed, leading to a lack of innovation in old, paper-based processes. The banking industry does not have much incentive to upgrade the back end of their systems. Most of the supposed innovation in fintech just hides the old world behind a digital veneer.
+
+The assets you buy and check in your brokerage apps — stocks, bonds, ETFs — are held by regulated custodians for you. Most of the time, this is not a problem; it’s actually more convenient for you. Can you imagine if you had to bring a stock certificate to a bank branch every time you wanted to sell a share? Using regulated custodians in the back with a digital interface on top makes trading much more convenient for everyone, but it does mean someone else holds your assets. We’ll get back to why that’s so important later.
+
+Bitcoin, as a digitally native asset, is a bit different. Most places where you can buy bitcoin also allow you to withdraw that bitcoin to your own wallet. Since everything is digital, the whole process of buying and withdrawing to your wallet can take mere seconds. Bitcoin on an exchange is a bit like cash in the bank, except without the physical part where you have to go to the ATM or branch to withdraw the cash then cut a hole in your mattress to tuck it away. Whenever we withdraw bitcoin (or any asset) from the exchange or custodian that holds it for us, we call that taking “self-custody.”
+
+Bitcoin’s purely digital nature makes it vastly easier to self-custody bitcoin than it is to self-custody dollar bills or stocks. Holding bitcoin yourself takes a few taps on your phone, not a trip to the bank or a gargantuan fight to change the regulated custodial model of most investment assets.
+
+So most investment assets are held by a custodian, but in many cases, it’s very easy to self-custody bitcoin. So, why would you want to hold bitcoin, or any other asset, yourself?
+
+Why Does It Matter Who Holds My Assets?
+
+In a first world country where institutions work well, it’s hard to see why this question matters. If you live in one of these countries, you’ve probably never had a problem selling an asset or withdrawing cash from a bank.
+
+However, if you work in an industry that’s “on the margin” of acceptability for banks and the governments that govern them — think adult entertainment or gambling — you may be familiar with the hassle and anguish of frozen bank accounts or seized funds. If you live outside the first world bubble, you may know the importance of self-custody through experience: bank failures, government seizures or corrupt institutions causing your assets to vanish.
+
+Unfortunately, there’s a much deeper danger at play here; one that affects everyone equally, especially those in first world countries carrying heavy debts in both the public and private sectors.
+
+To understand that danger, we need to walk through how it played out in the past, in the richest country on Earth.
+
+When Governments Steal The Savings Of Citizens
+
+In the early 1930s, the U.S. government was in deep trouble. The Great Depression drove the government to print money, but their ability to flood the market with cash and prop up prices was reaching its limit. At that time, every dollar in circulation (Federal Reserve note) needed to be backed by at least 40 cents worth of gold at the Fed. The Fed had maxed out the dollars they could print against the gold they had, so they needed more gold to print more dollars.
+
+However, the Fed’s money printing created another problem: By debasing the value of cash, they destroyed existing savings and made holding cash a bad way to save up for the future. American citizens struggling to make it through the Great Depression now faced a threat to the value of their savings and wages. They needed an asset that could not be debased. Back then, all they had was gold.
+
+Both the American government and American citizens chased after gold. What happened next?
+
+The American government seized the gold of its citizens.
+
+President Roosevelt signed Executive Order 6102 on April 5, 1933, using wartime powers still in effect to order all persons to deliver their gold coins and bullion to the Federal Reserve on or before May 1 of the same year and to bar any further purchasing of gold by private citizens.
+
+Of course, the Federal Reserve would give everyone dollars in return for their gold, at the current market rate of $20.67 per ounce of gold. Feels fair, right? Well, less than a year later the dollar was revalued at $35 per ounce of gold through the Gold Reserve Act of 1934, devaluing those dollars by almost 50% against the gold everyone traded in.
+
+The Federal Reserve was thus able to continue devaluing the dollar, but private citizens were barred from holding the very asset that could protect their savings from that devaluation.
+
+Those Americans who held gold coins under the floorboards of their house had some chance of protecting them from seizure. Gold kept in banks, however, was far easier for the government to seize — the authorities knew exactly where to go to get it.
+
+Who had custody of your gold mattered a lot during this period.
+
+Still, this was a very strained and extreme time in American and world history. What indications, if any, do we have that this little bit of history might repeat? How might bitcoin be involved?
+
+Do Governments Have Any Reason To Want To Seize Bitcoin Today?
+
+First, it’s important to understand that bitcoin was designed purposefully to combat the inflationary tendencies of governments and central banks. When economic downturns occur, governments are always tempted to print more cash, saying they are “satisfying demand for cash.” In reality, they are debasing the value of cash for all who hold it and reallocating value to whoever the government pays with that newly printed cash.
+
+From Satoshi Nakamoto’s thread unveiling the Bitcoin white paper:
+
+The root problem with conventional currency is all the trust that's required to make it work. The central bank must be trusted not to debase the currency, but the history of fiat currencies is full of breaches of that trust.
+
+[Bitcoin is] more typical of a precious metal. Instead of the supply changing to keep the value the same, the supply is predetermined and the value changes.
+
+This is why bitcoin has come to be known as “digital gold.” It provides the same protections for savers that gold provided in past inflationary periods, with vastly improved accessibility and portability. This is due to bitcoin’s supply not responding whatsoever to changes in demand. Precious metals are the only other assets on Earth with a total supply that acts similarly, though not as predictably, as bitcoin.
+
+When governments decide to spin up the printing presses for their fiat currencies, store-of-value assets like bitcoin and gold serve as exits from fiat debasement.
+
+The Conditions For Seizure
+
+For governments to have any reason to seize Bitcoin — or any other store-of-value asset — there would need to be a major crisis at the end of a long accumulation of debts, like in the 1930s. Governments would need to respond to the crisis by devaluing their currencies through money printing — just like in the 1930s.
+
+This would punish those who hold or receive salaries in fiat currencies by debasing their savings and earnings. In turn, people (everyone!) would run for the exit, selling their sinking fiat currency for other assets that cannot be debased.
+
+Governments can either watch their currency — and the power that comes with it — evaporate faster and faster as a result of their own debasement and the selling it caused, or they can use the power they have left to do what Roosevelt did in 1933. They can seize store-of-value assets and stop further purchases by force, essentially blocking the exit and keeping individuals from protecting their savings.
+
+Do The Conditions For Seizure Exist Today?
+
+Do we have a major crisis on our hands at a time of record debt levels, causing unprecedented money printing? Are we seeing rising prices for store-of-value assets?
+
+Major crisis: check. Thanks, COVID.
+
+Record debt levels: check.
+
+Unprecedented money printing: check.
+
+Rising prices for assets: check.
+
+During a year when most of the world was in a recession, stock prices grew in value tremendously. This is a classic marker of “running for the exit” — anyone with cash is looking to buy anything else that’s a better store of value than cash. From January 1, 2020, to the time of writing, the S&P 500 is up almost 40% and bitcoin is up almost 500%. Even lumber is up 230%.
+
+Still not convinced? Ray Dalio studies markets and economic cycles for a living — and he’s damn good at it, as the founder and CEO of the world’s largest hedge fund. In a recent piece covering the current financial climate, Dalio compares today to the 1930–1945 period, stating:
+
+“If history and logic are to be a guide, policy makers who are short of money will raise taxes and won’t like these capital movements out of debt assets and into other store-of-wealth assets and other tax domains so they could very well impose prohibitions against capital movements to other assets (e.g., gold, Bitcoin, etc.) and other locations. These tax changes could be more shocking than expected.”
+
+In times of crisis, who has custody of your assets matters most. Will you leave your bitcoin on an exchange or with a custodian, or will you hold it yourself?
+
+Withdraw Your Bitcoin
+
+We are living in unprecedented times, in a situation that the vast majority of us have never experienced before in our lives. History and logic point to a repeat of events at the end of the last major debt cycle, where governments seized assets from citizens to solve a problem they created and save a system they benefit from.
+
+This time, the people have a far more powerful tool to escape this seizure. However, that tool needs to be used correctly. Owning bitcoin but failing to hold it yourself is like buying a helmet but refusing to wear it when you ride. It’s not there to protect you when you need it most.
+
+Storing your bitcoin on an exchange or owning it through an ETF product exposes your coins to seizure in the very scenario where bitcoin is most valuable and necessary: an unwinding of the current monetary system.
+
+Thankfully, it’s still simple today to purchase and securely store your bitcoin. You might want to get on the lifeboat now before the captain cuts it away.
+
+This is a guest post by Captain Sidd. Opinions expressed are entirely their own and do not necessarily reflect those of BTC, Inc. or Bitcoin Magazine.

@@ -1,0 +1,45 @@
+share
+
+
+
+
+
+
+
+Link copied to
+
+clipboard
+
+Bitcoiners can now swap BTC for Monero‘s (XMR) privacy coins without the need for a trusted intermediary, thanks to atomic swaps developed by an Australian team.
+
+The tools developed by CoBloX, a five-member blockchain research team based in Sydney’s Northern Beaches, allow strangers who don’t trust each other to safely swap their Monero tokens for Bitcoin and vice versa.
+
+In simple terms, the funds are locked away cryptographically and if both parties don’t complete the transaction by a deadline, the coins return to their original holders.
+
+The Monero community raised 2727 XMR ($982,000) to fund the project.
+
+Monero, the No. 27 crypto, is the most popular “privacy coin,” offering transactions thought to be untraceable.
+
+With Bitcoin and most other cryptocurrencies, transactions between addresses are recorded on a public ledger, and analysis can sometimes link people to addresses.
+
+While there’s many reasons why someone might want to safeguard their privacy, privacy coins hold obvious appeal for those involved in illegal transactions.
+
+Monero and several other privacy coins rose over the weekend, a spike that one outlet linked to the Australian Tax Office’s statement cautioning crypto traders against tax evasion.
+
+The tool’s announcement also included instructions on how to use it with Tor, a web browser that conceals users from surveillance.
+
+Haveno, a decentralised exchange Monero exchange currently in testing, is implementing the atomic swaps for its XMR/BTC trading pair.
+
+Bitcoin wallet Samourai Wallet and Monero wallet Monerujo performed a test swap earlier this month, and Cake Wallet has expressed interest, according to Monero Space, a Monero workgroup.
+
+“The decentralized Monero exchange technology is here, so now it’s a race for wallets to provide the best user experience,” said Monero Space organiser Justin Ehrenhofer. “With such high user demand for easy and private peer-to-peer exchanges, it’s only a matter of time before wallets widely implement them.”
+
+We’re excited to share that COMIT’s XMR <-> BTC Atomic Swaps tool is now available on mainnet! https://t.co/B9fqFjWUGv — Monero || #xmr (@monero) May 28, 2021
+
+Subscribe to our daily newsletter
+
+Join our small cap Facebook group
+
+Follow us on Facebook or Twitter
+
+Read More BitcoinCryptocurrency

@@ -1,0 +1,23 @@
+An Ethereum Foundation researcher, Carl Beekhuizen, in a recent blogpost has said Ethereum is working on a major shift which will help save up to 99.5 per cent of the energy it currently consumes. Notably, Ethereum already uses much lower energy than the most popular cryptocurrency Bitcoin. Ethereum will soon be completing the transition to Proof-of-Stake (PoS) from the Proof-of-Work (PoW) system, according to Beekhuizen.
+
+Beekhuizen wrote that several teams of engineers are working overtime to ensure that 'The Merge', implying the moment Ethereum switches from PoW to PoS, happens soon without compromising on safety.
+
+"Digiconomist estimates that Ethereum miners currently consume 44.49 TWh per year which works out to 5.13 gigawatt continuingly. This means that PoS is ~2000x more energy efficient based on the conservative estimates, which reflects a reduction of at least 99.95% in total energy use," he added.
+
+The PoS method, already in use by other smaller cryptocurrencies, permits access to new coins based on how many coins a miner already owns; if a miner owns 3% of all coins, they can access only 3% of new coins. This system eliminates the need for energy-intensive number-crunching, because a miner's rate of coin access is a product of their "stake," not of their "work."
+
+As a result, proof-of-stake mining software can essentially work on one normal computer, rather than a warehouse of servers, and there is no longer any strategic need to consume an increasing amount of energy.
+
+Also read: Bitcoin price recovers to $38,403 after Elon Musk's meeting with miners
+
+Difference between PoW and PoS models
+
+Both Bitcoin and Etheruem currently use the Proof-of-Work model. Beyond the energy consumption issue, in the case of PoW, there are also fears that mining pools, a joint group of cryptocurrency miners, could dominate the mining game in future, leading to security risks and centralisation of mining power.
+
+In PoS, miners don't need computational power and they are replaced with validators. Validators don't compete to create blocks or mine digital coins but are chosen at random by an algorithm. If 2/3rd validators agree on the state of the block, it is considered final. Validators must bet their entire stake. If they collude down the line, they'll lose the entire stake.
+
+"Scaling solutions (such as rollups and sharding) will help further decrease the energy consumed per-transaction by leveraging economies of scale. Ethereum's power-hungry days are numbered, and I hope that's true for the rest of the industry too," Beekhuizen adds.
+
+Also read: Cryptocurrency market crashes! Is it time to sell Bitcoin?
+
+ALSO READ: Bitcoin tanks below $40,000; here's why

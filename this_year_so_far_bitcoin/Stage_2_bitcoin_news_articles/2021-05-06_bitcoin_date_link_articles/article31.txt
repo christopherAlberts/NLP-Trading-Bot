@@ -1,0 +1,25 @@
+Bitcoin has risen over 100% in 2021 and has surged more than 600% in the past 12 months. It recently breached the $1 trillion market capitalization for the first time.
+
+Acceptance and adoption have driven bitcoin to current levels. Companies such as Tesla have indicated that they will accept bitcoin payments from customers, and fintech giants PayPal and Square offer users the ability to buy and sell cryptocurrency, and potentially even transact them at stores. The sheer market cap of the cryptocurrency space, which now stands at over $2 trillion, is simply too large for institutional investors to risk missing out.
+
+CME Bitcoin futures have witnessed 40 successful futures expiration settlements, with over 8,000 individual accounts trading the contracts. Year to date, 12,500 CME Bitcoin futures contracts (equivalent to approximately 62,300 bitcoin) have traded on average each day.
+
+While futures have become an important tool for institutions, the level of capital needed to access the futures market has significantly increased (e.g., 5 bitcoin x $63,000 for one of CME’s standard Bitcoin futures contract at the highs), which has priced many participants out of the market. The introduction of Micro Bitcoin futures this week is in direct response to the demand for smaller-sized contracts which offer more accessibility to a regulated Bitcoin futures market. One BTC future is equivalent to five bitcoin; however, the Micro contract is equivalent to 1/50th the size of this, and is 1/10th of one bitcoin.
+
+More Futures Accessibility
+
+Given this dramatically reduced size, the initial margin requirements for a Micro Bitcoin contract – the minimum amount that a trader needs to post to buy or sell a contract – will drop by a factor of 50 and make bitcoin futures trading available to accounts with a minimum of $5,000. At this level, futures accessibility opens to day traders and sophisticated, active retail investors who normally trade in the cash market or have hesitated to trade futures. Since much of the volume and liquidity has been traded by institutions, these new micro futures could potentially open up a new demographic of active retail.
+
+The number of cryptocurrency traders in the United States is just above 21 million, according to a survey from Gemini, a crypto exchange. That number, set to double in 2021, doesn’t include millions of traders outside the U.S. With the bitcoin market cap increasing rapidly, the number of traders with exposure to bitcoin price moves is growing as well. Not all of them will want to simply buy and sell bitcoin on cash exchange.
+
+Manage Economic, Monetary Risks
+
+Institutional investors, and now retail investors, have much more accessibility to the bitcoin market using futures, as access to “spot bitcoin” has been harder to come by. The new Micro Bitcoin futures contract will be based on the identical Bitcoin Reference Rate (BRR) that the standard Bitcoin futures contract is based on. Tick increments are of $5 index points, so a one tick move is equal to $0.50.
+
+Identical to its larger counterpart, the Micro futures have a cash settlement and do not involve the exchange of bitcoin, and therefore no digital wallet is necessary to trade them. There will be six consecutive monthly contracts for greater flexibility, and trading will be available nearly 24/7. These are important factors for traders interested in exposure without owning more bitcoin, or maybe any bitcoin at all. The dominant cryptocurrency holds around 66% of the total crypto market cap and has emerged as a significant currency hedge in an age of heavy stimulus among central banks.
+
+Of course, people invest in bitcoin for many reasons. With the arrival of a futures contract at a level accessible to more of those investors, they can now manage risks of outside economic or monetary factors in a new way.
+
+The Bitcoin futures launch in 2017 helped accelerate the maturation of the bitcoin market. The availability of the new micro contract has the potential to grow the market even further.
+
+Image Sourced from Pixabay

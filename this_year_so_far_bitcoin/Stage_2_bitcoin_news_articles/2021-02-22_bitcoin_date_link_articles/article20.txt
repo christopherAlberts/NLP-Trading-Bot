@@ -1,0 +1,99 @@
+The U.S. government has discovered the identity of Satoshi Nakamoto. They label him as a terrorist, they capture him, and they ask him to help them control bitcoin. Nakamoto refuses. So he’s water-boarded until he relents, but unbeknownst to the government, Satoshi is playing his own long con… and is he even the real Satoshi Nakamoto?
+
+Such is the premise of Decrypted, a British dark comedy that just finished production. It sounds like a conventional thriller until you learn that Satoshi is a gay masochist who gets off on the torture, his girlfriend is trans, and they argue with who writer Mick Sands describes as a “raging racist,” as Sands admits that “I’m definitely being provocative.”
+
+With the possible exception of documentaries, films about blockchain have been, at best, “mixed.” No one seems to be clamoring for the return of Kurt Russell in Crypto 2. (Crypto 2: Factor Authentication). But one is bound to succeed at some point, right? Crypto’s raw material is gold. There’s plenty of money. And there’s a built-in audience. Maybe Decrypted will be the breakout? (At the time of publication, press screeners were unavailable.)
+
+Related: How Coinbase Is Worth $100 Billion
+
+Then there’s the larger industry question. For years, many have looked to blockchain technology as a way to revolutionize the film industry, just as they have looked for blockchain to revolutionize every industry, from porn to the Catholic Church. Decrypted producer Phil Harris says this is now actually starting to happen, which can help disrupt the “outdated, bloated and often dishonest status quo.”
+
+I spoke with writer Mick Sands and producer Harris to learn more about the torture of Satoshi Nakamoto, what it’s like to fundraise in crypto, and how exactly blockchain could revolutionize the film industry.
+
+See also: Jeff Wilser – Bitcoin Bull Run: OGs on Why This One’s Different
+
+Story continues
+
+Note: Mick Sands was refreshingly – almost charmingly – indifferent to sharing massive spoilers of the movie’s plot, including what appear to be its biggest twists. So if you’re spoiler-phobic, proceed with caution.
+
+Related: Kraken CEO Says Ether Flash Crash Down to Trading, Not System Glitch
+
+CoinDesk: Mick, you made a bold choice in using Satoshi Nakamoto as your main character. Why’d you go that route?
+
+Mick Sands: I just thought it was more interesting to have him as the main guy. And the fact that nobody knows who he is gave me a license to do whatever I want with him, because actually it’s not him. And of course, the NSA doesn’t know what he looks like. So, if he could answer the right questions, then they were going to buy it.
+
+Wait, did you just drop a big spoiler? Are you saying that the main character of your film – Satoshi Nakamoto – is not actually Satoshi Nakamoto?
+
+MS: It’s a surprise. It’s a spoiler. The NSA is planning to talk to Satoshi to get a backdoor into the blockchain, so they can control it. Unbeknownst to them, the guy who’s posing as Satoshi is planning to work them over, to f%%k the NSA.
+
+Interesting. What are you trying to say with this movie?
+
+MS: With every film or script that I write, there are at least two ideas that come together. Here there were three. The first is the rise of fake truths and cancel culture, and how everybody is shouting about their rights but without any real discussion. Whatever it was – homophobia, gender identity, racism, sexism, all those things had sort of been made illegal. So nobody is allowed to discuss them anymore.
+
+That was the first thing. Then the other big idea was bitcoin. And I was thinking about the blockchain, and the idea that in a way it’s based on honesty. And then the third one was finding out that, according to the American government, Satoshi Nakamoto is a terrorist. He’s designated as a terrorist. So I started to research what the CIA or the NSA had been up to with regards to crypto. And the NSA has been trying to find a way to control crypto since 2013.
+
+See also: Author Ben Mezrich on Capturing the Winklevii and Plans for a ‘Bitcoin Billionaires’ Movie
+
+How do these themes tie together, especially with crypto and Satoshi?
+
+MS: So, one of the NSA guys is a homophobe and a sexist. His partner, a woman, is a feminist. And Satoshi’s girlfriend is transgender. So I thought that if Satoshi is her boyfriend, then he’s got to be at least gay. So he’s gay. And then also the other idea – which I thought was funny at the start because I knew he was going to get waterboarded – is that he’s a masochist as well. So he gets a little bit turned on by the stuff, the homophobe beating him up and waterboarding him.
+
+You’re definitely leaning into some hot button issues…
+
+MS: Oh, yeah, yeah. So I’m definitely being provocative. But what I was careful to do so I don’t get hanged, is that I’ve argued and given reasons for every different person. There’s a guy who’s open-hearted and believes that we should take all the borders down. And Satoshi and his girlfriend are crypto-anarchists, so they have a point of view. Everybody gets to air their view, which is really my point. We should all try and be a bit more honest and listen to other people.
+
+What do you want the crypto-community to take away from this film?
+
+MS: The guy who’s pretending to be Satoshi, and his girlfriend – they’re representatives of the crypto world. And really, they win.
+
+Another spoiler!
+
+MS: And so I hope the crypto community will think it’s fun and a positive endorsement of crypto, partly because it’s based on honesty.
+
+Phil, you’ve referred to a “blockchain revolution” in the film industry. What’s the advantage, exactly, of blockchain in film?
+
+Phil Harris [producer]: It’s disrupting the current bloated, often dishonest status quo of the film industry. There’s a lot of transparency and efficiency with blockchain which is missing at the moment, essentially with the sales agents and distributors. They give you reports, and it’s very difficult to know how accurate the numbers are.
+
+How so?
+
+PH: When you’re a producer, a sales agent will represent your film, say, to various distributors globally, and you get a quarterly report of where it’s being sold, how much money has been made on video-on-demand platforms, and so on. But you have to accept their numbers unless you can afford an audit.
+
+As a small independent company making low-budget films, an audit is expensive. So you have to rely on what people are saying. But with the blockchain, obviously it’s transparent, and you can collect revenue automatically in real time, every time someone downloads the film. It goes to all the relevant parties directly, straight away. Everyone can see what’s going on. So that in itself is a breath of fresh air.
+
+There’s been a lot of hype, but what platforms that actually exist – and are up and running – do you see have real merit?
+
+PH: So you’ve got video-on-demand platform, Cinezen, and MoviesChain, and you’ve got companies like Vuulr – they launched an ICO years ago that I was interested in. They provide a service on the blockchain where you can present your film directly to the buyers, which might be a TV channel or a video-on-demand platform, without having to go through sales agents or distributors.
+
+Beyond the accuracy of reports, what’s the problem with the current sales agent system?
+
+PH: I mean, these sales markets are very outdated. People used to take wheels of films around the world to these big markets and people would watch them in cinemas. Now you can just send links to screeners. So, Vuulr cuts out the middleman. You go direct to the buyers, and then you can do contracts online, and actually make a deal within a few days. And then you’ve got FilmChain, which collects revenue and automatically distributes payments to all the participants invested in the film.
+
+You mentioned the “middleman” – who are you talking about exactly?
+
+PH: The fat cats that have been in the industry for a very long time. It’s the old system where they’d all meet up four times a year around the world and sell films to each other, which you had to do physically. They’re hanging on to that old model.
+
+It’s the people in the middle that seem to make an awful lot of money, but we’re the ones putting in all the hard work, and we’re the creatives. So, the same old story. Our profit margins are squeezed for the luxury of someone jetting around the world selling our film.
+
+We really don’t need to do that now. If I had access to all the buyers of the world, and they had access to me, we wouldn’t need the sales agents and the distributors. And that is basically what Vuulr and FilmChain are doing. So everyone invested in my film knows that each time a payment is made, they would automatically directly get divided up and allocated to everybody contracted.
+
+See also: Mark Cuban on Bitcoin, NFTs and What Comes Next: ‘The Upside Is Truly Unlimited’
+
+In theory, this is all very cool. But obviously it’s not yet super mainstream. What do you think has held it back from broader adoption, and what needs to happen for it to get more mainstream?
+
+PH: It’s a good question. Well, first of all, I think the only people interested in it are people who are interested in cryptocurrency. So that does narrow it down. But I think the more people get involved with crypto, the more that’ll open up to a wider market. And also, FilmChain and Vuulr use blockchain technology, but they don’t particularly use cryptocurrencies, so they’ve blown into the wider market.
+
+Some of these video-on-demand platforms use crypto payments, and for them, it’s only really people who love films and love crypto. It’s early days. But if crypto blows, then I think these services will blow as well, because it’s just another way that you’re paying for stuff using crypto.
+
+And you financed the film in crypto, right? How’d that work?
+
+PH: We raised about three-quarters of the funds in bitcoin. We thought about launching an ICO to raise funds. But luckily, I know a successful crypto trader, and he loved the film idea. He went to his crypto chums, and they invested the money in bitcoin for our film, so we didn’t actually have to launch an ICO.
+
+These are good chums! And then what’d you do with the BTC?
+
+PH: We had to convert it to fiat to pay for everything. It would be lovely in a future where people can accept cryptocurrency for services, and it’d be great if we can pay content creators dividends in cryptocurrency. But this is all stuff for the future, when it becomes a little bit more widely used, and when cryptocurrency as a whole expands.
+
+To the future! Best of luck with the film.
+
+Interviews have been condensed and lightly edited for clarity.
+
+Related Stories

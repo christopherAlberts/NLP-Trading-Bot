@@ -1,0 +1,13 @@
+The Bitcoin Association, a Switzerland-based organization that works to advance business on the Bitcoin SV blockchain, has cited today that the Bitcoin SV (BSV) blockchain surpassed BTC in accumulated data size; demonstrating the ability of the network to scale without limits.
+
+On May 16th, 2021, the accumulated growth (in data size) of the BSV blockchain surpassed the BTC blockchain for the first time, with the total data stored on-chain reaching 352.9 GB on the BSV network compared to 352.4 GB on the BTC network. Since then, BSV continues to extend its lead, increasing the amount of data stored on-chain to 367.43 GB compared to 355.23 GB on BTC as of June 4th, 2021.
+
+BSV
+
+The BSV network offers high throughput (having already sustained over 5,100 transactions per second and expected to demonstrate 50,000 transactions per second throughput later this year) at extremely low cost (the median transaction fee on the BSV network in 2020 was less than 1/50th of a U.S. cent).
+
+In contrast, the BTC network imposes a default block capsize of only 1 MB (with block weight up to 4 MB), limiting its network to 7 transactions per second on-chain – requiring higher transaction fees and restricting the utility of its network to high-value and ‘store of value’ transactions.
+
+On March 14th, 2021, the BSV network processed a record 638 MB block (#678301 mined by TAAL Distributed Information Technologies) comprised of 2,674 transactions, including several large mixed-media files. That block broke the previous world record for biggest block size – which also occurred on the BSV network from May 16th, 2020, a 369 MB block (#635141, also mined by TAAL) containing 1.3 million individual transactions.
+
+Transactions on the BSV blockchain originate from the array of businesses leveraging the diverse functionalities offered by the BSV network – including simple payments, tokens, social and digital media content, online game activity, and timestamping records – in addition to the business, consumer, and public sector data managed through the chain.

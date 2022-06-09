@@ -1,0 +1,135 @@
+When Buckminster Fuller was asked by a 12-year-old boy how he would suggest solving international problems without violence, he answered:
+
+“I always try to solve problems by some artifact, some tool or invention that makes what people are doing obsolete, so that it makes this particular kind of problem no longer relevant. My answer would be to develop a world energy grid, an electric grid where everybody is on the same grid. All of a sudden, there would be no problems anymore, no international troubles. Our new economic basis wouldn't be gold or dollars; it would be kilowatt hours.”
+
+The above quote from the prescient Buckminster Fuller in 1983 was in reference to his now famous prognostication of the “Kilowatt dollar”, something he first discussed as far back as 1969 (three years before Nixon took us off the gold standard). While Mr. Fuller was referring to a theoretical energy-based unit of money, what he could not have realized at the time is that he was really talking about bitcoin.
+
+Money: Our Most Fundamental Unit Of Social Information Technology
+
+● In a free market society, the greatest network of information by far is price, which itself is, at its core, an intersubjective agreement of value. Money is the abstraction of that value.
+
+● The “Schelling point” for participants in a society is whichever money exists that can best transmit that price information. This is where money “wants” to go.
+
+● Money is, therefore, the facilitator of our communication and distribution of all economic resources. All innovation and societal progress flows from this communication. It is perhaps the most elementary and consequential social tool we have and has been essential to our species’ ability to successfully scale (i.e., dominate and hyper-exponentially populate the Earth).
+
+● This principle of money, while simultaneously vague and grandiose, is perhaps so because it is taken for granted, abstracted away and obfuscated by technocrats, economists and politicians alike who are currently co-piloting our existing monetary system.
+
+● Importantly, money is also the means to transfer uncertainty and risk to those willing to bear that uncertainty. This is one of the key manners in which money acts as information (beyond price itself), as monetary transfer of risk and uncertainty unveils invaluable morsels of information by way of successes and failures. It builds anti-fragility in the system with these increments of volatility throughout time. Without money, there would be no measure of volatility. No means to evaluate success or failure and no motivation for such risk-transferring behavior.
+
+● More specifically, a medium of risk transmission is necessary for the accumulation of productive capital. Risk-takers and those with the appropriate skills to build new productive capital are not always the same people. Those who already have accumulated wealth are not always those most fit to build new capital stock. Thus, a marketplace is needed to allow the swapping of risk in order to build the capital stock. Money is the medium for such transactions.
+
+With these fundamental and philosophical logos as our background state, let us now explore how money as information technology is key to our grokking of money’s entanglement, with the harnessing of energy as a means to advance civilization. Not only does such an exploration help us to establish just how detrimental fiat forms of money are to the process of energy phase transitions, but it helps us realize just how invaluable bitcoin is as a means to extricate ourselves from the socioeconomic dilemma we currently face.
+
+Above: The Kardashev Scale- A theory originating from Russian astrophysicist Nicolai Kardashev that touches upon the themes of this article, namely the relationship between technology and energy. The theory posits that to know a civilization’s capacity to advance, one must know the available energy it can harness. Unfortunately, Earth currently is defined as Type 0, unable to yet harness all the energy available on our planet, and not even on the above evolutionary map. Image source
+
+Energy, Monetary Entropy and Information Parity
+
+For the purposes of the below discussion, let us define entropy in its simplest manner. High entropy is a state of high disorder, whereas low entropy is a state of high order.
+
+An Entropy Equilibrium Hypothesis:
+
+Thermodynamic entropy (TE) increases are always balanced by a commensurate decrease in information entropy (IE), so that:
+
+TE = - IE
+
+where a positive value indicates an increase in entropy and a negative value indicates a decrease in entropy.
+
+This hypothesis is essentially an adaptation of the second law of thermodynamics, combining it with concepts from information theory, and using these observations to create a formula that is more comprehensively applicable to human economic activities. It is a restatement of this law so as to better understand the relationship between energy, money and information. It is simple and symmetrical.
+
+The Power Of X
+
+X ^ = technological innovation’s exponential order of scaling.
+
+○ Human productivity involves taking our temporary and low entropy states — elegant organizations of double-helixed, organic and carbon-based existence — and transforming these arrangements into higher entropy states as we consume other low entropy energy matter to then produce higher entropy energy in the form of work.
+
+○ Technological innovation enables us to do this work easier, faster, better and more abundantly with the same quantity of resources. This is also called productivity.
+
+
+
+According to the renowned information theory of Claude Shannon:
+
+“... if information [equals] resolved uncertainty, entropy must be the uncertainty needing resolving.”
+
+In short,
+
+Information = Reduced Entropy
+
+Technology, in turn, is what allows information to scale.
+
+Let us further unpack this concept of information, at least in the context of this article, as unstructured data manipulated into a structured and intentionally ordered format that reduces uncertainty.
+
+Just as the first law of thermodynamics teaches us that energy can neither be created nor destroyed, likewise, the second law of thermodynamics states that thermodynamic entropy always increases over time. However, this law says nothing of entropy inherent to information or specific human systems such as market economies. Consequently, the second law of thermodynamics says nothing of the impact of human technological ingenuity on other forms of entropy, particularly related to information.
+
+Given all this analysis, we can refine the above formula further as:
+
+TEX = -IE
+
+However, this equation, spartan as it is, is not complete, at least when applied to human social and economic systems. As previously discussed, given that money is perhaps the basest unit of information technology for social scaling, we must incorporate it into this formula, along with the general exponential order of technological scaling, so that:
+
+(X-ME) ^
+
+Whereby, ME= Monetary Entropy
+
+We will define monetary entropy as the long-term inflation rate of that money. In truth, monetary entropy is influenced by much more than monetary inflation alone (discussed further below), but for the sake of parsimony, let us be content with this lean definition for the moment.
+
+We can now write the hypothesis more comprehensively as:
+
+The crucial realization as it concerns the important paradigm shift inherent to bitcoin is as follows: Fiat money involves a net increase in entropy.
+
+This cannot be overstated and is imperative to this article’s thesis. Such a conclusion is reached despite money theoretically being a form of information that should reduce entropy when applied as intended. However, fiat, unfortunately, is not money as money was intended. Inflation, centralized and thus arbitrary control of the rules of supply (and attempts at also controlling demand via administered risk-free rates), global exchange rate volatility and competitive devaluations and mercantilism, subsidies, free debt-supporting zombie industries, opaque and uneven taxation enforcement, and many other behaviors, all conspire to create an aggregate equation of massive entropy in fiat money economies.
+
+When money is denominated in fiat, ME is always > 0 (and is often well above this threshold, especially in the fullness of time).
+
+When money is denominated in bitcoin, ME always = 0, period. No asterisks, no footnotes.
+
+Another important observation teased out by the above formula is that as TE(X-ME) increases, a system’s inputs (energy resources) exhibit greater scarcity.
+
+Kyle Baranko writes,
+
+If money is not permitted its intrinsic capacity to absorb this scarcity, other resources will need to fill that void. This increases the cost of information production because there are fewer and fewer sources of increasing thermodynamic entropy from which to convert into decreasing informational entropy. Consequently, the system will experience a drag on productivity. Such an environment also manifests hidden costs like environmental externalities and systemic fragility which are easily cemented into chronic problems that become difficult to fix.
+
+If an increase in TE^(X-ME) leads to greater thermodynamic or monetary scarcity, this implies that the equivalent decline in IE leads to a greater supply of structured, ordered information (decreasing informational entropy). Basic laws of supply and demand conclude this will tend to reduce the cost of information proportionally.
+
+If, in the form of bitcoin, money is allowed to absorb thermodynamic entropy, money will accrue the incremental scarcity from increases in thermodynamic entropy values. This is how we arrive at another “mathematical” phenomenon, stated as NgU, or more colloquially known as “number go up.” Growth does NOT need to = gross domestic product (GDP); GDP growth = more consumption.
+
+The largest contributing factor to GDP is consumption, and this has been growing materially as a percentage of GDP ever since the financialization of our economy via exponential growth in money and debt since the 1971 unraveling of Bretton Woods, the subsequent formation of the fiat standard and the USD petrodollar global reserve system. This trend only gets amplified further after each debt shock, forcing more and more consumption and leveraging to extricate ourselves from the newly indebted state we create with each cycle. This is clearly evidenced in the below chart, both at the starting point in the early 1970s, since the Great Financial Crisis (GFC) and more recently the COVID-19 pandemic.
+
+Consumption in nominal U.S. dollars as a percentage of U.S. GDP. Bloomberg Data
+
+This is a recipe for disaster. It is definitionally unsustainable to grow in perpetuity by this measure given 1) limited thermodynamic resources and, more importantly perhaps, 2) the inefficient use and squandering of these very resources. This squandering is effectuated by inflationary monetary policies that do not allow the economy to transition naturally into a lower consumption society resulting from reduced informational entropy and the abundance this could create if we allow it. A sustainable path requires a redefinition of growth away from concepts requiring increased consumption (quantity of goods and services produced, wage growth, time worked, asset inflation/wealth effects, etc.), allowing the evolution of energy, information and money to virtuously improve our prosperity.
+
+Growth = informational entropy = more time, lower time preference.
+
+The above equation helps us visualize a framework for such a dynamic and demonstrates how bitcoin, as a base layer with a zero monetary entropy, can help propel us into this future.
+
+Money does not = value.
+
+Instead, it is a measure of value created in an economy. Good money, therefore, is information. It informs us of our progress. Bad money blinds us, causing us to veer off onto spindly and corroded dirt roads.
+
+Inflation does not = the Consumer Price Index (CPI).
+
+Inflation is not the cost of gas prices. It is not lumber prices going up. It is not the price of a Big Mac or your electricity bill. It is not even your house’s value appreciating.
+
+The most encompassing definition for inflation is more fundamentally the depreciation of money versus the value otherwise created.
+
+Inflationary monetary systems obfuscate the value created by societal productivity. This simple statement can not be overstated. Since the early decades of the 20th century, we have errantly accepted inflation as a first principle necessity in all free markets. But it is not the natural economic state, and in a broader historical context, it is actually a fairly recent experiment (see Gibson’s Paradox). Quite the opposite is true in terms of the natural state of human progress and free market capitalism. Once this problem is truly appreciated, the value of an absolute scarcity that is verifiable, immutable and censorship resilient across time and space, as well as stateless (belonging to the free market), we suddenly realize just how incredible an invention this truly is. That is the rabbit hole that is bitcoin. The notion is subtle, but once understood, the gravitational desire to dive headfirst down this rabbit hole of myriad societal revolutions becomes an inescapable journey.
+
+“You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.” — Buckminster Fuller
+
+Bitcoin = A Mirror
+
+A deflationary monetary system of absolute hard money acts as a mirror for value creation. It is a compass to guide us toward a better economic path. Value is created through human ingenuity, environmental necessity and the compounding productivity driven by our accumulation of collective knowledge. These forces are often labeled generically as technology or innovation, and they always create value decreasing informational entropy. Said differently, all productivity is driven by technology and all technological innovation is deflationary at a fundamental level. That is, as long as money remains a constant in the equation.
+
+If, however, money is inflating, we lose our measure of value. It would be like using the proverbial yardstick that constantly redefines what a yard is: A table is two yards; but then a yardstick creates more units and suddenly that table is four yards. The table did not grow. The measurement unit shrank. A store of value is just as it sounds. It stores all the productivity and work created. If more value is created than a sound money, then that money by definition has more purchasing power and stores greater and greater value. If instead value is being destroyed by money supply abuse, then people will without fail seek to store their value elsewhere. Money must always, therefore, start as a store of value before it becomes a medium of exchange. Deflation is a measure of success in creating economic value as innovation creates more for less. If prices decrease by 5% per year, that is a much greater expression of value creation than our current measures that are perversely inverted, such as “real GDP.” If you print dollars and then count the value created in those very dollars, what does that actually tell you? What if you could instead calculate the amount of goods and services created versus the dollars created. Would that not tell us more?
+
+Conclusion
+
+We live in a time of incredible technological advancements on increasingly exponential growth curves. This is taking information production to an unseen scale of abundance, but such abundance is diluted and often fully negated by fiat’s perversion of money’s potential to synergistically accommodate such plentitude.
+
+If technological productivity has the potential to decrease informational entropy output for each thermodynamic unit of increased entropy input, this is the true definition of wealth creation and prosperity. More for less. Fiat not only robs us of this wealth, but it adds to the entropic dissipation polluting our ecosystem and making it ever more fragile. Yes, “ecosystem.” A word most often associated with environmental dialogues is not coincidentally built from the word “economy” itself (with its etymological roots in the Greek words for “distribution of the home”), as thermodynamic systems are inextricably linked to systems of human productivity (information).
+
+Concluding with the trite axiom, “bitcoin fixes this,” does not even begin to do the solution that is bitcoin the justice it deserves. Bitcoin addresses this problem like Cinderella’s slipper. It is a perfect fit or a perfect solution in this case. Not only does the Bitcoin network inherently take highly disordered information and asymmetrically (through cryptography) make this information incredibly ordered, as eloquently stated by Bitcoiner Gigi in his article Bitcoin’s Eternal Struggle, but bitcoin (the money) with its properties of absolute scarcity, decentralized consensus, immutably programmed supply, rule-based and anti-fragile incentive structure, changes the game entirely. Each of these properties on their own would change the game, as they’re each intensely conducive to decreased informational entropy, especially when compared to fiat. But when combined, the synergistic reduction in entropy is perhaps even more exponential than the Cambrian explosion of information that is being produced by today’s technological abundance.
+
+It will be a great day, perhaps a great filter of sorts, when the ships of money and other technology can sail along the same current.
+
+This is a guest post by Aaron Segal. Opinions expressed are entirely their own and do not necessarily reflect those of BTC, Inc. or Bitcoin Magazine.

@@ -1,0 +1,49 @@
+Here are some tips to keep your Bitcoin secure.
+
+There are many exciting things about the world of cryptocurrency. Some believe that blockchain has created a digital gold rush. Others are more cautious. But one thing's for sure: Bitcoin is becoming more mainstream. It's estimated that over 100 million people worldwide now own cryptocurrency. And that means new investors need to know how to protect their Bitcoin. Here are four easy steps you can take.
+
+Start your journey to financial success with a bang Get free access to the select products we use to help us conquer our money goals. These fully-vetted picks could be the solution to help increase your credit score, to invest more profitably, to build an emergency fund, and much more. By submitting your email address, you consent to us sending you money tips along with products and services that we think might interest you. You can unsubscribe at any time. Please read our Privacy Statement and Terms & Conditions.
+
+1. Be aware of the risks
+
+One challenge for Bitcoin investors is they have more responsibility for their own security than with other investments.
+
+If your money is in a bank account, that account is protected in ways you may take for granted. If it's hacked, or the bank fails, FDIC insurance covers you up to $250,000. If you lose your password, you can reset it. If you buy something with your credit card, you may qualify for additional purchase protection.
+
+But when you invest in crypto, you don't have those built-in protections. You will have to take care of all of those things yourself.
+
+2. Get a wallet
+
+By design, Bitcoin itself is hard to hack. The vulnerability is where you store and trade your coins. You control your cryptocurrency through public keys and private keys. And in the same way you wouldn't give anyone the PIN number to your bank account, you don't want to give away control of your keys. A crypto wallet is where you can store your keys and protect them from hackers.
+
+The Ascent's picks for the best online stock brokers Find the best stock broker for you among these top picks. Whether you're looking for a special sign-up offer, outstanding customer support, $0 commissions, intuitive mobile apps, or more, you'll find a stock broker to fit your trading needs. See the picks
+
+Rather than leave your crypto on the exchange where you bought it, it makes sense to move it into a crypto wallet that you control. Depending on how much you need to store and how secure you want it to be, you can choose a hot wallet or a cold wallet.
+
+A hot wallet
+
+Hot wallets are connected to the internet. That makes them less secure, but it means your currency is more accessible if you want to spend or trade it. Look for a wallet that has a good reputation for security. And check out the site's credentials before you download anything.
+
+Ideally, your hot wallet should be open source and have two-factor authentication. If the code is open-source, it means there are more people testing and fixing any vulnerabilities. And remember, you can spread your money across more than one wallet if you want to.
+
+A cold wallet
+
+Cold wallets are more secure because they are kept offline. You'll get a piece of hardware that's about the size of a USB and costs between $50 and $150. It's a good idea to buy it from the manufacturer. Then you just have to set up a password and a recovery seed -- often a set of random words. Your recovery seed is essential. If there's a technical glitch or you lose your wallet, that's what you'll use to reclaim your Bitcoin.
+
+Don't store your seed on your computer. Make at least one physical copy and put it somewhere safe. Some people keep their recovery seed in a bank safe deposit box. One final thought: Make sure your next of kin knows how to find it. If you pass away, that's how they will access your cryptocurrency.
+
+3. Use a reputable exchange
+
+If you want to buy or sell Bitcoin, at some point, you're likely to need an exchange or brokerage. Crypto exchanges have fallen victim to some high profile hacks over the years. Perhaps the most famous was Mt. Gox in 2014. At that point, about 70% of the world's Bitcoin transactions went through the exchange. Over 850,000 Bitcoins (worth about $450 million) were stolen. Just 200,000 have been recovered.
+
+Put security high up on your list when you're choosing where to trade. Our list of top crypto exchanges is a good place to start. Look for one that hasn't been hacked, and check out what insurance provisions it has in place. See what percentage of its reserves are kept offline in cold storage, and whether it has a bug bounty program in place to reward ethical hackers who identify vulnerabilities early.
+
+Buying your first stocks: Do it the smart way Once you’ve chosen one of our top-rated brokers, you need to make sure you’re buying the right stocks. We think there’s no better place to start than with Stock Advisor, the flagship stock-picking service of our company, The Motley Fool. You’ll get two new stock picks every month from legendary investors and Motley Fool co-founders Tom and David Gardner, plus 10 starter stocks and best buys now. Over the past 17 years, Stock Advisor’s average stock pick has seen a 566% return — more than 4x that of the S&P 500! (as of 6/1/2021). Learn more and get started today with a special new member discount. Start investing
+
+4. Develop good internet habits
+
+Nobody wants to lose their Bitcoin because there's malware on their computer or because they use the same password for every account. It's not ideal if a hacker gets hold of one of your passwords, but it's a lot worse if that one password lets them access all of your accounts. Consider using a password manager, and try to use long passwords with a mix of numbers, letters, and characters.
+
+Also, be aware of the risk of phishing. Rather than clicking on a link you receive by email, type the correct URL directly into your browser. Make sure your antivirus and anti-malware programs are up to date. And if your crypto wallet has a back up function, try to use it.
+
+Bitcoin is already a volatile and risky investment. These extra steps won't eliminate risk completely. But they could make you and your Bitcoin less vulnerable to crypto hackers.

@@ -1,0 +1,25 @@
+Bitcoin prices have enjoyed meteoric growth over the past few months as institutional investors and big firms have poured money into the digital currency, but the volatility of the cryptocurrency market has started rearing its ugly head once again.
+
+The price of bitcoin fell to just over $34,000 on Jan. 13 after soaring to more than $40,500 on Jan. 9. Such volatility makes cryptocurrencies such as bitcoin a risky bet for investors looking for stable returns. What's more, some Wall Street firms are concerned about the value of cryptocurrencies going to zero.
+
+However, there's no denying that cryptocurrencies are a hot asset class that many want a piece of. But is there a safer way to invest? The answer is yes, and that safer way is through NVIDIA (NASDAQ:NVDA) -- a hot growth stock that has set the market on fire over the past year.
+
+NVIDIA is benefiting from the cryptocurrency boom already
+
+Cryptocurrency miners use graphics cards from the likes of NVIDIA to "mine" digital currencies. Cryptocurrency mining-related demand accounted for nearly 5% of NVIDIA's top line three years ago, when cryptocurrency mining was booming. The good news for NVIDIA investors is that the recent surge in cryptocurrency prices has led to renewed demand from miners, especially since the launch of the company's new Ampere cards.
+
+The graphics specialist sold $175 million worth of GPUs (graphics processing units) to miners in the third quarter of fiscal 2021, according to RBC Capital Markets. While that would be just 3.7% of the $4.73 billion in revenue NVIDIA generated during the quarter, mining-related demand is good for the company in a bigger way as demand outstripping supply has led to higher prices.
+
+NVIDIA's latest RTX 30 series graphics cards are in short supply thanks to massive demand, both from gamers and cryptocurrency miners. The cards are reportedly going out of stock as soon as they go on sale. As a result, NVIDIA now says that GPU supply will remain lean through its fiscal first quarter, which ends in April.
+
+NVIDIA also points out that sales of its latest RTX 30 Ampere cards are tracking at twice the rate of the preceding RTX 20 series cards. This combination of incredible demand and short supply has led to a spike in GPU prices.
+
+Big gains ahead
+
+Cryptocurrency mining is going to have a two-fold impact on NVIDIA's business -- one in the form of increased demand from miners, and the other in the form of higher prices. What's more, the company could consider making dedicated crypto-mining cards if it sees substantial demand from miners. NVIDIA says it isn't sure how much of its sales are coming from that market at present.
+
+But the shortage of graphics cards and the efficiency of the new RTX cards for mining digital currencies indicate that mining demand could be strong. An Ethereum miner can reportedly recover their investment in an RTX 3080 in just 233 days, a big improvement over the RTX 2080, which reportedly took two and a half years to become profitable.
+
+Additionally, RBC says that recent technical changes in Ethereum mining will force miners to upgrade to new hardware. So NVIDIA could win big from the cryptocurrency market in 2021.
+
+Throw in the primary catalysts that NVIDIA is sitting on -- data centers and video gaming -- and it becomes clear why it would be better to buy into the cryptocurrency craze through the chipmaker instead of buying cryptocurrencies directly. NVIDIA has a diversified business, and it will help investors avoid the speculative nature of the cryptocurrency market.

@@ -1,0 +1,35 @@
+Beyond the incredible run in technology stocks and the head-scratching success of meme stocks, the appreciation of cryptocurrencies will be one of the signature stories when market historians look back on the pandemic. With opinions polarized about the concept itself, debating it doesn't often change minds.
+
+Instead, let's take a look at Bitcoin (CRYPTO:BTC) and Ethereum (CRYPTO:ETH), the two most prominent digital assets, to determine which is the better buy right now. Despite the similarities, some key differences set one apart.
+
+Serving different purposes
+
+The first thing to note when comparing Bitcoin and Ethereum is that they aren't actually both cryptocurrencies. At this point, most people are familiar with Bitcoin, which was launched in 2009 by the mysterious person or group called Satoshi Nakamoto. Its purpose was to make transactions anonymous and eliminate the need for a trusted third party to secure payments across a network.
+
+Although Ethereum is referred to as a cryptocurrency, it is actually the network itself. Ether is the actual currency used to purchase goods and services on the Ethereum network. Although the names are used interchangeably, the difference is important. The network lets users create their own applications and establish "smart" contracts that automatically enforce the terms. More on that in a bit.
+
+To the moon
+
+The price of both Bitcoin and Ether have leaped over the past year, up 335% and 1,460%, respectively. Over the last month they've gone in opposite directions.
+
+Most are familiar with Elon Musk and Jack Dorsey's support of Bitcoin, but some well-known figures like Gweneth Paltrow and Snoop Dogg are also longtime fans. Unfortunately, celebrity endorsements aren't always what they seem. In 2017, the Securities Exchange Commission (SEC) ruled that many promoting cryptocurrencies may be doing so illegally, failing to disclose the fact they are being paid for it. That mostly applied to obscure coins trying to gain traction, but it does raise an important issue.
+
+Ethereum lacks both the celebrity endorsements and the mysterious beginnings of Bitcoin. Instead it has a relatively transparent history. Vitalik Buterin was born in Russia and raised in Toronto. In 2004, at the age of 20, he was awarded the Thiel Fellowship. Named after Peter Thiel of Paypal and Palantir Technologies fame, the award goes to young people to enable them to pursue interests other than attending college. A year later he co-founded what morphed into the Ethereum network. Earlier this month he became the world's youngest crypto billionaire.
+
+Imagining the future
+
+Aside from the hype and speculation, there are legitimate reasons some decentralized digital currency could take hold in the future. Cryptocurrencies offer networks for transactions that could eliminate the friction of financial middlemen. In the simplest example, getting rid of brokerage fees and commissions in large transactions provides a strong incentive for an alternative payment system.
+
+Further, programmable contracts would also cut out layers of complexity and uncertainty. Imagine purchasing a ticket to an outdoor event that automatically issues a refund when weather data shows the event will be canceled. Of course, Ethereum's vision is broader. The ultimate goal is to create a decentralized internet, running on many small computers around the globe, rather than relying on third parties like Microsoft and Alphabet's Google.
+
+One problem with adoption of either asset is the price volatility. Although Ether has outperformed recently, historically it has had longer and steeper drawdowns when sentiment turns on the crypto market.
+
+Although proponents often tout anonymity and security as features, the truth is more complicated. Both currencies offer pseudonymity. That means all transactions are stored on the blockchain with a crypto address of the transacting party, not a name. It's similar to writing a book under a different name. As long as no one knows who owns the address, the transaction is in effect anonymous. However, if the owner of the address does become known, the entire financial history of that person is available to everyone on the network.
+
+To avoid this risk, the original Bitcoin white paper suggests using a different address for every transaction. As far as security, the Bitcoin protocol itself may be secure, but the online wallets that store keys, as well as various sites and services, may offer no such protection. There have been numerous breaches related to both Bitcoin and Ether in the past few years: See here and here.
+
+Choosing one
+
+It's hard to choose a potential replacement for government-backed currency, but as with investing in biotech stocks or trying to cure cancer, it's probably best to diversify across a few that seem to have potential. That said, there are three characteristics that have me leaning toward Ethereum.
+
+The first is the support of developers. A recent report showed that in the third quarter of 2020, an average of nearly 2,300 developers per month were working on Ethereum. That number was slightly less than 400 for Bitcoin. Second, the interest (and promotion) of celebrities makes it difficult to determine which incentives are really driving activity around the largest cryptocurrency. In other words, are people actually using Bitcoin, or are they just getting paid to talk about it?Finally, price appreciation. Although the recent drop in prices has affected all crypto assets, this is clearly a market driven by speculation. In such cases, choosing the asset with the most momentum always seems like the better bet. In this case, that's Ethereum.

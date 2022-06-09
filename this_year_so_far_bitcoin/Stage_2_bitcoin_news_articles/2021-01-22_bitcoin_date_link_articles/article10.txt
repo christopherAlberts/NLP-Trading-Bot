@@ -1,0 +1,25 @@
+Bitcoin Core lead maintainer Wladimir van der Laan has decided to take “even more” of a “background role” for the sake of further decentralizing the project, according to a new blog post.
+
+Bitcoin Core is the key software underpinning the Bitcoin network. While van der Laan’s work is mostly “janitorial” in nature, making sure the project’s code proceeds smoothly, some in the community view him as a leader of sorts. As van der Laan puts it, he’s become a sort of “centralized bottleneck.”
+
+His announcement comes after finding himself in the midst of controversy on Thursday. Some Bitcoin users didn’t like his decision to pull the white paper from bitcoincore.org, following legal threats from Craig Wright. But van der Laan maintains this decision to pull back from Core is one he’s been thinking about for a while.
+
+“I will start by delegating my own tasks, and decreasing my involvement. I do not intend to stop contributing to Bitcoin, or even to the Bitcoin Core project, but I would like to remove myself from the critical path and take (even more) of a background role,” he wrote.
+
+Decentralizing Bitcoin Core development
+
+He thinks this move will help to decentralize the project, a digital currency that is supposed to not have any leaders. “One thing is clear: This is a serious project now, and we need to start taking decentralization seriously,” van der Laan wrote.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+His decision is a part of a much larger effort to further decentralize the project. For instance, 2020 saw a wave of Bitcoin companies doling out grants to developers working on the underlying protocol full-time.
+
+Exchange OKCoin, for instance, is funding Marco Falke, who is the most active maintainer behind van der Laan in terms of commits – code changes that have been successfully added to the project. Popular exchange Coinbase is now supporting two developers as well, after receiving many requests to do so from the community. Several other companies have joined them in doling out grants over the last year.
+
+Bitcoin Core contributor John Newbery launched non-profit Brink for mentoring and funding more developers as well, in an effort to get even more contributors involved, particularly from diverse backgrounds.
+
+Indeed, van der Laan notes in his post that he’s no longer the most active Bitcoin Core maintainer, as several others have joined ranks over the years.
+
+Plus, he outlines other ideas for decentralizing the project. For instance, Bitcoincore.org is one of the major websites where users can download new versions of the Bitcoin Core code. But it is privately owned and centralized. He suggests moving it to an organization.
+
+“Bitcoin is quite different in some of the requirements here from other [free and open-source software] projects, so we’ll have to develop some tools as we go,” van der Laan wrote. “We could also, definitely, use some help here.”

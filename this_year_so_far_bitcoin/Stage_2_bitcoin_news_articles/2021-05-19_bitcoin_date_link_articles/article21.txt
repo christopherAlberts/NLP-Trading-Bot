@@ -1,0 +1,25 @@
+The startup said it made incorrect promo payouts in Bitcoin rather than US dollars and is working on fixing the issue, but some recipients already withdrew the coins before the company could backpedal.
+
+BlockFi Inc., a crypto-lending startup, mistakenly sent some users Bitcoin as part of a promotion and is working on reversing it.
+
+The company made what it called incorrect promo payouts in Bitcoin instead of U.S. dollars to certain customers. Though BlockFi worked on reversing them, a number of recipients withdrew the coins before the company could backpedal. (It was fewer than 100, the company said.) The firm’s exposure is around $10 million, though that amount is decreasing as more users return the coins, said Zac Prince, co-founder and chief executive officer of BlockFi.
+
+“BlockFi carries loss reserves as part of its accounting policies and this is a fraction of existing loss reserves — so no negative impact to equity or ongoing platform operations,” Prince wrote by email. “The issue that caused the withdrawals was fixed and incremental safeguards have been developed to prevent any similar issue in the future.”
+
+The erroneous deposits have not affected BlockFi’s ongoing operations and the company is notching record levels of trading volume without interruption, he added.
+
+Meanwhile, screenshots of the deposits made their rounds on social media, with at least one Tweet showing a deposit of 700 Bitcoin. Though it’s down significantly this week, each coin is trading around $34,000 Wednesday.
+
+Last week, BlockFi tweeted that some promotion participants “may see an inaccurate bonus payment displayed in their transaction history.”
+
+Some clients who participated in the March trading promotion may see an inaccurate bonus payment displayed in their transaction history. Our team is working on a fix and the proper amounts will be reflected shortly. — BlockFi (@BlockFi) May 15, 2021
+
+Meanwhile, the company’s emailed affected users asking for the money to be returned.
+
+Am I right in thinking that BlockFi was meant to send $701 but sent this person 701 Bitcoin? 😬 pic.twitter.com/hlFtckSWyA — Ric Burton 🇬🇧 ‣ 🇺🇸 🦇🔊 (@ricburton) May 19, 2021
+
+BlockFi, perhaps the most visible nonbank ­cryptocurrency firm, offers a number of crypto products, including borrowing and lending and it runs platforms for trading cryptocurrency. It’s been in the limelight as it’s grown in recent months amid a crypto-market rally that’s being unwound this week.
+
+The crypto firm’s snafu is reminiscent of Citigroup Inc.’s $500 million blunder last summer when it accidentally sent payments to a group of lenders.
+
+“As a stand-alone, it was just a glitch,” Mike Loukas, chief executive officer at TrueMark Investments, said of BlockFi. “We see it with banks all the time in dollars. But because it’s such a volatile asset, the mistake gets magnified.”

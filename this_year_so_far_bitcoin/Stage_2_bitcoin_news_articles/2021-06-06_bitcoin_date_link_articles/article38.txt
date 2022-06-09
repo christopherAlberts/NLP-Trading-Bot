@@ -1,0 +1,59 @@
+Bitcoin Energy Consumption Explained
+
+In 1999, on the verge of the popping of the dot com bubble - anyone involved in technology was awakening to the near-endless opportunities that the internet and home computing could provide.
+
+At the same time, we saw activists and journalists (and anyone who’s incentivized to create panic) talk about the terrible energy-intensive world we were creating by using computers. Statistics suggested that a pound of coal would need to be burned to store 2mb of data and that in 2025 20% of all electricity produced would be used by the internet.
+
+In hindsight, it’s clear that these figures were incredibly far off, so should we apply a little more consideration into saying that Bitcoin’s energy consumption is excessive, unsustainable or the results of Bitcoin mining is bad for the environment?
+
+These concerns aren’t new to Bitcoiners. Even Satoshi himself had to address these energy consumption concerns, so let’s deep dive into why Bitcoin uses energy and how it’s used.
+
+The value in Bitcoin using energy
+
+Bitcoin was not the first (centralized or decentralized) digital currency that we’ve tried to build. In fact, it has over 40 years of prehistory. David Chaum created DigiCash in 1989, but the business faced technological problems that forced them to centralize. In retrospect, perhaps the biggest problem with centralized private money is that if the business goes under, the digital money becomes worthless because all of its databases and ledgers are no longer available to the public or even online.
+
+The second major problem we faced while building a digital currency is that digital data can be fairly easily copied with enough time or money (and sometimes with little effort).
+
+So in 2008, Satoshi took the ideas behind DigiCash and a few other sources and put together what we now know as a blockchain and Bitcoin!
+
+Let’s take a look at what he used and how he did it.
+
+Securing the network (it is money, after all)
+
+How do we secure the network, and how do all the participants in the network verify transactions and know that all participants are being honest and not creating false transactions?
+
+The simplest proposal might be that you allow a bunch of computers to form a network. If the majority of the computers agree that a transaction has taken place, or agree on the general network rules, then all is good.
+
+There’s a small flaw with this approach. If every computer on the network had equal voting power, it would be relatively cheap and easy to buy enough computers to control the network by purchasing thousands of low-cost computers like Raspberry Pis.
+
+Once the person/s that control the new majority are connected to the network, they could mint new coins, double-spend, or do a number of other things that would damage the integrity of the network. This type of attack is called a Sybil attack.
+
+Satoshi realized that blockchains could be resistant to this type of Sybil attack if there was a cost to run a node on the network, so inspired by Dr. Adam Back’s proposed Hashcash proof-of-work algorithm, he implemented proof-of-work on Bitcoin.
+
+By implementing proof-of-work, nodes on the network that mine transactions are made to try to solve a (computationally) difficult mathematical puzzle. The puzzle difficulty gets more and less difficult every two weeks depending on the total computational power of the network, which is measured in hashes per second (h/s). This feature is known as Bitcoin’s difficulty adjustment.
+
+Satoshi then chose to reward these nodes for their work by offering them a block reward of 50 bitcoins for every puzzle they successfully solve before another mining node does.
+
+So we have a cost to validate transactions on the network and a reward for validating those transactions.
+
+Lastly, we need to consider that the more computing power introduced to the network, the more transactions cost to mine. Computing power and energy are positively correlated, so the more computing power is required, the more energy is consumed.
+
+Now, this might feel like an endless cycle of increased computing power and energy use. Still, mining nodes are businesses that are economically incentivized to run efficiently. So increasing their computing (or hashing) power, and increasing their electricity costs without having to wouldn’t make economic sense.
+
+So the Bitcoin network isn’t using more power than it needs.
+
+This model of increasing difficulty as the network’s hashing power increases is what makes Bitcoin secure and resistant to anyone attempting to take control of the network because they need to buy enough computing power to equal at least 51% of the network’s computing power.
+
+If we consider that the Bitcoin Network is the future of money or the greatest store of value — whatever you think it is that makes Bitcoin important - it is made important because of the network’s energy use which is directly correlated to the computing power (and Sybil resistance) of the network.
+
+The Bitcoin Network doesn’t “waste” energy; it consumes it. We all recognize the value of burning thousands of tons of fuel to test rockets that may go to Mars one day, so why do we have a problem using energy to secure a truly decentralized global financial system?
+
+Back in 2010, Satoshi understood this already when he wrote:
+
+“It’s the same situation as gold and gold mining. The marginal cost of gold mining tends to stay near the price of gold. Gold mining is a waste, but that waste is far less than the utility of having gold available as a medium of exchange.
+
+I think the case will be the same for Bitcoin. The utility of the exchanges made possible by Bitcoin will far exceed the cost of electricity used. Therefore, not having Bitcoin would be the net waste.”
+
+Also published on Medium's subdomain.
+
+Tags

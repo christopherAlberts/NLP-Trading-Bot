@@ -1,0 +1,17 @@
+Forgers in Russia sold more than $13 million worth of fake money in exchange for bitcoin, the national police said Monday.
+
+Russian police arrested several people in the city of Nizhny Novgorod on allegations of peddling fake bank notes over the infamous Hydra darknet marketplace, Russian newspaper Kommersant reported Monday.
+
+The alleged criminals managed to sell about one billion rubles (about US$13.3 million) in fake bank notes via online shops on Hydra, according to the outlet’s unnamed sources. Chainalysis considers Hydra the single biggest darknet marketplace in the world.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+The four people facing charges in a district court – Sergey Arisov, Ivan Aferov, Andrey Skvortsov and Oleg Efimov – reportedly printed bank notes and sold them on Hydra for bitcoin. When a buyer sent a payment, a courier would deliver a package with fake bank notes to a certain location and hide it. Then a courier would share the location with the buyer.
+
+Often the package would be buried in a public park or a suburban forest in Russia, giving this delivery method a nickname translated as “hidden treasure” (“klad” in Russian). According to Kommersant, the police got to the ring organizers after catching several couriers. Police seized computers and other equipment from the ring’s headquarters.
+
+The fake bank notes would normally cost 10%-15% of their nominal value for big batches and up to 30% for smaller batches up to 150,000 rubles ($2,000).
+
+This CoinDesk reporter was able to find at least eight shops currently selling fake bank notes on Hydra. They offer bank notes with a nominal value 2,000 or 5,000 rubles, with prices starting at 0.0002 BTC for a bank note. All the shops recommended buyers spray the bank notes with hairspray after purchase to get the “required texture and typical crunchiness.” Names of brands guaranteeing such results were helpfully provided.
+
+According to buyers’ reviews, they would often find the “treasures” easily, and use the fake money to pay for things. In some cases the packages appeared slightly damaged, “stolen by mice” or not found at the designated spot. In one case, the buyer complained some people beat him up and took away the package.

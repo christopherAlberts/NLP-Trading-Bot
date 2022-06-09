@@ -1,0 +1,55 @@
+Bitcoin and Ethereum have fallen sharply previously few weeks. Nevertheless, some imagine that the crypto bullrun isn’t over but and due to this fact depend on so-called Flexible Leverage Indices (FLI) – however what precisely are they?
+
+Trading with leverage isn’t for the faint of coronary heart. With Bitcoin and Co. specifically, issues can go incorrect and there are various merchants who’ve already misplaced quite a bit with leverage. In addition, each skilled leverage dealer has to carry out a mess of duties on the similar time. He has to observe the varied metrics of his trades, management his feelings, function danger administration and nonetheless anticipate that trades can go incorrect at any time. Trading with leverage may be extraordinarily worthwhile, however it additionally entails plenty of time and danger.
+
+A brand new innovation from Decentralized Finance (DeFi) goals to vary that and make buying and selling with leverage simpler and safer. We are speaking about so-called versatile leverage indices.
+
+What is a Flexible Leverage Index?
+
+The know-how behind the FLI tokens was designed by Index Coop (INDEX) and the DeFi Pulse group. FLI are structured merchandise in ERC-20 format. They allow merchants and buyers to carry leveraged positions on Ethereum and theoretically all ERC-20 tokens – in a decentralized and totally automated method. Since just about each crypto forex may be mapped as an ERC-20 token, it’s also doable with FLI tokens to commerce Bitcoin in a decentralized method on the Ethereum blockchain.
+
+The FLI tokens use a method and sensible contracts which might be primarily based on the Set Protocol and the Compound Lending Protocol. This makes it doable to generate an ERC-20 token that robotically opens and manages leveraged positions.
+
+Source: TheDefiant, How ETH2X-FLI works
+
+There are presently solely two FLI tokens (ETH2X-FLI and BTC2x-FLI), each of that are leveraged by an element of two and are presently solely out there on token units SushiSwap and UniSwap.
+
+For instance, the BTC2X-FLI token has the next parameters:
+
+Underlying asset: wBTC
+
+Target Leverage Ratio: 2
+
+DeFi Lending Protocol: Compound
+
+Maximum leverage ratio: 2.2
+
+Minimum leverage ratio: 1.8
+
+Redeployment fee: 10 %
+
+This permits buyers to open a place on Bitcoin that’s leveraged by an element of two by shopping for BTC2X-FLI tokens. For instance, if the Bitcoin value will increase by 5.zero %, the value of BTC2X-FLI will enhance by 10.zero %. Conversely, this additionally signifies that BTC2X-FLI falls 10.zero % if Bitcoin data a value decline of 5.zero %. The precise methodology of BTC2X-FLI may be considered on TokenSets.
+
+Advantages of Flexible Leverage Indices
+
+Basically, FLI tokens supply 4 benefits:
+
+Lower danger with leverage buying and selling (not eradicated) Lower price burden Easier to make use of Compatibility with DeFi protocols
+
+Lower danger
+
+Trading in leverage is dangerous and even felxible leverage indices can not change that. But FLI tokens can considerably scale back the danger of leverage buying and selling. This is as a result of they’re designed in such a method that they always adapt to the given parameters and realign over time. This can cushion even excessive volatility, as sensible contracts robotically be sure that the collateral stays above the liquidation thresholds. In addition, each FLI token is definitely secured with the underlying token – wBTC and USDC with BTC2X-FLI; ETH and USDC at ETH2X-FLI. During the final Bitcoin crash in mid-May, it was even doable that there have been no liquidations.
+
+Lower charges
+
+Another benefit of FLI tokens is that they’re cheaper in comparison with leverage gives on centralized exchanges as a result of their charges are decrease and there’s no slippage.
+
+Source: mestigoit.medium.com
+
+Easy to make use of
+
+One of the best benefits of FLI tokens is that they’re very straightforward to make use of. They are very straightforward to purchase and may be saved in an Ethereum pockets. As a holder of a FLI token, you should not have to observe whether or not there’s a danger of liquidation, as sensible contracts robotically monitor the entire thing for you.
+
+Compatibility with Decentralized Finance
+
+Another nice good thing about FLI tokens is that they’re totally appropriate with DeFi functions. That's as a result of FLI tokens like BTC2X-FLI and ETH2X-FLI are ERC-20 tokens. For this purpose, the FLI tokens will also be traded on decentralized exchanges reminiscent of UniSwap or SushiSwap. Theoretically, nonetheless, it will even be doable sooner or later to combine the tokens into a wide range of different DeFi protocols.

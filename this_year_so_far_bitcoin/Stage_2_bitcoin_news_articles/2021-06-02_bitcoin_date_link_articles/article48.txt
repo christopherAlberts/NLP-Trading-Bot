@@ -1,0 +1,21 @@
+Ethereum miners earned $2.35 billion in revenues in May, exceeding Bitcoin mining revenue for the second time in a year.
+
+What Happened: According to data from The Block, Bitcoin (CRYPTO: BTC) miners earned $1.45 billion in the same month.
+
+Miner profits are to some degree a function of the price of the underlying crypto asset itself. While Ethereum (CRYPTO: ETH) outperformed Bitcoin for the better part of May, the network’s high transaction fees were an aiding factor in miner profitability.
+
+Why It Matters: Out of the $2.5 billion that Ethereum miners earned in revenue, $1.03 billion alone came from transaction fees. Comparatively, Bitcoin miners only earned $123 million from transaction fees and over $1 billion from the “block reward” subsidy.
+
+However, the profitability of Ethereum miners may be short-lived given the network’s expected updates in the next few months.
+
+With EIP-1559, a proposal that would essentially burn ETH transaction fees instead of giving it to miners, ahead, Ethereum miners may no longer be entitled to these record monthly revenues that outpace Bitcoin.
+
+Read also: Tesla Competitor Becomes First To Mine Dogecoin, Bitcoin, Ethereum With Parked Electric Cars
+
+In fact, after Ethereum’s upcoming upgrade to a Proof-of-Stake (PoS) network, the need for Ethereum miners would be entirely eliminated.
+
+The “London Hard Fork” will introduce the first stages of these elements to the Ethereum network and is scheduled to take place in July.
+
+Price Action: Ethereum was trading at $2,744 at the time of writing, having gained 8% in the past 24-hours.
+
+The second-largest cryptocurrency by market cap saw $26 billion in trading volume and accounted for 18.83% of the market.

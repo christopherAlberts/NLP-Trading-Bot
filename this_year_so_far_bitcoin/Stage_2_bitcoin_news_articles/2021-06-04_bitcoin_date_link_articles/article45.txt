@@ -1,0 +1,25 @@
+Localbitcoins Adds Bitcoin Cash and Other Cryptocurrencies as Payment Methods
+
+Localbitcoins, one of the biggest P2P exchanges in the world, has added Bitcoin Cash and other cryptocurrencies as payment methods to acquire Bitcoin on its platform. This marks a clear departure from the earlier position of the company, which hadn’t added new payment methods and had remained Bitcoin-only for some time.
+
+Localbitcoins Adds Bitcoin Cash and Other Cryptos
+
+Localbitcoins, one of the biggest P2P cryptocurrency exchanges in the world, is now allowing its users to purchase Bitcoin with other cryptos, in a departure from its earlier Bitcoin-only approach. The company announced in a blog post last week they will now allow listings leveraging Tether (USDT), Polkadot (DOT), Cardano (ADA), Bitcoin Cash (BCH), USD Coin (USDC), Chainlink (LINK), and Dogecoin (DOGE) as payment methods.
+
+The exchange also added several new fiat-based payment methods that can be used internationally, and others that can only be used in specific countries. The decision marks a clear departure from the traditional Bitcoin-only stance the company has had since its creation, and effectively creates the possibility for arbitrage with altcoin prices on the platform, albeit not as directly as in a traditional exchange.
+
+Localbitcoins is one of the first P2P exchanges and, apart from the strengthening of the KYC measures associated with the use of the platform, it has not changed much. Even the user experience and webpage have remained much the same since it began operation in 2012, and the platform still lacks a mobile app.
+
+Slow Innovation
+
+One of the reasons for this sudden change of heart could be the loss of relevance the exchange is facing in emerging markets like Venezuela, where the exchange has been moved from being the preferred way of buying bitcoin to just another good option in the market.
+
+Evidence of this is dwindling volumes of sales, which can be seen in Coin Dance statistics. This was also exacerbated by the arrival of a new P2P alternative market: Binance P2P, which is backed by the exchange, and has attracted many of Localbitcoins’ merchants and customers in the last two years. Further, other less privacy-invasive options have emerged, such as Bitcoin.com Local, where no KYC is required for direct P2P trade.
+
+Localbitcoins’ waning popularity might be just a sign of the times, as now there are tons of other ways to purchase bitcoin aside from direct, P2P exchange. However, P2P still has some key traits that make it the to-go method of acquiring cryptocurrencies for many, and Localbitcoins might be expanding its offer and payment methods to keep up with the requirements of its users.
+
+What do you think of Localbitcoins adopting new cryptocurrencies as payment methods? Tell us in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

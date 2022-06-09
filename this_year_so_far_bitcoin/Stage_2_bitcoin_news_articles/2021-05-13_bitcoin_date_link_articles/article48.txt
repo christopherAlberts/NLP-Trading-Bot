@@ -1,0 +1,51 @@
+Cryptocurrency has shot into the news lately: bursting into headlines with the same unstoppable energy that characterises their fluctuations in price.
+
+But as they move into the mainstream, they can be lead to confusion. It is money but there is no bank; it is an asset but it is not attached to anything physical.
+
+Here is some answers to what the big and growing world of cryptocurrency actually is.
+
+What is cryptocurrency?
+
+It is, in short, a digital version of money. It is intended to work in the same way: people have “wallets” in which they can store the money, used to represent value in the economy, which can be traded with others for goods or services.
+
+As with much money in today’s traditional banking system, cryptocurrency does not actually exist physically; instead, it is recorded as numbers in a ledger, which is used to represent how much of a given cryptocurrency a given person has.
+
+But very much unlike today’s banking system, all of that is decentralised. It is instead recorded in the blockchain, which is spread across all the parts of the network, recording transactions in a way that is public and verifiable but belongs to nobody in particular.
+
+The first of these was bitcoin, created in 2009 by an anonymous person calling themselves Satoshi Nakamoto. In the time since, numerous other cryptocurrencies have been created.
+
+Why are there so many cryptocurrencies?
+
+In theory, anyone can make a cryptocurrency; at their heart they are just software, and so anyone can make one. There is no official organisation that decides what is a cryptocurrency and what isn’t.
+
+Because of that, a whole host of such “altcoins” exist. Some of them have become major players themselves, leading to speculation that they could possibly “flip” bitcoin and become the biggest cryptocurrency.
+
+Some of those altcoins attempt to offer new solutions to existing problems with major players like bitcoin: making transactions simpler or more efficient, for example. Others are created just as alternatives, like dogecoin, which began largely as a joke.
+
+Sometimes they move together, with the whole cryptocurrency market tending to fluctuate on the back of specific bits of news. But sometimes traders move between them, as when dogecoin shot up in price, with the backing of people including Elon Musk.
+
+How do you buy them?
+
+Cryptocurrencies, like any other asset, can be bought for cash, such as dollars or pounds. Numerous exchanges exist to make that possible, and users can either hold their cryptocurrency with those exchanges or store them in their own wallet.
+
+They can, of course, then also be sold. As such, a vibrant and often volatile market for buying and selling them exists.
+
+Why is it so chaotic?
+
+Unlike traditional financial assets, such as stocks or commodities, cryptocurrencies are not valued in terms of what they can be used for; in theory, they are a bet on a company’s future profits or the usefulness of a given material, but cryptocurrencies function mostly as a bet on how interested in them people are. And unlike traditional fiat currencies, cryptocurrencies doesn’t have a central bank tasked with using monetary policy to ensure that its value does not fluctuate too wildly.
+
+Some of those things are, according to supporters, exactly what makes cryptocurrencies so exciting: they work as a form of payment that is separate from any bank or politician. But it is also what means that can be subject to wild swings, since there is no bank or politician to even them out, or to apply controls to stifle any overly dramatic swings.
+
+As such, the value of cryptocurrency often fluctuates significantly, often quickly, and not always with any warning or connection to obvious world events.
+
+Over the last year, those fluctuations have tended to mostly been upwards: even after both its crash and considerable gains in recent years, the price is up 65 per cent in 2021.
+
+But, as with anything involving anything financial, there is no guarantee that the trajectory will keep going upwards. It could go down just as easily as it goes up.
+
+Are the environmental concerns legitimate?
+
+Yes. Inefficiency is built into the way bitcoin works: it has to use energy to keep its system going. Since much of that energy is gathered through harmful means, at least at the moment, there is plenty of reason to worry about the sustainability of bitcoin.
+
+The energy use means that bitcoin now accounts for about 0.7 per cent of energy consumption on Earth, according to University of Cambridge figures. That’s more than Sweden or Malaysia.
+
+There is, as you might expect, plenty of concern about this within the cryptocurrency community, which has led to its own solutions. That has involved everything from trying to do the mining in a more sustainable way, by using renewable energy, to re-engineering the cryptocurrencies so that they use less energy in the first place.

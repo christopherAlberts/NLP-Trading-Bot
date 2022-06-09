@@ -1,0 +1,105 @@
+TORONTO, Ontario and BROSSARD, Quebec, April 16, 2021 (GLOBE NEWSWIRE) -- Bitfarms Ltd. (“Bitfarms”, or the “Company”) ( TSXV:BITF // OTC:BFARF ), one of the largest, oldest and most cost-effective public Bitcoin mining operations in the world, today announces a number of corporate developments.
+
+
+
+New Miner Purchases
+
+The Company has recently completed two purchases of new-generation mining equipment manufactured by MicroBT to be installed through August. When deployed, the 1,996 miners will produce an additional 160 PH/s. These purchases are in addition to the 1,500 M31S+ previously announced for delivery in June for a total of 280 PH/s of new equipment to be installed in our Cowansville expansion expected to be complete in July.
+
+Name Miners Model Total Hash Delivery Month MicroBT 496 M31S+ 40 PH/s April 2021 MicroBT 1,500 M31S+ 120 PH/s June 2021* MicroBT 1,500 M31S+ 120 PH/s July 2021 Total 3,496 280 PH/s *previously announced on March 24, 2021.
+
+Miner Rehabilitation
+
+
+
+The Company has recently started rehabilitation of older and mid-generation equipment that were previously cost-ineffective to repair. When rehabilitated, this equipment will restore approximately 80 PH/s of production to Bitfarms for a capital cost of approximately US$5 per TH/s. This compares to nearly US$120 per TH/s for new generation equipment on the spot market today, providing a near immediate return on investment.
+
+Bitcoin Inventory Pilot Program
+
+This week Bitcoin set another new all-time high of more than US$64,000, a more than 100% increase Year-To-Date.
+
+During this time, Bitfarms has mined and retained over 650 Bitcoin in reserve, currently valued at US$41 million at US$63,000 per Bitcoin and is currently adding approximately 7.5 Bitcoin per day to inventory. With prevailing difficulty, Bitfarms expects its mined Bitcoin inventory will grow to 1,000 Bitcoin within the next 50 days, representing approximately US$63 million worth of value for our shareholders at prevailing prices.
+
+With the planned new miner purchases, ongoing miner repairs, Bitfarms expects to increase its total hashrate to approximately 1.6 EH/s by August. At the prevailing economics as of April 15th, this equipment would produce approximately 9.5 Bitcoin per day.
+
+Stock Market Listing in the United States
+
+On February 4, 2021, we announced our intention to pursue an additional stock exchange listing for the Company in the United States. The Company has been continuing to actively move forward with a Nasdaq listing process. Having filed our 2020 Annual Information Form, we are now finalizing for submission our SEC Form 40-F, an important milestone towards our U.S. listing on the Nasdaq.
+
+About Bitfarms Ltd.
+
+Founded in 2017, Bitfarms is one of the one of the largest, oldest and most cost-effective public bitcoin mining operations in the world. Bitfarms runs vertically integrated mining operations with onsite technical repair, proprietary data analytics and Company-owned electrical engineering and installation services to deliver high operational performance and uptime.
+
+Having demonstrated rapid growth and stellar operations, Bitfarms became the first Bitcoin mining company to complete its long form prospectus with the Ontario Securities Commission and started trading on the TSX-V in July 2019. For disclosure purposes, on March 8, 2021, Bitfarms filed an Annual Information Form for its first time. On March 15, 2021, Bitfarms was issued a receipt by the Ontario Securities Commissions for the filing of its Preliminary Base Shelf Prospectus. These documents and all other public filings are available on Sedar.com. On February 24, 201 Bitfarms was honoured to be announced as a Rising Star by the TSX-V.
+
+Bitfarms has a diversified production platform with five industrial scale facilities located in Quebec. Each facility is 100% powered with environmentally friendly hydro power and secured with long-term power contracts. Bitfarms is currently the only publicly traded pure-play mining company audited by a Big Four audit firm.
+
+To learn more about Bitfarms’ events, developments, and online communities:
+
+Website: www.bitfarms.com
+
+
+
+https://www.facebook.com/bitfarms/
+
+https://twitter.com/Bitfarms_io
+
+https://www.instagram.com/bitfarms/
+
+https://www.linkedin.com/company/bitfarms/
+
+
+
+Defined Terms
+
+Installed Hashrate: Equivalent to the sum of all deployed miners’ manufacturers specified Bitcoin mining hashrate. Actual operational hashrate may be different than installed and operational.
+
+EH/s: Exahash per second
+
+PH/s: Petahash per second
+
+TH/s: Terahash per second
+
+Cautionary Statement
+
+Trading in the securities of the Company should be considered highly speculative. No stock exchange, securities commission or other regulatory authority has approved or disapproved the information contained herein. Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release.
+
+Forward-Looking Statements
+
+This news release contains certain “forward-looking information” within the meaning of applicable Canadian securities laws that are based on expectations, estimates and projections as at the date of this news release. The information in this release about future plans and objectives of the Company, are forward-looking information. Other forward-looking information includes but is not limited to information concerning: the intentions, plans and future actions of the Company, as well as Bitfarms’ ability to successfully mine digital currency, revenue increasing as currently anticipated, the ability to profitably liquidate current and future digital currency inventory, volatility of network difficulty and digital currency prices and the resulting significant negative impact on the Company’s operations, the construction and operation of expanded blockchain infrastructure as currently planned, and the regulatory environment of cryptocurrency in the Provinces of Canada.
+
+Any statements that involve discussions with respect to predictions, expectations, beliefs, plans, projections, objectives, assumptions, future events or performance (often but not always using phrases such as “expects”, or “does not expect”, “is expected”, “anticipates” or “does not anticipate”, “plans”, “budget”, “scheduled”, “forecasts”, “estimates”, “believes” or “intends” or variations of such words and phrases or stating that certain actions, events or results “may” or “could”, “would”, “might” or “will” be taken to occur or be achieved) are not statements of historical fact and may be forward-looking information and are intended to identify forward-looking information.
+
+This forward-looking information is based on reasonable assumptions and estimates of management of the Company at the time it was made, and involves known and unknown risks, uncertainties and other factors which may cause the actual results, performance or achievements of the Company to be materially different from any future results, performance or achievements expressed or implied by such forward-looking information. Such factors include, among others, risks relating to the global economic climate; dilution; the Company’s limited operating history; future capital needs and uncertainty of additional financing; the competitive nature of the industry; currency exchange risks; the need for the Company to manage its planned growth and expansion; the effects of product development and need for continued technology change; protection of proprietary rights; the effect of government regulation and compliance on the Company and the industry; network security risks; the ability of the Company to maintain properly working systems; reliance on key personnel; global economic and financial market deterioration impeding access to capital or increasing the cost of capital; and volatile securities markets impacting security pricing unrelated to operating performance. In addition, particular factors which could impact future results of the business of Bitfarms include but are not limited to: the construction and operation of blockchain infrastructure may not occur as currently planned, or at all; expansion may not materialize as currently anticipated, or at all; the digital currency market; the ability to successfully mine digital currency; revenue may not increase as currently anticipated, or at all; it may not be possible to profitably liquidate the current digital currency inventory, or at all; a decline in digital currency prices may have a significant negative impact on operations; an increase in network difficulty may have a significant negative impact on operations; the volatility of digital currency prices; the anticipated growth and sustainability of hydroelectricity for the purposes of cryptocurrency mining in the Province of Québec, the ability to complete current and future financings, any regulations or laws that will prevent Bitfarms from operating its business; historical prices of digital currencies and the ability to mine digital currencies that will be consistent with historical prices; an inability to predict and counteract the effects of COVID-19 on the business of the Company, including but not limited to the effects of COVID-19 on the price of digital currencies, capital market conditions, restriction on labour and international travel and supply chains; and there will be no regulation or law that will prevent Bitfarms from operating its business. The Company has also assumed that no significant events occur outside of the Bitfarms’ normal course of business. Although the Company has attempted to identify important factors that could cause actual results to differ materially, there may be other factors that cause results not to be as anticipated, estimated or intended. There can be no assurance that such statements will prove to be accurate as actual results and future events could differ materially from those anticipated in such statements. Accordingly, readers should not place undue reliance on forward-looking information. The Company undertakes no obligation to revise or update any forward-looking information other than as required by law.
+
+Contacts
+
+Investor Relations:
+
+CORE IR
+
+516-222-2560
+
+
+
+For media inquiries:
+
+YAP Global:
+
+Ellis Ballard
+
+ellis@yapglobal.com
+
+US Media:
+
+CORE IR
+
+Jules Abraham
+
+Head of Public Relations
+
+julesa@coreir.com
+
+Quebec Media:
+
+Mark Duschene, Ryan Affaires

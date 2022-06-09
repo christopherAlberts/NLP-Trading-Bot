@@ -1,0 +1,31 @@
+Blockchain data shows bitcoin miners are accumulating coins and adding to bullish pressures in the market for the first time since December.
+
+Analytics firm Glassnode’s miner position change metric, which gauges the 30-day change in the supply held in the miners’ addresses, recently turned positive in a sign of renewed holding by those responsible for making coins.
+
+The balance held in miner wallets has increased by 4,435 BTC to 1.806 million over the past two weeks, Glassnode’s data shows.
+
+Related: Greensill’s Collapse and How Blockchains Are Changing Trade Finance
+
+“Miners [now] have a net accumulation of liquid assets as they have enough cash in reserve to run their future operations, having liquidated holdings when the bitcoin price was between $20,000 and $40,000, or most of them are holding in anticipation of a price rally,” Flex Yang, CEO of Hong Kong-based Babel Finance, said in an email.
+
+Miners predominantly operate on cash and liquidate holdings to meet expenses. However, the pace of miner selling varies from time to time depending on mining-specific factors and bitcoin’s price expectations.
+
+The return to accumulation mode observed since March 31 comes after almost four months of largely negative readings – miners decreasing positions and taking profits. Peak distribution of roughly 17,000 BTC to 24,000 BTC was seen throughout January, according to Glassnode’s weekly newsletter, dated March 8.
+
+While miner flows constitute a small part of the total network volume, as tweeted by Glassnode’s CEO Rafael Schultze-Kraft, accumulation by miners is analogous to increased promoter holding of corporate stock and is considered a positive indicator. “Their spending patterns provide insight into the sentiment of some of the biggest bulls in the Bitcoin market,” Glassnode said in a newsletter published on April 5.
+
+Related: What Can and What Should We Do About Stolen NFTs?
+
+Story continues
+
+Whales, or large investors with the ability to influence prices, have also stopped selling coins.
+
+The number of whale entities – clusters of crypto wallet addresses held by a single network participant holding at least 1,000 bitcoin – has steadied above 2,000 since March 31.
+
+The figure dropped from 2,230 to 2,004 in nearly two months to March 31, mainly due to quarter-end rebalancing, according to blockchain analyst Willy Woo. It remains to be seen if these positive on-chain developments fuel the next leg higher in the cryptocurrency.
+
+While bitcoin is currently trading moderately higher on the day near $58,500, it remains trapped in a narrowing price range. A breakout would mark a continuation of the broader uptrend typically experienced in the seasonally strong month of April.
+
+Also read: This Indicator Suggests Bitcoin Is Overdue for a Big Price Move
+
+Related Stories

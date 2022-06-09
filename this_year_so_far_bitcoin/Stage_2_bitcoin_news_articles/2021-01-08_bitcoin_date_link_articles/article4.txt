@@ -1,0 +1,77 @@
+I won’t do that again. Money Reimagined goes on break for three weeks and what happens?
+
+Bitcoin soars 82%. More than 54,000 Americans die of COVID-19. And, oh yeah, an insurrection happens in Washington, D.C.
+
+On the second, the numbers speak for themselves: a heartbreaking failure of human organization. On the third, I’m too gobsmacked to speak anyway. So, today we discuss the first. I want to show how bitcoin’s volatility is not a problem for its long-term viability, as some critics claim.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+You’ll note a new format to parts of the newsletter. More changes to come in the weeks ahead. Let us know what you think of the bullet point format and other changes.
+
+Also, the first 2021 episode of our “Money Reimagined” podcast is out. This one, featuring Matthew Davie of Kiva and Alpen Sheth of Mercy Corps, looks at the charity organizations’ efforts to drive financial inclusion through grassroots empowerment, and whether or not crypto will succeed in breaking down a U.S.-dominated “philanthropy industrial complex.”
+
+Bitcoin’s year-end moves weren’t all in one direction. In the 24 hours between New York daybreak on Sunday, Jan. 3, and Monday, Jan. 4, it plunged 18%, from a high of $34,341 to a low of $28,154, only to recover all that within the next 36 hours and to reach $40,755 just before this newsletter went out.
+
+Such wild swings are fodder for nocoiners like Jacob Silverman, who declared in The New Republic “that bitcoin, unlike gold, is worthless.”
+
+Seems reasonable, right? How can something of such mercurial value act as a medium of exchange, store of value and unit of account – the three functions of money?
+
+It’s a duplicitous argument. Bitcoin could never have birthed with immediate price stability. If it’s to fulfill its “digital gold” use case, it must go on a journey, from misunderstood, unappreciated concept to widespread acceptance. That takes time. Along the way, it will rise in value. But, as speculators buy and sell, it will do so in fits and starts.
+
+How long will this process take? Well, how long did gold take to become a widely accepted store of value? This hilarious video, portraying a vendor rejecting a customer’s offer of gold, “the currency of the future,” instead of a chicken to buy five rat skins and some tepid lemonade, suggests what it was up against:
+
+Patience please. Bitcoin is not yet digital gold. It is becoming digital gold.
+
+This is why the recent rash of high-profile price forecasts matters: $146,000, says JPMorgan; $318,000, says Citibank; $400,000 says Guggenheim. They’re not time-fixed price targets for a stock that will later grow further in value. They are stabs at a fair value once bitcoin attains that needed establishment status.
+
+It’s also why the second part of crypto pioneer Wences Casares’ oft-cited binary framing – that bitcoin could go to $1 million but could also go to zero – still holds. That’s looking less and less likely, but if advocates can’t get past widespread no-coiner mistrust, bitcoin will fail to achieve its potential.
+
+Satoshi’s resolution of the Byzantine Generals’ dilemma gives bitcoin the potential to be a benchmark of digital scarcity, one that’s badly needed for a global economy that’s increasingly digitized and internet-based. But to become that universal standard it must go through a narrative-driven cultural process of awareness. Most important, people need to appreciate that the most important aspect of bitcoin’s security model is not really its tech but the growing size of its network – in other words, the self-fulfilling nature of its acceptance.
+
+Only if and when that process reaches critical mass can we then start to apply this widely accepted, digitally scarce store of value to new forms of monetary utility – perhaps as a settlement layer for lightweight Lightning payments, perhaps as programmable collateral to replace sovereign debt as the foundation of the global bond market, or both.
+
+We have a long way to go before we get there. For now, just enjoy the ride.
+
+Whales vs. minnows
+
+“This time is different” is a dangerous phrase, as Carmen Reinhart and Kenneth Rogoff reminded us after the 2008 housing crisis. But when comparing the 2017 bitcoin boom with the current one, there are lots of indications this one is different.
+
+The previous one was characterized as a FOMO event as hordes of retail investors, fearful of being left behind, rushed, not only into bitcoin but into countless ill-conceived and often illegal ICOs. It was a Main Street rally.
+
+Sadly, in keeping with the “dumb money” depictions Wall Street traders often use of such hype-chasing investors, many bought high and sold low, losing their shirts when the market collapsed in early 2018. The winners at such times, Wall Street will tell you, are the “smart money” big guys who buy early and sell at the top.
+
+This feels much more like a Wall Street rally. Powerful institutions and big-name investors – from BlackRock’s Larry Fink to Bill Miller of Miller Value Partners and Guggenheim Partners’ Scott Minerd – have either invested in or at least talked about bitcoin’s potential.
+
+There’s even on-chain data to back up the thesis. Coin Metrics’ measure of “whale” bitcoin addresses, those holding more than 1,000 BTC, shows their number falling in 2017 as little guys were buying, but rising solidly as the price rose in 2020 and into the new year.
+
+Source: Coin Metrics
+
+Of course, the whales of 2017 weren’t exactly Wall Streeters. Many were also retail investors. In that case, the “smart money” were those who grokked crypto and blockchain early on and knew that mania of that time was going too fast too early.
+
+Time will tell whether the Wall Street newcomers are the new smarts or whether they, too, have been played.
+
+The conversation: Washington’s game plan
+
+Two other big bombshells items dropped out of Washington during the break:
+
+On Dec. 18, the Treasury Department proposed that its Financial Crimes Enforcement Network (FinCEN) require crypto exchanges to store customer information – KYC/AML requirements – for transfers to unhosted, or self-custodied, wallets of more than $3,000 and to file “Currency Transaction Reports” for transactions aggregating more than $10,000 per day.
+
+On Jan.4, the Office of the Comptroller of the Currency announced it would allow banks to use public blockchain-based stablecoins to manage payments.
+
+The first was roundly condemned by the crypto community as an attack on privacy and innovation. The second was hailed as a breakthrough for the crypto economy.
+
+But were these seemingly contradictory initiatives uncoordinated? A look at the Twitter conversation suggests something more might be at play.
+
+On Dec. 21, monetary economist and CoinDesk columnist JP Koning made an observation others had missed: The FinCEN proposal applies not just to regular cryptocurrency exchanges but also to any dealing in central bank digital currencies.
+
+On Jan. 4, Jeremy Allaire, CEO of Circle, the main issuer of the USDC stablecoin, raved about the OCC ruling’s power to transform global payments.
+
+And Policy 4.0 CEO Tanvi Ratna pointed out that bringing banks into the stablecoin business means more, not less regulation, and that regulation will have international reach.
+
+Here’s where my mind went: The FinCEN rule is as much about putting U.S. financial surveillance capability onto exchanges of fiat-denominated digital currencies as it is about controlling bitcoin transactions. The OCC rule is perpetuating global demand for dollars because the most-sought after domination in stablecoins is USD as central bank digital currencies threaten to undermine the dollar’s dominance.
+
+What crypto commentators view as a confounding good cop/bad cop routine against them might actually be a coordinated geopolitical play by Washington. Together these rules could help the U.S. maintain its singular power, as the world’s reserve currency issuer, to monitor and regulate global monetary movements, even as China and other countries are trying to use digital currency technology to bypass the U.S.-regulated banking system.
+
+Relevant reads: don’t forget Ethereum
+
+Parallel to our ongoing coverage of the wild bitcoin rally, CoinDesk had a string of stories this past week that suggested Ethereum is also in boom mode, including renewed activity in Ethereum-based decentralized finance.

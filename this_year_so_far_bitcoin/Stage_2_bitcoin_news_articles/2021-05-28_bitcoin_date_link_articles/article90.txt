@@ -1,0 +1,19 @@
+(Bloomberg) -- When British police raided a warehouse, they were expecting to find a cannabis farm. Instead they found banks of computers illegally siphoning the electricity needed to mine for Bitcoin.
+
+Cops in West Midlands, England seized around 100 computer units that were working to bypass the local power grid. They discovered the warehouse after sending a drone over the site, which detected a considerable heat source.
+
+Mining for Bitcoin devours massive amounts of power, racking up huge bills for dedicated miners. The process, which needs computers to solve complex math problems to create new coins, now uses 66 times more electricity than in 2015, Citigroup Inc. said in a recent report. The Centre for Alternative Finance at the University of Cambridge estimates it uses more electricity globally in a year than the Netherlands.
+
+“It’s certainly not what we were expecting,” Police Sergeant Jennifer Griffin, said in a statement Friday. “It had all the hallmarks of a cannabis cultivation set-up.”
+
+The police said they hadn’t yet made any arrests but believed thousands of pounds worth of power had been taken from the grid.
+
+“Mining for cryptocurrency is not itself illegal but clearly abstracting electricity from the mains supply to power it is,” Griffin said. It is just the second illegal mining operation the local force have discovered in the region.
+
+(Updates with previous police discovery in final paragraph)
+
+More stories like this are available on bloomberg.com
+
+Subscribe now to stay ahead with the most trusted business news source.
+
+©2021 Bloomberg L.P.

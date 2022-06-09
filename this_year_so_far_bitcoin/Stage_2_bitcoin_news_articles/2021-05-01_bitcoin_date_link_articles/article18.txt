@@ -1,0 +1,35 @@
+One of the original allures of cryptocurrency is the narrative that using them provides the sender or recipient anonymously, but this is a common misconception within the sector.
+
+In reality, Bitcoin (BTC) and many other cryptocurrencies are easily traceable.
+
+Proof of this came earlier this week when on April 27, U.S. authorities arrested the mastermind of Bitcoin Fog, a darknet-based BTC mixing service. Authorities were able to capture the operator after analyzing ten years of blockchain data.
+
+One doesn't need to be a forensic analyst to know that every single transaction is tied up to addresses on the blockchain and that they will stay there forever. While government agencies cannot determine the IP address or personal data from the address, these coins usually end up being used for products or service payments. This is the trail that leads back to the sender and recipient.
+
+In the case of Bitcoin Fog, law enforcement was able to identify server hosting expenses paid using digital currency. Bitcoin mixing services such as Bitcoin Fog allow users to mix their coins with other users, making it almost impossible to detect the destination addresses. This obfuscates the ties between the inputs and output addresses, providing a better level of privacy.
+
+Example of a mixing transaction. Source: TarushTech-Medium
+
+Mixing services are offered in a wide range of methods, including fully centralized solutions where trust is required, to Coinjoin mixers, which depend on a large group of users to self cooperate and act simultaneously. There's even the possibility of trading on decentralized exchanges (DEX) to virtually eliminate any possible tracing.
+
+Mixers do present a few risks
+
+Centralized mixers offer the obvious single point of failure problem. Even if one trusts that the entity is using multisig addresses, if the service is willing to share its data or has been breached, their users will lose their privacy.
+
+CoinJoin solved this problem by combining the inputs of multiple users into a single transaction. The service will then take those coins, craft them into a transaction, and have each participant sign before broadcasting it to the network. These transactions are then merged into one, and each user gets the original quantity in return. However, no one can see the origin of those coins, not even the entity that merges the transaction.
+
+Even though CoinJoin isn't exactly untraceable, it provides plausible deniability, as no one can point out which entity owns each output. The larger the number of participants, the higher the degree of deniability.
+
+Wasabi Wallet CoinJoin function screen capture. Source: WasabiWallet
+
+Some cryptocurrency users also require anonymity for sending tokens to their wallets, and Wasabi Wallet has long been used for its embedded CoinJoin functionalities.
+
+While its infrastructure is technically centralized, its design assures that the operators cannot deanonymize users or steal any funds. At the moment, the Wasabi wallet is only available for desktop solutions, so as is the case with anything in cryptocurrency, beware of clones!
+
+A similar service is provided by Samourai wallet, which also offers a Chaumian CoinJoin mixing service, called Whirlpool. To achieve a full-privacy solution, users have to connect the Samourai wallet to their own full Bitcoin node. However, it does offer desktop and mobile versions.
+
+Even though these mixing services aren't illegal in most jurisdictions, some exchanges and services might refuse users linked to addresses associated with coin mixing activities.
+
+As more people realize the importance of achieving a certain degree of privacy for self-protection, the fewer incentives companies will have to deny their clients to use mixers.
+
+The views and opinions expressed here are solely those of the author and do not necessarily reflect the views of Cointelegraph.com. Every investment and trading move involves risk, you should conduct your own research when making a decision.

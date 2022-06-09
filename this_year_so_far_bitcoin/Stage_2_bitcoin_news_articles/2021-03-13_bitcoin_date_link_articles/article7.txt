@@ -1,0 +1,65 @@
+The CEO of a Canadian communications firm has been indicted in San Diego on charges of facilitating drug trafficking and money laundering around the world through encrypted cellphones.
+
+The indictment comes on the heels of a landmark prosecution by the U.S. Attorney’s Office in San Diego against Phantom Secure, another encrypted communications provider based out of Canada and favored by criminal organizations globally.
+
+The latest charges, returned by a federal grand jury Friday, target Jean-Francois Eap, CEO of Sky Global, as well as Thomas Herdman, a former high-level distributor of the company’s phones.
+
+Warrants have been issued for the arrests of the men, who live in Vancouver, British Columbia, on racketeering and drug distribution conspiracy charges.
+
+Advertisement
+
+The business was designed to aid in the trafficking of heroin, cocaine and methamphetamine by transnational organizations moving the drugs into Australia, Asia, Europe and North America, prosecutors said.
+
+According to the indictment, Sky Global, also known as SKY ECC, installs encryption software on iPhone, Google Pixel, BlackBerry and Nokia handsets, with the communications operating in closed networks and routed through encrypted servers based in Canada and France.
+
+The phones are also designed to be wiped remotely by the company should they fall into the hands of law enforcement, the indictment states.
+
+The venture has generated more than $100 million in profits over the past decade, the indictment says, with customers paying a subscription fee of $1,200 to $2,000 every six months.
+
+To maintain client anonymity and facilitate the laundering of their customers’ illicit profits, Sky Global employees used digital currency such as bitcoin. Employees hid the company’s own proceeds in shell companies, according to the charges.
+
+Earlier this week, Europe’s law enforcement agency Europol announced that authorities in Belgium, the Netherlands and France had been secretly collecting messages on some 70,000 Sky Global phones through a massive wiretap operation that began mid-February.
+
+The Europol headquarters building in The Hague, Netherlands. (ASSOCIATED PRESS)
+
+The investigation “has provided invaluable insights into hundreds of millions of messages exchanged between criminals” and “has resulted in the collection of crucial information on over a hundred of planned large-scale criminal operations, preventing potential life threatening situations and possible victims,” the agency said in a statement.
+
+Advertisement
+
+On Tuesday, authorities in Belgium and the Netherlands — where more than 20 percent of Sky Global’s users are believed to be based — used the information to conduct coordinated raids.
+
+“The European investigation resulted in hundreds of arrests, the seizure of thousands of kilograms of cocaine and methamphetamine, hundreds of firearms, and millions of Euros,” U.S. prosecutors said.
+
+The Europol investigation into SKY ECC started in Belgium after cellphones seized by law enforcement showed suspects using the encryption tool, according to Europol.
+
+Europol estimates about 170,000 people worldwide use the platform, exchanging around 3 million messages a day.
+
+Advertisement
+
+In a statement on SKY ECC’s website following Tuesday’s raids, the company said the phones at the center of the police action, as seen in photos in a Dutch police news release, are counterfeit.
+
+“We know that someone has been passing themselves off as an official reseller of SKY ECC for some time and we have been trying to shut it down through legal channels for almost two years,” Eap said.
+
+Attorney Wim De Colvenaer arrives for a hearing regarding the arrests of users of the Sky ECC cryptophone network, before the Mechelen council chamber on March 10, 2021. (BELGA MAG/AFP via Getty Images)
+
+Eap also denied the allegation that the platform is geared toward criminals.
+
+Advertisement
+
+“SKY ECC believes that the individual right to privacy is paramount for anyone acting within the law,” Eap said. “The platform exists for the prevention of identity theft and hacking, the protection of personal privacy rights, and the secure operation of legitimate personal and business affairs.”
+
+According to the indictment, Sky Global took special precautions after Phantom Secure was indicted in 2018 by instituting an “ask nothing/do nothing” approach to its clientele so it could claim plausible deniability as to its customers’ identities and activities.
+
+Phantom Secure, based in Vancouver, had been providing virtually the same services on BlackBerrys to criminal groups worldwide, including the Hells Angels in Australia and the Sinaloa cartel in Mexico. Phantom Secure’s chief executive, Vincent Ramos, ultimately pleaded guilty and was sentenced to nine years in prison.
+
+The prosecution was believed to be the first of its kind and, like the current one, involved law enforcement cooperation from countries around the globe. The investigation also led to espionage charges in Canada against one of the country’s top security officials.
+
+Advertisement
+
+It’s not clear how the Sky Global case came to be prosecuted in San Diego or if it is tied more directly to the investigation into Phantom Secure. The FBI, Drug Enforcement Administration, IRS, U.S. Marshals Service and Royal Canadian Mounted Police are among the agencies involved.
+
+The Phantom Secure case was pursued in San Diego only after an undercover agent got his hands on a device as part of another investigation into drug trafficker Owen Hanson.
+
+Technology advances have made encrypted communications easily accessible to criminal organizations over the last decade or so. Sinaloa drug kingpin Joaquín “El Chapo” Guzmán hired a whiz-kid to create his own closed-network encrypted communications platform. It was among several that U.S. federal agents were able to tap into and ultimately use to help arrest and prosecute the drug lord.
+
+Last year, another platform, EncroChat, which was based in Europe, was decrypted, causing many users to switch over to Sky Global, according to Europol.

@@ -1,0 +1,53 @@
+Is there such a thing as green Bitcoin?
+
+Elon Musk and Tesla’s recent purchase of $1.5 billion in Bitcoin brightened the spotlight on cryptocurrency. But Tesla’s leadership in sustainably powered vehicles also threw into relief questions about Bitcoin mining’s gargantuan consumption of electricity.
+
+In the dealflow I’m seeing in my work on global infrastructure and energy for Pillsbury Winthrop Shaw Pittman LLP, the topic of how to green blockchain products comes up more and more often.
+
+A running tally from the University of Cambridge estimates that Bitcoin mining uses more energy than Argentina. And the power consumed rises daily, because of how the Bitcoin blockchain was designed and intense competition among miners.
+
+Six years ago, you could mine Bitcoin with a standard laptop or desktop computer. These days, to be competitive, you need a warehouse full of ASICs (application-specific integrated circuits), machines specially designed for the task.
+
+When confronted over Bitcoin’s enormous power appetite, its defenders point to energy wasted by Christmas lights, or vampire electronics that draw power when “off.” (The “other people are worse” argument.)
+
+They also say Bitcoin mining is inherently incentivized toward efficiency, since miners naturally want to pay as little as possible for power, and ASICs are constantly being improved. But this also means there’s a huge stream of ASICs being decommissioned, and since the purpose-built machines are not easily adapted for another purpose, they contribute to the cascade of electronic hazardous waste.
+
+You’ll hear that most Bitcoin mining is powered by renewables. The numbers on this tend to be fuzzy. Since many mining operations are migratory, energy sources can change seasonally. In China, where some 65% of Bitcoin mining is currently done, miners set up near hydroelectric sources during the rainy season, then revert to coal-powered electricity.
+
+Ways to Cut Energy Consumption
+
+One way to invest in Bitcoin that has a positive effect on renewable energy is to encourage mining operations near wind or solar sites. This provides a customer for power that might otherwise need to be transmitted or stored, saving money as well as carbon.
+
+There’s also interest in using natural gas otherwise flared from fossil fuel plants to power mining, and ASIC development to radically reduce the energy required by the computational work. Keeping ASICs from overheating is a big part of Bitcoin’s energy draw. So there’s an investment opportunity in immersion mining—submerging ASICs in liquid instead of air cooling.
+
+With Bitcoin, investment opportunities appear not so much green as green-adjacent: How do we surround a transformative yet energy-intensive industry with ways of minimizing its footprint, while maximizing the benefits?
+
+Cryptocurrency companies Argo and DMG recently signed an agreement to launch a new Bitcoin mining pool that operates exclusively on renewable energy. The mining operation, named TerraPool, will mainly use hydropower.
+
+The World of NFTs
+
+Bitcoin isn’t the only hot cyberproduct. Non-fungible tokens, or NFTs, are digital tokens that provide proof of ownership of a wide range of assets. When a digital mural by the artist Beeple sold for $69 million in March, it shook the art world and brought NFTs to public attention.
+
+Within a week, the New York Times columnist Kevin Roose wrote a column about the NFT phenomenon, then made the column itself into an NFT—which was auctioned within days for more than $560,000.
+
+In confronting the seeming absurdity of the Beeple price tag (the third-highest ever for an artwork by a living artist), people began to grapple with the power and promise of digital assets themselves.
+
+The Blockchain
+
+The idea behind the blockchain arose in 1991, but the virtual currency Bitcoin, laid out in a white paper in 2008, became its first widely used application. Although today there are some 8,000 other cryptocurrencies, Bitcoin remains the preeminent one.
+
+Bitcoin’s blockchain is used only to support the cryptocurrency. But Ethereum’s blockchain, with its ability to embed “smart contracts,” illustrates how the technology can also support NFTs and a wide variety of other uses, including secure storage and exchange of medical records, e-notary, and taxes.
+
+Ethereum 2.0, in the midst of a slow roll-out, could have enormous environmental benefits. Instead of requiring the mining-intensive and power-draining “proof of work” that underlies Bitcoin, Ethereum 2.0 is expected to utilize “proof of stake” to validate its transactions. Such networks may be a logical place to find green investment opportunities in the blockchain realm.
+
+Prominent figures in the field suggest that, despite the outsized recent auction and investment results seen by NFTs and Bitcoin, blockchain technology is still in its infancy. They compare blockchain circa 2020 to the Internet circa 1994, when email made the public first appreciate that it could be useful for something. Then by 2000, the Internet had become a crucial part of daily life.
+
+Blockchain can still be equally transformative, and foster a multiplicity of green investment opportunities. The trick is to dive in and find them. Lower-power mining methods, fueled by wind, sun, and water, are a good place to start.
+
+This column does not necessarily reflect the opinion of The Bureau of National Affairs, Inc. or its owners.
+
+Write for Us: Author Guidelines
+
+Author Information
+
+Mona E. Dajani is a partner and global head of energy and infrastructure at Pillsbury Winthrop Shaw Pittman LLP.

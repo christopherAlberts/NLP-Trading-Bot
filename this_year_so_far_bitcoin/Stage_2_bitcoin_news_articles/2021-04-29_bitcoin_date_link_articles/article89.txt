@@ -1,0 +1,73 @@
+TORONTO, April 30, 2021 (GLOBE NEWSWIRE) -- Fortress Technologies Inc. (TSX-V: FORT) (the "Company" or “Fortress”) announces its full year audited financial results for 2020. This fiscal year, and the period to date, has been a pivotal time for the Company as it has exercised strategic oversight of its treasury, and identified a direction for growth.
+
+
+
+The Company realized the importance of environmental, social and governance ("ESG") initiatives. As such, the Company has entered into a new partnership with Great American Mining LLC ("GAM"), which specializes in developing and operating environmentally sustainable Bitcoin mining containers which convert vented/flared natural gas into electricity.
+
+In addition to this exciting new foray, the Company has enjoyed a strong boost to its income statement and balance sheet, as a result of its asset value. This has been the result of careful treasury management, as well as fiscal diligence.
+
+In 2020, the Company realized a net income of $5,054,286, or $0.07 earnings per share. The Company has recognized a revaluation gain of $3,541,228 from 168.2 Bitcoin held by the Company at December 31, 2020 and an impairment recovery of $2,519,522 from its existing PPE for the year ended December 31, 2020.
+
+Furthermore, on March 26, 2021 the Company completed a $9.3M bought deal financing with Canaccord Genuity Corp. Since then, in its strategic venture with GAM, the Company has already allocated capital to commence construction of 12 Bitcoin mining containers to be deployed in the US gas fields, where GAM's novel technology captures methane waste gas, a greenhouse gas emitted during the extraction of many hydrocarbon resources and many times more potent than CO2 emissions, and converts the stranded waste gas into a productive energy source for Bitcoin mining.
+
+These 12 containers will allow Fortress to operate 2,160 new generation ASIC miners. Fortress has also already purchased 180 MicroBT ASIC miners for the first container which will produce 11.7 PH/s. Upon deployment of the 12 containers, the resulting hashrate will be between 140 to 200 PH/s depending on the variant of ASIC miner, which will be determined by optimal investment ROI.
+
+The Company realizes the importance of securing ASIC hardware at an attractive $/TH, in order to realize an ROI on initial capital. In addition to this strategic venture with GAM, the Company has its additional existing 20 PH/s of Bitcoin mining capacity.
+
+As of April 29, 2021, after the acquisition of the 12 GAM containers and the 180 MicroBT ASIC miners, the Company holds fiat and digital currencies of approximately $22,900,000, including 53.2 Bitcoin. The Company’s total asset value is $28,400,000.
+
+Fortress reports the following financial results on its existing operations for the three and twelve months ended December 31, 2020.
+
+Operational Highlights:
+
+Fortress has mined 12.21 Bitcoin for the three months ended December 31, 2020.
+
+As compared to the three months ended September 30, 2020, in which Fortress mined 13.42 Bitcoin.
+
+The average Bitcoin price for the three months ended Q4 2020 is US$16,655, compared to US$ 10,612 in Q3 2020 US$8,630 in Q2 2020, and US$7,990 for the average Bitcoin price in Q4 2019.
+
+During Q4 2020, the Company generated Bitcoin at a cost of $12,846 (based on quantity of Bitcoin mined divided by incurred monthly cash operating expenses, not including prepaid expenses).
+
+Financial Highlights:
+
+The Company was well capitalized at the end of the quarter with cash balances of $7.0M and digital currencies of $6.2M. Total assets were $13.5M, primarily comprised of cash balances and Bitcoin.
+
+The Company reported total revenue from the data center operations for the three months ended December 31, 2020 is $264,560 ($189,723 for the three months ended September 30, 2020, $255,235 for the three months ended June 30, 2020, $316,811 for the three months ended March 31, 2020, and $364,028 for the three months period ended December 31, 2019), and a total of $1,683,185 for the year ended December 31, 2019.
+
+As the Company retained the Bitcoin mined from the data center operations, with the value of Bitcoin at US$28,857 as of December 31, 2020, based on the daily quantity of Bitcoin earned during this fiscal quarter, the unrealized gain (or additional gross mining margin) from the data center operations would be US$195,531.
+
+As of April 19, 2021, Bitcoin exceeded US$54,000. With the value of Bitcoin at US$54,000, based on the daily quantity of Bitcoin earned during this fiscal quarter. the unrealized gain (or additional gross mining margin) from the data center operations would be US$507,000.
+
+Fortress had a cash and cash equivalents balance of $7,048,050 as at December 31, 2020 compared to cash balance of $10,293,948 as at December 31, 2019. The cash balance decrease of $3,248,898 during the twelve-month period as the Company balanced its treasury to include Bitcoin, to better align with investor expectations. The Company has also purchased and cancelled 1,450,000 common shares for the amount of $194,324.
+
+Fortress had a digital currency balance of 168.20 Bitcoin as at December 31, 2020, in addition to the cash balance. Therefore, total value of cash, Bitcoin and accrued interest as at December 31, 2020 was $13,282,292 with Bitcoin at a price of US$28,857.
+
+About Fortress Technologies
+
+Fortress Technologies Inc. (TSX-V: FORT) is a well-capitalized company focused on developing projects where access to growth capital is highly valued, which can also advance ESG and environmentally conscious business initiatives.
+
+For further information, please contact:
+
+Aydin Kilic
+
+Chief Executive Officer
+
+604 477 9997
+
+ir@fortressblockchain.io
+
+Cautionary Statement
+
+Trading in the securities of the Company should be considered highly speculative. No stock exchange, securities commission or other regulatory authority has approved or disapproved the information contained herein. Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release.
+
+Non-IFRS Measures
+
+This news release contains non-IFRS financial measures; the Company believes that these measures provide investors with useful supplemental information about the financial performance of its business, enable comparison of financial results between periods where certain items may vary independent of business performance, and allow for greater transparency with respect to key metrics used by management in operating its business. Although management believes these financial measures are important in evaluating the Company's performance, they are not intended to be considered in isolation or as a substitute for, or superior to, financial information prepared and presented in accordance with IFRS. These non-IFRS financial measures do not have any standardized meaning and may not be comparable with similar measures used by other companies. For certain non-IFRS financial measures, there are no directly comparable amounts under IFRS. These non-IFRS financial measures should not be viewed as alternatives to measures of financial performance determined in accordance with IFRS. Moreover, presentation of certain of these measures is provided for year-over-year comparison purposes, and investors should be cautioned that the effect of the adjustments thereto provided herein have an actual effect on the Company's operating results.
+
+Forward-Looking Statements
+
+This news release contains certain “forward-looking information” within the meaning of applicable Canadian securities laws that are based on expectations, estimates and projections as at the date of this news release. The information in this release about future plans and objectives of the Company, are forward-looking information. Other forward-looking information includes but is not limited to information concerning: the establishment and prospects for the Bitcoin mining venture with Great American Mining (“GAM”); the intentions, plans and future actions of the Company, as well as the Company’ ability to successfully mine digital currency; revenue increasing as currently anticipated; the ability to profitably liquidate current and future digital currency inventory; volatility of network difficulty and, digital currency prices and the resulting significant negative impact on the Company’s operations; the construction and operation of expanded blockchain infrastructure as currently planned; and the regulatory environment of cryptocurrency in applicable jurisdictions.
+
+Any statements that involve discussions with respect to predictions, expectations, beliefs, plans, projections, objectives, assumptions, future events or performance (often but not always using phrases such as “expects”, or “does not expect”, “is expected”, “anticipates” or “does not anticipate”, “plans”, “budget”, “scheduled”, “forecasts”, “estimates”, “believes” or “intends” or variations of such words and phrases or stating that certain actions, events or results “may” or “could”, “would”, “might” or “will” be taken to occur or be achieved) are not statements of historical fact and may be forward-looking information and are intended to identify forward-looking information.
+
+This forward-looking information is based on reasonable assumptions and estimates of management of the Company at the time it was made, and involves known and unknown risks, uncertainties and other factors which may cause the actual results, performance or achievements of the Company to be materially different from any future results, performance or achievements expressed or implied by such forward-looking information. Such factors include, among others, risks relating to: there is no assurance that the Company will find a profitable undertaking or that it can successfully conclude a purchase of such an undertaking at all or on terms which are commercially acceptable; the status and impact of new electrical power rates and the status of deliberations by the Grant County Public Utility District; risks relating to the global economic climate; currency exchange risks; the need for the Company to manage its planned growth and expansion; the effects of product development and need for continued technology change; protection of proprietary rights; the effect of government regulation and compliance on the Company and the industry; network security risks; the ability of the Company to maintain properly working systems; reliance on key personnel; global economic and financial market deterioration impeding access to capital or increasing the cost of capital; and, volatile securities markets impacting security pricing unrelated to operating performance. In addition, particular factors which could impact future results of the business of the Company include but are not limited to: failure to identify beneficial business opportunities, failure to convert the potential in the pursued business opportunities to tangible benefits to the Company or its shareholders; the impact of new electrical power rates which could impair profitability and operating performance; deliberations by the Grant County Public Utility District which could limit the ability of the Company to carry on business on a profitable basis or at all; the construction and operation of blockchain infrastructure may not occur as currently planned, or at all; the digital currency market; the ability to successfully mine digital currency; revenue may not increase as currently anticipated, or at all; it may not be possible to profitably liquidate the current digital currency inventory, or at all; a decline in digital currency prices may have a significant negative impact on operations; the volatility of digital currency prices; the anticipated growth and sustainability of hydroelectricity for the purposes of cryptocurrency mining in the Grant County of the State of Washington, the ability to complete current and future financings, any regulations or laws that will prevent the Company from operating its business; the inability to operate the Bitcoin mining venture with GAM on a profitable basis or at all and thereby impairing the investment in the venture. In addition, particular factors which could impact future results of the business of the Company include but are not limited to: the ability to establish the Bitcoin mining venture with GAM on the agreed schedule in accordance with the contract terms and the potential for further improvements to profitability and efficiency across mining operations; the construction and operation of blockchain infrastructure may not occur as currently planned, or at all; expansion may not materialize as currently anticipated, or at all; the digital currency market; the ability to successfully mine digital currency; revenue may not increase as currently anticipated, or at all; it may not be possible to profitably liquidate the current digital currency inventory, or at all; a decline in digital currency prices may have a significant negative impact on operations; an increase in network difficulty may have a significant negative impact on operations; the volatility of digital currency prices; the ability to complete current and future financings; any regulations or laws that will prevent the Company from operating its business; historical prices of digital currencies and the ability to mine digital currencies that will be consistent with historical prices; an inability to predict and counteract the effects of COVID-19 on the business of the Company, including but not limited to the effects of COVID-19 on the price of digital currencies, capital market conditions, restriction on labour and international travel and supply chains; and, there will be no regulation or law that will prevent the Company from operating its business. The Company has also assumed that no significant events occur outside of the Company’s normal course of business. Although the Company has attempted to identify important factors that could cause actual results to differ materially, there may be other factors that cause results not to be as anticipated, estimated or intended. There can be no assurance that such statements will prove to be accurate as actual results and future events could differ materially from those anticipated in such statements. Accordingly, readers should not place undue reliance on forward-looking information. The Company undertakes no obligation to revise or update any forward-looking information other than as required by law.

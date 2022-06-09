@@ -1,0 +1,67 @@
+The Grayscale Bitcoin Trust is the world’s largest bitcoin fund and the first investment vehicle of its kind to report financials regularly to the U.S. Securities and Exchange Commission (SEC).
+
+GBTC shares are part of a range of traditional financial products that track cryptocurrency prices offered by Grayscale Investments; the world’s biggest digital asset management firm and part of the Digital Currency Group (DCG) led by founder and CEO, Barry Silbert. DCG is also the parent company of Coindesk.
+
+Originally launched in 2013 as the Bitcoin Investment Trust (BIT), the Grayscale Bitcoin Trust offers investors the opportunity to gain exposure to the leading cryptocurrency via an open-ended private trust that holds in excess of 649,130 BTC to date – equating to almost 3.1% of bitcoin’s current circulating supply.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+The fund tracks the price of bitcoin using the XBX index published by TradeBlock – a company recently acquired by CoinDesk. Accredited investors are able to buy shares of the fund directly at the net asset value (NAV) –the market value of the share – in daily private placements, and sell them on the secondary market to retail investors after a 6-month lockup period.
+
+Secondary market shares have the ticker GBTC and tend to trade at a premium – a higher price than the NAV – which varies depending on investor demand at the time. For example, when bitcoin experiences a sharp increase in price, there’s a generally higher demand for GBTC shares from investors which in turn drives the price up. A variety of investors, including retail and some institutions, prefer to access bitcoin via public markets.
+
+On May 31, 2017, the shares traded at 137% premium as bitcoin began its ascent to $19,783 before sharply correcting. Since 2019, GBTC premiums have oscillated in a much narrower range between 6% and 38%.
+
+The minimum buy-in for accredited investors is $50,000 and Grayscale charges a 2.0% annual account fee which is accrued daily, according to the official website. Each GBTC share, as of Feb. 5, 2021, entitles the holder to 0.00094825 BTC (approximately $40).
+
+Grayscale FAQs
+
+What are the benefits of purchasing GBTC shares over bitcoin?
+
+Simply put, the main selling point is: bitcoin without the hassle and stress.
+
+The Grayscale Bitcoin Trust allows investors to speculate on bitcoin without having to buy it directly. This eliminates the need to organize the safe storage and custody of the digital asset, and saves a number of associated costs. It also allows institutional investors to complete large buy orders with minimal slippage compared to centralized crypto exchanges which often lack sufficient liquidity. Slippage is when a trade is executed at a different price than expected, for example when placing a large buy order drives up an asset’s price.
+
+Because GBTC shares are a form of traditional security, there is also much clearer tax guidance and the opportunity to hold shares in a number of tax-advantaged accounts, such as Roth IRAs or 401(k)s.
+
+Who can invest in the Grayscale Bitcoin Trust?
+
+Anyone can purchase the secondary market GBTC shares using platforms such as Fidelity or Schwab, however, only accredited investors can participate in the daily private placements.
+
+An accredited investor, according to the United States Securities Act 1933 Rule 1 Regulation D definition, is someone who can show an annual income of at least $200,000 or a combined spousal income of $300,000 for the past 2 years with the expectation of receiving the same or more during the current year. In August 2020, the United States Securities and Exchange Commission expanded the definition to include people with “defined measures of professional knowledge, experience or certifications in addition to the existing tests for income or net worth.” This means that individuals who are able to demonstrate a level of sophistication can also qualify as accredited investors without needing to earn a six-figure salary.
+
+When the Grayscale Bitcoin Trust first went live almost 8 years ago, only accredited investors could purchase the shares. In 2015, however, the Grayscale Bitcoin Trust received approval from the Financial Industry Regulatory Authority (FINRA) to sell GBTC shares publicly on the secondary market to retail investors.
+
+Who are the main investors in the Grayscale Bitcoin Trust?
+
+According to the latest company reports, the top 5 largest holders of GBTC shares are:
+
+Ark Investment Management LLC with 6,257,925 GBTC shares worth a total of $200 million.
+
+Horizon Kinetics Asset Management with 2,319,090 GBTC shares worth $74.2 million.
+
+Churchill Management Corp with 309,330 GBTC shares worth $9.8 million.
+
+IFP Advisors Inc. with 210,945 GBTC shares worth $6.75 million.
+
+Toroso Investments LLC with 212,328 GBTC shares worth $6.74 million.
+
+What other products does Grayscale Investment offer?
+
+Grayscale provides investors with a range of similar trusts that track a variety of different cryptocurrencies, including;
+
+Grayscale Ethereum Trust (ETHE) with a minimum investment amount of $25,000 and charges an annual 2.5% fee.
+
+with a minimum investment amount of $25,000 and charges an annual 2.5% fee. Grayscale Bitcoin Cash Trust (BCHG) with a minimum investment amount of $25,000 and charges an annual 2.5% fee.
+
+with a minimum investment amount of $25,000 and charges an annual 2.5% fee. Grayscale Ethereum Classic Trust (ETCG) with a minimum investment amount of $25,000 and charges an annual 3.0% fee.
+
+with a minimum investment amount of $25,000 and charges an annual 3.0% fee. Grayscale Horizon Trust with a minimum investment amount of $25,000 and charges an annual 2.5% fee.
+
+with a minimum investment amount of $25,000 and charges an annual 2.5% fee. Grayscale Litecoin Trust (LTCN) with a minimum investment amount of $25,000 and charges an annual 2.5% fee.
+
+with a minimum investment amount of $25,000 and charges an annual 2.5% fee. Grayscale Stellar Lumens Trust with a minimum investment amount of $25,000 and charges an annual 2.5% fee.
+
+with a minimum investment amount of $25,000 and charges an annual 2.5% fee. Grayscale Zcash Trust with a minimum investment amount of $25,000 and charges an annual 2.5% fee.
+
+Grayscale also allows accredited investors to gain exposure to a basket of cryptocurrencies through the Grayscale Digital Large Cap Fund. This allows investors to diversify across multiple crypto-assets and reduce risk. The fund contains bitcoin (BTC), bitcoin cash (BCH), litecoin (LTC), and ether (ETH). For a time, the basket of assets also contained XRP. However, following the SEC lawsuit against Ripple over the asset, it was decidedly removed. Shortly after, the single-asset Grayscale XRP Trust was liquidated.

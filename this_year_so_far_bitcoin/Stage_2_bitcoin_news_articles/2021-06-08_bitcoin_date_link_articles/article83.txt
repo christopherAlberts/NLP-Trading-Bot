@@ -1,0 +1,53 @@
+Hamas has been reaping generous bitcoin donations and sending them through Binance as violence escalated in Gaza this year, on-chain data shows.
+
+According to three blockchain analytics firms and CoinDesk’s own analysis, Izz ad-Din al-Qassam Brigades, the militant wing of Hamas, received up to $100,000 in bitcoin since the beginning of 2021 – with a spike in donations in May, when Israel and Hamas exchanged multiple rocket attacks, resulting in hundreds of casualties.
+
+Since May, bitcoin from Hamas’ wallets has been sent to Binance through three transactions, the latest of which happened as recently as June 6. The exchange blocked the wallet after CoinDesk reached out for comment.
+
+Related: Binance Extended Crypto Exchange Dominance During May Trading Frenzy
+
+“Our team checked the addresses and can confirm that the receiving wallet was blocked,” Binance spokesperson Jessica Jung told CoinDesk in an email.
+
+The address appears to have been active two days ago, with CoinDesk seeing both inbound and outbound transactions occurring this month.
+
+“As a matter of policy, we can’t comment on any communications with law enforcement. We regularly engage and collaborate with law enforcement agencies. We have a strong track record of assisting law enforcement agencies around the world,” Jung added. The exchange did not confirm if it was working with law enforcement at this time.
+
+Bitcoin flows to Gaza
+
+Last week, the Wall Street Journal reported bitcoin donations to Hamas surged during the latest escalation of the armed conflict in Gaza, citing an unnamed Hamas commander. No details were provided at the time, but since then blockchain analytics firms have been able to trace the money flow.
+
+Related: NU Rallies 44% on Binance Listing While Bitcoin, Ether Fall on Musk Tweet
+
+Pamela Clegg, VP of Financial Investigations at CipherTrace, said the firm was able to identify the recent donations, which were sent both to wallets that had been identified by the U.S. Department of Justice (DOJ) in 2020, as well as new, previously unknown bitcoin addresses.
+
+Story continues
+
+“Nearly 100 of these identified addresses have received payments totaling just shy of two bitcoin during the month of May, specifically since the start of the most recent conflict. After receipt, these funds were consolidated and transferred into an identified, global exchange,” Clegg said, declining to name the exchange.
+
+She added that “to CipherTrace’s knowledge, there has not been any actions under way to block those newly received funds by government agencies.”
+
+That global exchange was Binance, according to the Crystal Blockchain analytic system. On May 31, over 1.59 BTC (about $57,000) was cashed out of Hamas’ wallet cluster via Binance. On June 7, two smaller transactions with more than 0.12 BTC (~$4,370) in total reached Binance via several hops through intermediate wallets, according to Crystal’s data.
+
+Earlier this year, Hamas used another fiat on-ramp: On Jan. 31, more than 0.82 BTC (~$27,000) were taken from the cluster to LocalBitcoins.
+
+Jukka Blomberg, chief marketing officer at LocalBitcoins, said the company applies blockchain analytics tools to all transactions that flow through the platform, and said it enforces KYC standards.
+
+“Unfortunately, we are not able to share information about specific cases or specific accounts, and additionally, any information that has been provided to law enforcement agencies for open investigations can also not be further shared for the moment,” he said, though he declined to confirm whether LocalBitcoins was indeed working with law enforcement.
+
+Freezable money
+
+In August 2020, the DOJ issued a complaint charging al-Qassam Brigades with money laundering, operating unlicensed money transmitting businesses and “providing material support or resources to a designated foreign terrorist organization, namely Hamas.”
+
+According to the DOJ, al-Qassam Brigades have been raising funds in bitcoin since 2019, first using an account on Coinbase, then a non-custodial wallet and finally, a sophisticated software generating unique addresses for new donations. Hamas has been advertising bitcoin donation options via Twitter and its official website.
+
+For the past several years, Hamas has been using accounts on exchanges including Coinbase, Binance, Bittrex, Poloniex, Bitstamp, Huobi and CEX.io, as well as wallet provide Xapo, according to Crystal’s data. However, until May the donations were not too large.
+
+“We noticed a noteworthy increase in the number of payments to Hamas, which resulted in over $80,000 in BTC received by the Hamas group over the past month,” Kyrylo Chykhradze, product director at Crystal Blockchain, told CoinDesk. “Eventually, the funds were cashed out” through one of the well-known virtual asset service providers (VASP).
+
+Another blockchain sleuthing firm, Elliptic, published a blog post on Thursday, June 3, saying that “over $100,000 in bitcoin donations have now been received by the Al-Qassam Brigades since January 2019.” Before May, bitcoin would only come to Hamas from time to time in a small trickle, but “on May 10, the day that the latest conflict began, donations surged,” the post reads.
+
+“More than $73,000 has been donated since the start of the most recent spate of violence. This is more than double the total amount received during the previous two years that the fundraising campaign has been active,” Elliptic said.
+
+Elliptic added that as the vast majority of the funds have been sent to a “large, regulated cryptocurrency exchange,” it “will be able to freeze the funds and provide law enforcement with valuable intelligence.”
+
+Related Stories

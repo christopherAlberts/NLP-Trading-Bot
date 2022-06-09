@@ -1,0 +1,21 @@
+The global investment giant State Street has launched a new Bitcoin Thematic Indicator to track the impact of Bitcoin on more traditional financial markets.
+
+The new State Street MediaStats Bitcoin Thematic Indicator series will quantify media coverage of Bitcoin, measure the intensity or prevalence of coverage relevant to all news of the day and track sentiment over time.
+
+This will expand the MediaStats Thematic Indicators offering, which launched in November 2020.
+
+The indicators read hundreds of thousands of digital news sources to generate daily sentiment signals for various assets to help institutional investors form a more complete picture of what factors are driving their portfolios and overall markets.
+
+The new Bitcoin Indicator is set to capture information around its linkages to traditional currencies and emerging trends, which investors should theoretically be able to leverage for portfolio planning.
+
+"Over the last few months, media coverage around Bitcoin has grown significantly relative to corporate, financial and economic media markets and continues to trend higher," State Street head of investor behaviour research Rajeev Bhargava said.
+
+"Understandably, institutional investors are increasingly eager to learn how this rising attention is impacting traditional asset markets.
+
+"Our newest Bitcoin series provides a quantitative and timely measure of the tone and intensity of media discussion and reveals additional transparency into this highly sentiment driven market, enabling our clients to make more informed investment decisions."
+
+MediaStats managing partner and founder Gideon Ozik said the indicators are built on natural language processing.
+
+"Now, harnessing the power of vast data to provide real-time perspectives, we're able to offer investors a tool they can leverage to make tactical and strategic judgments on key narratives that drive financial markets," he said.
+
+One Bitcoin is currently worth more than $73,000. Recently, companies including Tesla have started including Bitcoin on their balance sheets and Tesla has said it will start accepting payment for products in Bitcoin.

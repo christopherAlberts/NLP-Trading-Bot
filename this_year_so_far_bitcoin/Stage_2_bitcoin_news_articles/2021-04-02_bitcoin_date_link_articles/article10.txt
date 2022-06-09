@@ -1,0 +1,77 @@
+The fact that bitcoin is trading in contango presents a remarkable investment opportunity and suggests hyperbitcoinization. But what is it?
+
+Bitcoin is trading in contango. But what does this mean?
+
+“Contango is a situation where the futures price of a commodity is higher than the spot price.” -Investopedia
+
+Now, what’s a futures contract?
+
+“A futures contract is a legal agreement to buy or sell a particular commodity asset, or security at a predetermined price at a specified time in the future.” -Investopedia
+
+Currently, the spot price (market price for bitcoin on exchanges) trades lower than futures prices. The spread for the June futures contract is more than 25 percent annualized on most major exchanges.
+
+This means that anyone can buy bitcoin and use that bitcoin as collateral to sell the June futures contract. This trade locks in a risk-free 6 percent USD-denominated return (more than 25 percent annualized) no matter where the price of bitcoin goes over the following months.
+
+The only risk is exchange custody (losing coins due to poor management or hacks).
+
+Why Does This “Free” Money Exist?
+
+The contango exists due to how profitable it is to leverage long bitcoin (and the amount of capital willing to go leverage long versus leverage short).
+
+Almost everyone goes leverage long on bitcoin in two ways:
+
+Long perpetual swaps Long forward futures contracts
+
+Currently, there is $22 billion in open interest on perpetual swaps and futures], so there is a significant amount of capital and liquidity.
+
+If you go long on the perpetual swap, you are charged a funding rate every eight hours. This funding rate is set by the market to ensure the perpetual futures price stays near the index spot price. In a way, it is basically a futures contract that is only eight hours in duration and it always rolls over.
+
+Over the last month, the perpetual swap has been averaging around 0.03 percent every eight hours, or 0.09 percent daily or 32.9 percent annually. This funding rate is the longs paying the shorts (because more capital is naturally going to be long bitcoin, especially when the price is going up).
+
+So, if you want to go leverage long for an extended amount of time, and the perpetual swap funding rate is high, then you’re much better off going leverage long on a futures contract that may only be trading at a 23 percent annualized premium.
+
+But again, just like the swap market, not many investors want to leverage short-forward futures contracts. A large portion of the capital that is short bitcoin is likely doing the basis arbitrage trade.
+
+What Are The Implications?
+
+It’s possible that bitcoin’s contango has created a super massive black hole.
+
+The Ever-Growing Bitcoin Black Hole:
+
+Bitcoin is the world’s best monetary good designed to go up forever Market participants buy and the price goes up Price going up attracts more buyers (with leverage) Leverage buyers drive up the contango spread USD arbitrageurs attempt to capture the risk-free return To capture the spread, they buy bitcoin and sell futures Buying bitcoin causes the price to go up further Price going up increases the contango spread, attracting more arbitrageurs Investor recognize this feedback loop exists and just buy bitcoin to HODL Repeat for all market participants until hyperbitcoinization?
+
+Why Has This Not Been Arbitraged Out?
+
+The bitcoin contango basis trade is adding gas to the fire. As more and more capital begins to recognize this opportunity, the price of bitcoin will continue to increase.
+
+There are a few possible explanations for why this spread hasn’t been arbitraged out. Since a truly “efficient” market would likely eat up any “risk free” 20 percent yield opportunities.
+
+One possibility is that the only people in the bitcoin industry who have both a good understanding and the capital to move markets recognize that in order for the spread to be potentially closed, there must be billions of dollars’ worth of bitcoin purchased. If there’s an incentive to purchase billions of dollars’ of bitcoin and you know bitcoin is the world’s hardest monetary good, you likely aren’t going to accept the “risk-free” more than 20 percent because you know bitcoin will outperform that over the long run.
+
+The second possibility is simply that the $100 trillion-plus of excess capital invested in bonds, stocks and real estate is held by investors who don’t know that the futures arbitrage trade exists, or they don’t feel comfortable deploying capital in the space yet.
+
+The last possibility is that the risk-free spread could represent a truly market-based, “risk-free” rate of return. Since bond yields have been manipulated lower and lower over the previous decades, this more than 20 percent could be the market's way of saying it expects stocks, real estate and other assets to perform in line with this, plus a small risk premium. This high expected nominal return could be possible due to the endless fiscal spending by governments financed by the dovish monetary policies of central banks.
+
+What Could Break The Contango?
+
+Bitcoin only going up sounds great on paper, but what could eliminate the futures contango?
+
+Since the futures contango is driven by more money wanting to leverage long than leverage short, this dynamic would need to flip, meaning more capital would need to be going leverage short than leverage long for bitcoin to switch from contango to backwardation.
+
+With the macro money printing backdrop, finite bitcoin supply and a growing number of bitcoin yield and lending products, there is little reason to expect this to occur, at least anytime soon.
+
+With that said, there are a few potential scenarios where bitcoin’s contango breaks and turns into backwardation.
+
+One, old HODLers could start selling in size. This may not happen due to a growing number of financial products that make it easy to use bitcoin without selling it.
+
+Two, people could read too deeply into @100Trillion’s S2F and S2FX models. If bitcoin’s price overshoots the models, some may consider selling in order to buy back lower. While this would be very risky, especially in the current macro environment, if enough market participants do it, it could become self fulfilling.
+
+Last, a drastic change in monetary/fiscal policy could temporarily break the contango. For example, during the March 2020 crash, when the money printer wasn’t going brrr fast enough, bitcoin went into backwardation.
+
+Is This Hyperbitcoinization?
+
+We are not sure. Would we feel comfortable selling a significant amount of bitcoin at any price?
+
+Absolutely not.
+
+This is a guest post by Mimesis Capital. Opinions expressed are entirely their own and do not necessarily reflect those of BTC Inc or Bitcoin Magazine.

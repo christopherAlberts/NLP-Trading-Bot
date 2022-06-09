@@ -1,0 +1,53 @@
+Surging usage of Polygon Network’s Ethereum layer 2 scaling solution allowed that platform’s token (MATIC) to largely escape the fate of other cryptocurrencies in May brought down by crash in the price of bitcoin.
+
+MATIC, currently ranked 18th as per market capitalization by Messari, rallied 120% in May even as bitcoin fell by 35%. Ether, polkadot, cardano, XRP, and decentralized finance (DeFi)-blue chips suffered bigger losses, pushing the total market capitalization of the crypto universe down by 24%.
+
+MATIC was able to withstand the the worst effects of the downdraft thanks to Polygon’s soaring usage and constant growth in the congestion and high costs that plague the DeFi-dominating Ethereum blockchain, as analytics firm IntoTheBlock mentioned in its research note published on June 2.
+
+Related: Bitcoin Is Heading to the Moon and for Once It’s Meant Literally, Courtesy of BitMEX
+
+“Throughout 2021, Ethereum fees skyrocketed up to 845% compared to the year before; currently, a transaction on the network costs around $4.819,” IntoTheBlock said. “On the other hand, transacting on the Polygon network only costs around $0.001 to transfer $200.”
+
+As such, several DeFi protocols flocked to Polygon – a sidechain running tangent to Ethereum’s blockchain, offering high transaction output and relatively low costs without compromising security. Scaling refers to increasing the throughput of the system, as measured by transactions per second.
+
+MATIC’s impressive performance proves a cryptocurrency backed by strong fundamentals can largely hold its own against a price slide in bitcoin. As such, the token could continue to appreciate in the coming months unless Ethereum sees a sustained drop in transaction costs or usage.
+
+Ethereum rivals like Polkadot, Solana, and Binance Smart Chain would also seem ready to gain. However, as Polygon is a sidechain that works in conjunction with Ethereum, it benefits from Ethereum’s dominating network effects and thus holds an edge over blockchains that seek to replace the market-leading giant. Perhaps that’s why tokens powering Ethereum rivals Polkadot, Solana, and Binance Smart Chain suffered double-digit losses in May even as MATIC extended a four-month run of gains. A recent string of flash loan attacks on products built on the Binance Smart Chain likely didn’t help the reputation of the would-be Ethereum dethroners either.
+
+Story continues
+
+Related: Is the Bitcoin Bull Market Over?
+
+While MATIC proved remarkably resistant in the face of bitcoin’s price crash, it wasn’t completely immune. The majority of gains happened in the first half of the month, before the biggest cryptocurrency fell from $58,000 to $30,000 in the eight days to May 19 on concerns regarding the negative environmental impact of crypto mining and China regulatory fears. MATIC’s price hit an all-time high of $2.72 for a year-to-date gain of 248% before bitcoin’s troubles took their toll.
+
+Rally accompanied by network growth
+
+Before MATIC began giving back some its gains in mid-May, the token’s performance was rising in line with the soaring usage of the protocol itself. During the month, the number of average daily active users on Polygon surged by 285% from 7,500 to 28,873, according to blockchain data provider Covalent. The sidechain became busier than ever as more users accessed DeFi via the low-cost scaling solution.
+
+Per Covalent, the number of unique addresses using Aave protocol on Polygon shot up by 156% to 15,769 in May. The decentralized money market giant received over $5 billion in liquidity via the layer 2 scaling solution. Aave announced integration with Polygon in April.
+
+Meanwhile, average daily unique users on Polygon-based decentralized exchange QuickSwap rose by 302% to over 10,000, and the liquidity on the platform increased by 68% to $924.78 million, Covalent said in an email.
+
+“The almost fee-less trading Polygon offers offered a breath of fresh air to seasoned DeFi traders that have been suffering under the weight of extremely high gas prices [Ethereum fees] for some months now,” Tim Frost, CEO of Yield app, said while explaining reasons for Polygon and QuickSwap’s success.
+
+Looking ahead
+
+Polygon’s performance has led the protocol to receive validation from prominent investors like Mark Cuban. Further, the token has been added to the Bitwise 10 Large Cap Crypto Index (BITX) with a weightage of 1.03%, according to LiveMint. The index is managed by Bitwise Asset Management, a crypto asset manager with $1.5 billion worth of assets under manager.
+
+“The early rally seemed to be driven by a mix of savvy DeFi users and retailers, but now popular investors like Mark Cuban are publicly diving in,” Nick Mancini, chief community officer at Trade The Chain, told CoinDesk.
+
+Cuban confirmed being an investor in Polygon on May 26, but refrained from disclosing the size or composition of his stake. However, Polygon’s co-founder Sandeep Nailwal told Economic Times on May 27 that his project received a “sizeable investment” from the billionaire entrepreneur and not through a simple purchase of tokens.
+
+“I was a Polygon user and find myself using it more and more,” Cuban said in an email to CoinDesk at the time. His website describes Polygon as “the first well-structured, easy-to-use platform for Ethereum scaling and infrastructure development.”
+
+Trade The Chain’s Mancini said he expects more institutional inflows into DeFi assets and a continued rally in MATIC, albeit after some downside in June. The token has come under pressure this week, falling by 15% to $1.58. Still, prices are up 8,800% year-to-date.
+
+Yield CEO Tim Frost said Polygon and QuickSwap’s momentum might slow once the Ethereum 2.0 (proof-of-stake upgrade) is completed. Developers estimate that the upgrade will happen by the end of this year or early 2022. After that, Ethereum founder Vitalik Buterin plans to implement the sharding upgrade to ease congestion and bring down fees.
+
+However, Polygon CEO Sandeep Nailwal said he’s confident that layer 2 scaling solutions will prevail even after the upgrade allows Ethereum transaction costs to decline.
+
+“Ethereum 2.0 will become 64 times more scalable than Ethereum is now, but the demand is 1,000 times than where we are. You will need L2 scalability,” Nailwal told CoinDesk.
+
+Also read: Money Reimagined: The Power of Community
+
+Related Stories

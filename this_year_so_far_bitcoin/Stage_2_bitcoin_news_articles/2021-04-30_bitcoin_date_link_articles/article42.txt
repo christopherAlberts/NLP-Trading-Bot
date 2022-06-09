@@ -1,0 +1,19 @@
+The number of scams that involve would-be victims buying bitcoin has risen high enough in Cleveland’s Cuyahoga County that the Federal Bureau of Investigations (FBI) has gotten involved.
+
+The Cuyahoga County Department of Consumer Affairs teamed up with the FBI to place signs around Bitcoin ATMs warning people about possible scams, such as someone claiming to need a bitcoin for an IRS payment, utility bills, or a law enforcement investigation.
+
+“We have a very active financial crimes unit in Cleveland,” said Vicki Anderson-Gregg, Special Agent for the Cleveland Division of the FBI. “We joined a partnership with the County Scam Squad to put out this alert.”
+
+Local reporting in Cleveland shows that, in one instance, a scammer pretended to be a victim’s son in need of bail money to pressure the victim into sending $9,000 in Bitcoin. But an observant clerk halted the situation before a transaction could take place. In another case, the scammer feigned being a Social Security Administration representative and claimed the victim's Social Security number was involved in drug trafficking, money laundering, or other illicit activity. The victim would then be urged to pay the scammer through a Bitcoin ATM to "resolve" the situation.
+
+There are 212 Bitcoin ATMs in Cleveland, Ohio, according to the Bitcoin ATM tracking website CoinATMRadar. However, there are no exact number of crimes that have taken place to date that involve the use of a Bitcoin ATM.
+
+“It is really difficult to capture numbers in regards to these types of scams, because people are embarrassed that they fell for it and don't report it,” the Special Agent told The Block. “We think it is much more significant than actually reported.”
+
+While the statistics on Bitcoin ATM crime rates are sparse, the 2020 FBI Internet Crime Complaint Center (IC3) Internet Crime Report shows that there were 35,229 victims of virtual currency-related crime last year. The Cuyahoga County and FBI effort to educate people on scams and Bitcoin ATMs in an attempt to lower this number.
+
+“We really want to get the word out so that people are not victims — it is extremely difficult, pretty much impossible, to retrieve the money once they have sent it,” Anderson-Gregg said.
+
+Should someone fall victim to a financial scam the Special Agent advised they fill out an IC3 intake form. “Similar scams are grouped together and disseminated to the appropriate field office if it meets our threshold,” adds Anderson-Gregg.
+
+One bad actor usually scams multiple people and can face charges of wire fraud, mail fraud, and “the typical white collar/financial crime charges" if they're caught, according to Anderson-Gregg.

@@ -1,0 +1,27 @@
+Chia Network Inc, an energy-efficient blockchain network aiming to overcome the drawbacks of traditional cryptocurrency platforms such as Bitcoin and Ethereum has announced its native digital currency chia today. The announcement was widely expected after reports surfaced last week for a Monday launch. Through chia, Chia will reward 'farmers' (analogous to miners) with coins in return for providing their storage disks for financial transactions. The process stands in sharp contrast to Bitcoin mining, which uses Graphics Processing Units (GPUs) for mining, with chia using storage space often from Solid State Devices (SSDs).
+
+Chia Network's chia Cryptocurrency Aims To Resolve Traditional Constraints of Mining
+
+The company expects chia will be adopted by governments and financial institutions globally, and today's announcement comes after Chia Network released the mainnet for its public blockchain in mid-May. Following the release, the company had frozen transactions on the network as it tested and validated its systems for network security.
+
+Sabrent Unveils The Ultra-High Endurance Plotripper & Plotripper Pro SSDs Specifically Designed For Mining The Chia Coin
+
+After the mainnet launch, Chia Network has two years before investors in the firm will be able to cash in on their investment through its chia reserve. This will occur in the case that the company does not file a registration statement within two years and if it does not become a publicly-traded company within a year of filing the statement. Since its inception, Chia Network has raised roughly $16 million through investor funding.
+
+Its strategic reserve will consist of 21 million chia (XCH), which will serve as the primary source of strategic funding until the firm lists publicly. As opposed to Bitcoin Ethereum, chia will be a rare cryptocurrency that is managed by a publicly traded firm, with Chia Networks having announced its decision to list either on the NASDAQ or the New York Stock Exchange (NYSE). The precise date for this listing is uncertain, but it has to be within three years from now if Chia does not want its investors to liquidate its chia reserves to redeem their investment.
+
+Other functions for the strategic reserve, according to Chia Network, are:
+
+Lending: The company intends to lend XCH to their customers and market makers for use in day-to-day commerce and creating liquidity in the market.
+
+Additional Farming Rewards: The company can offer special bonuses to Chia farmers. As an example, it plans to reward farmers in the final pre-launch farming contest with XCH once transactions are enabled on mainnet.
+
+Investing: Making investments in promising developers, platforms, and service providers creating applications and tools for the Chia blockchain.
+
+Share Buybacks: Similar to a dividend. When chia is traded, the company may offer to redeem equity through the payment of XCH to stockholders.
+
+Dividends: The company, solely at the discretion of the Board of Directors, may dividend XCH directly to its stockholders to, in part, encourage the use and promotion of Chia Network’s blockchain.
+
+The launch of an alternative cryptocurrency has resulted in companies starting to introduce products designed specifically for chia farming. For instance, Chinese computer storage manufacturer Jiahe Jinwei will produce cryptocurrency farming SSDs, as the number of storage devices using the network rapidly increase during the new cryptocurrency's early adoption phase.
+
+The bulk of demand for SSDs to farm chia is in China as the country's digital platforms started to report enterprise-grade disk shortages early last month. With chia now being publicly available, analysts worry that the currency will create shortages similar to those faced by gamers after cryptocurrency miners bought the bulk of products from NVIDIA Corporation and Advanced Micro Devices, Inc - an event that depressed the market once the initial crypto-mining 'boom' settled.

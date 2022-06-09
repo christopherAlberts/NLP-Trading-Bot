@@ -1,0 +1,31 @@
+Is running a full node really a necessity? In his latest blog post, “Security, the Blockchain, and Hashed Headers…,” Dr. Craig Wright addresses the fallacy that individuals running their own nodes are playing a role in securing the network.
+
+“The false mythology has been created and propagated that you need to run a ‘full node’ to secure blockchain networks,” Dr. Wright said. “Such individuals tell you that you help run the network by holding blocks. They fail to point out that the consensus mechanism in Bitcoin is entirely based on the creation and distribution of blocks.”
+
+Dr. Wright explains that the role that a full node plays on a network does nothing in relation to providing security and validity to the network. Something that might lead to this misconception is that individuals probably have an inaccurate understanding of what a node does as it was described in section five of the Bitcoin whitepaper.
+
+“Nodes were defined in section 5 of my white paper,” according to Dr. Wright, citing section 5 of the Bitcoin whitepaper.
+
+New transactions are broadcast to all nodes. Each node collects new transactions into a block. Each node works on finding a difficult proof-of-work for its block. When a node finds a proof-of-work, it broadcasts the block to all nodes. Nodes accept the block only if all transactions in it are valid and not already spent. Nodes express their acceptance of the block by working on creating the next block in the chain, using the hash of the accepted block as the previous hash.
+
+To truly be running a node that secures and validates the network, your node must be helping the network reach consensus. To help the network reach consensus, your node is going to have to create new blocks as well as broadcast valid blocks to the network. In other words, to truly be playing a role in providing network security, validity, and consensus, you are going to need to be mining and transaction processing.
+
+“It can easily be seen that the only way to have any participation in the consensus methodology is to build a new block. Nodes that have not followed the exact same process to create blocks do not form part of the consensus. The matter should be simple,” Dr. Wright writes. “Yet, a few dishonest individuals have sought to promote the concept that Bitcoin and blockchains generally require lots of users running machines that do nothing.”
+
+To put this matter into perspective, Dr. Wright uses an analogy that draws parallels between running a full node and abstaining in an election.
+
+“Imagine that Alice and Bob and Charles are voting in an election. Each year, the result will depend on whether Alice, Bob, and Charles vote for option one or option two. Now, Edgar comes into play. Edgar walks in and says, ‘I’m not going to vote.’ Edgar now brings in a thousand friends, who all don’t vote. The result remains entirely based on the decision of Alice, Bob, and Charles. Edgar can say that he has the majority of people behind him, but none of the individuals vote—so none of them matter in the process. Which is how Bitcoin works.”
+
+Some individuals believe that because a full node holds a complete copy of a blockchain network’s history, that they are of value because full node operators can detect if a change has taken place within a blockchain network or not. However, Dr. Wright explains why this idea is flawed.
+
+“The Bitcoin block structure incorporates the binary tree or Merkle root, which is added to the previous block hash and other information. The information in the block header is concatenated and hashed. Consequently, if the Merkle root or any information in the block header changes in any way, the entire block will be invalid.”
+
+“So, when we consider that the Merkle root captures the information within the entire block, and that if the order of transactions or any information within them is altered in any way, the entire system is rejected, it becomes easy to understand that you don’t need to transmit the entire block. A copy of the Merkle root gives you everything you need to prove the integrity of the block over time. Here lies the purpose of hash algorithms. And, if SHA-256 is not secure, then it doesn’t matter whether you have the whole block or not.”
+
+“Security, the Blockchain, and Hashed Headers…” provides a lot of insight into the “everyone should run a full node” argument that we often hear individuals on other blockchain networks put forward; and it proves why that idea is flawed and why operating a full node does nothing in regard to securing or validating the network.
+
+It also provides a good refresher of what nodes on the network are meant to do as described in the Bitcoin whitepaper and why it could have been anticipated that a few large corporations and mining facilities would be the majority that run nodes as well as create and broadcast blocks.
+
+To learn more about nodes, the role that they play on the Bitcoin network, and why running a full node is not necessary at a consumer level, then you are going to want to read Dr. Craig S. Wright’s latest blog post, “Security, the Blockchain, and Hashed Headers…” on CraigWright.net.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

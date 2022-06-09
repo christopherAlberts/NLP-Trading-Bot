@@ -1,0 +1,9 @@
+You might’ve noticed a lot of excitement recently about something called Dogecoin. It’s a type of cryptocurrency that features the face of a cute Shiba Inu dog but is serious business, in that investors have made millions as Dogecoin’s value rose thousands of per cent in recent months. Plenty have lost millions too, because the currency’s value is extremely volatile. And still more have missed their chance to cash in, having lost or deleted the electronic wallets they stored their Dogecoins in.
+
+Reading about Dogecoin might have piqued your interest in cryptocurrencies, and while you might be rightly nervous about jumping into the dogecoin market, you may want to know more about Bitcoin, the oldest and best-known cryptocurrency. (An interesting aside: Bitcoin is capitalised when being referred to as a concept, but is lowercase when being used to describe a unit of the currency. And you can say bitcoins or just bitcoin when you’re referring to multiple units of the currency.) Read on for an easy-to-understand introduction, including how to invest.
+
+What is Bitcoin?
+
+The first bitcoin, which is known by the acronym BTC, was issued to market on January 3, 2009, as part of a vision to create a system that allows users to transfer money anywhere in the world, over the internet and without needing a bank or government body as an intermediary or storage facility.
+
+While you can buy bitcoin, it’s actually created by ‘mining’, except that mining in this context means using powerful computers to solve hugely complex maths problems. Each time a problem is solved, a new bitcoin is issued and added by the ‘miner’ to a digital accounting ledger called the bitcoin blockchain, which maps the entire history of every single bitcoin creation or transaction.

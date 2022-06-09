@@ -1,0 +1,61 @@
+Because I’ve used an analogy of how gold miners add resources to circulation isn’t the same as saying this is a gold economy.
+
+The transaction fee can be very low in Bitcoin. Now, if transaction fees are low and its simple and easy to transact, the more people will start using it. This isn’t the Bitcoin Core concept where you need high fees and all the rest. It’s exactly the opposite. They have the economics wrong.
+
+– Craig S. Wright
+
+Video seven in the Theory of Bitcoin: The Bitcoin Whitepaper series with Dr. Craig Wright and Ryan X. Charles covers the sixth section of the Bitcoin whitepaper, which is all about incentive.
+
+It’s critical for everyone to understand that it’s not just about the block reward when it comes to mining Bitcoin; the real focus should be on transaction fees because the block reward will eventually go to zero. Big blocks mean lots of transactions which means substantial transaction fees for miners.
+
+Charles and Dr. Wright dive into miner incentives and more throughout the episode, here are my key takeaways from their discussion.
+
+Bitcoin is a small world network
+
+According to the BitcoinSV wiki, “A small world network is a network in which most nodes are not directly connected, but where the neighbors of any given node are likely to be neighbors of each other, and most nodes can be reached from every other node by a small number of hops or steps.”
+
+You can also use the term “Mandala network” to describe the same concept, as Dr. Wright and Charles do earlier in this series and as Jerry Chan does in his “Future of Bitcoin ecosystem” editorial piece for CoinGeek.
+
+When asked about the significance of Bitcoin being a small world network, Dr. Wright says “it’s moving away from the idea that everything has to do everything. It’s the typical rule of specialization.”
+
+Being a small world network, in Bitcoin there’s a clump of full nodes in the middle that receive everything simultaneously. All transactions do not have to reach every single node on the network and this is to enable scaling. The incentives of the network have been designed so nodes are encouraged to get the transactions that they need and nodes that do not have the transactions they need (or the block info) can ask other nodes for the information.
+
+Full nodes are incentivized to have all the transactions because they need them in order to win the next block. Nodes are missing opportunities if they have to request a block after missing one, it’s a waste of CPU to try and solve a block that’s already been solved and all other nodes have already accepted it.
+
+The significance of incentives
+
+According to Dr. Wright, there are many incentives that power the Bitcoin system and we’ll start with the node operation.
+
+“[Incentives] guide behavior. So if we want to keep nodes honest, that’s really what the system’s about. Then we have to give them some reason to be honest,” Dr. Wright says.
+
+Dr. Wright goes on to explain that the nodes’ incentives are not to get as much coin as possible because it’s not to the benefit of a node to take over the network. If a node took over the network, people could clearly see there’s just one big node and they won’t want to use the network. The value of the coin will go down.
+
+Also, if a node is a huge percent of the network, they may be mining all the coins, but paying a huge amount to do this. Not to mention if a node captures all the Bitcoin, no one else will use it and then it’s an unusable system. To balance everything out, the majority of the Bitcoin must be held by other people.
+
+When asked about 51% attacks, Dr. Wright says they won’t happen because first of all the attack would be obvious—there are records and the nodes will get caught. Second of all, even if there weren’t any records, why would nodes invest all this money and collapse a system they’re a part of? It doesn’t make any sense.
+
+Bitcoin is not digital gold
+
+Despite the current BTC narrative, Bitcoin was not created to be “digital gold.” The comparison is often made because there is a limited volume of gold, similar to how there is a limited volume of Bitcoin. The issue with gold is that new mines can be discovered and therefore the supply is unpredictable. This situation cannot happen with Bitcoin.
+
+While Dr. Wright is crystal clear in explaining that Bitcoin is not digital gold, he did reference gold miners in the whitepaper—he drew a parallel between them and a node on the network.
+
+“Because I’ve used an analogy of how gold miners add resources to circulation isn’t the same as saying this is a gold economy,” Dr. Wright clarifies.
+
+Bitcoin nodes distribute coins, but they do not issue coins. “The central authority was me on day one—I issued them—and then I let the system go. That’s the whole point. So there’s one issue in Bitcoin,” Dr. Wright explains.
+
+The role of transaction fees
+
+Bitcoin miners receive a subsidy for finding blocks and they are also rewarded with the transaction fees associated with that particular block, together referred to as a the “coinbase reward.” Dr. Wright emphasizes that it’s not about a small number of transactions with high fees as we’re seeing on networks such as BTC and ETH.
+
+Dr. Wright points out that Walmart and Amazon make money by selling goods for just a little more than the costs. “They have really, really small margins and the only way to make money on really, really small margins is to sell a hell of a lot,” he says. This is why big blocks and the ability to scale massively are crucial to the health and longevity of the Bitcoin system. Seeing as the subsidy halves roughly every four years until it goes to zero, the miners will eventually have to make their money from transactions fees alone.
+
+“The problem is the subsidy. The subsidy is slowly disappearing, but too much grew too fast and too many people jumped on board too quickly and pumped up the subsidy and the subsidy is what skews the market. But the subsidy disappears,” Dr. Wright warns.
+
+Take BTC for example. Dr. Wright explains that too much value happened too quickly. Too many people jumped on board without building anything and therefore locking BTC into an unsustainable model. People did not re-invest back into the system by building things. With BTC’s block cap, there’s no push to increase transaction numbers and therefore no investment in improving mining hardware. What will happen to the network when the block subsidy goes to zero?
+
+The extraordinary transaction fees are another huge issue with BTC as they severely limit the use of the system. With low transactional friction, liquidity increases. If people can actually use Bitcoin in any denomination and send it somewhere else for a small fee, we can develop network effects that actually grow.
+
+“The transaction fee can be very low in Bitcoin (SV). Now, if transaction fees are low and its simple and easy to transact, the more people will start using it. This isn’t the Bitcoin Core (BTC) concept where you need high fees and all the rest. It’s exactly the opposite. They have the economics wrong,” Dr. Wright explains.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

@@ -1,0 +1,33 @@
+The next time someone smugly tells you there is “no legitimate use case” for cryptocurrency, or asserts that it has “no redeeming social value,” shove this story in his or her face:
+
+Meduza, a Russian news outlet, is soliciting donations in cryptocurrency (along with traditional payment methods) after the government labeled it a “foreign agent,” CoinDesk’s on-the-ground correspondent, Anna Baydakova, reported Thursday.
+
+This article is excerpted from The Node, CoinDesk's daily roundup of the most pivotal stories on cryptocurrency and the future of money. You can subscribe to get the full newsletter here.
+
+Meduza is now required by law to post a notice of its “foreign agent” status in a typeface bigger than the text of its articles. As a result of this scarlet letter, Meduza lost many of its advertisers and is running out of money, the team behind the publication said. Apparently, it hasn’t been deplatformed by traditional financial institutions because it is also taking donations by bank card and PayPal. But the reasons Meduza gave for including the crypto option were telling.
+
+“If people are afraid to send us money from their bank accounts, and they might well be, they can send us crypto,” said Meduza’s editor-in-chief, Ivan Kolpakov.
+
+A skeptic might note that donors who send bitcoin (BTC), ether (ETH), or BNB to Meduza would leave a permanent record of their actions on the blockchains, or public ledgers, of these assets. But such a record would show only the address, a random-seeming string of numbers and letters, that sent the money, not the person behind it. An address may or may not be tied to donors’ real-world identity, depending on how they acquired the crypto and what steps they took to protect their privacy, whereas their bank and PayPal accounts definitely are.
+
+The age of weaponized banking
+
+Further, if recent history teaches us anything, it is that financial intermediaries cannot be relied upon to stand with dissident or unpopular voices.
+
+We saw this more than a decade ago with the blockade of WikiLeaks by PayPal and other large financial institutions that caved to extra-legal pressure from U.S. politicians.
+
+We see it today when payment processors and crowdfunding sites boot content creators, fundraisers or pariah-friendly internet platforms, not because they are breaking any laws but because their speech offends activists. I, too, find the content in many of these cases unsavory. But I don’t mind that it exists, and I don’t want to prevent those who want to read, watch or hear it from doing so. That’s a basic “small-l liberal” principle. Or was.
+
+To quote a locked Twitter account, whom I will not name out of respect for the person’s privacy: “If I cover my ears because I don’t want to hear from you, it’s not censorship. If I cover your mouth or someone else’s ears because people want to hear you, it’s censorship.”
+
+I can already hear the bien pensants say, “It’s only censorship when the government does it.” But even if you accept only that narrow legal definition of the word, it surely describes what the Russian government – the very regime whose influence in the U.S. many of those same bien pensants spent the last four years hyperventilating about – is trying to do to Meduza.
+
+Crypto might thwart that attempt, or at least hinder it, by enabling individuals to transfer money to a publisher without permission from third parties that can be strong-armed or politicized.
+
+Downsides
+
+By all means, let’s talk about the copious amounts of electricity required to secure Bitcoin and other proof-of-stake networks – although describing this intensive computation as “wasteful” is a subjective value judgment. (TikTok and hair dryers are wasteful in my book. Should those things be banned?)
+
+See also: Daniel Kuhn – Bitcoin, Warts and All
+
+By all means, let’s pay attention to how terrorists, foreign or now, we’re told, domestic, might take advantage of this technology. But if we’re going to blame anyone or anything other than the terrorists for their actions, remember it was not Satoshi Nakamoto who destabilized the Middle East or hollowed out Middle America.

@@ -1,0 +1,73 @@
+NEW YORK, Feb. 18, 2021 /PRNewswire/ -- For the first time in its history, the world's most popular cryptocurrency, Bitcoin (BTC), surpassed the US$50,000 mark . Cryptocurrencies are gaining support from all types of large firms, from automakers, to credit card companies, to big banks. However, with the increased demand, a new issue has arisen, in the form of a global chip shortage that hampers smaller-scale digital miners whose efforts compute these digital currencies into existence. Prices for graphic cards are soaring, which is giving an advantage to companies that have secured their crypto mining infrastructure ahead of time, such as rising social media platform Hello Pal International Inc. (OTCQB:HLLPF) (CSE:HP), miners CleanSpark, Inc. (NASDAQ:CLSK) and Hut 8 Mining Corp. (OTCQX:HUTMF) (TSX:HUT), hardware makers NVIDIA Corporation (NASDAQ:NVDA) and Advanced Micro Devices, Inc. (NASDAQ:AMD).
+
+With a quickly growing user base of over 5.4 million users from over 200 countries, app developer Hello Pal International Inc. (CSE:HP) (OTCQB:HLLPF) is leveraging its international live-streaming, social messaging, and language learning mobile platforms to mine the popular cryptocurrencies Bitcoin and Ethereum.
+
+After securing a strategic partnership with established cryptomining company Yitang, users of Hello Pal's platforms can now take part in the mining action through buying mining machines—either as individuals or as a group, with options to purchase fractional machines also available.
+
+By putting together this offering, Hello Pal has given its users an opportunity to participate in Bitcoin and Ethereum mining with simplicity and convenience.
+
+The new initiative leverages Hello Pal's platform advantages, which are bolstered by its primary strength of allowing users to make new friends in countries all over the world. With over 200 countries feeding into its user community, Hello Pal holds an advantage that many of the biggest social media platforms in the world don't—namely the permission to operate both inside and outside of China .
+
+"It's been our intention for cryptocurrency to play a central part on our platform, especially given the borderless nature of cryptocurrency and our international nature," said KL Wong, Founder and Chairman of Hello Pal. "The recent activity and interest in cryptocurrency presents us with a unique opportunity to introduce cryptocurrency to our users, as well as to bring cryptocurrency users to our platform."
+
+Purchases of each machine will be able to personally identify their devices, which differs greatly from current available 'cloud mining' services that are already available on the market.
+
+As their mined cryptocurrency is created, users who take part in the mining option will see their cryptocurrency credited to their digital wallet each day. Showing its solidarity and confidence with the program, Hello Pal itself is purchasing several Bitcoin and Ethereum mining machines to be held by the company, with plans to purchase even more.
+
+Yitang will also be helping Hello Pal reintroduce and revamp its digital wallet and proprietary digital currency, "Palto", designed to be used across Hello Pal's entire suite of apps in order for the borderless transfer of value between Hello Pal users across the world.
+
+Hello Pal recently set a new company revenue record in January 2021 of nearly CA$2.8 million. As well, the company announced a fully subscribed private placement of CA$1.6 million .
+
+In an effort to further ramp up its Bitcoin mining capacity, CleanSpark, Inc. (NASDAQ:CLSK) recently issued an expansion update , announcing it expects to have in excess of 315 Ph/s of Bitcoin mining capacity deployed before the end of February.
+
+Since the December 10, 2020 acquisition of the equipment upgrades that are continuing to be delivered, this expansion will represent a more than 65% increase in CleanSpark's mining capacity. The crypto miners expect demand to further increase, with the substantial investments being made by major companies like MicroStrategy, PayPal, Square, and, most recently, Tesla.
+
+Not falling behind, Hut 8 Mining Corp. (TSX:HUT) (OTC:HUTMF) announced shortly after that it too would match the momentum of Bitcoin adoption with the successful installation of its first batch of mining equipment on-schedule.
+
+Hut 8's equipment financing loan was leveraged to add 475 petahash per second (PH/s) to Hut 8's Bitcoin mining capacity over the course of Q1 and Q2. As of February 11, 400 miners had been successfully installed, adding an additional 35 PH to Hut 8's mining capacity.
+
+Making the equipment itself are manufacturers such as NVIDIA Corporation (NASDAQ:NVDA) and Advanced Micro Devices, Inc. (NASDAQ:AMD).
+
+Photos of a massive cryptomining farm with hundreds of Nvidia 30XX Laptops went viral from an undisclosed location in China. How the owners of the farm acquired so many of these laptops is suspect, as there are protections in place to prevent this sort of bulk purchasing.
+
+GPUs are in short supply. Nvidia is having to roll out lower-end GPUs into the market to counter the ongoing severe shortage.
+
+A significant amount of the graphic chips demand from Advanced Micro Devices, Inc. (NASDAQ:AMD) is a result of cryptocurrency mining.
+
+Now Advanced Micro Devices, along with three other major US firms, co-signed a letter to the US President , urging the provision of "substantial funding for incentives for semiconductor manufacturing" as part of future economic recovery and infrastructure plans.
+
+"This is largely because the governments of our global competitors offer significant incentives and subsidies to attract new semiconductor manufacturing facilities, while the U.S. does not," the group said.
+
+As Bitcoin continues to be in the spotlight, companies like Hello Pal are in a good position to make the most of this rising interest and use it to help their growing user base.
+
+To get more information on Hello Pal International Inc., click here.
+
+DISCLAIMER: Microsmallcap.com (MSC) is the source of the Article and content set forth above. References to any issuer other than the profiled issuer are intended solely to identify industry participants and do not constitute an endorsement of any issuer and do not constitute a comparison to the profiled issuer. FN Media Group (FNM) is a third-party publisher and news dissemination service provider, which disseminates electronic information through multiple online media channels. FNM is NOT affiliated with MSC or any company mentioned herein. The commentary, views and opinions expressed in this release by MSC are solely those of MSC and are not shared by and do not reflect in any manner the views or opinions of FNM. Readers of this Article and content agree that they cannot and will not seek to hold liable MSC and FNM for any investment decisions by their readers or subscribers. MSC and FNM and their respective affiliated companies are a news dissemination and financial marketing solutions provider and are NOT registered broker-dealers/analysts/investment advisers, hold no investment licenses and may NOT sell, offer to sell or offer to buy any security.
+
+
+
+The Article and content related to the profiled company represent the personal and subjective views of the Author (MSC), and are subject to change at any time without notice. The information provided in the Article and the content has been obtained from sources which the Author believes to be reliable. However, the Author (MSC) has not independently verified or otherwise investigated all such information. None of the Author, MSC, FNM, or any of their respective affiliates, guarantee the accuracy or completeness of any such information. This Article and content are not, and should not be regarded as investment advice or as a recommendation regarding any particular security or course of action; readers are strongly urged to speak with their own investment advisor and review all of the profiled issuer's filings made with the Securities and Exchange Commission before making any investment decisions and should understand the risks associated with an investment in the profiled issuer's securities, including, but not limited to, the complete loss of your investment. FNM was not compensated by any public company mentioned herein to disseminate this press release but was compensated twenty five hundred dollars by MSC, a non-affiliated third party to distribute this release on behalf of Hello Pal International Inc.
+
+
+
+FNM HOLDS NO SHARES OF ANY COMPANY NAMED IN THIS RELEASE.
+
+
+
+This release contains "forward-looking statements" within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E the Securities Exchange Act of 1934, as amended and such forward-looking statements are made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. "Forward-looking statements" describe future expectations, plans, results, or strategies and are generally preceded by words such as "may", "future", "plan" or "planned", "will" or "should", "expected," "anticipates", "draft", "eventually" or "projected". You are cautioned that such statements are subject to a multitude of risks and uncertainties that could cause future circumstances, events, or results to differ materially from those projected in the forward-looking statements, including the risks that actual results may differ materially from those projected in the forward-looking statements as a result of various factors, and other risks identified in a company's annual report on Form 10-K or 10-KSB and other filings made by such company with the Securities and Exchange Commission. You should consider these factors in evaluating the forward-looking statements included herein, and not place undue reliance on such statements. The forward-looking statements in this release are made as of the date hereof and MSC and FNM undertake no obligation to update such statements.
+
+
+
+Media Contact:
+
+FN Media Group, LLC
+
+[email protected]
+
++1(561)325-8757
+
+
+
+
+
+SOURCE Microsmallcap.com

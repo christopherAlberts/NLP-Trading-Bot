@@ -1,0 +1,51 @@
+This is Part Three of a multipart series that aims to answer the following question: What is the “fundamental value” of Bitcoin? Part One is about the value of scarcity, Part Two — the market moves in bubbles, Part Three — the rate of adoption, and Part Four — the hash rate and the estimated price of Bitcoin.
+
+The rate of adoption
+
+If more and more people desire a certain good, and the same amount of units are in circulation, the price will obviously have a tendency to rise. It’s the supply-and-demand rule that governs any market in the world.
+
+If one year, a hailstorm destroys the tomato crop and there are fewer edible tomatoes than expected, it makes sense for the price of tomatoes on the market to rise, considering that the demand has remained the same. However, imagine for a moment that suddenly, people want to buy tomatoes much more than in previous years. The demand goes up and the availability of tomatoes goes down, therefore the price will go up a lot more than in the former case.
+
+Demand can grow due to two factors: participants are stable and the amount of requests increases or the amount of requests is stable but the number of participants increases. Even a combination of these two is possible
+
+In the example that follows, we’ve only assumed that the number of participants goes up for the same amount of goods. So, on the one hand, we have Satoshi Nakamoto who defined that Bitcoin (BTC) must become increasingly scarce over time, and on the other, there is a possible boost in the price of Bitcoin coming from new people who progressively enter the market.
+
+It is therefore a question of studying the adoption rate of cryptocurrencies in the world’s markets to understand where the value of Bitcoin is headed and, overall, where the cryptocurrency asset class can go in the future.
+
+The growth in the number of wallets is not exactly exponential, but close to it. In order to predict its growth in the future, you need to use a “power law” function that is able to best estimate its curvature. To do this, first we put the graph in logarithmic scale, then calculate the function that best approximates it.
+
+Though the function does not consider any potential future increases based on a rise in interest that could manifest in 2021 following an unexpected growth in Bitcoin, this exercise is used to estimate the growth over time in the number of wallets.
+
+To estimate the growth in the value of Bitcoin using the number of wallets in circulation, we’ll need to estimate the average amount contained in each individual wallet using a fairly simple function:
+
+Bitcoin capitalization / Number of wallets
+
+Now, we have an estimate of the Bitcoin value each wallet has on average. However, the data tells a completely different story: 70% of wallets have 0.01 BTC or less, while 2% of wallets own over 95% of Bitcoin in circulation, and the exchanges own about 7%.
+
+These reports help us understand the enormous growth potential of Bitcoin in the future, as those who own a large part obviously do not sell it since they know Bitcoin and its potential well. Those who have 0.01 BTC or less will be tempted to buy more, and of course, there are always new wallets opening every month.
+
+However, by taking the average, we can highlight an average value expressed in U.S. dollars of the content of these wallets:
+
+Since the average of these deposits is conditioned by the value of Bitcoin’s price, to best estimate a “range” of prices where Bitcoin could go, the red dotted line represents the tenth percentile of U.S.-dollar deposited wallets; while the dashed blue line represents the 90th percentile. This “range” allows us to frame what the entire capitalization of Bitcoin should be over time, based on the estimated adoption rate of Bitcoin.
+
+This estimate doesn’t consider several factors that could make it very prudent. For institutional investors entering the market, the average amount per wallet could go much higher than the blue band identified in the example.
+
+Obviously, these estimates should be taken as an intellectual attempt to understand the dynamics of Bitcoin, and absolutely cannot be considered a suggestion or advice on behalf of the authors.
+
+This graph shows that a goal of reaching a trillion in capitalization, or $1 trillion, is far from impossible, especially if interest in Bitcoin continues to rise in the coming months.
+
+Similar growth is also estimated by the makers of the rainbow chart:
+
+This graph is very useful because it summarizes the presumed growth rate of Bitcoin’s value and its bubble trend following each halving.
+
+Clearly, there is no guarantee that Bitcoin will continue to move with this logic, but it is important to note that it could do so in order for one to make objective, reasonable investment decisions according to these assumptions as well.
+
+This article was co-authored by Ruggero Bertelli and Daniele Bernardi.
+
+This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision. The views, thoughts and opinions expressed here are the authors’ alone and do not necessarily reflect or represent the views and opinions of Cointelegraph.
+
+Ruggero Bertelli is a professor of financial intermediaries economics at the University of Siena. He teaches banking management, credit risk management and financial risk management. Bertelli is a board member of Euregio Minibond, an Italian fund specializing in regional SME bonds, and a board member and vice president of Italian bank Prader Bank. He is also an asset management, risk management and asset allocation adviser for institutional investors. As a behavioral finance scholar, Bertelli is involved in national financial education programs. In December 2020, he published La Collina dei Ciliegi, a book about behavioral finance and the crisis of financial markets.
+
+Daniele Bernardi is a serial entrepreneur constantly searching for innovation. He is the founder of Diaman, a group dedicated to the development of profitable investment strategies that recently successfully issued the PHI Token, a digital currency with the goal of merging traditional finance with crypto assets. Bernardi’s work is oriented toward mathematical models development, which simplifies investors’ and family offices’ decision-making processes for risk reduction. Bernardi is also the chairman of investors’ magazine Italia SRL and Diaman Tech SRL, and is the CEO of asset management firm Diaman Partners. In addition, he is the manager of a crypto hedge fund. He is the author of The Genesis of Crypto Assets, a book about crypto assets. He was recognized as an “inventor” by the European Patent Office for his European and Russian patent related to the mobile payments field.
+
+This article has been successfully submitted to the World Finance Conference.

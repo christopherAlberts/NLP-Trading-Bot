@@ -1,0 +1,131 @@
+During a continued divergence in the crypto markets, where ether posted new all-time highs while bitcoin wallowed at levels almost $10,000 below its peak, the politics and buzz around both continue to spur thought and debate.
+
+In the spirit of that, this week’s newsletter dives into Iran’s ostensibly pro-bitcoin strategy and shows how it contravenes the level playing field values on which bitcoin is built. It also looks at the explosion in non-fungible token (NFT) sales and offers a lesson from Crypto Twitter on how to deal with rumors.
+
+After you’ve read all that, please find time to listen to this week’s excellent episode of our “Money Reimagined” podcast.
+
+In the latest stop on our world tour of crypto hot spots, Sheila Warren and I talk to two Nigerian entrepreneurs: Yele Bademosi, the CEO of payments app Bundle Africa, and Adia Sowho, a venture builder and operator. Among this entertaining pair’s many cool insights was the idea the Nigerian Central Bank’s February order that banks shut down crypto companies’ access backfired. It spurred even more innovation, inspiring local developers to dream up new decentralized solutions for getting around the banking sector’s gatekeepers.
+
+Iran is the Cuba of the crypto age
+
+Be careful what you wish for.
+
+News this week that Iran will allow a small set of qualified entities to pay for imports with cryptocurrency mined by licensed operators might sound like an enlightened move to some bitcoin enthusiasts.
+
+It fits a narrative that when governments start accepting bitcoin, they jump-start its role as a universal reserve asset. Meanwhile, the free trade-minded who chafe at all government intervention in markets may view Iran’s use of bitcoin to get around U.S. sanctions as a positive blow for global commerce generally.
+
+You’re reading Money Reimagined, a weekly look at the technological, economic and social events and trends that are redefining our relationship with money and transforming the global financial system. Subscribe to get the full newsletter here.
+
+But look closer and you’ll see in Iran’s bitcoin strategy the hallmarks of an authoritarian system that flouts the freedoms crypto advocates like to embrace. When viewed alongside a crackdown against unlicensed crypto mining, the regime’s moves could widen the divide between government-favored elites and average Iranians. (Below we delve into the lessons on this taken from Cuba’s destructive dual-currency system.)
+
+It’s not clear if federal officials in Washington will care about that inequity. But it will view Iran’s bitcoin solution for sanction avoidance with alarm, as it undermines the United States’ self-appointed role as cop to the global financial system. Concerns about that will be amplified if it’s apparent that China, which is eager to knock the dollar off its international reserve currency perch, is directly or indirectly supporting Iran’s approach. (The pathways for Beijing to do so are already laid.)
+
+The question is: How should the Biden administration respond? Let’s hope it avoids the temptation to roll this into a simplistic “bitcoin bad” narrative and imposes tighter controls on the cryptocurrency’s users in the U.S. and elsewhere. A more constructive approach would encourage Iran to abandon its strategy for a crypto policy that favors innovation, green infrastructure and economic freedom for all its citizens.
+
+Some miners more equal than others
+
+The intent of the government of President Hassan Rouhani is hardly a mystery.
+
+Even though Iran is a major oil producer, years of crippling U.S. sanctions aimed at containing its nuclear weapons program have deprived its economy of dollars. That makes it very difficult for Iran to buy what it needs from the world, and ensures that the local currency, the rial, is under perpetual downward pressure, which in turn stokes inflation.
+
+Now, by creating a legal framework in which bitcoin can be mined locally, taxed under a strict licensing system and used by regulated institutions to pay for imports, the government has a workaround. Iran will still struggle to sell its energy resources for dollars, but it can do the next best thing: It can convert that same local resource into bitcoin, a harder currency than dollars.
+
+At the same time, the regime is showing its authoritarian instincts. In January, it said that Iran had 24 officially registered mining farms, consuming 310 megawatts of power, and that the Ministry of Energy had shut down 1,620 illegal bitcoin mining operations with a capacity of 250 megawatts over the prior 18 months. It offered rewards of up to 100 million rials ($2,350) for information leading to the arrest of illegal miners.
+
+In a subsequent story by CoinDesk’s Anna Baydakova, one household miner, “Basir” (not his real name), said he spent a week in jail before he could scrounge up the large bail amount by selling his house, his car and his mining equipment.
+
+The premise for the crackdown is that illegal mining is disrupting Iran’s overstretched electricity grid. But bitcoin advocates say that is unfair as the country’s blackouts have continued even after the authorities have done their sweep.
+
+Regardless, by making itself the gatekeeper for domestically mined bitcoin and discriminating over which entities can access it, the government is laying the groundwork for societal divisions – especially if bitcoin grows in importance, as many expect it will.
+
+To understand why, let’s go back to the early years of the post-Cold War era in Cuba, another country that has labored under the constraints of U.S. sanctions.
+
+Cuba's lesson
+
+In 1993, Fidel Castro’s regime was broke. Its longtime benefactor, the Soviet Union, had collapsed and the island economy was reeling from four years of “Special Period” austerity.
+
+Castro reluctantly adopted a radical solution: He legalized the use of U.S. dollars, but only within designated, closely regulated industries such as government-sanctioned tourism resorts that could only accept foreigners as guests. It later entrenched this system by requiring all incoming foreign currency, including that carried by foreign tourists, be exchanged into “convertible pesos,” a new local currency pegged one-to-one with the dollar. The new notes would circulate in parallel with the traditional Cuban peso, known as “moneda nacional” (national currency), but could only be used in those same sanctioned settings.
+
+The strategy gave the regime a lifeline. With taxes from regulated foreign currency inflows, it continued to defy the Helms-Burton Act.
+
+But the system created two Cubas, one where a privileged elite got access to goods and services available only in de facto foreign currency. Everyone else earned near-worthless moneda nacional, which could buy only items listed on the “libreta,” or ration book, an artifact of Soviet communism that guaranteed necessities such as bread and milk but excluded anything deemed to be a “luxury” – in effect, anything imported. To give you an idea of how limiting the libreta was, it did not include the “luxury” of tampons.
+
+(Rachel Sun/CoinDesk)
+
+These deep divisions also bred rampant corruption because goods designated for the moneda nacional economy were hoarded and sold illegally in the convertible peso economy.
+
+Bakers would secretly deliver half their production to fancy foreign tourist-only restaurants, denying libreta holders their bread rations. Gas stations would siphon off gasoline intended for domestic customers and deliver it to companies operating in the convertible peso economy. Painters would thin out their paint so that they could sell half their supplies to hotels.
+
+The human effect of this stood out to me when I visited Cuba for book research in 2008. One day, I hired a rickshaw driver with my convertible pesos. Every time he saw a policeman up ahead, he urged me to dismount and walk to meet him two blocks down the road because he couldn’t be seen to be servicing dollar-wielding foreign tourists.
+
+The system created a new class of predominantly white elites whose expat families in Miami and Madrid would send them foreign currency, while doing nothing for a disproportionately black community without such ties.
+
+By the standards of Communist Cuba’s professed egalitarian ideals, it was an abomination. Yet, it took the government 28 years – until January of this year – to unify the currencies. Such was the intoxicating appeal of this unjust system for the Castro dictatorship – first under Fidel, then under his brother, Raul.
+
+A different path?
+
+Similar inequity lies ahead for Iran if it sticks with its crypto strategy and, as many of us believe, bitcoin becomes a sought-after store of value in a post-COVID era of high debt, slow growth and fiat currency depreciation. Some Iranians will become phenomenally rich. Others will be stuck with worthless rials. Attempts to cross the divide will encourage corruption and social tensions.
+
+Still, for the Iranian regime, the strategy is a tempting way to fund itself. Also, given Iran’s relationship with China – with which it recently struck a $400 billion, 25-year investment deal that included access to Iranian oil and a plan for a binational “bank” – it presents an opportunity to shift the geopolitical landscape.
+
+China has the largest bitcoin mining industry in the world, and so it’s not hard to imagine Chinese bitcoin miners building officially endorsed, fossil fuel-run facilities inside Iran. Once bilateral payment agreements are in place to use digital currencies that bypass the U.S.-led global financial system, one can foresee a feedback loop in which China gets oil, Iran gets hard currency, the dollar’s power is diminished, and bitcoin’s carbon footprint grows.
+
+How should the U.S. respond?
+
+My fear is the rallying cry in Congress will be that bitcoin is “enabling” reprehensible sanctions-busting behavior, prompting calls for tougher crypto regulations. That will only drive more activity underground and encourage more dirty fuel installations in Iran and elsewhere – in effect, strengthening the regime’s hand.
+
+The alternative is the U.S. government takes a more constructive approach, encouraging innovation and economic freedom. It could offer to work with domestic bitcoin miners to commit to zero greenhouse emissions and, in so doing, develop such energy sources, whether it’s the government’s nuclear plants or locally run solar and wind operations.
+
+As I wrote in a prior newsletter, I see a pathway for government incentives to make bitcoin mining a catalyst for green energy development. Iran, as an energy powerhouse, is well placed to work with U.S. scientists on such solutions.
+
+One can hope, right?
+
+Off the charts: The growing NFT pie
+
+With “Saturday Night Live” making skits about NFTs, multiple sports stars and celebrities minting them and digital art selling for nosebleed prices, it seems like a good time to check in on how the NFT market has responded to all this attention.
+
+Thankfully, the latest quarterly report from ConsenSys on the state of the decentralized finance (DeFi) ecosystem on Ethereum contains a nice set of pie charts to tell the story:
+
+From the "The Q1 2021 DeFi Report." (ConsenSys)
+
+As expected, sales of crypto art grew rapidly during the quarter as a mania for non-fungible tokens took hold. However, the spoils of the growing pie were not distributed evenly. Nifty Gateway, the NFT platform acquired by Gemini two years ago, has consistently gobbled up the biggest piece of it.
+
+Why? In one word: Beeple. The March $69 million sale of the digital artist’s “Everydays – The First Five Thousand Days” digital collage was not only a major driver of the platform’s volume, it also reflected the established relationship Beeple had already built with Christie’s, Nifty Gateway and other sellers of high-value digital art.
+
+Sign up to receive Money Reimagined in your inbox, every Friday.
+
+The conversation: The rumor Milne
+
+Herein lies an old-school journalist’s crotchety warnings about treating rumors responsibly.
+
+Crypto Twitter can take some lessons from a saga that began with a tweet early Tuesday by Alistair Milne, whose Twitter profile (89,300 followers) says he is the CIO of the Altana Digital Currency Fund.
+
+That got many, many, people excited – for obvious reasons. Bitcoin’s price did not immediately jump after the tweet, but for the 36-hour period (until the rumor turned out to be false), it brushed with its highest level for the week. Knowing the trigger-happiness of the crypto investor scene, it seems likely that Milne’s tweet, which was very widely shared, prompted many to buy.
+
+Now, before we discuss what Facebook actually announced, here’s a basic rule to which I was rightly subjected in financial newsrooms throughout my career: We could never report on potentially market-moving rumors, however interesting they might be, for the simple reason that you could cause people to unfairly lose or gain money on unsubstantiated hearsay.
+
+Rumors are prevalent in all markets, precisely because people have vested interests in the price impact they can have. The last thing you want to do as a respected news outlet with a large megaphone is to amplify the rumormonger’s message. A rumor is a prompt for a journalist to try to confirm the truth of it, not to report on it prematurely.
+
+Of course, Milne is not a journalist. But in the age of social media, and for the purposes of this discussion, it’s a distinction without a difference. He has 89,000 followers and a reputation as an early investor in the space. We all have a responsibility to our audience.
+
+Anyway…
+
+Facebook’s earnings came and went on Wednesday evening with nary a mention of “bitcoin,” “cryptocurrency,” “blockchain,” “dogecoin,” or even “libra” or, for that matter, “diem.”
+
+Some delighted in the non-eventness of it all:
+
+But others were incensed. This Twitter user summed up Crypto Twitter’s reaction quite nicely (sound on):
+
+As Milne came under attack, he stood his ground. He didn’t delete the tweet and found some lighthearted ways to laugh it off, asking whether he should delete his account and then declaring he would never tweet again until Facebook does buy bitcoin.
+
+But his mentions kept filling up. It probably didn’t help he had tweet-boasted 14 hours before the Facebook earnings release of taking profits, nor that he later defensively blamed the rumor on someone else.
+
+Here, two old-school newsroom rules are useful: 1) the problem is not that you start a rumor per se, it’s that you amplify it and in so doing legitimize it, and 2) just putting the label “rumor” on an unsubstantiated claim does not get you off the hook. You’re still amplifying it.
+
+That last tweet, 22 hours after the Facebook earnings report, suggests our culprit still has some learning to do.
+
+Still, it’s heartening to know that an angry Twitter mob can have a sobering impact. Based on this last tweet from Alistair Milne on the topic Thursday night, he might think twice next time:
+
+Relevant reads: When ETF?
+
+Bitcoin investors are hoping the U.S. Securities and Exchange Commission finally approves an exchange-traded fund for bitcoin, giving the price a boost. With at least three proposals before an SEC that’s now led by crypto-savvy Chairman Gary Gensler, and given the success of three Canadian ETFs, expectations are stronger than ever for a positive ruling.

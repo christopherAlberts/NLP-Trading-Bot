@@ -1,0 +1,103 @@
+The deleveraging that took place in the early hours of last Monday helped Bitcoin to bounce back nearly 20% this past week to get to as high a $58,498 before falling back to the $57K level.
+
+Meanwhile, according to data by CryptoCompare, Ethereum had an even better week, setting a new all-time high of $2,954, and closing April in the green to make it seven consecutive monthly green candles for the world’s second-most valuable cryptocurrency.
+
+Things went a step further over the weekend as Ethereum broke through $3,000.
+
+So, let’s look at the main highlights of last week…
+
+On Monday (April 26), Coindesk reported that, according to its sources, JPMorgan Chase is planning to offer an actively managed Bitcoin fund to clients of its private wealth management service, with the fund expected to launch as soon as this summer.
+
+After Tesla reported its Q1 2021 Financial Results yesterday (April 26), many in the crypto community were shocked to hear Tesla had sold 10% of its recently acquired Bitcoin. Later, the Tesla CFO and the Tesla CEO made some clarifying remarks.
+
+In the Shareholder Deck released by Tesla, the company had this to say about Bitcoin:
+
+“Year over year, positive impacts from volume growth, regulatory credit revenue growth, gross margin improvement driven by further product cost reductions and sale of Bitcoin ($101M positive impact, net of related impairments, in “Restructuring & Other” line) were mainly offset by a lower ASP, increased SBC, additional supply chain costs, R&D investments and other items. Model S and Model X changeover costs negatively impacted both gross profit as well as R&D expenses.
+
+“Quarter-end cash and cash equivalents decreased to $17.1B in Q1, driven mainly by a net cash outflow of $1.2B in cryptocurrency (Bitcoin) purchases, net debt and finance lease repayments of $1.2B, partially offset by free cash flow of $293M.”
+
+Bitcoin holdings
+
+And the “State of Cash Flows” section of the “Financial Statements” showed that Tesla had received $272 million as the result of selling part of its Bitcoin holdings.
+
+Dave Portnoy, the founder and president of Barstool Sports, criticised Tesla and Musk for conducting a “pump and dump” operation, but Musk corrected him, saying that he had not sold any of his own Bitcoin holdings, and explained why Tesla had sold a small part of its Bitcoin holdings:
+
+It is clear that Tesla needed to make its Q1 2021 earnings look better, and selling 10% of its BTC holdings was an easy way of doing that. However, as Nic Carter, a Co-Founder of Coin Metrics, pointed out, corporate treasurers sometimes need to rebalance their investment portfolios.
+
+On Tuesday (April 27), crypto exchange Gemini, which is owned by the Winklevoss twins, announced that Mastercard will be the exclusive network partner for the Gemini Credit Card. The card, which will be issued by WebBank, will be rolled out this summer in all 50 US states. Cardholders will be able to “earn up to 3% back on qualifying purchases in bitcoin or any of the more than 30 cryptocurrencies available on Gemini”.
+
+Billionaire investor and entrepreneur Mark Cuban talked about Dogecoin ($DOGE) during an interview on the Ellen DeGeneres Show.
+
+Cuban is the majority owner of the professional basketball team Dallas Mavericks, as well as one of the ‘sharks’ on the highly popular reality show Shark Tank (which is aired on the ABC television network).
+
+Best investment
+
+Here is what Cuban told the show’s host Ellen DeGeneres about Dogecoin: “Overall, when someone brings up Dogecoin to you and asks you if it’s a good investment, I wouldn’t say it’s the world’s best investment, but it’s a whole lot better than a lottery ticket, and it’s a great way to learn and start understanding cryptocurrencies.”
+
+Blockchain research and development firm Input Output Global (IOG) — formerly known as IOHK — announced a partnership with the government of Ethiopia.
+
+As CityAM reported last Tuesday “the aim is to give all students blockchain-verified digital qualifications that reduce fraudulent university and job applications and increase social mobility by allowing potential employers to verify all grades without third-party agencies”.
+
+The report went on to say: “Ethiopia’s government is also issuing all teachers and pupils with tablets and a dedicated internet network giving all students instant access to their academic records, opening up higher education and employment for the 80 per cent of students who live in rural regions.
+
+“Student IDs will also be paired with data from Learning Management Systems and harnessed by machine learning algorithms to drive personalised teaching, a dynamic curriculum, and data-driven policies and funding.”
+
+On Wednesday (April 28), Tokyo-based video game publishing company Nexon Co, Ltd announced that it had recently invested $100 million in Bitcoin ($BTC).
+
+Nexon, which was founded in 1994, is a pioneer in massive multiplayer online role-playing games (MMORPG), and it is listed on the Tokyo Stock Exchange.
+
+According to Nexon’s press release, the company has bought “1,717 Bitcoins for approximately $100 million (¥11.1 billion) at an average price of approximately $58,226 (¥6,446,183) per Bitcoin, inclusive of fees and expenses.” This investment “represents less than 2% of Nexon’s total cash and cash equivalents on hand”.
+
+Owen Mahoney, President and CEO of Nexon, had this to say: “Our purchase of Bitcoin reflects a disciplined strategy for protecting shareholder value and for maintaining the purchasing power of our cash assets. In the current economic environment, we believe bitcoin offers long-term stability and liquidity while maintaining the value of our cash for future investments.”
+
+Price surge
+
+The Dogecoin (DOGE) price surged more than 23% on crypto exchange Binance shortly after another supportive tweet by Tesla CEO Elon Musk in which he referred to himself as “The Dogefather”, hinting that he might be mentioning Dogecoin during his hosting appearance on TV show “Saturday Night Live” (SNL) on May 8.
+
+Mira Christanto, Asia Advisor at Messari, had this to say about the effect of Musk’s tweet on the Dogecoin price:
+
+The US Securities and Exchange Commission (SEC) issued a notice that designated June 17 2021 “as the date by which the Commission shall either approve or disapprove, or institute proceedings to determine whether to disapprove, the proposal made on March 1 by Cboe BZX Exchange, Inc to list and trade shares of the VanEck Bitcoin ETF (VanEck Bitcoin Trust)”.
+
+CME Group Inc. (NASDAQ: CME) reported financial results for Q1 2021, and during its earnings call, the company’s top executives talked about Bitcoin and Ethereum in the context of their current/future futures products.
+
+Sean Tully, Senior Managing Director, Global Head-Financial & OTC Products, said:
+
+“If you look at our first quarter of this year, the revenue was higher than the entirety of last year, and it was about $4.7 million in the first quarter. So it was a positive and for the first time, much stronger than in the past. With the launch of the new micro Bitcoin [futures], today, let me talk about the large Bitcoin futures that we have. It’s 5 Bitcoins. And the margin requirements run typically more than $105,000 per contract. Obviously, that is extremely restrictive in terms of the number of participants and the types of participants who can be involved in that…
+
+Micro Bitcoin futures
+
+“With the new micro Bitcoin, it’s going to be 1/50 of the size. The micro Bitcoin futures will have approximately $2,000 margin. So you can see how that opens up a much wider potential customer base for that product.”
+
+On Thursday (April 29), Coinbase announced that it is now allowing its customers in the US to buy crypto instantly on Coinbase via debit cards and bank accounts linked to their PayPal account. It went on to say that In the coming months it will expand this feature to more countries.
+
+Fidelity Investments announced SherlockSM, “a digital assets data and analytics solution that helps institutional investors navigate digital assets by bringing together comprehensive data coverage and easy to use, intuitive analytics tools in one central location.” Sherlock “offers streamlined access to fundamental and technical data about development ecosystems, network activity, trading, social media activity, news and other research on digital assets from some of the leading institutional data providers, as well as unique analytics to help investors evaluate the market.”
+
+The Cardano Africa Special (read more) took place as a film released which confirmed the Ethiopia deal mentioned above and also that the Cardano Foundation and Save the Children – one of the largest international non-profit organisations (NPO) for children – are actively exploring ways to use Cardano and the ADA digital currency for the benefit of their humanitarian initiatives in East Africa (read more).
+
+During the film there was a powerful twenty-five minute segment outlining a new infrastructure partnership which Cardano Founder Charles Hoskinson told Crypto AM’s James Bowater “Our partnership with, and stake-holding in, World Mobile will see us working together to widen and democratise access to digital, financial and social services in Africa. This movement has to start with connectivity. Of the four billion people in the world not connected to the interview, 700 million are in Africa, and that’s mostly because mobile networks simply haven’t bothered to invest in the infrastructure to reach as far as rural communities.”
+
+Word Mobile Founder & CEO talked about this partnership in his Crypto AM: Founder Series piece “The partnership between World Mobile Group and IOHK is a perfect synergy because together we share a goal. We can deliver something remarkable to an emerging market that not only drives their economy but represents a fairer relationship to connection.”
+
+Price targets
+
+David Grider, Director of Digital Asset Strategy at independent research boutique Fundstrat Global Advisors, talked about Bitcoin, Ethereum, and the overall crypto market in the firm’s “Weekly Crypto Briefing”.
+
+In the firm’s latest crypto strategy note, Grider said: “We’re maintaining our overweight Ethereum vs. Bitcoin recommendation from April 2020 and reiterating our ~$10.5k price target from January this year.”
+
+“When new investors come to crypto the first asset they generally hear about and buy is Bitcoin before learning about other assets and allocating across the space. We think the same learning curve is playing out with institutional investors right now where the crypto narrative is shifting from Bitcoin to Ethereum and other segments like DeFi and Web 3 apps.”
+
+Grider says that one reason Fundstrat is bullish on Ethereum is due to “the large amounts of development happening there and the resulting economic activity in its digital economy.”
+
+The way Fundstrat arrived at a $10,500 price target is by valuing Ethereum “on a revenue multiple basis”.
+
+Fundstrat says that “given the correspondingly strong improvement in fundamentals”, Ethereum “still looks as cheap as it did three months ago at half the price”.
+
+As for Bitcoin, Grider says that Fundstrat is maintaining its $100K price target for Bitcoin given that they “believe the bull market remains intact”. According to him, although the Bitcoin price recently fell below its 50-day moving average, this is nothing to worry about since it has happened several times in previous bull market cycles, and it’s the 200-day moving average that Bitcoin has “historically maintained during prior bull runs”.
+
+Finally, it is worth pointing out that Fundstrat remains “bullish not just on Bitcoin and Ethereum but on the entire crypto space”, and still believes that the total crypto market is on its way to a $5 trillion market cap.
+
+On Friday (April 30), Coinbase announced that it was acquiring institutional data analytics platform Skew. Coinbase says that this acquisition (1) “allows Coinbase to provide real-time actionable data analytics to institutions and traders” and (2) “enhances Coinbase’s prime offering and helps customers make more informed trading decisions”.
+
+The Financial Times (FT) reported that Andreessen Horowitz plans to launch a “$1bn cryptocurrency VC fund”.
+
+Featured Image by “JillWellington” via Pixabay.com

@@ -1,0 +1,157 @@
+By using energy to validate transactions in a way that is independent of any existing grid or source, Bitcoin mining will save the climate.
+
+It’s in vogue to think that Bitcoin is accelerating the climate crisis.
+
+The common argument is that Bitcoin uses lots of energy, which must mean more carbon emissions, so as a result, it’s ruining the climate. Of course, critics also seem enraged at Bitcoin itself, believing it doesn’t do anything useful beyond facilitating a casino for Reddit memelords and “libertarian nerds” to get rich in. To these critics, Bitcoin is a totally useless, degenerate system that will end up consuming all energy on the planet in 18 months if we don’t stop it right now.
+
+While this fatalist prediction might succeed in earning clout on Twitter, it is fortunately far from the truth. Incredibly far. In fact, if I may do some clout chasing of my own: the prediction that Bitcoin will destroy the climate is the literal opposite of what Bitcoin is likely to do.
+
+Bitcoin will save our Earth.
+
+By the end of this read, you will understand how Bitcoin uses energy to validate transactions, and how this is driving more efficient energy usage and lower emissions for the entire global energy grid, not just the Bitcoin system.
+
+Why Does Bitcoin Need Energy?
+
+This is the first part that confuses many people, because Bitcoin is a novel type of monetary technology which has no analogue. Importantly, Bitcoin is not Visa or PayPal — and it uses energy for different purposes.
+
+Bitcoin requires energy in order to secure the history of transactions. A recipient of bitcoin can reasonably trust that the bitcoin they’ve received is really theirs because miners expended energy, and therefore incurred an unavoidable real-world cost, in order to fit that transaction into a block of transactions and hitch it onto the “blockchain.” We call this strong assurance that a transaction is completed “finality.”
+
+If you take out that energy expenditure, there is no cost associated with changing a transaction. The original sender could decide later to change their transaction so it points to another one of their wallets instead of your wallet. Poof! Now you never got paid, or maybe the money is in two places at once. That just won’t fly in a monetary or payments system. This little copy-paste problem is known in nerd circles as the “double-spend problem.” Bitcoin is the only system which solves this problem at scale without a trusted third party, and energy usage is the key component of that solution.
+
+The more energy that Bitcoin consumes, the more cost is incurred in securing the chain. More security means an “attack” on the history of transactions is more expensive — so expensive that double spending is uneconomical or downright impossible. The more cost incurred to secure the chain after your transaction, the more “final” that transaction is.
+
+> More energy consumption = more security.
+
+Many critics argue that the Bitcoin energy consumption per transaction compared to a Visa payment proves the horrible inefficiency of the Bitcoin network. This plays on our assumption that a “transaction” is always something small — like buying a cup of coffee. However, a “transaction” can also be a group of these smaller transactions — a “batch” — so that one “transaction” on a payment system like Bitcoin or Fedwire can actually represent millions of coffee purchases.
+
+Critics of Bitcoin’s energy use also miss the key point of why Bitcoin uses energy. Bitcoin is not just a payments system — it is also an entirely new form of scarce, divisible, portable commodity — aka, money.
+
+> Bitcoin consumes energy primarily to ensure the scarcity of Bitcoins and finality of transactions without a trusted third party.
+
+Other monetary systems, like the U.S. dollar, achieve scarcity and finality — key properties of money — through trust. You and I need to trust politicians and bankers to be good stewards of the monetary system. We entrust with them the power to literally create currency out of thin air, and they have the power to reverse or block transactions. Most of these gatekeepers are not elected officials either — they are the chairmen and employees of central banks and commercial banks. And they create new money and allocate it as they see fit, fiendishly. New money is created every time a government sells bonds to its central bank or banks extend loans — which is often. Especially in 2020.
+
+About 3.5 times more dollars were printed in 2020 than in the entire history of the U.S. dollar up to that one year. Source: Federal Reserve Economic Database.
+
+Trusting these gatekeeper elites doesn’t seem to be working out in this day and age. In fact, it hasn’t worked out for very long in any large-scale system that put too much faith in central planners.
+
+Bitcoin replaces people carrying biases, blind spots and sometimes malice with a set of coded rules and energy usage, leading to more fairness in the monetary system. Instead of Google’s “don’t be evil” credo, we can now achieve “can’t be evil” when it comes to governing the monetary system. The laws of physics apply the same to every human being regardless of race, creed, wealth or social standing — and those rules govern Bitcoin.
+
+You might still think Bitcoin doesn’t matter — that it’s just a stupid casino for Reddit dwellers. And that’s fine! Arguing that isn’t the purpose of this piece — I have plenty of other material explaining why Bitcoin matters. But as you’ll see after the next section, even a stupid casino can save the planet.
+
+Does More Bitcoin Energy Consumption Help Or Hurt The Climate?
+
+Now that we understand why Bitcoin needs energy in the first place, we need to address the question of whether Bitcoin’s energy consumption helps or hurts the climate. Many Bitcoin detractors love to play on your assumptions that more energy use is categorically bad for the environment, but that misses many nuances of how energy is produced and consumed.
+
+To approach the question of Bitcoin’s climate impact, we first need to understand Bitcoin mining as a business and the need that miners have for energy. I spent about six months in 2018 building a business plan, running financial models, visiting potential mining sites and fundraising for a 10 megawatt mining facility in the United States, so I have some limited experience on this subject.
+
+If you remember the concept of “perfect competition” from your Econ 101 class, Bitcoin is about the most “perfectly competitive” market that the world has ever seen. It is incredibly hard to get an edge or advantage over any other miner because the components to mining are very simple — powerful computers and cheap energy. The Bitcoin protocol doesn’t care about mining company brands or logos and it doesn’t offer anything differentiated that one miner can provide but others cannot.
+
+Source: Evan Bayless
+
+Competition between miners consistently shaves away at the profits any miner can make. As long as a miner can find energy cheap enough to mint bitcoin at below-market price, they have an incentive to start up a mining farm. When the bitcoin price increases rapidly, this means even more energy sources become profitable to hook up miners to — until new mining operations “soak up” this excess profit. This means miners are always forced to either pray for higher bitcoin prices, upgrade the efficiency of their mining equipment or find cheaper energy sources.
+
+
+
+Praying For Higher Prices
+
+Bitcoin doesn’t listen to prayers, as anyone who has traded it knows — so praying for a price rise is not a very reliable solution. Besides, rising bitcoin prices bring an incentive for new and existing miners to expand their operations and increase the “hashes” (guesses at the Bitcoin mining game) they’re producing. That in turn causes difficulty to rise yet again.
+
+Upgrade Mining Hardware Efficiency
+
+More efficient mining hardware only comes out once every few years and improvements are slowing due to the laws of physics making it harder to fit more processing power on a chip. Semiconductor companies have noted for years that Moore’s law is slowing down, meaning it is taking longer to double the number of transistors on a chip. Today, it is incredibly expensive to develop and produce more efficient mining chips, requiring years of research and development and millions of dollars to test and “tape out” new chips with major semiconductor manufacturers like TSMC in Taiwan.
+
+Cooling equipment (i.e., fans) also draws a lot of power, so more efficient cooling solutions can improve overall mining efficiency — but there’s a ceiling to that improvement as well. We’ll expand on the role of cooling later.
+
+Immersing mining computers in mineral oil can lead to efficiency gains given the improved ability of oil to carry heat away versus air. Source: CoinDesk.
+
+Both more efficient hardware and more efficient cooling solutions lead to turning the same amount of electricity into more hashes, contrary to the common criticism that only the “most power-hungry computers make a profit.” It is the least power hungry computers that make the most profit.
+
+Find Cheaper Power
+
+Power is essentially the only variable cost for a miner at scale. Seeking cheaper power is about the only thing that can save a miner when the Bitcoin protocol begins to squeeze a miner’s profit. The miner may move their machines to a new location with cheaper power, or be forced to shut down and sell their machines to someone else who has access to cheaper power. Either way, profitability is regained, and the average cost of power used to secure the network is pushed lower.
+
+> The most important ongoing factor for a mining operation is simply power cost.
+
+This has very important implications for climate change and emissions, because it means Bitcoin mining is forced to find cheaper and cheaper power sources over time. Critiques of Bitcoin’s energy use and climate impact today focus on estimating Bitcoin’s existing uses of power — especially during bull markets when miner’s have large profit margins — while ignoring the long-term trend implied by the functioning of the protocol and the evolution of energy technologies.
+
+Thankfully, cheap energy fit for Bitcoin mining is increasingly not found in fossil fuels, but in renewables, wasted and “stranded” sources of energy, as we’ll dive into next.
+
+Bitcoin Improves Energy Efficiency And Promotes Renewables
+
+Energy consumption by humanity correlates well with GDP and quality of life. While correlation is not causation, it’s easy to reason that more energy production allows us to give to machines more of the back-breaking labor that supplies food, shelter, clothing and other creature comforts to us. That at least affords us the opportunity to improve our quality of life, if only in material ways.
+
+However, it’s no secret that energy production can have unwanted consequences in the form of pollution or local and global ecosystem changes. Knowing what we know about Bitcoin’s mining dynamics, what can we learn about the types of energy that Bitcoin is likely to seek out and its resulting impact on the environment?
+
+Cheaper Renewables
+
+Now that we understand why the Bitcoin network will always seek cheaper energy over time, we need to look at the cost of energy by source. The investment bank Lazard produces an analysis of energy costs by source annually, which is widely considered an industry benchmark. Data from its 2020 report below:
+
+Utility-scale solar, geothermal and wind power are on par with or cheaper than conventional fuels like nuclear and coal, unsubsidized. Source.
+
+Thankfully, renewables are on par with or cheaper than conventional power sources at industrial scales. This holds true in most places around the globe, and the trend is getting stronger. This means Bitcoin miners will necessarily seek out renewable power as time goes on, especially excess capacity or overproduction that leads to even lower prices. Mining also provides developers of renewable power sources with another potential income stream, helping push progress on the learning curve of various renewables and accelerating further cost reductions.
+
+Wasted Energy
+
+Besides seeking cheap renewable energy, the portability of Bitcoin mining hardware versus other power consumers (like your home or the city you live in!) means it can take advantage of power that would otherwise be wasted.
+
+One example of currently wasted energy comes in the form of flared natural gas. Unfortunately, we still need to power our cars and planes with oil until Elon Musk can create a hive-mind of self-driving Tesla pods. Given that, explorers looking for oil often hit pockets of natural gas while drilling in remote locations. Oil is expensive enough that it’s profitable to put it on trucks and drive it from these remote locations to where that oil is refined and pumped into your car, but transporting natural gas is often not economically viable from these locations. Companies can either release the gas into the atmosphere or literally burn it off (“flare” it) — which is what governments usually mandate them to do, in order to limit environmental impact.
+
+Flared gas over a peaceful sunset. Source.
+
+This natural gas is both stranded — too far from energy consumers to be useful — and wasted — because it cannot be stored once the drill hits it. This gas is a liability to the driller who hits it because it doesn’t produce any income and it actually costs them money to flare it safely.
+
+Bitcoin mining turns flared gas into an opportunity, however. Instead of simply burning off the gas, drillers can use a gas generator to power a portable box of Bitcoin miners, turning previously-wasted energy at a remote oil well into bitcoin. These drillers don’t even need to care about Bitcoin to find this useful — they can just sell their bitcoin immediately to make an income stream off of gas that they previously had to burn off. Companies like Upstream Data, Crusoe Energy and Giga Energy are pioneering this field.
+
+This energy usage improves the security of the Bitcoin network without causing any additional harm to the environment. In fact, part of the revenues from this type of mining could be applied to filtering flared gas exhaust, leading to less environmental impact.
+
+Stranded Energy
+
+Bitcoin mines are the least location-dependent consumers of energy on the planet. As a result, they can easily use energy sources that are “stranded” far from current population centers — like ocean currents or desert sun. These sources either aren’t economically viable to develop at all, or have the potential to produce more power than the existing nearby consumers can possibly use. Bitcoin mining presents an income stream that helps bootstrap funding to develop these stranded energy sources. Once energy production is up and running, these cheap sources of power can be a draw for other power consumers — like data centers, factories, even people — to locate near them.
+
+Abundant energy sources far from population centers, like offshore wind, are attractive options for Bitcoin mining. Source: The Times.
+
+
+
+For many miners, a large percentage of their power cost goes toward simply cooling their machines. However, this cooling cost can be significantly reduced just by putting miners in very cold climates, which are often far from population centers and likely to have excess renewable power that’s “stranded” too far from enough consumption to match production. Bitcoin technology and mining company BitFury utilizes this confluence of factors well.
+
+> “‘Many data centers around the world have 30 to 40 percent of electricity costs going to cooling,’ explains Valery Vavilov, the CEO of BitFury. ‘This is not an issue in our Iceland data center.’” -“Why the Biggest Bitcoin Mines Are in China,” Spectrum, 2017.
+
+Iceland’s energy production mix? Almost 100 percent renewable — with an estimated 73 percent coming from hydropower and 27 percent from geothermal. Iceland is known for having more energy resources than it can consume locally, leading to big boons in energy-intensive industries like aluminum smelting.
+
+A major mining facility in Norilsk, Russia is another example. This city of 180,000 puts vast energy resources to work producing nickel, but the frigid temperatures and excess energy in this region make it a perfect candidate for BitCluster’s newest mining farm.
+
+The nature of the Bitcoin protocol and mining dynamics force miners to seek progressively cheaper energy sources, and that means utilizing renewable, wasted and stranded energy. Bitcoin is not taking gas from your car or electricity from your house, it is making power production more efficient, utilizing otherwise “stranded” energy sources and helping to fund the development of renewable energy technologies.
+
+These Are The Early Days
+
+All that said about the production and consumption of energy related to Bitcoin, we must note that Bitcoin is still a very early and emergent technology. This may be hard to tell when the headlines are full of mentions of new price levels and whirring mining machines, but people, companies and power producers are still catching on to Bitcoin. The evolution we are watching is not a five- to 10-year process, it is a 20- to 100-year one. Focusing too closely on what’s happening today or in the last few years is missing the forest for the trees.
+
+Bitcoin mining is not a consumer technology like the television or mobile phone — it is an industrial technology that requires heavy energy infrastructure, more akin to airplanes, automobiles and the telephone, which required new physical infrastructure to be installed (airports, roads, telephone lines). Source.
+
+Energy production is a foundational, complex and deeply ingrained technology — it will not be revolutionized overnight. We must consider the long arc of history when we evaluate potential impacts of a new technology like Bitcoin as it relates to energy.
+
+In Bitcoin’s case, the novel technology provides energy producers a radically new way to monetize energy, and as a result it will permeate every energy production site across the globe. This will push down the profitable price of energy for all miners, driving more energy efficiency as wasted, stranded and renewable sources with near-zero (or below zero) energy cost are sought out to power mining facilities.
+
+The Casino That Saved The Earth
+
+Bitcoin may just be a casino for degenerate gamblers, but this casino serves as the buyer of last resort for electricity produced everywhere in the world. The positive impact of the presence of a buyer of last resort in the energy market is hard to overstate.
+
+As Bitcoin disseminates through the world, Bitcoin mining will:
+
+Increase energy efficiency by utilizing wasted energy Finance the exploration of “stranded” (and often renewable) power sources Push the learning and adoption curves for renewable energy
+
+That sounds a whole hell of a lot more environmentally friendly than paper straws.
+
+So, environmentalists, if you truly believe in saving our Earth, take a deeper look at this technology and the role it plays in energy markets. If you’d prefer to chase clout at the expense of making a real impact, crying wolf is probably easier.
+
+Many thanks to the Bitcoin critics, supporters and observers who have done so much researching, analyzing and sharing to help us learn more about Bitcoin energy utilization and expose misconceptions.
+
+Additional reads on Bitcoin and its environmental impact:
+
+“Bitcoin Does Not Waste Energy”: This post covers the problem of our broken monetary system that Bitcoin solves, and how the enormity of that problem more than justifies Bitcoin’s energy use.
+
+“Oil Field Alchemy: How Bitcoin Can Turn Waste, Emissions Into Proof-Of-Work”: This article dives into the stranded natural gas example used earlier.
+
+“The Frustrating, Maddening, All-Consuming Bitcoin Energy Debate”: This article breaks down the many misunderstandings inherent in applying the “energy use per transaction” statistic to Bitcoin to say that it’s inefficient. Bitcoin is not Visa — it is more akin to settlement systems like Fedwire, without any potential for human corruption (plus, better uptime).
+
+This is a guest post by Evan Bayless. Opinions expressed are entirely their own and do not necessarily reflect those of BTC Inc or Bitcoin Magazine.

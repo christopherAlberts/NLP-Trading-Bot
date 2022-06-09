@@ -1,0 +1,43 @@
+Using the first ever Twitter trade bot, users can tweet @bottlepay buy €10 of BTC, and it will convert that amount of euros into the cryptocurrency within your account. Photo: Getty
+
+Global payments startup Bottlepay, a Venmo-like app for cryptocurrencies, launched in Europe on Tuesday, allowing users on the continent to make fee-free transactions in euro and bitcoin (BTC-USD).
+
+The company, which is backed by Alan Howard, the billionaire co-founder of hedge fund Brevan Howard, and is powered by the Lightning Network, is the first platform to enable users to send and receive euros instantly via Twitter.
+
+A single tweet — for example ‘@bottlepay send @recipient €10’ — will instantly send the command to move the specified quantity of euro from one user’s account to another.
+
+The company, which launched in the UK earlier this year, also enables people to buy bitcoin in the same way. Using the first ever Twitter (TWTR) trade bot, users can tweet @bottlepay buy €10 of BTC, and it will convert that amount of euros into the cryptocurrency within your account.
+
+Users in the UK are able to send and receive sterling and bitcoin, and funds sent from Britain to Europe can be set to automatically convert to EUR or BTC, and vice versa.
+
+People can buy bitcoin, spend it (including withdrawals from crypto ATMs and online merchants), or store it in the app like a wallet. The app also allows customers to monitor the live market price of the cryptocurrency.
+
+The company said it wants to “revolutionise the way billions of people transact across the world”, as its process significantly reduces merchant charges and transfer fees associated with digital payments.
+
+Watch: What is bitcoin?
+
+Bottlepay users can transact with as little as a penny, or send funds where the recipients will receive 100% of the payment.
+
+The company added that in the coming weeks, the service will also be available on Reddit, Telegram, Discord and Twitch.
+
+Bottlepay, which is part of the UK Financial Conduct Authority's (FCA) Innovation Hub, gained over 20,000 users for a beta version of the app with no marketing, after being rated as the number one Crunchbase Bitcoin start-up globally.
+
+Story continues
+
+“Bottlepay is attempting to rewrite the rules when it comes to cross-border transactions. Half a billion people across the UK and Europe can now make cost-effective, instant payments to each other with a payments app that’s built on top of the bitcoin network,” Pete Cheyne, founder of Bottlepay, said.
+
+“Until now, it has been difficult to understand the utility of bitcoin other than it being a store of value. By launching in Europe, we are demonstrating the power of bitcoin as an open-source monetary system. We have created a payment rail that can process cross border payments immediately, at a low cost. It’s a much-needed update on the clunky, outdated payment systems available up until now, and a leap towards better financial inclusion for everyone.”
+
+Read more: Bitcoin, dogecoin recover some losses after Chinese regulation worries
+
+Earlier this year Bottlepay raised £11m ($15.5m) in seed funding from backers including Howard, whose firm manages around $13bn (£9bn) on behalf of clients. The startup said money also came from "present and former Goldman Sachs (GS) partners" but declined to name them. Bottlepay, which was founded in 2019, was valued at £51m in the deal.
+
+The launch comes as a number of institutional investors and large corporations invest into bitcoin.
+
+PayPal (PYPL) said last year it would allow customers to handle the token through its platform and Mastercard (MA) followed suit in February. BNY Mellon, America's oldest bank, said it too would handle bitcoin on behalf of clients.
+
+Square (SQ) invested $50m into the cryptocurrency last October and wealth manager Ruffer put some of its £21bn ($29bn) in assets into bitcoin last November.
+
+Bitcoin and other cryptocurrencies have been rocked recently by news of a crackdown in China. The country is testing its own digital currency, which could lead to ramped up regulation on crypto.
+
+Watch: What are the risks of investing in cryptocurrency?

@@ -1,0 +1,85 @@
+Earn up to 50% APY by Staking $GLQ on GraphLinq App
+
+press release
+
+PRESS RELEASE. The newest utility token to offer staking to its users/holders is GraphLinq Protocol’s $GLQ. As of this article, $GLQ has 4,500+ holders according to etherscan, excluding GLQ holders on CEX like Kucoin, MXC, Gate. This is a great step for the future of the project as it will further incentivize more users to hold. Explore more about GraphLinq, its staking mechanism & steps to stake.
+
+What Is GraphLinq?
+
+GraphLinq – The No Code protocol for automating actions on-chain & off-chain, launched in just March 2021, has come a long way bringing users in the crypto space a never seen model of integrating blockchain automation on any blockchain-related/non-related task.
+
+The goal of the GraphLinq protocol is to allow users to interact blockchains with any connected system as effortlessly as possible without any prior knowledge of coding.
+
+GraphLinq ecosystem currently consists of an engine, an integrated development environment (IDE) & an app to provide automated services all while leveraging centralized/decentralized data streams, several blockchains, and more. Also, recently they partnered with Polygon Network (Previously Matic) on multiple grounds. Learn: http://docs.graphlinq.io | Build: http://ide.graphlinq.io | Instant deploy: http://app.graphlinq.io | Analytics: https://analytics.graphlinq.io/
+
+About $GLQ Token
+
+GLQ is the native token for the GraphLinq ecosystem built on top of Ethereum (ERC20). It is used to run a graph on the platform’s mainnet to execute different processes over the blockchain to automate tasks, triggering events, and much more. GLQ will be used as the payment method in GraphLinq Marketplace where templates will be bought and sold peer-to-peer. GLQ’s functionality & use cases will continue to diversify as the ecosystem grows, as mentioned in Graphlinq’s Documentation.
+
+All You Need To Know About $GLQ Staking
+
+GraphLinq has finally announced the much-awaited GLQ staking launch on the GraphLinq App, incentivizing the holders of GLQ to earn passive rewards. Upon staking, GLQ holders can earn as much as 50% APY in rewards depending on the unique tier mechanism aimed at incentivizing long-term holders.
+
+Initially, tier rankings are allotted in a decentralized nature as following:
+
+-> First 15% stakers of total stakers will be in Tier 1 and get 50% APY
+
+-> Next 40% stakers will be in Tier 2 and get 25% APY
+
+-> The rest stakers will be in Tier 3 and enjoy a 12.5% APY
+
+The current APY is for a limited period only and would be updated in the near future.
+
+When you stake for the first time, you’ll be in Tier 3 first and then make it onto the higher tiers by holding for longer durations, as the number of stakers increases you can end up in the first 15% or next 40% stakers, increasing your tier rank. Also, stakers/holders in the higher tiers could drop to subsequent lower tiers upon withdrawing their staked GLQ, ultimately rewarding the long-term holders.
+
+To put it simply, the longer you hold, the more your rank is likely to get to the next tier with higher APY. At each withdrawal you will lose your tier advantages, benefitting the holders the most.
+
+The first withdrawal decreases your APY by half (if you’re not on tier 3), and the second will take you back to the last tier with the least APY. However, claiming yielded GLQ will not affect your tier ranks or rewards.
+
+(You can track & claim your staking rewards on the GraphLinq App’s Staking Page in real-time)
+
+
+
+Note: The team has mentioned that the current APY of the staking rewards is for a limited time only, and it will be updated from time to time in the near future.
+
+How Can I Buy & Stake My $GLQ in 3 Easy steps?
+
+A step-by-step guide to putting your $GLQ to work to get upto a whopping 50% APY!
+
+Step 1
+
+First make sure to have some $GLQ!
+
+If you’re still looking for a way to get $GLQ, here is how you can secure your bag:
+
+Buy $GLQ on app.graphlinq.io using fiat through any of the following payment methods: SEPA, UPI, IMPS, Faster Payments Bank Transfer, credit & debit cards . For this method, you’ll need to verify your KYC and enter your ERC20 wallet address to receive GLQ.
+
+Swap your ETH /ERC20 for $GLQ on Uniswap, 1inch, Metamask wallet.
+
+You can also Buy $GLQ on any of these centralized exchanges (CEXs): Kucoin , MXC , Gate.io
+
+Video Tutorial on How To Buy GLQ: https://youtu.be/_3tOZhBb9zw
+
+Step 2
+
+Connect Your ERC20 Wallet like Metamask, Coinbase Wallet, etc. to GraphLinq App by selecting your desired wallet.
+
+Approve the connection by clicking on “Sign”
+
+Step 3
+
+Go to the Staking Interface by clicking on “ Stake your GLQ ” on the top bar or “ Staking Interface ” on the sidebar.
+
+Once you are on the Staking Interface, “Total Staked GLQ”, “My Staked GLQ”, “My Claimable Rewards” and your current Tier Ranking can be seen.
+
+Within the staking interface, you can find the option to “Withdraw” your staked GLQ and an option to “Claim Rewards.”
+
+But first, you we need to stake some GLQ. To do that, enter your desired GLQ amount to stake in the “Stake Your GLQ” field. After entering the desired figure, click on “Stake now” and approve the contract on your connected wallet. Then after the approval from your wallet, click on “Stake now” again and confirm on your connected wallet in order to complete the staking process.
+
+Video Tutorial On How To Stake GLQ: https://youtu.be/hHsVEp_zKp0
+
+Congratulations, your GLQ has been staked successfully.
+
+This is a press release. Readers should do their own due diligence before taking any actions related to the promoted company or any of its affiliates or services. Bitcoin.com is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in the press release.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons

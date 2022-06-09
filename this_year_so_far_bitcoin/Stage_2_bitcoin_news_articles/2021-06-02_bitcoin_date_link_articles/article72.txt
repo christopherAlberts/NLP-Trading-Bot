@@ -1,0 +1,39 @@
+The cryptocurrency market has really been tested during the past few weeks following “a cascade of negative news,” the Coin Metrics team notes in its latest report.
+
+The resulting crypto market price crash has also been “a big test” for stablecoins, which are becoming a key part of the blockchain and digital asset ecosystem, the Coin Metrics State of the Network report added.
+
+On May 19, 2021, a “flash crash” led to a liquidation cascade and brought Bitcoin’s (BTC) price from around $39,000 to close to $30,000 during the course of just a few hours, the report revealed while adding that “sudden unexpected” price drops can throw stablecoins “off of their price peg.”
+
+As price continues to drop, investors tend to rush to trade their digital assets into Tether (USDT), USDC, DAI, and other stablecoins, the report explained while noting that at the same time, “liquidation events triggered by falling prices can cause stablecoins being used as collateral to be sold.” This “sudden shift in supply and demand can potentially knock stablecoin prices from their $1 peg, and threaten their stability,” the report added.
+
+The report also mentioned:
+
+“Overall, stablecoins weathered the storm relatively well. Stablecoin prices temporarily spiked following the flash crash. But most stablecoins remained under $1.01, and dropped back below $1.005 within six hours.”
+
+The report continued:
+
+“By comparison, during the March 2020 crash stablecoin prices surged to $1.05 and above, with prices remaining elevated for days afterwards. While DAI was knocked well above its $1 price target during March 2020, it stayed much closer to the peg this time around thanks to several improvements from MakerDAO.”
+
+May 19 was also a record day for stablecoin trading volume, the report revealed while pointing out that Tether (USDT) had more than $70 billion worth of “trusted” trading volume, which is reportedly more than Bitcoin (BTC) and Ethereum (ETH). USDT is regularly used to trade against BTC, ETH, and other digital currencies, which “likely accounts for a bulk of the volume,” the Coin Metrics team noted.
+
+The report added:
+
+“Unsurprisingly, the number of stablecoin transactions also peaked on May 19th at over 1.5 million. A majority of those transactions were due to the Tron version of Tether (USDT_TRX). Tron has minimal transaction fees compared to Ethereum and Bitcoin, which makes it a good candidate for sending relatively small transactions, or for use cases such as transferring funds between exchanges.”
+
+The report also noted that Tether is issued on several different platforms, such as Omni (which has been built on Bitcoin), Ethereum, and Tron. During the past year Tether supply has been shifting towards Tron, which now “accounts for 53% of total Tether supply (across those three platforms),” the report confirmed.
+
+But despite USDT_TRX’s lead in “terms of transaction count and supply,” the Ethereum version of Tether (USDT_ETH) has still had “more transfer value over the last few weeks, which suggests different use cases for the Ethereum and Tron versions of Tether,” the Coin Metrics team noted in their report.
+
+The report added:
+
+“Overall, Tether is still the leader in terms of total stablecoin supply. But others are growing fast. USDC supply has increased by over 6 billion since May 12th, up to a total of over 20 billion. USDC supply has been growing at a faster rate than Tether since the beginning of 2021, and its growth rate has increased significantly over the last month. And with a recent announcement of $440M fundraise for Circle, the company behind USDC, USDC’s momentum should only increase from here. Tether still reigns supreme, but if current trends hold, USDC may soon catch up.”
+
+The report from Coin Metrics also mentioned that the crypto market mostly “moved sideways this past week following the mid-month crash.” The report added that Bitcoin and Ethereum fees both had “a significant dip, dropping 35.2% and 68.3% respectively.”
+
+The report further noted that fees on both networks had “previously surged with a flurry of trading and liquidations surrounding the market crash, so the drop does not come as a surprise.” The report added that during all the market volatility, USDC “continued to rise, with total supply growing by 17.8% week-over-week to a total of over 21B.”
+
+The report added:
+
+“Wrapped BTC (WBTC) on-chain transfer value surged to $2.9B on May 19th, and has averaged over $1B a day since then. WBTC supply has grown to over 181K after dropping to about 108K at the start of the year. Used extensively in DeFi, this likely signals that WBTC is becoming an increasingly important part of the DeFi ecosystem.
+
+The report also mentioned:

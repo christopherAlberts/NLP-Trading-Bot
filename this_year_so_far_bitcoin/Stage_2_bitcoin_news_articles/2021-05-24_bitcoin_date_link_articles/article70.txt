@@ -1,0 +1,29 @@
+A new study has found that Iran now accounts for 4.5 per cent of the world’s bitcoin mining and that the country is using the technology to generate hundreds of millions of dollars in cryptocurrency assets to circumnavigate crippling sanctions imposed by the US and other countries.
+
+Washington has subjected Tehran to economic penalties since the Iranian Revolution of 1979 in opposition to its nuclear programme and its support for groups in the Middle East that the US considers to be terrorist organisations.
+
+In their current form, the sanctions amount to a near-total economic embargo and a ban on all imports, most damagingly from the country’s oil, banking and shipping industries, which has caused the former to plummet by 70 per cent in a decade and inspired recession, unemployment and periodic outbreaks of civil unrest.
+
+>> Follow all the latest updates with The Independent’s live coverage of the crypto market
+
+But the new research from blockchain analytics firm Elliptic suggests that the country has turned to crypto mining as a new lifeline and a means of commodifying its energy potential, which is considerable and relatively inexpensive given that Iran is the world’s biggest producer of natural gas.
+
+Since 2019, the country has recognised bitcoin mining as a lucrative business practice and swiftly established a licensing system requiring miners to pay a higher tariff for their electricity use and to sell their mined bitcoins on to the central bank.
+
+Bitcoin farms have since popped up across the country, including in mosques where electricity is free, allowing Iran to, in effect, indirectly sell its energy assets on global markets and therein bypass trade embargoes.
+
+The bitcoins earned can also be used to pay for imports, allowing miners to sidestep restrictions on carrying out transactions with Iranian banks.
+
+While the exact extent of bitcoin mining in Iran is difficult to measure, Elliptic says its 4.5 per cent figure is based on data collected from miners by the Cambridge Centre for Alternative Finance up to April 2020, as well as statements from Iran’s state-controlled power generation company in January 2021 indicating that up to 600 MW of electricity was being consumed by the sector.
+
+The electricity being used by the miners would require the equivalent of around 10 million barrels of crude oil each year to generate – approximately 4 per cent of total Iranian oil exports last year.
+
+While Iran’s crypto mining operations might currently be worth around $1bn in annualised revenues, they are also placing a major strain on the country’s creaking energy infrastructure network.
+
+To address that, several Chinese firms like RHY and Lubian have reportedly stepped in with fresh investment and established farms of their own in the Rafsanjan Special Economic Zone in the country’s south east.
+
+“We have good local resources in Iran, and we have maintained good relations with the ministry of energy, the ministry of foreign affairs, and even the army in Iran,” the latter said in a statement to 8BTC.
+
+“Financial institutions should consider the sanctions risk they are exposed to due to Iranian bitcoin mining - particularly those that are beginning to offer cryptoasset services,” said Dr Tom Robinson, Elliptic’s co-founder and chief scientist.
+
+“If 4.5 per cent of bitcoin mining is based in Iran, then there is a 4.5 per cent chance that any bitcoin transaction will involve the sender paying a transaction fee to a bitcoin miner in Iran.”

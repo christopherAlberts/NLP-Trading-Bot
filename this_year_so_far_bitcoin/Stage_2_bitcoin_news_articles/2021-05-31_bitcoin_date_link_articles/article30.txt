@@ -1,0 +1,29 @@
+The Human Rights Foundation’s newest grants are funding everything from the Lightning Network activism tech to Arabic translations of Bitcoin content.
+
+The HRF’s Bitcoin Development Fund latest round will allot $210,000 to Bitcoin developers, two Lightning Network wallet teams, and an Arabic translator. In this round, Bitcoin Core contributors Calvin Kim, Dhruv Mehta and Abubakar Nur Kahlil will each receive $50,000; the Breez and Sphinx wallet teams will pick up $25,000 each; and English-Arabic translator Arabic_HODL will receive $10,000.
+
+Kim will use the funding to work on Utreexo, a Bitcoin node scaling project which takes Bitcoin’s transaction history and represents it in under a kilobyte of data, reducing the time and effort it takes to bootstrap the node software that is the backbone of Bitcoin’s network. Mehta will continue his work on Bitcoin’s security with Bitcoin Improvement Proposal 324 to reduce Sybil attack vectors on Bitcoin nodes. Kahlil will be working on a wallet purpose-built for his home country of Nigeria, a land where bitcoin adoption is thriving in response to political corruption and capital controls.
+
+Related: Bitcoin Rejected Near $38K After Two-Day Price Gain
+
+Sphinx Chat, a Lightning Network wallet and encrypted messaging service that allows its users to chat using the Lightning Network, will use its grant to build out a directory to connect their users with activists for humanitarian funding. Breez, another Lightning Network wallet, will use its money to build out its own encrypted chatting capabilities, as well as to improve node backup support and add Tor support for Android and iOS. Arabic _HODL will continue to translate Bitcoin content into Arabic.
+
+Bitcoin development grants continue one year on
+
+
+
+Jaewoo Cho, an assistant professor at Hansung University, and an anonymous cryptocurrency investor, RenoHQ, led the donations for this round, which also included funding from Anthony Pompliano’s Bitcoin Pizza Day sales and Cygni Capital.
+
+Story continues
+
+The Human Rights Foundation joins BitMEX with its support of Kim, while Mehta also receives funding from Gemini and Square Crypto.
+
+With recipients from Korea, Nigeria, the Middle East and elsewhere, this is perhaps the HRF’s most diverse and globe-spanning round to date. The organization began issuing grants to Bitcoin developers, journalists and other community members last year, and it has issued over $800,000 in bitcoin (at today’s exchange rate) for 18 recipients and projects since launching last May.
+
+Related: Bitcoin’s Long-Term Put Options See Sustained Demand as Price Consolidates
+
+Square Crypto, BitMEX, Kraken, Gemini and other Bitcoin and crypto companies have also donated heavily to Bitcoin developers and other community members in the past year. For an open-source ecosystem like Bitcoin, these grants can be a financial lifeline for coders who have historically worked on Bitcoin’s software for free (or, in the best cases, on smaller donations).
+
+Gifts toward future grants can be made at HRF.org/DevFund, while proposals for support can be submitted to dev.fund@hrf.org.
+
+Related Stories

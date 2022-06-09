@@ -1,0 +1,33 @@
+MATIC, the native token of Polygon Network, was gaining the most in a broad-based rally in cryptocurrencies on Monday, as investors look to layer 2 scaling solutions amid continued stress on Ethereum’s network.
+
+Messari data shows the MATIC price has risen by 40% in the past 24 hours, hitting 6.5-week highs above $0.50, for a 25-fold gain on a year-to-date basis. Bitcoin (BTC), the largest cryptocurrency, was up 6% over the past 24 hours, while No. 2 ether surged 10%.
+
+MATIC, now with a market capitalization of more than $2.5 billion, rose about 5% in price last week, defying a sell-off in cryptocurrencies as markets digested the prospects of U.S. President Joe Biden’s proposed capital gains tax hike. If passed, the measure could dampen demand for riskier investment assets, including bitcoin as well as other fast-moving digital assets.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Polygon’s organic growth is powering its price higher, Alex Svanevik, CEO of blockchain data company Nansen, told CoinDesk in a Telegram chat.
+
+“Polygon has seen 10x rise in the number of transactions since the start of the year,” Svanevik said. “That’s a significant increase.”
+
+Matic price chart Source: TradingView
+
+Polygon getting more traction
+
+Record activity on Ethereum has led to network congestion and high transaction costs this year. The dynamic in turn has driven an increase in demand for alternative “smart-contact” blockchain networks, such as Binance Smart Chain (BSC), along with scaling projects like Polygon that provide faster and cheaper transactions using layer 2 sidechains. These are tangential networks running alongside the main Ethereum blockchain.
+
+In recent weeks, Polygon has won increasing adoption, with top names from the world of decentralized finance (DeFi) announcing integration with the layer 2 scaling solution in a bid to bypass congestion and high fees on Ethereum’s network.
+
+“Polygon, the top Ethereum layer 2 is going nuts! Integrations with Aave, Pooltogether, Sushiswap, Open Sea, Curve Finance, Decentraland, and loads of other big #defi applications,” market analyst Lark Davis tweeted Sunday.
+
+The Aave-Polygon integration announced March 31 has already brought over $1 billion in liquidity into Aave protocol, according to a tweet from Polygon co-founder Mihailo Bjelic. Aave was the third-largest DeFi protocol at press time, with $6.33 billion in “total value locked” (TVL), which is the amount of collateral put into the system in exchange for loans or other transactions.
+
+The investor community is cheering the outlook for lower fees resulting from Aave’s decision to adopt Polygon.
+
+“Being able to interact with Aave without worrying about gas fees is a game-changer,” one user tweeted. “Now I understand why Aave is the powerhouse of DeFi.”
+
+Bjelic predicted that other DeFi protocols would see Aave-like growth.
+
+Curve Finance adopted Polygon’s scaling solution earlier this month, saying that Polygon’s high-speed and low-cost infrastructure is the perfect match for its mission to allow for seamless exchange of stablecoins.
+
+“Scaling narrative is accelerating, courtesy of Polygon and its layer-2 aggregator vision,” Denis Vinkourov, head of research at the trading sentiment data provider Trade the Chain, told CoinDesk in a Telegram chat. “The popular saying, ‘Build it, and they will come,’ couldn’t be any more relevant after the likes of Curve and Aave announced support” for Polygon.

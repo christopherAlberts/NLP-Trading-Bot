@@ -1,0 +1,17 @@
+Chia has been hogging a lot of limelight in the crowded cryptocurrency space lately as a 'green' alternative to Bitcoin. Even more so since the billionaire CEO of SpaceX and Tesla, Elon Musk, tweeted last month that cryptocurrencies like Bitcoin are driving up fossil fuel consumption. He revoked Tesla's decision to accept Bitcoin as payment for Tesla cars, which sent many investors looking for digital currencies that are deemed relatively “green”.
+
+Instead of using a computer's processing power to solve complex puzzles such as for Bitcoin mining, Chia miners require more storage space than processing capacity. But this is leading to a whole new problem: a shortage of storage drives in some Asian markets.
+
+As per a recent report, large-capacity hard drives have virtually gone out of stock in Vietnam because Chia miners have gone berserk. People who needed hard drives with 6TB or more space are said to be buying smaller ones and then merging them to do their work done.
+
+Chia is built around a cryptographic technique called ‘proof of space and time', which relies more on unused hard drive space than processing power. The more unused storage on the hard drive, the more Chia can be mined. And since it does not need the processing power of high-end graphic cards that Bitcoin or Ethereum miners do, Chia is said to be much more energy-efficient than Bitcoin.
+
+But Chia's demand is encouraging miners to stock up on as much storage space as possible, which is causing high-capacity SSDs to go out of stock in several markets. It's also driving their prices up.
+
+Recently, hard drive maker Galax warned users — without naming Chia — that mining cryptocurrencies that require excessive volume and speed on storage devices will void the warranty of their SSDs. The increasing demand for hard drives is likely to put a burden on their supplies and eventually push their prices.
+
+Jason Feist at hard drive manufacturer Seagate told the New Scientist magazine that the company is experiencing strong orders and the employees were trying to “adjust to market demand”.
+
+Even if Chia causes less damage to the environment than its rivals, it's not like Bitcoin miners would just switch to mining the new currency. Instead, Chia is likely to become another currency to be mined. So, as far as the benefits of Chia's low energy consumption is concerned, they are still debatable.
+
+This renewed demand for cryptocurrencies in China is being generated at a time when the country has introduced tighter regulations to ban digital currencies. Soon after China's crackdown on cryptocurrency trading as well as Musk's tweets about the high power consumption of cryptocurrency mining, the digital currencies market crashed last month with Bitcoin among the biggest losers. But despite the heavy fluctuations in the price of Bitcoin, and also the price of Ethereum, along with that of other digital currencies, the demand for cryptocurrencies continues to grow with an increasing interest in 'green' alternatives such as Chia.

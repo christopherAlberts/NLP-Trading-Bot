@@ -1,0 +1,27 @@
+OVHcloud told clients to activate their disaster recovery plans following the blaze at a data centre in Strasbourg, eastern France.
+
+PARIS - An overnight fire at French cloud computing company OVHcloud, which this week started the process for a potential IPO, destroyed some servers and forced the temporary shutdown of others, its chairman said on Wednesday.
+
+"Fire destroyed SBG2. A part of SBG1 is destroyed. Firefighters are protecting SBG3. No impact SBG4," founder and chairman Octave Klaba said on Twitter, referring to different units housing servers.
+
+"We don't have access to the site. That is why SBG1, SBG3, SBG4 won’t be restarted today," he added.
+
+The Strasbourg site is one of OVHcloud's 17 data centres in France, out of 32 globally.
+
+The fire risked disruption for some customers.
+
+PR agency Caroline Charles Communication, whose clients include brands such as Thom Browne and Fila in the midst of Paris Fashion Week, said it had lost access to emails.
+
+"We've not lost any data but for now we don't have emails," Caroline Charles told Reuters, adding the company's data was held on a server at another site.
+
+The French government holds national data that is open to the public with OVHcloud. A spokeswoman for an inter-ministerial office for digital services told Reuters that teams were investigating the scale of impact. Its website data.gouv.fr appeared to briefly go down.
+
+Founded by Klaba in 1999, OVHcloud is the biggest European-based cloud services provider, competing against U.S. giants Amazon Web Services, Microsoft's Azure and Google Cloud, which dominate the market.
+
+French politicians have championed OVHcloud as a possible alternative to U.S. cloud services providers, but it has so far lacked the scale and financial clout to dent their market share.
+
+Klaba said the fire had been extinguished and firefighters were spraying the site with water to cool it down.
+
+"The goal is to create a plan to restart, at least SBG3/SBG4, maybe SBG1. To do so, we need to check the network rooms too," he said in an update shortly after 0900 GMT.
+
+(Reporting by Matthieu Protard and Mathieu Rosemain. Writing by Richard Lough. Editing by Louise Heavens and Mark Potter) ((matthieu.protard@thomsonreuters.com; +33-1-49495381;))

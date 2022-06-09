@@ -1,0 +1,83 @@
+It has been a bad week for the crypto space. Elon Musk is widely believed to play a major role in crashing Bitcoin’s price by $12k when he tweeted that Tesla will no longer be accepting Bitcoin. He framed this backtracking as an environmental concern due to the high levels of energy consumption required in Bitcoin mining. As a result, this had a cascading effect on almost all altcoins with very few exceptions.
+
+To set the record straight, it is very difficult to portray Bitcoin as an ecological problem. Not only do miners use renewable sources at a rate over 70% across all continents, but when put into context with other sectors, Musk’s notorious tweet makes even less sense.
+
+Source: Hass McCook Medium
+
+Based on this, The situation has resulted in a number of different ideas floating around as to why Musk made this decision. Some argue that the U.S. government could be the motive behind the move, as BTC could potentially threaten the USD. Remember that Musk has plenty of dealings with the government – subsidies, green credits, and a SpaceX contract. Musk, afterall, is known to leverage nearly $5 billion in government subsidies. This substantial vested interest may have exerted enough pressure for him to abandon and besmirch the predominant cryptocurrency. No doubt, his 54 million followers will remember how corrosive he has become, eroding the wealth of millions. Interestingly, the creator of DOGE, the dog coin Musk has been bizarrely obsessed about for the last half year, had no kind words to share.
+
+In this turmoil, it is noticeable that Bitcoin brought down much of the crypto sector with it, demonstrating once again it's gravitic force on the crypto ecosystem. However, what is also noticeable is that some projects have gone up, and they are all related to smart contracts. Cardano (ADA) is a highly anticipated direct competitor to Ethereum, promising more scalability and smart contracts with the Alonzo upgrade.
+
+See also: How to Buy Ethereum (ETH)
+
+Story continues
+
+Ethereum is fast-closing to its full Proof-of-Stake (PoS) transition with the upcoming London hard fork. Together with Binance Smart Chain and Polygon (Matic), they have all outperformed Bitcoin during the last month, in terms of percentage price gains when paired with USD.
+
+Matic vs Ada vs ETH vs BTC performance (source: TradingView)
+
+Although the current crypto downturn is significant, it bears exploring what this shift in trends means for the relationship between Ethereum and Bitcoin. More precisely, is it likely that Ethereum and Bitcoin will switch places? In other words, are we about to see the “flippening”?
+
+Ethereum and Bitcoin Complement Each Other
+
+If one were to describe the two largest cryptocurrencies by market cap – Bitcoin and Ethereum – the former is the guardian of wealth while the latter is a utility juggernaut. Bitcoin’s own utility is quite limited in scope. It can serve as a payment method, but it has instead become a store of value, with Bitcoin Cash (BCH) and Litecoin (LTC) taking the lead as more suitable crypto payment methods.
+
+As you can see on the chart below, out of the four cryptocurrencies, Bitcoin and Ethereum are aberrations in terms of average transaction fees.
+
+BTC vs ETH vs LTC vs BCH transaction fees (source: bitinfocharts.com)
+
+Outside of being more popular, Bitcoin owes this drastically higher transaction fee, compared to BCH and LTC, to its block size of only 1 MB. This design decision cleared the way for the phenomenon of Bitcoin “hodling”, making it a digital asset akin to gold that draws its value as a hedge against inflation.
+
+On the other hand, Ethereum’s 76% higher fee than even Bitcoin should be a thing of the past by the year’s end. Ethereum is slowly progressing from the less scalable Proof-of-Work consensus toward Proof-of-Stake, leaving behind congestion and enormous transaction fees. This transition did not come free of cost.
+
+Binance Smart Chain stepped in to fill the congestion gap, achieving 600% more daily transactions than Ethereum during the same period. Such a surge in popularity from a direct competitor speaks of the treasure Ethereum holds – smart contracts. In contrast to Bitcoin, Ethereum’s blockchain is highly flexible, able to store auto-executable contracts within its data blocks. All those exorbitantly expensive NFTs that paraded across news headlines this year were mostly hosted on Ethereum.
+
+Likewise, lending and borrowing protocols – Uniswap, Maker, Aave, Compound, and dozens of others – accumulated $75.6 billion in total value locked (TVL).
+
+These DeFi dApps demonstrate on a daily basis that they can replace much of the existing banking infrastructure, which brings us to the key value propositions Bitcoin and Ethereum play:
+
+To borrow a metaphor from the world’s most popular office app, think of Bitcoin as an Excel spreadsheet. This secured and distributed record tracks the number of Bitcoins in each cell.
+
+Ethereum has the ability to do the same and beyond. Instead of just recording the number of crypto coins in each cell, Ethereum can build macros that interact with formulas among other cells.
+
+However, the cost of Ethereum’s greater flexibility is vulnerability. While there hasn’t yet been a documented instance of Bitcoin’s blockchain getting compromised, the same cannot be said of the protocols built on top of every blockchain—and Ethereum has a lot of those. Flash loan attacks are the most common attack when it comes to Ethereum’s smart contracts, incurring great losses.
+
+We have yet to see how Cardano performs when it unrolls its smart contract capability. This leaves Bitcoin in a special position that is not likely to be unseated. Together with its deflationary mechanism, limited coin supply, and incredibly strong network security, Bitcoin represents a peace of mind that no smart contract-enabled blockchain has yet to achieve.
+
+Ethereum Is Entering Bullish Territory
+
+With BSC getting six times the traffic of Ethereum, one has to ask which one is likely to be The programmable blockchain. While Ethereum’s ongoing ETH 2.0 upgrade and still-high fees leave it wide open to competition, it has powerful winds behind its sails to eventually win the smart contract wars:
+
+Ethereum holds (by far) the largest pool of developers, according to Electric Capital. As a number of open source dev ops tools are available to make remote work easier through collaboration, managing developers remains a serious cog in DeFi development. Yet Ethereum and its developer community have thus far been dominant in this sense.
+
+In the last three years, Ethereum has widened its developer pool by 215%. Such a network effect would be exceedingly difficult to overcome.
+
+Ethereum is far more decentralized compared to BSC, by magnitudes of degree – there are 21 validators on BSC compared to over 70,000 on Ethereum.
+
+Ethereum continues to hit record low ETH token supply on exchanges, indicating that BSC popularity is transitory.
+
+In other words, all those ETH hodlers are just waiting for Ethereum’s 2.0 transition to proof-of-stake to finalize.
+
+DeFi smart contracts hold almost twice as much locked ETH than centralized exchanges do, once again indicating high demand for Ethereum’s smart contract service.
+
+Alongside BSC, Polkadot, Cardano, Near Protocol, and Solana are Ethereum’s top competitors, all of which have also grown substantially. Nonetheless, Ethereum has another trick up its sleeve – Polygon (MATIC). Until the ETH 2.0 upgrade completes, Matic is there to remove the congestion as a multichain scaling solution. Simply put, Polygon makes cheaper transactions possible by using Ethereum’s sidechains, which are called Layer 2 solutions.
+
+Suffice to say, Polygon has become tremendously successful in facilitating this goal. As people try to flee high fees, Sushiswap, the competitor to Ethereum’s most popular protocol – Uniswap – managed to accrue over $350 million in TVL since it announced it will launch on Polygon. A couple of days ago, the sum increased to half a billion.
+
+Overall, the Polygon network is currently lagging behind Uniswap by one rank, with $5.78 billion TVL compared to Uniswap’s $7.13 billion. As far as investments go, this makes the network’s native token - MATIC - enter into the 100x investment range.
+
+(Source: TradingView)
+
+Interestingly, one of the trending searches related to Dogecoin (DOGE) is – “will DOGE ever reach one dollar?”. Once again, the contrast between DOGE and MATIC demonstrates that fundamentals always trounce meme hype (DOGE) over the long haul.
+
+Ethereum Is Poised to Go Up, but Not Over Bitcoin
+
+No matter how much Ethereum is viewed as the infrastructure for digital finance, it still remains untested, with a history of smart contract hacks. While not all of this is directly Ethereum’s fault, it still affects Ethereum. On the other hand however, this cannot be said of Bitcoin. It may not be as exciting as facilitating dApps, but Bitcoin’s draw as safeguarding wealth cannot be over underestimated.
+
+Moreover, Bitcoin is inherently deflationary, unlike Ethereum which relies on high demand to outpace inflation. This demand may bring it to a new ATH this year, but not in the Bitcoin range. As far as Bitcoin’s carbon footprint goes, this is largely a matter of perception.
+
+Given the activity on social media, that perception is turning against Elon Musk. After all, the data is already clear that most Bitcoin miners use clean energy. In turn, this data is also clear to those who absolutely trounced Musk on Twitter, including the owner of Twitter himself – Jack Dorsey.
+
+See more from Benzinga
+
+© 2021 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.

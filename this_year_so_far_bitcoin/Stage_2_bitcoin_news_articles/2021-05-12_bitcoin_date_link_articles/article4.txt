@@ -1,0 +1,41 @@
+Bitcoin is expensive. Too expensive, according to Mike Novogratz. People are being put off by its high price. To attract smaller savers, exchanges should switch to quoting in satoshi:
+
+Satoshis are bitcoin’s equivalent of cents, except there are far more of them. Just as one dollar is made up of 100 cents, so one bitcoin is made up of 100 million satoshis. This is defined in the Bitcoin system’s original code.
+
+In Bitcoin’s early days, when the bitcoin currency was only worth a few cents, no one bothered with satoshis. But now that bitcoins trade at $58,000, most people can’t afford to buy a whole bitcoin. Even those who can might not want to because bitcoin’s notorious volatility means they could lose much of their investment.
+
+Bitcoin’s success as a store of value has been a double-edged sword. It has enriched early adopters, but in the process it has raised the barriers to entry by so much that late entrants – who tend to be younger and poorer – are finding it increasingly hard to buy in. Just like real estate, bitcoin is becoming a high-yield asset for older and richer people.
+
+Frances Coppola, a CoinDesk columnist, is a freelance writer and speaker on banking, finance and economics. Her book, “The Case for People’s Quantitative Easing,” explains how modern money creation and quantitative easing work, and advocates “helicopter money” to help economies out of recession.
+
+But, unlike real estate, you don’t have to buy a whole bitcoin. Increasingly, people are buying fractions of bitcoin – and fractions of bitcoin can be quoted as multiples of satoshi. People who “stack sats” (make regular small purchases to build up a holding) already talk in terms of sats rather than bitcoin. Instead of buying 0.02 bitcoin, they buy 2 million sats. How many sats have you bought today?
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+So there’s good reason to consider switching to satoshi as the unit of account. Quoting in satoshi rather than bitcoin could help convince people who don’t have a great deal of money that bitcoin can still be for them despite its high price. Sats can become the savings vehicle of choice for ordinary people who want a safer and higher-yielding place for their money than bank deposit accounts.
+
+Are there enough sats for everyone to have some? In theory, yes. The world’s population is just under 8 billion. 18.5m bitcoins have already been mined, so there are 1.85 trillion sats theoretically in existence. That’s about 231 thousand for every person on the planet. On this basis, therefore, everyone can indeed save in sats.
+
+Of course, it’s not quite that simple. Of the 18.5 million mined so far, an estimated 20% are lost or otherwise irrecoverable, and a further 10 million or so are never traded. That leaves only about 4.2 million bitcoin available for purchase, either whole or subdivided. So, let’s redo the math with the number of bitcoins actually available for purchase. Instead of 1.85 trillion satoshis, there are only 0.4 trillion available for purchase. That’s about 50,000 sats per person.
+
+And this is where the limits of subdivisibility come into play. Just because something can be divided into very small pieces doesn’t mean it is practical to do so. I might be able to slice a pizza down to atomic level, but doing so wouldn’t solve world hunger because humans need a certain amount of food to live.
+
+Similarly, there are practical limits to how much bitcoin can be subdivided; 50,000 sats per person is not enough for everyone in the world to save in sats. And sats wouldn’t be distributed equally among small savers anyway. Realistically, people who have more money will be able to buy more sats, and this will drive up the price, pricing out those with the least money to invest. So sats can’t be the sole saving vehicle for ordinary people.
+
+There’s another limit, too, which starts to bite much more quickly than the sats supply limit. That limit is transaction fees.
+
+As demand for bitcoin increases, network traffic also increases, and this raises the average transaction fee. People who are buying or selling small amounts of bitcoin, and therefore don’t want to pay high fees, have to wait longer for their transactions to settle – if they ever settle at all. Higher transaction fees effectively price smaller transactions out of the market. For people with not much in the way of spare U.S. dollars, this can be a huge barrier to investing in bitcoin.
+
+These limits to subdivisibility raise profound questions about the nature of bitcoin.
+
+Transaction fees are already a considerable obstacle to very small investors. At bitcoin’s price of about $58,000 (at the time of writing), 50,000 sats are worth less than $29. Bitcoin’s average transaction fee is about $22 at the time of writing and has been as high as $60. So 50,000 sats would be a very expensive purchase. Furthermore, holdings smaller than this can’t be sold, because the holder doesn’t own enough bitcoin to pay the transaction fee. They are known as “dust.” The higher the average transaction fee rises, the more dust accumulates in the Bitcoin ecosystem.
+
+Layer 2 solutions aim to resolve the “dust” problem by taking small transactions off-chain. But I do wonder why the savings and transactions of ordinary people apparently don’t need the same anonymity, security and immutability as those of the rich. Surely we should be protecting the wealth of ordinary people who can’t afford to lose money, not the wealth of big whales for whom losses are a flea bite?
+
+These limits to subdivisibility raise profound questions about the nature of bitcoin. What exactly does the community want it to be? Do they want it to be a reserve asset underpinning a new international payments system similar to the gold standards of the past, or do they want it to be the preferred safe savings vehicle of ordinary people?
+
+This is essentially the same dilemma the Bitcoin community faced in the “blocksize wars” of 2015-2017. Then, the argument was over whether bitcoin should accommodate the world’s transactions, or whether it should simply be the base layer underpinning a new generation of transaction systems. Those who wanted it to be a base layer won the wars, but didn’t resolve the fundamental dilemma. That has now re-emerged in the form of an argument about whether bitcoin should accommodate the world’s savings.
+
+Subdividing into sats will resolve this dilemma for a while. But if Bitcoin continues on the path set in the outcome of the “blocksize wars,” then transaction fees will eventually be far too high for ordinary people to save significantly in sats. So Bitcoin will need layer 2 solutions not just for transactions, but for savings. New products that can provide the security needed by people who can’t afford to lose money.
+
+The crypto world is a hugely creative and innovative place. I am confident there can be a solution to this dilemma. I just hope it will be one that works in the best interests of the poor.

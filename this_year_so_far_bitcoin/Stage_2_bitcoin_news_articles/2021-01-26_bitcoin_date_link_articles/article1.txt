@@ -1,0 +1,47 @@
+Bitcoin’s price dropped as much as 10% during early trading hours on Tuesday as bitcoin miners started selling a large amount of the cryptocurrency for the first time since October. There is not enough demand to absorb the additional coins on the market because institutions want an idea of how the new Biden Administration will view bitcoin and other cryptocurrencies.
+
+At the press time, bitcoin was trading at $32,254.59, down 3.04% in the past 24 hours, according to CoinDesk’s BPI. The price went as low as nearly $30,000 after markets opened in the U.S. on Tuesday.
+
+Miners selling
+
+Bitcoin miners’ position index, a ratio of the number of bitcoin leaving all miners’ wallets to that number’s one-year moving average, reached an eight-year high last week and is still above 2.0, according to data from on-chain analytics firm CryptoQuant. Any value above 2.0 indicates that most miners are selling.
+
+Bitcoin miners’ position index Source: CryptoQuant
+
+Miners appear to have been selling in order to meet some of their operational costs.
+
+“For the first time in a while, it appears miners sold some fairly substantial holdings to raise cash as we expected on a rally after October,” Neil Van Huis, director of sales and institutional trading at Blockfills, told CoinDesk. “With a need to allocate capital to more (and newer) mining rigs, taking bitcoin off of their balance sheet for cash at three or four times higher prices 30-60 days after the wet season ended in China was about the best scenario [miners] could’ve asked for.”
+
+Not enough buyers
+
+While miners continue selling bitcoin, it seems there aren’t enough buyers, especially from the institutional investors, to meet the sell side.
+
+The “Coinbase premium,” the gap between Coinbase’s BTC/USD pair and Binance’s BTC/USDT pair involving the tether stablecoin, has not shown strong or consistent numbers above $50 after it went negative last week, according to data from CryptoQuant.
+
+Coinbase premium Source: CryptoQuant
+
+When this metric goes above $50, it usually indicates stronger spot buying pressure from Coinbase, CryptoQuant Chief Executive Ki Young Ju told CoinDesk. And when there are no USD spot inflows, the premium goes down.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Meanwhile, all stablecoins reserved on all exchanges hit a new all-time high on CryptoQuant’ tracker. This, coupled with no U.S. dollar spot inflows, means the current market is predominantly driven by crypto natives such as crypto hedge funds and market makers. Such market participants are more comfortable with buying and selling bitcoin with stablecoins, Ki said.
+
+“If there’s no spot USD inflows, no more bull runs,” Ki added.
+
+Institutions wait and see
+
+Institutions are pressing the pause button on their bitcoin purchases partly because many are trying to get a read from the new Biden administration’s attitude towards crypto-related policies and regulations. Negative comments on cryptocurrencies from new Treasury Secretary Janet Yellen have raised some worries around possible added controls over the crypto markets.
+
+Institutions “are still trying to gauge where this administration would be on crypto and if it won’t be too negative, meaning that the fear of aggressive regulations or flat-out bans would be lifted, then I think we would see a new wave of institutions coming into the space,” Guy Hirsch, U.S. managing director for multi-asset brokerage eToro, told CoinDesk.
+
+Fear of the Wall Street Beats Redditors
+
+Some retail traders are hoping what happened with GameStop Corp.’s volatile stock rally this week isn’t repeated with bitcoin. In GameStop’s case, “a band of Redditors and Discord users squeezed the life out of their GameStop shorts by quadrupling share prices,” Adam James, senior editor at OKEx Insights, the research arm of crypto exchange OKEx, said.
+
+He added, “The realization that the legacy markets might not be what they used to be in the new stay-at-home paradigm [could] be affecting the bitcoin and cryptocurrency market, though I wouldn’t exactly say they are bearish for the crypto markets.”
+
+That said, some traders and analysts have remained positive on the markets despite the short-term market volatility.
+
+“With bitcoin being unable to reclaim [previous] highs, some are losing faith,” Bendik Norheim Schei, head of research at the Norwegian cryptocurrency analysis firm Arcane Research, told CoinDesk. “That is probably something they will regret later this year. Bitcoin is volatile, that’s part of the game with a new and emerging asset.”
+
+Chris Thomas, head of digital asset at Swissquote, told CoinDesk his company saw a support level setting at around $30,000, a level previously received “decent” support from buyers.

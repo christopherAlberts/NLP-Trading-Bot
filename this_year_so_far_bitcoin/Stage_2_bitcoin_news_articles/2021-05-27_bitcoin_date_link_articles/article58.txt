@@ -1,0 +1,15 @@
+There are major concerns around the energy consumed by cryptocurrencies. Elon Musk and Bill Gates have warned about it in the past and on Wednesday, Iran banned mining of cryptocurrencies such as Bitcoin for nearly 4 months, after the country faced regular blackouts. If the concerns persist, there will be changes around these popular digital coins are formed and Ethereum is first to act.
+
+Ethereum creator Vitalik Buterin has confirmed that the crypto will go through a complete overhaul this year which will reduce the energy consumption by almost 99 per cent and make Ethereum 2.0 more environment friendly than Bitcoin.
+
+Buterin aims to achieve this by switching Ethereum from the existing Proof Of Work (PoW) system to Proof Of Stake (PoS) system. He said that the step has become important because of how crypto and Ethereum have grown in the last few years. Most cryptocurrencies were on an upward trajectory in the last 12 months before a major dip happened mid-May.
+
+“I’m definitely very happy that one of the biggest problems of blockchain will go away when proof of stake is complete,” Buterin said.
+
+The change in systems is expected to reduce the costs of buying and running powerful computing systems. The Ethereum 2.0 upgrade has been broken into three stages The Beacon Chain, The Merge and third stage to introduce sharding. The first stage is already live and involves staking of ETH to enable a validator software. The second stage will involve the migration of current system to the new system. It is expected to be over by the end of this year.
+
+The third stage will introduce the process of sharding which will divide the database horizontally and spread it across to reduce network load. It is expected to start next year. “With shard chains, validators only need to store/run data for the shard they’re validating, not the entire network (like what happens today),” says Ethereum.
+
+The growing popularity of cryptocurrencies has put them under spotlight for the environmental concerns around them. Iran decided to ban mining because of the large-scale power outages in the capital Tehran and other areas that occur every day.
+
+Earlier this month, Elon Musk and Tesla had announced that the car making company will not accept Bitcoin payments because of this cryptocurrency’s environmental concerns. Microsoft founder Bill Gates had also criticised Bitcoin mining for using more electricity per transaction than any other method known to mankind.

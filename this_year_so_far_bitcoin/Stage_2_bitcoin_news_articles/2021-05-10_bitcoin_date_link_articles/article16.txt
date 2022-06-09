@@ -1,0 +1,55 @@
+Image Credit: Viktoriia Hnatiuk/Shutterstock.com
+
+Bitcoin and non-fungible tokens (NFTs) are the digital equivalents of cash and collectibles. Their value has recently risen dramatically, but the electricity needed to mine them is more than is used by entire countries and results in huge volumes of carbon emissions. At a time when many countries are targeting zero emissions, bitcoin and NFTs represent a real threat to the environment.
+
+What’s Bitcoin?
+
+Bitcoin is a cryptocurrency, a decentralized digital currency that bypasses a central bank, and can be sent from user to user on the peer-to-peer bitcoin network. Transactions are evidenced through cryptography and documented in a publicly distributed ledger called a blockchain.
+
+The currency is created as a reward for mining – using computers to solve complex mathematical algorithms. Its finite - around 18.5 million of the 21 million bitcoins available have already been mined.
+
+At first, average computers could solve the algorithms, but as the puzzles got harder – a consequence of greater mining - they could not keep up. Special computers with huge processing power are required and these need a lot of electricity - around 121 terawatts annually, equivalent to the annual carbon footprint of Argentina.
+
+The New Collectible
+
+NFTs are digital collectibles stamped with a unique string of code and stored in blockchain. They allow you to buy or sell ownership of unique digital items and track who owns them. They have risen to prominence recently, fetching huge sums at auction as bidders pay for digital works such as Twitter CEO Jack Dorsey’s first-ever Tweet.
+
+When you upload a digital piece and ‘mint’ it, it becomes mineable. Just like bitcoin, powerful computers are used to solve complex puzzles, using lots of energy in the process.
+
+The platform of choice is Ethereum, the second-largest cryptocurrency after bitcoin, which uses ‘proof of work’ to create digital assets; whoever solves the puzzle first gets the asset added to their blockchain.
+
+The Emission Problem
+
+Both bitcoin and NFTs generate huge volumes of carbon emissions. A single transaction of bitcoin for example, has the same carbon footprint as 680,000 Visa transactions or bingeing YouTube for 51,210 hours. Creating the average NFT will generate around 200 kg of carbon, the equivalent of driving 500 miles in the average petrol-powered car.
+
+The issue of CO 2 emissions was first raised in 2009 by computer scientist Hal Finney just two weeks after receiving his first bitcoin transaction, but it did not really hit home until a major price rally hiked up energy requirements in 2017. This is projected to get worse - the more the price of bitcoin or NFTs increases, the more competition there is and the more energy it consumes.
+
+The computer power needed to mine bitcoin quadrupled between 2018 and 2019 – but where does this vast amount of electricity come from? It could be argued that we are increasingly using renewable sources, and research from the University of Cambridge suggests that 76% of miners used electricity from renewables in 2020.
+
+But there is no way of knowing where miners get their electricity from; it is hard to track as rigs often move to where the cheap energy is, and in countries such as China, the biggest miner of bitcoin, there is a lack of cheap renewable energy.
+
+Why Bitcoin is so bad for the planet Play
+
+Video Credit: Guardian News/YouTube.com
+
+A Simple Trade-off?
+
+Bitcoin and NFTs are the secure, digital-analog of money and collectibles, but they are expensive to maintain. Critics argue that mining is also a huge waste of resources that displaces real people’s need for electricity while also influencing prices in the power and utility markets.
+
+Advocates argue that progress comes at a price, but should that be at the expense of the environment? Ethereum’s creators promise to switch their algorithm from a ‘proof of work’ to a ‘proof of stake’ model to make mining more environmentally friendly.
+
+Instead of competing, miners will be rewarded based on how much cryptocurrency they own. By locking up some of their cryptocurrency in the network, miners prove they have a ‘stake’ in keeping the blockchain accurate, negating the need for computers to solve the complex algorithms. Cutting down the computational work means slashing emissions.
+
+But if they do not make the transition to more environmentally friendly mining methods and to using renewable energy, it is predicted investors and consumers will look to other cryptocurrencies that do.
+
+References and Further Reading
+
+Aratani, L. (2021) Electricity needed to mine bitcoin is more than used by 'entire countries', The Guardian: https://www.theguardian.com/technology/2021/feb/27/bitcoin-mining-electricity-use-environmental-impact. Accessed 7 May 2021.
+
+Cuthbertson, A. (2021) How bad is bitcoin for the environment really?, The Independent: https://www.independent.co.uk/climate-change/news/bitcoin-environment-mining-energy-cryptocurrency-b1819545.html. Accessed 7 May 2021.
+
+Tabuchi, H. (2021) NFTs are shaking up the art world. They may be warming the planet, too, The Seattle Times: https://www.seattletimes.com/business/technology/nfts-are-shaking-up-the-art-world-they-may-be-warming-the-planet-too/. Accessed 7 May 2021.
+
+Calma, J. (2021) The climate controversy swirling around NFTs, The Verge: https://www.theverge.com/2021/3/15/22328203/nft-cryptoart-ethereum-blockchain-climate-change. Accessed 7 May 2021.
+
+Disclaimer: The views expressed here are those of the author expressed in their private capacity and do not necessarily represent the views of AZoM.com Limited T/A AZoNetwork the owner and operator of this website. This disclaimer forms part of the Terms and conditions of use of this website.

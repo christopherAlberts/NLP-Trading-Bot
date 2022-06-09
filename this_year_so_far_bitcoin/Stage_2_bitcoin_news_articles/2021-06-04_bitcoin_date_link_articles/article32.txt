@@ -1,0 +1,31 @@
+If something isn't useful to you, why not ban it for everyone? Due to the recent ransomware attacks on Colonial Pipeline and JBS, a major meatpacking company, there have been renewed calls for a ban on bitcoin and other cryptocurrencies. On the left, Matthew Yglesias tweeted that he was "leaning toward the view that cryptocurrency is a huge positive technology shock to the crime sector and we should be trying to get rid of it." On the right, Lee Reiners, the executive director of the Global Financial Markets Center at Duke University, wrote in The Wall Street Journal that "it isn't obvious that cryptocurrency provides any benefit at all beyond the chance to make a quick buck." And broadly, some have called for a bitcoin ban due to the amount of energy that is used in the mining process behind the digital cash system.
+
+But the anti-bitcoin commentary omits important context. In short, ransomware improves the incentives for companies, governments, and individuals to better secure their computer networks. Bitcoin mining may improve the economics of renewable energy sources. A neutral form of digital money could do a lot of good for the world, and we should never throw away a new technology just because it can be used by everyone, including the Four Horsemen of the Infocalypse.
+
+But the biggest omission of all is that cryptocurrencies really can be useful for everyday people.
+
+So, here's a reminder of the good things about bitcoin at a time when many are attacking it for simply existing.
+
+Cryptocurrencies Protect Holders Against Inflation and Monetary Manipulation
+
+One of the main problems with centrally-issued currencies throughout history is that it's difficult for authorities to resist the temptation to create value out of thin air. Well-known examples of inflationary collapses include the Weimar Republic in the early 1920s and, more recently, Zimbabwe in the late 2000s. The problem persists today in places like Venezuela and Sudan. Even the U.S. dollar punishes savers through inflation over the long term.
+
+Due to the inflation-related issues inherent to centrally-issued currencies, some of the greatest economic thinkers in history have theorized about the potential value of a monetary system outside of human control. Milton Friedman's K-Percent Rule would increase the supply of a central bank–issued currency by a fixed percent every year. John Nash wrote about a theoretical form of "Ideal Money" to stabilize fiat currencies.
+
+Bitcoin is the global, neutral money many have wondered about in the past. The monetary policy was "set in stone" by Satoshi Nakamoto back in January 2009 when the network was launched. There will only ever be 21 million bitcoins, and the rate at which the supply is issued is known in advance.
+
+Some will say that gold fulfills the role of a neutral store of value, but the failures of gold are why bitcoin had to be created in the first place. While the supply of gold is managed in a decentralized manner, its physical properties make it less useful as money. In the past, this meant counterparty risk had to be introduced by replacing gold bars with paper certificates, which led to the risk of banks issuing more certificates than they had gold. In the digital age, gold's failures are even more apparent, as the gold certificates are replaced with digital ledgers that allow governments to easily spy on all financial activity and seize assets from whomever they please.
+
+Cryptocurrencies Protect Users From Government Busybodies
+
+The surveillance issues found with gold are also found under a fiat currency standard. Banks are forced to keep records of all their customers' transactions, and if the Biden administration has its way, there will be more IRS employees looking through those records in the near future. Digital fiat currencies also introduce an additional issue for savers where it becomes much easier to enforce negative interest rate policies.
+
+A key point rarely considered by people who are appalled that bitcoin might be used by terrorists and other criminals is that the logical conclusion of their argument is a world where almost every financial transaction is tracked by the government. It's like the encryption debate, but for money instead of communication.
+
+Yes, it's true that bitcoin still has a lot of work to do when it comes to actually providing privacy to its users. But the point is that the network's resistance to government censorship is the foundation that makes it possible to eventually build anonymous digital cash systems (perhaps something like the Lightning Network) that cannot be shut down by governments.
+
+Cryptocurrency Transactions Are Speech
+
+What few people realize is that a ban on bitcoin would effectively be a ban on a specific type of speech. From a technical perspective, the way someone makes a transaction on the bitcoin network is by cryptographically signing a message and then broadcasting that message over the internet. As beaten down as the Constitution has become over the years, free speech is still a cornerstone. If it comes to it, maybe bitcoin users can print their transactions on T-shirts and take selfies while wearing them in order to make payments.
+
+Whenever people try to restrict or ban cryptocurrencies, I'm reminded of what Union Square Ventures co-founder Fred Wilson said during a hearing on virtual currencies all the way back in 2013: "It's about freedom, ultimately, and whether you want to live in a society that embraces innovation, free speech, and freedom or not."

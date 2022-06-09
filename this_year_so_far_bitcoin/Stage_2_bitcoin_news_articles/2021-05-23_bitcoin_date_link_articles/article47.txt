@@ -1,0 +1,27 @@
+Iran Is Using Bitcoin Mining to Circumvent Sanctions, According to Elliptic
+
+Iran is using Bitcoin mining to circumvent and lessen the effect of the economic sanctions that the U.S. and other countries have applied to the country since 2006, according to a new study by Elliptic, a blockchain analytics and financial crime compliance firm. The country is indirectly using bitcoin mining to export part of its energy reserves, whose exports are being hampered by the said sanctions.
+
+Report: Iran Is Using Bitcoin Mining to Circumvent Sanctions
+
+Iran is leveraging bitcoin (BTC) as a tool to circumvent and lessen the impact of the harsh sanctions that the country is facing, according to a new study from Elliptic, a blockchain crime analysis firm. The investigation, which estimates Iran houses 4.5% of all the bitcoin hashrate in the world, states that the country is using bitcoin indirectly to export its energy reserves.
+
+Iran is one of the few countries with abundant oil reserves in the world. However, its capacity to export and use these has been severely limited due to the almost total embargo on oil exports that the U.S. has exerted over the country during the last decade. This has made the government turn to bitcoin mining, as one potential tool for transforming its energy potential into a product the country can profit from.
+
+Seemingly, it has worked. Iran’s aging electric structure has had problems handling the load that mining puts on it. The electric tariffs are pretty cheap, a fact that has fueled the cryptocurrency mining craze. Elliptic’s report state that Chinese mining companies have been attracted by this fact, and have even partnered with the military to bring their facilities to the country in a safe way.
+
+But how exactly is Iran using Bitcoin to sidestep its limitations? As part of a globalized economy, Iran is effectively getting its energy reserves out to the world by using its oil to produce electricity that is turned into bitcoin through the action of miners in Iran. In this way, Iran is getting an indirect exposure of its oil reserves through potential bitcoin buyers and users.
+
+The Transactional Risks
+
+While Iran and Iran-based miners are benefiting from this, the report also raises important alerts about compliance, while using the Bitcoin (BTC) network to transact. Elliptic states that any institutions and individuals sending bitcoin could be breaking these international sanctions. The report states:
+
+There is a… chance that any bitcoin transaction will involve the sender paying a transaction fee to a bitcoin miner in Iran. Financial institutions should also be on the lookout for crypto deposits originating from Iranian miners that are seeking to cash out their earnings.
+
+There are a number of initiatives that are seeking to thwart this potential illegal activity down. Marathon, a bitcoin mining company based in North America, launched the first OFAC compliant bitcoin mining pool recently, which is now mining only compliant transactions. Other similar initiatives might come in the future due to the institutionalization of BTC as an asset class, that is now fueling institutions to shield themselves from carrying these illegal actions unknowingly.
+
+What do you think about Elliptic’s last report? Tell us in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

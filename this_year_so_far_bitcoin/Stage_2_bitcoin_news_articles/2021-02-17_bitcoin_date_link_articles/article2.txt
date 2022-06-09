@@ -1,0 +1,77 @@
+Bitcoin broke above $52,000 Wednesday, with a market capitalization nearing $1 trillion.
+
+Bitcoin (BTC) trading around $52,231.69 as of 21:00 UTC (4 p.m. ET). Gaining 7.16% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $48,430.80-$52,536.47 (CoinDesk 20)
+
+BTC trades above its 10-hour and 50-hour averages on the hourly chart, a bullish signal for market technicians.
+
+Bitcoin trading on Bitstamp since Feb. 15. Source: TradingView
+
+Bitcoin trading volume on major exchanges. Source: CoinDesk
+
+Bitcoin is in “uncharted territory,” said Hunain Naseer, senior editor at OKEx Insights, after its price surged to a new all-time high above $52,000, only a day after it passed the key psychological threshold of $50,000.
+
+Price volatility remains high when compared with major macro assets including the Standard & Poor’s 500 Index of stocks, gold and bonds.
+
+Source: CoinDesk Research, St. Louis Fed, Yahoo Finance
+
+“We can expect some consolidation between $50,000 and $52,000, with a possible retest of the $49,000 support,” Naseer added.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+One bullish signal: a large amount of stablecoin reserves on cryptocurrency exchanges, according to data from South Korea-based crypto data firm CryptoQuant. That could show traders moving stablecoins into place so they can buy quickly if the price is right.
+
+“So many stablecoins in exchanges” compared with bitcoin held on exchanges, Ki Young Ju, CEO of CryptoQuant, told CoinDesk, pointing out that selling pressure is relatively low.
+
+The ratio of bitcoin reserved on all exchanges and all stablecoin held on all exchanges has declined since the beginning of the year. Source: CryptoQuant
+
+In the derivatives market, bitcoin futures on the Chicago-based CME logged a record high single-day trading volume and total interest on Tuesday, according to data from blockchain analytics site Skew. The elevated activity could be an indicator of rising bitcoin demand from institutional investors.
+
+Source: Skew
+
+Institutional interest in bitcoin is also reflected in another market indicator called the Coinbase premium, a measurement of the price difference between Coinbase Pro’s BTC/USD pair and Binance’s BTC/USDT pair, said CryptoQuant’s Ki. The number flipped positive on Wednesday.
+
+“Coinbase [U.S. dollar] whales are like gatekeepers” of the bull market, Ki said of investors with large holdings.
+
+Ether consolidates, institutional interest in futures rises
+
+Ether (ETH), the second-largest cryptocurrency by market capitalization, was up Wednesday, trading around $1,828.15 and climbing 4.45% in 24 hours as of 21:00 UTC (4:00 p.m. ET).
+
+On the technical side, ether is in a consolidation phase after losing short-term momentum, according to Katie Stockton, a technical analyst for Fairlead Strategies.
+
+“I view the consolidation as healthy within the context of its steep uptrend,” Stockton said. “The 20-day moving average at $1,556 is a gauge of initial support.”
+
+Ether’s correlation with bitcoin has been flat this month at around 0.68, after it moved down to as low as 0.55 in January.
+
+“As long as bitcoin stays above $49,000 we can expect a rally in the altcoins, including ether,” OKEx Insights’ Naseer said. “But that will only happen when bitcoin’s volatility drops a little.”
+
+Source: CoinDesk
+
+At the same time, institutional interest in ether futures has grown significantly, according to data provided by blockchain analytics firm Glassnode.
+
+Source: Glassnode
+
+“One week after ether futures launched on CME, daily trading volume reached a total of $75.8 million yesterday – almost doubling Friday’s volume of $40 million,” Glassnode wrote in a tweet Wednesday. “Meanwhile, open interest has increased to $62 million.”
+
+The launch of the CME’s new ether futures contract last week might be one reason why ether’s price has underperformed, said trader and analyst Alex Kruger.
+
+“Ether is a high beta asset to bitcoin, and it is supposed to move in line,” Kruger said. “Sometimes its own set of technical and or fundamental drivers kick in and make price trajectories or performance differences.”
+
+Other markets
+
+Digital assets on the CoinDesk 20 are mostly in green Wednesday. Notable winners as of 21:00 UTC (4:00 p.m. ET):
+
+Notable losers:
+
+Equities:
+
+Commodities:
+
+Oil was up 0.37%. Price per barrel of West Texas Intermediate crude: $61.22.
+
+Gold was in the red 1.09% and at $1775.03 as of press time.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield fell Wednesday dipping to 1.286%.

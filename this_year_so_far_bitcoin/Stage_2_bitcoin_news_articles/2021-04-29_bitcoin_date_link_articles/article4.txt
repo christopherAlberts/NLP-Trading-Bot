@@ -1,0 +1,35 @@
+Ether (ETH), the native cryptocurrency of the Ethereum blockchain and the second-biggest overall, reached a fresh record high early Wednesday, widening its lead over market leader bitcoin (BTC).
+
+The trend looks set to continue, with ETH/BTC (the ether-bitcoin price ratio) breaking out to a multi-year high in a sign of increased capital flow into ether.
+
+Ether rose to $2,800, surpassing the peak price of $2,762 reached Wednesday, according to CoinDesk 20 data.
+
+The cryptocurrency has rallied by 43% so far this month, decoupling from bitcoin, down 7%. The ETH/BTC ratio has jumped to 2.5-year highs above 0.050, confirming a major bullish breakout on technical charts.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+“ETH/BTC has broken out after a multi-year consolidation, and the trend looks very strong,” Pankaj Balani, co-founder and CEO of the Singapore-based Delta Exchange, said. “There are no further resistances here, and we expect to see ETH/BTC push through 0.10 eventually.”
+
+The implication is the ongoing capital rotation out of bitcoin and into ether is likely to continue over the coming months.
+
+ETH/BTC weekly chart showing bullish breakout Source: TradingView
+
+A report earlier this week from digital-asset manager CoinShares showed ether funds and investment products drew $34 million last week, while bitcoin funds lost $21 million.
+
+“The demand is shifting,” Meltem Demirors, chief strategy officer at CoinShares, told CNBC earlier this week, adding that capital is moving from one asset to another.
+
+Raoul Pal, CEO and co-founder of Real Vision Group, also foresees continued ether outperformance.
+
+“At this point in the risk cycle, and with Ethereum 2.0 coming (cheaper fees and less supply), I’m struggling to not sell all my BTC and move my entire core position to ETH,” Pal tweeted earlier this month. “To be clear – I’m a massive BTC bull, but I think ETH is the better asset allocation for performance right now.”
+
+Developers expect the Ethreum 2.0 upgrade or the switch to a proof-of-stake consensus mechanism by the end of this year or early next year. After that, Ethereum founder Vitalik Butrin plans to implement a “sharding” upgrade in a bid to expand Ethereum’s capacity to process transactions by splitting its database into 64 mini-blockchains. That may bring down transaction fees, bringing more network activity and stronger demand for ether.
+
+While the path of least resistance for ETH/BTC appears to be on the higher side, it may not be smooth sailing, said Stack Funds’ head of research, Lennard Neo.
+
+“The breakout seen on the weekly chart is quite significant as the next resistance dates back to May 2018 at the 0.09 value,” Neo said. “ETH/BTC may re-test former hurdle-turned-support at 0.04-0.045 before further gains unfold.”
+
+A potential bull market correction in bitcoin, the top cryptocurrency by market value, cannot be ruled out and will likely lead to a temporary pullback in ETH/BTC. That’s because a bitcoin drop usually yields bigger drawdowns in ether and other alternative cryptocurrencies.
+
+Bitcoin’s bounce from recent lows near $48,000 has stalled near $55,000, and buyers are refusing to step in despite the U.S. Federal Reserve keeping to its pro-easing stance on Wednesday.
+
+The weekly chart MACD histogram, an indicator used to gauge trend strength and trend changes, has crossed below zero, indicating a bearish reversal for the first time since March 2020.

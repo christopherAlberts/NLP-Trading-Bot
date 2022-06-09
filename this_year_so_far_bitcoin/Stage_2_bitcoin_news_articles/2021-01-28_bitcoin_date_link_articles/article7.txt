@@ -1,0 +1,83 @@
+Iran is trying to make crypto mining a source of income for the state, while cracking down on miners.
+
+Iran, hit hard by international sanctions, lost revenue supplied by oil exports. Crypto might be a way to get some extra cash, so Iran has been toughening its grip on miners at home in an effort to better control this revenue stream. Since last year, Iran has also opened new opportunities for foreign mining firms.
+
+Iran is a notable player on the bitcoin mining market, and during 2020 it contributed almost 4% of the global bitcoin hashpower, according to research by the University of Cambridge.
+
+But Iran’s relationship with miners is best described as complicated.
+
+On the one hand, Iran clearly sees crypto mining as a way to generate income for the state. Iran began requiring miners to register with the country’s Ministry of Industry, Mines and Trade and pay a higher tariff on electricity than retail or industrial users last year.
+
+But Iran has also blamed bitcoin miners for recent power outages. Just this month, Iranian authorities reportedly shut down 1,620 unregistered mining farms and confiscated 45,000 mining devices.
+
+CoinDesk takes a deep dive into Iranian mining.
+
+Lights out
+
+In January, Iran experienced a number of power outages. The authorities blamed the outages on bitcoin miners and went for a sweeping attack on miners, big and small.
+
+Ziya Sadr, Iranian bitcoin advocate and blogger, insists that mining has nothing to do with outages and instead blames government mismanagement of the electricity grids. “They shut down miners, but we still have blackouts. So guess what? It’s nothing to do with the miners!” Sadr told CoinDesk.
+
+To be sure, the government has said miners only consume 2% of Iran’s electricity, according to the Associated Press.
+
+But the Iranian government has also claimed miners have made the country’s power grid “unstable” since 2019, Radio Free Europe reported. The publication cited Iran’s deputy energy minister, who said some mining farms were based in “schools and mosques” that receive electricity for free.
+
+Iranian journalist Ehsan Norouzi wrote in 2019 that the list of entities running mining operations on free electricity might actually be much bigger: the country’s elite armed forces, the Islamic Revolutionary Guard Corps, control a broad network of religious schools, mosques and other entities that get electricity for free.
+
+There is no proof all of them are mining crypto, Norouzi told CoinDesk via a call, but “if there is free electricity there will be a market for it,” he said. Back in 2019, Iranians were sharing photos on social networks of at least one mining farm in a mosque. The government asked the mullahs to declare fatwas against stealing electricity.
+
+Chinese investors
+
+Among the victims of the latest blackout-related shutdowns is a mining company that recently opened a big farm in one of the country’s special economic zones.
+
+On Jan. 14, a couple days after a nation-wide power outage, Iranian authorities temporarily shut down a mining farm in Rafsanjan, Kerman province, citing the excessive burden on the power grid. The data center was certified by the authorities, according to the local new outlet Mehr News, but was taken offline “in order to manage [power] consumption in the current situation.”
+
+The farm is operated by the Iran and China Investment Development Group. The organization’s website does not mention crypto mining, only saying that Iranian and Chinese investors are building a joint 1 million terabyte datacenter in the Rafsanjan special economic zone. The idea that the Chinese crypto miners were to blame for the blackout quickly spread on Twitter, prompting some anti-China sentiment, The Diplomat reported.
+
+The Chinese investor is a company called RHY, according to Omid Alavi, head of Vira Miners, and Ziya Sadr. Two Iranian miners who wanted to stay anonymous also told CoinDesk that it was RHY’s farm that was shut down.
+
+RHY boasts multiple mining sites, including some in the Middle East, without specifying where. On its website, RHY posted a video titled “175 MW Mine,” showing several hangars filled with ASICs. A car briefly appearing in the video has a license plate with Farsi lettering and a flag resembling the Iranian one.
+
+According to the electricity bill, translated by The Diplomat, the mining farm consumed a little short of 60 megawatt of power during one month. BBC Persian reported a similar capacity for the farm in Rafsanjan.
+
+RHY does not share the company’s contact information on its website, and a customer service chat operator declined to connect CoinDesk to RHY management or a PR representative. The operator also declined to discuss the firm’s Iran business. A request for comment sent via RHY’s Facebook page went unanswered.
+
+The Rafsanjan farm shut down because after Iran introduced the new rules for miners, the electricity tariff went up sharply, Alavi believes.
+
+“The Chinese came two years ago and they were looking for cheap electricity,” Alavi said. “They found some place in Kerman and started building a big farm. At that time, the Iranian government didn’t have any regulation in crypto, and they [the Chinese company] used the industrial tariff. After one year, the government started regulation and changed the tariff, so the company had to pay new bills.”
+
+An Iranian Telegram channel dedicated to miners’ issues with authorities mentioned the story in a Jan. 14 post, writing that “any foreign investor will run away after seeing the treatment of the Chinese investor in Rafsanjan.”
+
+The channel also posted a letter of Mohammad Hassan Ranjbar, chairman of the Board of Directors of Iran-China Investment Development Group. According to Ranjbar, the mining farm in Rafsanjan had been paying 4,000 rials per kilowatt, which is a high price.
+
+“China is currently the only country that can invest in Iran due to sanctions,” Ranjbar said in that statement, also quoted by Aljazeera. “It is both rich and has technology, so we can help each other to invest and build more projects. But we can also send them away from Iran and become completely isolated and alone in the world.”
+
+Foreign guests
+
+RHY was not the only Chinese mining company in Iran – an array of firms have been active in the country for a couple of years. In August 2019, miner Liu Feng told the Chinese crypto media outlet 8btc he moved 3,000 of his ASICs to Iran to take advantage of the country’s cheap electricity, $0.006 per kilowatt-hour.
+
+In August 2020, Chinese mining pool Lubian also told 8btc about building a mining farm in Iran. Lubian broke into the bitcoin hashrate competition last spring right after the latest bitcoin halving, immediately becoming one of the leading mining pools.
+
+Talking to 8btc, Lubian co-founder Liu Ping said the mining pool established a good rapport with Iranian authorities.
+
+“We have our own customs clearance channels as we have the experience of establishing the logistics company. And we have good local resources in Iran, and we have maintained good relations with the Ministry of Energy, the Ministry of Foreign Affairs and even the army in Iran,” he said.
+
+It’s not only Chinese miners that are tapping into Iran’s energy market: In April 2020, Turkish mining firm iMiner reportedly received a license for a 6,000-ASIC farm in the city of Semnan.
+
+Dmytro Ziablov, CEO of Ukrainian mining company BeeMiner, told CoinDesk the company is running a 2-megawatt mining facility in Iran and is planning to expand to 70 megawatts later this year. BeeMiner received hosting requests from Chinese companies, including Huobi Pool, Ziablov said: “The Chinese government gets not that friendly to the miners from time to time, so [miners are] interested in finding new places to mine.”
+
+In addition to the Chinese miners, Turkish and UAE companies are also coming to Iran, Ziablov said. Asked if it was difficult to get the farm licensed in Iran, he said the process took 2.5 months. “It’s hard, but with some persistence, connections and resources it’s feasible,” he added. He said he didn’t know why the Chinese farm in Rafsanjan had to shut down.
+
+Domestic challenges
+
+In the meantime, for small-scale domestic miners the situation has been tough in recent years, according to one long-time miner who talked to CoinDesk anonymously.
+
+Basir (not his real name) told CoinDesk he started mining seven years ago, but three years ago, the authorities took notice. In May 2018, police came to Basir’s house, he said, telling him they suspect he owned an unlicensed gun. Then they saw the ASICs. First, the police thought the machines were “a spy server,” but then the cyber police figured out what they were dealing with.
+
+According to him, Basir spent one week in jail, was charged with having illegal income and money laundering and had to pay a bail that basically swept out his family’s wealth. CoinDesk could not independently verify the details of Basir’s account.
+
+“I sold the house, I sold the car, I sold the graphic cards [that were in my] warehouse at the low price, gold and savings. All was destroyed,” he said. “My luxury life turned into a poor life.”
+
+Last year, the Iranian government issued a directive that all mining facilities in Iran must register with the government. The owners must disclose their identities, the size of their farms and what kinds of ASICs they are using. The government has also raised the electricity tariff from 482 rials to 1,930 for kilowatt per hour (in U.S. dollars, from 0.1 cent to 4.6 cents).
+
+According to the Ministry of Energy, there are currently 24 officially registered mining farms in Iran, consuming 310 megawatt of power.

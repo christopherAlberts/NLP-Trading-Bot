@@ -1,0 +1,21 @@
+It's been nearly four months since I took a look at two of the more popular ways for investors to get some skin in the Bitcoin (CRYPTO:BTC) game through traditional stock brokerages. I'm not talking about Bitcoin miners, crypto exchanges, and the many other companies that stand to benefit from wider adoption of digital currencies as either investments or transaction settlers.
+
+Grayscale Bitcoin Trust (OTC:GBTC) and Osprey Bitcoin Trust (OTC:OBTC) are two U.S. exchange-traded trusts that only own Bitcoin. Grayscale Bitcoin Trust is much larger, entering this new week with $24.3 billion in assets under management. Osprey's entry hit the market in mid-February, and it currently manages nearly $104 million in assets. Let's kick the tires to see which one -- if any -- is worth buying right now.
+
+Token of your affection
+
+Comparing a pair of exchange-traded funds often leads one to pit one investment over the other in terms of management and performance, but these are passive investments concentrated in a single cryptocurrency. The bigger sticking points in this debate should be fees and discounts to Net Asset Value (or NAV).
+
+When it comes to fees, Osprey Bitcoin Trust is the clear winner. It charges an annual fee of 0.49% -- less than a fourth of Grayscale's 2% bite. These fees are taken out over the course of the year from the assets, so the actual Bitcoin per share owned by Grayscale Bitcoin Trust investors is shrinking four times as fast as Osprey Bitcoin Trust.
+
+If both funds were trading at NAV this would seem to be a fairly easy decision. There are economies of scale that may benefit the larger Grayscale. In terms of management Grayscale is a pioneer in crypto, but it's not as if Osprey is green in this space. It is backed by experts who have invested in Bitcoin since 2013, launching more than 100 exchange-traded products to date.
+
+However, the reason crypto exposure-seeking investors will want to choose Grayscale Bitcoin Trust today is that it offers far more bang for your buck than the alternative. Grayscale Bitcoin Trust once traded at a lofty premium to its stash of crypto, but it has been largely trading at a discount since February. Shares of the trust may have closed out last week at $30.91, but that was a 12% discount to the $35.06 in Bitcoin represented by every share.
+
+Osprey Bitcoin Trust hit the market in February when cryptocurrency mania was raging. Near the end of that month -- when I was initially pitting one against the other -- it was trading at a 152% premium. In other words, investors were paying nearly $40 a share for a trust that owned a little more than $15 in crypto.
+
+The math is kinder these days. As investor enthusiasm has waned for Bitcoin we've seen the premium for Osprey's trust decline sharply. It closed at $14 on Friday, just a 12% premium to its $12.54 in NAV.
+
+Choosing Grayscale over Osprey back in late February was the right call. Bitcoin would go on to climb for a few weeks before correcting sharply since April, but the discount in the former helped it weather the sell-off better than the latter with a ridiculous premium. Grayscale's 28% decline in that time isn't pleasant, but it's a far better fate than the 65% plunge for Osprey Bitcoin Trust investors.
+
+I'm no longer bearish on Osprey Bitcoin Trust. Exposure to the world's most valuable denomination for cryptocurrency in a vehicle with just 0.49% in annual fees is better than the 1.5% commission that many of the leading platforms to buy tokens directly will charge you for the purchase. If the premium continues to narrow I may even turn bullish. It's a no-brainer if it reaches a discount. However, right now Grayscale Bitcoin Trust at a 12% discount is the better buy. A difference of 149 basis points in annual fees is huge, but that's no match for a roughly 2,400 gap in basis points between the discounts and premiums of the two vehicles. If you're looking to invest in cryptocurrency -- and want to go through your traditional stock broker -- Grayscale Bitcoin Trust is a smart way to do it at its current discount.

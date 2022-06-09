@@ -1,0 +1,157 @@
+If you’re reading this, you’ve most likely read other articles regarding how “bad” Bitcoin (BTC) has become for the environment. But really, how much worse is it than traditional banking/fiat? And can we do better? (Hint: the answer is yes.)
+
+Editors Note: “For transparency – the PIVX project is community run and managed – by a DAO (Decentralized autonomous organization). This is not an endorsement of DAOs which can behave very differently.”
+
+Here’s what we’re going to cover and discuss:
+
+How much energy does it take to mine Bitcoin?
+
+How much energy is needed to support banking as you use it today?
+
+We’re also going to introduce you to PIVX, a financial data protection-centric coin that uses millions of percent less energy to maintain the global network than either of these.
+
+What are the corresponding carbon emission rates for all three?
+
+Growing up in the suburbs north of Seattle, I recall my grandfather telling me, “… there’s no such thing as free money.” Like most anything worthwhile in this world, there’s a cost associated with “things,” even if you don’t see it. While cryptocurrency investors, specifically those with an eye for Bitcoin, continue to purchase the coin at all-time-high prices, some prefer to mine their coins, which costs nothing more than setting up an expensive computer for a few hundred (or thousands).
+
+And while most people work for their hard-earned money, have you ever thought about what it takes to produce, manage, and store that money? Specifically, what are the electrical needs for all of that infrastructure?
+
+This article is broken down into two parts:
+
+First , we’re going to talk about the non-technical aspects of what it takes to produce Bitcoin, manage fiat (regular money as we know it), and create PIVX (a user-privacy protecting cryptocurrency project). Then, if you’re still up for it,
+
+, we’re going to talk about the non-technical aspects of what it takes to produce Bitcoin, manage fiat (regular money as we know it), and create PIVX (a user-privacy protecting cryptocurrency project). Then, if you’re still up for it, Continue reading the second part, where we look at the numbers to produce the outcomes for part one and the environmental impacts (as measured by CO2 emissions).
+
+Some of the information in the second part is redundant but necessary for the point. It’s almost like a money-centric “choose your adventure.”
+
+Where We Are, In Short
+
+As noted in the opening, there’s little love for the electricity used by Bitcoin. And while the media’s focus is on Bitcoin, the same issues could be said of all Proof of Work projects (like Ethereum or Litecoin) in general. You need only do your own research (DYOR) on the subject to see the outcry.
+
+Here’s the first thing you may see if you search it,
+
+“Mining” for the cryptocurrency is power-hungry, involving heavy computer calculations to verify transactions. Cambridge researchers say it consumes around 121.36 terawatt-hours (TWh) a year – and is unlikely to fall unless the value of the currency slumps.
+
+Of note is the amount of electricity it takes right now, over 121 terawatt-hours per year. To put that little number in perspective for you, where I live, that’ll cost you US$290,400,000,000,000 at $0.10 per Watt-hour for of mining. Mining is expensive, no doubt. It gets worse, though.
+
+Unless you’re living off the grid and storing your cash in your mattress (I applaud you if you are), you’re probably using a bank to manage or keep your money. I do. It’s part of life as we know it. However, in doing so, I, too, am part of a problem. A problem that far exceeds any issues we may have with Bitcoin’s power issues.
+
+The global banking system, as of a 2018 study, used more than 140 terawatt-hours per year (Figure 1). I need not run the math on this one, it’s safe to say it’s worse, if not much worse, than Bitcoin et al. And that’s just the energy required to keep the “digital” side of the system afloat. You can begin to easily tack on more terawatt-hours per year when you consider the energy needed to create the paper or coin elements of currency, shipping, transportation, and the like. The question you need to ask yourself is, why doesn’t anyone talk about this?
+
+The answer is pretty easy to comprehend. The status quo is to put your money into the banking system. It’s a thing that ordinary people do. Many of these same people also question Bitcoin (and cryptocurrency writ large) as unnecessary because we have banks. And while this may sound like a cop-out answer, the truth is, until your average grandmother can buy/obtain, store, and use cryptocurrency as they do with their bank, the status quo shall remain.
+
+To further complicate the environmental aspect of this is a recent report published by the Rainforest Action Network. Within you’ll find that from 2015 through today, 60 of the world’s largest banks have poured nearly $4 trillion into the fossil fuel industry. This only exacerbated the very issues we’re trying to solve.
+
+The thing that Bitcoin (or the dream of bitcoin, or cryptocurrencies at large) provides is an unparalleled opportunity for humanity to redefine and alter the fundamental framework of money itself. For the first time in known history, we possess the ability to jumpstart a renaissance of local digital currency systems, social coordination, and programmable money and assets. This is indeed something incredible unto itself, and you might argue, worth the energy demands. While certainly, Bitcoin opened that door, it’s time we went through it and deeper into what is truly possible with distributed ledger technology and cryptocurrencies that could benefit the earth’s environment (our home) as well as our pockets.
+
+Enter PIVX
+
+I liken PIVX to what banks strive to be but can’t. A system where a user has total control over their money. Don’t want anyone to know how much money you have in the bank? With PIVX, you can do that. Want to send an undisclosed amount of money to your sister? You can do that too; you can protect the data about where the money comes from, where it’s going, and how much is moved. Need to pay a bill using a system that conforms to government anti-money laundering laws (think wire transfers)? PIVX can do that too.
+
+All of this can be done from your desktop computer today (and soon from your phone). Oh, wait, did I mention that running the entire global network only costs $630k in annual energy costs (Figure 2). Even better, PIVX’s global network is 465 million times less expensive to run than Bitcoin’s. That, my friends, is a lot of saved energy.
+
+Now, one argument might be put forward about PIVX in that its current transactional volume is a fraction of Bitcoins, and this is why it has a lower energy cost than Bitcoin. If PIVX was a proof of work cryptocurrency (like Bitcoin), this might be true. However, the beautiful nature of PIVX is that it can continue to scale to meet a rising transactional volume demand, with minimal (if no) change in its energy consumption. How is this possible? The PIVX network does not demand or require energy demanding computational devices to try and out compete other nodes in the network. Instead, low-powered, globally distributed nodes all CONTRIBUTE and COOPERATE together to validate, secure, and protect the network. Thus, if PIVX was processing the same amount of transactions as Bitcoin today, the power use and cost would barely move.
+
+I should also note that I calculated the numbers for PIVX based on the average desktop computer’s energy consumption. However, the nodes can be run on a microcomputer (e.g. Raspberry Pi); given a mix of 50/50 regular and microcomputers, this annual cost drops to $41 million/annually. If they were all Raspberry Pi computers, that number would only be $4.8 million/annually. You can’t mine Bitcoin or run the world’s banking system on a Raspberry Pi, but you can maintain the PIVX network while being your own bank (Oh, and you can earn more PIVX just by saving your $PIVX in your wallet… No, I’m not kidding).
+
+I’m pretty confident that the point’s made for the everyday person: it takes a significant amount of electricity to maintain the global financial system, and not much less to mine Bitcoin. While a single BTC is worth a considerable amount today, it doesn’t offer much bang for the creation buck.
+
+While Bitcoin is the grandfather of the cryptocurrency world (thank you, BTC), we can do better. Today, it’s hard to argue that PIVX isn’t that answer. The team behind the project is ever-evolving the protocols. While I dare not say they’re working to future-proof it, it’s pretty damn close.
+
+Part 2
+
+The Cost of Bitcoin
+
+Specific to BTC, while a mining setup can be expensive for an individual, it can pale compared to the long-term cost to run the said machine. According to CryptoCompare, it costs about $1,577 a year for a single device to mine 0.08600 of a single Bitcoin. Given that, it’ll cost a single machine $18,337 to mint a single Bitcoin. However, the more likely scenario here is that it will take about 12 devices running 24/7 to complete the task in a year.
+
+While you may think this isn’t too bad of a profit, and it’s not at first blush, the issue arises when you factor in farms. These are operations that run hundreds or even thousands of high-end machines. The largest farm can mine about 600 Bitcoins a month. In a year, that single farm will spend $132,026,400 in electricity to mine approximately 7,200 Bitcoin (with a current worth of $353 million). This is only one operation, and there are hundreds of such farms around the world.
+
+The cost in energy, converted to actual energy used to mint Bitcoins worldwide, is now more than entire countries (and has been for years). A paper on InterestingEngineering notes,
+
+“Cambridge researchers say cryptocurrency “mining” for Bitcoin — which uses heavy computer calculations to verify transactions — consumes around 121.36 terawatt-hours (TWh) a year.
+
+“Using an analysis tool that generates energy estimates for cryptocurrencies, the team of researchers ranked Bitcoin’s electricity consumption above Argentina (121 TWh), the Netherlands (108.8 TWh), and the United Arab Emirates (113.20 TWh) — and they say it is close to reaching the consumption levels of Norway (122.20 TWh).”
+
+Another estimate shows this consumption as low as 39.3 TWh in January of 2021. Either way, this paper cites that it costs roughly $1 million per day to mine Bitcoin. Ouch.
+
+Here’s yet another perspective on the issue. This 2014 paper on the global electrical costs of Bitcoin shows calculation that it took 3 gigawatts of power, the same as Ireland’s entire national usage. Earlier this year (2021), Bitcoin energy usage surpassed that of Argentina too.
+
+As we’ve already been using terawatts, a conversion from 3 gigawatts is 0.003 terawatts. Thus, from 2014 to 2020/21 the global usage of electricity for mining Bitcoin has risen by over 1,000,000% to 4,000,000% (((121.36 – 0.003) / (0.003)) x 100)) depending on which calculation you take for today’s amount. The point is, the cost isn’t going to decrease any time soon.
+
+There is a growing trend among the Bitcoin community who mine to seek alternative energy use methods. Thus while still a massive consumer of energy, Bitcoin appears to have a trend of pushing energy usage into a cleaner production sector.
+
+The Cost Of Fiat & Banking
+
+Fiat is anything declared by a government to be legal tender. In most cases, it’s paper/coins printed by said government. To better define fiat, it’s something that you or I can give the government to either pay off debt or pay taxes. You can’t do either of these (directly) with cryptocurrency (yet). However, if the city government of Miami, Florida, gets its way, cryptocurrency will soon be an option for paying bills.
+
+With that noted, have you ever wondered how much it costs to make money used as fiat? I hadn’t, really, until writing this. I did, however, know that it cost more than $0.01 to make a penny. Let’s learn!
+
+I originally went into writing about how much it costs to produce the same amount of US dollars as a single Bitcoin. However, I don’t have the patience to wait for a redacted copy of government records which can take months to get.
+
+Instead, let’s look at this as a global issue, which indeed, it is. In short, Bitcoin pales in comparison to how much it costs to produce and manage banknotes.
+
+In a 2018 article, it was estimated that the global banking industry uses around 140 TWh of power annually to maintain their physical locations (buildings), servers, ATMs, etc. Another report, this one from 2014, notes that it took 5 TWh of electricity and 2.6 billion (with a “b”) gallons of water annually to produce banknotes (don’t forget the paper, ink, linen, etc.). (Figure 1).
+
+So, if we want to compare some elements, Bitcoin is currently a less energy-consuming alternative to traditional banks. Traditional banks have the bloat and burden of this “physical” item (notes, dollars, coins, paper, etc.) that consume untold amounts of energy, PLUS the digital infrastructure required for a “modern” age. Bitcoin (in cutting out the middleman as it were) is a less energy-consuming alternative, albeit it’s still a massive energy hog.
+
+The Cost of PIV
+
+While Bitcoin and fiat (regular money) are well known worldwide, I’m here to bring something new into your lives: PIVX. These four letters stand for Protected Instant Verified Transaction (X).
+
+Through the years, using cryptocurrency has been compared to being one’s own bank, to a degree. If your money is in a bank, you want your funds to be secure and private. There is no reason for people to know how much money one might have in the bank. PIVX can do this and more. The best part of all, it’s no more difficult to obtain/convert funds into PIVX than it is for Bitcoin, Ethereum, or Cardano.
+
+If you’re interested, read up on the project or visit the team on Discord and ask direct questions.
+
+First things first, let’s discuss the energy impact of PIVX. Where Bitcoin uses a coin minting standard called Proof of Work (PoW) (surmised above as energy inefficient as it takes a lot of energy to solve the required math), PIVX uses a standard called Proof of Stake (PoS). And it’s much more energy-efficient. Using PoS reduces the energy needed to mint new coins and maintain the network’s node integrity.
+
+Where PoW coins, such as Bitcoin, require specialized computers to make it worthwhile, the PoS method used with PIVX allows node owners to use nearly any computer. Yes, even a Raspberry Pi.
+
+Given that I want to showcase how little energy it takes to run a PIVX node and its underlying network, I’m using the Raspberry Pi (RPi) 4 for the example. At a published rate using 15.3W, the RPi is indeed a cost-conscious computer. I run four in my house as various servers. However, we’ll assume it’s a standard RPi with no extra wiz-bang items attached for use as a node. Where I live, north of Seattle, the power company charges a little more than 10 cents per kilowatt-hour (kWh). If the machine is powered 24/7 (it is), it will roughly use 0.37 kWh/day to the tune of 135 kWh/year. At ~10 cents per kWh, I’m spending $13.41 annually.
+
+To keep this somewhat accurate, let’s say nodes will also be regular PCs. Doctor Google gives an average watt-hour of 200 for a desktop computer. Annual power usage would be 1,753 kWh/year and an operating cost of $175.32.
+
+We have known numbers of a particular type of node on the PIVX system today: 1,812. What’s unknown is the number of nodes not running as masternodes. For argument’s sake, let’s assume there are another 1812 nodes. Keeping this fair, we’ll turn those 3,624 nodes’ energy consumption of 6,352,872 kWh/year cost (number of nodes multiplied by the PCs kWh/annual) to TWh (terawatts), as used for Bitcoin and banks above (Figure 3). I’m also rounding because when you’re talking about such a small number (yes, 6.3 million kWh is minor), the math gets funky. However, for argument’s sake, 1 million kWh equates to 0.001 TWh. So, we’ll just round to 0.0063 TWh.
+
+As a side note, and as you’ve decided to read into the numbers, I also want to highlight the cold staking functionality of PIVX’s wallets. You can delegate your PIVX coins while still holding on to your keys (I stake mine from my Ledger Nano), and you’ll still receive your staking rewards. It’s just another method allowing you to remain in control of your money. Essentially, this means you don’t have to have your wallet/node/computer running 24/7 to reap the benefits of the system.
+
+A comparison of the three (Figure 1).
+
+Fiat banking: 140+ TWh annually (2018) to run physical locations,
+
+Bitcoin Mining: 39.3 – 121.36 TWh annually (2021),
+
+PIVX: 0.0063 TWh annually (2021), 50/50 RPi/PC is 0.0035 TWh annually, All RPi is 0.00049 TWh annually.
+
+
+
+Conceptually, this might be hard to grasp. So let’s expand on this a bit further. The average American home consumes 11,000 kWh/year of energy. Using our calculations from above, that means that the legacy banking ecosystem consumes the power equivalency to that of more than 14 million homes. Bitcoin? Not much better. It consumes power equivalent to more than 11 million homes.
+
+Where does PIVX come in on its energy use? Just 53 homes worth (Figure 4). That’s a single neighborhood in some places. That means, for the power it takes to energize 53 homes, you can have a network that can do everything (and more) than Bitcoin. By design, PIVX is faster, more efficient, rewards anyone who participates, and, best of all, preserves and protects your financial data.
+
+Environmental Impact & Significance
+
+So what does this mean for the environment and the planet that we live on?
+
+Well, the current banking ecosystem is atrocious for the environment. The energy used is immense, resulting in 132,580,000,000 lbs of CO2 every year (60 million Metric Tons of CO2). That’s roughly 1% of the TOTAL CO2 emissions in the USA annually.
+
+How about Bitcoin? The energy it requires results in 114,587,000,000 lbs of CO2 every year (52 million Metric Tons of CO2). Again, that’s still roughly 1% of the TOTAL CO2 emission in the USA annually. Not that much better than cash.
+
+So how does PIVX fare then? Well, the energy PIVX requires results in 5,966,100 lbs of CO2 every year (2,706 Metric Tons of CO2). That’s roughly 0.00005% of the CO2 emission in the USA. It’s not nothing, however. But for a system that can support a global financial ecosystem, well, now we’re talking efficiency and environmentally friendly. (Figure 5 & Figure 6).
+
+PIVX has already delivered a web-based wallet accessible via any browser (even mobile). Soon, this wallet will also permit offline (or “cold-staking”), meaning anyone, anywhere in the world with a phone capable of accessing the internet, can participate in the PIVX ecosystem, transact, and earn.
+
+Wrapping Up
+
+We’re just a group of people who are conscious of power choices (more so now). What we hope we’ve been able to share with you is how expensive and power-hungry money is. We have a choice, and given the nature of money, it’s always going to be a personal choice (until the government says otherwise)—time to make yours.
+
+If you have any questions or burning desires to learn more, I suggest you check out PIVX’s and Bitcoin’s official sites as a starting point.
+
+Authors: Ryan Erickson, ryan@erickson.pm and Bryan Doreian, bryan@pivx.org
+
+Footnotes:
+
+1) https://www.techradar.com/best/mining-rigs & https://www.benzinga.com/money/how-much-does-it-cost-to-mine-cryptocurrency/ (viewed on 6 March 2021)
+
+2) https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php
+
+3 & 4) https://www.epa.gov/ghgemissions/overview-greenhouse-gases#carbon-dioxide

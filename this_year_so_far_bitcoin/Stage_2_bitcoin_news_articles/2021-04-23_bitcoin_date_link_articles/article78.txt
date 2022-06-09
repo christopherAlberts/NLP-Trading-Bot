@@ -1,0 +1,73 @@
+Money performs three social functions simultaneously. First, it is an asset, a vehicle for storing value, empowering savings. Second, money is currency, a medium to exchange value, enabling consumption. And third, money acts as a unit of account (e.g. credits and debits), a way to keep track.
+
+For as long as anyone can remember, those three roles have been bundled together. The development of crypto markets and financial technology, however, are unbundling those functions, creating new instruments that perform a single role rather than all three simultaneously. In turn, that alleviates trade-offs faced by money-issuers, expanding the possibilities for monetary policy.
+
+To illuminate the unbundling process, let’s look at three recent case studies with key lessons for central bankers who are exploring digital currencies: 1) Bitcoin’s hard fork; 2) China’s DCEP experiments; and 3) the evolution of DeFi on the Ethereum network.
+
+Ben Falk is an Insights Director at EYQ, EY’s global think tank, focusing at the intersection of technology, finance, public policy, and macroeconomy.
+
+Case Study #1 – Money-as-asset: Bagehot’s Dictum Drives a Hard Fork
+
+Bitcoin’s evolution resulting in the 2017 “hard fork” of the network illustrates this unbundling. The term crypto-“currency” is a misnomer applied to Bitcoin, whose architecture and governance make it better suited to store value rather than exchange it. With a fixed token supply, and released in declining quantities on a fixed schedule, Bitcoin creates incentives to hoard tokens. The resulting artificial scarcity makes the token price highly volatile.
+
+Volatility is undesirable in a currency (and unit of account), and as a result, the adoption of Bitcoin as a means of payment has been slow. Scarcity, however, is an attractive feature in an asset and indeed most interest in Bitcoin is speculative with new demand from private investors, including retail, institutional asset managers and hedge funds.
+
+Thus, Bitcoin-as-currency suffered from what technologists call poor product/market fit. The misalignment between the design of the architecture and the targeted application created conflicts among Bitcoin constituencies. Some members of the network sought to increase token supply or to raise the block size limit, making Bitcoin better suited for exchange purposes but at the cost of undermining Bitcoin’s role as an asset. No compromise was reached, and so a breakaway sub-network “hard forked” by duplicating the blockchain to create “Bitcoin Cash.”
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Central bankers might recognize the trade-off driving that conflict as the same one surmised in Bagehot’s Dictum. Because money performs multiple functions, issuers trade off satisfying demand for exchanging value with demand for storing value. This feature of money in a simple macroeconomic model generates business cycle fluctuations, as rising uncertainty gives people the incentive to hoard cash.
+
+But where central banks rely on Bagehot’s rule of thumb, the Bitcoin network devised an alternative technical solution by unbundling money’s dual functions. The hard fork created a second, entirely different token targeting the more specific role of money (exchanging value) demanded by a more narrowly defined user base.
+
+That highlights a key lesson technology founders and venture capitalists have known for some time. The design of the token must be aligned to the purpose of the instrument. Product/market fit comes from a deep understanding of user perspectives, and many rely on “design thinking” to drive innovation with that principle in mind.
+
+Further, the experience demonstrates the expanded policy possibilities created by emerging technologies. Freed from the constraints of the physical cash world, central bankers have a wider range of options to pursue their objectives, including, but not limited to, deeply negative interest rates.
+
+Some instruments even target specific liquidity motives; for example Ripple satisfies a preference for international liquidity by relying on a design that sacrifices decentralization to instantly transfer and settle cross-country balances at scale. Similarly, Z-cash leverages a decentralized architecture alongside zero-knowledge proofs to target a privacy motive. The design maximizes user privacy without sacrificing market transparency, helping to alleviate the trade-off between the two objectives.
+
+Combining emerging technologies in novel ways may enable the creation of additional new unbundled varieties of more targeted money to better satisfy divergent constituencies with varying demands, possibly alleviating the trade-off Bagehot identified several hundred years ago.
+
+Case Study #2 – Money-as-currency: China Resurrects Gesell Money
+
+No country is as advanced in developing central bank digital currencies (CBDCs) as China is. One of the leading innovators globally, China has been researching “digital yuan” since 2014, and the People’s Bank of China (PBoC) is committed to deploying a digital currency nationally. It recently completed an experiment in the southern city of Shenzhen of the “Digital Currency Electronic Payment” (DCEP) mechanism, a stablecoin backed 1:1 with fiat Chinese yuan (CNY).
+
+In one of the largest trials of its kind, residents applied to participate in a lottery administered by the Shenzhen local government. Selected participants were issued “red packets” of e-CNY deposits, which could be accessed by opening an e-wallet through the official Digital Renminbi app.
+
+To ensure consumers used the tokens, and in doing so tested the new infrastructure supporting DCEP, the PBoC set special conditions on the trial: The digital currency paid no interest, it could not be transferred to a bank account to be saved, and it couldn’t be given to another person. The cash could be spent only at designated retailers for a limited period. Thus, consumers faced strong incentives to spend the money before it expired, as the balances carried an implied negative interest rate. And indeed, spend they did, with about 95% of the money issued ultimately used to buy goods and services during the test.
+
+The design of the experiment is (perhaps accidentally) very close to proposals from Silvio Gesell, a German entrepreneur whom the late economist John Maynard Keynes called an “unduly neglected prophet.” Gesell argued for a variety of unbundled money that could not be saved, but rather could only be spent (e.g. a medium of exchange, but not a store of value). As an incetive, Gesell suggested money should decay and expire, just as the e-CNY did in the Shenzhen trial.
+
+Gesell’s controversial ideas have re-emerged among leading central bankers globally in recent years as they search for new policy tools at, or even below, the zero-bound on interest rates. Emerging innovations are helping to make them a reality again nearly a century after they were first attempted.
+
+China’s proof-of-concept, therefore, demonstrates that high-powered varieties of decaying digital currency are technically feasible, an important international milestone. Innovative varieties of money may give central banks greater firepower to stimulate growth, employment and inflation. The experiment also highlights that hypothesized financial stability risks, such as disruptions to existing payments mechanisms, are manageable, opening the door to further trials globally and rapidly accelerating innovation.
+
+Case Study #3 – Money-as-accounting units: Ether, DeFi and Smart Money
+
+One sector demonstrating rapid innovation is the development of smart contracts and programmable finance, incubated on the decentralized Ethereum blockchain. Smart contracts encode in software the terms of a paper contract, which are automatically executed depending on certain conditions.
+
+These automated, programmable credits and debits perform a range of functions, from simple expressions like expiry dates or numerical thresholds, to more complex programs with multiple triggers like those in loan agreements. Innovation taking place in the open and transparent Ethereum community is therefore generating positive knowledge spillovers for policymakers.
+
+A host of new applications are proliferating within this network, broadly under the umbrella term “decentralized finance,” or DeFi. For instance, decentralized exchanges (DEXs), where users can trade tokens directly with one another without a trusted intermediary, are seeing user adoption. Lending platforms that encourage loaning and borrowing of digital assets have also grown in popularity.
+
+The application Compound even sets interest rates algorithmically to balance supply and demand for funds, in a fascinating test case for monetary policymakers. Because these programs are open source, they can be used as building blocks and combined to create entirely new applications.
+
+For example, smart contracts could be linked to macroeconomic shocks like recessions, financial events such as bank runs, or policy measures including tax changes to automatically provide liquidity relief to distressed firms and households. Or they might be linked to one another, creating a controlled chain reaction to propagate liquidity injections at specified velocities.
+
+Importantly, because the overall structure is observable and can be known prior to events, smart contracts might provide visibility into how financial instability cascades through the system. Deploying smart money could help central banks achieve their objectives.
+
+This Ethereum ecosystem offers a real-world test of the competitiveness of central bank instruments relative to private digital ones. The good news is that, by an overwhelming margin, Ethereum participants prefer (at the moment) to denominate transactions in U.S. dollars. As soon as private entrepreneurs issued digital tokens backed 1:1 by U.S. dollars, their instruments became the most popular in the network and the primary unit of account in DeFi applications.
+
+The experience demonstrates the importance of ecosystems in stimulating innovation. A core driver of Ethereum’s success so far has been the wide range of developers, engineers, economists, traders, financiers, borrowers and investors who contribute to the platform. Large firms frequently invest in ecosystem strategies to boost the transfer of knowledge from beyond their borders, before incorporating new insights into their business models.
+
+These ecosystem models help organizations stay abreast of the latest ideas, enabling faster experimentation and subsequent deployment of emerging technologies. Central banks should consider building their own fintech ecosystems to encourage innovation, as indeed some already do with regulatory “sandbox” approaches.
+
+Unbundled Money, CBDCs and the Future of Finance
+
+Across crypto platforms, a primary stated motivation is reducing rent-seeking by “middle men” in mainstream financial markets. From the LIBOR (London Interbank Offered Rate) scandal, to Bernie Madoff’s Ponzi scheme, to the Panama Papers and associated money laundering and tax evasion, the list of proven, visible, demonstrable rent-seeking behavior in the financial sector continues to grow. The public has obviously taken note. It is that loss of trust that probably represents the greatest threat to monetary sovereignty, not any single technology, community or platform.
+
+Disruption from fintech is now unbundling money, stripping out each role by creating powerful new instruments targeting a more precisely defined user base. New designs might enhance the implementation of monetary policymaking by alleviating fundamental trade-offs. Bitcoin emerged, in part, in response to quantitative easing and perceived inflation risks after central banks sacrificed long-run price stability objectives in order to uphold economic activity and the financial system in the short run. The ability to target highly specific constituencies with distinct user needs indicates the revolution is not so much in money itself, but perhaps rather in monetary policy.
+
+For illustration’s sake, imagine a world in which all savings (e.g. future consumption) is denominated in Bitcoin, and all spending (e.g. current consumption) is denominated in Bitcoin Cash. Such a world is obviously a fantasy, as neither instrument satisfies the diverse needs of their constituencies at large.
+
+But in this imaginary world, one must cross the market to convert savings into spending and vice versa. As such, the exchange rate between Bitcoin and Bitcoin Cash represents a freely floating interest rate. If such a dual-token strategy was adopted by central banks, state-issued money could be priced rather than fiat.

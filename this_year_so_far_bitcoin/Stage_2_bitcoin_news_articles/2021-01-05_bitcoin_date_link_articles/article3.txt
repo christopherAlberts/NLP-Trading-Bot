@@ -1,0 +1,93 @@
+Bitcoin (BTC) was lower, after the quick reversal of a brief rally late Monday reportedly spurred by the U.S. Office of the Comptroller of the Currency’s decision to let banks participate in blockchain networks and use stablecoins as payments.
+
+“Bitcoin has started 2021 with a stark reminder that volatility is the norm,” Matt Blom, head of sales and trading with the cryptocurrency firm Diginex, wrote Monday.
+
+In traditional markets, European shares dropped after the U.K. imposed a new coronavirus-related lockdown. U.S. stock futures pointed to further losses after the benchmark Standard & Poor’s 500 Index slid 1.5% on Monday, the gauge’s worst start to a year since 2016. Gold rose 0.4% to $1,954 an ounce.
+
+Market moves
+
+The cryptocurrency subsector of decentralized finance, known as DeFi, is getting hot again. Maybe even hotter than in mid-2020, a timespan so sizzling with fast-paced growth that it became known as the “summer of DeFi.”
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Total collateral locked into DeFi protocols, the most commonly used metric for gauging uptake of the systems, has climbed to new record highs above $17.5 billion, according to DeFi Pulse, a website that tracks the space. That’s up from about $10.5 billion at the end of September and less than $1 billion at the start of 2020.
+
+In DeFi, entrepreneurs are building semi-automated lending and trading systems atop blockchain networks – aiming to someday, potentially, challenge banks and Wall Street trading firms. The arena rose to prominence in June through September of last year as a flurry of usage and high-profile token rollouts ignited enthusiasm among traders and venture-capital investors alike.
+
+The phenomenon faded from cryptocurrency headlines as bitcoin‘s price rally dominated market conversations in the final quarter of 2020, but a recent resurgence in DeFi has industry analysts buzzing again over its prospects.
+
+“User growth over time is ballooning and should continue to accelerate,” the cryptocurrency analysis firm Delphi Digital wrote in a Jan. 1 report.
+
+Collateral locked in DeFi has surged to a new record above $17.5 billion. Source: DeFi Pulse
+
+Prices for ether – the native cryptocurrency of the Ethereum blockchain, which has attracted much of the DeFi development – have soared 37% this year alone, outpacing bitcoin’s comparatively feeble 7% start to the year.
+
+The elevated pace of transactions on the Ethereum blockchain has also pushed up network congestion, sending fees to an all-time-high of $898,000 for a single day, according to Decrypt, a news site, which cited the data provider Glassnode.
+
+DeFi “can be best thought of as an emerging sector within the frontier digital asset market,” Dan Zuller, a partner at the investment consultancy Vision Hill, wrote last week in an op-ed. “Investors that put capital to work in this thematic sector of digital assets generally outperformed bitcoin and the digital asset market beta in 2020.”
+
+According to Messari, a cryptocurrency data provider, the top 10 DeFi tokens, as ranked by market capitalization, have jumped an average 18% in the first several days of 2021, led by the decentralized exchange Loopring’s LRC token and decentralized derivatives platform Synthetix’s SNX. Uniswap, the biggest DeFi project with $1.4 billion of locked collateral, has seen its UNI tokens gain 10%.
+
+Table of top 10 DeFi tokens ranked by market capitalization, showing their year-to-date gains. Source: Messari
+
+Denis Vinokourov, head of research for the cryptocurrency prime broker Bequant, said in an audio interview over Telegram that he’s encouraged by last month’s launch of a new digital token from 1inch, a platform designed to help users find the best trading prices available from decentralized exchanges.
+
+The development company behind the project late last year closed a $12 million funding round led by the digital-asset investment firm Pantera Capital.
+
+That’s despite DeFi sector risks exposed last year, when several platforms were upended by software bugs, sophisticated trading exploits and unexpected exits (with tokens) by project leaders – the latter seen as so serious a threat that industry executives and journalists gave the maneuver its own term, the “rug pull.”
+
+“The decentralized world of chaos is becoming more professionalized,” Vinokourov said. “There’s huge growth potential.”
+
+– Bradley Keoun
+
+Bitcoin watch
+
+Bitcoin's MVRV Z-score, derived from blockchain data, showing the cryptocurrency is not yet overvalued. Source: Glassnode
+
+The staggering rally from $10,000 to $34,000 over the past three months looks overbought, from the look of price charts. However, blockchain data suggest the cryptocurrency has scope to rally even more.
+
+For example, take the MVRV Z-score, which is derived from blockchain data and measures the average deviation of individual coins’ market value from their realized value – the price at which they last changed hands. The metric is used to assess undervalued and overvalued market conditions.
+
+Bitcoin’s market-value-to-realized-value (MVRV) Z-score has risen to a three-year high of 5.32. But it remains well below the 7.0 score at which an asset is considered near a top, according to Glassnode. Historically, above-7.0 readings have marked the end of bull markets.
+
+Options traders also remain hungry for further upside, as noted by crypto derivatives research firm Skew. The one-, three-, and six-month put-call skews, which measure the cost of puts (bearish bets) relative to calls (bullish bets) are hovering well in negative territory. That’s a sign of bullish bias.
+
+Further, the market is now looking less overheated than it did 24 hours ago with the perpetual funding rate – the cost of holding long positions on major derivatives exchanges – falling to 0.039% on Tuesday from an 11-month high of 0.137% reached Monday.
+
+Though the path of least resistance appears to be on the higher side, the cryptocurrency may face some temporary selling pressure if equities react negatively to potential Democrat failure to sweep Tuesday’s Georgia elections. Analysts at Goldman Sachs noted Monday that a Democrat-controlled Senate would pave the way for bigger fiscal stimulus.
+
+– Omkar Godbole
+
+What's hot
+
+U.S. federal regulator OCC says banks can conduct payments using stablecoins, participate in independent node verification networks, potentially elevating blockchains to status of other global financial networks like SWIFT, ACH and FedWire (CoinDesk)
+
+JPMorgan predicts bitcoin price could rise over $146K in long term, while seeing signs of “speculative mania” in short term, Bloomberg reports (CoinDesk)
+
+Coinbase, Square Rally against FinCEN’s proposed crypto rules (Decrypt)
+
+Grayscale Ethereum Trust’s price premium tanks as new shares hit public market (Bloomberg) (EDITOR’S NOTE: Grayscale is owned by Digital Currency Group, the owner of CoinDesk.)
+
+Bitwise assets under managements top $500M after crossing $100M just three months ago (CoinDesk)
+
+Bitcoin mining machine shortage worsens as Bitmain sells out through August (CoinDesk)
+
+It wasn’t until August 1974 in the U.S. when gold became an investable asset class, and in the six years following its reintroduction, prices tripled in real terms; bitcoin might exhibit similar behavior, Ritholtz Wealth Management’s Nick Maggiulli writes in op-ed (CoinDesk Opinion)
+
+Former Canaan directors to guide Chinese gaming firm’s pivot to crypto mining (CoinDesk)
+
+Analogs
+
+The latest on the economy and traditional finance
+
+A flip to Democrat control of U.S. Senate following special Georgia elections could put downward pressure on dollar and spark an increase in Treasury bond yields, due to the likelihood of “even greater convergence of loose fiscal and monetary policy” (Reuters)
+
+Stocks and bitcoin are massive bubbles, former Merrill Lynch economist (and longtime bear) David Rosenberg warns (CNBC)
+
+What is socialism except a permanent stimulus? Former U.S. Senator Phil Gramm writes in op-ed with Mike Solon (WSJ)
+
+NYSE scraps plan to delist China telcos in “bizarre” U-turn (Bloomberg)
+
+China may have emerged as the “hard-money capital of the world” (Exante)
+
+Tweet of the day

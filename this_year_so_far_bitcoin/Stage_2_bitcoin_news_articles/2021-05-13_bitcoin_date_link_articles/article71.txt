@@ -1,0 +1,13 @@
+In comments at a virtual conference, an IRS counsel indicated the agency would seize virtual currency like bitcoin to satisfy tax collection.
+
+According to comments made at a virtual conference this week by U.S. Internal Revenue Service (IRS) deputy associate chief counsel Robert Wearing, the agency would seize cryptocurrency assets like bitcoin from individuals it deems to be in violation of tax requirements.
+
+“Bottom line: The IRS will seize that property and will attempt to follow its usual procedures to sell it and use it to satisfy collection,” Wearing told attendees of an American Bar Association conference, according to Bloomberg Law.
+
+The perceived authority to seize an asset like bitcoin from the IRS stems from a 2014 notice it issued claiming that “virtual currency is treated as property for Federal income tax purposes.”
+
+In parallel with Wearing’s comments, it appears that the IRS is ramping up its ability to track taxpayers who own cryptocurrency and may owe taxes based on those investments. Earlier this month, it partnered with TaxBit to “provide data analysis and tax calculation support for taxpayers with cryptocurrency,” according to a press release. It also recently received authorization to compel Kraken and Poloniex to provide data on users who made large cryptocurrency transactions.
+
+But there is still some question as to how the IRS would accurately determine the BTC holdings of taxpayers, let alone compel them to relinquish their bitcoin.
+
+As a decentralized cryptocurrency, bitcoin ownership is ultimately a matter of private key ownership. No entity could “seize” bitcoin property without gaining access to these private keys, which can be secured by users in a number of ways. In addition, many bitcoin best practices recommend the pseudonymous use of the technology and there are numerous privacy-enhancing layers and services available that can help bitcoin investors obscure their holdings from third parties.

@@ -1,0 +1,185 @@
+More than a decade after Satoshi Nakamoto combined proof of work and bitcoin mining together, fallacious comparisons of “energy cost per transaction” continue to be spread by seemingly intelligent and well-researched individuals.
+
+We can trace much of the spread of this narrative back to Alex de Vries—a data scientist who goes by the handle “Digiconomist” and is cited in nearly every anti-bitcoin energy article and op-ed in the mainstream media. There's just one problem. Neither he, nor most of the journalists that cite him, regularly disclose that his employer is De Nederlandsche Bank (DNB), the Dutch Central Bank, which is an undeniable opponent of bitcoin and open payment rails. It’s irresponsible for journalists to cite de Vries, or his work, without disclosing his conflict of interest. He is effectively a DNB lobbyist.
+
+De Vries’s work for the DNB focuses on financial economic crime. In 2020 the DNB required controversial and overly aggressive KYC regulations for digital asset firms serving the Netherlands. Among other things, the regulation required users prove they control their withdrawal address. The rule was reversed last week, in court, after Bitonic formally complained. The DNB is also leading CBDC development and integration in Europe.
+
+De Vries' website, Digiconomist, described as a “hobby project,” apparently misleads readers by failing to disclose his employment. The site uses unreasonable assumptions and deceptive infographics about so-called "Single Bitcoin Transaction Footprints."
+
+This has led others to come up with similarly misleading transaction-based comparisons to erroneously claim which altcoins use the least amount of electricity as a function of utility.
+
+In March, Bill Gates repeated this FUD, which was then echoed by the media using de Vries’s own misleading data. More recently, Elon Musk became the latest to spread misinformation when he tweeted that Tesla would no longer accept bitcoin as payment for vehicles.
+
+"We are concerned about rapidly increasing use of fossil fuels for Bitcoin mining and transactions, especially coal, which has the worst emissions of any fuel...We are also looking at other cryptocurrencies that use <1 of Bitcoin's energy/transaction."
+
+Source: Twitter
+
+After crashing the market, which coincided with some suspicious trading activity, he followed up:
+
+"Energy usage trend over past few months is insane https://cbeci.org"
+
+Source: Twitter
+
+Although we can’t know what Musk was actually thinking, if Musk had bothered to read the Cambridge Bitcoin Electricity Consumption Index (CBECI's) FAQ, then he would have learned that “energy cost per transaction” is a misconception.
+
+The popular “energy cost per transaction” metric is regularly featured in the media and other academic studies despite having multiple issues.
+
+First, transaction throughput (i.e. the number of transactions that the system can process) is independent of the network’s electricity consumption. Adding more mining equipment and thus increasing electricity consumption will have no impact on the number of processed transactions.
+
+Second, a single Bitcoin transaction can contain hidden semantics that may not be immediately visible nor intelligible to observers. For instance, one transaction can include hundreds of payments to individual addresses, settle second-layer network payments (e.g. opening and closing channels in the Lightning network), or potentially represent billions of timestamped data points using open protocols such as OpenTimestamps.
+
+Source: CBECI | FAQ
+
+The CBECI even goes a step further, dispelling common mainstream climate narratives.
+
+There is currently little evidence suggesting that Bitcoin directly contributes to climate change. Even when assuming that Bitcoin mining was exclusively powered by coal - a very unrealistic scenario given that a non-trivial number of facilities run exclusively on renewables - total carbon dioxide emissions would not exceed 58 million tons of CO2, which would roughly correspond to 0.17% of the world’s total emissions.
+
+This is not to say that environmental concerns regarding Bitcoin’s electricity consumption should be disregarded. There are valid concerns that Bitcoin’s growing electricity consumption may pose a threat to achieving the United Nations Sustainable Development Goals in the future.
+
+However, current figures should be put into perspective: available data shows that even in the worst case (i.e. mining exclusively powered by coal), Bitcoin’s environmental footprint currently remains marginal at best.
+
+Source: CBECI | FAQ
+
+Adam Back, creator of Proof of Work, made an effort to set the record straight:
+
+"Doge is years unmaintained, a literal joke copy of outdated version of bitcoin with long known vulnerabilities. Factually #Bitcoin doesn't consume incremental power per transaction. And has layer2s like lightning and @Liquid_BTC which amplify capabilities."
+
+Source: Twitter
+
+It makes no difference how many transactions take place on a proof-of-work blockchain. A single bitcoin transaction could, in theory, provide final settlement for a Layer 2 channel that contained millions of transactions.
+
+Additionally, the energy spent on mining each block isn't just producing a transaction, it's securing every transaction that ever came before it. That energy is securing all of the transactions that have ever happened in the history of Bitcoin — including Elon Musk's own personal transactions as well as the preceding transactions that led to those transactions.
+
+Michael Saylor also attempted to help clarify Musk’s misconceptions:
+
+"The estimated electricity consumption per http://cbeci.org YTD increased 40% during the same period that the network grew 100% in assets, meaning that energy efficiency dramatically improved during this time period. #Bitcoin is becoming less energy intensive as it scales."
+
+Source: Twitter
+
+Musk replied by tweeting out three URLs. The first link was about the Greenidge power plant in upstate New York, that came back online to mine bitcoin with natural gas. Nic Carter later did the research that Musk and mainstream journalists should have done in the first place:
+
+MSM narrative:
+
+- old coal power plants are coming back online to mine BTC
+
+Reality: - Greenidge plant is natgas, not coal powered (much lower carbon intensity) - the plant is buying full carbon offsets - Greenidge is mostly feeding the grid, powering 1000s of local homes
+
+This is a cornerstone of the new hostile coverage around bitcoin and you may see this talking point about “decommissioned coal plants coming back online to mine BTC” hundreds of times. Only one problem: it’s completely false.
+
+
+
+This is basically a “Saddam has yellowcake” tier misrepresentation, simply egregiously wrong.
+
+Source: Twitter
+
+The second link was a one-sided interview with de Vries, and the third link heavily featured de Vries as well. Again, neither of these links disclosed the fact that de Vries is employed by a central bank that opposes Bitcoin.
+
+Musk soon pivoted his misinformed take to announce that he is supposedly "working with Doge devs" on perhaps adopting it as a green payment alternative — a dubious claim given the project has been largely abandoned. His comments only served to perpetuate the "energy per transaction" myth.
+
+It's not just Musk and de Vries that are perpetuating "energy per transaction" deception, as Doge supporters have been touting similarly misleading research from TRG Datacenters which claims that Litecoin uses 18.5 KWh per transaction, and Dogecoin uses 0.12 KWh per transaction.
+
+Energy consumption has nothing to do with how many transactions are mined in a block. Energy consumption is related to coin issuance and miner profitability, not number of transactions. Nic Carter explained:
+
+"Today, bitcoin miners earn around $50 million/day, which annualizes to around $18.2 billion in miner revenue. Fully 85% of that revenue derives not from per-transaction fees, but from the issuance of new bitcoins. This issuance process is finite: in fact, it’s 88.7% done. The rate of new coin issuance halves every four years as it approaches that 21 million limit. (These are the “halvings” you have probably heard about. Bitcoiners really love them.)
+
+So the issuance component of miner revenue is *structurally decaying over time*. Unless you believe that the price of bitcoin is going to literally double in real terms every four years until 2140, that expenditure (and hence energy usage) is going to decline."
+
+Source: Nic Carter | CoinDesk
+
+
+
+Energy required to solve complex random guesses can't be faked, which makes proof of work an extremely fair, neutral and impenetrable physics-based approach to issue new coins and secure networks.
+
+If you understand that energy expenditures are a function of miner profitability, and not the number of transactions, you can begin to understand that Doge's claim of low-energy footprint per transaction is entirely misleading.
+
+Ari Paul explained in a Q&A:
+
+Ari Paul: ...electricity isn’t used for transaction processing. It’s used to secure the network. Doge is PoW meaning it faces the same basic dynamics as Bitcoin. It uses less electricity now because it’s less secure.
+
+Q: Because of DOGE's unlimited supply, it price has "some" ceiling. Due to which there's also ceiling for miner profitability beyond which miners wont add more hash rate to network which would keep the electricity consumption below a fixed maximum rate. Is this incorrect?
+
+Ari Paul: I think that’s accurate - basically anything that depresses a POW’s token price will also depress its security and electricity usage, at least generally.
+
+Q: Just for clarification, depressing POW token price reduces security because of inherent miner reward reduction.. i.e.: less miners -> less network scale (less electricity usage) -> less security. Appreciate the insight?
+
+Ari Paul: Basically yes. Difficulty of the network adjusts with hashpower. Miners are rewarded in tokens and will keep investing in hashpower (causing higher difficulty) as long as it’s profitable. Higher token value supports more investment in hashpower.
+
+Source: Twitter
+
+So, if profitability and higher token value drives on-chain energy consumption, one can clearly see that Doge would suffer the same increased energy consumption if it were to ever become the success Musk suggests it could be.
+
+Ironically, Doge does not solve the problems that Musk is concerned about. Digital currency miner/investor De Flandres (@Pacifica2525) further explained the misconceptions of Doge mining in a series of tweets.
+
+On Musk claiming he set up “some little Doge mining rigs”:
+
+There is no such thing as a "Dogecoin mining machine." It is called a Scrypt miner, which mines predominantly Litecoin, since Dogecoin in merge-mined with Litecoin.
+
+Source: Twitter
+
+On the TRG Datacenter research claiming Doge has a low "energy per transaction" footprint:
+
+It is all about numbers isn't it. On average, an Antminer (or equivalence) consumes 0.800 to 0.950 KwH of juice processing blocks. The numbers above are bogus. You also have to understand that "confirmations" continue indefinitely. If today miners each mine 1 block of LTC and 1 block of Doge, then both will consume equal amounts of power. If the same miners mine 25 blocks of LTC and 10 blocks of Doge, then Doge used less power. The problem is that a Doge block is mined every minute, while an LTC block is mined every 2.5 minutes, so in effect, miners have to mine 2.5 more Doge blocks than LTC, making Doge more miner dependent. In other words, Doge is less miner efficient. So as Doge interest/activity increases, there are less empty blocks processed by scrypt miners. If this conversation was taking place a year ago, an argument could be made that Doge uses less energy, because there were more empty blocks. # of blocks is always 1 every minute for Doge.
+
+Source: Twitter
+
+Dogecoin is PoW only because Litecoin/scrypt is PoW, and that mining machine, assuming L3+ or L3++, is still using 0.800+ KwH of juice whether it is under heavy or light load, mining LTC and Doge together. So, the claim Doge uses less is fundamentally a lie.
+
+Source: Twitter
+
+One Dogecoin block is created every minute. There is 1 LTC block created every 2.5 minutes. Both = scrypt coins. Both are mined on the same machines. The more popular Doge becomes, the higher the price, the higher the difficulty, the more intense the mining, the more energy used.
+
+Source: Twitter
+
+On Musk claiming to work with Doge devs to improve its aging protocol:
+
+"...Dogecoin is a merge-mined coin with Litecoin.... the same scrypt miners who own all of the hardware. So, who is he working with again? Change the protocol and it ceases to be mined by Litecoin miners. They would have to hard-fork the coin. Have fun with that."
+
+Source: Twitter
+
+“Litecoin doesn't ‘help’ secure Dogecoin's blockchain, it basically ‘owns’ Dogecoin's blockchain, because until recently, no miners would ever mine just Doge. It was a losing proposition. Now, it may be more profitable, but it still is a byproduct of Litecoin mining.”
+
+Source: Twitter
+
+"Piss off the Litecoin/scrypt miners and Doge takes a permanent dive."
+
+Source: Twitter
+
+“Good luck trying to mine on their own. You have to have the miners, which have not been manufactured now for nearly 2 years. Those which are available are used, on eBay, and expensive, with break-even around 2 years.”
+
+Source: Twitter
+
+Furthermore, Galaxy Digital published research highlighting the poor quality of the Doge network. So, why would Musk get behind an unmaintained altcoin?
+
+
+
+Q: Why not just make a crypto from scratch that does everything you want technically and has a lot of dev support and doesn’t have high concentration of ownership at least initially? Elon Musk: Only if Doge can’t do it. Big pain in the neck to create another one.
+
+Source: Twitter
+
+It’s likely that Musk is referring to the challenges that Facebook faced, when it tried to launch Libra. Mark Zuckerburg was famously hauled before Congress and stonewalled with regulation.
+
+It would be less of a headache to use Bitcoin or any other modern project. Turning Doge into a high speed centralized payment coin would trigger a hard fork from Litecoin, which would leave Doge on its own with few Scrypt miners. Musk could then create his own Scrypt miners and put them in all of his products, but that would just turn it into a centralized private payment network. One can only assume that he would rather meme his own coin into existence as opposed to dealing with regulators and red tape. Of course, he could just implement bitcoin payments and Layer 2 technologies, like everyone else.
+
+It remains to be seen if Musk is intentionally spreading misinformation or if he is suffering from the Dunning-Kruger effect. Recent tweets from Musk suggest the latter, as he seems to lack the fundamental understanding of how decentralized systems work or why they are necessary. Regardless, it’s difficult to tell what Musk’s true motives are.
+
+When the false "energy per transaction" narratives that are spread by central bank economist de Vries, Musk and Doge supporters can be easily debunked by reading the CBECI's own FAQ, it's not difficult to see it’s a hustle.
+
+Intelligent investment teams are able to look past these false narratives. The Sustainable Thematic Equities team at AllianceBernstein published an informative post on Bitcoin from an ESG perspective:
+
+...We believe concerns about the high-energy intensity of bitcoin mining are overstated, and the technology can play a less-acknowledged but important role in promoting financial inclusion. Source: AllianceBernstein | Is Bitcoin ESG Friendly for Equity Investors?
+
+ARK Invest also reiterated firm support for Bitcoin:
+
+In our view, the concerns around Bitcoin’s energy consumption are misguided. Contrary to consensus thinking, we believe the impact of bitcoin mining could become a net positive to the environment. With real-world data, we demonstrate how mining could impact the amount of renewable energy provisioned to the grid by transforming intermittent power resources into baseload generation by way of energy storage. We illustrate that renewables would be able to satisfy only 40% of the grid’s needs in the absence of Bitcoin mining but 99% with the commercial “subsidies” associated with bitcoin mining.
+
+Source: ARK Invest
+
+The energy spent on Bitcoin is the unassailable physical budget for securing the entire financial network. Other proof-of-work projects claiming lower energy budgets are only touting lower levels of security and much lower levels of use, while trying to pull a fast one on non-seasoned investors.
+
+Musk and altcoin supporters appear to be unaware that it would be virtually impossible to reproduce the neutral and fair launch of Bitcoin, as well as its astounding network effects around the world and secure track record over the past decade. If it were even possible to reproduce Bitcoin's launch, any attempted altcoin would be a decade behind in finding vulnerabilities, a decade behind in network effects, a decade behind in its proven track record and a decade behind in proving its immutability as sound money. It would lack the credibility necessary to become a secure and global reserve asset.
+
+Proof of stake and other newly developed protocols are still unproven experiments that will require years of testing and scrutiny, which tend to lack distribution and launch fairness. These experiments are not the kinds of protocols the entire world wants backing up the next global reserve asset. No one in their right mind chooses to have one's life savings, or a company’s treasury, guarded by a low security budget based on trust. Institutions and individuals want the maximum security budget, with a near-zero chance of failure, for their valuable and hard-earned life savings.
+
+Bitcoin provides security that no other asset can by bridging the physical and virtual world with proof of work. It is the most secure energy budget on the face of the planet, backed by physics, and worth every joule that flows into it.
+
+This is a guest post by Level39. Opinions expressed are entirely their own and do not necessarily reflect those of BTC, Inc. or Bitcoin Magazine.

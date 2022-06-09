@@ -1,0 +1,21 @@
+Dive Brief:
+
+BitPay, a Bitcoin and cryptocurrency payment provider, announced that U.S. cardholders can add their BitPay Prepaid Mastercard to Apple Wallet, making it more convenient to purchase everyday items using the cryptocurrency payment service, according to a Friday press release.
+
+BitPay Prepaid Mastercard holders can use Apple Pay to make in-store, in-app and online transactions, per the release. The company also said it will begin supporting Google Pay and Samsung Pay later this quarter.
+
+BitPay customers who haven't received their plastic card can add their virtual card to their Apple Wallet through the BitPay Wallet app, the press release said.
+
+Dive Insight:
+
+Apple Pay is joining the list of financial service providers to embrace Bitcoin as a payment method. The recent news means that BitPay cardholders can use cryptocurrency as a standard payment method wherever Mastercard is accepted.
+
+BitPay's mobile wallet lets users convert cryptocurrencies into standard currencies and load them onto their Mastercard, the company said. The BitPay Wallet currently allows users to transact using Bitcoin, Bitcoin Cash, Ether, USDC, GUSD, PAX and BUSD, per the press release.
+
+Last October, PayPal announced that account holders can not only buy, sell and hold cryptocurrency but also use digital coins as payment to the company's network of merchants. And just last week, Mastercard said it will begin accepting select cryptocurrencies on its network in 2021.
+
+Early on in the COVID-19 pandemic, consumer usage of mobile wallets lagged despite public health concerns and the need for speedy purchases. But as the pandemic continues, retailers and their partners have eyed mobile wallets as another way to engage with customers. Last year, David's Bridal partnered with Popwallet to offer its customers perks like coupons, and Afterpay said it would allow users to pay in installments with Apple Pay and Google Pay. Taking a different approach, 7-Eleven introduced a mobile wallet in December that allows users to add cash at its brick-and-mortar locations.
+
+"We have thousands of BitPay Wallet app customers using the BitPay Card who are always looking for new places and ways to spend their crypto," said BitPay CEO Stephen Pair in a statement. "Adding Apple Pay and soon Google and Samsung Pay makes it easy and convenient to use the BitPay Card in more places from day-to-day items to luxury purchases."
+
+The Apple Wallet news follows BitPay's application in December with the Office of the Comptroller of the Currency to become a national trust bank.

@@ -1,0 +1,61 @@
+March 5, 2021 6 min read
+
+Opinions expressed by Entrepreneur contributors are their own.
+
+You're reading Entrepreneur India, an international franchise of Entrepreneur Media.
+
+The cryptocurrency industry is rapidly evolving, and the payment gateways sector is booming. A crypto payment gateway is a platform for online transactions that helps companies accept payments in cryptocurrencies.
+
+As far back as five years ago, few players dominated the new market. Now, there are dozens of them. Currently, the question lies in how to choose the most beneficial, and secure payment gateway provider. We reviewed five of the best payment gateways. Each has its individual set of benefits, specifics, and target audience in the market.
+
+BitPay
+
+American company Bitpay is the pioneer in the crypto financial infrastructure domain. It launched in 2011, a mere 2.5 years after the Bitcoin network commenced. In September 2013, when the crypto market was still in its infancy, the user base of payment gateway BitPay reached 100,000, and their transaction volume hit 270 830 BTC ($34 million at the time).
+
+In 2018, the transaction volume exceeded $1 billion. That happened largely due to the rise in bitcoin’s popularity as means of payment among B2B clients of the payment gateway.
+
+Payment gateway BitPay focuses on settling payments by invoices that are issued by online-shops for goods and services at a fixed price. Bitpay charges a 1 per cent commission.
+
+If a seller prefers to receive money in fiat currency, BitPay offers the automatic conversion of cryptocurrencies into the US dollar, euro, British pounds, and other currencies. Merchants also have an option to withdraw their fiat from the BitPay account to their bank accounts.
+
+Coinbase Commerce
+
+Coinbase is one of the biggest cryptocurrency exchanges in the world. It is primarily focused on the US market. In February 2018, Coinbase launched the crypto payment gateway that is regarded as one of the most reliable and popular payment gateways for the e-commerce sector. Similar to BitPay, Coinbase Commerce works with invoices that are issued for fixed prices for goods and services.
+
+As Coinbase Commerce positions its brand on the market as a solution for Internet shops looking to start accepting cryptocurrencies, the payment gateway strived to score partnerships with big players in e-commerce. In such a way, Coinbase Commerce integrated its services with Shopify and platforms for online shops, such as Magento and OpenCart.
+
+Coinbase Commerce claims that they do not charge a commission for withdrawing funds from a merchant’s account on the platform, and there is only the network fee from miners for transaction execution. However, many users have recently noticed that the ‘network fee’ on Coinbase Commerce is significantly higher than on the rival platforms, prompting speculation about hidden charges for merchants.
+
+Crypto Processing by CoinsPaid
+
+Cryptoprocessing.com is one of the major crypto payment gateways that focuses not on e-commerce, but on iGaming, betting, and gambling platforms. A significant part of the transaction volume is not from processing invoices, but asynchronous deposits.
+
+Currently, bank commissions for asynchronous deposits are not competitive at all when it comes to cryptocurrency payments. For example, bank commission for transactions in online gambling varies between 2-4 per cent and 10-15 per cent, while crypto processing payments can charge less than 1 per cent.
+
+Cryptoprocessing.com supports payments in more than 30 cryptocurrencies (BTC, BCH, LTC, ETH, ETC, XRP, NEO, ADA, DOGE, USDT, etc.) and ERC20 tokens. Merchants can choose the currency in which they prefer to accept payments. The service automatically converts to a currency of choice. The platform supports 20 fiat currencies.
+
+Cryptoprocessing.com also allows instant withdrawal of funds from the CoinsPaid client account to a bank account in the currency of their choice: US dollars, euros, British pounds, etc. Merchants can choose from various tools to analyze and create reports on payment accounts to achieve a good overview and monitor the business processes dynamics.
+
+Cryptoprocessing by CoinsPaid processes 3 per cent of global transaction volume in bitcoins. In crypto payment solutions for iGaming, the company leads by the transaction volume. In 2020, Cryptoprocessing.com executed bitcoin transactions for more than $1 billion.
+
+CoinGate
+
+Launched in 2014, CoinGate is another crypto processing gateway industry old-timer. In 2018, the company became one of the first bitcoin infrastructure services to implement the Lightning Network, a solution for the bitcoin network scaling problem. It helped to boost transaction volume.
+
+Like BitPay and Coinbase Commerce, CoinGate focuses on the e-commerce sector and processes crypto payments by invoices. Merchants can integrate the gateway through an API and e-commerce plugin. Sellers can choose whether they prefer to receive payments in fiat or crypto. In the case of fiat (euro or the US dollar), CoinGate automatically converts funds. Also, the seller can choose in which cryptocurrency they prefer to receive payments. In case the buyer used a different currency, CoinGate will also execute the automatic conversion. The commission is average for the market, that being 1 per cent.
+
+CoinPayments
+
+Crypto payment gateway CoinPayments sets itself apart with a massive list of supported cryptocurrencies. The service allows customers to pay for purchases in online shops for a record number of coins, 1860.
+
+CoinPayments has one of the lowest commissions for crypto processing, this being one of its competitive advantages. The service only takes only 0.5 per cent for processing.
+
+Similar to other crypto processing services, CoinPayments provides customers with a shopping cart plugin. The payment gateway can be integrated via API.
+
+CoinPayments works as a crypto wallet where merchants can store their revenues. The wallet allows the storing of funds in more than 2055 various digital coins.
+
+Why do businesses need crypto processing?
+
+The demand increase in crypto processing demonstrates that businesses need such services because of the several advantages of crypto processing compared to traditional banking services. First of all, the transaction speed of international payments at banks is significantly slower than with cryptocurrency networks. Crypto processing cuts processing time from hours and days to several minutes. Secondly, in some industries like gambling or iGaming, bank commissions for transactions far outweigh the crypto processing commissions.
+
+Finally, one of the biggest unsolved challenges of online shops is a high level of fraudulent chargebacks. In crypto processing, chargebacks are not possible as transactions in blockchain are irreversible, and only the holder of the cryptocurrency can execute a transaction using a private key.

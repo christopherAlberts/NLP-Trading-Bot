@@ -1,0 +1,19 @@
+Government and industry have teamed up to fight a major increase in ransomware, with a newly formed ransomware task force calling for new measures to more aggressively trace Bitcoin and crypto capital flows.
+
+The task force includes law enforcement including FBI and U.S. Secret Service agents working alongside representatives of leading security and tech firms.
+
+According to an April 29 report from Reuters citing anonymous sources from the Department of Justice’s task force, the group is calling for new guidelines designed to cut through the anonymity of digital asset transfers that will soon be reviewed by Congress.
+
+The proposed measures includes tightened KYC requirements for crypto asset exchanges, expanded licensing requirements for entities operating with cryptocurrencies, and extending anti-money laundering laws to better canvas the operations of crypto conversion kiosks and ATMs.
+
+The group is also supporting the Financial Crimes Enforcement Network’s push to increase the reporting requirements for transactions valued at more than $10,000.
+
+One Homeland Security official said the proposed guidelines would also be “huge” for law enforcement efforts to comb narcotics traffickers, human smugglers, and other actors engaging in illicit activities under the cover of crypto-pseudonymity.
+
+“This is a world that was created exactly to be anonymous, but at some point, you have to give up something to make sure everyone’s safe,” he said.
+
+The proposed rules seek to respond to a record year for ransomware attacks, with the task force estimating ransomware syndicates collected close to $350 million during 2020 — up 200% from the previous year. The lion’s share of profits were accumulated through targeting government agencies, hospitals, educational institutions, and private companies.
+
+The task force also noted evidence suggesting many ransomware operators have friendly relations with North Korea, Russia, and other nation-states whose interests appear to oppose those of the United States.
+
+In announcing the team last week, Acting Deputy Attorney General, John Carlin, wrote: “Although the Department has taken significant steps to address cyber crime, it is imperative that we bring the full authorities and resources of the Department to bear to confront the many dimensions and root causes of this threat.”

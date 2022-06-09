@@ -1,0 +1,29 @@
+From cryptocurrencies to revolutionizing industries and government processes – blockchain has come a long way over the decade and it’s only now that we’re starting to understand its full potential
+
+Bitcoin, on the other hand, has been on a wild roller-coaster ride of ups and downs – the first recognized cryptocurrency and remains the best-known
+
+While some countries are undecided about Bitcoin or cryptocurrencies in general, blockchain as a technology is more widely accepted
+
+It is common for people to confuse blockchain with Bitcoin in the early days, given the latter was the first widely known application of blockchain. It somehow managed to monopolize how and what people perceive as blockchain tech. However, since its public debut in 2008 as the technology behind Bitcoin, blockchain’s wider benefits have gained wider recognition and this budding technology is now catering to many other industries.
+
+For starters, blockchain is the technology, among other things, that enables the existence of cryptocurrency. Bitcoin is the name of the most-known cryptocurrency, the one for which blockchain technology was is most recognized.
+
+What exactly is blockchain technology?
+
+A blockchain is simply a database file used to store records. It is a transparent, public ledger (or database) that ensures the information recorded on the blockchain is shared through several machines instead of a single source, and is therefore decentralized. Another aspect of blockchain which makes it so revolutionary is its decentralization. Unlike a standard centralized platform, where documents are handled by a single central authority, blockchain is entirely open.
+
+Blockchain might have achieved renown with cryptocurrencies, but it doesn’t end there. Blockchain can be used for a variety of purposes, with Bitcoins and other digital currencies just one of the use cases. It can be also used to provide a low-cost, safe and secure environment for peer-to-peer (P2P) transactions, cutting out the now-unnecessary middleman in the process.
+
+Blockchain applications have countless uses in both the private and public sector over the years. For example, storing public health records and land registries, offering immutable voting platforms, guaranteeing secure identity management. In the private sector, big tech companies have invested a lot into the blockchain space, and are now catering third-party solutions to other businesses.
+
+To date, blockchain has been more widely adopted in the banking and fintech industry. Supply chain management and logistics is another industry where the blockchain has been used to achieve transparency and to build an immutable registry of transactions. Other industries, such as the automobile industry, aviation, telecom, music, and entertainment among others, have also been exploring their blockchain options.
+
+CHINA LEADS THE CHARGE TOWARDS BLOCKCHAIN 3.0
+
+Similar to how the internet changed the world by providing greater access to information, blockchain is poised to change how people do business by offering trust. The benefits of blockchain for business are numerous, including reduced time (for finding information, settling disputes, and verifying transactions), decreased costs (for overhead and intermediaries), and alleviated risk (of collusion, tampering, and fraud). For all the ways blockchain is already being used in business, there are even more applications that haven’t been fully realized yet.
+
+What about Bitcoin?
+
+Bitcoin is a type of unregulated digital currency that was first created by Satoshi Nakamoto in 2008. Also known as a “cryptocurrency,” it was launched with the intention to bypass government currency controls and to simplify online transactions by getting rid of third-party payment processing intermediaries. Since there had to be a secure way to make transactions with the cryptocurrency, bitcoin transactions are stored and transferred using a distributed ledger on a peer-to-peer network that is open, public, and anonymous.
+
+That said, blockchain is the underpinning technology that maintains the Bitcoin transaction ledger. The cryptocurrency, however, has a more limited scope. Some countries have embraced it more openly, while other governments have banned or restricted it. For the most part, Bitcoin is still not legally acceptable as a substitute for a country’s legal tender. For now, that is.

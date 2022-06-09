@@ -1,0 +1,197 @@
+By Stanley White
+
+TOKYO, May 19 (Reuters) - The U.S. dollar steadied but remained near a six-year low against its Canadian counterpart and nursed losses against European currencies as expectations that U.S. interest rates will remain low undermined the greenback.
+
+The minutes from the U.S. Federal Reserve's most recent meeting due later on Wednesday are expected to confirm that policymakers think a rate hike is still in the distance.
+
+Investors will also be scrutinising consumer price data in Britain and Canada later in the trading day to determine how quickly major economies will be forced to rein in their accommodative monetary policy, which holds the key to the dollar's trend in the medium term.
+
+"I'm most concerned about the relative strength of inflation," said Masafumi Yamamoto, chief currency strategist at Mizuho Securities in Tokyo.
+
+"The recent release of U.S. consumer prices printed quite high. If Britain and Canada remain below that level, it suggests the pace of normalisation in the United States will be faster. Dollar selling may not last much longer."
+
+Against the Canadian dollar CAD=D3, the greenback traded at C$1.2076, close to its weakest since May 2015.
+
+The British pound GBP=D3 bought $1.4182, which was near its strongest level since late February.
+
+The euro EUR=D3 was steady at $1.2219.
+
+The dollar was little changed at 109.02 yen JPY=D3 and 0.8982 Swiss franc CHF=EBS.
+
+Data last week showing U.S. consumer prices rose 4.2% in April from a year earlier was the fastest increase in more than a decade, which stunned investors.
+
+Fed policymakers have said this is a temporary spike and reiterated that they expect interest rates to remain low, which has taken some steam out of the dollar, but not all are convinced by the Fed's persuasion.
+
+The dollar index =USD against a basket of six major currencies was quoted at 89.833, close to the lowest since late February.
+
+Expectations for policy tightening in Canada and the gradual lifting of coronavirus restrictions in Britain have lifted both countries' currencies, but any suggestion of benign inflation could help the greenback recoup some of its losses.
+
+Elsewhere, the Australian AUD=D3 and New Zealand dollars NZD=D3 eased slightly as the Antipodeans struggled to break through heavy technical resistance, but sentiment remains positive due to rising commodity prices, some traders said.
+
+In the cryptocurrency market, bitcoin BTC=BTSP fell to a three-month low of $40,548, and rival digital currency ether ETH=BTSP dropped 5.7% to $3,197 amid market jitters after China banned its financial institutions and payment companies from providing services related to cryptocurrency transactions.
+
+========================================================
+
+Currency bid prices at 0209 GMT
+
+Description
+
+RIC
+
+Last
+
+U.S. Close Previous Session
+
+Pct Change
+
+YTD Pct Change
+
+High Bid
+
+Low Bid
+
+Euro/Dollar
+
+EUR=EBS
+
+$1.2219
+
+$1.2224
+
+-0.04%
+
++0.01%
+
++1.2232
+
++1.2218
+
+Dollar/Yen
+
+JPY=EBS
+
+109.0200
+
+108.9050
+
++0.12%
+
++5.56%
+
++109.0700
+
++108.8900
+
+Euro/Yen
+
+EURJPY=EBS
+
+133.20
+
+133.10
+
++0.08%
+
++4.96%
+
++133.3200
+
++133.0500
+
+Dollar/Swiss
+
+CHF=EBS
+
+0.8982
+
+0.8977
+
++0.01%
+
++1.48%
+
++0.8983
+
++0.8972
+
+Sterling/Dollar
+
+GBP=D3
+
+1.4182
+
+1.4189
+
+-0.04%
+
++3.82%
+
++1.4199
+
++1.4181
+
+Dollar/Canadian
+
+CAD=D3
+
+1.2076
+
+1.2061
+
++0.16%
+
+-5.14%
+
++1.2080
+
++1.2062
+
+Aussie/Dollar
+
+AUD=D3
+
+0.7781
+
+0.7791
+
+-0.12%
+
++1.15%
+
++0.7797
+
++0.7779
+
+NZ Dollar/Dollar
+
+NZD=D3
+
+0.7231
+
+0.7239
+
+-0.12%
+
++0.69%
+
++0.7246
+
++0.7231
+
+All spots FX=
+
+Tokyo spots AFX=
+
+Europe spots EFX=
+
+Volatilities FXVOL=
+
+Tokyo Forex market info from BOJ TKYFX
+
+World FX rateshttps://tmsnrt.rs/2RBWI5E
+
+(Editing by Jacqueline Wong)
+
+((stanley.white@tr.com; +81 (0)3 4563 2799; twitter.com/stanleywhite1 ;))
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.

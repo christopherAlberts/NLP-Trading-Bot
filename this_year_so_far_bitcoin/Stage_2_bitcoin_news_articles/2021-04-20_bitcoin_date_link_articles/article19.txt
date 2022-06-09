@@ -1,0 +1,33 @@
+Solana, the native token of the blockchain backed by FTX’s Sam Bankman-Fried, logged a record daily percentage gain on Sunday, defying bitcoin’s (BTC) 6% sell-off.
+
+The SOL tokens surged 30% on the FTX exchange to near $33 that day, according to TradingView. It was a staggering daily return considering that prices for bitcoin, along with most of other crypto assets, dropped to multi-week lows.
+
+After a year-to-date return of nearly 1,600%, Solana now has a total market capitalization of more than $8.3 billion, according to Messari, just after Tron’s $9.17 billion.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Bankman-Fried said in a series of messages via LinkedIn that the factors driving Solana may have been independent from the forces at work in last weekend’s crypto sell-off.
+
+“SOL traders were probably not as leveraged long, and so there were fewer liquidations,” he said.
+
+Solana's price went up significantly during the latest crypto sell-off event on Sunday. Source: TradingView, FTX
+
+Crypto futures market saw a record $10 billion worth of liquidations over the past weekend, with bitcoin’s futures totaling about $5 billion, according to data from Bybt:
+
+Total crypto futures market liquidations. Source: Bybt
+
+Whereas solana’s futures liquidations contributed roughly $18.1 million of the total crypto liquidation:
+
+The total solana (SOL) futures liquidations Source: Bybt
+
+Alameda, a trading firm led by Bankman-Fried, has been heavily investing in the Solana ecosystem in a bid to promote an Ethereum alternative capable of faster transactions and higher scalability. The Ethereum blockchain has become increasingly congested, leading to an increase in transactional tariffs known as “gas fees.”
+
+Bankman-Fried’s team chose to build Serum, a decentralized exchange (DEX), on Solana.
+
+A representative of Solana community in China told CoinDesk via WeChat that public blockchains including Binance Smart Chain and Solana have been able to lure away more decentralized finance (DeFi) developers and projects from Ethereum due to the consistently high gas fees on Ethereum.
+
+Ethereum currently handles about 15 transactions per second (TPS), while Solana is capable of more than 1,000 TPS, according to data from blockchair and Solana Beach.
+
+“It is a combination of people being fed up with gas fees and comparisons on decentralization with other major non-Ethereum blockchains,” Bankman-Fried said.
+
+As a proof-of-stake blockchain, Solana grants reward incentives for SOL token holders who are staking their tokens to help secure the network, according to Chris Bo, China lead for Solana blockchain. Another incentive for Solana validators is an inflation-related mechanism that went live in February. With an initial annualized inflation rate of 8%, newly minted tokens go to validators and stakers in proportion to their staked amounts.

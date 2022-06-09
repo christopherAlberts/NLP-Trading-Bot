@@ -1,0 +1,37 @@
+Ever since the surge in cryptocurrency wealth, it has been necessary to declare profits from such assets to HMRC for tax purposes.
+
+And anyone who finds themselves under investigation for suspected tax irregularities by HM Revenue & Customs has always had to declare all their assets.
+
+But HMRC is now going a step further, and explicitly including a section on cryptocurrency declarations in its updated 'Statement of Assets' form.
+
+No hiding: HMRC can demand to see details of all assets held, including cryptocurrency
+
+An HMRC spokesperson said: 'The majority of individuals and businesses pay the tax that is due – however there remains a determined minority who refuse to play by the rules.
+
+'We take robust action to make sure that everyone pays the tax due – from individuals operating in the hidden economy through to action against sophisticated organised crime groups, and complex investigations into offshore structures used to hide earnings and other assets.'
+
+Helen Thornley, a technical officer at the Association of Taxation Technicians, told This is Money she thinks the move to explicitly include crypto assets in the form 'makes sense'. She said it was important people were given a 'prompt' to remember to declare all assets like Bitcoin.
+
+Spell it out: Crypotassets are now explicitly listed in HMRC's updated Statement of Assets form, but such assets have always had to be declared when required
+
+HMRC stressed that the Statement of Assets form has always required people to detail a complete account of all assets, wherever they are in the world and however they are held. Now, however, crypto-assets will be clearly and explicitly listed among others to ensure there can be no ambiguity.
+
+Other assets that have been added to the updated declaration form include, electronic money accounts, online payment platform accounts, electronic wallets, financial technology accounts, community and informal banking accounts, accounts connected to value transfer systems, money service business accounts, foreign exchange accounts and electronic accounts.
+
+Anyone who is required to submit details of their assets to HMRC can expect everything they put down to be checked. Forensic work means any assets not declared can also be tracked down. 'People have to be really careful about filling in forms like this properly as they can be prosecuted if they do not', tax expert Ms Thornley told This is Money.
+
+Growing popularity: Bitcoin has attracted marked interest from investors in recent years
+
+The latest form updates include specific references to, for instance, Black Market Pesos. According to accounting firm UHY Hacker Young this is 'a system commonly used by Mexican and Colombian drug cartels, which converts drug sale revenues in the US and Europe to local currencies without the money having to cross a border.'
+
+The updated form also covers things like Hundi, which UHY Hacker Young says, is 'an Indian system of credit notes that has existed since the 12th century and is still used by merchants and Hawala, a similar money transfer system common in the Middle East and Africa.'
+
+Fei ch’ien, a trust-based money transfer system commonly used in China’s hidden financial system, is also explicitly listed.
+
+David Jones, a director at UHY Hacker Young, said that, in his view: 'HMRC suspects that an increasing amount of hidden wealth is slipping through its fingers thanks to the rise of cryptocurrencies and other unsanctioned money transfer systems. This demand for information is an important step in HMRC’s fight-back against that.
+
+'The initiative comes hand in hand with HMRC’s publication of its new Cryptoassets Manual. A defence of ignorance of the law in this booming sector will no longer wash with the taxman.
+
+'Some assets like Black Market Pesos are almost exclusively used by organised crime but criminal proceeds flow through relatively mainstream assets like Bitcoin at a rate that some find alarming. For example, cybercriminals overseas take virtually all of their ransom payments in Bitcoin to avoid detection.
+
+'While criminals can still choose to not declare these assets, doing so gives HMRC another opportunity to bring criminal charges against them if their forensic work finds a hidden Bitcoin wallet.'

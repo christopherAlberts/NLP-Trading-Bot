@@ -1,0 +1,31 @@
+Cryptocurrency is more than just a financial news talking point. It has real-world applications that are now being implemented in the food industry. And while the sky-high stock prices of crypto companies like Bitcoin and Ethereum grab headlines, digital currencies are gaining traction with consumers.
+
+Further, crypto’s underlying Blockchain technology is already used in innovative ways throughout the industry.
+
+What is crypto?
+
+Per NerdWallet, cryptocurrency is a form of payment that can be exchanged online for goods and services. Many companies have issued their own currencies, often called tokens, and these can be traded specifically for the good or service that the company provides (think arcade tokens or casino chips). Consumers exchange real currency for the cryptocurrency to access the good or service.
+
+Cryptocurrencies work using a Blockchain, a decentralized technology spread across many computers that manages and records transactions. The appeal of this technology is its security, which makes the history of any digital asset unalterable and transparent, forming a chronological “single source of truth” for data.
+
+More than 6,700 different cryptocurrencies are traded publicly, according to CoinMarketCap.com, a market research website. And cryptocurrencies continue to proliferate, raising money through initial coin offerings, or ICOs. The total value of all cryptocurrencies on April 13, 2021, was more than $2.2 trillion, according to CoinMarketCap, and the total value of all Bitcoins, the most popular digital currency, was pegged at about $1.2 trillion.
+
+Cryptocurrency in the news
+
+As it relates to the food industry, cryptocurrency initiatives are beginning to go mainstream, including:
+
+Mastercard is planning to enable cryptocurrency payment options later this year.
+
+Restaurants operated by Landry’s will soon begin accepting Bitcoin as form of payment for meals. In an interview with CNBC last month, Landry’s CEO Tilman Fertitta said 80% to 90% of the company’s restaurant brands, including the Bubba Gump Shrimp Company and Morton’s The Steakhouse, would accept Bitcoin and other cryptocurrencies.
+
+Cordia Corporation is expanding its efforts to integrate cryptocurrency rewards into its upcoming virtual restaurants. In addition to reward points, the company plans to offer celebrity and branded NFTs, a type of cryptocurrency.
+
+Blockchain applications
+
+The food industry is one segment where Blockchain is already being implemented.
+
+IBM Food Trust, for example, is a collaborative network of growers, processors, wholesalers, distributors, manufacturers, retailers, and others who are able to track goods as they move through the supply chain. Launched in 2017 and built on IBM Blockchain, this solution connects participants through a permissioned, immutable and shared record of food origin, transaction data, processing details, and more. Further, IBM says the platform can increase food safety and freshness, unlock supply chain efficiencies, minimize waste, and contribute directly to the bottom line. Among the participating companies are Walmart, Nestle, Tyson Foods, Carrefour and Albertsons.
+
+Another, more recent example is Covantis, a blockchain-powered digital operations platform developed to eliminate paper-based post-trade processes, increase efficiency and cut operational risks for bulk commodity shipments.
+
+Digitizing agricultural shipping transactions, the platform covers shipments from Brazil and connects shippers, traders and charterers involved in these trade flows. Covantis went live in February with more than 30 entities, including its six founding members – Archer Daniels Midland, Bunge, Cargill, Cofco, Louis Dreyfus Company and Viterra.

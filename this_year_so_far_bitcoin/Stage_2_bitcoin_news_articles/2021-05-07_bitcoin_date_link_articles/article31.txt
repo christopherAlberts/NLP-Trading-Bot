@@ -1,0 +1,35 @@
+Back in January, when the world's second-largest cryptocurrency by market cap, ethereum, was trading at just over $1,200, one investor made the bold call of predicting a spike to the mid-$3,000 level, claiming it was being "overlooked" by investors.
+
+Just under five months later, that prediction has already hit with ethereum (ETH-USD) up roughly 400% on the year to cross the $3,500 mark as of Friday afternoon. Now, that same investor, Megan Kaspar, co-founder of the digital asset investment company Magnetic, is upping her price target to the $8,000 to $10,000 price range by year's end.
+
+Kaspar explained her thesis Friday on Yahoo Finance Live, citing new updates coming to the cryptocurrency's network later this year. The network is planning a shift away from the same method used by bitcoin (BTC-USD) to confirm transactions to one that is far less energy intensive. Unlike bitcoin's so-called proof of work, which rewards miners who are competing against each other to use computers and energy to record and confirm transactions on its blockchain, ethereum plans to adopt the more efficient proof of stake model, which chooses a block validator at random based on how much ether it controls.
+
+"The shift to proof of stake for block validation reduces carbon emissions by 99.9%, making ethereum a green technology," Kaspar explained. "So these two updates on the network alone could push ethereum to a trillion dollar market cap which is where bitcoin is at today — that would make ethereum around $8,000 to $10,000 a coin.”
+
+Ether has outperformed bitcoin year-to-date. The former is up nearly 380%, while bitcoin is up about 90% over the same time period.
+
+As high as Kaspar's price target sounds, which implies about 300% upside from current levels, it matches the $10,500 price target that came from Fundstrat Global Advisors earlier this year. Analysts there calculated their price target from rising activity on the ethereum network as more and more decentralized applications continue to be built on it. Decentralized finance applications, which allow users to earn yield on their crypto assets similar to the way they would at a traditional bank, have seen usage on the network explode from $10 billion in September 2020 to more than $65 billion as of April.
+
+Story continues
+
+After the network changes are implemented, Kaspar also believes a greener ethereum will begin to attract more institutional attention relative to bitcoin. Miners in China account for well over half of all the mining power on the network and investors like Kevin O'Leary of "Shark Tank" have increasingly taken issue with that connection. Kaspar says as more investors take note in the years to come, institutional dollars could propel ethereum to $100,000.
+
+"Institutions are mandating that they invest in clean green technologies and that’s what ethereum is becoming," she said. "Unfortunately, bitcoin’s proof of work network will not be that unless they choose to shift as well."
+
+Nonetheless, Kaspar still sees upside for bitcoin, predicting the world's largest cryptocurrency could hit $200,000 by the end of the year. On Friday, bitcoin was trading at over $57,700 a coin. Pantera Capital CEO Dan Morehead expressed a similar level of confidence for bitcoin's upside with his $115,000 price target by August, citing his model that tracks bitcoin like a commodity.
+
+As he explained to Yahoo Finance earlier this week, "stock-to-flow" models measure existing supplies, usually of commodities, against the flow at which new inventory is produced. In the case of bitcoin mining, that flow in the form of mining rewards is cut in half roughly every four years. When applying the measure to bitcoin over the last year, Morehead has shown bitcoin's price has moved in lockstep with projections.
+
+This content is not available due to your privacy preferences. Update your settings here to see it.
+
+"When people say, 'Oh this is crazy,' I push back. I don't think this is crazy. I've been doing this for 10 years, it's actually very predictable," he said.
+
+Zack Guzman is an anchor for Yahoo Finance Live as well as a senior writer covering entrepreneurship, crypto, cannabis, startups, and breaking news at Yahoo Finance. Follow him on Twitter @zGuz.
+
+Read the latest financial and business news from Yahoo Finance
+
+Follow Yahoo Finance on Twitter, Facebook, Instagram, Flipboard, SmartNews, LinkedIn, YouTube, and reddit.
+
+Find live stock market quotes and the latest business and finance news
+
+For tutorials and information on investing and trading stocks, check out Cashay

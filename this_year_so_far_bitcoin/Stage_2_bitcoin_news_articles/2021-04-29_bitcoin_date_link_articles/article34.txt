@@ -1,0 +1,28 @@
+DENVER, April 29, 2021 /PRNewswire/ -- ShapeShift , an international, non-custodial cryptocurrency leader, has enabled cross-chain swaps via THORChain and Ethereum-based DEX trading on their web platform. While these capabilities were previously made available on ShapeShift's mobile interface, the web-based functionality opens ETH and ERC-20 DEX trading to a range of hardware wallets, such as KeepKey, Trezor and Ledger (in addition to Portis and ShapeShift native software wallets), and enables THORChain trades on the KeepKey hardware wallet and the ShapeShift native software wallet. These changes have positioned ShapeShift as the first cryptocurrency exchange to offer BTC to ETH trades on a hardware wallet.
+
+The company also added USDT and SUSHI tokens to their THORChain-enabled trades, as well as the ability to hold, send and receive native RUNE on KeepKey and ShapeShift native wallets. RUNE trading is expected to be supported in the coming weeks.
+
+With these enhancements, ShapeShift now offers one of the most comprehensive decentralized offerings on the market today, enabling users to easily scan across multiple DEXs and trade ETH and thousands of ERC-20 tokens as well as swapping across blockchains to trade native BTC, LTC, ETH, USDT and SUSHI trustlessly via THORChain—all without added commissions or having to supply personally identifiable information.
+
+ShapeShift provides user flexibility, choice and incentives not available while trading directly with DEXs: Only ShapeShift users can select trades across multiple DEXs as well as natively across chains while also earning FOX Tokens with every trade, qualifying them for Rainfall awards (free USDC rewarded to random ShapeShift users each time someone trades on the platform).
+
+"We are very excited to offer users more options for trading in the manner they prefer—be it on mobile, web, software wallet or hardware wallet, ETH or native BTC, while at the same time providing the best incentives available in DEX trading," said Erik Voorhees, Founder and CEO of ShapeShift. "We are bringing the DeFi experience together into one, easy-to-use platform and will continue to add more capabilities in the future."
+
+About ShapeShift
+
+Since 2014, ShapeShift has been pioneering self-custody for digital asset trading. The company's web and mobile platforms allow users around the world to safely buy, hold, trade and interact with digital asset platforms such as Bitcoin and Ethereum.
+
+Learn more at ShapeShift.com .
+
+Media Contact:
+
+Media Relations
+
+[email protected]
+
+SOURCE ShapeShift
+
+Related Links
+
+https://shapeshift.com
+

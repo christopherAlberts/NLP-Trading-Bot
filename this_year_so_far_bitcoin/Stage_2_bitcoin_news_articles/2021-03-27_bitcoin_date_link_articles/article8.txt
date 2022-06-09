@@ -1,0 +1,187 @@
+Send this page to someone via email
+
+It’s almost impossible to visualize a quintillion. Written out, it looks like this: 1,000,000,000,000,000,000. Perhaps it’s best to think of it as one billion billion.
+
+In February, the Canadian Bitcoin mining company Bitfarms announced that its five warehouses of mining computers crossed the landmark of collectively making one quintillion Bitcoin verification calculations per second.
+
+In the business, that is known as one “exahash” per second.
+
+In cryptocurrency mining, the miner who is first to find the next elusive “hash” number is currently rewarded with 6.25 Bitcoins.
+
+The hash system forms the backbone of blockchain technology, the system on which Bitcoin is built.
+
+Story continues below advertisement
+
+According to Hydro Québec, Bitfarms is one of about 80 cryptocurrency mining companies in the province.
+
+Between them, they went through 1.1 terawatt-hours (TWh) of electricity in 2020, which is almost double the figure from 2018.
+
+It is equivalent to the power used by about 100,000 Canadian homes, or 0.5 per cent of all power sold by Hydro Québec in 2020.
+
+Hydro Québec told Global News that it’s not concerned about the scale of the energy being used by cryptocurrency farming, but it does have safeguards in place to protect its grid from overload.
+
+On Jan. 28, the provincial energy regulator, the Régie de l’énergie du Québec, approved a request from Hydro Québec to obligate cryptocurrency farms to lower their energy consumption during high-demand cold snaps in the winter.
+
+View image in full screen A worker at the Bitfarms cryptocurrency mining operation in Farnham, Quebec. The company has five sites in Canada. Barry Donnelly / Global News
+
+Cryptocurrency mining companies are attracted to Quebec by the relatively low power rates and the chilly winter air, which helps keep the whirring banks of computers cool.
+
+Story continues below advertisement
+
+Worldwide, the cryptocurrency mining industry is booming, too, spurred-on by the stratospheric rise in the price of Bitcoin in the past year.
+
+In March 2021, the University of Cambridge’s Centre for Alternative Finance estimates that Bitcoin miners are currently using what would amount to more than 130 TWh per year.
+
+That’s as much energy as Sweden uses every year.
+
+A study at the same university estimates that 39 per cent of that energy comes from renewable sources, like hydro, solar or wind — in other words, most of it does not.
+
+Bitfarms president Geoffrey Morphy said that’s why Quebec is a sustainable choice for miners, with its abundance of renewable energy, primarily coming from hydroelectric dams.
+
+“In terms of electricity, our largest input is done with renewable energy and then our output being heat,” he said.
+
+“We’re looking for value chain opportunities there where we can actually sell or use our heat as a by-product for other businesses such as greenhouses, pulp and paper, things like that.”
+
+Morphy said the company is currently in talks with a tomato grower to set up an operation beside one of the Bitfarms’ warehouses.
+
+Story continues below advertisement
+
+He also said Bitfarms is looking at setting up a site in South America, where the power source would be natural gas.
+
+“If we were to develop that site, then we would make sure that it’s using the cleanest burning, high-capacity, highly efficient turbines that are possible, to produce it with the appropriate environmental controls on it,” Morphy said.
+
+“We know the world is evolving very quickly to having to deal with carbon credits and carbon offsets, and really heading for a net-zero type of approach. So we’re very mindful of that.”
+
+The greener blockchain
+
+However, some experts believe blockchain technology (a type of digital ledger technology, or DLT) could help tackle climate change, rather than contribute to it.
+
+To understand how and why, you need to get your head around how blockchain works.
+
+Put (very) simply, it is a database of transactions and rules, but instead of it being held in one central location, it is replicated on a “distributed network” of member computers.
+
+Nothing can happen on the network unless a majority of participants agree on the change, and no existing data can be changed — only new data can be added.
+
+Those features aim to ensure security and transparency.
+
+Story continues below advertisement
+
+Apart from Bitcoin, there are numerous blockchain platforms, including the popular open source Ethereum blockchain, the base for the Ether cryptocurrency.
+
+It was co-founded by Russian-Canadian Vitalik Buterin.
+
+View image in full screen Alex Tapscott and his father Don Tapscott co-wrote the book ‘Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World’. Kevin Smith / Global News
+
+Alex Tapscott is one of the leading advocates of blockchain in Canada, and co-wrote the book Blockchain Revolution with his father Don Tapscott.
+
+“(What) blockchain basically enables is digital scarcity — a way to move a unique digital asset over the Internet, peer to peer, to somebody else without the need for a traditional third party, like a bank or a government. And that might seem like a simple innovation, but it’s profound,” Tapscott said.
+
+He said one of the most promising areas is that of “smart contracts,” in which blockchain would automatically look after the security, financial and legal aspects of a contract.
+
+Story continues below advertisement
+
+“All that is, is a piece of software that mimics the logic of a contract or a business agreement. So basically, you could put the deposit money into a digital escrow, inside of a smart contract, wait for the conditions of the transaction to clear, at which point the transaction would become irrevocable, just written in code,” Tapscott said.
+
+And that is where blockchain might help the world to agree — and to honour those agreements — on how to reduce carbon emissions.
+
+Since the Paris Agreement at the United Nations Climate Change Conference of the Parties (COP21) in 2015, countries have failed to reach a consensus on how to implement the deal, including the terms of a global carbon trading scheme.
+
+Pedro Baiz researches sustainable finance at Imperial College London and is head of finance research at the Blockchain & Climate Institute, a think tank set up at COP23. It advises governments and organizations on the green applications of blockchain.
+
+Baiz said offset projects, like tree-planting efforts, or carbon trading schemes between governments and within the private sector, could be efficiently, securely and transparently monitored using blockchain.
+
+“Monitoring, reporting and verification (MRV) is an essential part of many of these sustainable markets, because it’s really where you distinguish those that are ‘greenwashing,’ (those who) say that they are sustainable, but in reality, when you look at the details, they are not. And there, blockchain actually can play a huge role with this part of being a distributor database,” Baiz said.
+
+Story continues below advertisement
+
+“In the simplest cases, when it comes to biomass, (it) could be something as simple as counting trees from satellite pictures and using some very simple formulas to transform those trees into how much biomass is stored based on the type of tree, the size of the tree.”
+
+View image in full screen Sustainable Finance expert Pedro Baiz is head of financial research at the think tank Blockchain & Climate Institute. Braden Latam / Global News
+
+Baiz said current MRV costs deter small farmers in poorer nations from getting involved in sustainable farming.
+
+“Many of the farmers in the poorest parts of the world … barely have two or three hectares of land,” he said.
+
+“So they will never benefit, will never fit under these conditions on getting carbon credits and support for more sustainable farming practices, because they won’t be able to afford all the very different verifiability costs.”
+
+On the larger end of the scale, if national participants in a worldwide carbon trading scheme were all part of a blockchain smart contract, countries could be forced to stick to the terms of the deal, even after a change in political leadership.
+
+Story continues below advertisement
+
+Once a commitment is made, the financial rewards could only be achieved with verified proof that the action has been taken.
+
+Bonds, Green Bonds
+
+Baiz said blockchain could also solve another headache for countries who want to reach climate targets — that of raising the cash to finance green projects.
+
+“When we look at the financial sector as a whole, and green or sustainable financial products, by far, ‘green bonds’ stand out from the crowd,” Baiz said.
+
+“It could be one of those financial instruments that really helps to mobilize the trillions of dollars that we need to tackle to help tackle climate change.”
+
+View image in full screen FILE: The Amazon rainforest near Altamira, Brazil. Experts say funding carbon offset programs like tree planting could be made more efficient and transparent by using blockchain technology. Photo by Mario Tama/Getty Images
+
+A buyer who purchases a green bond is essentially lending money to a government or organization to help them finance an environmental project.
+
+Story continues below advertisement
+
+A report co-written by the HSBC Centre of Sustainable Finance in 2019 estimated that blockchain technology could reduce the cost of issuing a green bond by more than 90 per cent.
+
+The report says the savings would come from automating each stage of the process, such as issuing the bond, legal reviews, brokerage services, and data gathering and verification.
+
+That would make green bonds far more attractive to governments, and to bond buyers who could see verifiable proof of what their money is doing.
+
+“Really, what we need is not just these taxes or labels. What we need is impact. What we need is measurable action, that we say, ‘Oh, yeah, we removed this amount of CO2. We removed this amount of energy consumption,'” said Baiz, who stresses the transparency benefits of a publicly accessible blockchain database for a green bond.
+
+“It’s not just about putting labels and brands and good PR, for a specific organization. It’s about seeing how much does that translates into actual impact.”
+
+In 2019, Spanish bank BBVA issued what it called the “first blockchain-supported structured green bond,” using blockchain for part of the bond process, but Baiz believes the full potential has yet to be realized.
+
+That is a sentiment that could be applied to the broader blockchain world.
+
+Story continues below advertisement
+
+The technology has applications that range from smart contracts to medical data, and even trading NBA highlight clips.
+
+The sale of a digital artwork for US$69.4 million this month was also made possible by blockchain.
+
+But the growing industry is peppered with startups and initiatives that never really got going.
+
+Among them is the Brooklyn Microgrid pilot project.
+
+It is a network of homeowners in Brooklyn, N.Y., who wanted to make the most of their rooftop solar panels, using blockchain.
+
+The idea was to allow them to sell the energy — as “prosumers” — not just back to the network, but directly to individual customers.
+
+One of the participants, the aptly named Daniel Power, said slow-changing regulations and technical hiccups got in the way of progress — at least for now.
+
+Story continues below advertisement
+
+“It never got to a real, even a theoretical exchange,” he said.
+
+“We were playing around with this app and seeing electrons going in and out, but after the approval from the Utilities Commission to take a step further, nothing ever happened, and that’s when COVID hit.”
+
+A project in Lebanon, called CedarCoin, aimed to encourage the Lebanese diaspora to fund tree planting projects using a digital currency.
+
+The United Nations Development Programme (UNDP) initiative stalled in 2019 — somewhat ironically — due to the collapse of Lebanon’s currency.
+
+The Other Bar chocolate bar is a pilot project, using blockchain technology, where consumers have the option to help Ecuadorian cocoa farmers, by funding and tracking new cocoa plants. The Other Bar
+
+The UNDP is also currently supporting a pilot project involving a fairtrade chocolate bar. “The Other Bar” uses blockchain to give consumers the choice between getting money off their next purchase, or sending funds directly back to the farmer who grew the cocoa.
+
+Story continues below advertisement
+
+Tapscott said one of the potential hurdles to blockchain being more widely adopted is that governments might seek to ban the technology before it emerges.
+
+Authoritarian regimes, in particular, may not want to lose their control to a series of shared networks.
+
+“In places like the United States and Canada, the United Kingdom, most of the Western world, governments have been cautiously enthusiastic,” Tapscott said.
+
+“A lot of the best applications of blockchain, for example, central banks, digital currencies, digital health records, land titles, and so forth, are things that the government could benefit a lot from embracing. So I’m pretty optimistic. I’ve been pretty pleased with what I’ve seen so far, and I certainly hope it continues.”
+
+Between 2017 and 2019, the National Research Council of Canada (NRC) engaged in an experiment using blockchain smart contract technology to disclose financial contributions to innovative Canadian small and medium-sized businesses.
+
+The NRC has also collaborated with the University of Waterloo, using blockchain technology as part of a research program on artificial intelligence, the internet of things (IoT), and cybersecurity.
+
+Innovation, Science and Economic Development Canada has been investigating using blockchain to find a standardized method to issue and rapidly verify portable digital credentials.
+
+See this and other original stories about our world on The New Reality airing Saturday nights on Global TV, and online.

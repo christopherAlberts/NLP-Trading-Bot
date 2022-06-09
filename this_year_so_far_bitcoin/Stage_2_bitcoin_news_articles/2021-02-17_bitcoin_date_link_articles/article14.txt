@@ -1,0 +1,49 @@
+Disclosures: Bhatia reports he has assets in bitcoin at the time of this writing. Mandell reports no relevant financial disclosures.
+
+Save
+
+Orthopedist’s guide to ‘HODLing’ bitcoin in 2021
+
+Many orthopedists have known about bitcoin and other cryptocurrencies for years.
+
+In fact, it would not be surprising if some of our resident orthopedic surgeon readers have approached their graduate medical education office and asked to have their resident salary paid in bitcoin instead of U.S. dollars.
+
+If Dr. Bhatia had the foresight in 2010 when he was a PGY2 orthopedic resident to trade a Saturday night’s entertainment budget of $100 for $100 worth of bitcoin, his investment would be worth more than $310,000,000 as of this writing.
+
+Sanjeev Bhatia David B. Mandell
+
+Like it or hate it, 2020 was the year bitcoin became mainstream, largely due to people “HODLing” bitcoin — cryptocurrency Internet slang for buy-and-hold — as an inflation hedge, big investments from institutions like insurance companies and large asset managers, as well as more formal clarification from the IRS acknowledging bitcoin as a taxable asset. In this month’s column, we discuss the meteoric rise of bitcoin and explain why orthopedists should consider having a small portion of their wealth exposed to this novel asset class.
+
+Bitcoin, blockchain technology
+
+Bitcoin, the flagship cryptocurrency, emerged in 2008 when Satoshi Nakomoto, an unknown individual who may be more than one person, published a white paper that proposed bitcoin and its decentralized blockchain technology as an innovative solution to the double-spending problem digital currencies were experiencing with the advent of online transactions. Double-spending is when money is spent in one location and then redundantly also spent elsewhere due to poor recordkeeping, slow processing or fraud. With blockchain, all transactions are added to the end of previous timestamps based on proof of work, thereby creating a decentralized historical record that cannot be changed. The concept in financial terms has been so innovative that some cryptocurrency purists liken Nakomoto to Sir Isaac Newton, Thomas Edison and other revolutionary figures in history.
+
+Meteoric rise, future risk
+
+A key feature of bitcoin that distinguishes it from other currencies, such as government-issued currencies like the U.S. dollar, is only a finite number of bitcoins can be created. As such, some have likened bitcoin to a digital form of gold, another commodity with limited supply.
+
+When bitcoin first appeared on the scene in 2009, it was hardly a respectable currency. Its seminal moment came in 2010 when a bitcoin miner in Florida performed the first known transaction by buying two Papa John’s pizzas for 10,000 BTC (bitcoin). From 2010 to this writing, bitcoin price has ranged from $0.00008 to $31,000. Despite its dramatic rise in valuation, there have been many well-publicized crashes along the way, including one in fall 2017 when bitcoin lost almost 60% of its value in a matter of weeks, going from $19,783 to below $7,000.
+
+Factors that influence valuation
+
+Factors that influence bitcoin valuation include the adoption rate for transactions, institutional investment practices and global regulatory policies. In 2020, the number of individuals holding more than 1,000 bitcoins exploded as many institutions began to recognize bitcoin as a store of value from COVID-19 stimulus spending. No one knows how high bitcoin’s value may go or when future flash crashes could occur. Nonetheless, some have theorized that, if bitcoin continues to be accepted as a form of currency or investment, price targets for 1 BTC theoretically could approach $370,000 to $500,000 by 2030, barring any major setbacks.
+
+Despite extreme bullishness by some, there is tremendous risk in investing in cryptocurrencies. For starters, unlike currencies that are backed by the federal government or gold reserves, bitcoin is purely a digital asset linked to an online wallet. As such, there is tremendous potential for online theft through hacking with no possible recourse through agencies like the Federal Deposit Insurance Corp. For example, Mt. Gox, a Tokyo-based cryptocurrency exchange that operated from 2010 to 2014, famously lost 850,000 BTC for its customers after it was hacked in February 2014 and subsequently went bankrupt. At the time, that sum represented 6% of all bitcoin in circulation, which would be worth $26,300,000,000 today. There is also significant regulatory risk with cryptocurrency investments, particularly if governments decide to outlaw their existence due to competition with national currencies.
+
+Recommendations for exposure
+
+Despite its uncertain future, many institutional and high-net-worth investors are increasingly maintaining a small amount of exposure to bitcoin given its valuation potential. To buy cryptocurrency, you first must open an electronic wallet on a reputable exchange, such as Coinbase or Gemini Trust Company, which are the two largest U.S. cryptocurrency exchanges. Because the IRS requires bitcoin holders to report cryptocurrency transactions on their tax returns, be sure to stay as compliant with these transactions as would be done with other investments and always work with your tax advisor on all reporting issues.
+
+Conclusion
+
+Despite its uncertain future, bitcoin is an asset with significant upside potential. Like other institutions and Fortune 500 companies, orthopedic surgeon “HODLers” may want to discuss taking on a small amount of bitcoin exposure with their financial professional.
+
+References:
+
+Bitcoin: A Peer-to-Peer Electronic Cash System. Nakomoto S. https://bitcoin.org/bitcoin.pdf
+
+Bitcoin’s Price History. www.investopedia.com/articles/forex/121815/bitcoins-price-history.asp
+
+Mt. Gox. www.investopedia.com/terms/m/mt-gox.asp
+
+Wealth Protection Planning for Orthopaedic Surgeons and Sports Medicine Specialists and Wealth Planning for the Modern Physician: Residency to Retirement are available free in print or by ebook download by texting OT21 to 47177 or at www.ojmbookstore.com. Enter code OT21 at checkout.

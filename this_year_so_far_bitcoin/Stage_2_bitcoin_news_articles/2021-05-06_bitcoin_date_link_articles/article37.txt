@@ -1,0 +1,35 @@
+Netherlands-based ING Bank has been analyzing the risks and opportunities associated with the exploding decentralized finance (DeFi) space.
+
+A paper released last month titled “Lessons Learned from Decentralised Finance,” carefully weighs some of DeFi’s pros and cons, and concludes that “the best of both worlds is achieved if centralised and decentralised financial services cooperate.”
+
+Commenting on the paper, ING blockchain lead Herve Francois pointed out that “DeFi could be more disruptive than Bitcoin to the financial sector,” adding that the crypto-friendly Dutch lender has the ecosystem in its sights.
+
+“DeFi is an integral part of ING’s digital asset vision,” Francois wrote in a message to CoinDesk. “Researching into DeFi gives ING insight into what gaps might exist in the new paradigm from a micro and macro perspective.”
+
+DeFi, the replacement of financial intermediaries with automated digital contracts, is a big deal today with around $76 billion in assets locked up on Ethereum alone.
+
+For its part, ING Bank has shown itself to be a pioneer in the cryptocurrency space, leading work among a cohort of banks on an institutional-grade custody solution and also anti-money laundering (AML) measures for digital assets.
+
+ING eyes DeFi
+
+Among the lessons learned, ING pointed to a general trade-off where a reduction in counterparty risk is largely replaced by technical risks around the use of smart contracts.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+However, the borderless nature of DeFi is alluring to ING, according to the paper, because centralized institutions spend a lot of time and money complying with multiple regulations in different jurisdictions.
+
+The paper states:
+
+“Although DeFi currently appears to be a domain on its own, we envision that centralised and decentralised financial services will converge at some stage as both have unique capabilities that are beneficial to the other. There is however the challenge for centralised institutions of making sure that their assets stay within countries that are white-listed.”
+
+Meeting AML and know-your-customer (KYC) requirements is something financial institutions could help DeFi with, according to ING:
+
+“This way a DeFi service could comply to AML regulation. However, as this is uncharted territory, more research is needed to determine the validity of such [cooperation] between centralised banks and decentralised financial services.”
+
+Aave effect
+
+ING selected decentralized lending platform Aave to carry out a case study on various characteristics of DeFi. According to ING:
+
+“The automation of business processes in Aave on a public permissionless blockchain has many advantages over traditional money markets, such as accuracy transparency and speed. However, we argue that the benefits of cost efficiency and better security that come with automating money markets via smart contracts is debatable and introduce new technical risks.”
+
+Aave is known to be weighing institutional DeFi opportunities, having hired some banking specialists and recently joining the Enterprise Ethereum Alliance.

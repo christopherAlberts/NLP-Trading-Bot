@@ -1,0 +1,25 @@
+Bitcoin self-storage startup Casa has raised $4 million in a seed round led by Fidelity Investments’ blockchain-focused Avon Ventures.
+
+The investment comes with a board seat for Avon partner Sachin Patodia, Casa CEO Nick Neuman told CoinDesk. Tioga Capital, Castle Island, Cadenza, Champion Hill, Compound VC, Precursor, Lerer Hippeau and Coinbase Ventures also participated in the round.
+
+Casa will put the funding toward improving the reach of its self-custody bitcoin wallet, anchoring a broader push to woo more users after a year of steady growth. Neuman said new Casa clients increased 325% in 2020 as revenue nearly tripled.
+
+The company, which has raised $7.8 million to date, plans to continue its now year-old focus on building private key management software.
+
+Private keys are decryption keys that give their holder control over the assets in a blockchain-based wallet. Every wallet has a private key, but some crypto services like Coinbase, hold those keys on behalf of their users, mitigating the risk of irrecoverable assets.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Third-party key management often makes a wallet experience feel similar to online banking and likely more accessible to newcomers because of it. But that model strips wallet owners of full control over their cryptographic assets.
+
+“The point of bitcoin is that you optionally can choose to withdraw it from those financial intermediaries, which is much unlike the traditional financial system where you don’t really have the option to ever withdraw,” said Nic Carter, partner at Castle Island Ventures.
+
+Longtime bitcoiners such as Jameson Lopp (Casa’s chief technology officer) oppose third-party key holders on philosophical grounds.
+
+Neuman said Casa is trying to win new users with a self-custodied key management software that is easy to use and that reduces the risk of lost credentials.
+
+“We’re seeing people who have previously only kept their bitcoin on an exchange like Coinbase or they’ve even never owned bitcoin before, and they’re feeling comfortable coming in and holding their own keys with Casa,” Neuman said, explaining the company’s self-hosted wallets.
+
+Casa disclosed the raise at a time of heightened uncertainty for self-hosted wallets. Proposed rules from the U.S. Department of Treasury’s Financial Crimes Enforcement Network (FinCEN) unit would effectively de-anonymize self-hosted wallets that transact $3,000 or more. The rule, which is currently in an extended comment period, could deal a blow to the privacy appeal of self-hosted wallet service, if implemented.
+
+Neuman said the round’s well-placed participant lineup gives Casa’s technology a “very strong endorsement.”

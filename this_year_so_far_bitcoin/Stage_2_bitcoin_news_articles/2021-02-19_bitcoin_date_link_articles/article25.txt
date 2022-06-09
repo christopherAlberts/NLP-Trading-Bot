@@ -1,0 +1,231 @@
+Many fast growing companies today look to equity to fund that growth, whether it is angel money, VCs or the public markets. But equity should not be the default capital choice, it is expensive and often not necessary. Many times debt capital can provide a more optimal solution, one that helps the company maintain fast growth while the founders do not have to give up more equity.
+
+Our next guest on the Lend Academy Podcast is Billy Libby, the CEO and co-founder of Upper90. His company is not just providing debt capital for growth but is looking to be a partner with these companies to help them realize their potential. Their creative financing methods are aligned with founders and are helping tech companies grow without raising equity capital.
+
+In this podcast you will learn:
+
+This episode of the Lend Academy Podcast is sponsored by LendIt Fintech USA, the world’s largest fintech event dedicated to lending and digital banking.
+
+Download a PDF of the transcription of Podcast 286 – Billy Libby.
+
+Click to Read Podcast Transcription (Full Text Version) Below
+
+PODCAST TRANSCRIPTION SESSION NO. 286-BILLY LIBBY
+
+Welcome to the Lend Academy Podcast, Episode No. 286, this is your host, Peter Renton, Founder of Lend Academy and Co-Founder of LendIt Fintech.
+
+(music)
+
+Today’s episode is sponsored by LendIt Fintech USA, the world’s largest fintech event dedicated to lending and digital banking. LendIt’s flagship event is happening online this year on April 27th to 29th with the possibility of an exclusive VIP in-person component. The verdict is in on LendIt’s 2020 event that was held online with many people saying it was the best virtual event they’d ever attended. LendIt is setting the bar even higher in 2021, so join the fintech community at LendIt Fintech USA where you will meet the people who matter, learn from the experts and get business done. Sign up today at lendit.com/usa
+
+Peter Renton: Today on the show, I am delighted to welcome Billy Libby, he is the CEO and Co-Founder of Upper90. Now, Upper90 is a really interesting company, they are very unique in what they do, they are far more than just a capital provider which we get into in some depth, they do provide capital to companies in the fintech space and in other areas, but they’re more than their fund, they are really a partner for growth companies, that’s really what they focus on.
+
+We talk about their thesis, the unique way of raising the fund, particularly who their LPs are and we talk about what are some of the things they look for in a company, what kinds of companies they invest in, the check sizes they write, the typical kind of situations that they’re looking for. Also, it has a fascinating take on what’s going on with embedded finance which we also talk about in some depth and also what’s coming down the pipe. It really was a fascinating interview, hope you enjoy the show.
+
+Welcome to the podcast, BIlly!
+
+Billy Libby: How are you, thanks for having me, Peter.
+
+Peter: I’m great, thanks for coming on. You know, I want to get this started, you’ve got a really interesting career, you’ve spent some time on Wall Street, why don’t you give the listeners a little bit of background about yourself before Upper90.
+
+Billy: Great. So, coming out of college which seems like a long time ago, it’s actually my 40th birthday today so…..
+
+Peter: Oh, Happy Birthday, I didn’t know we were going to be recording on your birthday.
+
+Billy: Yeah. And I just was very lucky, you know, when I started interviewing, Goldman Sachs was the first company that said, look, we see a lot more of you than you see of us and if you trust us, we’ll put you in the right seat and that ended up being electronic trading. I’ve always liked technology and data and being in a more fast paced world and in 2003, covering clients like GetGo, Dijon, Two Sigma which nobody had heard of or wanted to deal with, you know, just gives you, I think, the early days of fintech. That always helped me stay close to startups and ultimately….it took a while, but I think that first exposure really helped me start Upper90 which is, you know, this intersection of quant trading and technology startup investing.
+
+Peter: So, was there an aha moment, what was the genesis of Upper90?
+
+Billy: So, I think there were a few aha moments. So, I was sitting at dinner, probably five years ago, with one of my partners, Jason Finger, who started Seamless and he saw me looking at my phone and he said, what are you looking at? I said, oh, most of my investments because I’m in quant trading are in quant trading funds, you know, which are very short duration and very liquid investments and I said, it was a very volatile day, my portfolio did really well.
+
+He looked at me cross-eyed and he said, look, as the Founder of Seamless, I get shown some of the most interesting technology startup opportunities because that’s what I should be seeing and that’s where I can add value and so my portfolio right now is worth anywhere from zero to infinity. (Peter laughs) It was like the most polar opposite worlds and Jason said, how can I access the opportunities you have and I said the same thing right back to him.
+
+And so the next day, we put together a club of the ten most interesting tech founders and the ten most interesting quant founders and we all organized it really well. We all shared our best deals and it really was meant to bring smart people together because if you bring people with different experiences, you create new opportunities.
+
+Peter: Right.
+
+Billy: And from that, we started seeing opportunities in the tech world where change was really happening that had a tremendous amount of predictability in their earnings. And so, the first company that we invested in was called FilmRise and they take data from Netflix, Hulu, Amazon, YouTube and Roku and they can track what people are watching digitally and they can estimate what the value is of different types of TV content based on those eyeballs.
+
+And so, they were raising capital to go and acquire more libraries and the quant side of our group started looking at all their cohorts and said, wow, you’re buying the rights to all these old British mini series and detective shows and sports documentaries and you’re buying them at one-time revenue and you’re selling them to Netflix at nine times and you have this diversified pool of assets and you have this massive excess spread and you have collateral from the contracts, but why are you raising equity? And the founders said, we’re a tech company, you know, that’s how we grow.
+
+Peter: Alright. (laughs)
+
+Billy: And so, I think just looking at the world in a different way we just kept finding all these really interesting tech companies where there was a way to isolate part of their business and help them grow without sacrificing dilution or control. And, I think, with this aha was kind of bringing together these two worlds.
+
+Peter: Okay. So, is that your main investment thesis then, you know, is it bringing together companies that really don’t need to raise equity because, obviously, equity is expensive and you get massive dilution if you’re a fast growing tech company. So, is that the main thesis to try and avoid founders doing that?
+
+Billy: Yeah. I think there’s two elements here. One is, for capital intensive businesses there’s often not enough equity so like, you know, you could go and accelerate your growth a lot faster if you had access to more capital. The second is the founders, especially in the early stages, are giving up a lot of their company permanently for something that’s measurable and short duration activity.
+
+I think the common thing in all of these is data like data lets you price assets and everything we do now is captured in data. I think 99% of the world’s data has been captured in the last two years so everything we do is going to be measurable. And so, I figure we’re going to see this huge tailwind of like creative ways to finance like specific parts of the business versus equity kind of being the soul for all growth.
+
+Peter: Right, right, right, yeah. So then, before I go any further, I want to dig into who your LPs are because now you’ve got a very different kind of approach here. So, why don’t you just give the listeners some background there.
+
+Billy: Sure. So, it goes back to the thesis of the club, you know, it was all about sourcing, finding interesting deals, there’s a lot more capital than there are opportunities and I think that’s compounded. And so, our LPs, we have 300 LPs that are all interesting business builders so that DNA of the club has become part of our fun, that’s number one, and that includes people like Ted Zagat and Rich Riley and Ross Garon, the other founders of Seamless, founders of Ticketmaster so I think really building our fund around these individuals has helped to see interesting opportunities.
+
+And number two, founders working with Upper90 have to feel comfortable with us. I think, you know, the best day of your life is getting a deadline from Fortress or Victory Park or all these kind of institutional lenders and the like the second best day of your life is when you re-finance that.
+
+Peter: Right. (laughs)
+
+Billy: And so, I think you need people that have been founders, that have sat in that seat that can really help educate the companies of like what are the different options out there because you’re asking them to go a little bit against the traditional like kind of VC playbook.
+
+Peter: So then, do your LPs get…do they help you source deals, like help you in the selling process, I guess, helping close these deals.
+
+Billy: Very much so. If you look at our first fund, over 50% of our deals came from our LPs and that’s number one. I think there’s just a lot of different ways to help founders so one is capital. You know, I’ve been on multiple calls with Jason helping founders talk about estate planning, again, a lot of founders kind of think about what to do after they’ve had an event versus before.
+
+Peter: Right.
+
+Billy: So, like there’s all these ways that we can open doors for new customers, helping them hire. So, I think, we viewed credit is like a very powerful tool to help founders grow, but also maintaining that like equity mindset of adding value not in a temporary partner. So, we will only invest in a company where we do equity and debt so I view it as a hybrid venture fund not a credit fund.
+
+Peter: Okay, that’s fair enough. So then, obviously, venture debt is a pretty well established industry, I mean, you’ve got Silicon Valley Bank that’s been doing it for decades, is that….what’s the difference in what you do and what Silicon Valley Bank does?
+
+Billy: It’s a great question and I think there’s room for everybody here. So, venture debt primarily underwrites the VC so if you raise more equity, we’ll give you 20% of that in debt. Based on my quant background and just based on the thesis of our fund, we can look in an asset of a business.
+
+So, Thrasio, which is one of our largest investments which is buying stores on Amazon and rolling them up, we can look at that activity and say, you’re buying assets, you’re stabilizing EBITDA, you’re growing EBITDA and you have a diversified pool of assets. We will give you credit for that activity independent of any equity you raise. So, if your business is producing revenue and EBITDA, we can fund that growth with capital from Upper90 whereas venture debt is very much tethered to if you raise more equity, we’ll give you more debt. So, like the total cost is quite expensive and still doesn’t really solve the problem for founders around dilution.
+
+Peter: Right, right. So, to get the venture debt, you’ve got to get the venture money in the first place and if you don’t…I mean, do you find that there’s a lot of good companies out there that…..you know, venture has crazy valuations. We were talking before we record here, the crazy world we live in now, are you finding that CEOs and founders are really more open or less open to debt than……because you get a crazy valuation, maybe you take the equity, right?
+
+Billy: We think there’s always room for equity, it’s just the question of what’s the size and when. So, I think for us and going back to our LPs, it’s really critical to find companies kind of pre-Series A before they’ve gone and raised a big institutional equity round. And so, in some ways our slogans become skip your A or delay your A.
+
+Peter: Right.
+
+Billy: So often, company raises their seed round, they prove the model, they have some repeatability and the next milestone is to go raise the large Series A and, you know, if they can go from five customer to ten customers so they can go from one-states to two-states or from one continent to another continent like often we can help them have another milestone just continuing their business activity versus having to raise another equity round prematurely to do that so that’s one.
+
+And then number two is just like a lot of companies, and I think this is exciting for LendIt……you know, when we started Upper90, the name is the top corner of a goal like this hard-to-find skill-based, it’s a soccer reference, and if you just take a step back, you know, any company, regardless of industry, that has customers and has data will be able to offer financing.
+
+Peter: Right.
+
+Billy: And so, I think a lot of it is educating and working with the companies to help them almost create a new product line. So, if you’re Slice which sells technology to independent pizzerias, which I’m a personal investor in, it’s not too far before they will offer financing products to the thousands of pizzerias, you know, for account receivable and inventory and bulk buying. So, I think a lot of it is like educating companies of other products that they can offer where they may not have had the capital to do so,
+
+Peter: Yeah. That’s super interesting because embedded finance is one of the hot topics in lending. We’ve had the Zach from Plaid talk about every company can become a fintech company and it’s part of what it is, I mean, because look at that idea you just talked about. Slice has…..the data they have is probably far better than any bank is going to have, far better than any….unless you’re vertically focused on that industry, you’re not going to have the same kind of depth and breadth of data. I would imagine.
+
+Billy: Definitely. And look, the killer of fintech is CAC and so if you have the customers and you have the data….so I think it’s proper for Upper90 to partner with a lot of these interesting companies, kind of be that first credit facility. You know, what I’ve learned is when you’re a startup, the most important thing is certainty of capital, flexibility of capital than cost and if we can help founders expand their product set or grow into a business, you know, you’d rather do that with a temporary cost of capital than a permanent cost of capital. So, a lot of these is…and that’s why I’m excited to be here is how do we help founders become more aware of what options are available and what cost of capital truly is.
+
+Peter: Yeah, I get that. So then, it sounds like you’re talking…I mean, you really aren’t focusing on any particular vertical, right, how do you decide sort of where to kind of take your focus?
+
+Billy: I think we love helping solve complicated problems for founders and I think based on Jason’s background, we have a focus on e-commerce. You know, I think when he started Seamless…I always tell the story, but I think it’s fascinating, you know, just kind of looking at the world differently.
+
+He was a lawyer for a minute and saw everyone ordering their dinner and giving the receipts to the back office and he saw that he’d get his own credit card that pay 2% cash back and just started taking everyone’s dinner order himself…..and giving the damn receipts to the back office and Paul, his partner who’s one of our LPs, said, hey, what restaurants around New York City will pay us 2% for the dinner order and that’s how Seamless started.
+
+So, I think, you know, our core focus is e-commerce and fintech and that’s receivables and like online acquisitions and inventory rolls ups. And then, I think about a third of our bookers’ special situations where maybe we’re helping a founder buy back his company, you know, at a really low basis to where it’s valued. So, we’re comfortable lending money because we know that company itself is worth a lot more.
+
+We’re lending money to founders against their stock and so I think the ability in Upper90……you know, my other partner, Alex Urdea, understands credit and underwriting really well so the fact that we can underwrite the equity of the business and what it’s worth from Jason and underwrite the asset from Alex, I think it lets us have a couple of different ways to lend money because…..you know, the reality is if everyone had the same loan tape and the saw the performance of a fintech company, banks would be competing for that. So, we’ve done things where we can just, you know, help founders solve complicated problems primarily in technology, e-commerce, fintech.
+
+Peter: Right, right. So, you’ve mentioned a couple of names so maybe can you give the listeners…..I know some names that they know in the fintech space that are part of your portfolio.
+
+Billy: Sure. So, I’ll start with one since we just saw Tesla make a big announcement…..
+
+Peter: Yes, exactly.
+
+Billy: One of our companies that I’m very excited about is called Crusoe Energy Systems and Chase Lochmiller also comes from….he was at Jump Trading and Polychain, he’s a personal friend, he’s actually an LP in Upper90 and started his company about two years ago where he created portable data centers that he’s bringing to the middle of the United States to, you know, Wyoming, North Dakota where there’s a large amount of oil drilling, but there’s no pipeline. And so, when you drill oil, they often will ship the oil on transit, but the natural gas gets burned and flared. So, I believe there’s more natural gas getting burned in the US every year than the amount of energy consumed in Japan.
+
+Peter: Wow.
+
+Billy: It’s enormous and so, he’s built these proprietary data centers that can be moved on site to the oil fields and he’s basically getting paid to take this natural gas and converting it to energy to mine Bitcoin.
+
+Peter: (laughs) That’s great.
+
+Billy: And really, what he’s doing…the reason why I’m so excited about the business is he is capturing this exhausted energy and he is initially using it to mine Bitcoin, but over time, it’s a distributed cloud computing business to do anything that’s computationally intensive.
+
+Peter: Right.
+
+Billy: And so it goes back, there’s more data than we have energy to crunch. And so, he needed capital for the data centers themselves like for the generators that had nothing to do with Bitcoin, but because it was a tech company and a startup and doing crypto, you know, the traditional equipment financiers…..you know, all these traditional lenders and sources of capital were not available so he would either have to slow growth or to really dilute himself.
+
+So, Upper90 created a $40 Million facility to fund the distributed group of these projects where we finance the data centers that had kind of this individual collateral with an upside based on crypto. So, I think that’s like a really exciting example of how you can isolate a core growth activity and were able to solve a problem which actually helped the company accelerate growth and reduce dilution.
+
+Peter: I love that too because it’s also using waste, something was going to waste and doing something.
+
+Billy: I’m super excited about this, everyone should keep an eye out for it and just super interesting space, you know, but, again, bringing together like a lot of these. His partner comes from oil and gas. So, that’s one example of where I really view this as a partner solving that and we’re also smaller equity investor.
+
+Another company is called Thrasio which is buying stores on Amazon. So, there’s 50,000 small business owners on Amazon selling hiking poles and white boards and, you know, you name it, they make over $1 Million of EBITDA a year. But, each one of them…it’s easy to start a business online, you know, we could leave this and start a business selling any product very quickly, but the cost to scale it is still is what traditionally is the limiting factor. So, you know, inventory capital and supply chain expertise and marketing dollars and all the things that are capital intensive. So, Thrasio is rolling up all these small stores on Amazon into one big holdco and providing massive operational excellence and capital to them.
+
+And so, it’s the fastest unicorn, profitable unicorn in the US or one of them. They just completed a multibillion dollar equity valuation raise, we were the first equity and debt provider when the company was in the, you know, tens of millions of dollars valuation. They raised I think $6 Million of equity and we ended up giving them almost $50 or 75 Million of debt before they raised another dollar of equity.
+
+So, this is like a great example going back to venture debt of like if it’s working, we can scale with the company in an undiluted way versus requiring kind of equity checkpoints. So, that’s another one we are unbelievably excited about and I think if we had this call 20 years ago, we would be talking about rolling up dry cleaners and coffee shops and gyms, you know, all these sub-scale fragmented assets. I can say what’s new is old, you have all these businesses that are being created online that have traditional capital needs.
+
+Peter: Right.
+
+Billy: And I think there’s that kind of we’re not splitting the atom here, we’re just trying to, you know, solve a problem that has existed.
+
+Peter: So, it sounds like your average check size is a pretty wide range from what you’re saying, what’s the smallest check size you do and what is the average?
+
+Billy: I think the earlier that we can start with the business, the more value we can add. So, we’ve started with a $2 Million check because we love the founder, it was the simplest way to get started in a relationship and show that we could be partners and I think the largest upfront check we’ve done is $50 Million. The largest facility we’ve done is $500 Million.
+
+Peter: Wow! And what are the terms? If you’re providing this, is everything unique or you have sort of a standard set of terms that you like to apply?
+
+Billy: I think everything is bespoke, but I can walk through, you know. kind of a general framework. I think a couple of things that we’ve done, you know, that I’m proud of is we raised a smaller fund, I think we could have raised a larger fund, but our last fund was $200 Million. So, we don’t feel obligated to….if $5 Million is what the company needs, we’re happy with that position size.
+
+So many of these funds have raised gargantuan dollars and so their goal seek is to try put as much money in the company as possible. So, generally, our facilities are bespoke and, you know, I’d say generally they’re kind of like low teens with high advance rates, you know, with just generally more flexibility so that could be higher concentration limits or higher advance rate or just, you know, some of the tools that companies need in the early phases when they’re still figuring it out.
+
+Peter: Right, right. And what about term length, are you doing this over say three years, five years, what are you trying…..
+
+Billie: I think our average facility is usually in place for two years, maybe three years.
+
+Peter: Right.
+
+Billy: And we like to work with other partners, you know , people have been able to bring in parallel facilities. You know, we always…I think a lot of people in the lending space ask for freebies and warrants and have all these hidden fees around origination and we keep it very simple, there’s none of those hidden fees around, you know, like unused fees and origination fees.
+
+As I said, we just wanted to provide capital to companies we’re excited about the business and so we will buy equity and be an equity partner not…..I would think it’s funny when these credit funds say, you know, we don’t really care about the equity outcome. I said, why are you asking for warrants. (Peter laughs) I think it’s just creating alignment with the founders.
+
+Peter: Right, right, fair enough. So, I want to go back to this thing, I think you’ve touched on it, but I want to dig into it a bit more because we had a revenue-based financing session with you at LendIt last year and you said this interesting thing. You said that data creates asset classes, is that sort of some of the things you’ve been talking about the Slice thing, but maybe can you just kind of tease that out a little bit more.
+
+Billy: Sure. And I think it’s actually quite exciting if you take a step back because if you and I wanted to create a business that wasn’t going to be a unicorn, but you knew that you could own the majority of the business, like that would be a great business to start. So, I think to give examples might be more informative than just me talking. So, you know, when COVID ends and everyone goes back to get an internship at McKinsey or Goldman or LendIt or Upper90, you know, most people coming to New York City or Boston or London have to get an apartment before they get a paycheck and a lot of people don’t have that cash flow.
+
+And so, there’s going to be companies that integrate with the payroll of all these large corporations and will be able to validate employment and how much are they getting paid to give an advance for an apartment for a percentage of their future paycheck. The Uber driver that gets paid every two weeks, but needs money more frequently, companies like Claire and others will help validate that transaction, those events. Even Thrasio, you know, they’re turning the Amazon seller into an asset. Twenty years ago, you go and get Excel or Quickbooks from a pizzeria now, you can log into their Amazon account and check everyday sales.
+
+You know, people were going back to school and getting trained to be a pilot, you can predict what the probability is of their future earnings in job placement and they can effectively sell equity in themselves today to get their school paid for. So, I think like, you know, everything that we do is going …I think …an eye-opening…it was an aha moment, in my career, there were two aha moments. One when I was at Knight Capital briefly, the New York Stock Exchange and Nasdaq at that time, charge all firms effectively the same commission to trade.
+
+So, if you were trading against BlackRock as a market maker, that order would have a lot of impact because of the size of the order. So, if you sold the share today, that would keep moving up in price because of the size BlackRock needed to buy. If you’re trading against Two Sigma, they’re trading because I think at this microsecond there’s some type of mispricing so you’re unlikely to make money there.
+
+You know, if my mother is buying a share of Google for my grandkids like she has no size or view and so Knight and Citadel went to all the retail firms and said, look, if we know it’s you and we’re not getting picked up or run over, we can give you a better price and so this whole…it’s like insurance like micro-pricing, the healthy versus the sick.
+
+Peter: Right.
+
+Billy: And then, which said, hey, if you live in New York City, 70% of people are weekend drivers and they’re paying the same insurance as the daily drivers. So now, we can put a tracker in your car and track your insurance by the mile. So, like this whole tailored financing and micro-pricing, I think, is going to be like in everything we do and it’s going to just change, you know, what’s kind of experimental where you should be using equity versus what’s predictable, where you should be using things like Upper90..
+
+Peter: And why do you think there’s not more companies doing what you’re doing? Is it just because it’s hard because there’s just not that many, you know, there’s not much in the way of debt financing for growth companies. It’s not a really well populated niche, so why do you think that is?
+
+Billy: I think it’s going to change, I think you’re going to see a couple of VCs that are going to start offering credit alongside equity. I think QED and Andreessen Horowitz, some of the more advanced fintech firms, I think, are going to just….it’s almost like…. I look back when Goldman started banking and the companies went public so they created sales and trading and, you know, they needed the companies and wanted to go and raise debt so they created fixed income.
+
+So, I think you’re going to see more of the larger VCs become asset managers, but I think it’s just bringing together people from different backgrounds like when I really tried to put up Upper90 together, it was to get the DNA of the equity and the debt together in one place. I think most firms are either one or the other.
+
+Peter: Right, right, yeah. I have had heard rumors of debt funds coming from VCs so we’ll see what happens there. Okay, so we’re almost out of time, but before I let you go maybe you could sort of take a look at fintech today. We’ve covered a few topics already, but what do you think are some of the interesting trends that we haven’t talked about in fintech today?
+
+Billy: It’s a good question. I mean, we touched briefly on embedded finance and we touched briefly on data, I think every company is going to offer some form of a financial product and I think fintech just becomes what is part of a business and I think it’s extremely exciting. I mean, you’ve talked about that a lot, some are not going to deliver the…. I think we’re early in embedded fintech. I just think it’s going to be…it’ll be part of kind of every business versus it’s own category.
+
+And then, the other thing that I think is very interesting is the emergence of like the small business owner, like it’s so much easier today to start a business, you know, if it was 20 years ago, we needed like rent a corner store front and we’d have to get insurance and we’d have to …..like the burden to be a small business owner. I remember when we talked briefly about some of your prior entrepreneurial experiences maybe in printing, I forget what it was, but I just think what Amazon’s doing and Shopify like the rails to be your own entrepreneur I think is….or starting a store in Etsy.
+
+I think it’s so good for society and the ability to kind of go and get not just SBA financing but getting inventory financing from Payability, getting marketing financing from ClearBank, growth capital from Upper90. I think the ability to start a business online and the access to capital because you can validate data. I think it’s going to open up a whole new world of entrepreneurs and it’s not like VC-backed entrepreneurs, it’s like the, you know, ability to kind of run your own small business.
+
+Peter: Yeah.
+
+Billy: So, I think another big theme is the…like I don’t know what you call it like the hippo, you know, like there’s the unicorn where everyone’s trying to go and be this multi billion dollar company. I think all these creative financing options will let people kind of create small but very strong businesses like Franchising 2.0.
+
+Peter: Right. For me…I mean, my Dad was an entrepreneur, I’m an entrepreneur and this is my fifth company, LendIt, it may well be my last because I find it endlessly fascinating, but, you know, I think you’re right, it’s really interesting. The barrier to entry to being a small business owner has just gone down so far from what it was even a decade ago.
+
+Billy: Yeah. We could start a YouTube channel, I think that scenario that we’re looking at like rolling up….you know, you can look at the number of viewers on a channel and predict future revenue. Instagram accounts, Wave TV like, you know, buying Instagram accounts based on the number of viewers that they’ve attracted, like what’s the value of somebody who’s a viewer of a channel.
+
+Peter: Right.
+
+Billy: To me, it’s going to open up the ability for people to start businesses and I feel Upper90 is like we’re earning a good return, but we’re just helping finance, like some of these kind of new and emerging industries that have not been like a focus for VCs.
+
+Peter: Right, right, okay. So, last question then, what’s next for you guys, are you going to be raising a new fund, are you doing more of the same, what are you planning for this year and beyond for that matter?
+
+Billy: So, we just closed our second fund in November and we hit our hard cap of $200 Million. I, personally, got a lot of satisfaction out of having this really unique LP base, I love learning from them and talking with them and finding the opportunities. The world has a lot of flexibility, you know, if you go and get institutional capital, you kind of take away a lot of the flexibility to solve problems for founders. So, I think on the fund side, it’s like keeping fund AUM around this size, like we can start small, but we can do a big enough check for that first phase and I think we’re just brainstorming more special situations like should we do a SPAC?
+
+You know, we think we see a lot of interesting companies that are kind of in-between focus areas, should be incubate businesses, should we partner with the companies in our portfolio. Thrasio started a business that is lending money to Amazon sellers, not acquiring them, called Yardline, you know, ClearBank. To me, it’s the future of venture, they sit on so much data around so many companies. So, I think there’s a lot of ways for us to keep the fund size the same and build kind of almost like equity expressions around the fund in partnership for ourselves.
+
+Peter: Right, right, interesting. Well, we’ve run out of time, Billy, it’s been really an eye-opening interview. I really appreciate your coming on the show today.
+
+Billy: Thank you so much. If I was talking to you as a potential partnership, I would say, you know, Peter, you have your LendIt Conference next year, can we help you finance some of your future receivables so you can bring cash today against what you expect to get in the future. You know, you want to roll out LendIt Europe, is there enough predictability around demand that we can help finance that versus you having to raise more equity. So, I think the most fun is working with founders and kind of try to uncover their goals and figuring out if there is a creative way that we can help solve that with some company between equity and debt, debt equity
+
+Peter: Okay, we’ll leave it there, thanks.
+
+Billy: Okay, bye.
+
+Peter: You know, I just want to go back to something Billy just said there. He talked about data and how it’s really creating more opportunities for small business owners, for entrepreneurs everywhere and how….this is something that…I know that Karen Mills, the former Head of the Small Business Administration, talks about, talked about it in her new book, she called it Small Business Utopia and what Billy was talking about there really points to the same thing and it’s all around data.
+
+The data that every small business has is going to really….all of it is going to be used to really ascertain how healthy the business is, what kind of capital it needs, what the price of that capital is. With companies like Billy doing creative ways to help companies grow, you’re really looking at a situation, the future where, you know, small business owners will be able to get access to the capital they need, whether you’re just a local pizza place or whether you’re wanting to roll up a hundred different pizza places and create a juggernaut, there’s going to be a capital that is going to be available to you and I think that’s going to be super exciting.
+
+Anyway on that note, I will sign off. I very much appreciate your listening and I’ll catch you next time. Bye.
+
+Today’s episode was sponsored by LendIt Fintech USA, the world’s largest fintech event dedicated to lending and digital banking. LendIt’s flagship event is happening online this year on April 27th to 29th with the possibility of an exclusive VIP in-person component. The verdict is in on LendIt’s 2020 event that was held online with many people saying it was the best virtual event they’d ever attended. LendIt is setting the bar even higher in 2021, so join the fintech community at LendIt Fintech USA where you will meet the people who matter, learn from the experts and get business done. Sign up today at lendit.com/usa.

@@ -1,0 +1,45 @@
+LAS VEGAS, May 05, 2021 (GLOBE NEWSWIRE) -- Marathon Digital Holdings, Inc. (NASDAQ:MARA) ("Marathon" or "Company"), one of the largest enterprise Bitcoin self-mining companies in North America, has successfully directed all of its hashrate to the Marathon OFAC Pool, Marathon’s recently launched mining pool, thereby becoming the first North American enterprise Bitcoin miner to produce Bitcoin in a manner that adheres to anti-money laundering (AML) and the U.S. Department of the Treasury’s Office of Foreign Asset Control’s (OFAC’s) standards.
+
+
+
+On March 30, Marathon announced that it was launching the first Bitcoin mining pool based in North America that is fully compliant with U.S. regulations, including AML and OFAC’s standards. The mining pool refrains from processing transactions from those listed on the U.S. Department of Treasury’s Specially Designated Nationals and Blocked Persons List (SDN), therefore ensuring all bitcoin mined by the pool is compliant with U.S. regulatory standards.
+
+On May 1, Marathon began directing all of its hashrate to the new mining pool. As a result, all bitcoin that Marathon produces from May 1 onwards will be produced in a manner that complies with U.S. regulatory standards. While Marathon is the first U.S.-based enterprise miner to point its miners towards this pool and to integrate these standards, the pool will begin accepting other U.S.-based Bitcoin mining companies on June 1, 2021.
+
+“We’ve built Marathon into one of the leading Bitcoin miners in North America, and we are always looking for innovative ways to improve on that position and to better our industry as a whole by enabling more institutions and individuals to participate,” said Fred Thiel, Marathon’s CEO. “The mining pool we recently launched is an archetype of our philosophy and approach to the industry. Today, the majority of Bitcoin’s global hashrate is concentrated in pools in a single country outside the United States, and there is little regulatory oversight of how U.S.-based miners process transactions. We believe the concentration of mining pools and the lack of oversight pose potential risks to our industry.
+
+“Our pool proactively addresses both of these issues. By shifting mining power back to North America, we believe the network will become more decentralized and stronger as the risk of other governments interfering with the mining industry is reduced. By excluding transactions between nefarious actors, we can provide investors and regulators with the peace of mind that the bitcoin we produce is ‘clean’, ethical, and compliant with regulatory standards. We have spoken to many large funds and corporations who have expressed interest in purchasing Bitcoin, but who are concerned over the lack of OFAC compliance. It is our belief that the Marathon OFAC Pool will help diminish these concerns. These advancements are good for our business, our shareholders, and our industry, and we look forward to enabling other miners to share in these benefits as the pool opens to new entrants in June.”
+
+About OFAC
+
+The U.S. Department of the Treasury’s Office of Foreign Assets Control (OFAC) administers and enforces U.S. economic and trade sanctions programs against targeted foreign governments, individuals, groups, and entities in accordance with national security and foreign policy goals and objectives. To learn more about OFAC, visit this website.
+
+Investor Notice
+
+Investing in our securities involves a high degree of risk. Before making an investment decision, you should carefully consider the risks, uncertainties and forward-looking statements described under "Risk Factors" in Item 1A of our most recent Annual Report on Form 10-K for the fiscal year ended December 31, 2020. If any of these risks were to occur, our business, financial condition or results of operations would likely suffer. In that event, the value of our securities could decline and you could lose part or all of your investment. The risks and uncertainties we describe are not the only ones facing us. Additional risks not presently known to us or that we currently deem immaterial may also impair our business operations. In addition, our past financial performance may not be a reliable indicator of future performance, and historical trends should not be used to anticipate results in the future. Future changes in the network-wide mining difficulty rate or Bitcoin hashrate may also materially affect the future performance of Marathon's production of Bitcoin. Additionally, all discussions of financial metrics assume mining difficulty rates as of May 2021. See "Safe Harbor" below.
+
+Forward-Looking Statements
+
+Statements made in this press release include forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements can be identified by the use of words such as “may,” “will,” “plan,” “should,” “expect,” “anticipate,” “estimate,” “continue,” or comparable terminology. Such forward-looking statements are inherently subject to certain risks, trends and uncertainties, many of which the Company cannot predict with accuracy and some of which the Company might not even anticipate and involve factors that may cause actual results to differ materially from those projected or suggested. Readers are cautioned not to place undue reliance on these forward-looking statements and are advised to consider the factors listed above together with the additional factors under the heading “Risk Factors” in the Company's Annual Reports on Form 10-K, as may be supplemented or amended by the Company's Quarterly Reports on Form 10-Q. The Company assumes no obligation to update or supplement forward-looking statements that become untrue because of subsequent events, new information or otherwise.
+
+About Marathon Digital Holdings
+
+Marathon is a digital asset technology company that mines cryptocurrencies with a focus on the blockchain ecosystem and the generation of digital assets.
+
+Marathon Digital Holdings Company Contact:
+
+Jason Assad
+
+Telephone: 678-570-6791
+
+Email: Jason@marathondh.com
+
+Marathon Digital Holdings Investor Contact:
+
+Gateway Investor Relations
+
+Matt Glover and Charlie Schumacher
+
+Telephone: 949-574-3860
+
+Email: MARA@gatewayir.com

@@ -1,0 +1,43 @@
+DTH Photo Illustration. Many cryptocurrencies, such as Bitcoin, have a carbon footprint due to the large amount of energy needed for transactions.
+
+"That’ll be $50 for 25 tickets, sir."
+
+Try to picture that stereotypical old guy at the gas station who shows up every week to cash in an unhealthy portion of his paycheck for a chance at the Mega Millions. He swears to you that some combination of lucky numbers will be winners someday. This old man is, in essence, a crypto miner.
+
+How does the old man increase his odds? He buys more tickets. How do crypto miners increase their chance of winning a block “lottery”? They buy more processing power.
+
+These computers demand egregious amounts of electricity to solve the complex calculations involved in crypto mining, meaning that carbon dioxide is also produced in copious volumes. To clarify, we’re talking about nearly 37 million tons of carbon dioxide a year. Research suggests that Bitcoin itself could cause global temperatures to rise 2 degrees Celsius in the next 30 years.
+
+Hash is king
+
+If you know much about cryptocurrency, you may have heard the term "hash rate" before. It refers to the speed of a particular computer network, and directly correlates to how fast a server can mine a cryptocurrency. Just like the persistent old man, corporations or the individuals behind crypto mining operations desperately want to maximize their hash rate for the best chance of winning the jackpot.
+
+Crypto mining plays a greater role than simply putting Bitcoin into the pockets of miners. The calculations involved in mining assist in the verification of transactions between users. Since there is no centralized institution to ensure the credibility of a crypto transaction, a record is sent to thousands of crypto miners so their computers can perform the calculations required for verification.
+
+The lottery aspect of cryptocurrency serves as a carrot on a stick to incentivize miners to carry out this process. Essentially, each block of transactions is tied to a target number — this is the lucky lottery number every miner hopes to guess.
+
+The first miner or mining pool (multiple miners working in collaboration) to do so wins the lottery — a specific sum of the respective cryptocurrency — and their record of the transaction block becomes immortalized within the blockchain.
+
+“To the Moon” leaves the Earth behind
+
+Online stock traders have recently popularized the phrase “to the moon” to describe the strong performance of cryptocurrencies over the past several years. As the values of Bitcoin, Ethereum, Dogecoin and other cryptocurrencies continue to rise, miners of these currencies are further motivated to increase their computing power for a chance at winning the crypto lottery — resulting in an ever-growing rate of energy consumption.
+
+In 2021, Bitcoin mining now utilizes roughly 66 times the electricity it did in 2015. This trend can be clearly seen using the University of Cambridge’s CBECI tool, which was created to accurately visualize Bitcoin’s past and current electricity consumption.
+
+Traditional environmental regulation of cryptocurrencies is infeasible due to their decentralized nature and the fact that none are currently recognized as legitimate currencies. Furthermore, there are drastic differences between the infrastructures and energy demands of different cryptocurrencies, making policy standardization even more challenging.
+
+Burning (less) at the Stake
+
+While cryptocurrencies like Bitcoin utilize the system described above known as Proof of Work (POW), others have begun to build around a Proof of Stake (POS) concept. A POS allocates mining power to corporations based on the proportion of total cryptocurrency owned.
+
+In a POS, only one server is given the task of transaction validation, instead of all the processors connected to the network. This means that although the system still relies on a lottery, the probability of being selected is only contingent on the amount of the cryptocurrency owned, not processing power.
+
+A POS can be likened to a cap-and-trade system, wherein companies must have allowances to produce a set level of emissions. There will always be a relative cap on the electricity usage that goes into POS systems, because a company will never be motivated to waste electricity beyond what is necessary to process its respective share. Whereas POW emphasizes unyielding competition, POS enforces a hierarchical restraint.
+
+Ethereum is the first major cryptocurrency making plans to transition from a POW to POS system. It estimates that with a POS framework, its energy consumption will be reduced to only 1 percent of current usage.
+
+Regulation may be difficult or even impossible to enforce on currencies rooted in the principles of decentralization. The foundation cryptocurrencies rely on must be reconstructed from the bottom up through a POS framework to rectify the nature of incentivization.
+
+One must allow for a system that raises the question: why would the old man buy more lottery tickets if it wouldn’t help him win?
+
+opinion@dailytarheel.com

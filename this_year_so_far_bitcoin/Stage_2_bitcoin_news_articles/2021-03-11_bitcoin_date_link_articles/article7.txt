@@ -1,0 +1,13 @@
+Foundry, the cryptocurrency mining firm owned by Digital Currency Group (DCG), is opening its mining pool to additional institutional customers, emerging from a five-month beta phase during which the company has already grown into one of the industry’s largest players. (DCG, a cryptocurrency-focused investment conglomerate, also owns CoinDesk.)
+
+Foundry’s North America-based pool ranks among the 10 largest with over 4 exahashes per second of mining power, according to network data collected by BTC.com. An exahash represents a quintillion computations, or computer-generated guesses at the cryptographic puzzles that must be solved every 10 minutes or so to keep the Bitcoin blockchain running.
+
+CEO Mike Colyer said his company wants to offer an experience “tailor-made to fit the needs of institutional mining companies.”
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Concurrent with the end of its beta phase, Foundry’s pool has added Texas-based Blockcap to its growing list of clients. Using roughly 10,000 mining machines in Foundry’s pool, Blockcap represents over 0.9 exahashes of computing power.
+
+In mid-January, Foundry teamed up with Minnesota-based Compute North to launch a 14,000-machine mining facility, also targeting institutional miners.
+
+The past six months of growth puts Foundry “a step closer to its ultimate aim of securing a spot among the top 5 pools, which has historically been dominated by strictly China-based pools,” according to a statement.

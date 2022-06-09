@@ -1,0 +1,109 @@
+There has been recent speculation that banks are about to enter the cryptocurrency markets. This makes a lot of commercial sense: There clearly is customer demand for banks to offer services similar to those they offer for other financial assets.
+
+But cryptocurrencies, including perhaps the most famous example – Bitcoin – are not like other financial assets. They are highly volatile, and raise significant questions of proper risk management, custody and use. While banks generally have broad powers to engage in custody, trust, and financial intermediation activities on behalf of their customers, their ability to engage in investment and trading activities for their own account is much more limited. As a result, when considering the degree to which banks may engage with cryptocurrencies, one fundamental question is whether banks may own or trade Bitcoin on a principal basis. David M. Solomon, chief executive officer of Goldman Sachs, does not think so, given his comments from the recent Goldman Sachs' earnings call:
+
+Of course, we need to operate within the current regulatory guidelines. For example, we cannot own Bitcoin or trade it as principal.1
+
+We think we know why Solomon said this: Cryptocurrencies such as Bitcoin are commodities, and banks have limited authority to own or trade certain commodities as principal.2 In federal banking law parlance, these activities may be physical commodities, the trading of which requires special approval.3 Why does this matter? Certain authorities permit banks to commence new activities immediately, while others require the prior approval of the Board of Governors of the Federal Reserve (the "Federal Reserve") and can take a significant amount of time and expense.
+
+Below, we analyze these restrictions and how they may affect the ability of banks to own and trade Bitcoin.
+
+Bitcoin is a commodity
+
+Bitcoin is a virtual currency created in 2008.4 Many of its salient characteristics – among others, a reliance on public-key cryptography, a "distributed ledger" maintained by a decentralized peer-to-peer network of computers, and a consensus mechanism allowing that decentralized network to agree on the contents of the ledger – form the foundation of many digital assets that exist today. Another key characteristic of Bitcoin is that it is intangible: it exists only as strings of data, and as a result, it and other digital assets raise the existential question of how one should classify them for regulatory purposes. In 2015, the Commodity Futures Trading Commission (the "CFTC") determined that certain virtual currencies, including Bitcoin, are commodities subject to regulation and enforcement under the Commodity Exchange Act (the "CEA").5
+
+While Bitcoin has been around for more than a decade, its emergence as an asset with a market sizable enough to attract the attention of institutional investors and global banks is fairly recent. We previously began investigating the ability of banks to engage with virtual currencies in a number of contexts that implicated the "Volcker Rule,"6 but many issues remain to be analyzed. Below, we consider whether bank holding companies ("BHCs") may engage in the spot trading of virtual currencies under the Bank Holding Company Act of 1956, as amended (the "BHC Act").7
+
+What commodities activities may BHCs engage in?
+
+Section 4(c)(8) of the BHC Act and the Regulation Y laundry list
+
+Section 4 of the BHC Act prohibits BHCs from engaging directly or indirectly in any "nonbanking" activities, unless an exemption from the general prohibition is available.8 Commodities activities are generally characterized as nonbanking activities, and are therefore subject to this general prohibition absent an exemption. These exemptions, generally referred to as "authorities" are available for a wide range of investments and activities. One such authority, section 4(c)(8) of the BHC Act, permits BHCs to engage in non-banking activities that are "closely related to banking," as that term has been defined by the Federal Reserve.9 Pursuant to the Federal Reserve's Regulation Y,10 BHCs may engage in investing and trading activities as principal with respect to the following:
+
+(B) Forward contracts, options, futures, options on futures, swaps, and similar contracts, whether traded on exchanges or not, based on any rate, price, financial asset (including gold, silver, platinum, palladium, copper, or any other metal approved by the [Federal Reserve]), nonfinancial asset, or group of assets, other than a bank-ineligible security,11 if:
+
+A state member bank is authorized to invest in the asset underlying the contract; The contract requires cash settlement; The contract allows for assignment, termination, or offset prior to delivery or expiration, and the company— Makes every reasonable effort to avoid taking or making delivery of the asset underlying the contract; or Receives and instantaneously transfers title to the underlying asset, by operation of contract and without taking or making physical delivery of the asset; or The contract does not allow for assignment, termination, or offset prior to delivery or expiration and is based on an asset for which futures contracts or options on futures contracts have been approved for trading on a US contract market by the Commodity Futures Trading Commission, and the company— Makes every reasonable effort to avoid taking or making delivery of the asset underlying the contract; or Receives and instantaneously transfers title to the underlying asset, by operation of contract and without taking or making physical delivery of the asset.
+
+(C) Forward contracts, options,12 futures, options on futures, swaps, and similar contracts, whether traded on exchanges or not, based on an index of a rate, a price, or the value of any financial asset, nonfinancial asset, or group of assets, if the contract requires cash settlement.
+
+Commodities derivatives activities that BHCs conduct pursuant to the foregoing provisions of Regulation Y are subject to a number of restrictions designed to curtail the risks associated with "commercial" commodities activities. Specifically, with respect to derivatives on commodities that banks cannot own directly, which are most commodities other than certain precious metals, BHCs are required to make "every reasonable effort" to avoid physical delivery of the underlying commodities or to take physical delivery only on an instantaneous pass-through basis. If a BHC already is engaging in these activities with respect to other commodities, it should be able to begin such services with Bitcoin without further approval from the Federal Reserve. A BHC beginning such commodities activities de novo generally can gain approval to do so from the Federal Reserve within 12 days of providing a short-form notice to the Federal Reserve.13
+
+According to Regulation Y, it seems likely that BHCs may invest in and trade Bitcoin but only as long as they do not take the Bitcoin on their balance sheets as principal. While this provision will allow BHCs to engage with their clients in many client-driven trades and financings, it does not permit the BHCs to take Bitcoin as principal on their balance sheets in almost any circumstance.14
+
+Key to this conclusion is a determination that a BHC engaging as principal with Bitcoin does not take "physical" delivery of the Bitcoin. As Bitcoin is a digital asset that does not appear in physical form, the application of this standard is unclear. However, as the term "physical" in this context refers to accepting delivery of a commodity (as opposed to the nature of the commodity), we believe that any transaction that results in a BHC taking title to, or control over, Bitcoin will meet the definition of physical commodities trading.15
+
+The GLB Act and Section 4(k) of the BHC Act
+
+In 1999, the GLB Act added section 4(k) to the BHC Act. The GLB Act authorized an additional set of powers for certain BHCs. BHCs that are, among other things, well-capitalized and well-managed, may elect to be treated as financial holding companies ("FHCs"). Among other provisions in the GLB Act, section 4(k)(1)(B) permits the Federal Reserve to determine, upon an application, that an FHC may engage in activities that are "complementary to a financial activity."16 The GLB Act did not define what constitutes a "complementary" activity, nor did the legislative history provide guidance.
+
+However, the Federal Reserve has since issued a number of orders to individual FHCs allowing those FHCs to engage in trading activities with respect to certain physical commodities, including both spot transactions and derivatives transactions that require the FHC to take physical possession of the commodities in question. The Federal Reserve determined that Section 4(k)'s complementary authority was intended "to allow the [Federal Reserve] to permit FHCs to engage in a limited basis in an activity that appears to be commercial rather than financial in nature, but that is meaningfully connected to a financial activity such that it complements the financial activity."17 Given these precedents, we believe that the Federal Reserve could permit an FHC, upon approval by the Federal Reserve, to use its complementary authority to engage in spot transactions as principal with respect to Bitcoin, subject to other, separate restrictions in the GLB Act and other applicable law.18
+
+What is the history of the Federal Reserve permitting physical commodities trading for BHCs?
+
+The Federal Reserve first addressed physical commodities activities by BHCs in approving Citigroup's application to retain Phibro as part of the acquisition of Citicorp by Travelers.19 The Federal Reserve stated that trading activities at Phibro "flow from the existing financial activities of FHCs," in that they would provide FHCs with an alternative method of fulfilling their contractual obligations under other activities that they may engage in pursuant to Regulation Y. For example, if warranted by market conditions, an FHC would be able to use physical settlement rather than terminating, assigning, offsetting or otherwise cash-settling a contract, as the inability to settle transactions physically would otherwise place FHCs at a competitive disadvantage. The Federal Reserve concluded that permitting the physical commodities trading activities did not "pose a substantial risk to the safety or soundness of depository institutions or the financial system generally."
+
+The physical commodities trading activities were not being carried out by Citigroup's depository institutions, and Citigroup committed that (i) the market value of commodities held as a result of the activities would at no time exceed five percent of Citigroup's consolidated Tier 1 capital and (ii) Citigroup would notify its supervising Federal Reserve Bank if the market value of commodities held by Citigroup as a result of its physical commodities trading activities exceeded four percent of its Tier 1 capital. Citigroup could make and take delivery only of physical commodities for which derivatives had been approved for trading on a US futures exchange by the CFTC, unless the Federal Reserve permitted otherwise. This requirement was designed to prevent Citigroup from dealing in items that lacked the fungibility and liquidity of exchange traded instruments.
+
+The Federal Reserve also imposed conditions on the conduct of the activities to minimize storage risk, transportation risk, and legal and environmental risks. Citigroup would not be permitted to own, operate or invest in facilities for the extraction, transportation, storage or distribution of commodities, or to process, refine or otherwise alter commodities. Citigroup committed to using storage and transportation facilities owned and operated by third parties, and to take additional measures with respect to environmentally sensitive products, such as oil and gas. Finally, the activities would remain subject to general securities, commodities and energy rules and regulations.
+
+The Federal Reserve Orders
+
+Following the Citigroup approval, a string of other domestic and foreign FHCs received approval to engage in physical commodities trading activities from 2004 to 2011. Subsequent Federal Reserve orders permitting the activities for particular FHCs imposed conditions highly similar to those imposed on Citigroup (collectively, the "Orders").20
+
+The Orders' interpretation of the term "complementary" in Section 4(k) of the BHC Act is also consistent with the Citigroup order. The Orders used similar language: defining "complementary" as "allow[ing] the [Federal Reserve] to permit FHCs to engage in a limited basis in an activity that appears to be commercial rather than financial in nature, but that is meaningfully connected to a financial activity such that it complements the financial activity."
+
+The principal non-financial risks related to physical commodities trading activities have not changed since 2003: they are the risks associated with commodities that may trade on markets that lack sufficient liquidity and price transparency. With respect to commodities such as oil and gas, there are also considerations with respect to storage, transportation, environmental and other similar risks. The conditions that the Federal Reserve imposed upon physical commodities activities in its previous Orders directly targeted those risks, and there has been no evidence that permitting such activities has translated into a "substantial" risk to the financial system generally.
+
+Finally, in approving the physical commodities trading activities in the Orders, the Federal Reserve found that the conduct of such activities by FHCs could reasonably be expected to produce benefits to the public that outweighed any potential adverse effects. As of 2021, any Order that has not been explicitly retracted by the Federal Reserve remains in place.
+
+Unlike commodities activities that a BHC engages in pursuant to section 4(c)(8) of the BHC Act, an application to engage in physical commodities trading must be made pursuant to section 4(k)(1)(B) of the BHC Act.21 While Regulation Y generally provides defined time periods within which the Federal Reserve will act upon an application, requests for approval of a complementary activity can take a significant amount of time. Given that the Federal Reserve has not approved an application to engage in complementary activities since 2011, it seems likely that a request for complementary authority to engage in physical commodities trading with respect to a previously unapproved product such as Bitcoin would likely face a lengthy approval process.
+
+Conclusion
+
+The swift rise in price and continued development of an ecosystem surrounding Bitcoin has created demand by many bank clients for banks to offer financial services related to Bitcoin. There are numerous prudential hurdles related to offering such services, including the creation of systems to safely custody and manage the risks associated with dealing with a volatile asset. As a result, banks should carefully consider all of the regulatory implications associated with engaging in activities related to Bitcoin. To the extent an FHC would like to purchase, trade, or hold bitcoin as principal, the classification of Bitcoin as a commodity means that the FHC would likely be required to obtain approval from the Federal Reserve to engage in physical commodities activities on the basis that they are complementary to a financial activity.
+
+Appendix
+
+1 Goldman Sachs Group Inc (GS) Q1 2021 Earnings Call Transcript | The Motley Fool.
+
+2 Notwithstanding Solomon’s assertion, it is interesting to note that Goldman Sachs is one of the two financial holding companies that benefit from the "grandfather authority" provided under section 4(o) of Bank Holding Company Act of 1956, as amended. This authority, added by the Gramm-Leach-Bliley Act of 1999 ("GLB Act"), allows companies that were engaged in commodities activities but were not bank holding companies as of November 12, 1999, to continue to engage in "activities related to the trading, sale, or investment in commodities and underlying physical properties" if they should later become financial holding companies. Goldman Sachs and Morgan Stanley both meet this criteria, and as a result, they enjoy a much broader range of commodities powers than other financial holding companies. See Report to the Congress and the Financial Stability Oversight Council Pursuant to Section 620 of the Dodd-Frank Act (federalreserve.gov). Therefore, Goldman Sachs is arguably not prohibited from owning or trading bitcoin under the commodities restrictions discussed herein.
+
+3 There may also be state-based restrictions.
+
+4 A CFTC Primer on Virtual Currencies.
+
+5 See Order: Coinflip, Inc., d/b/a Derivabit, et al (cftc.gov); we note that while the CFTC has found that most virtual currencies are commodities, this finding does not preclude that the same instruments may also be securities, deposits or other financial instruments.
+
+6 See The-Banking-Law-Journal-Bitcoin-and-the-Volcker-Rule-Milbank.pdf and Blockchain-and-the-Volcker-Rule-Are-Cryptocurrency-Companies-Cov.pdf (milbank.com).
+
+7 12 U.S.C. § 1841 et seq. (2021); for purposes of this article, when we refer to a BHC we are referencing a US-based, non-depository entity.
+
+8 12 U.S.C. § 1843.
+
+9 Id.
+
+10 12 C.F.R. § 225.28.
+
+11 "A bank-ineligible security is any security that a state member bank is not permitted to underwrite or deal in under 12 U.S.C. 24 and 335."
+
+12 "This reference does not include acting as a dealer in options based on indices of bank-ineligible securities when the options are traded on securities exchanges. These options are securities for purposes of the federal securities laws and bank-ineligible securities for purposes of section 20 of the Glass-Steagall Act, 12 U.S.C. 337. Similarly, this reference does not include acting as a dealer in any other instrument that is a bank-ineligible security for purposes of section 20. A bank holding company may deal in these instruments in accordance with the [Federal Reserve's] orders on dealing in bank-ineligible securities."
+
+13 12 C.F.R. § 225.23 (2021); Electronic Code of Federal Regulations (eCFR). BHCs that have elected to become "financial holding companies" (as discussed below) may generally engage activities that are closely related to banking without seeking the Federal Reserve's prior approval.
+
+14 Certain foreign banking organizations have the ability to engage in physical commodities activities pursuant to Federal Reserve Regulation K. 12 C.F.R. Part 211.
+
+15 A number of other regulators have attempted to interpret concepts such as "possession," "delivery," and "control" in the context of digital assets. See, e.g., Custody of Digital Asset Securities by Special Purpose Broker-Dealers, SEC (sec.gov).
+
+16 12 U.S.C. § 1843(k)(1)(B) and 12 C.F.R. § 225.89.
+
+17 See Proposed Rule Implementing Strengthened Prudential Requirements, including Risk-based Capital Requirements, for Physical Commodity Activities and Investments of Financial Holding Companies (federalreserve.gov).
+
+18 See, e.g., the Volcker Rule at 12 C.F.R. Part 248. 2013-31511.pdf (govinfo.gov).
+
+19 FRB: Press Release -- Conditional approval of applications by Travelers Group Inc. -- September 23, 1998 (federalreserve.gov); see also Microsoft Word - Citigroup.100203.doc (federalreserve.gov) and Report to the Congress and the Financial Stability Oversight Council Pursuant to Section 620 of the Dodd-Frank Act (federalreserve.gov).
+
+20 Please see the appendix for a list of the Orders.
+
+21 Electronic Code of Federal Regulations (eCFR).
+
+[View source.]

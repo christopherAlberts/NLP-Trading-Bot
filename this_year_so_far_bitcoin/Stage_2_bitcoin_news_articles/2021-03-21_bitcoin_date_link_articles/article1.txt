@@ -1,0 +1,71 @@
+Energy consumption has become the latest flashpoint for cryptocurrency. Critics decry it as an energy hog while proponents hail it for being less intensive than the current global economy.
+
+One such critic, DigiEconomist founder Alex de Vries, said he’s “never seen anything that is as inefficient as bitcoin.”
+
+On the other side of the debate, research by ARK Investment Management found the Bitcoin ecosystem consumes less than 10% of the energy required for the traditional banking system. While it’s true the banking system serves far more people, cryptocurrency is still maturing and, like any industry, the early infrastructure stage is particularly intensive.
+
+The cryptocurrency mining industry, which garnered almost $1.4 billion in February 2021 alone, is not yet unusually terrible for the environment compared to other aspects of modern life in an industrialized society. Even de Vries told TechCrunch that if eco-conscious regulators “took all possible actions against Bitcoin, it’s unlikely you’d get all governments to go along with that” mining regulation.
+
+“Ideally, change comes from within,” de Vries said, adding he hopes Bitcoin Core developers will alter the software to require less computational energy. “I think Bitcoin consumes half as much energy as all the world’s data centers at the moment.”
+
+According to the University of Cambridge’s bitcoin electricity consumption index, bitcoin miners are expected to consume roughly 130 Terawatt-hours of energy (TWh), which is roughly 0.6% of global electricity consumption. This puts the bitcoin economy on par with the carbon dioxide emissions of a small, developing nation like Sri Lanka or Jordan. Jordan, in particular, is home to 10 million people. It’s impossible to say how many people use bitcoin every month, and they certainly use it less often than residents in Amman use Jordanian dinars. But CoinMetrics data indicates more than 1 million bitcoin addresses are active, daily, out of up to 106 million accounts active in the past decade, as tallied by the exchange Crypto.com.
+
+“We get the total population of unique bitcoin (BTC) and ether (ETH) users by counting the total number of addresses from listed exchanges, subtracting addresses owned by the same users on multiple exchanges,” said a Crypto.com spokesperson. “We then further reduce this number by accounting for users who own both ETH and BTC.”
+
+That’s a lot of people using these financial networks. Plus, many bitcoin mining businesses rely on environmentally friendly energy sources like hydropower and capturing natural gas leaks from oil fields. A mining industry veteran, Compass Mining COO Thomas Heller, said Chinese hydropower mines in Sichuan and Yunnan get cheaper electricity during the wet season. They continue to use hydropower all year, he added, although it’s less profitable during the annual dry season.
+
+“The electricity price outside of May to October [wet season] is much more expensive,” Heller said. “However, some farms do have water supply in other parts of the year.”
+
+The best way to make cryptocurrency mining more eco-friendly is to support lawmakers that want to encourage mining in regions that already have underutilized energy sources.
+
+Basically, cryptocurrency mining doesn’t inherently produce extra carbon emissions because computers can use power from any source. In 2019, the digital asset investing firm CoinShares released a study estimating up to 73% of bitcoin miners use at least some renewable energy as part of their power supply, including hydropower from China’s massive dams. All of the top five bitcoin mining pools, consortiums for miners to cooperate for better profit margins, rely heavily on hydropower. This statistic doesn’t impress de Vries, who pointed out that Cambridge researchers found renewable energy makes up 39% of miners’ total energy consumption.
+
+“I put one solar panel on my power plant, I also have a mixture of renewable energy,” de Vries said.
+
+In terms of geographic distribution, Cambridge data indicates Chinese bitcoin mining operations represent around 65% of the network’s power, called hashrate. In some regions, like China’s Xinjiang province, bitcoin miners also burn coal for electricity. Beyond cryptocurrency mining, this province is known for human rights abuses against the Uighur population, which China is violently suppressing as part of a broader struggle to capitalize on the region’s natural resources. When critics sound the alarm about cryptocurrency mining and energy consumption, this is often the dynamic they’re concerned about.
+
+On the other hand, North American miners make up roughly 8% of the global hashrate, followed closely by miners in Russia, Kazakhstan, Malaysia and Iran. Iranian President Hassan Rouhani called for the creation of a national bitcoin mining strategy in 2020, aiming to grow the Islamic nation’s influence over this financial system despite banking sanctions imposed by the United States.
+
+Wherever nations and organizations offer the most profitable mining regulations, those are the places where bitcoin mining will proliferate. Chinese dominance, to date, can be at least partially attributed to government subsidies for the mining industry. As such, nations like China and Norway offer subsidies that incentivize bitcoin miners to use local hydropower sources.
+
+As the Seetee research report by Aker ASA, a $6 billion public company based in Norway, said: “The financiers of min­ing op­er­a­tions will in­sist on us­ing the cheap­est en­er­gy and so by de­f­i­n­i­tion it will be elec­tric­i­ty that has no bet­ter eco­nom­ic use.”
+
+The best way to make cryptocurrency mining more eco-friendly is to support lawmakers that want to encourage mining in regions that already have underutilized energy sources.
+
+When it comes to North America, Blockstream CEO Adam Back says his company’s mining facilities, with 300 megawatts in mining capacity, rely on a mix of industrial power sources like hydropower. He added Blockstream is exploring solar-powered bitcoin mining options as a sort of “retirement home” for outdated machines.
+
+“With solar energy, if you’re only online 50% of the time, that’s something to consider in terms of the cost analysis,” Back said. “That’s a better option for older machines, after you’ve already recouped the costs of the equipment.”
+
+Due to surging cryptocurrency prices, there’s now a global shortage of bitcoin mining equipment, Back added, with demand outpacing supply and production taking up to six months per machine. Emma Todd, founder of the consultancy MMH Blockchain Group, said the shortage is driving up the price of mining machines.
+
+“For example, a Bitmain Antminer S9 mining machine that used to cost $35 – $55 in July 2020 on the secondary market, now costs about $275 – $300,” Todd said. “This means that most, if not all mining companies looking to purchase new or secondary equipment, are all experiencing the same challenges. As a result of the global chip shortage, most new mining equipment that is scheduled to come out in the next few months, will almost certainly be delayed.”
+
+Critics like de Vries point out that, due to market forces, industrial miners are unlikely to reduce their power consumption with new machines, which are more efficient.
+
+“If you have more efficient machines but earn the same money, then people just run two machines instead of one,” de Vries said.
+
+And yet, because cryptocurrency prices are rising faster than new miners can be constructed, Back said “retiring” old machines with renewable energy sources becomes more profitable than simply abandoning them for new equipment. In addition, Back said, robust bitcoin mining infrastructure can support communities rather than draining resources. This is because bitcoin miners can help store and arbitrage energy flows.
+
+“You can turn miners on and off if you get to a surge prices situation, you can use the power for people to heat their homes if that’s more urgent or more profitable,” Back said. “Bitcoin could actually support power grids.”
+
+Meanwhile, just north of the Canadian border, Upstream Data president Steve Barbour said a growing number of traditional oil and gas companies are quietly ramping up their own bitcoin mining operations.
+
+This puts the bitcoin economy on par with the carbon dioxide emissions of a small, developing nation like Sri Lanka or Jordan.
+
+“Right now it’s hydro and coal. That’s the majority of the big industrial mining. But on the global scale, that’s going to shift more toward any cheap power, including natural gas,” Barbour said. “Oil fields already have cheap energy with the venting flares, the waste gas, there’s potential for approximately 160 gigawatts [of mining power] this year.”
+
+Upstream Data helps oil companies set up and operate bitcoin miners in a way that captures waste and low quality gas, which they couldn’t sell before, totaling 100 deployments across North America. These companies rarely go public with their bitcoin mining operations, Barbour said, because they’re concerned about attracting negative press from Bitcoin critics.
+
+“They are definitely concerned about reputational risk, but I think that’s going to change soon because you have big, credible companies like Tesla involved with Bitcoin,” Barbour said.
+
+Even within the cryptocurrency industry, there are many people who dislike how power-intensive bitcoin mining is and are experimenting with different mining methods. For example, the Ethereum community is trying to switch to a “proof-of-stake” (PoS) mining model, powering the network with locked up coins instead of Bitcoin’s intensive “proof-of-work” (PoW) model.
+
+As the name might suggest, PoW requires a lot of computational “work.” That’s what miners do, lots and lots of math problems that are so difficult the computers require a lot of electricity. With regards to Ethereum, which currently runs on PoW but will theoretically run on PoS in a few years, there are hundreds of thousands of daily active addresses, sometimes half as many as Bitcoin. Like Bitcoin, a few industrial mining projects with facilities in China generate more than half of the Ethereum network’s power. Each Ethereum transaction requires nearly as much energy as two American households use per day.
+
+“What I like about the Ethereum community is at least they are thinking about how to solve the problem,” de Vries said. “What I don’t like is they’ve been talking about it for a few years and haven’t been able to actually do it.”
+
+The Ethereum ecosystem uses enough energy every year to power the nation of Panama. Like Bitcoin, each Ethereum transaction costs enough for electricity costs that the money could also buy a nice lunch. Both of these networks require enough power to fuel small countries, although Ethereum usually has less than half of the million daily users that Bitcoin has. It’s clear cryptocurrency transactions require more power than Visa transactions. However, a cryptocurrency isn’t just a payments company. It is a whole currency system.
+
+If the bitcoin market cap were ranked as a country, by the value of the money supply, Bitcoin would come in fifth place behind Japan. And that’s not even considering adjacent ecosystems like Ethereum. In short, power consumption in the global Bitcoin economy is comparable to that of some other industrialized financial systems. It is inefficient, as de Vries points out, as are many of the systems used in emerging economies. Out of millions of users, thousands of people around the world rely on cryptocurrency for income. They are generally optimistic about the cryptocurrency ecosystem, believing it will become more efficient as the technology matures.
+
+“I see Bitcoin mining increasingly playing a role in the transition to a clean, modern and more decentralized energy system,” said one such Canadian business consultant, Magdalena Gronowska. “Miners can provide grid balancing and flexible demand-response services and improve renewables integration.”

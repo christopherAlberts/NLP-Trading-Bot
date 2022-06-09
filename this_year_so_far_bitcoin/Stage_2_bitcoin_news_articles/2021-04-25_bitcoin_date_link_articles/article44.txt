@@ -1,0 +1,43 @@
+When we read or hear about Bitcoins, we do not imagine that this cryptocurrency can create pollution. However, the problem is significant, and even US Treasury Secretary Janet Yellen recently stated that “the amount of energy used to process these transactions (with bitcoins) is staggering”.
+
+According to the Cambridge Bitcoin Electric Consumption Index, the total energy used in the Bitcoin mining process could reach 128 TW (terawatt-hours) this year. This is 0.6% of the world’s total electricity generation or more than the annual energy consumption of various countries.
+
+“Bitcoin uses electricity all over a country. According to the University of Cambridge, bitcoin uses the same power as the rest of Argentina, ”explains PubliMetro David Gerard, an expert on cryptocurrencies and author of the ’50 Foot Blockchain Attack ‘.
+
+Why does mining use so much energy?
+
+This process is carried out by machines that use electricity 24 hours a day while generating pollution and heat.
+
+“If Bitcoin mining is to be profitable, there are thousands of mining equipment factories that need industrial-level consumption energy, which emits large quantities,” said Qatari law.
+
+But bitcoins and cryptocurrencies generally not only consume a lot of energy, but also emit significant amounts of CO2 during the mining process.
+
+According to a study by the Technical University of Muchen (Germany), in 2019, Bitcoin will produce 22 million tons of carbon dioxide per year, similar to the annual emissions from cities such as Hamburg or Las Vegas. This number is expected to rise further in the future.
+
+But what can be done to avoid energy consumption and pollution?
+
+Experts agree that it is difficult to change the way bitcoins are designed, so we urge cryptocurrency miners to improve their tools.
+
+Bitcoin’s best option is to focus on minimizing mining equipment consumption and emissions, improving equipment, and setting up renewable energy sources, ”said John M. Troby suggested.
+
+Other options suggested by specialists go further and suggest new actions for authorities.
+
+“I have long suggested carbon tax for trading bitcoins for real money. Most of the miners are in China, but the most important bitcoin exchanges are in the US, which is the control point, so you have to work there, ”Gerard said.
+
+John M., Associate Professor of Public Associate Law and Director of the Center for Law and Development at the Qatar Law School. Talked to Troby.
+
+Q: Why do cryptocurrencies create so much pollution?
+
+– Many types of digital currencies require very high energy consumption compared to other types of transactions such as visa payments. Bitcoin mining machines are plugged in 24 hours a day and use electricity to emit heat and emit heat. The machines should be kept in a cool place, or you should use air conditioning, which uses extra energy. This is because many digital currencies, including Bitcoin, have designed their own protocols without regard to energy conservation.
+
+Q: Tell us more about the pollution level.
+
+– Processes involved in a single bitcoin transaction will power your home for a month. The community incurs environmental costs without benefiting from the profits. Environmental costs are socialized for personal gain. Society is facing a climate crisis and is not experiencing any benefits.
+
+Q: How can this problem be solved?
+
+– In the case of new types of digital currencies and NFTs, which are very harmful to today’s environment, they should only adopt the same protocols that do not emit large amounts. This requires advance planning of your design before launching. It may be too late for existing digital currencies, including Bitcoin, to change their transaction verification methods.
+
+Q: Can the authorities intervene to reduce pollution?
+
+– Governments can target device manufacturers or buyers, for example, financial instruments. Governments can tax the transactions and benefits of ecologically unsustainable blockchain technologies. Governments can take immediate action against the high energy production of the new NFT art trend before it becomes a global climate problem like Bitcoin.

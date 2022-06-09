@@ -1,0 +1,57 @@
+Bitcoin (BTC) is facing difficulty breaching the $40,000 mark again after briefly crossing it on May 26. The cryptocurrency is currently exchanging hands at around the $36,000 mark, which is a 44% drop from its all-time high of $64,889 on April 14. Among others, a key difference between macroeconomic conditions affecting the cryptocurrency market as a whole is institutional demand.
+
+One of the key investment vehicles for set demand is the Grayscale Bitcoin Trust (GBTC), a BTC trust of Grayscale Investments, one of the most significant investment managers for institutions indulging in digital currencies. The trust allows investors to have exposure to the price of Bitcoin through a regulated traditional investment vehicle without having to buy, store and safe-keep their token directly.
+
+GBTC trades publicly on the OTCQX, an over-the-counter marketplace that enables stock trading. GBTC currently trades in the $30 range, 46% down from its all-time high of $58.22 on Feb. 19.
+
+Each share represents 0.00094716 BTC, with the share tracking Bitcoin’s market price, excluding the applicable fees and expenses. It has a minimum holding period of six months and a minimum investment requirement of $50,000, entailing that it is not ideally suited for retail investors.
+
+Grayscale BTC premium negative for over three months
+
+Due to implications of institutional demand that backs Grayscale and the fact it’s a regulated way of gaining exposure to Bitcoin, its products usually trade at a premium to the net asset value (NAV), or the current value of the holdings. The GBTC premium refers to the difference between the value of the assets held by the trust against the market price of those holdings.
+
+Before Feb. 23 of this year, this difference was always a positive number indicating a premium that hit its all-time high of 122.27% four years ago on June 6, 2017. Since the end of February this year, the premium has turned into a discount reaching an all-time low of -17.89% on May 16.
+
+Since this difference is driven by supply and demand factors in the market, a rising GBTC premium shows a higher inflow of Bitcoin into the trust, while a decreasing premium transitioning into a discount indicates a declining BTC inflow entailing that GBTC trades at a discount to spot price of Bitcoin.
+
+Cointelegraph discussed the implications of the change of the GBTC premium trend with Nikita Ovchinnik, chief business development officer of 1inch Network — a decentralized cryptocurrency exchange. Ovchinnik said, “It looks like GBTC premium is a very good indicator of medium-term market sentiment. The premium turned negative at the end of April, and while the digital assets experienced a local boom, lack of institutional interest predicted May’s market cap shrinkage.”
+
+This trend is consistent with the number of Bitcoin the Grayscale trust has in its holdings, as it has been increasing gradually since Jan. 13 to reach its all-time high of 655,702.89 tokens on March 2. Since then, its Bitcoin reserves have been on the gradual decline for the first time ever to the current levels of 652,410.55 as of June 4. The trust currently has an AUM of $24.27 billion.
+
+The premium allows investors to leverage this opportunity through arbitrage opportunities. One way is for investors to borrow Bitcoin and use it as an exchange for GBTC shares. Once the six-month lock-up period ends, investors can sell the shares in the secondary market at the prevailing premium.
+
+With the funds they receive in this exchange, they purchase and give back the borrowed BTC tokens to the lender. In this process, investors pocket the difference in price created due to the premium, thus successfully executing their arbitrage. Ovchinnik further opined:
+
+“GBTC is one of the most convenient and secure points of entry for institutional funds. It looks like their demand was one of the drivers early in 2021, but it slowed down and we no longer hear new entities claiming that they have decided to diversify and are trying to hold blockchain assets.”
+
+In the traditional financial markets, the GBTC premium/discount can be compared to the pricing of closed-end mutual funds. Ideally, since the amount of Bitcoin by the trust is publicly disclosed, the value of the trust should amount up to exactly that value. Due to the aforementioned premium/discount factors, the value is not the same.
+
+Bryan Routledge, associate professor of finance at Carnegie Mellon University’s Tepper School of Business, told Cointelegraph that the “premium reflected its position as a ‘regulated’ alternative to owning Bitcoin,” thus, “an investor would pay a premium for the access via a trust.” Routledge also added that the GBTC premium shouldn’t be perceived as an additional cost:
+
+“If you buy and sell and the premium is the same, the impact is minimal. Recently, there are more easy and comfortable ways to access Bitcoin, so the premium in Grayscale has fallen. It is now at a discount relative to Bitcoin NAV.”
+
+Despite GBTC trading as a discount in relation to NAV, there have been a few positive signs in the recent trend. The GBTC discount rebounded sharply between May 21 and May 24 from -21.23% to -3.86% before falling to around -12% as of June 3. This indicates that institutional interest is rising in tandem with reducing Bitcoin prices between these days.
+
+The direction in which the GBTC premium/discount moves could work as an indicator of market sentiment in the asset, especially among institutional investors.
+
+Bitcoin ETFs a close competitor to GBTC
+
+In addition to GBTC, another route for institutional and retail investors alike to gain exposure to Bitcoin’s price volatility through a regulated channel is Bitcoin exchange-traded funds.
+
+Purpose Investments launched North America’s first-ever Bitcoin ETF on Feb. 18, which saw the assets under management (AUM) rise to over $500 million in under a week and subsequently crossed $1 billion in the same month. The ETF’s AUM currently stands at $714.6 million or 19,407.63 Bitcoin as of June 4 and uses the ticker BTCC.
+
+In addition to Purpose’s BTC ETF, Evolve ETFs launched its own Bitcoin ETF on Feb. 19 with the ticker EBIT. Although it lost out on the first-mover advantage that Purpose’s ETF gained, it currently has assets under management of $78.52 million, which is just over 12% of BTCC’s current AUM. Overall, there are several notable ETFs listed on the Toronto Stock Exchange.
+
+Related: Carbon-neutral Bitcoin funds gain traction as investors seek greener crypto
+
+What’s interesting to note about these ETFs is that the timing of their launch coincides with a decrease in the GBTC premium, which eventually turned into a discount. Routledge mentioned why this could be the case, “ETFs are a cheaper (transaction costs, fees) way to Bitcoin exposure. So, the premium on Grayscale has fallen — reflecting good old-fashioned competition.”
+
+The GBTC trust has a management fee of 2%, while the Purpose BTC ETF has a management fee of 1%, and the Evolve ETF fee is even less at 0.75%. Due to the success of the existing Canadian ETFs, the lure of the ETF market is such that even Grayscale has confirmed that it will be turning its products into ETFs instead.
+
+But before that, they would need the much elusive approval from the United States Securities and Exchange Commission that several firms have already applied for, including Fidelity and SkyBridge. For Ovchinnik, the existence of these new products is “very important over the long-term horizon, even though we might not see changes instantly.”
+
+Related: For the long haul? When Bitcoin nosedived, institutions held fast
+
+The competition for the BTC ETF market share is set to heat up if the U.S. SEC approves any of the several crypto ETF applications it has received. Until that point, GBTC remains among the top indicators of institutional interest, with ETFs following at its heels and fighting for the same market participants.
+
+Furthermore, as the GBTC remains closed for new investments until September this year, drastic changes to the current GBTC discount are not expected, but a spell of positive trends as noticed between May 21 and May 24 could bring good news for the lack of institutional demand felt in the market.

@@ -1,0 +1,85 @@
+share
+
+
+
+
+
+
+
+Link copied to
+
+clipboard
+
+More than 250 crypto teams have requested access to an Ethereum scaling solution that launched in beta over the weekend, the project says.
+
+“The developer interest and enthusiasm for Arbitrum has exceeded our wildest expectations,” Offchain Labs, the team behind Arbitrum, said in a Medium post.
+
+Offchain Labs plans to onboard those projects onto Aribtrum One for the next fortnight before opening the rollup chain to end users.
+
+Uniswap, Sushiswap, Bancor, Chainlink, Curve Finance are among the projects that will be building on the platform.
+
+Arbitrum reduces Ethereum fees by more than 50 times for most workloads, Offchain Labs said.
+
+Ethereum gas fees were averaging 0.0024 Ether, or A$7.37, over the last 24 hours, according to Etherscan, and during periods of volatility this year have reached a one-day average of A$90.
+
+Arbitrum works by moving smart contract transactions off of layer 1 Ethereum and onto its native layer 2 environment, only publishing fraud proofs onto the base layer.
+
+Unfortunately for investors, there doesn’t appear to be any way to invest in Arbitrum, which has no native token.
+
+There’s a number of other Ethereum scaling solutions being developed, including Polygon, which has a native token — MATIC — and Optimistic, which doesn’t at present.
+
+Cryptos recovering
+
+Nearly every top 100 token was up this morning, compared to the past 24 hours, bouncing back after another weekend selloff.
+
+Bitcoin was trading at US$35,220 ($45,630) at 11.40am, up 4.2 per cent from the same time Sunday, and up 2.1 per cent from a week ago.
+
+Ethereum was changing hands at US$2,338 ($3,030), up 5.7 per cent for the day and 12.6 per cent for the week.
+
+Every non-stablecoin in the top 100 was in the green, save for Horizen (REN), which was down 7.9 per cent after rallying earlier in the week.
+
+The Graph was the top performer, up 22.3 per cent, followed by Near, which had gained 19.1 per cent.
+
+Helium, the No. 71 token, on Saturday became the first top 100 coin to hit an all-time high since the May 19 crash, trading for US$22.31, according to Coingolive.
+
+On Monday it was down nearly 30 per cent from that level, however, at US$16.
+
+The token is used to power a wireless infrastructure network that Helium says costs a fraction of traditional cellular networks.
+
+Most other tokens still have a long way to go to recover from the crash, however.
+
+Bitcoin, which tends to drive the market, twice last week traded for over US$40,000 – but only briefly. But dips to around US$33,000 to $US34,000 have been snapped up pretty quickly.
+
+#Bitcoin continues to develop an intraday trading range on the 4 hour timeframe. Could potentially be making a Last Point fo Support (LPS) in Phase C. But needs further confirmation still with a Sign of Strength rally, otherwise could see a further test of the lows of the range. pic.twitter.com/ZQZsYKfnJr — Stage Analysis (@stageanalysis) May 30, 2021
+
+
+
+
+
+‘Bitcoin car’ places eighth
+
+Meanwhile, a “Bitcoin Chevrolet” raced this morning (Australian time) in America’s most famous IndyCar motor race and led for much of the first-half — ultimately its rookie driver was unable to capitalise on his front-row start.
+
+Still, 20-year-old Rinus VeeKay finished a respectable eighth out of 33 drivers in the Indianapolis 500, a 200-lap, 500-mile (805km) race.
+
+P8 in my second #Indy500. Led 32 laps and was right in contention to win the race. A few unfortunate moments on the last pit cycle sent us back down the field. After all, awesome month of May and really proud at everyone @ecrindy, the #Bitcoin car was insanely fast! pic.twitter.com/L9uzIx9XfU — Rinus VeeKay (@rinusveekay) May 30, 2021
+
+He also managed to avoid a result that would have really given wags something to write about.
+
+as far as im concerned the bitcoin car has one job: don’t crash — Neeraj K. Agrawal (@NeerajKA) May 30, 2021
+
+VeeKay competes for Ed Carpenter Racing, which has also begun offering Bitcoin as a payment option for all of its employees.
+
+“I could not be more excited that this project is becoming a reality. To bring my personal interest and immersion in Bitcoin to our industry is historic,” owner/driver Carpenter (who placed fifth) said earlier this month.
+
+“Just as Bitcoin is revolutionizing our financial system, I see it as an opportunity to transform how we operate within our own motorsport industry.”
+
+For the first time in my career, one of my cars isn’t funded by a corporation, but rather by the people. By you. This race is bigger than racing. For the first time, the Indy 500 is about a community of individuals and all we’re trying to accomplish in building #Bitcoin — Ed Carpenter (@edcarpenter20) May 30, 2021
+
+Subscribe to our daily newsletter
+
+Join our small cap Facebook group
+
+Follow us on Facebook or Twitter
+
+Read More BitcoinCryptocurrency

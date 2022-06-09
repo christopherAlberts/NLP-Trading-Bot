@@ -1,0 +1,29 @@
+The crypto futures market saw the highest nymber of liquidations in history on Sunday as the sudden bitcoin price pullback caught overleveraged traders off guard.
+
+Exchanges offering crypto futures liquidated $10 billion worth of positions on Sunday, toppling the previous market-wide record of $5.77 billion registered on Feb. 23, according to data provider Bybt.
+
+Forced closure of long positions or bullish trades accounted for $9.26 billion, or over 90% of total liquidations, which shows the leverage was excessively skewed bullish across the board.
+
+Bitcoin futures accounted for more than 50% of total market-wide liquidations on Sunday. Liquidations happen when trades cannot fulfill margin requirements for holding long/short positions and often exacerbate bullish/bearish moves.
+
+Crypto futures liquidations Source: Bybt
+
+Bitcoin dropped sharply, from $60,000 to $52,148 early Sunday, dragging alternative cryptocurrencies lower. As prices started falling, margin requirements increased and exchanges liquidated longs (squared off with offsetting shorts), adding to downward pressure in the market.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+“This [downward] move was definitely driven by the vast amount of futures being liquidated,” Viktor Franken, options trader at Orca Traders, told CoinDesk in a Telegram chat. “Additionally, it was a weekend, and liquidity was thin during the early Asian hours.”
+
+The massive forced closure of longs pushed bitcoin futures into backwardation – a market condition where futures trade at a discount to the spot price.
+
+Bitcoin futures three-month rolling futures basis (spread between futures and spot prices) Source: Skew
+
+As seen above, bitcoin futures listed on Binance and Kraken traded at a bigger discount than the ones listed on other exchanges, showing the dump mainly happened on Binance and Kraken.
+
+“On Binance, the drop was so bad that you were able to pick up long-term futures at prices well below the spot market,” Adam Cochran, a partner with Cinneamhain Venture, wrote in a tweet. “While spot [markets] dipped to $51,000, futures were trading in the low $40,000.”
+
+The situation has normalized, with futures drawing higher prices than the spot price. Bitcoin is currently trading near $56,700 – up 8% from Sunday’s low, according to CoinDesk 20 data.
+
+“The fact that we’ve seen strong buying interest near the psychological $50,000 mark should be a relief for bitcoin bulls following the weekend plunge,” Ipek Ozkardeskaya, senior analyst at Swissquote Bank, told CoinDesk.
+
+The cryptocurrency may have received a boost from signs of China is softening its stance on cryptocurrencies. On Sunday, Li Bo, deputy governor of the People’s Bank of China, called bitcoin and stablecoins “investment alternatives.”

@@ -1,0 +1,15 @@
+Bitcoin has often traded like a risky asset over the past few weeks – selling off along with U.S. stocks as bond yields rose, typically in response to nagging worries the Federal Reserve might step in to tighten monetary policy sooner than previously signaled.
+
+But a new analysis of data extracted from the Bitcoin blockchain suggests the risk of a steep sell-off might be capped on the downside by buyers who appear to enter the market whenever prices fall to about $48,000.
+
+There are no signs that such a sell-off is brewing, with bitcoin’s price rising Wednesday for a sixth straight day to a two-week high around $57,000. But the new analysis, by the South Korean blockchain-tracking firm CryptoQuant, might give traders comfort that prices aren’t likely to revisit the end-of-2020 level of around $29,000 anytime soon.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+“Speculative guess, but institutions would buy more if the price is falling,” Ki Young Ju, CryptoQuant’s CEO, told CoinDesk,
+
+According to CryptoQuant, dips in bitcoin prices to about $48,000 over the past month coincided with unusually large withdrawals from wallet addresses linked to the cryptocurrency exchange Coinbase’s Coinbase Pro segment:
+
+Bitcoin outflows from Coinbase Pro Source: CryptoQuant
+
+Those outflows “might be institutional deals through Coinbase’s over-the-counter (OTC) service or Coinbase prime,” Ki said. The implication is that the institutional investors might be moving their bitcoins off Coinbase Pro into so-called “cold wallets,” typically because they have little intention of selling anytime soon.

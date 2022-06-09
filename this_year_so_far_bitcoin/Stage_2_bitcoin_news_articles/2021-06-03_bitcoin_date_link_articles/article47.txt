@@ -1,0 +1,41 @@
+If you're involved with a crypto or blockchain-related project, you've already thought about how to publicize it. However, due to the limitations imposed by social media and Google, crypto marketing is a slightly different entity than traditional ads.
+
+It is a massive industry that is only going to get bigger. It is a room with its founders, the advertising networks that first launched and developed the service. One of them is the Bitmedia bitcoin advertising network, and I'm on a mission to see what one of blockchain's greatest advertising mediums has to give.
+
+Getting ready to make waves
+
+As an advertiser, you have two options for tackling your marketing. It is either paid ads or long and tedious community growth aimed at creating a loyal following. The latter is absolutely fantastic, especially when we take into account that the audience in 2021 are all about sharing their values with the companies they choose. But, no community will ever spring without a continuous outreach push, akin a flower that needs to be watered to grow.
+
+The core idea behind bitcoin display advertising is to create brand awareness and turn clicks into clients, nurturing a community around your brand. But, is Bitmedia really worth your marketing budget?
+
+How to register at Bitmedia.io
+
+It must be streamlined, simple and quick. Here, this industry pillar of a platform carries no flaws. Once you complete the registration process, it will be up to the Bitmedia team to approve you, since as they state, only real blockchain projects are granted access. This may seem slightly off, but then again it starts to make a lot of sense given how many scams the blockchain industry is surrounded with. Another reason for having such practice in place, is to protect the publishers that are part of the network, to make sure that only real projects reach their audience.
+
+Geo-targeting options at Bitmedia.io
+
+How to set up your ad campaign
+
+An advantage that we noticed during this process is that there is an option to split your campaign into Ad Groups. Seasoned marketing specialists are well aware that testing creatives is an unremovable part of a solid marketing strategy. And the Ad Group tool allows you to track each creative separately, but still under one campaign name. Very convenient!
+
+Funding can be done via Fiat, thanks to Stripe integration or BTC. I have later found out that Bitmedia also accepts ETH and other top cryptocurrencies but it became apparent only after a quick conversation with my account manager.
+
+Then comes the campaign type selection. Bitmedia seems to offer CPC and CPM crypto marketing, which is pretty much all you need when launching an outreach. Further in, there is an option to either:
+
+Let the Bitmedia team decide how to set up your targeting
+
+Broadcast your crypto banners across the whole network of publishers
+
+Manual targeting setup
+
+Whilst the first two options are pretty self-explanatory, it is the manual targeting that we would like to brief on. Unlike other bitcoin ad networks that we have previously tested, Bitmedia boasts a whitelisting feature that allows you to specify which countries are of key importance to you. These regions will then become primary to the algorithm in terms of budget spend, although other countries will still be included in the banner distribution.
+
+See also: Best Crypto Portfolio Trackers
+
+Other targeting options let you specify the device type your audience base uses, the operating system their laptops run on, ad rerun and frequency capping. All great by the looks of it, but it is the last two options that can play a distinctive role in the success of your crypto marketing campaign and strategy. Frequency capping is a gauge of how many times your ad will get shown to one specific user. Think of it as a reminder about your project to the users that have already seen your ads before. In other words, FQ makes marketing smart by not pestering users with your bitcoin banners wherever they go but still nudging them in your direction from time to time. Ad rerun isn’t much different in terms of how important it is. It is a feature that goes after users once they have already visited your website and it is when they are typically twice as likely to result in conversion.
+
+Frequency capping settings
+
+Bottom Line
+
+As an advertiser, I was keen to know where exactly my ads will be shown but for some unknown reason, Bitmedia doesn’t provide such information from the get-go. Nevertheless, I have then spoken to the account specialist about it and the issue was clarified for me. In a way, this had seemed to be the only disadvantage that I came across, as Bitmedia’s list of publishers is not provided without a preliminary request. The rest of the platform on the other hand, seems to be exemplary and there is no surprise this bitcoin ad network gets chosen by the blockchain companies that form the blue chip share of the industry we are all obsessed with.

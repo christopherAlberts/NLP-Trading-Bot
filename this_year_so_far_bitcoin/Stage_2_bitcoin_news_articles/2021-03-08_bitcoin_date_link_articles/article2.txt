@@ -1,0 +1,31 @@
+Bitcoin has erased Sunday’s gains as stock markets struggle to cheer progress on U.S. fiscal stimulus efforts.
+
+The cryptocurrency is changing hands just over $50,150 at press time, representing a 1.55% drop on the day, according to CoinDesk 20 data. Prices had jumped from roughly $49,000 to $51,800 on Sunday as the U.S. Senate approved President Joe Biden’s $1.9 trillion stimulus plan. The bill now heads back to the House of Representatives so it can be reconciled with the House-passed version and then sent on to President Biden to sign.
+
+Traditional markets had mixed reactions early today, with the U.S. dollar falling against major fiat currencies and Asian stocks and U.S. stock futures initially charting moderate gains. However, with the U.S. 10-year bond yield remaining near 12-month highs reached Friday, the dollar soon regained ground, pushing the Asian equities and bitcoin lower.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+The 10-year yield is currently trading just shy of Friday’s high of 1.62%. S&P 500 futures are now nursing losses and futures tied to the tech-heavy Nasdaq index are down nearly 2%.
+
+Movement on stimulus was expected to put upward pressure on yields, and cap progress for risk assets. Hence, bitcoin’s failure to establish a foothold near $52,000 doesn’t come as a surprise.
+
+Bitcoin's daily chart Source: TradingView
+
+The cryptocurrency has faced rejection near $52,000 three times this month, making it a level to beat for the bulls. The breakout, however, may remain elusive if yields continue to rise, diluting bitcoin’s appeal as an inflation hedge.
+
+Additionally, developments in the Chinese stock market could be a key driver of bitcoin’s price action, trader and analyst Alex Kruger told CoinDesk over Telegram.
+
+The Shanghai Composite Index fell by over 2% today, while the FTSE China A50 index declined by nearly 4%. The former is down 14% from its February peak, while the S&P 500 is down less than 5% from the record high reached in mid-February.
+
+Although the exact reason for the big drop in Chinese stocks is not known, it could be a harbinger of things to come amid rising fears of an early unwinding of stimulus by the Federal Reserve. According to Gary Biddle, professor of financial accounting at the University of Melbourne, the stock market is collapsing after a last-gasp bull run.
+
+“With monetary easing set to end, it’s a game of chicken as investors see how close they can come to timing the inevitable downturn,” Biddle said in an article for South China Morning Post.
+
+It remains to be seen if the Chinese stock market ends up dragging its global peers and bitcoin lower. The cryptocurrency’s options market data shows some investors are beginning to position for a deeper drawdown. “Puts are being bought today,” Swiss-based data analytics platform Laevitas told CoinDesk.
+
+Bitcon's options market activity Source: Laevitas
+
+So far today, more than 300 daily expiry (bearish) put option contracts have been bought at $50,000 and $48,000 strikes on Deribit, the world’s largest crypto options exchange by trading volume and open positions.
+
+According to data provided by Skew, the one-week put-call skew, which measures the value of puts relative to calls, is hovering above zero, indicating increased demand for short-term puts.

@@ -1,0 +1,61 @@
+Are bitcoin’s ESG credentials impacting its popularity?
+
+How bitcoin stacks up from an ESG perspective is becoming an increasing concern for investors after a coal mine shutdown in Xinjiang shone a light on the cryptocurrency’s operations.
+
+News of the coalmine’s two-day shutdown sent the price of bitcoin tumbling 23% as the digital asset’s global computing power was cut by a third.
+
+Analysis by CoinShares noted flows into digital assets in the week ending 23 April slowed to their lowest level since October 2020 as bitcoin mining issues in Xinjiang saw assets under management (AUM) drop $10bn, down to $54bn.
+
+Europe’s most popular crypto ETP, the BTCetc Bitcoin Exchange Traded Crypto (BTCE), also took a hit last week. Having claimed 41% of all bitcoin ETP flows in Q1, BTCE saw $100m outflows in the week to 30 April, according to data from Ultumus. This exodus is equivalent to more than a fifth of new assets gathered during the first three months of the year.
+
+Bitcoin – and the ETPs tracking its performance – booked record outflows as the asset’s average hash rate fell 20% during the week of the Xinjiang mine incident, with the region accounting for almost half of the bitcoin mining network.
+
+Despite a subsequent recovery in the crypto’s price, the mining mishap has done little to silence critics raising questions about bitcoin’s environmental, social and governance (ESG) credentials. While accustomed to distrust regulators, its ability to address these concerns may be crucial for bitcoin’s ability to withstand public scrutiny going forwards.
+
+How green can bitcoin be?
+
+On the often prioritised ‘E’ criteria, scores of commentators, pressure groups, analysts and researchers have lined up to condemn bitcoin’s energy consumption.
+
+According to the University of Cambridge Centre for Alternative Finance (CCAF), coal power accounts for two thirds of the energy used in the ‘proof of work’ process central to bitcoin’s secure production process.
+
+This is a problem given this process is essentially a race between different miners, who have to verify 1MB worth of transactions – also known as a hashing puzzle – as fast as possible, with a participant’s portion of the total mining power on a network correlating to their probability of finding the solution before their competitors.
+
+In turn, a vicious cycle has ensued between an increasing number of competitive miners and the use of more powerful and energy-intensive graphics processing units (GPUs) and application-specific integrated circuits (ASICs) by participants trying to outpace one-another.
+
+At present, research from the Bank of America notes the carbon emissions associated with bitcoin are equal to that of Greece, while the Cambridge Bitcoin Electricity Consumption index said the bitcoin network consumes more energy in a year than countries such as the Netherlands, Argentina and the United Arab Emirates.
+
+Refuting these analyses, Chris Bendiksen, head of research at CoinShares, said: “The environmental concerns around mining are overblown, and the analytical frameworks employed on the topic tend to range from nonsensical to outright disingenuous.
+
+“To the extent that financial firms need to improve on the sustainability of cryptocurrency products, this can be achieved for example by purchasing carbon credits at the custodial level to offset the current carbon impact of mining per coin held in custody per unit time.
+
+“So far, we have seen limited specific demand for such offsets and to my knowledge no large custodians currently offer them but it may well become a common product component.”
+
+Bendiksen also agreed with other analysis that bitcoin miners are mobile and seek to access the cheapest and often most freely supplied energy sources – and this is not necessarily limited to coal. For instance, during the rainy seasons in countries such as China and the Democratic Republic of Congo, miners will often rely on hydroelectricity while these sources are producing cheap power.
+
+According to Bendiksen, bitcoin miners are far from using renewables exclusively, but he states that on average the crypto’s clean energy reliance is between double and quadruple the global residential, commercial and industrial average.
+
+Regarding scope for further decarbonisation of the world’s most popular digital currency, innovations such as the MCO2 blockchain-backed carbon credit will help, as will further regulatory pressure. Though this latter point will still create tension, given crypto backers’ defensiveness about the asset class’s decentralised (if waning) nature.
+
+Social and governance concerns deserve credence
+
+‘S’ and ‘G’ considerations also require attention with many attributing the April sell-off to news that the US Treasury was opening an investigation into fresh accounts of money laundering being facilitated by digital assets.
+
+Alongside being used to launder dirty money, bitcoin trading also has a track record of security concerns, such as the half a billion-dollar Mt. Gox hack of 2014, and unwitting individuals being duped by online Ponzi schemes advertising ‘get rich quick’ bitcoin investing on platforms such as Twitter.
+
+Outside of criminal activity, the complexity and high volatility of assets such as bitcoin has prompted regulators such as the UK’s Financial Conduct Authority and the Swedish Financial Supervisory Authority to deem crypto ETPs unfit for use by retail investors, with the former issuing a direct plea to consumers addressing this exact issue.
+
+Unconvinced by these concerns, Bendiksen responded: “There are no other assets that come even remotely close to bitcoin’s ability to promote and protect human rights and aid in the global struggle for freedom.
+
+“Its governance is also unique in its ability to resist corruption and promote transparency.”
+
+Certainly, the blockchain technology underpinning bitcoin is now being applied in the back-office functions of trusted financial institutions and central banks are even toying with the idea of national crypto currencies.
+
+As for ESG, a virtual ledger could assist with labour-intensive tasks, such as supply chain traceability, renewable energy distribution, anti-money laundering and proxy voting.
+
+However, as for bitcoin itself, it still has a way to go before regulators cease to perceive it as a threat to unsophisticated, prospective investors. Likewise, the unregulated and decentralised qualities which make it popular, can also see victims of fraud or investment loss without recourse, should things awry.
+
+Though ESG concerns may not be a deterrent to cryptos’ libertarian vanguard, the increasing importance of these issues in the professional investment community may mean bitcoin will have to answer its critics if it is to enjoy the tailwinds of further institutional adoption.
+
+Bendiksen concluded: “So far we have not seen any evidence of ESG concerns actually impacting ETP flows but we have had the issue raised on numerous occasions by prospective investors.”
+
+Further Reading

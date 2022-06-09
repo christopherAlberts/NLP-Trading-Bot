@@ -1,0 +1,79 @@
+Bitcoin prices plunged as much as 19% in a violent sell-off Monday, the biggest of the year in dollar terms with a loss of more than $10,000, before quickly recovering and settling around $54,000.
+
+Bitcoin trading around $53,884.35 as of 21:00 UTC (4 p.m. ET). Slipping 6.45% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $47,780.75-$47,943.85 (CoinDesk 20)
+
+BTC trades between its 10-hour and 50-hour averages on the hourly chart, a sideways signal for market technicians.
+
+The day’s price swings came on strong volume across major exchanges Bitfinex, Bitflyer, Bitstamp, Coinbase, Gemini, ItBit, Kraken and Poloniex. The volume spiked to above $8 billion, the highest levels in almost two weeks. For comparison, the figure was about $5.8 billion on Friday.
+
+As CoinDesk reported earlier, blockchain data showed billions of dollars of bitcoin being transferred onto exchanges on Sunday, as this year’s doubling in prices to levels above $58,000 apparently motivated some traders to take profits.
+
+Related: Kraken CEO Says Ether Flash Crash Down to Trading, Not System Glitch
+
+Most of these bitcoin exchange inflows went to the U.S.-based Gemini, according to blockchain analytics firm CryptoQuant, indicating that the correction could be mostly led by investors and traders in the U.S.
+
+Another indicator provided by CryptoQuant, the “Coinbase premium,” which tracks the gap between Coinbase Pro’s BTC/USD pair and Binance’s BTC/USDT pair involving the tether stablecoin, also went negative during early trading U.S. trading hours on Monday – seen as a sign of lackluster institutional demand.
+
+Some analysts and traders were optimistic that prices would recover quickly, and that the correction might have been healthy for the market after it ran up too far, too fast.
+
+Monday’s sell-off “is without a doubt the result of overly confident traders with unsustainable leverage,” Bendik Norheim Schei, head of research at Arcane Research, told CoinDesk. “It’s been brewing for some time, as the premiums on futures have been very high lately. The dump and the liquidations of leverage traders today were necessary and healthy for the market.”
+
+Story continues
+
+Related: Galaxy Digital, IOSG Lead $4.3M Funding Round for 'DeFi Bridge' Centrifuge
+
+Speaking with CoinDesk last week, analysts and traders had warned that bitcoin might face more volatility due to an over-leveraged market, where the average “funding rate” on bitcoin perpetuals – a fee that traders pay for leverage embedded within the derivatives contracts – has risen sharply across major exchanges, to a level not seen since February 2020.
+
+The market turned extremely bullish last week after electric vehicle maker Tesla announced its $1.5 billion bitcoin investment, so it’s not surprising that a correction followed the steep runup, said Hunain Naseer, senior editor at OKEx Insights.
+
+“For now, even with the price bouncing back, the market is not in an uptrend, and bitcoin needs to consolidate and reclaim $55,000 levels,” Naseer added.
+
+Ether drops more sharply, while more than $25 million in DeFi loans liquidated
+
+Ether, the second-largest cryptocurrency by market capitalization, was down Monday, trading around $1,768.24 and sliding 8.32% in 24 hours as of 21:00 UTC (4:00 p.m. ET).
+
+Compared with bitcoin, ether’s reaction to Monday’s sell-off was more severe, just days after it logged a new all-time high above $2,000 on Friday.
+
+“With ether trading one step behind bitcoin, the weakness has spread here to a higher degree following the failed break of $2,000 over the weekend,” Singapore-based quant firm QCP Capital wrote in its Telegram channel on Monday.
+
+Ether’s currently testing at a key supporting level around $1,700, as noted by QCP. If that fails, the next support level would be at $1,470.
+
+While ether continues plummeting, the gas fees on Ethereum blockchain also have reached record highs on Monday, according to data from Blockchair.
+
+High gas fees are also likely a contributor to a $25 million worth of liquidation on decentralized finance (DeFi) lending platforms, as CoinDesk reported.
+
+Read More: $25M in DeFi Loans Liquidated as Ether Price Falls
+
+Other markets
+
+Digital assets on the CoinDesk 20 are mostly in red Monday. Notable winners as of 21:00 UTC (4:00 p.m. ET):
+
+XRP (XRP) + 7.42%
+
+Notable losers:
+
+Orchid (OXT) – 13.55%
+
+Ethereum Classic (ETC) – 12.71%
+
+OMG Network (OMG) – 12.58%
+
+Bitcoin Cash(BCH) – 11.85%
+
+Algorand (ALGO) – 11.33%
+
+Equities:
+
+Commodities:
+
+Oil was up 4.14%. Price per barrel of West Texas Intermediate crude: $61.69.
+
+Gold was in the green 1.34% and at $1808.07 as of press time.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield climbed Monday jumping to 1.353%.
+
+Related Stories

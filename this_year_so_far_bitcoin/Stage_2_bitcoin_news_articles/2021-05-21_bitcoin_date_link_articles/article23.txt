@@ -1,0 +1,45 @@
+Friday, May 21st 2021, 10:17 am
+
+By: CBS News
+
+Goldman Sachs piled back into the emerging cryptocurrency market earlier this year, when it relaunched its bitcoin trading desk after a short hiatus. Earlier this month, the Wall Street bank began offering an investment service that allows its high-net-worth clients to profit from a rise in bitcoin prices without having to own the digital currency.
+
+"It's a great time to be in the space," John Chow, an executive at cryptocurrency trading firm Cumberland DRW, which is working with Goldman on its new bitcoin investment effort, told Bloomberg.
+
+Goldman is hardly alone. Fidelity recently filed for regulatory approval to launch a bitcoin fund that the mutual fund and 401(k) giant says is aimed at wealthier individual and institutional clients.
+
+Crypto for the people
+
+Other major financial players catering to less moneyed customers have also hopped on the bandwagon as cryptocurrency prices soared. A recent PayPal promotion offered $25 to the first 48,000 customers who bought at least $25 worth of bitcoin using the payment company's app. And PayPal-owned Venmo last month began allowing users to buy and sell bitcoin and other cryptocurrencies in increments of as low as $1.
+
+Robinhood, the popular trading app geared to younger investors, said that its digital currency offering had 9.5 million users in the first quarter of 2021, up from 1.5 million at the end of last year. As with stocks, Robinhood allows users to buy bitcoin and other cryptocurrencies commission-free, including dogecoin, the digital currency originally launched as a joke, which is among the riskiest digital currencies. Robinhood's website says, "Crypto trading involves significant risk."
+
+The timing couldn't have been worse. In the past month, bitcoin and other cryptocurrencies have plunged. This week, the price of bitcoin fell to as low as $30,000. Although it rebounded to $40,000, bitcoin's value remains more than a third lower than its all-time high of $63,000 notched in April.
+
+The downdraft has reduced bitcoin's total value by roughly $450 billion, according to Coinmarketcap.com, while ethereum and other cryptocurrencies have also slumped. The sudden decline is undermining the case bitcoin bulls make for why even average investors should take a chance on cryptocurrencies.
+
+Crypto doesn't replace the dollar
+
+One of the main arguments bitcoin proponents make is that digital currencies represent a cheaper, more efficient way of doing business. The problem: Only a very small number of people are using bitcoin to buy goods and services.
+
+In 2016, the average number of purchases made with bitcoin cracked 200,000 a day for the first time. Five years later, that figure is only modestly higher. There have been an average of 270,000 transactions a day in bitcoin in the past month, according to Blockchain.com, and that likely includes many transactions in which one bitcoin investor is trading bitcoins with another.
+
+It's hard to say how that compares to the number of daily transactions conducted in dollars. However, there are nearly 110 million credit card transactions alone in the U.S. per day. That suggests the number of bitcoin transactions amount to a tiny fraction of overall consumer spending.
+
+Early on, bitcoin supporters used to say transactions would rise as more businesses began accepting cryptocurrencies for payment. And today, a growing number of retailers do take bitcoin: Square, Venmo and Paypal all support bitcoin as a payment method, while Mastercard has said it will soon allow crypto payments.
+
+For now, however, that hasn't moved the needle much.
+
+"I am not seeing wide adoption of bitcoin as a currency," Dan Dolev, who covers the fintech industry and cryptocurrencies for Mizuho Securities, told CBS MoneyWatch. "I think it is going to be an uphill battle to make it as something that people use to buy things."
+
+Crypto isn't a good store of value or inflation hedge
+
+Another reason some boosters predicted the popularity of bitcoin, and therefore its price, would take off, is because it was supposedly a safe place to put your money. The logic was that the total number of available bitcoins, which is finite and capped at 21 million, is much smaller than the the supply of dollars. That, many crypto believers argued, would cause the price of bitcoin to rise steadily over time. But bitcoin has been anything but steady, with its price prone to booms and busts. Although the value of bitcoin and other cryptos have risen, the huge swings in price — rising and falling by thousands of dollars a day — highlights their risks as an investment.
+
+Other people have said that bitcoin, like gold, is a good hedge against inflation. But in the past few weeks, as inflation fears have risen, the price of bitcoin has dropped.
+
+"I am not a believer or a disbeliever," Dolev said. "Today there are a lot of people who bought cryptos at a higher price and are underwater. The question is, are they willing to wait it out or are they going to cut their losses?"
+
+Crypto isn't really global
+
+Another common refrain from bitcoin bulls: Cryptocurrencies are a global financial asset. That, in theory, should make it easier and cheaper to transact business with anyone in the world. In reality, the cryptocurrency market has run into the same problems as other currencies — namely, that different countries have different rules governing what transactions are allowed. This week, China banned domestic banks and other financial institutions from supporting bitcoin. That means they are not allowed to process payments made in the cryptocurrency or allow bank customers to hold bitcoin in their accounts. Chinese banks are also barred from converting bitcoin into yuan or any other currency. Elsewhere, banks are also barred from dealing in bitcoin in much of the Middle East. In the U.S., regulators appear to be leaning toward more actively monitoring cryptocurrencies. On Thursday, the Treasury Department said it would require businesses to report any bitcoin payment over $10,000, citing an effort to crack down on tax evasion. Gary Gensler, the new chairman if the Securities and Exchange Commission, recently told CNBC that while he understands why people want to invest in bitcoin, the cryptocurrency market needs to be better regulated before that can happen more broadly. "I think that we need greater investor protection there," he said.

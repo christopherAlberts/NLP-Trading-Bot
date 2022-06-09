@@ -1,0 +1,37 @@
+Bitcoin is turning the heads of energy companies, including a Frisco firm that’s mining the skyrocketing cryptocurrency by using excess gas at drilling sites.
+
+Oil and gas driller Silver Energy is among dozens of companies turning to mobile cryptocurrency mining units that need large amounts of energy to perform the complex data center operations needed to create new cryptocurrency units through mining.
+
+Silver Energy President Joel Gordon said his firm bought a rig in the fall for $350,000 from a Chicago firm called EZ Blockchain, which is building the units that can be transported on a semi-truck to remote locations in places such as West Texas, North Dakota or Alberta, Canada.
+
+Officials at Silver Energy and EZ Blockchain said the mobile rigs help solve the pollution problem from natural gas flaring, which is responsible for about 1% of the world’s man-made carbon emissions.
+
+In turn, that energy is put to use in the increasingly competitive world of Bitcoin mining, which requires massive amounts of energy to validate the blockchain transactions that form the backbone of the cryptocurrency market.
+
+After spending most of last year trading for about $9,000 to $10,000, Bitcoin prices have shot up since December. The cryptocurrency was trading for more than $54,000 per Bitcoin on Tuesday after peaking at $63,745 in late April.
+
+Bitcoin miners are rewarded with new Bitcoins every time they solve a new algorithm that is added to the chain of transactions for existing Bitcoins. But with every solved math problem, the algorithms become more complex and require more computing power. That’s where the mobile units and natural gas drilling sites come in.
+
+“Flared gas is very impractical to capture [and] very expensive, so flaring gas is a big problem,” said Joel Gordon, who grew up in Canada and now runs Silver Energy. “And for Bitcoin miners, the No. 1 expense is power. We are able to make power off free gas.”
+
+Chicago-based EZ Blockchain makes the mobile data centers specifically for oil and natural gas producers. Founder Sergii Gerasymovych said it has delivered about a dozen mobile Bitcoin mining units to energy producers in North America, and demand is growing.
+
+The rigs exploded in popularity in 2020 when the COVID-19 pandemic sent the price of oil and natural gas down dramatically as the economy sputtered. At the same time, investors took a renewed interest in Bitcoin and other cryptocurrencies.
+
+Gerasymovych said there is also a growing concern from companies about environmental regulations and potential penalties, both financial and social, from emitting pollutants such as carbon dioxide into the atmosphere.
+
+“It’s not only Bitcoin, we are bullish on stranded natural gas,” Gerasymovych said. “There is so much stranded energy around the world.”
+
+Silver Energy has put the Bitcoin mining unit at a natural gas drilling site outside of Brooks, Alberta, in Canada.
+
+These kinds of sites can deliver energy for 30% to 50% less than plugging into the traditional grid, Gerasymovych said. That gives companies such as EZ Blockchain and Silver Energy a huge advantage in the power-hungry cryptocurrency mining industry. The units need only a simple satellite uplink to work — and plenty of electricity.
+
+Silver Energy’s Bitcoin mining unit uses the heat from natural gas flaring to power a generator that produces about 3 megawatts of electricity, all going to power the data center that would fit on the back of a semi-truck. Since Silver Energy started Bitcoin mining, demand has grown and EZ Blockchain now usually deals in units that produce much more electricity.
+
+Silver Energy would like to buy more units, but high demand has sent the prices for the mobile units soaring.
+
+“It’s really a short-time opportunity,” Gordon said. “With the amount of electricity Bitcoin mining is using, it really needs renewable energy to be successful.”
+
+Gerasymovych sees it another way, with flared natural gas providing a gateway to cheaper electricity for Bitcoin mining.
+
+“That was our whole philosophy behind the mobile data centers,” he said. “Bitcoin doesn’t need a lot of bandwidth, just electricity.”

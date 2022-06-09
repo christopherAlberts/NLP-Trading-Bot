@@ -1,0 +1,47 @@
+Chinese investors flocked to memecoin Shiba Inu just after it launched on Huobi and OKEx. Alipay will start testing e-CNY use in the super app, the Qingdao government wants to use the digital RMB to incentivize kindness, and China passed two standards at the International Telecommunications Union (ITU). The Bitcoin hashrate is moving away from China and China’s OTC king is going on trial. Block chain
+
+head lines The world of blockchain moves fast, and nowhere does it move faster than China. Here’s what you need to know about China’s block-world in the week of May 5-11.
+
+Shiba frenzy
+
+A joke cryptocurrency called Shiba Inu caught the attention of Chinese cryptocurrency investors following the meteoric rise of Dogecoin. Shiba, named after the Japanese dog breed, started trading on crypto exchanges preferred by Chinese traders. It began trading on OKEx and Huobi on Saturday, and on Binance on Monday.
+
+Its price rocketed more than tenfold since Saturday, according to data from CoinMarketCap. The hashtag “Shiba rise” exceeded 100 million views on Chinese microblogging platform Weibo as of the time of writing.
+
+The price of Dogecoin, a joke cryptocurrency or memecoin, rose 800% in the last month following repeated plugs by Elon Musk. After the Tesla founder on Saturday called it a “hustle” on the American comedy sketch show Saturday Night Live, the memecoin lost about 30% of its value. The hashtag “Dogecoin” in Chinese was viewed 130 million times on Weibo after Musk’s SNL appearance.
+
+Shiba has surpassed Bitcoin and Ethereum to become the top token in terms of volume traded on Huobi and OKEx, data from CoinGecko showed. (CoinDesk)
+
+The digital yuan
+
+Alipay will start testing the use of the e-CNY in its app for select users. The option is available through its own licensed bank, MYBank, on the super app. ( China Securities Journal , in Chinese)
+
+, in Chinese) The government of Qingdao, a city in eastern Shandong province, in collaboration with the local branch of China Construction Bank, is testing the conversion of government-measured “moral points” into digital RMB to incentivize kindness and create a care feedback mechanism. ( Mobile Payments Network , in Chinese)
+
+, in Chinese) The People’s Bank of China Digital Currency Research Institute and the China Academy of Information and Communications Technology passed two standards for blockchain with the UN agency, the ITU. The standards are on function and performance-assessment methods for blockchain platforms. (Shanghai Securities Journal, in Chinese)
+
+Mining updates
+
+In China, the Dogecoin and Litecoin price rallies have led to a surge of interest in older mining machines geared towards the two cryptocurrencies that were unprofitable until the rallies. ( The Block )
+
+) In April, more of the global bitcoin hashrate came from outside China rather than within, signaling that China is losing its dominance in crypto mining. Foundry USA made it to the top five pools globally, a ranking usually dominated by Chinese pools. (CoinTelegraph)
+
+The Chia launch
+
+Trading for Chia, a new crypto token by the inventor of BitTorrent, started on May 4. The token is poised to be a greener alternative to Bitcoin, and has been very popular with Chinese miners. Its popularity has led to hard drive shortages in China and Vietnam.
+
+Just days after its launch, the Amazon Web Services Chinese site started advertising a cloud solution for mining Chia. The page has since been deleted.
+
+Chia’s price dropped by about 29% since May 4, while volume traded has increased six-fold, data from CoinMarketCap showed. (The Block)
+
+OTC trial
+
+Zhao Dong, known as China’s over-the-counter (OTC) king, is scheduled for trial in Zhejiang province on May 12. He faces charges of illegal business operations and assisting in IT-related criminal activities. OTC trading is widely used by Chinese miners who want to convert their crypto assets to fiat currency to pay for ongoing bills, but the government cracked down on the practice last year. (Wu Blockchain, in Chinese)
+
+Crypto funding
+
+Crypto lender Babel Finance raised $40 million in a Series A led by Sequioa China, Dragonfly Capital, and investors from outside Asia’s crypto world including Zoo Capital, Bertelsmann Asian Investments (BAI), and Tiger Global Management. (TechNode)
+
+The trading ban
+
+One of China’s state-owned big banks, CITIC Bank, posted a notice on its website prohibiting account holders from using their accounts to buy cryptocurrencies. The notice was dated April 22, but was only discovered last week. (CITIC Bank notice, in Chinese)

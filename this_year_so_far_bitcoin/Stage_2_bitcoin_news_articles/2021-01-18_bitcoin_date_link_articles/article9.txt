@@ -1,0 +1,33 @@
+Coinsource Is Expanding The Network of Bitcoin ATMs
+
+It's easy to see the bitcoin price go up and feel like you’ve missed the boat. However, many individuals and institutions believe that Bitcoin is just now starting to heat up. So what is driving the price of bitcoin so high, and how could it continue to rise beyond these levels? The best place to start is by understanding the backbone of Bitcoin economics: supply and demand.
+
+Supply And Demand
+
+The problem with projecting future prices stems from the difficulty in predicting supply and demand. Bitcoin is unique in that its supply is on a known schedule; it is embedded in software code that cannot be changed by any person or organization. This code states that the new supply of bitcoin is cut in half every four years. The first mining subsidy halving occurred in 2012 when the new supply was cut in half to 25 coins released approximately every 10 minutes. In 2016, it was cut in half again, down to 12.5 new coins created every 10 minutes. In May 2020, the most recent Halving occurred, meaning there are now only 6.25 new coins created every 10 minutes. In short, the new incoming supply of Bitcoin becomes increasingly scarce as time goes on.
+
+Let's compare the mechanics of Bitcoin with something like the price of cars. If there's a huge increase in demand for cars, there would initially be a shortage and the price would shoot up. However, the car producers can react by manufacturing more cars. Once this new supply of cars is available, the price will come back down.
+
+Now, imagine what would happen if the new supply of cars was strictly limited: only 1,000 new cars could be created each year. There simply would not be enough cars to go around, so the price would go up (and not come back down). What if we go even further and cut the annual supply of new cars in half, so that only 500 new cars could be created each year? It may lead to a mania in the price of cars as people start to realize that owning a car is becoming increasingly difficult.
+
+This upward price mania is effectively what happened to bitcoin in 2012 to 2013, 2016 to 2017, and thus far in 2020 to 2021. The supply of bitcoin stays constant for a four-year period. Then, all of a sudden, it is cut in half. The impact is small at first, but as more and more people learn about Bitcoin, there are an increasing number of buyers chasing a decreasing level of new supply.
+
+The exponential growth of bitcoin's price can be a bit hard to grasp, so let's see what it looks like with charts. Here's bitcoin from 2010 to 2014 with the exponential growth phase circled in red:
+
+And here's another chart showing bitcoin's price from 2010 to 2018. Notice how the exponential price increase from 2013 (circled in red) now looks insignificant. The 2017 exponential growth phase is circled in blue:
+
+Finally, here's a chart that catches us up to today's price levels. The current exponential price increase is circled in green, while the 2013 and 2017 price rises are circled in red and blue, respectively. Notice how the first rise is just a blip on the radar, and the second rise is also starting to look insignificant:
+
+If the price of bitcoin follows its pattern following the previous supply halvings, the blue circle above will soon become almost as tiny as the red circle. This lines up with price predictions from many industry leaders: CitiBank projects the price of bitcoin will reach $318,000, Guggenheim says $400,000, JP Morgan claims $146,000 and the list goes on.
+
+Isn't This Too Good To Be True?
+
+Bitcoin may feel too good to be true because it is such a unique opportunity. Almost every new technology is first available to the wealthy and well-connected before everyone else. Televisions, cars and computers were first owned by the ultra-wealthy, only later to be owned by the masses. Similarly, almost every new investment is first available to the top 1 percent. Most companies are first privately funded by venture capitalists and accredited investors, only later to become publicly available via the stock market.
+
+Bitcoin reverses this trend. It can be acquired by anyone with an internet connection. In some ways, an average person can more easily store their wealth in bitcoin than Jeff Bezos can. While the average person can simply download an app and buy bitcoin, Bezos would likely require a direct relationship with a large bitcoin exchange, as well as a complex plan for securing hundreds of millions of dollars’ worth of bitcoin. While not fully available to all of humanity (not everyone has an internet connection), Bitcoin is the most widely available early stage technology in our lifetime, and perhaps in modern history.
+
+Of course, Bitcoin is not a guaranteed success. In its early stages, the internet was not a guarantee, and neither was the printing press. However, Bitcoin's globally decentralized nature makes it difficult to kill. It has no leader to attack or bribe. It is not a company that can get overleveraged and collapse. It is not reliant on a few key customers, and it cannot be disbanded simply because a world leader doesn't like it. Bitcoin continues to exist because people and companies across the globe use it and work on it, 24/7, 365.
+
+While global Bitcoin adoption is not a certainty, it is continuing to grow at an exponential pace, both in terms of price and number of users. The internet followed a similar path in its early days. At one point, fewer than 5 percent of people in the world had internet access. Because of these low ownership levels, the internet was slower and less useful than it is today. Currently, around 60 percent of the global population is an active internet user. Right now, global Bitcoin ownership covers less than 5 percent of the world’s population. If the global network effects that escalated the Internet to widespread adoption are similarly boosting Bitcoin toward global ownership, we are not too late to get into Bitcoin at all. In fact, we may still be very early.
+
+This is a guest post by Mitch, founder of YourBitcoin.Expert. Opinions expressed are entirely their own and do not necessarily reflect those of BTC Inc or Bitcoin Magazine.

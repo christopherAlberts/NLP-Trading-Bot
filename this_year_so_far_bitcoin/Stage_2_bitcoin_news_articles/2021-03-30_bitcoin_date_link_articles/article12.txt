@@ -1,0 +1,53 @@
+LAS VEGAS, March 30, 2021 (GLOBE NEWSWIRE) -- Marathon Digital Holdings, Inc. (NASDAQ:MARA) (“Marathon" or "Company"), one of the largest enterprise Bitcoin self-mining companies in North America, today announced that the Company will be launching the first Bitcoin mining pool based in North America that is fully compliant with U.S. regulations, including anti-money laundering (AML) and the Office of Foreign Asset Control’s (OFAC’s) standards.
+
+
+
+“The geopolitical value of moving mining pools to North America cannot be understated. Bitcoin is now no different than any other strategic or rare earth commodity. In fact, given the number of businesses now leveraging the potential and promise of Bitcoin both for distributed ledger benefits and as a reserve and hedge against inflation points to Bitcoin being with few peers in how important it is for long-term U.S. interest. With the work of the Future of Digital Currency Initiative at Stanford, the team here believes this infrastructure will help further decentralize Bitcoin and secure the fidelity of the network in both the short and long-term,” stated Atticus Francken - Co-Founder and Senior Fellow, Future of Digital Currency Initiative at Stanford University.
+
+To set up its pool, Marathon has exclusively licensed technology from DMG Blockchain that allows the Company to filter transactions. Marathon intends to leverage this technology to ensure that its mining pool adheres to AML regulations and that all transactions are compliant with OFAC’s standards. As such, the pool will refrain from processing transactions from those listed on the U.S. Department of Treasury’s Specially Designated Nationals and Blocked Persons List (SDN). By excluding these transactions, all bitcoin Marathon mines will be compliant with U.S. regulatory standards.
+
+“While institutional interest in Bitcoin is accelerating, many large funds and corporations have expressed concerns over purchasing Bitcoin that may have been tainted by nefarious actors,” said Merrick Okamoto, Marathon’s chairman and CEO. “Our pools’ initiatives are grounded on decentralization, transparency, legal compliance with U.S. rules and regulations, and independent auditability under U.S. auditing standards. While we appreciate some miners’ appetite for processing transactions indiscriminately, it is our belief that as a publicly listed company based in the United States, and as one focused on enabling more institutional adoption of Bitcoin, it is our responsibility to follow U.S. regulations. We believe that such regulatory compliant mining will allow us to produce ‘clean’ Bitcoin, which will enable a greater number of institutions to gain exposure to this new asset class, ultimately benefiting our organization, our shareholders, and the broader network.”
+
+On May 1, 2020, Marathon will begin directing 100% of its hashrate to the new mining pool. Marathon expects all 103,120 of its miners to be deployed by the first quarter of 2022, at which point, the Company will be directing 10.37 EH/s to the mining pool. On June 1, 2020, the pool will begin accepting other U.S.-based Bitcoin mining companies.
+
+Okamoto continued, “Currently, more than two thirds of Bitcoin’s global hashrate is concentrated in pools with little transparency and most reside in one country. It is our belief that this concentration of hashrate outside the United States, where central authorities could interfere with mining operations without due process, poses a risk to the network. We believe shifting more mining power to the U.S. could reduce these risks, potentially strengthening the network and benefitting all who participate in it. If all 10.37 EH/s of our potential hashrate were pointed towards this pool today, our mining pool would be the seventh largest bitcoin mining pool in the world, putting North America on the map as a digital-asset mining hub.”
+
+Dan Reitzik, DMG Blockchain’s CEO, added, "Merrick Okamoto's vision for this mining pool is exactly what is needed in the crypto mining industry today. We are excited to provide Marathon with our proprietary software tools and ongoing technological support to help realize this vision."
+
+Investor Notice
+
+Investing in our securities involves a high degree of risk. Before making an investment decision, you should carefully consider the risks, uncertainties and forward-looking statements described under "Risk Factors" in Item 1A of our most recent Annual Report on Form 10-K for the fiscal year ended December 31, 2020. If any of these risks were to occur, our business, financial condition or results of operations would likely suffer. In that event, the value of our securities could decline and you could lose part or all of your investment. The risks and uncertainties we describe are not the only ones facing us. Additional risks not presently known to us or that we currently deem immaterial may also impair our business operations. In addition, our past financial performance may not be a reliable indicator of future performance, and historical trends should not be used to anticipate results in the future. Future changes in the network-wide mining difficulty rate or Bitcoin hashrate may also materially affect the future performance of Marathon's production of Bitcoin. Additionally, all discussions of financial metrics assume mining difficulty rates as of March 2021. See "Safe Harbor" below.
+
+Forward-Looking Statements
+
+Statements made in this press release include forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements can be identified by the use of words such as “may,” “will,” “plan,” “should,” “expect,” “anticipate,” “estimate,” “continue,” or comparable terminology. Such forward-looking statements are inherently subject to certain risks, trends and uncertainties, many of which the Company cannot predict with accuracy and some of which the Company might not even anticipate and involve factors that may cause actual results to differ materially from those projected or suggested. Readers are cautioned not to place undue reliance on these forward-looking statements and are advised to consider the factors listed above together with the additional factors under the heading “Risk Factors” in the Company's Annual Reports on Form 10-K, as may be supplemented or amended by the Company's Quarterly Reports on Form 10-Q. The Company assumes no obligation to update or supplement forward-looking statements that become untrue because of subsequent events, new information or otherwise.
+
+About DMG Blockchain Solutions Inc.
+
+DMG is a vertically integrated blockchain and cryptocurrency company that manages, operates, and develops end-to-end digital solutions to monetize the blockchain ecosystem. DMG’s businesses are segmented into three main divisions: data centre operations, data analytics and forensics and developing enterprise blockchains. DMG’s data centre operations focus on earning revenues from block rewards and transaction fees by mining primarily bitcoin as well as providing hosting services for industrial mining clients entirely powered by renewable energy. DMG’s data analytics and forensic services provide technical expertise software products such as Blockseer Pool, Mine Manager and Walletscore, as well as working with auditors, law firms, and law enforcement organizations. DMG’s permissioned blockchain technology is focused on developing enterprise software for the supply chain management of controlled products. DMG’s strategy is to become the domain experts across the business verticals it focuses on. DMG’s environmentally committed management team includes seasoned crypto experts, forensic & financial professionals and blockchain developers with deep relationships throughout the industry.
+
+Future changes in the Bitcoin network-wide mining difficulty rate or Bitcoin hashrate may materially affect the future performance of DMG’s production of Bitcoin, and future operational results could also be materially affected by the price of Bitcoin and an increase in hashrate mining difficulty.
+
+For more information on DMG Blockchain Solutions visit: www.dmgblockchain.com.
+
+About Marathon Digital Holdings
+
+Marathon is a digital asset technology company that mines cryptocurrencies with a focus on the blockchain ecosystem and the generation of digital assets.
+
+Marathon Digital Holdings Company Contact:
+
+Jason Assad
+
+Telephone: 678-570-6791
+
+Email: Jason@marathondh.com
+
+Marathon Digital Holdings Investor Contact:
+
+Gateway Investor Relations
+
+Matt Glover and Charlie Schumacher
+
+Telephone: 949-574-3860
+
+Email: MARA@gatewayir.com

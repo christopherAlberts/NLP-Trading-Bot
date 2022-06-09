@@ -1,0 +1,39 @@
+Jameson Lopp, CTO at Bitcoin (BTC) focused firm Casa, recently explained what the Bitcoin (BTC) Taproot upgrade will bring to the world’s largest cryptocurrency network.
+
+Lopp discussed (in a recent blog post) how the Bitcoin Taproot update could affect you and your Bitcoin wallet, especially if you’re using a multisig wallet.
+
+Lopp explained that the way spending BTC works “under the hood” has actually evolved many times since Bitcoin was invented. Lopp confirmed that Taproot is the most recent upgrade to how BTC transactions work, and it “brings real benefits to Bitcoiners.”
+
+As mentioned in the blog post by Lopp, some of the benefits of Taproot for Bitcoin are as follows:
+
+Reduced transaction fees. The transaction data size “for making complex Bitcoin transactions is dramatically reduced.” That means transaction fee costs for “using more complex Bitcoin wallet features (such as multisig, or time-locking) will decrease significantly.” It will be “much cheaper to send a transaction from your Bitcoin multisig wallet.”
+
+The transaction data size “for making complex Bitcoin transactions is dramatically reduced.” That means transaction fee costs for “using more complex Bitcoin wallet features (such as multisig, or time-locking) will decrease significantly.” It will be “much cheaper to send a transaction from your Bitcoin multisig wallet.” Increased privacy. With Taproot and Schnorr signatures, Bitcoin wallets “with more complex spending conditions, like a multisig wallet or one that uses time-locking, will no longer be distinguishable from simple single signature wallets unless they spend the funds using their “uncooperative / recovery” spending conditions.” This will “let more complex wallets ‘blend in with the crowd’ better from the perspective of on-chain analytics.”
+
+With Taproot and Schnorr signatures, Bitcoin wallets “with more complex spending conditions, like a multisig wallet or one that uses time-locking, will no longer be distinguishable from simple single signature wallets unless they spend the funds using their “uncooperative / recovery” spending conditions.” This will “let more complex wallets ‘blend in with the crowd’ better from the perspective of on-chain analytics.” More wallet functionality. Developers can “work on creating vaulting logic that is better protected against permanent loss by having multiple time-locked redemption conditions.” As an example of this, you could “create a 3 of 5 multisig wallet that ‘gracefully degrades’ to a 2 of 5 wallet if you don’t move funds from that wallet for 5 years.” This would “allow you to recover your Bitcoin even if you lose 3 of your 5 keys! In a situation like this, the privacy benefit of Taproot is important – you wouldn’t want someone else knowing that this is how your wallet is set up simply by looking at your on-chain data.”
+
+While commenting on how Taproot actually works, Lopp noted:
+
+“Bitcoin’s scripting language may seem simple and restrictive, but it offers a deceptive amount of functionality. It enables everything from simple, single signature wallets to complex multi-signature, hash time locked contracts like those used to run the Lightning Network. However, these more complex Bitcoin contracts have historically been expensive to use.”
+
+Lopp also mentioned that before Taproot, “if you wanted to use a complex Bitcoin script, you would have to post the entire script inside of each transaction input when spending funds.” This made such transactions “take up a lot of blockchain space, so they were expensive to execute,” Lopp revealed.
+
+But Taproot uses a structure referred to as Merkelized Abstract Syntax Trees to “partition the execution of complex Bitcoin scripts, so that you only need to reveal the parts of a script that get executed,” Lopp explained.
+
+He added:
+
+“During normal wallet operations, a threshold of keys are used to craft what appears to the rest of the world to be a single signature. But in the case where keys have been lost, you can conditionally execute and expose only the logical branches that are being redeemed.”
+
+Lopp further noted that as wallet developers start taking advantage of more complex scripting with Taproot, he anticipates that we’ll see the development of “novel redeem script conditions accelerate.” He added that as with any powerful tool, we’ll “need to take care not to overcomplicate things and shoot ourselves in the foot.”
+
+While explaining what Casa clients may expect with the Taproot upgrade, Lopp noted:
+
+“The Taproot upgrade is backwards compatible, so when it goes live, your multisig wallet will continue working as it does today. Once our software and hardware dependencies support Taproot functionality, we can integrate it into Casa.”
+
+He continued:
+
+“At that point, we’ll seek to make migrating to a Taproot-enabled wallet as painless as possible. The migration process will be quite similar to the regular transaction signing flows with which you are familiar, it will just create a transaction that moves funds into a Taproot-enabled address. There will be no rush to upgrade your wallet; you may do so at your own convenience.”
+
+In addition to the “default privacy benefits” you can expect to get by updating to a Taproot-enabled wallet, they will be looking into ways they can enhance security for their customers with the new Taproot features, Lopp added.
+
+For addtional information and more updates from Casa, check here.

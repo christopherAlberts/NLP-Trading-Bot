@@ -1,0 +1,11 @@
+Cryptocurrency-related crime fell last year to a small fraction of overall trading volume. But some targeted hacks boomed as criminals exploited people working from home during the pandemic.
+
+Last year, illicit activity made up 0.34% of all cryptocurrency transaction volume, according to a report from blockchain data firm Chainalysis. That was down from roughly 2% a year earlier.
+
+"We saw a significant decrease in the share of overall activity associated with illicit entities," Kim Grauer, head of research at Chainalysis, told CNBC. "Still, ransomware was by far the biggest category in terms of activity growth and we're seeing an all time high for dark-net market activity."
+
+Ransomware is malicious software hackers use to infect a computer, then demand a fee to unlock it. That bounty is often paid in bitcoin, or other cryptocurrencies.
+
+The category made up just 7% of all crypto funds received by criminals, but increased by 311% year over year. Chainalysis pointed to more people working from home as a new vulnerability for companies — and an opportunity for criminals.
+
+Dark net markets were the second-largest crime category, accounting for $1.7 billion worth of cryptocurrency activity — a roughly 30% increase from a year earlier. Also known as the dark web, the dark net is a network that uses the internet, but requires specific software and authorizations to access.

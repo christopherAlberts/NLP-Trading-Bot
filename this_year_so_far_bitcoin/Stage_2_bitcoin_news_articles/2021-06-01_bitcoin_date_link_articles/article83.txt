@@ -1,0 +1,109 @@
+Joseph V. Micallef is a best-selling military history and world affairs author, and keynote speaker. Follow him on Twitter @JosephVMicallef.
+
+Several weeks ago, a Russia-based hacker group, called DarkSide, staged a ransomware attack against U.S. pipeline operator Colonial Pipeline.
+
+To prevent a virus from spreading throughout their computer network, Colonial's management shut down the pipeline's operations. The Colonial Pipeline is a 5,500-mile network that transports approximately 2.5 million barrels of gasoline per day -- about 45% of the U.S. East Coast's gasoline, diesel and jet fuel. The suspension of fuel deliveries led to widespread shortages of gasoline, which affected 18 states.
+
+At the peak of the crisis, more than 12,000 gas stations were out of gasoline. In some markets, up to 75% of gas stations ran out of fuel. Although pipeline operations were restarted May 12, there were still 9,500 gas stations that needed fuel as of May 20.
+
+Ransomware is a form of malicious software or virus that, when introduced into an operating system, blocks access to the computer system, typically by encrypting files. To neutralize the virus, hackers demand that the company pay a "ransom," usually in a cryptocurrency, to obtain a key that will neutralize the virus and allow the firm to regain control of its operating system.
+
+According to the FBI, DarkSide is a "cyber-criminal gang" based in Russia and Eastern Europe that operates a business model it describes as "ransomware as a service." The group announced in August 2020 that it had developed "ransomware tools" that it would sell to other hacking groups.
+
+Since then, there have been 90 ransomware attacks that resulted in the theft of more than 2 terabytes of data. It is not clear whether these ransom attacks were staged exclusively by the DarkSide hacker group or by others using the DarkSide hacker tools. Most likely, it is a combination of both.
+
+Following the attack, DarkSide announced that it was dissolving. However on May 12, it disclosed that three more companies, "a construction company in Scotland, a renewable energy product reseller in Brazil and a technology service reseller in the US," had been breached. A division of Toshiba's European unit, as well as Ireland's Health Service, have also been attacked.
+
+It's not clear whether these attacks were staged by DarkSide, by groups affiliated with them or hackers using their tools. DarkSide has historically operated a sophisticated affiliate network where it shares the proceeds of its ransomware with partners that can facilitate its penetration of a victim's computer system.
+
+Colonial Pipeline has confirmed that it paid a ransom of $4.4 million to regain control of its computer system. It's possible that Colonial Pipeline paid other sums not classified as ransom, but it is certain that a ransom was paid.
+
+According to DarkSide, some unknown entity subsequently raided the group's "digital wallet" where its cryptocurrency was kept and drained its $5.3 million contents. It's not clear who was responsible for taking DarkSide's cryptocurrency. Some commentators suggested that it was the U.S. government, although the Biden administration has denied this. It might also have been a ruse by DarkSide to deflect regulatory scrutiny and retaliation.
+
+The use of Bitcoin to pay the ransom has rekindled concerns that cryptocurrencies pose a threat to U.S. national security, both because their use in ransomware attacks could encourage this activity but also, more generally, because they could potentially undermine the role of the U.S. dollar in the world's financial system.
+
+Digital Currency and U.S. National Security
+
+To be considered a currency, an item must meet three criteria: It must simultaneously be a store of value, a unit of account and a means of exchange.
+
+The U.S. dollar is a currency because it meets all three criteria: It is a store of purchasing power, i.e., a store of value (fears of inflation notwithstanding); it is used to measure net worth or the value of a transaction, i.e., the price of gasoline or bread; and it can be exchanged for goods and services.
+
+A digital currency/cryptocurrency is defined as a "digital asset used as a means of exchange where the ownership record is stored in a ledger in the form of a securely encrypted computerized database which stores transaction records, controls the creation of new currency and to verify the transfer of ownership of that currency."
+
+Currently, there are more than 1,000 different digital currencies with an aggregate value of approximately $2 trillion. Bitcoin is the best known and the largest, in monetary value, of the digital currencies, representing roughly half of the value of all digital currencies.
+
+The blockchain, which is the critical element that allows the exchange of digital currencies without the intervention of third parties or regulators, is a digital record of all of the transactions regarding a specific cryptocurrency maintained across several computers that are linked in a peer-to-peer network.
+
+Think of the blockchain as the digital equivalent of title insurance on a house. Title insurance tracks the chain of ownership in a property from the original land grant through the various owners down to the most recent buyer. This verification of the chain of title confirms the legal ownership of the most recent purchaser.
+
+Blockchain does the same thing in an encrypted digital format for any item, whether it is a digital currency or a commodity. Thus, for example, blockchain can track the chain of title of an item from the original manufacturer through the distributor, wholesaler and retailer, including all of the shippers in between -- up to and including the consumer purchase.
+
+Bitcoin is not quite a full-fledged digital currency. It can be a store of value, although that value can be highly volatile. Nor is it yet a means of exchange. There are a handful of businesses that will take Bitcoin in exchange for goods and service -- but most do not. Until recently, Tesla would sell you a car priced in Bitcoin, although it has now suspended that option.
+
+In addition, there are any number of financial intermediaries, such as PayPal or Square, that will allow you to exchange Bitcoin for goods and services by converting your Bitcoin to cash to pay for a purchase.
+
+Bitcoin is also not yet a unit of account. If you requested a mortgage from your local bank and submitted a financial statement in Bitcoin or some other digital currency, the bank would likely send it back and tell you to submit it in U.S. dollars. At this point, Bitcoin has some of the characteristics of a currency, but falls short of being a full-fledged digital currency.
+
+How Do Digital Currencies Pose a National Security Threat to the US?
+
+There are three ways in which crypto currencies could impact U.S. national security.
+
+First, Bitcoin and other digital currencies are easier to "launder" than cash, i.e., move around and convert into other assets. Had DarkSide asked for cash or for the money to be wired to a foreign bank, it would have been far easier to track where the money was going.
+
+Moving large quantities of cash without government sanction is difficult. Just try to buy a car, much less a house, for cash. Likewise, even if a foreign bank had been willing to accept and process the wire transfer, any financial institutions that participated in the transaction without regulatory approval would find themselves frozen out of the SWIFT network.
+
+SWIFT stands for Society for Worldwide Interbank Financial Telecommunication, legally S.W.I.F.T. SCRL. It "provides a network that enables financial institutions worldwide to send and receive information about financial transactions in a secure, standardized and reliable environment." A bank frozen out of the SWIFT network could not deal with other banks and would find it impossible to operate internationally or do much more than provide local banking services.
+
+A comparable regulatory structure for digital currencies has not yet evolved. More regulation is coming but, since digital currencies can be transferred directly through peer-to-peer networks, regulatory agencies may never have the degree of control over digital currencies that they do over electronic financial transactions involving conventional currencies.
+
+By making it easier to monetize criminal activity, the rise of digital currencies may lead to an increase in criminal activity, especially activity like ransomware that can be conducted remotely. While any one activity may not rise to the level of a national security threat, the possibility of an overall increase in criminality does -- especially when those criminal acts are being conducted by foreign bad actors against American companies, U.S. government agencies or elements of critical American infrastructure.
+
+Secondly, the creation of digital currencies represents an enormous transfer of wealth. Take Bitcoin, for example. Currently, approximately 900 Bitcoins are created each day. At the time of this writing, Bitcoin was trading at approximately $40,000 per coin. That means $36 million of Bitcoin is made -- the term used is "mining" -- each day, or approximately $1 billion a month.
+
+In April 2020, for example, 65% of all Bitcoin mining occured in China. The next five largest Bitcoin miners are the U.S., 7.24%; Russia, 6.9%; Kazakhstan, 6.17%; Malaysia, 4.33%; and Iran, 3.82%. CNBC has estimated that Chinese Bitcoin mining may be as high as 75%; others have suggested that the number of Chinese Bitcoin miners could be as high as 85% or more.
+
+Close to 90% of Bitcoin mining is being done by countries that the U.S. considers adversaries. On balance, these countries have been net sellers of Bitcoin over the last several years, while U.S. and European investors and financial institutions have been net buyers.
+
+It's not entirely clear who all the Chinese, Russian and Iranian entities mining Bitcoin are or what links, if any, they have to their government or military. They may not have any. The Iranian Revolutionary Guard Corps, however, has long been rumored to be involved in Bitcoin mining.
+
+The current pace of activity represents a transfer of over $10 billion of wealth each year from the U.S. and its European allies to potential adversaries. That transfer represents only new mining activity. It does not take into account the appreciation in previously mined Bitcoin that those miners may have retained. That also applies, on a smaller scale, to the transfer of wealth to North Korean Bitcoin miners, an activity that is certainly occurring under government control and whose scope is unknown.
+
+The third and most serious threat to U.S. national security is the impact of digital currencies on both the status of the dollar as a reserve currency and on American control over the institutions/mechanisms of the international monetary system.
+
+The U.S. government obtains an enormous amount of political leverage from its influence over the institutions/structures of the international monetary system. That influence is the result of a number of factors: the role of the dollar as a reserve currency; the fact that much of the world's trade, including the trade in commodities, is denominated in dollars; the size of the U.S. economy (still about a quarter of global gross national product); the role of U.S. banks in the international system; and de facto U.S. control over many of the institutions that enable global capital flows.
+
+Over the last several decades, successive administrations have used economic and financial sanctions as a preferred alternative to armed conflict and as a key instrument of foreign policy. Any development that erodes the U.S. position astride the international monetary system directly impacts the tools that Washington has available to implement its foreign policy and, by extension, will raise national security issues.
+
+China has already announced plans for a digital yuan, while at the same time banning the use of cryptocurrencies for commercial transactions. Beijing has not banned Bitcoin mining, although it has stated that it might do so. In the U.S., the Federal Reserve has also announced that it is studying the creation of a digital dollar.
+
+Most currency transactions today are electronic. The difference between a digital currency and electronic transactions is that a blockchain-based digital currency would bypass financial intermediaries like SWIFT and the international banking systems. Digital currencies could be exchanged in a peer-to-peer network and would be extremely hard, if not impossible, to monitor.
+
+Digital currencies would make it harder to impose financial sanctions on a country, its companies or citizens. They could lead to the development of a separate, parallel financial/monetary system from the current one. In such a system, first-mover status is a significant advantage.
+
+A digital monetary system doesn't have to be based on a cryptocurrency. In fact, it is more likely to be based on a digitized, already existing, fiat currency. A fiat currency is not backed by a physical commodity but by the government that issued it. Many of the software features embedded in cryptocurrencies can be embedded into digital fiat currencies also. That currency, especially if it was backed by a large economy like China's, would be in a strong position to challenge the dollar's current primacy.
+
+The issue grows even more complex if you consider the potential impact of tokenization. A blockchain-based digital currency can function just as well on any digitized/tokenized asset.
+
+Tokenization refers to "the process of converting ownership rights in a particular asset into a digital token on a blockchain. These can include unique hash values which represent physical assets, financial instruments, real estate, equity, bonds, fund units."
+
+Fundamentally, this activity is nothing new. It's simply the digital version of the asset securitization activity that financial markets have been doing for years.
+
+Proponents of Bitcoin, for example, point out that the total quantity of coins is limited to 21 million. They tout Bitcoin as an asset that is not subject to the depreciation inherent in fiat currencies. Touted as the digital equivalent of gold as a store of value, they postulate that if a significant portion of the $13 trillion invested in gold was converted to Bitcoin, the price of the digital currency would soar.
+
+There are lots of assets, however, whose supply is limited or fixed. If those assets were tokenized, they would function in exactly the same way as Bitcoin and other digital currencies.
+
+For example, there are the vast collections of art that have been amassed in the national museums of the U.S., France, Italy and the UK. There are the enormous land holdings that the U.S. government has, including the national park system and the mineral rights to Federal lands and the continental shelf, under its jurisdiction.
+
+The U.S. government also controls the rights to the electromagnetic spectrum; portions of which can be used for broadcast, cellular telephony or internet access, and are quite valuable. Governments own a lot of stuff. Their value is in the trillions of dollars. Historically, those assets are part of the government’s “good faith and credit” that back the U.S. dollar.
+
+These assets are difficult to monetize, however, except indirectly via a fiat currency. Tokenization allows any government asset to be converted into a digital currency-like instrument. In some ways this is a throwback to the early days of the U.S. when the federal government often issued bonds that were backed by the proceeds of government land sales.
+
+If tokenized art becomes just one of several possible bases for digital currencies, then the Louvre Museum in Paris or the British Museum and the National Gallery in London, are the financial equivalent of the U.S. gold reserves in Fort Knox by an exponential factor.
+
+Crypto currencies are only the first phase of a tokenization and blockchain based transformation of the international monetary system and of the role of money in modern economies. Indeed, tokenization will likely make cryptocurrencies obsolete before they ever get established.
+
+The changes in the international monetary system that blockchain, cryptocurrencies and tokenization will create could have a profound impact on the centrality of the U.S. dollar and the international financial system that has evolved around it. In turn, those changes will have significant consequences on the tools that future administrations will have with which to implement U.S. foreign policy and ensure U.S. national security.
+
+Editor's Note: An earlier version of this article cited the value of the collected art works of Monet at $17.5 trillion. The correct number is $17.5 billion. While the stated value was incorrect, it does not change the conclusion of how cryptocurrencies impact U.S. national security.
+
+-- The opinions expressed in this op-ed are those of the author and do not necessarily reflect the views of Military.com. If you would like to submit your own commentary, please send your article to opinions@military.com for consideration.

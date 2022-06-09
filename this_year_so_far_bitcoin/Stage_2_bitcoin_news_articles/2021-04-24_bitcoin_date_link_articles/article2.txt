@@ -1,0 +1,53 @@
+Bitcoin’s rally appears to be running out of steam, at least for now.
+
+The digital currency dropped again Friday, briefly falling below $50,000—a decline of more than 20% from its record of $64,829 on April 14.
+
+Bitcoin’s high coincided with the stock-market debut of Coinbase Global Inc., the biggest U.S. cryptocurrency exchange. The two events marked the pinnacle of a heady rally for cryptocurrencies that began last year. Bitcoin’s price more than tripled in 2020 and doubled to start 2021 before slipping.
+
+The rally cratered last Saturday when bitcoin suddenly fell as much as 17% to $52,149—with half the decline occurring in about 20 minutes. Although it recovered some of those losses by Monday, the price has steadily declined, sitting Friday afternoon at $50,620.
+
+Bitcoin’s momentum lately has been showing signs of flagging, said Michael Oliver of the research firm Momentum Structural Analysis. Since bitcoin crossed $60,000 in March for the first time, its pace of gains has slowed and it has traded in a relatively narrow range. That was a sign, he said, that the rally could falter, as it finally did over the weekend. “We think bitcoin’s broken for the time being," he said, pointing to technical trend lines.
+
+The weekend plunge underscored the fragility of bitcoin’s recent advance. It is unclear what triggered the selloff, which according to the data provider CoinMarketCap wiped out nearly $220 billion of value in cryptocurrencies in an hour.
+
+Some traders pointed to a rumor on Twitter that the Treasury Department was preparing to charge several financial institutions for allegedly using cryptocurrencies to launder money, which was picked up by some media outlets. A department spokeswoman declined to comment.
+
+Whatever sparked the initial bout of selling, traders agree that it accelerated because of the implosion of enormous amounts of leveraged bets that investors had placed on overseas, lightly regulated cryptocurrency-derivatives exchanges.
+
+In all, traders lost $10.1 billion on Sunday to liquidations by crypto exchanges, according to the data provider Bybt. More than 90% of the funds liquidated that day came from bullish bets on bitcoin or other digital currencies, Bybt data show, and nearly $5 billion of the liquidations took place on one exchange, Binance, the world’s biggest crypto exchange by trading volume.
+
+As the price of bitcoin tumbled, many of those bets were automatically liquidated, adding more downward pressure on the price and leading to a vicious cycle of further liquidations.
+
+Some crypto traders were wiped out with little warning.
+
+Jasim, an engineer in Kuwait who declined to give his last name, said he was awakened by an alert on his phone at about 5 a.m. local time Sunday. He watched anxiously as Binance liquidated some of his trades, and then he closed out others with steep losses. In all, he said he lost about $9,000.
+
+It wasn’t a new experience for Jasim, whose positions have been liquidated several times since he got into crypto in 2017. “Being greedy is the problem," he said. Jasim has resumed trading but plans to be more careful about risk management in the future.
+
+Exchanges such as Binance let individual investors deposit a relatively small amount of money upfront to place an outsize bet. For instance, suppose a trader buys futures that pay off if bitcoin rises against the U.S. dollar. If bitcoin climbs, the trader’s profit could be many times greater than what could have been made simply by buying bitcoin.
+
+But if bitcoin falls, the trader can be on the hook for big losses, and must quickly top off the account with fresh funds, or else the exchange will automatically liquidate the trader’s holdings.
+
+“You have potential for a series of cascading liquidations, happening back to back to back," said Chris Zuehlke, global head of Cumberland, the crypto-trading unit of Chicago-based DRW Holdings LLC.
+
+Adding to the weekend’s chaos, some exchanges, including Binance, reported glitches in the midst of heavy trading volumes. Traders said their inability to access exchanges dried up liquidity—which was already thin over the weekend—and exacerbated price moves. A Binance spokesman said, “In instances where we may have experienced outages, we aim to learn from them to prevent further occurrence."
+
+Offshore crypto-derivatives exchanges offer individual investors high degrees of leverage. At Binance, for instance, investors can get leverage of 125 to 1 for some futures contracts, meaning they can deposit just 80 cents to amass the equivalent of $100 of bitcoin. By comparison, an investor trading bitcoin futures on CME Group Inc., a regulated U.S. exchange, would need to deposit at least $38 and would likely be required to post more margin by their brokerage.
+
+The Binance spokesman said that the exchange recently reduced the amount of leverage it offers on many products and that only a few users were using 125-to-1 leverage.
+
+Still, traders said the swiftness of the weekend selloff underscores the role of heavily leveraged bets—many of them by individual investors—in fueling this year’s cryptocurrency rally.
+
+“At its core, bitcoin is still heavily driven by retail, who choose to use a lot of leverage," said Rich Rosenblum, president of the crypto-trading firm GSR.
+
+Among other signs of bitcoin’s flagging momentum: signs of waning demand among institutional investors and the tepid performance of Coinbase since its debut last week.
+
+The number of large bitcoin transactions, which are typically made by professional money managers, dropped slightly in the first quarter from the fourth quarter, according to a report from the crypto exchange OKEx. And assets held under management by the industry’s fund providers fell 4.5% to $56 billion in April from March, according to the research firm CryptoCompare.
+
+While Coinbase’s debut was a flag-planting event for the industry, it might have also been a cue for investors to take some profits. The company was the first major crypto firm to test public markets in the U.S. and fetched a monster valuation of $85 billion on its first day of trading. But its shares have fallen in seven of its eight sessions as a public company, closing Friday at $291.60, down from its opening price of $381 on April 14.
+
+Bitcoin peaked the same day.
+
+This story has been published from a wire agency feed without modifications to the text.
+
+Subscribe to Mint Newsletters * Enter a valid email * Thank you for subscribing to our newsletter.

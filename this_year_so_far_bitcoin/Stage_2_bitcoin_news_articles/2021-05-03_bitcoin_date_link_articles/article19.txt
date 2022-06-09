@@ -1,0 +1,39 @@
+Cryptocurrency traders are always using the options market to bet that prices on digital assets such as bitcoin and ether and will soar – or crater.
+
+A lesser-known use for options trading is simply to bet on whether price swings, or volatility, will increase or decrease. And according to cryptocurrency market experts, the market is ripe for that kind of wager now.
+
+“Bitcoin’s short-dated option implied volatility is trading below realized volatility,” crypto derivatives data provider Genesis Volatility wrote in its weekly newsletter published on Sunday. “Ether’s implied volatility is trading at a huge discount to the realized volatility.”
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+When implied volatility is trading below historical volatility, it’s a sign that the market is underpricing prospects for future price turbulence relative to recent price turbulence. Therefore, the implied volatility could rise and converge with and cross above the historical volatility, boosting options prices and yielding profits for buyers.
+
+“Buying options (call/put) in this environment is extremely interesting,” Genesis Volatility said.
+
+Traders buy options when volatility is relatively cheap and sell when it’s high. Volatility trading, therefore, is pretty simple at the core: It is based on the age-old investment adage of buy low and sell high. It is analogous to buying an asset in the spot market when it is perceived as undervalued and selling when it appears to be overvalued.
+
+Implied volatility refers to the market’s expectation for price turbulence over a specific period, while historical or realized volatility represents volatility that has already played out.
+
+Volatility has a positive impact on options prices. Options are hedging instruments that give the purchaser the right but not the obligation to buy the underlying asset at a predetermined price on or before a specific date. A call option gives the right to purchase, and the put offers the right to sell.
+
+Ether: implied volatility (IV) and historical/realized volatility (HV/RV) Source: Genesis Volatility
+
+According to data provided by Genesis Volatility, ether’s 10-day implied volatility is trading at 87% – well below the 10-day realized volatility of 97%.
+
+Bitcoin’s 10-day implied volatility has been trading well below the 10-day historical volatility for close to two weeks; the gap, however, has narrowed somewhat in the past few days. At press time, the 10-day implied volatility stood at 69%, and the realized or historical volatility stood at 72%.
+
+Some traders take advantage of such situations by purchasing non-directional or market-neutral strategies such as straddles and strangles, which involve buying an equal number of calls and puts and benefiting from a spike in volatility.
+
+A long straddle is set up by purchasing a call and put option with the same expiration and strike price (usually nearest to the price of the underlying asset in the spot market).
+
+For example, with ether currently trading near $3,170, a trader anticipating a significant spike in implied volatility may set up a strangle by purchasing the May 28 expiry call and put options at the $3,200 strike price.
+
+A long strangle involves buying a call and put with the same expiry at strikes equidistant from the spot price. Buying an ether call at $3,300 and put at $3,100 would establish a long strangle.
+
+“Traders use strategies like long straddles and strangles, which involve buying both calls and puts when volatility is expected to increase,” said Luuk Strijers, founder and chief commercial officer of Deribit, the dominant crypto options exchange. “That’s more likely at the moment with the implied volatility below realized volatility.”
+
+Risk is predefined with these strategies, with the maximum loss limited to the extent of premium (options prices) paid while purchasing calls and puts. Straddles and strangles fail when the expected bump in implied volatility remains elusive till expiry. In such cases, options steadily lose value as expiration nears and become zero on the day of settlement.
+
+That said, returns can be sizable, as theoretically the underlying asset can rise to infinity, boosting implied volatility to the moon and generating a colossal profit on the long call position of the strategy. Similarly, an asset can fall to zero, yielding significant returns on the long put position of the strategy.
+
+As with other options strategies, traders consider multiple factors such as time left to expiration and macro news flow/events, along with implied volatility and historical volatility before taking long straddle/strangles.

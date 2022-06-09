@@ -1,0 +1,31 @@
+Digital payments app Bottlepay has gone live with its first fiat-to-crypto social media feature, enabling users to send and receive bitcoin via Twitter.
+
+The firm says a single tweet — for example ‘@bottlepay send 1,000 sats (the smallest unit of Bitcoin) to @twitteruser’ — will instantly move the specified quantity of bitcoin from one user’s account to another.
+
+
+
+Bottlepay last month raised £11 million in a seed funding round backed by British fund manager Alan Howard, present and former Goldman Sachs partners, FinTech Collective and Nydig.
+
+
+
+Built on the Lightning Network, the Bottlepay app aims to faciliate social, streaming, and micropayments by offering real-time funds transfer in bitcoin and conventional currencies and integration with popular social media platforms. In the coming months, Bottlepay will extend the network to Reddit, Discord, Twitch, Telegram and Mastodon.
+
+
+
+The product gained over 20,000 users for a beta version of the app with no marketing, after being rated as the number one Crunchbase Bitcoin start-up globally.
+
+
+
+The firm says that since the app launched last month, users have already made total transactions of more than £1.7m.
+
+
+
+Bottlepay will be adding more conventional currencies in the near future, with support for the euro up next. The ultimate goal is to provide a low-cost alternative to established brands like Wise and Currencyfair.
+
+
+
+Mark Webster, chief executive officer of Bottlepay, says: “Empowering users to make instant payments on social media takes us a step closer to revolutionising the global payments infrastructure.
+
+
+
+“Today’s consumers want the power to move their money immediately, from anywhere in the world. Bottlepay’s social Bitcoin payments are a much-needed update on the clunky, outdated payment systems available up until now, and a leap towards smoother, easier transactions.”

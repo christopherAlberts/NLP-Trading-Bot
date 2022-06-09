@@ -1,0 +1,44 @@
+The IRS wants Circle, a Boston-based financial technology company enabling trade in various types of cryptocurrencies, to produce account-registration information, account activity records and other materials for customers who had at least $20,000 in transactions any year from 2016 to 2020.
+
+Cryptocurrency has gained prominence and value over the year, but the IRS says tax reporting hasn’t kept up.
+
+The IRS issued Circle with a summons, which is part of an ongoing investigation by the Internal Revenue Service to make sure all sorts of cryptocurrency users across the board are reporting and paying up their tax obligations, the government explained in court papers.
+
+The IRS treats cryptocurrency as property and, when it’s sold at a profit, the tax collection agency will assess a capital-gains tax. If, that is, the IRS knows the transaction occurred.
+
+“ The IRS treats cryptocurrency as property and, when it’s sold at a profit, it will assess a capital-gains tax. If, that is, the IRS knows the transaction occurred. ”
+
+The IRS and the Justice Department note they are not alleging any wrongdoing on Circle’s part — but based on dealings with some people who have Circle accounts, the feds want more information to see who else might be owing tax money.
+
+For example, one unidentified taxpayer amended 2014-2017 returns to show $1.6 million in previously unreported virtual currency sales, the government said. Poloniex was one of the exchanges the taxpayer used.
+
+(Circle sold the Poloniex exchange in late 2019 and customers in America can no longer trade on the exchange, court papers noted.)
+
+Massachusetts Federal District Richard Stearns signed off on the summons Thursday, saying it was narrow enough and supported by a “reasonable basis” to think some account holders might not be following tax laws.
+
+“We’re reviewing, and of course expect to work collaboratively with the IRS in responding to the court order,” a Circle spokesman told MarketWatch.
+
+The summons sends “the clear message to U.S. taxpayers that the IRS is working to ensure that they are fully compliant in their use of virtual currency,” IRS Commissioner Chuck Rettig said in a statement. “We will enforce the law where we find systemic noncompliance or fraud.”
+
+The IRS has filed other court summons seeking information from other exchanges in previous years, said Dale Werts, a partner at Lathrop GPM in Kansas City, Mo., where he advises companies on blockchain and cryptocurrency matters.
+
+But it’s also coming during tax season, at a time when rising cryptocurrency prices are at the front of mind for many investors. “This is their way of reminding you, ‘Hey, you better fill out your tax return properly,'” he said.
+
+For Werts, it’s not that the tax laws on cryptocurrency are new. Since 2014, the IRS has stated its view that capital gains taxation rules apply. It’s just a new crowd that has to learn the laws that have been on the books for years, Werts said. “Lots of folks, I discovered, believe that cryptocurrency is ‘new’ and existing laws don’t apply. This is just not true.”
+
+Mainstream appeal
+
+The summons is another sign of cryptocurrency’s growing mainstream appeal, according to David Sacco, practitioner in resident at the University of New Haven’s Pompea College of Business. The IRS has its eyes on the money in the emerging market — and more eyes may ultimately mean more regulation and investor protections, said Sacco, who teaches finance courses.
+
+The IRS revised its tax paperwork this year to give prominent play to one question about cryptocurrency. Near the top of the 1040’s first page, it asks, “At any time during 2020, did you receive, sell, send, exchange, or otherwise acquire any financial interest in any virtual currency?”
+
+When Sacco looked over the revamped 1040, the question struck him as “a little creepy” but “on the other hand, it makes it like any other asset class now.”
+
+Two accountants specializing in cryptocurrency and taxes were split when previously talking to MarketWatch on whether to answering ‘yes’ for merely buying currencies like bitcoin or ether. Answering ‘yes’ doesn’t necessarily mean more taxes, they note.
+
+Either way, a lot’s happened for cryptocurrency in 2020, and 2021 so far looks to be no different. Bitcoin BTCUSD, +1.22% tripled in value during 2020. Ethereum ETHUSD, +3.05% hit a record value above $2,000 on Friday, and was trading above that on Monday, as Bitcoin traded near $58,000 on Monday.
+
+Between 2013 and 2015, a mere 800 to 900 taxpayers filed returns reporting cryptocurrency, the IRS said. That number increased from 2016 to 2018, “but the numbers still fall far short of what would be expected given the number of users, transactions, and value that the exchanges publicize occur on an annual basis,” court filings said.
+
+Over the years, the IRS has stepped up enforcement. In the summer of 2019, it sent more than 10,000 letters to people it believed potentially failed to report virtual currency income. The taxpayer who amended returns to report $1.6 million in previously unreported sales was one of the letter recipients, the court filing said.
+

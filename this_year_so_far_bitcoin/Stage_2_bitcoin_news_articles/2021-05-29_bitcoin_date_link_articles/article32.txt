@@ -1,0 +1,45 @@
+The team at BitOoda, a global digital asset financial technology and services platform offering risk management solutions, “best-execution” brokerage and market analysis, notes that based on questions they’ve been getting from their clients and partners, they’re now sharing their latest analysis of “potential scenarios” resulting from China’s announcement of its “planned crypto mining ban.”
+
+As covered, other reports have revealed that China is not actually banning Bitcoin again.
+
+However, BitOoda notes that new policy proposals from China may go into effect “as soon as the next few weeks.” Earlier this year, BitOoda had also shared a report regarding “a capital control rationale for a possible Bitcoin ban in China.”
+
+The BitOoda team noted in a blog post on May 26, 2021 that they “estimate that the recent high target Hashrate of over 179 EH/s represents almost 8.5GW of power.” Their estimate that China accounts for around 50%, is “somewhat lower than most,” the company acknowledged while adding that this “implies that about 4–4.5GW of hashpower could get displaced.”
+
+BitOoda added that Chinese cryptocurrency miners have significantly “large delivery volumes of the latest-gen Bitmain and MicroBT rigs scheduled over the next 18 months.” BitOoda also mentioned that many of those rigs are “intended to be delivered to China and represent multiple GW of power.”
+
+According to BitOoda’s blog post, this represents “new power capacity and the continued retirement of older-gen S9 class devices at existing facilities.”
+
+BitOoda’s report also noted that there are a few scenarios to consider (regarding the installed base in China):
+
+The government “impounds them and takes out the hashpower permanently,”
+
+The miners “ship them out of China and seek new mining sites,” or
+
+The miners “sell the equipment to buyers outside China.”
+
+The team at BitOoda thinks that the first scenario (government impounding equipment) is “most likely,” and that “taking the rigs out of China en masse might prove challenging.”
+
+BitOoda’s report added:
+
+“With power equipment — high tension transformers, substations, etc. — on back order, we think it is unlikely that the industry can find developed power capacity of around 4–6GW globally. At minimum, we expect the early retirement of S9-class rigs, including those outside China as newer-gen deliveries outpace power capacity growth.”
+
+They report also noted:
+
+“Even without any rig relocations out of China, rerouting 2–3+GW worth of future shipments poses a huge challenge for the global industry. There simply isn’t the high-tension infrastructure to meet the incremental delivery schedules over the already-large US miner orderbook. Thus, we believe that global Hashrate could track about 60EH/s below our prior projections beginning in 3Q2021.”
+
+During the next 2 years, this shortfall “could slowly ease, particularly in 2023, and converge back toward our original Hash estimates,” BitOoda added while noting that this should “also result in significant rig price declines, as many of the Chinese miners could struggle to find a delivery site.”
+
+BitOoda further noted that “at best, we think only roughly an incremental 1.5GW of rigs could find new locations outside China.”
+
+They added:
+
+“North American miners will benefit from this new reality. They could acquire additional rigs at much lower prices, with far shorter lead times. Recently, rig prices have exceeded $100 / TH/s with 6–9 month lead times, compared to $25–35 / TH/s last summer. Prices could fall much further should the Chinese miners be allowed to relocate or sell their installed base overseas.”
+
+They also noted that the pace of Hashrate growth “should slow, as we noted on 5/22.” This means that for the next several quarters, miners “should expect to earn more Bitcoin per PH/s and per MWh of their installed capacity than we had previously modeled,” the report added.
+
+The report continued:
+
+“This is also a positive for hosting services, where there is a large new influx of price-insensitive customers. On the other hand, forced liquidations and uncertainty appear to be driving increased volatility, which could persist as the Chinese mining ecosystem reconfigures itself.”
+
+The main takeaways from the report are as follows:

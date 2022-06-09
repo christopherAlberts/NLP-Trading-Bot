@@ -1,0 +1,65 @@
+Blockchain technology is heralding in a fairer world, where producers and buyers can directly exchange goods and services, without the need for banks and centralised institutions. Although it is linked with bitcoin, it is now being applied in a multitude of ways for the common good of its users.
+
+The financial world has long been controlled by banks, which have provided currency, credit and security needed to facilitate economic transactions. In 2009 that historic control weakened when blockchain handed people the means to transact their business directly – without the banks – via their own protected networks.
+
+Traditionally, each participant in a financial transaction has had their own recording system, or paper ledger, says Prof John Breslin, who is based at Confirm Smart Manufacturing, VistaMilk and Insight SFI Research Centres in NUI Galway, a blockchain pioneer in Ireland. “For example, in property transactions there’s the property owner, the buyer, the auctioneer, the bank and the mortgage company.”
+
+“Even though the transaction is related to all those parties, they all have a version of the truth that may be the same, or partially the same, but may also be different from other parties’ versions,” Breslin adds.
+
+This old system is open to errors through relying on humans for validations and legal checks around, in the case of property, for example, ownership, and credit ratings. It can also be open to fraud, depending on the individuals as well as the transactions involved, and because it’s all done on paper, there will be delays.
+
+Blockchain reduces the chances for error and fraud, while reducing complexity and increasing efficiencies. It does this by having a shared electronic ledger, or record. Before a new transaction is recorded, it must be agreed by all users, according to agreed rules – and once it has been inputted, it can’t be tampered with.
+
+“You can think of it as a shared or common version of the truth,” says Breslin. “I’ve also heard it referred to as a bit like a big Excel file where everyone can see the transaction details and has access to what has gone on in a transaction.”
+
+Anti-fraud mechanism
+
+It’s not just finance and cryptocurrency that stands to benefit. These days blockchain is as likely to be applied to validate the origins of organic foods, or to match sick people with a clinical trial, as it is to secure trading of online cryptocurrencies such as bitcoin, ethereum or litecoin.
+
+The most important point about blockchain is that it can be an immensely powerful anti-fraud mechanism through ensuring only those who comply with agreed rules get rewarded.
+
+Blockchain is mathematics at its heart and is specifically based on the application of what’s called elliptical curve cryptography. This permits a new, unique, unchangeable value – called a hash – to be generated every time something of value, which complies with the rules, occurs on a blockchain.
+
+The hash might represent the addition of a document by a vegetable grower that proves a consignment of cabbages has been grown organically. It could be a set of receipts added by a charitable organisation that shows a tranche of donated funds has been spent in an appropriate manner. Or it might serve to confirm that a particular person is the owner of some medical data.
+
+The point is that no new hash can be created and added to a blockchain unless the data it represents conforms to a set of rules agreed in advance by its users. If the farmer, for example, tries to use non-approved documentation to certify his organic produce, it will be rejected. Or if a charity submits false receipts to cover unapproved spending, that would be rejected. Blockchain demands full adherence to the rules, as set out by its users, and punishes the fraudsters.
+
+The process of validating the addition of data to a blockchain is called mining, and those who do this work are called blockchain miners. Generally speaking the more miners a blockchain has, the more secure it is. The people who mine a blockchain are participants in it – those with the necessary computer power.
+
+In terms of security, blockchain advocates argue that it is superior to that of the banks and other institutions because the digital records are not held in one or two databases that hackers can then attack. Instead, the blockchain records are held identically and simultaneously in many locations by all of its users; which means that hacking into and altering the blockchain data is next to impossible.
+
+Electronic fingerprint
+
+The hash of each block in a blockchain can be thought of as something like an electronic fingerprint, as it uniquely identifies each block and all of its contents. The blocks also contain the hash of the previous block in the chain. If one block is altered, all the blocks in the blockchain ahead of it will be rendered invalid.
+
+Therefore, the task for hackers when it comes to unlocking blockchain is immense. It might be possible, using the power of a modern supercomputer to tamper with and recalculate all of the hashes in a block to create a new, altered but valid blockchain. This is where the “proof of work” concept comes into play.
+
+Proof of work is a mechanism introduced by blockchain builders to slow down the creation of new blocks in the chain so that it takes much longer – perhaps up to 10 minutes – to validate proof of work and add a new block to the chain. This means it would take interminable time to alter blocks, even for a supercomputer.
+
+In a public blockchain anyone can join, and when they do, they get a full copy of the blockchain. If someone in the chain creates a new block, this is sent to everyone, and each node on the chain makes sure it hasn’t been tampered with. The new block is only added to the blockchain when all its users are satisfied.
+
+To successfully tamper with a blockchain, a hacker must interfere with all the blocks on the chain, redo the proof of work for each block and take control of more than 50 per cent of the peer-to-peer blockchain network. Only then will a tampered block be accepted and added to the chain; an almost impossible task.
+
+And the security doesn’t stop there. Blockchains are constantly evolving to stay ahead of potential hackers. For example, smart contracts are a relatively recent development on blockchain. These contracts are essentially software programmes that are stored on the blockchain and used to perform functions, such as exchange of bitcoins, when certain pre-agreed conditions are met.
+
+A new application of blockchain receiving considerable media attention is the use of non-fungible tokens (NFTs) in the world of digital art and media. A jpeg file by the artist Beeple called Everydays – The First 5,000 Days set a record for a digital artwork when it was sold online for $69 million by Christie’s in March.
+
+“We have people selling these NFTs of videos of iconic sports moments, art works, the first ever tweet and more,” says Breslin. “It’s not the physical asset, but a token referring to the ownership of a digital asset that can be purchased, in some cases for seemingly crazy amounts of money.”
+
+Growing applications
+
+As blockchain has matured and gained more users, the number of ways it is applied have likewise increased. It is used to trace the movement of a product through every step of various supply chains. It is used in complicated industries where parts, components and ingredients from multiple sources, and countries, must all be validated before being combined together in some final product.
+
+Dr Laura Brady is programme manager at FutureNeuro, the SFI Research Centre for Chronic and Rarer Neurological Diseases, at the Royal College of Surgeons in Ireland. She is part of a project using blockchain and artificial intelligence to match sick patients to clinical trials based on their clinical and genomic data.
+
+This project, which involves FutureNeuro as well as Singularity Alpha, Microsoft Ireland and Ergo, received €3.9 million in funding from the Disruptive Technology Innovation Fund (DTIF), a €500 million fund set up under Project Ireland 2040.
+
+“The project is developing this AI and blockchain-enabled platform that will match patients based on their genotype and phenotype to relevant clinical trials,” says Brady. Those who use the platform will be asked to share their genetic data, in return for finding the most suitable trial for them.
+
+“Mary might get a notification that she’s been matched with 10 clinical trials that have considered her disease, where’s she at with her disease, and the inclusion and exclusion criteria for clinical trials,” says Brady. Mary is reliant on both the intelligence of the AI and the level of security provided by blockchain.
+
+Dr Kosala Yapa, of VistaMilk and Insight SFI Research Centres, NUI Galway, is developing blockchain for dairying.
+
+“In Ireland, milk recording is happening in four main places,” he says . “The milk is recorded on the blockchain and these records can be used for compliance checking. If you develop dairy products like cheese, you can see which part came from a particular farm.”
+
+Blockchain is being applied in a growing number of areas, and Ireland is in a good place to benefit from the changes, says Breslin. “Application areas here range from animal drug traceability to reduce antibiotic usage to providing second-hand sales and service records for high-value farm machinery – but it can also be applied to any area with a proven need for secure transactions.”

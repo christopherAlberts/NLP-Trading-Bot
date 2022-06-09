@@ -1,0 +1,53 @@
+On April 28, Genesis Global Trading, Inc., a subsidiary of Digital Currency Group, released its digital assets report for the first quarter of 2021. Genesis provides institutional clients with spot and derivatives trading, lending, custody and treasury and prime brokerage service products, so the report was full of interesting insights that showed the explosive growth in the bitcoin lending market that has taken place so far this year.
+
+Growth In Bitcoin Lending
+
+According to the report, Genesis saw:
+
+$60 billion in trades, loans and transactions for digital assets over the first quarter
+
+Over $20 billion in new loan originations, a $12.4 billion increase from Q4 2020.
+
+Active loans outstanding increased to $9 billion, up 136.4% from $3.8 billion in Q4 2020.
+
+At the conclusion of the quarter, BTC made up 42.8% of Genesis’ loan portfolio, a decrease from 53.9% quarter over quarter. It cited one of the reasons for the decline in loans extended in bitcoin was the GBTC discount to net asset value (NAV) that first developed in January.
+
+With the GBTC premium negative, demand to borrow BTC to execute arbitrage trades to generate “risk free” yield greatly decline.
+
+Through the first quarter, the spread between bitcoin futures and spot price continued to widen as more demand to be leveraged increased throughout the bitcoin market. The widening basis and increasingly liquid bitcoin futures and derivatives market continues to drive more institutional capital to the market.
+
+“This persistence in basis premium has led many more institutions to eye crypto yield opportunities, driving our cash portfolio’s continued growth. As the June basis continued to widen into the end of the quarter, our derivatives desk saw increasing demand from macro discretionary firms and arb shops to put on the basis / cash-and-carry trade through our desk. Some key advantages for trading the basis in a bilateral OTC format include physical settlement of the forward and collateralizing the forward with the underlying crypto asset. In many ways, the persistence of basis is a cash-deficit issue within crypto market structure.” –Genesis’ “Q1 Market Observations"
+
+Spot Trading
+
+
+
+Genesis also reported on its digital assets spot trading volume, which witnessed explosive growth in Q1, trading $31.5 billion in spot,, an increase of 287% from Q4 2020, aided by the launch of Genesis Treasury. Corporates increased to 27.06% of total OTC volume, up from 0.49% of total volume last quarter.
+
+Derivatives
+
+According to the report, Genesis saw:
+
+133% growth from Q4 across OTC and negotiated derivative blocks to reach $10.5 billion in trading volume.
+
+Counterparty base growth of 21% over the course of the quarter.
+
+According to the report, the majority of this flow came from:
+
+“HNW individuals and systematic yield funds taking advantage of higher implied vols and the spot rally to lighten up on length via call overwriting.
+
+Recycling risk in medium- to long-dated calls between overwriters and counterparties looking to add length in a levered but limited loss format. (The relative implied funding cost of perpetual swaps vs. longer-dated futures sometimes made buying longer-dated calls a more attractive option.)
+
+Corporate accounts and venture books using puts to hedge their business risk or illiquid portfolio risk.
+
+Selective hedging of impermanent loss via short-dated gamma portfolios”
+
+The numbers and growth reported by Genesis are extremely bullish, and show the continued maturation in the bitcoin lending, futures and derivatives markets, as sophisticated institutional capital allocators are incentivized to enter the market due to the contrasting yields offered across the legacy versus the bitcoin futures/derivatives markets.
+
+At the time of the report, the aggregate open interest across the bitcoin futures markets is sitting at $18.9 billion, up from $2.9 billion from a year ago. The demand to be leveraged long on BTC is a major reason that yields in the bitcoin ecosystem are so large, and this in turn drives additional capital inflows and interest in the bitcoin markets.
+
+$18.9 billion in BTC futures aggregate open interest as of April 28.
+
+
+
+Expect Genesis’ growth to continue to increase exponentially over the coming quarters and for large players from the legacy system to scramble to get exposure and get involved.

@@ -1,0 +1,37 @@
+Quantum computing expert Andrew Fursman is convinced quantum attacks in the future will pose a threat to the security of Bitcoin (BTC).
+
+In a video, Fursman highlights that the massive computational potential of quantum machines could be capable of compromising Bitcoin’s security.
+
+ADVERTISEMENT
+
+“It’s mathematically proven that if you have a device that looks like the kind of quantum computers that people want to build, then you will be capable of decrypting this information significantly better than could ever be possible with classical devices.”
+
+Fursman argues that regardless of when quantum computers come of age, a solution needs to be found.
+
+“Whether quantum computers come out tomorrow or in five years or in ten years, they are capable of being cryptographically useful. Those devices are going to be capable of doing something that you might not want if you are somebody that’s keeping a secret…
+
+So it’s worth kind of getting into what are the different ways that the blockchains rely on cryptography, and which of those are specifically relevant to the things that quantum computers of the future might do. And how much is that really a problem for people today, versus not a problem at all? And what things are maybe not a problem yet but we might want to be thinking about working on? Better to be safe than sorry.”
+
+While Fursman says that quantum machines may place Bitcoin’s cryptography in jeopardy, he notes that it will not happen anytime soon.
+
+“We might need actually significantly more qubits (quantum bits, or a unit of quantum information) than are currently available. And like I sort of alluded to, we might be at the point where the largest computers that we are building today end up really becoming the foundation of one logical qubit for one of these large devices…
+
+So if we need a thousand times more qubits then we might have in a few years, you sort of have to be thinking about the growth of these things from both the error correction standpoint and the number of logical qubits that you need to go forward…
+
+And I should say some people even put the number as high as millions that you might need. So we are definitely, we are not right around the corner from this. It’s not going to happen next week.”
+
+I
+
+Don't Miss a Beat – Subscribe to get crypto email alerts delivered directly to your inbox
+
+Follow us on Twitter Facebook and Telegram
+
+ADVERTISEMENT
+
+Check Latest News Headlines
+
+ADVERTISEMENT
+
+Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any loses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
+
+Featured Image: Shutterstock/agsandrew

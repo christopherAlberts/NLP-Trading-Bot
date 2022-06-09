@@ -1,0 +1,55 @@
+Tesla suspended Bitcoin payments earlier this month, but its CEO, Elon Musk, is still considering cryptocurrency options.
+
+Recently, electric vehicle company Tesla announced plans to suspend Bitcoin as a means of payment. The decision represented a sudden reversal, as the firm initially decided to accept the cryptocurrency less than two months earlier.
+
+Tesla Cites Environmental Concerns
+
+Musk’s announcement indicated that Tesla chose to suspend payments due to the fact that Bitcoin mining consumes large amounts of energy.
+
+“We are concerned about rapidly increasing use of fossil fuels for transactions,” Musk’s statement read. “Cryptocurrency is a good idea on many levels, and we believe it has a promising future, but this cannot come at great cost to the environment.”
+
+Markets reacted quickly. After Musk made his announcement on May 12, the price of Bitcoin fell from a high of $57,000 to a low of $34,000. As of Thursday, May 27, Bitcoin has made only a slight recovery; its price currently sits at $38,600.
+
+Despite its negative impact on the market, Musk’s announcement made it clear that the decision was temporary. Tesla intends to use Bitcoin as soon as it “transitions to a more sustainable” energy source, and the firm is looking at BTC alternatives.
+
+Musk Discusses Clean Energy With Miners
+
+On Monday, May 24, Elon Musk revealed that he had spoken with North American Bitcoin miners to coordinate a strategy for clean-energy Bitcoin mining.
+
+Musk wrote on Twitter: “Spoke with North American Bitcoin miners. They committed to publish current & planned renewable usage & to ask miners [worldwide] to do so.”
+
+Microstrategy CEO Michael Saylor added that he had coordinated a meeting between Musk and several North American Bitcoin mining companies. According to Saylor, executives from several companies were in attendance, including Argo Blockchain, Blockcap, Core Scientific, Galaxy Digital, Hive Blockchain, Hut8, and Riot.
+
+Saylor wrote that the mining companies agreed to create a Bitcoin Mining Council, which will “promote energy usage transparency & accelerate sustainability initiatives.”
+
+Musk Considers Dogecoin as Alternative
+
+Musk followed up on that on later dates. On May 13, he indicated that he is “working with Doge devs to improve system transaction efficiency.” Later, developer Ross Nicoll confirmed that Musk is indeed contributing to Dogecoin's development.
+
+Nicoll drew attention to Musk’s history with PayPal, and stated that the project is taking advice from Musk on payment processing. Nicoll added that he can “honestly say [Musk has] improved [Dogecoin’s] transaction throughput.”
+
+In line with Musk’s own goals, the group also discussed ways to reduce Dogecoin’s energy consumption, which is currently less than 7% of Bitcoin’s footprint.
+
+Musk added that the results are “potentially promising,”
+
+Prior to this, Musk polled his followers on Twitter and asked whether they would support Dogecoin payments at Tesla. Approximately 80% answered in favor.
+
+Cardano and IOTA Solicit Tesla
+
+Since Tesla suspended Bitcoin payments, at least two other notable blockchain projects have attempted to win the attention of Tesla and Elon Musk.
+
+On May 13, Cardano and its creator Charles Hoskinson reached out to Musk, asking him to consider its own ADA cryptocurrency as a Bitcoin replacement. “Are we finally going to have the Cardano conversation? Come to my farm in Longmont,” Hoskinson wrote. Meanwhile, the Cardano Foundation drew attention to its efforts at sustainability.
+
+Cardano is currently the fifth-largest cryptocurrency, boasting a market cap of $5.7 billion, making it a reasonably strong contender as a Bitcoin replacement. However, it does not seem that Musk has responded to Cardano’s invitation.
+
+Elsewhere, on May 12, IOTA co-founder Dominik Schiener suggested that Musk adopt his own cryptocurrency, writing that “IOTA is the answer” to energy concerns.
+
+Once again, Musk did not respond, making it unlikely that Tesla will choose to use IOTA. However, it is worth noting that IOTA has historically focused on automotive partnerships, making the idea of a Tesla partnership not so outlandish. IOTA is currently the 38th largest cryptocurrency, with a market cap of $2.9 billion.
+
+Musk Seeks Marketability, Not Just Efficiency
+
+Musk shone some light on his preferences this week. On May 24, YouTube personality and early Tesla investor Dave Lee asked Musk why he did not choose to use Ethereum 2.0, Cardano, Solana, Polkadot, IOTA, or other similar cryptocurrencies.
+
+Musk responded: “Doge has dogs & memes, whereas the others do not.” It seems that, despite Musk’s insistence on an energy-efficiency, he is taking each coin’s popularity into perspective and does not want to compromise on marketability.
+
+In light of those statements, Dogecoin and Bitcoin are the most likely candidates for Tesla’s next attempt at crypto payments once each coin undergoes a reform.

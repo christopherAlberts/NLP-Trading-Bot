@@ -1,0 +1,33 @@
+NatWest, the UK retail bank, has announced it will not engage with business customers who accept payment in bitcoin or other cryptocurrencies. It follows recent announcements from HSBC that it won’t allow transfers from digital wallets and won’t enable customers to buy shares in companies associated with cryptocurrencies, such as Coinbase or MicroStrategy.
+
+The feeling from both banks is that cryptocurrencies are high risk and therefore justify a cautious approach, though they note that their stance could change if and when regulation evolves.
+
+Interestingly, this is not a view shared by institutions across the Atlantic. Both Morgan Stanley and Goldman Sachs are now offering their wealth management clients the opportunity to invest in bitcoin. Indeed, the initial uptake has been strong, with Morgan Stanley alone drawing in nearly US$30 million (£22 million) of investment in two weeks.
+
+Why the caution?
+
+The cautious approach of NatWest and HSBC stems from the 2012 recommendations of the Financial Action Task Force, a G7 initiative geared towards defeating money laundering. These recommendations mandate each member state to implement measures requiring their banks to scrutinise customers’ transactions for the purposes of money laundering and terrorist financing.
+
+Under recommendation one, the anti-money laundering framework is to be applied on the basis of perceived risk. In other words, if a transaction or business activity is perceived to be more risky than usual, it needs closer scrutiny by the bank to ensure compliance with the framework.
+
+This increases the strain on bank resources to verify that a transaction or business activity is safe to continue, but they also face large fines for non-compliance where there are deficiencies in their implementation of the framework or if things go wrong.
+
+NatWest and HSBC are no strangers to being under the spotlight for compliance issues. HSBC was fined US$1.9 billion by US authorities in 2012, while NatWest faces charges over significant compliance breaches in the UK. While these charges relate to traditional money-laundering compliance breaches, perhaps it goes some way to explaining the caution of the two banks.
+
+Banks view digital currencies as risky because they have the potential to be used for money laundering, they are targets for fraud and scams, and their value can be extremely unstable in the short-term. Indeed, the UK’s Financial Conduct Authority has warned that those investing and dealing with cryptocurrency are at risk of losing all their funds. Rather than face the enhanced burden of investigating businesses and individuals dealing with these assets, it is easier for banks to avoid the risk and not engage with them.
+
+This situation is not unique to cryptocurrencies. For instance, it has long been a byproduct of the anti-money laundering requirements that banks have refused to offer financial services to charities operating in high-risk jurisdictions. The banking sector accepts this reality, particularly given that charities tend to be relatively low-value customers.
+
+The wrong approach?
+
+On the face of it, banks are perfectly entitled not top offer financial services to businesses transacting in digital currencies. As well as anti-money laundering, banks are bound by anti-fraud measures and consumer protection. Fradulent crypto transactions are both difficult to spot and impossible to reverse, so the risks of engaging are high, at least until the market establishes itself and the business case to engage is stronger.
+
+Of course, this is not to say that they have necessarily made the right call. The fact that the leading US banks have taken a different approach suggests that they think the potential rewards are worthy of the compliance burden. In defence of cryptocurrencies, they are both more traceable than cash, and used less for money laundering.
+
+And while it is true that there is a risk of significant losses with cryptocurrency investments, there is also clear potential for big gains. Banks are profit-making businesses: the returns from crypto investments in recent months – notwithstanding the big sell-off in the past couple of days – plus the very bullish forecasts, ought to prompt them to at least speculate in the area, regulatory burden aside.
+
+We could simplistically blame the UK banks for either being too cautious or not doing enough to help these businesses, but it overlooks the bigger design flaw in the anti-money laundering framework. Compliance measures are a significant drain on a bank’s resources where a transaction or business is considered high-risk. Banks and their workers also face criminal sanctions, including large fines, where they fail to properly implement the rules, which is particularly troublesome when it is almost impossible for a bank to identify what a suspicious crypto transaction looks like.
+
+Without a guaranteed high return for the bank, it is easier to de-risk and not engage with these businesses. This represents a missed opportunity for banks, and a potentially unnecessary stifling of legitimate business growth for companies wishing to deal with cryptocurrencies.
+
+Banks are portrayed as the public villain, but the bigger problem is at a much higher level. It is a political and legal issue which requires the attention and intervention of lawmakers to address the fact it is much easier for banks to de-risk than to comply with the rules and help these businesses grow.

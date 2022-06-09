@@ -1,0 +1,79 @@
+Breaking Bitcoin: ECDSA vs XMSS
+
+Bitcoin relies on several algorithms to secure the coin from theft. Prominent among these is the Elliptic Curve Digital Signature Algorithm (ECDSA).
+
+An ECDSA employs asymmetric encryption to generate public/private key pairs (what crypto users employ to send and receive coins). Consequently, a classical computer will require at least 10 billion years’ worth of brute-force computing time to derive a private key from a public key.
+
+The advent of quantum computing, however, suggests that this encryption safeguard may soon be broken.
+
+Unlike the public cryptosystem RSA, the math behind an elliptic curve algorithm is fairly complex.
+
+An ECDSA algorithm solves for an elliptic curve structured algebraically over a finite field. This requires finding a set of points that satisfy an equation using two variables, where one variable generally is an exponent of two and the other is an exponent of three (y2 = x3 + ax + b).
+
+Since solving a discrete algorithm is far harder than factoring (given similar-length numbers), elliptic curve algorithms are generally viewed as more secure than previous cryptography (particularly the RSA algorithm).
+
+When quantum computing arrives, however, the ECDSA will likely be viewed as cryptocurrency’s weak link. The algorithm simply cannot withstand a powerful quantum computer intent on deriving a user’s private key from their public key. Consequently, any hacker with access to a quantum computer intent on taking your coins will be able to do so.
+
+Who's At Risk If ECDSA is Broken?
+
+When cryptocurrency users initiate a transaction, they broadcast their public key to the entire world. Until this public key is changed, the user’s private key remains theoretically susceptible to being deciphered by a quantum computer.
+
+Remember, most bitcoin addresses share the hash of the public key rather than the public key itself. It’s only after funds are spent that the actual public key is revealed.
+
+Story continues
+
+This is why it’s best practice to only use an address once. Doing so means that, even if a public key can be cracked in the future (after a transaction), it results in a private key that doesn’t control any funds (because it can only be used once).
+
+It’s also why many bitcoin wallets take it upon themselves to automatically change a user’s address with each new transaction.
+
+Early Bitcoin Adopters: In bitcoin’s early days, bitcoin users relied solely on a pay-to-public key script (known as P2PK) to conduct transactions. Eventually, new bitcoin users were able to use a hash of the public key for extra protection.
+
+As a result, anyone who received bitcoin from mining back then remains at risk (unless they move their funds to a non-P2PK wallet). That means roughly a quarter of all bitcoins (4 million BTC) are potentially vulnerable to a quantum attack (source: deloitte.com).
+
+The Average Investor: For added security, bitcoin requires each transaction to undergo multiple confirmations after it’s mined and included in a block. A fast-enough quantum computer could derive a private key from a public key, however, before it’s mined and confirmed multiple times (before it’s included in a block).
+
+Once successful, an attacker could use the private key to create a new transaction — and send funds to his/her wallet.
+
+This scenario is not unlike a miner using an advanced quantum computer to take a blockchain’s mining operations. By speeding up the mining process, an attacker can take majority control (51%) over the total network hash rate (known as a 51% attack).
+
+The attacker could then reverse any previous transactions and conduct double-spending. At present, ASIC mining chips are fairly fast and potentially serve as a firewall against 51% attacks.
+
+Related Consequences: Once the ECDSA is broken, banks and internet-related companies will need to update their security protocols. Although these centralized institutions will likely find it a hassle, they won’t encounter the same sort of obstacles facing bitcoin.
+
+All of the cryptocurrency’s nodes would need updating to a new (quantum-resistant) signature scheme.
+
+Likewise, all blockchain users would need to move their funds to new quantum-resistant addresses.
+
+Crypto users who have lost their addresses will retain funds vulnerable to attack. Unfortunately, no one will be able to distinguish these users from those who simply haven’t migrated their coins to quantum-resistant addresses. This, in turn, will likely instigate a contentious legal issue (source: faqq.info).
+
+XMSS: A New Paradigm Shift
+
+Quantum Resistant Ledger (QRL) appears to be quickly gaining notice among the quantum-aware.
+
+The cryptocurrency recently had its XMSS (eXtended Merkle Signature Scheme) standardized and approved by the National Institute of Science and Technology (NIST).
+
+It’s fairly easy to grasp XMSS, as it's based on another well-known crypto-secure algorithm known as Winternitz OTS+ (One-Time Signature plus).
+
+XMSS does not rely on the user to remember whether they have re-used a one-time signature, however. Instead, the QRL web wallet reviews past transactions and automatically “uses the number of sent transactions to calculate the current XMSS tree index” (source).
+
+Unlike conventional digital signature schemes, XMSS requires a constant updating of the private key. Consequently, XMSS is known as a stateful hash-based signature scheme.
+
+Being stateful, QRL can track each XMSS signature that has been used from the Merkle tree seeded by a private key. As a result, QRL discourages signature reuse --- as it substantially diminishes the private key’s security (to the point where a classical computer could break the key).
+
+This tracking enables XMSS users to conduct up to 262k possible outgoing transactions. Although that’s quite extensive, QRL can also generate iterative OTS trees from a single primary tree key (their tracking system re-generates a new tree as needed).
+
+As QRL’s documentation explains, this logic goes to the heart of XMSS:
+
+XMSS & Ethereum: The QRL team is currently working on a project called EnQlave. An Ethereum web wallet, EnQlave secures a user’s Ethereum, as well as their different tokens (ERC20, ERC223, ERC721, ERC777, and ERC1155) against a quantum computer attack. In essence, it operates as a long-term storage vault.
+
+The technology rests on creating a unique quantum-safe address via a smart contract. Aside from using a standard Ethereum ECDSA signature, EnQlave relies on QRL’s XMSS signature as well.
+
+Concluding Remarks
+
+Given its foundational success, XMSS is likely to become the standard for post-quantum cryptography. Indeed, the public’s gradual acceptance of quantum computing as an intractable threat is certainly cementing that reputation.
+
+How quickly ECDSA will fade from view because of this reality is a larger question.
+
+See more from Benzinga
+
+© 2021 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.

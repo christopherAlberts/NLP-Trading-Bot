@@ -1,0 +1,31 @@
+A cryptocurrency mining farm in Nadvoitsy, Russia Andrey Rudakov/Bloomberg via Getty Images
+
+Cryptocurrencies based on owning a large number of hard discs, rather than using computer processors, could offer a less energy-intensive alternative to bitcoin and might even make it cheaper to build data centres – although one is already causing soaring demand for hard discs that is disrupting supply chains.
+
+Bitcoin and several other popular cryptocurrencies are created, or mined, using a concept called proof of work, which involves solving computationally difficult puzzles that consume a large amount of electricity. Bitcoin’s annual electricity consumption is estimated to be 148 terawatt-hours and rising, or around the same amount as Poland’s. Now, rival currencies are emerging that instead make use of large numbers of empty hard discs, a concept known as proof of space.
+
+Because hard drives are less energy-intensive to run than processors, proof-of-space currencies are touted as being more environmentally friendly. However, demand for one such currency, Chia, has become so high that some Asian countries, such as Vietnam, are reporting shortages of hard discs. The same phenomenon occurred with graphics cards, which proved to be extremely efficient at mining certain proof-of-work cryptocurrencies. Currently, around 3 million terabytes of hard disc space are being devoted entirely to mining Chia, enough to store 3 billion movies.
+
+Advertisement
+
+Jason Feist at hard drive manufacturer Seagate says the company is experiencing strong orders and that staff were working to “adjust to market demand”.
+
+He also suggested that these new cryptocurrencies could provide a way for companies building large data centres to offset the cost by turning them over to mining. “Chia, and similar technologies such as Filecoin and Sia, show potential ways businesses can turn their idle infrastructure into ongoing revenue,” says Feist.
+
+Michel Rauchs at the University of Cambridge says that while bitcoin’s proof-of-work approach is well understood, proof-of-space alternatives are still in their infancy.
+
+Read more: Bitcoin mining emissions in China will hit 130 million tonnes by 2024
+
+“Other consensus algorithms that are less energy-intensive but also introduce some level of centralisation and subjectivity might be an acceptable trade-off. There are always trade-offs involved, most of which tend to only become known over time,” he says.
+
+Aron Peterson, who works in digital production for the film industry in the UK, says that people in his field started to notice the price of computing hardware creeping above manufacturer-listed prices around six years ago. He puts it down to the demand for graphics cards by cryptocurrency miners.
+
+“It was causing frustration among creatives and gamers who didn’t want to purchase upgrades at inflated prices just because other people were wasting huge amounts of electricity to compete for digital tokens,” he says.
+
+After deciding to try mining himself, Peterson found that it was using significant energy. He also predicted that it would take five months before mining any coins. “Obviously I wasn’t going to run this experiment for five months, especially if the estimated time continued to climb as new miners appeared,” he says.
+
+Peterson isn’t convinced by Chia’s green credentials, saying bitcoin miners are unlikely to switch because it would require them to buy new hardware. “Instead of displacement, it’s an additional crypto to be mined,” he says.
+
+“Aside from the energy usage, this results in mountains of electronic waste as hard drives will fail faster and more often,” says Peterson. “The poorest people in the world already live with mountains of e-waste pollution we dump on them and this is just going to add to that.”
+
+Chia Network, the firm behind the cryptocurrency, didn’t respond to a request for comment.

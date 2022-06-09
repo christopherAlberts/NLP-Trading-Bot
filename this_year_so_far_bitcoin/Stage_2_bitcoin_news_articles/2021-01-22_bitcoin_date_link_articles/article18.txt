@@ -1,0 +1,59 @@
+TEHRAN, IRAN -- Iran's capital and major cities plunged into darkness in recent weeks as rolling outages left millions without electricity for hours. Traffic lights died. Offices went dark. Online classes stopped.
+
+With toxic smog blanketing Tehran skies and the country buckling under the pandemic and other mounting crises, social media has been rife with speculation. Soon, fingers pointed at an unlikely culprit: Bitcoin.
+
+Within days, as frustration spread among residents, the government launched a wide-ranging crackdown on Bitcoin processing centres, which require immense amounts of electricity to power their specialized computers and to keep them cool -- a burden on Iran's power grid.
+
+Authorities shuttered 1,600 centres across the country, including, for the first time, those legally authorized to operate. As the latest in a series of conflicting government moves, the clampdown stirred confusion in the crypto industry -- and suspicion that Bitcoin had become a useful scapegoat for the nation's deeper-rooted problems.
+
+Since former President Donald Trump unilaterally withdrew in 2018 from Tehran's nuclear accord with world powers and re-imposed sanctions on Iran, cryptocurrency has surged in popularity in the Islamic Republic.
+
+For Iran, anonymous online transactions made in cryptocurrencies allow individuals and companies to bypass banking sanctions that have crippled the economy. Bitcoin offers an alternative to cash printed by sovereign governments and central banks -- and in the case of Iran and other countries under sanctions like Venezuela, a more stable place to park money than the local currency.
+
+"Iranians understand the value of such a borderless network much more than others because we can't access any kind of global payment networks," said Ziya Sadr, a Tehran-based Bitcoin expert. "Bitcoin shines here."
+
+Iran's generously subsidized electricity has put the country on the crypto-mining map, given the operation's enormous electricity consumption. Electricity goes for around 4 cents per kilowatt-hour in Iran, compared to an average of 13 cents in the United States.
+
+Iran is among the top 10 countries with the most Bitcoin mining capacity in the world -- 450 megawatts a day. The U.S. network has a daily capacity of more than 1,100 megawatts.
+
+On Tehran's outskirts and across Iran's south and northwest, windowless warehouses hum with heavy industrial machinery and rows of computers that crunch highly complex algorithms to verify transactions. The transactions, called blocks, are then added to a public record, known as the blockchain.
+
+"Miners" adding a new block to the blockchain collect fees in bitcoins, a key advantage amid the country's currency collapse. Iran's rial, which had been trading at 32,000 to the dollar at the time of the 2015 nuclear deal, has tumbled to around 240,000 to the dollar these days.
+
+Iran's government has sent mixed messages about Bitcoin. On one hand, it wants to capitalize on the soaring popularity of digital currency and sees value in legitimizing transactions that fly under Washington's radar. It authorized 24 Bitcoin processing centres that consume an estimated 300 megawatts of energy a day, attracted tech-savvy Chinese entrepreneurs to tax-free zones in the country's south and permitted imports of computers for mining.
+
+Amir Nazemi, deputy minister of telecommunications and information, declared last week that cryptocurrency "can be helpful" as Iran struggles to cope with sanctions on its oil sector.
+
+On the other hand, the government worries about limiting how much money is sent abroad and controlling money laundering, drug sales and internet criminal groups.
+
+Iranian cryptocurrency miners have been known to use ransomware in sophisticated cyber attacks, such as in 2018 when two Iranian men were indicted in connection with a vast cyber assault on the city of Atlanta. On Thursday, British cybersecurity firm Sophos reported it found evidence tying crypto-miners in Iran's southern city of Shiraz to malware that was secretly seizing control of thousands of Microsoft servers.
+
+Iran is now going after unauthorized Bitcoin farms with frequent police raids. Those who gain authorization to process cryptocurrency are subject to electricity tariffs, which miners complain discourage investment.
+
+"Activities in the field are not feasible because of electricity tariffs," said Mohammad Reza Sharafi, head of the country's Cryptocurrency Farms Association. Despite the government giving permits to 1,000 investors, only a couple dozen server farms are active, he added, because tariffs mean Bitcoin farms pay five times as much for electricity as steel mills and other industries that consume far more power.
+
+Now, miners say, the government's decision to close down major Bitcoin farms operating legally seems designed to deflect concerns about the country's repeated blackouts.
+
+As Tehran went dark last week, a video showing industrial computers whirring away at a massive Chinese cryptocurrency farm spread online like wildfire, prompting outrage about Bitcoin's outsized thirst for electricity. Within days, the government closed that plant despite its authorization to operate.
+
+"The priority is with households, commercial, hospitals and sensitive places," said Mostfa Rajabi Mashhadi, spokesman of Iran's electricity supply department, noting that illegal farms sucked up daily some 260 megawatts of electricity.
+
+Although Bitcoin mining strains the power grid, experts say it's not the real reason behind Iran's electricity outages and dangerous air pollution. The telecommunications ministry estimates that Bitcoin consumes less than 2% of Iran's total energy production.
+
+"Bitcoin was an easy victim here," said Kaveh Madani, a former deputy head of Iran's Department of Environment, adding that "decades of mismanagement" have left a growing gap between Iran's energy supply and demand.
+
+Bitcoin "mining's energy footprint is not insignificant but these problems are not created overnight," he said. "They simply need one trigger to spiral out of control."
+
+A sharp drop in supply or spike in demand, like this winter when more people are staying home because of the coronavirus pandemic, can upset the balance of a grid that draws mostly from natural gas. Authorities reported that households have increased their heating gas usage by 8% this year, which Tehran's electric supply company said led to "limitations in feeding the country's power plants and a lack of electricity."
+
+Sanctions targeting Iran's aging oil and gas industry have compounded the challenges, leaving Iran unable to sell its products abroad, including its low-quality, high-sulfur fuel oil known as mazut. If the hazardous oil isn't sold or shipped it must be swiftly burned -- and it is, in 20% of the country's power plants, according to environmental official Mohammad Mehdi Mirzai. The smouldering fuel blackens the skies, particularly when the weather cools and wind carries emissions from nearby refineries and industrial sites into Tehran.
+
+During the power blackouts, thick layers of pollution coated mountain peaks and hovered over cities, with readings of dangerous fine particulate pollution spiking to over 200 micrograms per cubic meter, a level considered "dangerously" unhealthy.
+
+As the government publicized its clampdown on Bitcoin farms, miners balked at all the blame over their energy guzzling. Many warned that despite its potential to become a cryptocurrency utopia, Iran would continue to fall behind.
+
+"These moves harm the country," said Omid Alavi, a cryptocurrency consultant. "Many neighbouring nations are attracting foreign investors."
+
+------
+
+DeBre reported from Dubai, the United Arab Emirates

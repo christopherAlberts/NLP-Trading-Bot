@@ -1,0 +1,35 @@
+Steve Lee of Square Crypto sees major Bitcoin application progress on the horizon, dismisses energy FUD and looks forward to Bitcoin 2021.
+
+Steve Lee will be speaking during the Bitcoin 2021 conference in Miami on June 4 and 5. Make sure that you set a reminder for the Bitcoin 2021 day one YouTube live stream and one for the Bitcoin 2021 day two YouTube live stream now.
+
+Multi-billion dollar financial services company Square touches Bitcoin in several ways. It holds more than 8,000 BTC on its balance sheet. Its mobile payments platform Cash App, which lets users buy bitcoin instantly, netted some $495 million in gross profit in the first quarter of 2021. And its CEO, Jack Dorsey, also runs the most popular social media platform for Bitcoin discussion in Twitter.
+
+But no arm of the company is more directly involved in fostering the Bitcoin network than Square Crypto. This branch, led by project manager Steve Lee, provides educational content like “The Book Of Bitcoin Mythology,” attempts to improve the energy consumption of Bitcoin mining through a clean energy initiative and propels technical work on the Bitcoin protocol and its second layers through development kits and financial grants to developers.
+
+Fostering Bitcoin Development
+
+In early 2020, Square Crypto established a model of supporting free and open-source software projects for Bitcoin, and its greatest impact may be in how other industry stakeholders have adopted this model as well.
+
+“I am extremely pleased with the growth of funding and support for open-source Bitcoin work,” Lee told Bitcoin Magazine. “All but one of our grantees are being funded for the first time, which has led to a substantial increase in the overall open-source Bitcoin talent pool. Organizations like the Human Rights Foundation, Brink, OKCoin, BitMEX, Kraken, Paradigm, Gemini and Coinbase have followed suit. The result is a much more robust support base with the power to sustain development for a long time to come.”
+
+In addition to these grants, Lee pointed to Square Crypto’s Bitcoin and Lightning development kits, as well as its Bitcon Design Guide, as resources that will expedite high-quality Bitcoin applications. He said that he’s seeing developers use these tools to build products that will be launched this year, potentially driving an “explosion” of new applications built with them over the next few years.
+
+Driving Clean Energy Use
+
+At the moment, it seems that many institutional groups of Square’s size that are involved in Bitcoin are being forced to reckon with general misunderstandings about the network’s energy consumption. While Bitcoin mining is an energy-intensive practice, it is one that drives significant renewable energy use and it barely scratches the carbon emissions of industries like the legacy financial sector.
+
+Recently, Square published a white paper laying out the case for a clean energy future driven by the incentives unique to Bitcoin. That vision appears to be in line with Lee’s at Square Crypto as well.
+
+“I am confident that Bitcoin isn’t a threat to the environment,” Lee said. “In fact, I believe that Bitcoin miners could be the catalyst for converting the entire energy grid to renewables. The level of concern about Bitcoin’s energy consumption is understandable, especially since it is often framed without context. If you take what is reported at face value, you might conclude that Bitcoin cannot scale without consuming astronomical amounts of resources. But this isn’t accurate. Technologies like the Lightning Network make Bitcoin capable of handling exponentially more transactions without consuming any additional energy. And that’s just one example.”
+
+Expanding The Conversation At Bitcoin 2021
+
+Lee will be sharing more of his thoughts on the present and future of the network at the upcoming Bitcoin 2021 event. When asked what critical conversations should be taking place there, he had a simple and straightforward response, demonstrating a decidedly maximalist point of view.
+
+“Why proof of work is essential to decentralized money,” he said. “There is simply no substitute.”
+
+Lee will share more about Square Crypto’s work during the Bitcoin 2021 conference in Miami on June 4 and 5. Make sure that you set a reminder for the Bitcoin 2021 day one YouTube live stream and one for the Bitcoin 2021 day two YouTube live stream now.
+
+Join the #Bitcoin2021 party from anywhere in the world by joining our conversation on Telegram. Plus, be sure to subscribe to our newsletter to stay on top of the latest Bitcoin news and all the happenings at Bitcoin 2021.
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.

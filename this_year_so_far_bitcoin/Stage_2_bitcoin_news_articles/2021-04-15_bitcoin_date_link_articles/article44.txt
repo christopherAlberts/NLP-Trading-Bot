@@ -1,0 +1,17 @@
+Recent security incidents in several coal mines in China appear to have had a ripple effect on bitcoin's mining hash rate.
+
+Over the past two weeks, there have been three security accidents in coal mines in China's Shanxi, Guizhou and Xinjiang provinces due to gas explosion and flooding, according to Chinese state media Xinhua.
+
+The most recent ones that happened within the last two days in Xinjiang and Guizhou have already caused 12 deaths as well as 21 people trapped. The seriousness of the incidents has drawn high-level attention from relevant authorities, the report added.
+
+As a precaution, coal-based power stations in these regions have also started conducting self -inspection over security measures and have subsequently cut off power for big data centers in the area.
+
+While most of the bitcoin mining farms in China operate on hydropower during the rainy summer, a majority of them would migrate to the Northern provinces of Xinjiang and Inner Mongolia during the dry-season, which spans from October to May the next year.
+
+The founder of Chinese bitcoin exchange AEX, who only goes by 37 Degrees on Weibo and also owns bitcoin mining farms in China, said on the social media that "big data centers in Xinjiang have basically all been shut down to conduct safety drills."
+
+Although bitcoin mining farms in the region don't have security issues themselves, the major coal mine incident in Xinjiang's Hutubi County has caused power suspension at least for the time being.
+
+"It's estimated that [data center] operations should resume in about a week from now," he added.
+
+Indeed, the 24-hour hash rate on major Chinese bitcoin mining pools including F2Pool, Poolin, BTC.com, Antpool and Binance Pool all have had a notable decline in percentage terms that ranges from 10% to 35%, data from BTC.com shows.

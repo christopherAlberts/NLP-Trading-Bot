@@ -1,0 +1,1 @@
+close get email notifications on subject dailyyour notification has been savedthere was a problem saving your notificationdescriptionemail notifications are only sent once a day and only if there are new matching items

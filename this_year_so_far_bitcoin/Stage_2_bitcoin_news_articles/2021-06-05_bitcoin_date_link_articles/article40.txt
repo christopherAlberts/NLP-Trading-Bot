@@ -1,0 +1,65 @@
+By Martijn Rozemuller, CEO – Europe
+
+Growing positive momentum is driving the Ethereum platform and its ether currency forward. When the artist known as Beeple sold a digital artwork in early March through Christie’s for $69.3m, he used non-fungible token (NFT) technology lodged on the Ethereum platform. Following the success of his experiment, British artist Damien Hurst and others are set to follow, bringing a new dimension to the art world.
+
+The Beeple collage, “Everydays: the First 5,000 Days,” was a single composite jpeg file of digital images sketched every day for more than 13 years. As an NFT, it’s a one-of-a-kind asset that cannot be interchanged. The token is a certificate of ownership.
+
+Just as the art world experiments with its future on Ethereum, so the crypto platform is establishing itself as the place where a range of old-world sectors are discovering, through trial and error, where they fit in the new digital world. Most commonly, the finance sector is leveraging it to tokenize assets on the blockchain—or issue a token that digitally represents a tradeable asset on a blockchain—exploring a new digital frontier.
+
+Technically speaking, Ethereum is a decentralized, open-source blockchain technology and software platform that enables peer-to-peer, or “smart,” contracts as well as decentralized applications. Smart contracts are programs stored on the blockchain that automatically execute agreements as predefined conditions are met. Instead of a centralized set of servers, the Ethereum network relies on a large, global network of servers to verify data and process transactions. For those wishing to play the rise of Ethereum, its ether currency is gaining value in the cryptocurrency world as the platform gains ground.
+
+For the period from December 2015 to March 2021, the Ether appreciated by an annualized 273%, albeit with the volatility that one expects of a cryptocurrency. For comparison, Bitcoin was up just under 180% on an annualized basis.
+
+Annualized Return Standard Deviation Sharpe Ratio Ethereum 273% 184% 1.35 Bitcoin 179% 85% 1.61
+
+Source: VanEck. Data for the period 12/31/2015 – 3/31/2021. Past performance is no guarantee of future results. Ethereum is represented by the MVIS CryptoCompare Ethereum PR USD Index. Bitcoin is represented by the MVIS CryptoCompare Bitcoin PR USD Index.
+
+Ethereum Is Gaining Market Share
+
+Compared to Bitcoin, Ethereum and its ether currency are relatively young. Bitcoin was unveiled in 2008, at the time of the global financial crisis, while Ethereum was only launched in 2015. They have very different purposes: Bitcoin is designed as a form of digital money, or the base layer for a new monetary system, while the Ethereum blockchain technology stores computer code that enables smart contracts and can make computations in its own right. What’s more, Bitcoin’s supply is limited – hence it’s dubbed “digital gold” due to its attractions for some investors as an inflation hedge. Ethereum’s ability to allow smart contracts to run on decentralized applications has caused many to think of it as the “world computer.”
+
+In addition to the ether, 9 of the top 20 crypto coins by market capitalization are (partly) based on Ethereum’s platform (as of April 16, 2021). When combined with the numerous other applications, they have lifted Ethereum’s market share from 7% in 2019 to 12% in 2021, giving it a market capitalization of $278bn in April 2021, second only to Bitcoin. Looked at another way, by number of transactions processed on the blockchain, Ethereum has trumped Bitcoin since 2017.
+
+# Coin Market Capitalization Based on Ethereum 1 Bitcoin $ 1,141 bn 2 Ethereum $ 278 bn Yes 3 Binance Coin $ 79 bn Yes 4 XRP $ 71 bn 5 Dogecoin $ 49 bn 6 Tether $ 47 bn Yes* 7 Cardano $ 44 bn 8 Polkadot $ 40 bn 9 Uniswap $ 19 bn Yes 10 Litecoin $ 18 bn 11 Chainlink $ 17 bn Yes 12 Bitcoin Cash $ 16 bn 13 Theta Network $ 15 bn Yes 14 Stellar $ 13 bn 15 Filecoin $ 12 bn Yes 16 USD Coin $ 12 bn 17 VeChain $ 11 bn Yes 18 TRON $ 10 bn 19 Wrapped Bitcoin $ 9 bn Yes 20 EOS $ 7 bn
+
+*Tether USD is issued on Omni (Bitcoin Sidechain), Tron and Ethereum. Source: coingecko.com on 4/16/2021.
+
+Three Types of Application for Ethereum
+
+Although still in its infancy, Ethereum may prove to be the innovation that allows blockchain technology to fulfill its true potential. Broadly speaking, it hosts three types of application1:
+
+Decentralized applications: These run on a peer-to-peer network of computers, in contrast to a normal app where the code runs on a centralized server. The CDP (“Collateralized Debt Position”) of MakerDAO is an example of a decentralized application, or DaPP. Decentralized finance: This application aims to democratize finance by removing the middlemen from transactions, giving access to everyone. It can be used for decentralized trading exchanges. A prime example would be the Uniswap protocol to trade and create liquidity in ERC-20 tokens. Decentralized anonymous organizations: These are new types of organizations, again more democratic than today’s. They use blockchain technology to remove the need for central authority, leading to a flat organization without the bottlenecks created by hierarchy. Token holders govern this “DAO” and vote for decisions in a decentralized fashion. MakerDAO, the issuer of ETH-backed stablecoin DAI is such a decentralized autonomous organization.
+
+Ethereum’s Flourishing Ecosystem
+
+An ecosystem is evolving on and around Ethereum. There are now more than 3,000 applications and the number is growing steadily.2 Notably, it’s an ecosystem full of experimentation, where some apps have thrived and others have not.
+
+It’s best known as a platform for finance, where trading, lending and investment applications are becoming established. However, there are also social networks, advertising apps and prediction markets. Another well-known application is games, with digital collecting crazes like CryptoKitties taking the place of their old physical equivalents.
+
+Testifying to the potential the business world sees, some leading organizations have formed the Ethereum Enterprise Alliance, dedicated to developing its use in their daily business. To name just a few, members include companies such as Accenture, Bank of New York Mellon, EY, Intel, JP Morgan Chase Bank, Microsoft, SAP and Standard Chartered Bank.3
+
+The World Computer’s Gathering Momentum
+
+What’s clear is that Ethereum’s “world computer” has become an ecosystem where businesses, artists and others are experimenting with blockchain’s new opportunities, seeking to learn from and collaborate with one another. As in the theory of natural evolution developed by English naturalist Charles Darwin, the fittest will survive and prosper.
+
+For Ethereum and the ether currency, we believe that adds up to growing positive momentum.
+
+Originally published by VanEck, 6/3/21
+
+IMPORTANT DISCLOSURES
+
+1 Source: VanEck research.
+
+2 Source: stateofthedapps.com
+
+3 Source: Ethereum Enterprise Alliance
+
+This is not an offer to buy or sell, or a solicitation of any offer to buy or sell any of the securities/financial instruments mentioned herein. The information presented does not involve the rendering of personalized investment, financial, legal, or tax advice. Certain statements contained herein may constitute projections, forecasts and other forward looking statements, which do not reflect actual results, are valid as of the date of this communication and subject to change without notice. Information provided by third party sources are believed to be reliable and have not been independently verified for accuracy or completeness and cannot be guaranteed. The information herein represents the opinion of the author(s), but not necessarily those of VanEck.
+
+The MVIS CryptoCompare Bitcoin Index measures the performance of a digital assets portfolio which invests in Bitcoin.
+
+The MVIS CryptoCompare Ethereum Index measures the performance of a digital assets portfolio which invests in Ethereum.
+
+All indices are unmanaged and include the reinvestment of all dividends but do not reflect the payment of transactions costs, advisory fees or expenses that are typically associated with managed accounts or investment funds. Indices were selected for illustrative purposes only and are not securities in which investments can be made.
+
+All investing is subject to risk, including the possible loss of the money you invest. As with any investment strategy, there is no guarantee that investment objectives will be met and investors may lose money. Diversification does not ensure a profit or protect against a loss in a declining market. Past performance is no guarantee of future results.

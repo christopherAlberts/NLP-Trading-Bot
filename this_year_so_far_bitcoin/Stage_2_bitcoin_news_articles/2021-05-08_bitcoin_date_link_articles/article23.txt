@@ -1,0 +1,31 @@
+Privacy-Centric Coins See Fresh Gains, Monero Captures All-Time Price High
+
+On May 7, the privacy-centric crypto asset monero captured an all-time high at $515 per unit, as demand for confidential transactions has increased in recent times. Monero has gained more than 190% during the last three months, while a number of other privacy coins like zcash, verge, horizen, and grin have seen significant gains as well.
+
+Monero XMR Taps a New ATH Before Most Privacy Coins
+
+While cryptocurrencies have been growing wildly in value, the climate of regulation has stepped up a great deal. Governments and blockchain surveillance firms worldwide have been making themselves right at home in this industry. Interestingly, as the regulatory crackdowns increase and exchanges delist privacy coins, it has pushed demand even higher.
+
+In 2021, privacy coins have been moving northbound and on Friday, monero (XMR) touched an all-time high (ATH). Monero was conceived in 2014 and the open-source code is not a fork of bitcoin (BTC), but a proof-of-work (PoW) digital asset based on the Cryptonote application.
+
+XMR’s blockchain is considered “an obfuscated public ledger” and it utilizes ring signatures, one-time stealth addresses, and a non-interactive zero-knowledge proof (NIZKP) protocol called “bulletproofs.” Governments like the U.S. are aware of Monero’s privacy benefits and have even offered to pay for a tool that cracks the secrecy features.
+
+XMR has gained more than 17% this week and 74% during the last month. 90-day stats show XMR is up 192.5% and 12-month data shows monero’s gained 666% against the U.S. dollar.
+
+Monero started gaining more attention in January as a number of developments have been completed since then. During the first month of the year, developers revealed three teams were working on XMR atomic swaps. In February, monero developers explained that Bulletproofs+ had completed an audit.
+
+Monero’s Biggest Pair Is Tether, While Zcash, Verge, Grin, Beam, Horizen and Dash Are All Up Over 200% in 3 Months
+
+Monero’s biggest trading pair is tether (USDT) according to Cryptocompare data as USDT captures 67% of all XMR trades. Tether is followed by BTC (24.50%), ETH (3.47%), USD (2.36%), BUSD (0.92%), and EUR (0.58%) respectively.
+
+Furthermore, a number of other privacy coins have been spiking in value as well. Zcash (ZEC) has a long way to go to catch up to its previous ATH five years ago when it hit $8,967 per unit. Still, ZEC is up 591% this year and 216% during the last three months.
+
+Verge is up 297% during the 90-day span and horizen gained 318% during the same time frame. 90-day stats indicate Grin has gathered 264% and beam is up 238%. Lastly, dash has jumped 215% during the last three months as well but still needs to capture its ATH of $1,531 per unit from three years ago.
+
+Overall, privacy coins, in general, have been doing well despite the regulatory climate and it’s been getting harder to find them on exchanges.
+
+What do you think about monero reaching a new all-time high and the rest of the privacy coins making gains? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, Exchange.bitcoin.com XMR, DASH, and ZEC Markets
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

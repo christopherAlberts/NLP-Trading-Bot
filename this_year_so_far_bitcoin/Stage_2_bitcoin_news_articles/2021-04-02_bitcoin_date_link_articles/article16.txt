@@ -1,0 +1,177 @@
+In this article we presented the 20 most valuable and innovative AI companies in the world. You can skip our detailed discussion on AI and go directly to 5 Most Valuable AI Companies in the World.
+
+Artificial Intelligence has infiltrated several industries. It has revolutionized the way companies work. Its applications range from driverless vehicles, to biomanufacturing and automates systems. AI is set to change the dynamics of the most key industries and sectors in human societies, including healthcare, employment, entertainment, transportation and data processing.
+
+Let's first take a look at some of the top and famous AI companies. After that we will discuss some relatively unknown AI companies that are working on extremely innovative technologies and are getting the attention of smart investors and venture capitalists.
+
+Alphabet Inc Class A (NASDAQ: GOOGL)
+
+Alphabet’s Google is one of the most valuable and innovative AI companies in the world. The company is offering a plethora of AI products including Natural language processing (NLP) models, TensorFlow, AI smart home products and AI-based Cloud applications. The company recently launched AI-powered reservation service Duplex in the U.S. Duplex allows users to make appointments automatically via AI systems instead of speaking on the phone.
+
+NVIDIA Corporation (NASDAQ: NVDA)
+
+Nvidia is one of the top most valuable and innovative companies in the world. The company’s chips are used in various AI systems and data centers. NVIDIA DGX is used by scientists and R&D experts to dig deeper into AI technologies. The company also provides NVIDIA GPU Cloud (NGC) that powers various AI systems including TensorFlow, PyTorch and MXNet.
+
+Salesforce.com, inc. (NYSE: CRM)
+
+Salesforce is one of the top AI companies in the world. The CRM company is known for Salesforce Einstein that brings AI features to Salesforce CRM program. Salesforce Einstein helps companies make the most of their data through features like Discovery, Einstein Prediction Builder and Einstein Next Best Action.
+
+Story continues
+
+Now, let's start our list of most valuable AI companies that are relatively unknown. These companies are generating massive findings and garnering the attention of investors and VCs, thanks to their innovation and groundbreaking products.
+
+top innovative and valuable AI companies in the world
+
+Goran Bogicevic/Shutterstock.com
+
+20. CloudMinds
+
+Industry: Cloud-Based Ecosystem for Smart Machines
+
+Revenue: $121 million
+
+Valuation: $440 million
+
+Another company that is taking AI to new heights is an American company called CloudMinds. Based in Santa Clara, CloudMinds specializes in smart devices, cloud systems and robotics. It makes use of an open end-to-end cloud computing system which operated robots, intelligent terminals, robot control units and machine learning platforms. The company has managed to provide several humanoid robots, smart communication devices which are used for crowd health monitoring, and infrastructure for the smooth operation of robot fleets. Its technology and products are used in wide-ranging industries such as health, finance, military, large-scale manufacturing and public security.
+
+19. Bright Machines
+
+Industry: Software, Manufacturing & Industrial
+
+Revenue: $100 million
+
+Valuation: $679 million
+
+Bright Machines ranks 19th in our list of top 20 valuable and innovative AI companies in the world. As AI has been taking over factories, Bright Machines is working to deploy robotic systems that further ease the most complex tasks in manufacturing. It is focused in making robots that work as precisely as humans to help automate manufacturing and industrial processes by using machine learning and computer vision. The company has truly changed the game by launching a product called “microfactories” which are essentially closed systems attached with robotic arms that can perform certain tasks such as inserting chips in a circuit board. The company has raised funding equal to $175 million in just two rounds.
+
+Industry: Finance
+
+Valuation: $750 million, via Pitchbook
+
+Upstart ranks 18th in the list of 20 most valuable and innovative AI companies in the world. Upstart is an AI lending platform which provides affordable credit to their clients while ensuring minimal costs and risk for their lending partners (banks). Upstart has an AI-powered platform that provides high approval rates for credit while simultaneously lowering loss rates. It aims to deliver the best digital lending experience to its customers. Upstart has catered to over 300,000 borrowers and is set on a growth path in the years to come.
+
+17. OpenAI
+
+Industry: Artificial Intelligence
+
+Revenue: $21.6 million
+
+Valuation: $1 billion
+
+OpenAI was founded in 2015 and is based in San Francisco. It is an artificial intelligence research lab which was initially launched as a non-profit company at the initiative of Elon Musk. The purpose of this research company is to promote and develop innovative AI technologies that would not be a threat or risk to humanity in the future. Even though OpenAI is a not-for-profit company, it also has a commercial API which is focused towards the development of new natural language processing models that have applications in various industries. OpenAI received a billion-dollar investment from Microsoft in 2019.
+
+16. Coveo
+
+Industry: Enterprise Software
+
+Revenue: $82.5 million via growjo
+
+Valuation: $1 billion
+
+Coveo is based in Quebec, Canada. It provides AI based search and recommendation engines. This is useful for organizations which want to create a personalized experience for their customers by making use of relevant information during every interaction with their customers. Some products of Coveo include the Relevance Cloud which uses analytics and machine learning to arrange data and content which helps in automating deliveries, improving customer service, and making the workforce more productive. In 2019, Coveo acquired Tooso which is an AI based digital commerce engine which has enhanced its capabilities to improve the digital commerce market. Overall, the company has a promising future as a top AI company in the world.
+
+15. Hippo Insurance
+
+Industry: Insurance
+
+Revenue: $311 Million via zoominfo
+
+Valuation: $1 billion
+
+This US-based AI company had aimed to make the process of insurance more millennial-friendly. This means that people can now apply for home insurance quicker and with less hassle. The company uses AI processes to pull publicly available data about each property. It then provides instant responses to typical questions that insurance buyers have. Data such as aerial images, smart home sensors and quotes on the internet is automatically picked up to provide users with a more realistic idea of what they are getting into.
+
+14. Trax
+
+Industry: Software for Retail & CPG
+
+Revenue: $110.7 million via growjo
+
+Valuation: $1.3 billion
+
+Another global AI company that made to the list of top 20 valuable and innovative AI companies in the world is Trax technologies. Headquartered in Singapore, the company had a worldwide presence with offices in Europe, Asia, North America, South America and the Middle East. The company was founded in 2010 and now has over 150 customers in the FMCG and retail industries. The company has created a computer vision technology that retrieves, measures and analyzes what is actually happening on store shelves. It is primarily an image recognition company focused on the retail industry. Trax has used data science and market measurement tools to help companies increase their sale revenues. It also uses Internet of Things technology to gain insights regarding the market. This valuable AI company had raised $386.9 million in funding.
+
+13. Dataminr
+
+Industry: Real-time information
+
+Revenue: $136 million
+
+Valuation: $1.59 billion
+
+Founded in 2009, the New York based company Dataminr is the one of the top 20 valuable and innovative AI companies in the world. Dataminr makes use of natural learning processes, deep learning and advanced statistical modelling methods to help their clients manage risk and crises effectively. The company provides AI based solutions that have applications in real world problems. It has clients like Amazon, CNN and the United Nations which makes use of their systems to detect any potential global crises worldwide. Dataminr has emerged as a top AI business in the age of information. It provides its clients with critical business-related information regarding the brand, assets and potential risks to a company. It also allows users to manage large groups of users. The company has raised over $1.1 billion in funding with its last round held in March 2021.
+
+12. Verkada
+
+Industry: Electrical Equipment
+
+Revenue: $63.4 million
+
+Valuation: $1.6 billion via craft
+
+Based in San Mateo, California, Verkada has emerged one of the leading AI companies in the world with over 1200 customers. It provides security cameras that are connected to the cloud and are also equipped with other AI driven features such as movement and object detection. It was founded by Stanford’s graduates who collaborated with the cloud company Meraki. Verkada now has a huge list of clients ranging from school districts in the United States to tracking food deliveries by restaurants. The applications of their high-grade security cameras has earned it a spot in the 20 most valuable AI companies in the world.
+
+11. Graphcore
+
+Industry: Semiconductor
+
+Revenue: $81.9 million via tracxn
+
+Valuation: $1.62 billion
+
+Graphcore was founded in 2016 and is located in Bristol, United Kingdom. It develops innovative hardware systems that help in accelerating applications that use machine learning tools. Graphcore has created its own processor which is called the Intelligence Processing Unit. Furthermore, its other products allow researchers and AI developers to run machine learning models at a much faster speed than previous hardware. The company has also developed other products such as the Poplar Software Stack which is the first graph tool chain specifically designed for machine intelligence. In its last funding round in 2020, the company managed to raise $222 million in funding.
+
+10. Zymergen
+
+Industry: Health care
+
+Revenue: $13 Million
+
+Valuation: $1.75 billion
+
+Another leading AI company that is making waves in the healthcare industry is Zymergen. It ranks 10th in our list of top 20 valuable and innovative AI companies in the world. It was established in 2013 and is located in California. Zymergen is using genomics, automation, and machine learning to develop innovative biomanufacturing technologies that can be used in the areas of agriculture, electronics, and even personal care. The company has raised about $874.1 million in funding in a series of 5 rounds as of 2020. With clients worldwide, the company is committed to improve production processes that are not only environmentally friendly but significantly reduce costs as well. Their breakthrough products include HYALINE which is a bio-generated film in the category of polyimides. In September 2020, Zymergen raised $300 million after a post money valuation of $1.75 billion.
+
+9. Nuro
+
+Industry: Robotics
+
+Revenue: $105 million
+
+Valuation: $2.7 billion
+
+In terms of innovation, Nuro has made leaps in establishing itself as one of the leading AI companies in the world. It was founded by Jiajun Zhu and Dave Ferguson who previously worked at Google. Headquartered in Mountain View, California, Nuro has raised $1.5 billion in funding as of 2020. Its groundbreaking use of AI combined with the power of robotics has helped it emerge as a leading autonomous delivery company. Nuro creates self-driving delivery vehicles which can carry goods to their destinations. It has the potential to change the face of the transport and logistics industry. Furthermore, Nuro makes use of over 25 technology products such as Google Analytics, jQuery and HTML5.
+
+8. DataRobot
+
+Industry: Enterprise AI platform
+
+Revenue: $210 million
+
+Valuation: $2.7 billion, via crunchbase
+
+By automating the job of a data scientist, DataRobot has made waves in the AI industry. It has emerged as a leader in enterprise AI by delivering innovative technologies such as ROI enablement services that are used by global enterprises such as Deloitte, United Airlines and the PNC Bank. Instead of coding, DataRobot allows its users to use its platform to get quick answers to their business inquiries with the help of machine learning. It allows business analytic professionals to use accurate machine learning models without writing any code to derive valuable insights to conduct their business in a better way. The company has raised over $431 million in funding from top firms located worldwide.
+
+7. Zoox
+
+Industry: Automotive
+
+Revenue: $371.3 million via growjo
+
+Valuation: $3.2 billion
+
+Zoox was founded in 2014 and was later acquired by Amazon in 2020. Its headquarters is located in California. It ranks 7th in our list of top 20 valuable and innovative AI companies in the world. It develops autonomous vehicles focused on the robo-taxi market. It has employed the latest technologies in AI to develop self-driving vehicles that are optimized with autonomous driving rather than making use of normal cars which are fitted with autonomous driving capabilities. The company employs revolutionary techniques in robotics, renewable energy and automotive which has enabled it to produce symmetrical and battery-electric vehicles that are one-of-a-kind. In 2020, Zoox became the first company in the world to showcase a self-driving vehicle that can go up to 75 mph and is fully autonomous.
+
+6. Megvii
+
+Industry: Technology
+
+Revenue: $193.6 million
+
+Valuation: $4 billion via S&P Global
+
+Megvii stands for “mega vision”. With a valuation of $4 billion, this Chinese company has become the largest provider of third-party authentication software globally. Headquartered in Beijing, the company uses deep-learning technology and focuses on the Internet of Things (IoT) to provide services to the public sector. Perhaps its most famous product is an open-source computer vision platform known as Face++. It provides solutions for smart cities IoT, supply chain IoT and personal IoT. Megvii also provides face recognition, detection and analysis platforms which can be used for mobile apps, websites as well as smart televisions.
+
+Click to continue reading and see the Top 5 Valuable and Innovative AI Companies in the World.
+
+Suggested articles:
+
+Disclosure: None. Top 20 Valuable and Innovative AI Companies in the World is originally published on Insider Monkey.

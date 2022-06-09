@@ -1,0 +1,13 @@
+Bitcoin mining firm Marathon Digital Holdings will update to Bitcoin Core version 0.21.1 and will validate transactions transactions on the blockchain “in the exact same way as all other miners who use the standard node,” CEO Fred Thiel said.
+
+MaraPool, the bitcoin mining pool run by Marathon, had previously described itself as an “OFAC (Office of Foreign Assets Control) compliant” pool. In an effort to “stay “compliant with U.S. regulatory standards,” the bitcoin mining company pledged to exclude any transactions from its blocks that originated from addresses associated with sanctioned entities.
+
+On May 7, the pool drew criticism from the Bitcoin community when it announced it had mined its first fully compliant block by censoring certain transactions.
+
+At the time, Marathon stated that its compliance efforts originated from desire to placate investors and regulators by giving them “peace of mind that the bitcoin we produce is ‘clean’, ethical and compliant with regulatory standards.”
+
+Thiel, who has been in his role as CEO for about a month, appears to be taking Marathon in a new direction.
+
+“We look forward to continue being a collaborative and supportive member of the Bitcoin community and to realizing the vision of Bitcoin as the first decentralized, peer-to-peer payment network that is powered by its users rather than a central authority or middlemen,” he said.
+
+“Marathon is committed to the core tenets of the Bitcoin community, including decentralization, inclusion, and no censorship,” he added.

@@ -1,0 +1,73 @@
+More than a third of Britons are uninterested in buying into cryptocurrency because of a lack of regulation of the sector, new research suggests.
+
+Some 34 per cent of the population, and three-quarters of people in their thirties familiar with the likes of bitcoin, ethereum and dogecoin said better consumer protections would make them likelier to invest.
+
+According to exclusive research carried out for This is Money by cryptocurrency exchange Coinbase, half of those surveyed aged between 30 and 39 also said more accessible information would make them more interested in investing.
+
+Wild West: Cryptocurrency trading is currently unregulated by the FCA
+
+Charlie Barton, from the personal finance comparison site Finder, said: 'It makes sense that people want to learn a little more, and want reassurance that there's regulatory oversight before making an investment.'
+
+Cryptocurrency investing has become increasingly mainstream among both everyday and institutional investors, which has helped propel the prices of cryptoassets like bitcoin to record highs over the past few months.
+
+However, the industry remains unregulated in the UK and this, coupled with the intense volatility of the likes of bitcoin, means it can resemble something of a Wild West.
+
+Since reaching an all-time high of more than $63,000 a coin in mid-April, the price of bitcoin has plummeted by 46 per cent in recent weeks, and currently sits at around $36,000.
+
+The city regulator, the Financial Conduct Authority, has warned consumers they 'should be prepared to lose all their money' if they make such 'very high risk, speculative purchases'.
+
+It has also banned everyday investors from purchasing crypto-derivatives which follow the price but do not provide investors with ownership, and can help magnify any losses.
+
+Bitcoin has exploded since last March but has been on a wild ride recently, with the price falling 46% since its latest peak in mid-April
+
+Cryptocurrency exchanges, which allow investors to buy the likes of bitcoin, ethereum and a myriad of other cryptoassets, are currently only regulated by the FCA for money laundering and counter-terrorist financing purposes.
+
+This means that while some appear on a list of regulated platforms, those who hold money with them do not have access to the Financial Ombudsman Service or the Financial Services Compensation Scheme safety net if things go wrong.
+
+Some banks have also banned investors from transferring money to cryptocurrency exchanges, while there are increasing concerns about 'get rich quick' cryptocurrency scams.
+
+Two in five don't really know what crypto is as fears of fraud mount Coinbase's findings also revealed a sizeable proportion of people who claim to be 'somewhat familiar' with cryptoassets don't really know what they are. Two in five said they didn't know what it is or how it is created, which is through 'mining' using computer programs, which rises to 63 per cent of those in their sixties. Only 4 per cent of those aged between 60 and 69 felt they had a good understanding of what cryptocurrency is. Those findings are particularly stark given the increased concerns about fraud. Close to 45 per cent of investment scams involving social media platforms between April 2020 and March 2021 were to do with cryptocurrency investing, according to the fraud reporting centre Action Fraud. Often these involve fake celebrity endorsements, like this bitcoin scam we reported in 2019. There were 5,039 reports of investment fraud stemming from social media platforms in all, Action Fraud said, with victims losing £12,500 on average. Meanwhile high street bank NatWest said it received a record number of fraud reports about cryptocurrency in the first three months of this year. The FCA has said prospective investors should be 'extremely cautious' before investing. 'Make sure that you check and carefully consider the cryptoasset business', it said on its website. 'You should know who you are dealing with and whether a cryptoasset is suitable, especially considering the risk of such products. 'For example, when entering a business relationship, you may want to consider whether the business is based in the UK, or if it is registered with us.'
+
+Glen Goodman, an investor and author of the book The Crypto Trader, said: 'I'm not surprised so many are reluctant to invest in crypto, as it's not protected by the FSCS.
+
+'If you invest in the stock market and the trading platform goes bust - taking your money with it - you're eligible for up to £85,000 compensation. If the same happens with a crypto platform, you may lose everything.'
+
+However, FSCS protection does not cover investors if their investments lose money or those companies go bust, only if the platform does.
+
+And this is only the case if an investment platform or provider is regulated by the FCA or the Bank of England's Prudential Regulation Authority and, as a result, the FSCS. It is important to check the FSCS's website, as well as that of your investment provider, to ensure you are covered.
+
+Barton added: 'The stat that stood out was that 75 per cent of those in their thirties are waiting for regulation before making an investment in crypto. Those people are in a unique position.
+
+'For them, it may not be a "YOLO" move into crypto - that's more for people in their late teens and twenties, who can afford the risk, with a lifetime of earning ahead of them.
+
+'People in their thirties, however, may be looking to settle down, have a family and buy a house and it's a big risk to bet on "fake internet money".
+
+Meanwhile, they are too young to have enjoyed the wage growth, lower house prices, and more generous pension schemes that older generations enjoyed.'
+
+Stablecoins, a type of cryptoasset pegged to an existing currency like the pound or dollar and used to make payments, are currently being consulted on as a means of payment by the Government, the FCA said.
+
+If they were adopted, the FCA would likely work to regulate the sector and provide consumer protections.
+
+Marcus Hughes, Coinbase's managing director for Europe, said of the findings: 'It is essential for us to understand why some consumers remain reticent to engage with crypto so that we can help to demystify the space and build their trust.
+
+'It is unsurprising that a perceived lack of regulation around cryptocurrencies unsettles some people.'
+
+Currently, only four cryptocurrency exchanges are fully registered with the FCA.
+
+Dozens more, including well-known names such as eToro and Revolut, have been placed on a temporary permissions register introduced at the end of last year.
+
+This was due to expire next month, but on Thursday morning was extended until March 2022 to give exchanges more time to work with the regulator.
+
+Coinbase is not listed on the FCA exchange as it provides crypto services to UK customers from an Ireland-based entity called Coinbase Europe.
+
+It will soon register with the Central Bank of Ireland due to it launching a similar registration regime to the FCA.
+
+Hughes added: 'If the industry is to gain the trust of the broader public, it is essential that further regulation is implemented consistently across the board.'
+
+Goodman added: 'The sensible thing to do is buy crypto through a platform and then transfer it into your own private virtual wallet for protection. The problem is that's a fiddly process and people sometimes lose their passwords and their cryptocurrency.
+
+'It would be much easier if the FCA extended their protective umbrella to crypto investors, so they could invest using intuitive platforms and apps, with the peace of mind the FSCS provides.'
+
+Charlie Barton also agreed cryptoasset investing 'needs more regulatory infrastructure around it.'
+
+Asked by This is Money whether it would consider this in light of the findings, the FCA said its remit was a matter for the Government.

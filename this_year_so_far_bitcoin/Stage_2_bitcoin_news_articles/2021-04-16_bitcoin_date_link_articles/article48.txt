@@ -1,0 +1,33 @@
+It’s undeniable that Bitcoin (BTC) and Ether (ETH) are currently the two most dominant cryptocurrencies, and as a result, they receive most of the attention from the mainstream media, institutional investors and retail investors, but this doesn't mean that the sector leaders are not occasionally challenged by competitor networks.
+
+Two forked projects that once sought to challenge Bitcoin and Ethereum for their seats at the top are Bitcoin Cash (BCH) and Ethereum Classic (ETC). In the past week, both coins have demonstrated that they are still capable of generating excitement and producing big gains.
+
+Data from Cointelegraph Markets and TradingView shows that the price of BCH has climbed 125% over the past two weeks, ring from a low of $523 on April 4 to a high of $1,175 on April 16. During the same time period, ETC staged a 250% rally from $13.30 to a new all-time high at $46.53 on April 16.
+
+BCH/USDT
+
+Bitcoin Cash arose out of contention in the Bitcoin community centered around the scalability of the Bitcoin blockchain and the desire to increase the block size.
+
+As a result of the disagreement, part of the community split off and “forked” Bitcoin to create Bitcoin Cash in order to implement the desired code updates.
+
+The protocol now aims to be a peer-to-peer electronic cash system capable of being used to conduct fast payments around the world with low fees, user privacy and a high transaction capacity.
+
+Momentum for Bitcoin Cash began pickup up at the beginning of April as the cryptocurrency market as a whole received increased attention from the mainstream media and financial markets. One theory suggests that new investors look for older coins with lower valuations as a starting point instead of chasing after Ether and Bitcoin, which may appear expensive to new crypto traders.
+
+With Bitcoin now back above $61,000 and its hash rate hitting a record high of 200 exahashes per second, the top cryptocurrency is out of reach for many smaller investors and miners who may be turning to BCH as a more feasible option.
+
+ETC/USDT
+
+Ethererum Classic emerged in 2016 as the result of a hard fork within the Ethereum community following the hack of a popular platform called The DAO. Initially, The DAO was an early decentralized autonomous organization intended to act as an investor-directed venture capital firm.
+
+Ethereum Classic is actually the original legacy chain of the Etherum network that didn’t take corrective measures to recover funds lost in the hack, an act take as a way of maintaining the ethos of finality.
+
+While Ethereum has gone on to become the widely adopted version of the network, Ethereum has continued on its own path and is once again gaining attention from the crypto community as high transaction costs and Ethereum's transition to a proof-of-stake consensus has lifted ETC to new highs as users look for compatible options.
+
+The hash rate of the Ethereum Classic network has steadily been climbing over the past six months alongside the rising price of ETC, helping to make the network more attractive to interested miners and increasing the overall security.
+
+With a higher price comes greater block rewards, which then creates a larger incentive for miners join network. This both increases network security and keeps honest miners happy to do so. pic.twitter.com/Kkob0nvqht — ETC Cooperative (@ETCCooperative) April 16, 2021
+
+As more participants enter the crypto market in search of good deals on established projects, legacy coins like BCH and ETC could possibly see further price growth.
+
+The views and opinions expressed here are solely those of the author and do not necessarily reflect the views of Cointelegraph. Every investment and trading move involves risk, and you should conduct your own research when making a decision.

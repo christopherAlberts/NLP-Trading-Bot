@@ -1,0 +1,19 @@
+What happened
+
+Bitcoin's price hit a new all-time high above $34,000 on Sunday before pulling back to roughly $31,200 as of 6:15 p.m. EST on Monday. That helped drive shares of MicroStrategy (NASDAQ:MSTR) and Grayscale Bitcoin Trust (OTC:GBTC) up 9.4% and 9.6%, respectively, from the prices they closed at on Friday.
+
+So what
+
+In August, MicroStrategy announced that it would use bitcoin as its primary treasury reserve asset. "This investment reflects our belief that bitcoin, as the world's most widely adopted cryptocurrency, is a dependable store of value and an attractive investment asset with more long-term appreciation potential than holding cash," CEO Michael Saylor said at the time.
+
+MicroStrategy has purchased more than $1 billion of bitcoin since then. Its 70,470 bitcoins are now worth approximately $2.2 billion.
+
+Grayscale Bitcoin Trust, meanwhile, is designed to act as a proxy for the price of bitcoin. It holds roughly 0.001 bitcoin for every one of its shares. So, theoretically, its share price, when multiplied by 1,000, should approximate the price of one bitcoin.
+
+However, Grayscale Bitcoin Trust typically trades at a premium to its underlying holdings, as many investors view it as a way to gain exposure to bitcoin without having to purchase, store, and secure the cryptocurrency directly.
+
+Now what
+
+Many investors are turning to bitcoin to protect their wealth from the ravages of inflation. Due partly to its capped supply -- slightly less than 21 million bitcoins will ever be created -- people have begun to view bitcoin as a type of digital gold. Gold, thanks to its scarcity, tends to perform well when central banks print large amounts of currency. Some investors believe bitcoin can serve a similar function.
+
+As governments around the world print their currencies at historically high rates in hopes of stimulating their economies, the price of bitcoin could continue to rise. MicroStrategy and Grayscale Bitcoin Trust could rise along with it.

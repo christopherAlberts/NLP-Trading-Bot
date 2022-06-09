@@ -1,0 +1,37 @@
+Law enforcement agencies in the United States have caught up with a cryptocurrency money launderer suspected of handling some $336 million over 10 years, in one of the biggest busts of its kind to happen to date.
+
+The alleged administrator of Bitcoin Fog was finally identified by the IRS, after following the trail left over a decade of transactions on the blockchain. Roman Sterlingov, the Russian-Swedish citizen suspected of being the administrator, was arrested in recent days, charged with his involvement in laundering some 1.2 million BTC over the period.
+
+According to the IRS, Sterlingov helped users blend their digital currency transactions with numerous others, making it difficult to trace any individual transaction through blockchain records. In exchange for commissions of 2-2.5%, thought to have amounted to approximately $8 million over the period, Sterlingov is alleged to have helped hide transactions at scale in the dark web economy.
+
+His cover was blown when authorities followed transactions made in 2011 in connection with setting up Bitcoin Fog’s server hosting, which apparently led the IRS straight to their suspected administrator.
+
+Jonathan Levin, cofounder of blockchain analysis company Chainalysis, was quoted by Wired saying the detection shows what’s possible from blockchain data when law enforcement have the tools to effectively analyze transactions.
+
+“This is yet another example of how investigators with the right tools can leverage the transparency of cryptocurrency to follow the flow of illicit funds.”
+
+As at press, Bitcoin Fog remains online, though it is unclear whether anyone is currently administering the service, with Sterlingov currently in custody.
+
+The Bitcoin Fog story began back in 2011 with a post on BitcoinTalk, advertising a service that “[mixes] up your bitcoins in our own pool with other users,” with the promise to “eliminate any chance of finding your payments and making it impossible to prove any connection between a deposit and a withdraw inside our service.”
+
+Some $78 million of the laundered funds are alleged to have come from dark web drugs marketplaces, such as Silk Road, Agora, and AlphaBay. An undercover IRS operation in 2019 found Bitcoin Fog willing to knowingly launder the proceeds of ecstasy transactions.
+
+Tracing his original 2011 transactions back to BTC purchased in euros via the now defunct Mt. Gox exchange, the IRS was able to follow the audit trail back to find home address and phone number details, which they then identified as corresponding to other digital currency accounts.
+
+Authorities then found a document on Sterlingov’s Google Drive documenting how to obscure payments in certain digital currencies—a process which Sterlingov was found to have followed to the letter in obscuring his own early transactions.
+
+The investigation is being hailed as a success for “follow the money” investigation techniques, which can span right back in time to early blockchain transactions.
+
+Sarah Meiklejohn, a computer scientist at University College of London described the result as “really significant” in demonstrating the power of blockchain analytics for investigating financial crimes.
+
+“With blockchain analytics the thing we say over and over is that all this activity is on this ledger forever, and if you did something bad 10 years ago you can be caught and arrested for it today. The fact that they’re pulling up those transactions is really significant.”
+
+Noting the confusion over why Bitcoin Fog continues to operate, Meiklejohn said law enforcement were known to have taken over sites in similar circumstances in the past.
+
+“At this point, for anyone who wants to mix their coins, you just have to assume that the service is compromised.”
+
+The arrest represents one of the highest profile of its kind to rely on blockchain data analysis, and over such an expansive timeframe.
+
+See also: CoinGeek Live presentation, Blockchain Intelligence: Analytics, Forensics & Compliance Tools for Bitcoin SV
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

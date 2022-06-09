@@ -1,0 +1,9 @@
+WASHINGTON — The Justice Department has recovered the majority of a multimillion-dollar ransom payment to hackers after a cyberattack that caused the operator of the nation’s largest fuel pipeline to halt its operations last month, officials said Monday.
+
+“The extortionists will never see this money,” said Stephanie Hinds, the acting U.S. attorney for the Northern District of California, where the seizure warrant was filed.
+
+The operation to recover the cryptocurrency from the Russia-based hacker group is the first undertaken by a specialized ransomware task force created by the Biden administration Justice Department, and reflects what U.S. officials say is an increasingly aggressive approach to deal with a ransomware threat that in the last month has targeted critical industries around the world.
+
+“By going after an entire ecosystem that fuels ransomware and digital currency, we will continue to use all of our tools and all of our resources to increase the costs and the consequences of ransomware attacks and other cyber-enabled attacks,” Deputy Attorney General Lisa Monaco said Monday at a news conference announcing the operation.
+
+Georgia-based Colonial Pipeline, which supplies roughly half the fuel consumed on the East Coast, temporarily shut down its operations on May 7 after a gang of criminal hackers known as DarkSide broke into its computer system.

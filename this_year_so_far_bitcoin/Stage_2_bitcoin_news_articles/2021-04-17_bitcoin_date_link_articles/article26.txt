@@ -1,0 +1,75 @@
+Bitcoin’s green haven is running out of surplus electricity
+
+The Nordic region is facing a renewable energy crunch as heavy industries and bitcoin miners compete for clean power
+
+By Ragnhildur Sigurdardottir, Lars Paulsson and Jesper Starn / Bloomberg
+
+
+
+
+
+The Nordic region is losing its edge in green bitcoin mining, just as the industry faces growing scrutiny for its carbon emissions and everyone from Tesla Inc chief executive officer Elon Musk to mom-and-pop investors pile in.
+
+Iceland, Sweden and Norway have been popular mining locations because of an abundance of geothermal, hydro and wind power. China, where most coins are mined, relies mainly on coal. That Nordic power surplus is set to dwindle as aluminum smelters, oil rigs and steelmakers thirst for renewable energy.
+
+“There could be very little excess energy in 2021 and 2022,” said Hordur Arnarson, chief executive officer at Landsvirkjun, Iceland’s national utility. “Because of the climate issues we see a lot of very interesting segments that are growing rapidly, and several of them need electricity.”
+
+A lighthouse and a geothermal power plant are pictured on the Reykjanes Peninsula, Iceland, on Feb. 28. Photo: AFP
+
+The coins are mined by computers that process complex algorithms in halls as big as airport hangars. That makes electricity one of the key inputs, consuming as much power as thousands of households — and it keeps growing. Bitcoin mining now uses 66 times more electricity than in 2015 and carbon emissions from the process might face increasing regulation, Citigroup Inc said in a report.
+
+Emissions from mining coins in China are expected to peak in 2024, releasing as much carbon dioxide into the atmosphere as all of Italy, according to a study published in Nature Communications.
+
+Iceland was the pioneer in green mining. Until four years ago, it hosted as much as 8 percent of global bitcoin production, the nation’s Blockchain foundation said, a figure that is now down to less than 2 percent.
+
+The University of Cambridge put the contribution even lower at 0.35 percent in April last year, the most recent data available. By comparison, China accounted for 65 percent.
+
+Growing concern about China’s cryptocurrency clout is fueling demand for mining locations elsewhere.
+
+O’Leary Funds Management LP chairman Kevin O’Leary earlier this month told CNBC that two kinds of bitcoin would emerge, “blood coin” from China and “clean coin” mined using sustainable hydroelectricity, where the provenance can be proven, and that he would opt for the green one.
+
+Iceland’s biggest electricity consumers are the giant smelters built decades ago to benefit from the cheap power.
+
+With aluminum prices surging, plants owned by Rio Tinto PLC and others would consume more electricity after a slowdown last year, Landsvirkjun said.
+
+It is unclear exactly how many cryptocurrency miners operate in the region. Hive Blockchain Technologies Ltd from Canada has expanded mining at home as well as in Iceland and Sweden this year. Hong Kong-listed Genesis Mining Ltd has facilities in Sweden and Iceland. Bitfury Holding BV has also been active on the volcanic island.
+
+None of them responded to questions about the region’s future role.
+
+Gisli Kr Katrinarson, chief commercial officer at AtNorth, Iceland’s biggest data center operator and home to some miners, said he does not see an energy shortage.
+
+As bitcoin sailed through US$60,000 for the first time this month, Daniel Fannar Jonsson, the chief executive officer at new mining company GreenBlocks, is bullish.
+
+He cited Iceland’s prominent history in the industry and said carbon-free power is still a big plus.
+
+Elsewhere in the Nordic region, new green and energy-intensive industries are to produce everything from carbon-free steel to hydrogen and ammonia.
+
+Their selling point is that they boost the economy by creating thousands of jobs while helping to reduce emissions. Bitcoin mining, on the other hand, offers little back to society.
+
+Bitcoin mining is problematic, as “it leads to an almost infinitely increasing energy demand,” said Espen Barth Eide, the Norwegian Labor party’s top energy lawmaker. “It will displace other far more productive industries.”
+
+Norway’s electrification program is to boost power demand 30 percent by 2040, according to grid manager Statnett SF.
+
+The country, known as Europe’s green battery because of its vast hydro resources, is poised to send more electricity to the continent through new cables, which would curb availability for new large users.
+
+The Nordic power surplus, excluding Iceland, is expected to shrink by 90 percent from 2023 to the end of the decade, industry consultant Volue Insights AS has said.
+
+New demand would mainly be for hydrogen production and data centers.
+
+While Iceland built a separate hydropower plant to allow for a new smelter in 2008, that courtesy would not extend to bitcoin miners, Arnarson said.
+
+“Nobody would build a power plant for bitcoin,” he said. “There’s a lot of uncertainty about the future development.”
+
+Cryptocurrencies emerged as an alternative investment in the past decade, but have famously whipsawed investors. A spectacular crash three years ago left it ice cold. It has been spurned by billionaire investors, including Warren Buffett, and loved by business mavericks such as Musk.
+
+It is on a tear again, having doubled in value this year.
+
+Goldman Sachs Group Inc and Morgan Stanley plan to offer their clients access to crypto-investments. Tesla earlier this year disclosed a US$1.5 billion investment in bitcoin and accepts it as payment for its electric vehicles.
+
+Back in Iceland, Johann Snorri Sigurbergsson, business development manager at the HS Orka power plant, said the nation was closer to an energy shortage than a glut.
+
+His company is busy adding capacity on the Reykanes Peninsula in the southwest.
+
+While he is open to eventually taking on more customers, right now the price would need to be “pretty high.”
+
+“We would need to buy some energy from the market to be able to serve them,” he said. “But that kind of business case is not the price the miners are looking for.”

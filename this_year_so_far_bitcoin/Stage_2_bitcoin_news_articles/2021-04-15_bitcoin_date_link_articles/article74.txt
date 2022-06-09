@@ -1,0 +1,11 @@
+US President Joe Biden's White House issued an executive order on Wednesday morning declaring a national emergency and expanding sanctions in response to Russian cyberattacks.
+
+The order issues wide-bore priorities for the Treasury to bar transactions in the US by anyone the Office of Foreign Asset Controls (OFAC) determines to have been involved in a range of activities, including working with the Russian tech sector or engaging in "actions or policies that undermine democratic processes or institutions in the United States or abroad."
+
+Concurrently, OFAC responded to the order by barring US institutions from buying Russian bonds or lending to the Russian Central Bank, Ministry of Finance, or National Wealth Fund. Alongside the announcement, the office added 28 crypto addresses — including BTC, ETH, LTC, BCH, DASH, ZEC and XVG — associated with the new additions to its sanctions list. In the past year, OFAC has sanctioned crypto addresses tied to alleged efforts to interfere in the 2016 presidential election.
+
+The order further targets anyone facilitating "deceptive or structured transactions or dealings to circumvent any United States sanctions, including through the use of digital currencies or assets or the use of physical assets." OFAC's past targets include the Internet Research Agency and Project Lakhta via crypto wallets.
+
+The terms of the order are broad. Included are the defense of territorial sovereignty of US allies, which comes as Russia has been building up troops levels on the Ukrainian border and the breakaway regions of Luhansk and Donetsk. Presidents Biden and Putin spoke on the phone earlier this week, and in its readout of that conversation, the White House emphasized its support for Ukrainian territorial sovereignty -- a theme absent in the Kremlin's official account.
+
+Recently, The Block reported on research that found the US defense industry heavily associating cryptocurrencies with sanctions evasion.

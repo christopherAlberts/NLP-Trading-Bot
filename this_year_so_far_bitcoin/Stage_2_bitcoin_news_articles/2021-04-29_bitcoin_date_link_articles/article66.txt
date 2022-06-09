@@ -1,0 +1,27 @@
+U.S.-based financial institution BNY Mellon, the world’s largest custodian bank and asset servicing company, states that the recent performance of one of its exchange-traded funds, or ETFs, was significantly impacted by its lack of exposure to companies investing in Bitcoin.
+
+The BNY Mellon Opportunistic Small Cap Fund (DSCVX) gained 35% from September 1, 2020, through February 28, 2021, underperforming its benchmark, the Russell 2000 Index — which produced roughly 41.7% over the same period.
+
+Filings with the U.S. Securities and Exchange Commission indicate the firm laments not purchasing shares in leading business intelligence firm MicroStrategy (MSTR) — which invested billions into Bitcoin last year, holdings that have since grown to more than $4.8 billion. The filings state:
+
+“Fund performance was hurt as well by a decision not to own MicroStrategy, whose stock surged when it announced it had invested in Bitcoin.”
+
+The document also notes that the fund’s position in gold mining company, Alamos Gold, “hampered performance as shares were hurt by weak gold prices.”
+
+According to ETF.com, 88 ETFs are currently exposed to MicroStrategy, including the sixth-strongest performing fund of 2021 so far, the Amplify Transformational Data Sharing ETF (BLOK) — which is heavily exposed to crypto firms and is the single-largest holder of MSTR by percentage allocation with 5.20% of its portfolio invested in Microstrategy.
+
+On average, U.S.-based ETFs have allocated 0.57% of their capital to MicroStrategy.
+
+Since announcing its first Bitcoin investment in August 2020, MicroStrategy has accumulated $2.2 billion worth of BTC — with the firm’s crypto stash having appreciated in value by 120%.
+
+Over the same period, the price of MSTR has skyrocketed by 385% from $135 to $655 at the time of writing. In early February, MSTR was trading at record highs above $1,270.
+
+MSTR/USD since August 2020: TradingView
+
+BNY’s small-cap ETF typically invests a minimum of 80% of its assets into the stocks of companies with a low market capitalization from the Russell 2000 Index. Some of the fund’s largest allocations include North American airline SkyWest, enterprise cloud provider Cloudera, and healthcare provider Acadia. Roughly 23% of its investments are in the industrial sector, 17.5% are in healthcare, 15.9% are in technology, and 14.2% are in financial services
+
+After opening 2020 trading at roughly 27.5%, DSCVX crashed as low as $16 during March as the economic impacts of the coronavirus became apparent globally. Since then, the fund has more than doubled in price to trade for more than $37.
+
+Despite regretting the lack of MSTR exposure of its Opportunistic Small Cap Fund, BNY Mellon is making significant investments in the crypto sector, leading the $133 million Series C funding round of institutional crypto custodian Fireblocks last month.
+
+In February, BNY Mellon also announced plans to offer Bitcoin custody services.

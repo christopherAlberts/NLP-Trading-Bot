@@ -1,0 +1,41 @@
+Bitcoin (CRYPTO:BTC) and Dogecoin (CRYPTO:DOGE) have both been hot investments over the past 12 months, surging 650% and 18,600%, respectively, at recent prices. Despite being built on similar technology, these cryptocurrencies have very different origin stories.
+
+Bitcoin was created by the pseudonymous Satoshi Nakamoto in 2009. The mysterious Nakamoto published a white paper detailing how Bitcoin could be used to build a new financial system -- one that reduced transaction costs by eliminating the need for financial institutions.
+
+By comparison, Dogecoin was created as a joke. In 2013, Adobe employee Jackson Palmer referenced the popular doge meme in a tweet: "Investing in Dogecoin, pretty sure it's the next big thing." At the time, Dogecoin didn't exist, and his comment simply poked fun at the growing hype surrounding Bitcoin. However, IBM software developer Billy Markus helped bring Palmer's joke to life.
+
+So, which of these red-hot cryptocurrencies is the better investment?
+
+Cryptocurrency is built on blockchain
+
+Despite being a joke, Dogecoin does have one redeeming quality: Like Bitcoin, it's built on blockchain, the peer-to-peer technology that powers cryptocurrencies.
+
+Blockchain is a distributed ledger that records every transaction on a network. Its genius is that it eliminates the need for a central authority to mint and manage a currency. Instead, the miners who make up the network are responsible for building and maintaining the blockchain. Think of them as auditors: As Dogecoin transactions occur, miners group those transactions into blocks and validate each block through an energy-intensive process known as proof of work. That term isn't used lightly -- it takes powerful hardware and significant computational effort to solve the cryptographic hashes (i.e. solutions) that validate each block of transactions.
+
+The process is noteworthy for two reasons:
+
+First, the sheer computing power needed for this process means it's virtually impossible to hack the blockchain. In fact, an individual would need to control 51% of the computing power on the network to successfully alter the ledger. In other words, blockchain is a secure way to store data.
+
+Second, when miners correctly solve a cryptographic puzzle and validate a block, they are rewarded with a certain amount of cryptocurrency. This incentive ensures that a wide network of miners processes transactions, eliminating the need for financial institutions to act as intermediaries. Ultimately, this means cryptocurrency transactions are subject to fewer fees.
+
+Here's the takeaway: Blockchain is a secure, decentralized database that could form the foundation of a more efficient financial system. That's one point in favor of both Bitcoin and Dogecoin.
+
+Dogecoin has a critical flaw
+
+Originally, Dogecoin had a hard limit of 100 billion tokens, similar to Bitcoin's cap of 21 million tokens. However, the developers changed their plans in 2014, eliminating the supply constraints. In other words, as long as miners continue to build the blockchain, more Dogecoin will continue to wink into existence.
+
+In fact, each time a block is verified, the miner receives a fixed reward of 10,000 Dogecoin tokens. Unless the code is rewritten, this will go on forever.
+
+That's a critical flaw. In economics, when demand is held constant, the price of an asset goes down as the supply goes up. And if the supply of an asset inflates to infinity, the price should theoretically drop to zero. Unless the code is rewritten to introduce scarcity, I believe that's where Dogecoin's price is headed. It may not be this year, or even this decade, but eventually the excess supply will overwhelm demand.
+
+By comparison, Bitcoin benefits from scarcity. That's because every 210,000 blocks, the reward paid out to miners is cut in half. This effectively limits the supply to 21 million tokens. In this case, the economics at work are similar to those that govern the price of gold. In other words, both Bitcoin and precious metals have value because they are rare and people want them.
+
+No one can say for certain whether Bitcoin is a good investment. But it certainly appears to be a better investment than Dogecoin.
+
+So why is Dogecoin up 18,600%?
+
+Much of the hype surrounding Dogecoin can likely be attributed to Elon Musk. The brilliant leader of Tesla and SpaceX has repeatedly tweeted on the topic. For instance, in April 2019, Musk said Dogecoin might be his favorite cryptocurrency. Earlier in 2021, Musk posted a picture of a fictional magazine titled Dogue, a pun based on the popular publication Vogue.
+
+However, a few days later, Musk explained his commentary during a chat on Clubhouse: "Occasionally I make jokes about Dogecoin, but they are really just meant to be jokes." Musk also noted that the cryptocurrency itself was created as a joke.
+
+As a final thought, consider this: If the developers of Dogecoin didn't take it seriously, there's no reason for anyone else to take it seriously, either. And with no limit on the number of tokens, Dogecoin is no more scarce than air. That's why investors should exercise great caution if they decide to dabble in this digital currency. Sure, some people have struck it rich, and other people may get rich on Dogecoin in the future. But someone usually wins the lottery every week, too -- and that doesn't mean you should sink your savings into lottery tickets.

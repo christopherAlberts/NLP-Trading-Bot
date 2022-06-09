@@ -1,0 +1,69 @@
+Bitcoin has suffered two straight days of selling, bringing the price close to below $31,000. Also, ether funding rates for leveraged positions are cooling after a very heated few weeks.
+
+Bitcoin (BTC) trading around $31,850 as of 21:00 UTC (4 p.m. ET). Slipping 8.9% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $31,006-$35,656 (CoinDesk 20)
+
+BTC slightly above the 10-hour moving averages but well below the 50-hour on the hourly chart, a sideways-to-bearish signal for market technicians.
+
+Bitcoin trading on Bitstamp since Jan. 18. Source: TradingView
+
+The price of bitcoin is in the second day of a major sell-off, with the world’s oldest cryptocurrency bottoming out Thursday around 14:30 UTC (9 a.m. ET) at $31,006, according to CoinDesk 20 data. Bitcoin has gained somewhat since then, changing hands at $31,850 as of press time.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Rupert Douglas, head of institutional sales at crypto custody provider Koine, said bitcoin’s drop this week comes after a month when fresh all-time highs were crossed several times. “It’s been quite a run,” Douglas told CoinDesk. “I think we’re due a pullback after the recent pump.”
+
+The current all-time high for bitcoin’s price, set on Jan. 8, is $41,962, according to CoinDesk 20 data. In the couple of weeks after that record – to Thursday’s low – bitcoin fell by over 26%.
+
+Bitcoin’s historical price over the past month. Source: CoinDesk 20
+
+Katie Stockton, technical analyst at Fairlead Strategies, continues to see support at $25,000 where she sees traders planning to scoop up some of the asset and push price back up.
+
+“Yes, bitcoin is extending its pullback,” Stockton said. “The $25,000 level would be a natural level for buyers to show interest.”
+
+Volatility for bitcoin has been rising. Data from Wednesday’s close shows bitcoin’s 30-day volatility is trending upward again. It was at 88.7% on Jan. 20, a level not seen since April 2020 when the coronavirus created uncertainty for all markets across the board, including cryptocurrencies.
+
+Bitcoin’s historical 30-day volatility the past year. Source: Shuai Hao/CoinDesk Research
+
+Stockton expects bitcoin’s gyrations to continue for a while. “My short-term overbought/oversold measures support another couple weeks of downside volatility, after which we would look for support discovery.”
+
+News stories are beginning to detail bearish signals in the crypto market, including one on the nominee for Treasury Secretary in the Biden administration, according to Jason Lau, chief operating officer for San Francisco-based exchange OKCoin. “Comments from Janet Yellen about curtailing crypto was another negative headline,” Lau told CoinDesk.
+
+In addition, Wednesday’s bitcoin volumes are shaping up to be the weakest they have been in the past month. Daily volume on the eight exchanges tracked on the CoinDesk 20 were at $860 million as of press time, a paltry showing compared to the past month’s $4.3 billion average.
+
+Bitcoin spot volumes on eight major exchanges the past month. (Shuai Hao/CoinDesk Research) Source: CryptoCompare
+
+OKCoin’s Lau is seeing a lot of selling in the market, with Asia particularly bearish, he told CoinDesk. Yet, institutional investors in the U.S. are still grabbing some bitcoin, which is a bright spot to consider.
+
+“Over the past few weeks we have seen a strong and consistent selling during Asian trading hours, while new capital from North America has constantly bought the dips during their trading hours,” Lau said. “Asian traders look to be taking profits with price increases, while American investors, mostly institutions, continue to engage in crypto markets and accumulate positions.”
+
+Ether swaps funding comes back to earth
+
+The second-largest cryptocurrency by market capitalization, ether (ETH), was down Thursday, trading around $1,206 and falling 9.6% in 24 hours as of 21:00 UTC (4:00 p.m. ET).
+
+After some ether perpetual swaps funding rates were coming in at lofty levels in January, including BitMEX offering a whopping 0.6%+ rate Jan. 4., the numbers are now converging towards zero on the spot price drop.
+
+Ether perpetual swaps funding on major leverage venues the past month. Source: Skew
+
+The funding rates are for liquidity providers to offer leverage to traders to go long or short. Thus when funding rates were high, it meant traders were paying a premium to go long. It’s much lower now.
+
+Vishal Shah, founder of derivatives exchange Alpha5, says ether’s previously incredibly high funding rates proves an all-time high of $1,439 per 1 ETH was the result of an overheated market. “I’ve only had a peripheral look, but I’d say the cost of leverage was simply too high,” Shah told CoinDesk.
+
+Other markets
+
+Digital assets on the CoinDesk 20 are almost all red Thursday. The notable winner as of 21:00 UTC (4:00 p.m. ET):
+
+Notable losers:
+
+Equities:
+
+Commodities:
+
+Oil was flat, in the green 0.09%. Price per barrel of West Texas Intermediate crude: $52.99.
+
+Gold was also flat, in the red 0.06% and at $1,870 as of press time.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield climbed Thursday to 1.102 and in the green 1.6%.

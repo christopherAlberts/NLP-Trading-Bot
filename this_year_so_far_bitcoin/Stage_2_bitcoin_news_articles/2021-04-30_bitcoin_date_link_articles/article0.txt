@@ -1,0 +1,37 @@
+When the price of bitcoin declines, it’s common to see the terms “crash” and “correction” used more or less interchangeably. However, the two words actually mean different things.
+
+Bitcoin crash
+
+A crash is widely regarded in traditional finance as an over-10% drop in price over the course of a single day.
+
+These are often fueled by impactful, sudden changes in the crypto market that cause panicked investors to exit en masse.
+
+While technical factors can have dramatic effects on bitcoin’s price, large crashes seem to be catalyzed more by fundamental circumstances such as macroeconomic events, major company announcements and sudden changes to international regulations and policies.
+
+The largest crash ever recorded on bitcoin’s chart took place on April 10, 2013, shortly after the U.S. Financial Crimes Enforcement Network (FinCEN) shut down crypto exchange Bitfloor and announced bitcoin exchanges needed to register as “money transmitters.” Bitcoin prices collapsed over 73.1% in 24 hours, according to Bistamp data, from a height of $259.34 to a low of $70.
+
+During more recent times, the infamous “Black Thursday” crash of March 12, 2020, takes the top spot as the biggest crash after prices fell 40%, from $7,969.90 to $4,776.59, following the World Health Organization’s declaring of the coronavirus a global pandemic.
+
+Correction
+
+A correction is characterized by a gradual decline where prices drop more than 10% over the course of several days.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+These usually indicate bullish traders have become exhausted and need time to consolidate and recover. Exhaustion occurs when a majority of buyers has bought the underlying asset and there are no more new buyers appearing to support the uptrend. If sell orders continue to pile in without anyone on the other side of the order book buying them, prices start to fall.
+
+Corrections can be influenced by minor events but tend to be initiated by technical factors such as buyers running into strong resistance levels, depleting trading volume and negative discrepancies between bitcoin’s price and indicators that measure its momentum like the Relative Strength Index (RSI).
+
+High volatility
+
+Bitcoin is known for being a highly volatile asset. This means its price tends to fluctuate significantly over a relatively short period of time compared to other assets. It’s also why many traditional financial investors, including Warren Buffett and Carl Icahn, consider it a highly risky investment.
+
+According to recent data, bitcoin’s one-year volatility stands at 32.7% – significantly higher than the next most volatile assets and asset classes, which are oil, U.S. stocks and U.S. real estate (18.8%, 8.41% and 7.15%, respectively.)
+
+While this high volatility has its upsides, particularly during bull cycles where prices can rise dramatically, it also means prices crash and correct on a frequent basis.
+
+Since Jan. 1, 2021, there have been seven notable price moves on bitcoin’s daily chart trading against the U.S. dollar. Four of these movements have been to the downside (red boxes) with a mean average loss of 25.94%, while the other three have been to the upside (blue boxes) with a mean average gain of 58.36%.
+
+BTC/USD chart Source: Tradingview
+
+Knowing which downtrends are corrections and which ones are crashes can help you to better understand the market and how bitcoin traders react to certain fundamental and technical factors. In some events, crashes can foreshadow the arrival of a bear market and a prolonged period of cascading prices, whereas corrections can often be a sign of a healthy uptrend recovering to a support level before retesting a former high.

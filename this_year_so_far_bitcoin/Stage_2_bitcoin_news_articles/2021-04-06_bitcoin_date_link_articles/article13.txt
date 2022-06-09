@@ -1,0 +1,25 @@
+Bitcoin-Pegged Token Crafted by Binance Swells, BTCB Now Commands $2.3 Billion Market Cap
+
+Over the last twelve months wrapped or synthetic bitcoin projects have swelled a great deal. The digital token called wrapped bitcoin, for example, has 141,503 WBTC in circulation today, but the token called the Bitcoin BEP 2 (BTCB) has gathered some steam. Currently, there are 39,719 BTCB out in the wild today as the bitcoin-pegged token now has a larger market valuation than HBTC (27,906).
+
+Binance-Backed BTCB Token Jumps to 39.7K in Circulation
+
+On April 6, Ki Young Ju the CEO of the onchain data web portal Cryptoquant tweeted about an interesting transaction he had caught onchain. “Binance just sent 26k BTC to [the] BTCB reserve address. BTCB is a Bitcoin-pegged token on the Binance chain. The current circulating supply of BTCB is 39,719 BTC, and it seems this [will] increase soon. It might be a bullish signal for BNB,” the Cryptoquant executive said.
+
+The token Bitcoin BEP 2 otherwise known as BTCB is a bitcoin-pegged token that is similar to competitors like WBTC, HBTC, RENBTC, SBTC, and more. Binance gave a comprehensive description of the BTCB project back in June 2019. The company said it was launching a pegged token for BTC but would also create pegged tokens for other leading cryptocurrencies.
+
+“The main benefit of offering crypto-pegged tokens is that, obviously, this makes available to Binance Dex traders the many coins that have their own blockchains and aren’t native on Binance Chain,” the company said at the time.
+
+Ethereum-Based Bitcoin-Pegged Tokens Tower Over the Competitors
+
+Now WBTC or the Wrapped Bitcoin project that leverages Bitgo as the BTC reserve custodian towers over the Binance BTCB reserve balance with 141,503 WBTC. However, Binance has quickly moved ahead of the pack with its 39k stash of BTC held in reserves.
+
+There is no doubt that Ethereum-centric projects like WBTC, BTCB, and others have cemented the chain’s role as BTC’s dominant sidechain. The RSK sidechain only has a circulating supply of 925 RBTC and Blockstream’s Liquid only has 2,884.67 LBTC in circulation.
+
+The BTCB tokens in circulation are 90% larger than RSK and Liquid’s reserves combined. While combining data from RSK, Liquid, the BTCB contract, and “bitcoin held on Ethereum” stats from Dune analytics shows there is 229,194 BTC floating around on alternative chains.
+
+What do you think about Binance pushing up the stash of BTCB reserves this week and the aggregate total of wrapped BTC in existence? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

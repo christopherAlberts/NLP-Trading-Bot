@@ -1,0 +1,11 @@
+Watch This Episode On YouTube
+
+Listen To This Episode:
+
+This week on the “Bitcoin Magazine Podcast,” host Christian Keroles sat down with Simon Lapscher, the CEO of Liquality wallet. Liquality is a very interesting wallet because it is focused on atomic swaps. In particular, it is focused on atomic swaps with Bitcoin.
+
+Liquality makes it possible for your bitcoin to swap into any other currency that they support, trustlessly. One of the key user groups of Liquality wallet is Bitcoiners looking to leverage the RSK blockchain. Liquality makes it easy, trustless and seamless to swap into RBTC on RSK.
+
+Lapscher stressed the importance of a wallet that makes Bitcoin’s native features accessible to users. The Liquality wallet is designed to make bitcoin and other digital assets/tokens interoperable and functional across the entire blockchain space. The goal is to make blockchain-based, trustless features easy and accessible for average users. This includes features that bitcoiners are really excited about, like using Lightning, CoinJoin, batch transactions, multisig and more.
+
+Liquality plans to roll out Liquid support and atomic swaps between BTC and L-BTC. This will make Liquality the one-stop shop for BTC native features as well as atomic swaps with the extended Bitcoin ecosystem.

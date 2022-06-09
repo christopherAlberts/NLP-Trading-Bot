@@ -1,0 +1,29 @@
+In what is a major development for the communities of both Bitcoin, the world’s largest cryptocurrency and Monero, the market’s leading privacy coin, COMIT Network, an open protocol facilitating “trustless” cross-blockchain applications has announced,
+
+“peer-to-peer atomic swaps between Monero (XMR) and Bitcoin (BTC) are now available on mainnet.”
+
+This release, version 0.7.0 of the XMR-BTC swap tool, is in accordance with the patch release on top of (version) 0.6.0 that defaults to mainnet when running a swap. The same has been expanded upon in-depth on Monero’s Reddit-based platform.
+
+Advantages
+
+According to COMIT, “the users now can trade XMR for BTC without any interruption from an intermediary or the trading counterparty, or even without using a regulated financial institution.”
+
+What about atomic swaps then?
+
+A detailed report was published as a part of the Monero Outreach newsletter to highlight the usefulness of the same. But, here’s a simple illustration,
+
+Few advantages that the same intend to solve include,
+
+Central exchanges are centralized and hence open to a host of attacks. Atomic swaps remove the need for having a 3rd party and make the trade as direct as possible
+
+Interoperability between the different assets is a huge problem right now in cryptocurrencies. Atomic swaps are going to bring users of all these different coins together to help them interact with each other
+
+Here, it’s worth noting that this isn’t the only Monero-related development to make news of late.
+
+The Farcaster project, for instance, raised 2727 XMR (worth $650,000 today) to build out a similar trustless atomic swaps implementation. Haveno, a Monero-focused fork of Bisq, is implementing atomic swaps for its XMR/BTC trading pair. Cross-chain bridges have also been announced for Secret Network and Thorchain, both of which will allow for easy trading with Ethereum and Binance Smart Chain tokens.
+
+What’s more, other popular Bitcoin and Monero wallets too joined this party such as Samourai Wallet and Monerujo.
+
+According to Justin Ehrenhofer, an organizer of Monero Space, the coin’s ongoing developments have had an impact on on-chain metrics too. He noted,
+
+“Limited trading venues despite surging retail user demand for private and fungible money have created a strong demand for these decentralized exchanges. There are more than double as many average daily Monero transactions as there were a year ago.”

@@ -1,0 +1,31 @@
+Virtual currencies are not only here to stay but are becoming an ever-increasing part of the U.S. financial system. The still-growing number of cryptocurrencies have an aggregate global market capitalization of over $2 trillion. Bitcoin, the oldest and most well known, currently has a global value of over $1.1 trillion alone. But as digital currencies expand, so too does the risk that they will be targeted by hostile nations and cyber criminals.
+
+According to a December 2020 survey by Cornerstone Advisors, more than 15% of U.S. consumers — 40 million people — own some form of cryptocurrency. And Bitcoin is increasingly embedding itself in the global economy. Recent stories have trumpeted Coinbase’s highly successful initial public offering, as well as investments of billions of dollars in Bitcoin by public companies such as Elon Musk’s Tesla and Microstrategy. An increasing number of major U.S. banks are investing in the Bitcoin boom. Morgan Stanley, JPMorgan Chase, BBVA, USAA, U.S. Bancorp and State Street all have recently announced the introduction of Bitcoin-related products, services, investments and ventures.
+
+But this may be a ticking time bomb due to growing concerns that the blockchain — the fundamental online transactional and ownership ledger for all bitcoin transactions — may be exposed to a potential catastrophic attack from new quantum computer technologies
+
+Such an attack could wreak havoc on the U.S. financial system and the economy. The question is whether the government, regulators and the financial services industry, including the growing crypto industry, will start now to take the necessary steps to prevent a future crypto 9/11.
+
+Picture such an attack compromising millions of ownership records and transactions, which would have catastrophic consequences for the nation’s markets, financial institutions, retirement funds and individual investors.
+
+It is a major article of faith among virtual currency proponents that the blockchain’s encryption code, which is based on computer URL algorithms, is extremely secure and impervious to hacking. This view, however, is now being questioned and experts have begun to raise red flags about the potential for a crypto cyberattack.
+
+As early as 2015, a Rand Corp. report on the national security implications of virtual currency observed that virtual currency could be severely degraded by a “determined and sophisticated cyber opponent.” At the World Economic Forum in 2019, FireEye, the global cybersecurity company, issued a report analyzing the security paradigms surrounding blockchain networks, noting that it has already observed attacks targeting blockchain technology.
+
+How would this happen? A recent article in a crypto industry publication reported that “Quantum computers could crack Bitcoin by 2022.” It cited experts who have concluded that powerful quantum “supercomputers” currently being developed could be used to crack the blockchain. Alphabet CEO Sundar Piachi has asserted that the block chain could be compromised by quantum computers in as little as the next two years. Alphabet’s subsidiary, Google, recently developed one of the world’s first commercial quantum computers.
+
+The implication is clear: Governments are developing computer systems that will have the capability to launch an attack. Some analysts were focused on when quantum computer will become commercially available. Anderson Chang, the CEO of the London-based cryptography company Post-Quantum, argued in a recent interview that that could come relatively soon.
+
+Blockchain leaders like Vitalik Buterin, the co-founder of Ethereum, a major cryptocurrency, are unfazed and believe that alternate computer solutions will be created to prevent such potential attacks. However, to date there appear to be no organized, much less successful, crypto industry efforts to produce the necessary technology to counter a quantum attack.
+
+The U.S. must begin to take this looming threat seriously and consider taking the following steps:
+
+1. Federal and state government financial services and law enforcement agencies must begin to coordinate and collaborate on crypto cyber threats. It is critical that federal and state financial services agencies begin to closely coordinate and collaborate on crypto issues and policies. The Financial Stability Oversight Council, somewhat moribund under the Trump administration, may be a good forum to start.
+
+2. All financial institutions should be required to share crypto cyber threats. Section 314(b) of the USA Patriot Act provides for the ability to share threat information but it does not require it. Most other federal cyber threat sharing laws are similarly voluntary and should be made mandatory.
+
+3. The U.S. intelligence community needs to implement a 21st- century cyber threat information sharing system with regulators and financial institutions. The Department of Homeland Security’s current Cyber Info Sharing Program is generally limited to sharing unclassified cyber threats with the financial services industry. Cyber, including crypto, threats should be considered national security threats and all significant cyber threat information should be shared on a real-time basis.
+
+4. Financial institutions should be required to disclose their crypto-related activities and threats. Both crypto-related activities and threats should be considered material and reported in regulatory reports and SEC filings.
+
+Once a major quantum attack on the blockchain occurs, we won’t be able to argue that the failure to prevent it was a failure of imagination. Experts are telling us in increasing numbers that the threat is real.

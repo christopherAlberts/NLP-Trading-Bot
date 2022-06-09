@@ -1,0 +1,31 @@
+DDoS Attackers Return With Massive Extortion Campaigns in the Wake of Bitcoin Prices Surging
+
+Threat actors have been finding opportunities in bitcoin’s bullish trend to increase their extortion campaigns. Hackers are actively threatening companies with DDoS attacks unless they pay for bitcoin ransoms.
+
+Bull Run Prices Push Extortionists to Increase Bitcoin Ransom Demands
+
+According to an alert issued by security firm Radware, there have been several reports between December 2020 and the first week of January 2021 about DDoS extortionists. The firm claims the campaign is part of a global one that started in August last year.
+
+However, in the wake of the crypto bull-run seen over the last months, the wave of ransom letters had sharply increased, coming from the same actors. Radware noted that most of the companies didn’t report such incidents to the media in August and September 2020.
+
+One of the first bitcoin ransom letters sent by the hackers reads as follow:
+
+We asked for 10 bitcoin to be paid at to avoid getting your whole network DDoSed. It’s a long time overdue and we did not receive payment. Why? What is wrong? Do you think you can mitigate our attacks? Do you think that it was a prank or that we will just give up? In any case, you are wrong.
+
+At the time of the first batch of letters sent by the threat actors, bitcoin was worth approximately $10,000. However, the security firm noticed in the latest round of ransom letters that hackers are aware of the BTC prices surging:
+
+We will be kind and will not increase your fee. Actually, since the bitcoin price went up for over 100% since the last time, we will temporarily decrease the fee to 5 [bitcoin]! Temporarily. Yes, pay us 5 [bitcoin] and we are gone!
+
+DDoS Extortion Is an ‘Integral Part’ of the Cyber Threat Landscape
+
+On the level of concern this kind of threats should represent for the companies, Radware made the following comment:
+
+Ransom DDoS or DDoS extortion campaigns have traditionally been a seasonal event. They would run annually for a few weeks targeting specific industries/companies before the threat actor(s) would typically give up. The 2020/2021 global ransom DDoS campaign represents a strategic shift from these tactics. DDoS extortion has now become an integral part of the threat landscape for organizations across nearly every industry since the middle of 2020.
+
+The crypto industry has also been affected directly by the cybercriminal sphere in the last few months. As news.Bitcoin.com reported on January 7, 2021, a security firm spotted three malicious crypto apps targeting users to steal their funds.
+
+What are your thoughts on the security alert about DDoS threats? Let us know in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

@@ -1,0 +1,69 @@
+From the Bahamas to Britain, the world's biggest banks are jumping on a bandwagon to issue digital cash in a bid to fend off emerging threats to traditional money and to make payments systems smoother.
+
+Worried by the spread of cryptocurrencies, central banks are researching and experimenting with digital currencies.
+
+Still unclear what central bank digital currencies (CBDCs) are? Here's all you need to know.
+
+What is a central digital bank currency?
+
+CBDCs are essentially electronic cash.
+
+Like traditional cash, they would give holders a direct claim on the central bank and allow businesses and individuals to make electronic payments and transfers.
+
+Access to central bank money beyond physical cash has so far been restricted to financial institutions like banks.
+
+Haven't we already been using digital cash?
+
+Using a debit or credit card, or payment app, to purchase coffees or make payments in shops is a form of digital money.
+
+But this is created by commercial banks, based on central bank money credited electronically to their accounts.
+
+The difference is this form of digital cash is not as "risk-free" as a CBDC.
+
+At commercial banks, you could lose your savings if a bank fails as governments usually only insure a certain amount.
+
+Why are central banks so interested?
+
+Firstly, central banks fear losing control over the supply of money and payments systems to cryptocurrencies, such as Bitcoin or even the planned Facebook-backed cryptocurrency Diem.
+
+The spread of forms of payment not overseen by any central or public body could weaken central banks' grip on the supply of money, and economic stability. The threat has grown even deeper as cryptocurrencies are increasingly embraced.
+
+The second reason is as we use less physical cash, a CBDC would ensure that the public has access to central bank money.
+
+They could also offer a new tool for central banks to transmit monetary policy and keep economies stable.
+
+Could they take on cryptos?
+
+CBDC's are unlikely to overtake cryptocurrencies due to their progressively limited supply, Anatoly Crachilov, co-founder and CEO of Nickel Digital Asset Management, told Reuters Global Markets Forum.
+
+"No central bank currency, however digital, can offer scarcity at this stage, as its supply can be inflated by a respective central bank issuing entity".
+
+What would a CBDC look like?
+
+A CBDC could take the form of a token saved on a mobile phone or a pre-paid card. It could also exist in an account directly managed by the central bank or an intermediary bank.
+
+There is nothing to say it should use a blockchain, the technology that powers cryptocurrencies.
+
+The People's Bank of China (PBOC), for instance, said its digital yuan would not rely on a blockchain while Sweden's e-krona, which is currently being tested, is based on a blockchain.
+
+Which countries are leading the way?
+
+China aims to become the first major central bank to issue a CBDC. Its work - part of a push to internationalise the yuan - is advanced. State banks are promoting the digital yuan ahead of a May 5 shopping festival.
+
+Western central banks are taking more time.
+
+The European Central Bank is exploring the launch within the next five years of a digital euro. The Bank of England has stepped up research into what has been dubbed "Britcoin" without making any firm commitments.
+
+The US Federal Reserve has said it will not rush any digital dollar. This year will, however, be important in getting the ball rolling, its chief Jerome Powell has said.
+
+Smaller central banks are also active. The Bahamas last year become the first nation to introduce a CBDC nationwide, and the Eastern Caribbean in April became the first currency union central bank to issue digital cash.
+
+What are the risks?
+
+During an economic crisis, people could rush to withdraw their money. But many CBDCs plan to counter this by putting a cap on holdings.
+
+Any mass migration to a CBDC could also deprive commercial banks of a cheap and stable source of funding.
+
+And commercial bankers in Sweden worry that the availability of mortgages or corporate loans would become dependent on the central bank's appetite for risk.
+
+Meanwhile, emerging economies dependent on foreign currencies such as the dollar, easy-to-use CBDCs could also hasten the decline of domestic sovereign currencies, eroding the influence of monetary policy and potentially destabilising local economies.

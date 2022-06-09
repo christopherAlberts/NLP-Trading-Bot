@@ -1,0 +1,23 @@
+Amid bitcoin‘s volatile price moves this week, a key indicator of market health known as the “Grayscale discount” showed improvement, data shows.
+
+Grayscale’s Bitcoin Trust (GBTC), the largest U.S. investment vehicle for buying bitcoin through a stock exchange, is trading at a 10% discount to its net asset value (NAV), narrower than a near 20% discount a week ago. The discount is the difference between the price of the underlying bitcoin asset and the value implied by the price of the trust’s shares.
+
+Some analysts expect the discount to eventually converge to NAV because the trust plans to convert to an exchange-traded fund. As CoinDesk reported on May 14, the set-up might offer an opportunity for retail traders to recapture the discount as profit while still booking any gains from the cryptocurrency itself. In other words, it might be a cheap way of gaining exposure to bitcoin.
+
+Now, an additional factor looms on the horizon that might help to further shrink the discount: the full expiration of lockup agreements that have trapped some investors in the investment vehicle.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+In recent years, accredited investors – usually big institutional players or wealthy individuals – could profit from buying into GBTC at the trust’s NAV. After a six-month lockup period, investors could then sell their shares for a profit in the open market and capture the additional premium. (Grayscale is owned by Digital Currency Group, of which CoinDesk is an independent subsidiary.)
+
+Last year, it was seen as a brilliant trade. But earlier this year – around March – the premium evaporated and flipped to a discount. New money flows into GBTC have dried up, and according to Grayscale, the trust has been closed to new investments since March 2 “for administrative reasons.”
+
+By the end of June, the six-month lockups should have mostly expired, which means that any of the previously trapped investors who wanted to exit their investments would have already had the chance to leave.
+
+“The unlock schedule should end by June and you won’t have many sellers beyond that point,” said Daniel Matuszewski, co-founder of CMS Holdings, a crypto investment firm, during an interview with CoinDesk.
+
+So the bet is the discount might narrow further once those sellers are no longer exerting downward pressure on GBTC shares.
+
+Chart was annotated by CoinDesk to show recent GBTC trading at a discount to NAV. Source: Skew
+
+Chart was annotated by CoinDesk to show a period of accumulation during the Q4 2020 BTC rally – these funds are scheduled to exit lockout period in June. GBTC is closed to new investments as of March 2. Source: Skew

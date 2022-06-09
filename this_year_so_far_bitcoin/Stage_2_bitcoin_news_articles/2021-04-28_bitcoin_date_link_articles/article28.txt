@@ -1,0 +1,21 @@
+The falling volume in CME bitcoin (BTC) futures in early March indicated the market was due for a correction, says a Forbes report.
+
+Recently, bitcoin reached a new all-time high just under $65,000 in light of Coinbase’s listing on the Nasdaq. However, the market failed to consolidate those gains, as the next week bitcoin fell below $50,000.
+
+According to a Forbes report, the spike bitcoin saw from Coinbase may have been a short-term anomaly. It says that open interest (OI) in bitcoin futures on CME had been declining since the beginning of March. This means that institutional interest may be temporarily waning, and a correction was inevitable, the report says.
+
+Institutions’ influence
+
+According to data from the report, hedge funds reduced their short positions by 4,800 BTC, which was equivalent to 10% of all BTC OI the week before. They also reduced their long positions by 1,990 BTC.
+
+Because these larger institutions provide a significant amount of liquidity on crypto exchanges, their actions are indicative of the market as a whole. As the report details, “their reduced appetite for buying or selling bitcoin forward reads like a strategic reduction in their collective bitcoin exposure.”
+
+The report points out that the daily volume on the crypto spot market, which is primarily retail, exceeds $100 billion. Although much smaller in daily volume, only $3billion to $4 billion, CME bitcoin futures activity is a barometer of “institutional risk-taking appetite.” Since larger institutions contributed significantly to bitcoin’s bull run last year, the figures offer a measure of current market sentiment.
+
+Near-term outlook
+
+Despite bitcoin prices rising back to $55,000, the report remains skeptical about its near-term prospects. It cites CME BTC futures market and technical analysis signals as negative indicators, until there is more renewed interest.
+
+“The net reduction in OI can be seen as institutions reducing bets until spot BTC price action brings in more participants,” the report summarizes.
+
+However, the report emphasizes that the futures market data doesn’t suggest long-term bearishness for bitcoin. It concludes with several signs that may reverse bitcoin’s prospects. The first is naturally bitcoin futures picking up volume again. Another is an increase in market participants, similar to what was seen last year. Finally, a last positive indicator would be bitcoin closing the week above $56,000.

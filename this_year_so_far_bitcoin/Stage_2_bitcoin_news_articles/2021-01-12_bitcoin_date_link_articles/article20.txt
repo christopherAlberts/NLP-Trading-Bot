@@ -1,0 +1,39 @@
+One of the oil mining industry's big challenges is finding a profitable way to handle the associated gases released during the mining process. The solution could lie in Bitcoin mining.
+
+Oil extraction and bitcoin (BTC) might seem like strange partners but BTC might hold the key to tackling one of the oil sector's big pollution problems. Oil extraction often produces associated gases as one of its byproducts.
+
+It is often not financially viable or practical for oil companies to sell this gas, so it is vented into the atmosphere, causing pollution. Bitcoin could provide a way to incentivise companies to process it on-site, helping to significantly reduce Scope 1 emissions.
+
+It is not always viable to process associated gases
+
+Associated gases are a common byproduct of oil production sites. IThe primary gas is methane (CH4) and although it can be processed into liquid natural gas (LNG), it often isn’t viable on many sites. Around 150 to 170 billion cubic metres of natural gases are flared or vented every year, this is about US$30.6 billion worth of LNG.
+
+To make matters worse, the issue of flaring has become a self-inflicted PR headache for the oil and gas sector in the USA. The Trump administration's decision to revoke rules surrounding methane gas leakage has shined a light on the sector and led to the French government blocking a US$7 billion deal between Engie and NextDecade. With Texas potentially leaking three times more methane than previously thought, this challenge is only going to become larger.
+
+Despite the fact that associated gases represent such a big financial and PR burden, oil extraction sites seem reluctant to do anything about it. This is largely because of two problems: lack of infrastructure and the price of LNG.
+
+Many sites lack the infrastructure to process natural gas
+
+Of the two problems, oil producers have the most control over infrastructure. Although it is true that many sites lack a direct connection to gas pipelines and other essential infrastructures, there are solutions. For example, in 2014 an MIT team was working on “low cost and low maintenance” methods to convert gas to liquid processing solutions. These would make it possible for production sites to process gas, rather than vent or flare it.
+
+A more recent solution is the cryobox. The solution can produce as much as 15 metric tons of LNG per day and can be easily moved between sites. This output is decidedly small-scale but it could provide a simple solution for oil producers looking to decrease their reliance on flaring or venting gas.
+
+In some cases, this infrastructure may not be enough and remote sites may still be forced to pick between flaring and venting. Although both are environmentally damaging, flaring is around 25 times less so. However, it still remains an economic loss for producers to simply burn natural gas and it is significantly better to process it into LNG. The problem is that sometimes, even where the infrastructure exists, the price of LNG makes it unviable.
+
+Demand for LNG Is rising but prices remain unpredictable
+
+Although natural gas production is continuing to increase, the market is already somewhat oversupplied. This, combined with the prevailing economic climate, has led to natural gas prices trending negative. This means that even sites with the correct infrastructure might not be financially attractive, or even viable, for those sites to process associated gases into LNG.
+
+This is where cryptocurrency and bitcoin could provide a solution. Although LNG prices have plummeted, bitcoin prices have recently cracked the US$30,000 barrier with little sign of slowing. Industry experts are also seeing institutional as well as individual investors committed to the crypto market.
+
+Bitcoin is dependent upon a process known as “mining.” This involves networks of computers solving complicated equations to process transactions. In exchange for their computing power, these miners are given bitcoin. This process is energy-intensive, which has caused much mining to move to China. But luckily for oil producers, there is a source of untapped energy literally being burned.
+
+Companies such as Denver-based Crusoe Energy Systems are already deploying mobile bitcoin mining solutions. The company has deployed around 20 data centres in oil fields in the USA as part of its Digital Flare Mitigation programme. The company also recently signed an agreement with Kraken Oil & Gas to deploy 18 more.
+
+The system uses EPA-certified emission control technology and catalytic converters to reduce flare and vent related emissions by up to 95%. At the same time, it allows oil producers to convert their associated gas productions into a highly profitable asset, which could have significantly higher long term payouts than LNG processing alone.
+
+Creative solutions incentivise good behaviour
+
+Although environmentalists are well-meaning when they ask for better controls, they often overlook the reality on the ground. If oil companies can’t make climate change mitigation profitable, or at least affordable, their operations will simply go bankrupt. This could have significant economic consequences in the long term and could also lead to abandoned sites.
+
+Instead, a focus on creative solutions to economically incentivise cleaner production processes will help us build towards a sustainable future for both the oil sector and our planet.

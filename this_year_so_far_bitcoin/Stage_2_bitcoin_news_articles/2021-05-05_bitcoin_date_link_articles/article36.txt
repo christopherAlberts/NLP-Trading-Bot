@@ -1,0 +1,3 @@
+CCA 202114020 addresses the tax consequences of bitcoin’s 2017 “hard fork,” which created bitcoin cash. Under the CCA, taxpayers who received bitcoin cash as a result of the hard fork had gross income when they had “dominion and control” over the bitcoin cash.
+
+The CCA clarifies Revenue Ruling 2019-24. Under that ruling, taxpayers had gross income as a result of a hypothetical hard fork followed by an “airdrop.” Some taxpayers wondered whether the ruling applied equally to non-airdrop events. In response, the CCA provides that “the specific means by which the new cryptocurrency is distributed or otherwise made available to a taxpayer following a hard fork does not affect the Revenue Ruling’s holding.”

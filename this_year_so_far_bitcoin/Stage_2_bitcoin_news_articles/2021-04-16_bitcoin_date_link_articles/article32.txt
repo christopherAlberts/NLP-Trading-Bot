@@ -1,0 +1,65 @@
+The asymmetric upside of bitcoin is tangential to bonds’ asymmetric downside as traditional treasury assets collapse.
+
+Mimesis Capital: Inside The Event Horizon, Report #14
+
+Bitcoin Versus Bonds: Asymmetric Assets
+
+Jack Bogle, the founder of Vanguard, popularized the idea of a “60-40 portfolio.” The 60-40 portfolio is the basic idea that passive investors looking to efficiently transfer wealth through time should diversify their assets into 60% stocks and 40% bonds.
+
+If bitcoin’s performance over the last decade tells you anything, it should scream that the 60-40 portfolio is dead.
+
+Yale’s endowment fund is a prime example of forward-thinking asset allocation. As of 2020, the endowment held only 6% of their portfolio in bonds, and they also began stacking bitcoin.
+
+What is the catalyst for this shift by “smart” money?
+
+Why Shift Out Of Bonds Into Bitcoin?
+
+First, bitcoin is the world’s hardest monetary good. It is the only asset with no counterparty risk and no dilution risk and is therefore “the world’s safest asset.”
+
+These two unique characteristics will eventually enable Bitcoin to store a near-infinite amount of wealth. This means that the upside of allocating capital (savings) into bitcoin is orders of magnitude higher than its current market price.
+
+Additionally, the maximum potential downside of using Bitcoin is -100%, meaning that it is only possible to lose what you put in.
+
+Asymmetry
+
+These unequal potential outcomes create a unique dynamic called asymmetry.
+
+The potential asymmetric return of Bitcoin becomes even more interesting because it is nearly inevitable in the long run, and total loss is nearly impossible.
+
+In contrast, traditional fiat-denominated debt held by investors as bonds and bank deposits has a similar asymmetric return, but to the downside.
+
+Unlike the case with bitcoin, the potential return of a 10-year US Treasury Note is only 1.63% annually. If you hold the 10-year note to maturity (a total of 10 years), you cannot earn more than that predetermined return (denominated in USD). At best, this would somewhat “retain” your purchasing power more than holding cash under your mattress.
+
+Nominally, the potential downside of storing wealth in bonds isn’t that bad (depending on to whom you lent the money). In real terms, holding bonds could be catastrophic: ou could be risking 100% of your real capital for a measly maximum 1.63% nominal return.
+
+Bitcoin Is Antifragile And Bonds Are Fragile
+
+Nassm Taleb popularized the idea that the opposite of fragile is not robust, but antifragile. Fragile systems break under stress, robust systems tend to remain fortified under stress, and antifragile systems become stronger under stress.
+
+Bitcoin can be viewed as the most antifragile asset in the modern financial system, whereas bonds may be viewed as the most fragile asset in the financial system.
+
+A fantastic example of this dichotomy is asset performance post-COVID. The global pandemic was a massive shock to the world that unleashed massive volatility, disrupted cash flows, and business insolvency.
+
+In the short term, in March 2020, Bitcoin appeared to be fragile, and Treasury bonds appeared to be antifragile. However, massive unprecedented economic shifts took time to play out once all rational economic actors responded. The pandemic and financial shock were inevitably met by massive amounts of fiscal spending and quantitative easing by governments and central banks worldwide.
+
+Since before COVID began, long-term treasury bonds (TLTs) are down by 1%, whereas Bitcoin is up by more than 677%.
+
+Although TLTs have dropped by 1% nominally, the situation is much worse in real terms. For example, TLTs are down by 85% denominated in Bitcoin.
+
+>$100-Trillion Global Bond Market
+
+As of August 2020, the total size of the global bond market was approximately $128.3 trillion, which is more than 100✕ the size of Bitcoin at $1.1 trillion.
+
+This massive size difference comes at the end of a 40-year bull market in bonds, meaning that rates have hit all-time lows and have nowhere to go except remain at extremely low levels, or slowly creep upward.
+
+For deeper insights on global debt cycles, I recommend “How The Economic Machine Works” by Ray Dalio and “The Conclusion of the Long-Term Debt Cycle and the Rise of Bitcoin” by Dylan Leclair.
+
+Bitcoin And Macro Backdrop
+
+In a world of extremely low bond yields and massive inflation driven by government and central bank fiscal and monetary policy, there is only one asset worth holding in size: bitcoin
+
+Bitcoin’s relative lack of adoption combined with its perfectly increasing scarcity made it the best-performing asset of the last decade, and it will likely be the best-performing asset of the next decade as well.
+
+TLDR: Drop everything and stack bitcoin, and if you don’t do that, at least drop bonds for it.
+
+This is a guest post by Mimesis Capital. Opinions expressed are entirely their own and do not necessarily reflect those of BTC, Inc. or Bitcoin Magazine.

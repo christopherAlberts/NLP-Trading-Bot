@@ -1,0 +1,25 @@
+The properties inherent to Bitcoin are deterministic, not probabilistic, and rely on the natural laws which make up our world.
+
+Everything in the (observable) universe is ultimately governed by the laws of physics. This includes everything from observable phenomena at the cellular and molecular level to what we can observe in the most distant of galaxies. At its most simplistic level, this centers around energy and energy as a state of matter, something that cannot be created or destroyed, only transferred between entities (first law of thermodynamics).
+
+One of the least thought of ways that energy is present in our world today, until the advent of proof-of-work in Bitcoin, is how the concept of energy applies to money. Despite this, monetary energy is arguably the single most important practical implementation of energy transfer in the world today because it’s the signal of all of the work that people individually and collectively output transferred from our physical selves into the world. As a practical example — to build a bridge, it takes work from the people that are building that bridge, as they are transferring energy in the form of physical labor to build that bridge and are expecting energy in return in the form of getting paid.
+
+The distinct problem that we have today is that the monetary energy in the world is fundamentally distorted to the point where the signal is completely broken. Central banks have routinely bailed out Cantillon insiders and distorted the real cost of capital through interest rate manipulation. This has caused all understanding of monetary value to be lost. Monetary energy can only function optimally in a totally free, uninhibited market. The further distorted the markets become, the less “real” signal the monetary energy produces, and therefore real productivity becomes more distorted from that signal.
+
+Practically what this means is that monetary energy can no longer be transferred across time in a reliable manner. Salability of energy is a key factor in not distorting the monetary energy because I need to know that my purchasing power is going to be worth relatively the same today as it will tomorrow. Otherwise, it will naturally force me up the risk curve to try to preserve my monetary energy.
+
+How do these ideas circle back to physics? As mentioned above, One of the key concepts of physics is thermodynamics. The third law of thermodynamics states that a system’s entropy naturally approaches a constant value as it approaches absolute zero, that is, the lowest limit of the thermodynamic scale. Randomness in systems tends toward the thing that can create order out of disorder. For monetary energy, this would mean seeking the highest signal out of the noise.
+
+Bitcoin combines the first and third law of thermodynamics. It is an entirely emergent system borne out of maximum disorder. This isn’t just theoretically true, it’s practically true, as evidenced by the state of the fiat world.
+
+Ultimately, Bitcoin will absorb the majority of the store of value energy on the planet because it has the hardest monetary properties. Salability, fungibility, censorship resistance, and proof-of -work. Proof-of-work being the most important of these, because it satisfies the first law of thermodynamics, and therefore guarantees that the third law of thermodynamics brings the majority of the monetary energy existent into the network.
+
+Bitcoin isn’t a perfect monetary system. It’s simply the best monetary system the world has ever seen. This is why, on a long enough time scale, the majority of the world’s monetary energy will be stored on the Bitcoin network. It’s simply the natural laws of the universe that make this inevitable.
+
+The short-term exchange rate will fluctuate, often dramatically, as the world assigns various probabilities to the ultimate accrual of monetary energy by the hardest monetary network ever created. But Bitcoin doesn’t work based on a probabilistic function, it works based on a deterministic one. The short-term exchange rate represents the discounting that the world’s population is collectively placing on the laws of thermodynamics playing out. However, anyone that understands these fundamental truths knows that the conclusion is built into the protocol and the emergent systems that develop around the protocol.
+
+While HODLers wait on the world to get caught up, they can rest easy knowing that Bitcoin succeeding isn’t a human question, it’s a question of energy transfer of entropy. And the laws that we know emerge from those guarantee its ultimate success.
+
+This is a guest post by Mind/Matter. Opinions expressed are entirely their own and do not necessarily reflect those of BTC Inc. or Bitcoin Magazine.
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.

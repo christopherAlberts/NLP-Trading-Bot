@@ -1,0 +1,7 @@
+According to Cambridge researchers, Bitcoin mining consumes around 0.55 percent of global electricity production and more energy than the annual consumption of Malaysia and Sweden, Highsnobiety reports.
+
+Cryptocurrencies which include Bitcoin are gaining popularity across the world and companies like Tesla and Paypal are now accepting the digital currency as a legit payment form. But because mining these digital coins currently consumes around 110 Terawatt Hours per year, it poses a massive environmental concern.
+
+Bitcoin “mining” is the process of earning Bitcoin through the use of computers which often results in thousands to tens of thousands of computers operating around the clock while being cooled. In an interview with CNBC, Bill Gates said that Bitcoin uses more electricity per transaction than any other method known to mankind.
+
+Because we are just at the start of acknowledging cryptocurrency, it is not likely that energy consumption will go down in the future unless people stop investing in the coins. Michel Rauchs, a researcher at The Cambridge Centre for Alternative Finance told the BBC, “It is really by design that Bitcoin consumes that much electricity. This is not something that will change in the future unless the Bitcoin price is going to significantly go down.”

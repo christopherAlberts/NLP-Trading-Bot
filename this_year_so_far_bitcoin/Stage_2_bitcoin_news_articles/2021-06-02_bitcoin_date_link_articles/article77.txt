@@ -1,0 +1,43 @@
+On Friday, May 28, the U.S. Securities and Exchange Commission announced civil securities fraud charges against five U.S. promoters of Bitconnect, an alleged fraud that operated along the lines of a pyramid scheme from roughly 2016 to 2018. Newer entrants to the cryptocurrency world might not recognize the name, but Bitconnect was a huge story and an important (negative) part of the evolution of crypto. The looming downfall of its proponents – including some who are still active in the cryptosphere today – has some important takeaways.
+
+What’s most striking is that the SEC has targeted five Bitconnect promoters, not the actual creator and mastermind of the scheme – allegedly an Indian man, who appears in the Friday charging documents but is not named or charged. That leads to a couple of important questions: First, do the charges assume that these promoters knew that Bitconnect was a scam? And if not, does the filing imply greater scrutiny of other people who regularly promote or endorse crypto projects – scam or not?
+
+David Z. Morris is CoinDesk's chief insights columnist.
+
+But first, a refresher. On paper, Bitconnect was a “lending platform”: You sent them bitcoin, and Bitconnect promised to use that Bitcoin with their “trading bot and volatility software.” This bot, Bitconnect claimed, could produce immense returns whether Bitcoin went up or down – as much as 40% returns per month, according to promotional materials. These “returns” were tracked only on Bitconnect’s website, and were paid out in the Bitconnect token rather than BTC. Even then, actually withdrawing funds from Bitconnect was a laborious and eventually impossible process involving multiple conversions and long waits.
+
+Even for relative financial novices, there should be multiple red flags here. First and foremost, 40% monthly returns compound to a roughly 3,900% annual return on your investment, a rate that would turn just $100 into $4,050 within a year. This certainly qualifies as a promise of “outsized returns,” which the SEC lists as a common theme of crypto frauds. (Crypto or not, be skeptical of any investment offering more than 10% or 20% annual returns without a clear sense of the risk you’re taking for those rewards.)
+
+The premise of a “trading bot” is just as suspect. To even theoretically profit from volatility during a bear market, a bot would have to be able to short, or bet against, bitcoin at very high speed. That may have been possible to some degree (BitMEX had already launched bitcoin short options) but would have been a huge technical and infrastructure challenge. More importantly, even the best high frequency trading strategies on Wall Street – the grown-up term for a “volatility bot” – are high-volume, low-margin operations, and even the highest performers in their best years return roughly 60-70%% annually.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Of course, Bitconnect’s target audience was people who didn’t know or understand these basics – small time retail “investors,” not just in the U.S. but in places like India and Africa where financial literacy is even lower.
+
+The scale of the fraud was huge, taking in approximately $2 billion from would-be investors, according to the SEC. That success came largely because Bitconnect mimicked the multi-level marketing (MLM) strategies of companies like Avon and Herbalife. Most countries had a “National Promoter” and numerous “Regional Promoters” who arranged local events and promotional talks.
+
+They also, particularly in the United States, produced immense amounts of social media content promoting Bitconnect, and including affiliate codes that helped promoters earn immense referral fees. According to Friday’s charges, Michael Noble, a.k.a Michael Crypto, was paid $731,281 for allegedly recruiting 1,000 investors. These numbers weren’t publicly known at the time, but they’re high enough to constitute another major sign of fraud.
+
+(The MLM model was also used during the same period by OneCoin, a similar though even cruder pyramid scheme that is believed to have taken in as much as $4 billion worldwide.)
+
+The other defendants include Craig Grant, Ryan Maasen and Trevon Brown, aka Trevon James, all accused of acting as regional Bitconnect promoters in the U.S. In addition, Joshua Jeppesen was allegedly a “continental promoter” who oversaw regional and national promoters, according to the SEC.
+
+The wheels of justice grind exceedingly slow, but they grind exceedingly fine.
+
+Trevon James may be the most widely known of those accused. He was a massive YouTube and social media presence during the scam’s heyday, and remarkably open in the aftermath of its collapse. (He even tweeted about the charges last week.) James’ most infamous moment was likely his confused declaration, “You didn’t lose your money! Now, you have your … technically, you kind of lost your money.”
+
+What’s really significant about James being named in the lawsuit is he, at the very least, did a great impression of being an honest enthusiast of Bitconnect, and there’s no allegation he played a role in creating the scheme. For those who comment or make videos about crypto projects, this might create some anxiety about legal risks. If you endorse something that winds up being a scam, are you at risk of SEC attention?
+
+First and foremost, the best way to stay safe is to not take undisclosed payments in exchange for promotion. According to the SEC, the four regional promoters (Brown/James, Grand, Maasen and Noble) made between $475,000 and $1.3 million each for their promotional work. Jeppesen, the “continental promoter,” allegedly took home over $2.6 million. The SEC says that put them afoul of “touting” laws, which I wrote about last week after Soulja Boy inadvertently revealed he was being paid to promote SaferMars. The second set of charges focused on the lower-level promoters is that none were registered broker/dealers, even though they received payment based on how many people they helped buy positions in Bitconnect.
+
+But the most interesting and enlightening element of the SEC’s charges are that a completely different charge is reserved for Jeppesen, whom the SEC accuses of “aiding and abetting” securities violations. An accusation of aiding and abetting, even in a civil context, involves an assessment of the defendant’s “state of mind,” Anderson Kill crypto and securities lawyer Stephen Palley told CoinDesk. That includes whether the person actually knew he or she was promoting a fraud.
+
+Though I didn’t see anything clearly spelled out in the charging documents, this might indicate the SEC has evidence Jeppesen knew that Bitconnect was a scam all along but promoted it anyway. That the other four defendants are not being charged with aiding and abetting, by contrast, may indicate the SEC doesn’t have evidence they were in on the fraud.
+
+That’s a very important lesson for those in the cryptosphere: Even if you don’t know something is a fraud, you can be vulnerable to legal action if you get paid to promote it. (Theoretically, you could face action for undisclosed promotion of even an honest project, but the SEC is mostly focused on frauds.)
+
+In multi-level marketing (MLM) schemes in particular, the line between a victim and a perpetrator is often fuzzy – someone who really believes in a fake or scam project can enthusiastically sell it to friends and family while also ultimately getting ripped off. Some of the biggest promoters of OneCoin were themselves true believers and lost immense amounts of money when it folded.
+
+A seemingly important signal of the state of mind of the Bitconnect defendants would have been whether, and how much, the promoters themselves invested in Bitconnect, but there’s no information about that in the charges. It’s also notable two other high-profile U.S. Bitconnect promoters, Craig Grant and “Crypto Nick,” were not charged. That may mean the SEC determined they were victims as much as perpetrators.
+
+But it may also mean they’re next in line and will be separately charged later, and that’s the final important takeaway: Just because a few years pass doesn’t mean financial fraudsters have gotten away scot-free. Bitconnect collapsed in January 2018, nearly three and a half years ago, an eternity in crypto time but not terribly long by SEC standards.

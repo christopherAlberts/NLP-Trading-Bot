@@ -1,0 +1,47 @@
+Get daily crypto briefings and weekly Bitcoin market reports delivered right to your inbox.
+
+Key Takeaways The total crypto market capitalization fell from $2.15 trillion to a three-week low of $1.78 trillion within a few hours on Apr. 17.
+
+The sudden downswing caught many overleveraged traders off guard, causing roughly $9 billion in liquidations.
+
+Most liquidations occurred on Binance, while FTX and Bitfinex proved to be some of the safest exchanges to trade on.
+
+Share this article
+
+Many investors have been shaken out of their positions after the crypto market crashed by more than 17% on Apr. 17. Data shows that Binance accounts for most of the losses incurred.
+
+Over $4.4 Billion Liquidated On Binance
+
+
+
+This week, the market experienced one of the most severe flash crashes that it has seen since the beginning of the year. The incident responsible was a coal and gas accident in Xinjiang, China, which caused a power outage and forced Bitcoin miners to shut down.
+
+After the Bitcoin mining hashrate fell by half, cryptocurrency prices reacted quickly. The total crypto market capitalization fell from $2.15 trillion to a three-week low of $1.78 trillion within a few hours, which caught many overleveraged traders off guard. The sudden downswing triggered a cascade of automatic sell-offs in a chain reaction that resulted in roughly $9 billion in liquidations.
+
+Data from Bybt shows that $4.43 billion worth of long and short positions were liquidated on Binance alone.
+
+Liquidations on Binance occur when initial collateral and realized/unrealized profits/losses are lower than the maintenance margin. In this case, all open orders are immediately canceled.
+
+Binance uses a protocol referred to as “Smart Liquidation” to avoid complete liquidation of the user’s position whenever possible. But temporary difficulties emerged during the recent crash, resulting in massive losses despite those policies.
+
+Other Liquidation Policies
+
+According to market data provider The TIE, issues on Binance are common during periods of high volatility. By contrast, FTX and Bitfinex have proved to be some of the most “unlevered and safest exchanges to trade on” thanks to their liquidation policies.
+
+Sam Bankman-Fried, CTO at FTX, affirmed that traders on his platform “survived” the flash crash. The exchange significantly reduces the likelihood of clawbacks by using a three-tiered liquidation mechanism.
+
+“We send reasonable, volume-limited liquidation orders to close down positions that drop below the maintenance margin. We don’t sell so quickly that the liquidation orders themselves will crash the market; that would be dooming the entire process. We also don’t give up if the price looks ‘bad’ — it might only get worse from there and you have to do the best you can liquidating an account rather than hoping things magically reverse,” said Bankman-Fried.
+
+Because FTX managed to withstand issues during the crash, it now accounts for more than 10% of the global cryptocurrency trading volume. Developers are also working on increasing throughput and decreasing latency to avoid any downtime, added Bankman-Fried.
+
+A Lesson for Traders?
+
+Given the current state of the bullish cycle, the recent flash crash could serve as a lesson for overleveraged traders.
+
+High periods of volatility are usually followed by issues in trading platforms caused by a spike in the number of visitors. An exchange’s inability to handle high traffic while prices are plummeting can prevent any trader from cutting his or her losses short.
+
+Therefore, implementing a robust risk management strategy is a must in order to keep profits and reduce losses.
+
+Disclosure: At the time of writing, this author owned Bitcoin and Ethereum.
+
+Share this article

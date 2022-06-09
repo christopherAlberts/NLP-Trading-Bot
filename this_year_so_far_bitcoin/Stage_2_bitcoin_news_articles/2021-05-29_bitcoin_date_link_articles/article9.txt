@@ -1,0 +1,131 @@
+Coming every Saturday, Hodler’s Digest will help you track every single important news story that happened this week. The best (and worst) quotes, adoption and regulation highlights, leading coins, predictions and much more — a week on Cointelegraph in one link.
+
+Top Stories This Week
+
+Bearish signals grow as Bitcoin price drops to $35,000 and traders ignore the dip
+
+Bitcoin is struggling right now. The cryptocurrency has struggled to keep its head above $40,000 this week as traders react negatively to twin threats of environmental concerns and the growing drumbeat of regulation.
+
+We’ve seen a lot of downside moves across the market over the past two weeks. Although most institutional investors have held firm and vowed to continue holding onto their crypto, there’s been a lack of “we bought the dip” announcements. All of this has left retail traders worrying that BTC could suffer further declines.
+
+The Crypto Fear and Greed Index is currently flashing a score of 18, indicating that Extreme Fear is currently paralyzing the market.
+
+Bitcoin can still drop to $20,000 but holding remains winning strategy, data shows
+
+Yes, there are some rather dire warnings out there, but Bitcoin’s 11-year history does help offer an insight into how the world’s biggest cryptocurrency fares when things turn bearish.
+
+The BTC/USD exchange rate typically rises parabolically. It later trims more than half of those gains down as profitable traders sell the top. But, at the same time, traders who buy Bitcoin around its local top suffer longer periods of losses.
+
+Overall, the historic price trajectory of Bitcoin remains skewed to the upside. The cryptocurrency bottoms out after every bullish-to-bearish cycle and rebounds all over again to seek new all-time highs.
+
+PlanB, the creator of the stock-to-flow model that predicts BTC will hit $288,000 by 2024, recently delivered this powerful fact: Not a single investor who has held Bitcoin for more than four years has ever suffered losses.
+
+Shutting down Bitcoin is impossible, Ark Investment founder says
+
+With China imposing a crypto crackdown, the Biden administration reviewing “gaps” in the regulation of digital assets, Iran banning BTC mining until September to preserve electricity, and Australia warning that traders who don’t report crypto profits will face consequences, regulation is certainly stepping up a gear.
+
+But when it comes to whether Bitcoin itself is in danger of being shut down, Ark Investment founder Cathie Wood believes this would be “impossible.”
+
+At CoinDesk’s Consensus 2021 conference, she predicted global regulators “will be a little more friendly over time” toward cryptocurrencies due to the fear of missing out on opportunities provided by the industry.
+
+With miners now willing to prioritize renewable sources of energy for BTC mining, Wood said: “Half of the solution is understanding the problem.”
+
+Michael Saylor says Bitcoin Mining Council required to combat “hostile” narrative
+
+According to MicroStrategy CEO Michael Saylor, part of this quest to understand the problem involves the creation of the Bitcoin Mining Council.
+
+This organization, announced on May 25, was formed following a successful meeting between Elon Musk and a number of top North American mining firms.
+
+During the Consensus 2021 conference, Saylor said: “It turns out that Bitcoin miners don't actually have a good forum for communicating how they generate their energy. We don't have a standard model for Bitcoin energy usage right now, and we don't have a future forecast model that we commonly use.”
+
+Castle Island Ventures’ Nic Carter certainly is a fan of making things more transparent, but he believes Elon Musk isn’t the right person to lead this debate.
+
+He explained: “Bitcoiners are still intensely skeptical of Musk, and they view him as conflicted, given that his business partially involves the sale of offsets.”
+
+PayPal users will be able to withdraw crypto to external wallets
+
+There were some promising developments on the adoption front this week. PayPal announced that it will allow users to withdraw digital assets to third-party wallets.
+
+Meanwhile, Apple has revealed that it is looking for a new business development manager who specializes in alternative payments, including cryptocurrency — signaling that the iPhone manufacturer is gravitating toward digital assets.
+
+While the job posting is compelling, Apple remains largely on the sidelines of the cryptocurrency industry and has yet to signal definitive plans for expanding into this market. Interestingly, cryptocurrency exchange Coinbase recently overtook TikTok as the most downloaded app on Apple's App Store.
+
+Winners and Losers
+
+At the end of the week, Bitcoin is at $36,514.09, Ether at $2,515.33 and XRP at $0.90. The total market cap is at $1,589,854,165,444.
+
+Among the biggest 100 cryptocurrencies, the top three altcoin gainers of the week are Helium, BakeryToken and Polygon. The top three altcoin losers of the week are Waves, Solana and UNUS SED LEO.
+
+For more info on crypto prices, make sure to read Cointelegraph’s market analysis.
+
+Most Memorable Quotations
+
+“I believe Bitcoin has a long way to fall from here. I think it will slowly grind down the slope of hope with a periodic dead cat bounce. Bitcoin's technicals are severely damaged, it is better to be the first one to sell into the bubble before the whole ship sinks.”
+
+BiotechValley Insights
+
+“It turns out that Bitcoin miners don't actually have a good forum for communicating how they generate their energy. We don't have a standard model for Bitcoin energy usage right now, and we don't have a future forecast model that we commonly use.”
+
+Michael Saylor, MicroStrategy CEO
+
+“Spoke with North American Bitcoin miners. They committed to publish current & planned renewable usage & to ask miners WW to do so. Potentially promising.”
+
+Elon Musk, Tesla CEO
+
+“No-coiners are taking this opportunity to buy the dip.”
+
+Willy Woo, statistician
+
+Prediction of the Week
+
+Bitcoin price volatility hits 2021 high as one analyst paints $15,000 target
+
+BTC’s 30-day volatility is at a yearly high, suggesting that the flagship cryptocurrency remains at risk of wild price fluctuations in the sessions ahead.
+
+Things are even crazier when it comes to Ether. Data from Skew suggests ETH/USD’s realized volatility on a 30-day timeframe is now near 2017 highs.
+
+One dire prediction this week came from an analyst at BiotechValley Insights, who said: “I believe Bitcoin has a long way to fall from here. I think it will slowly grind down the slope of hope with a periodic dead cat bounce.”
+
+Their current price target? $15,000 to $16,000.
+
+FUD of the Week
+
+SEC charges five for illegally prompting $2 billion Bitconnect Ponzi
+
+Three years and some unforgettable memes later, the United States Securities and Exchange Commission has announced that five individuals will face charges relating to promoting the Bitconnect Ponzi scheme.
+
+The promoters are accused of offering and selling securities without registering with the offering with the SEC and validating themselves as broker-dealers — in violation of the law.
+
+They also allegedly “advertised the merits of investing in BitConnect's lending program to prospective investors, including by creating ‘testimonial’ style videos and publishing them on YouTube, sometimes multiple times a day.”
+
+The SEC’s Lara Shalov Mehraban said: “We will seek to hold accountable those who illegally profit by capitalizing on the public's interest in digital assets.”
+
+U.K. regulator bans crypto exchange’s ‘time to buy’ Bitcoin advert
+
+Britain’s advertising regulator has banned an ad campaign that told people “it’s time to buy” Bitcoin.
+
+Luno’s posters had caused quite a splash earlier this year, and were plastered across the London Underground transit network and on buses. One ad said: “If you’re seeing Bitcoin on the Underground, it’s time to buy.”
+
+However, the Advertising Standards Authority concluded that the campaign failed to illustrate the risk of investing in BTC. It said: “We considered that consumers would interpret the statement ‘it’s time to buy’ as a call to action and that the simplicity of the statement gave the impression that Bitcoin investment was straightforward and accessible.”
+
+Future adverts will need to carry a proper risk warning.
+
+China to socially blacklist Bitcoin miners in Inner Mongolia region
+
+New penalties are introduced to try and deter people from mining Bitcoin in Inner Mongolia.
+
+Reports suggest offenders will now be placed on a social credit blacklist — something that would stop them from being able to access loans or even use the local transport network.
+
+The new rules make particular mention of data centers, industrial parks, telecoms companies, internet firms and even cybercafes, noting that any such offenders found operating mining equipment would have their business license revoked, could be removed from the local electricity trading scheme, and could even have their businesses shut down entirely.
+
+China’s determination to rid itself of Bitcoin miners has already had a knock-on effect. Three mining companies — BTC.TOP, Huobi and HashCow — announced they were closing down their operations in the Chinese mainland earlier this week.
+
+Best Cointelegraph Features
+
+Carbon-neutral Bitcoin funds gain traction as investors seek greener crypto
+
+Steps are being taken to ensure green Bitcoin options for investors, but this may only serve as a short-term solution to a long-term problem.
+
+For the long haul? When Bitcoin nosedived, institutions held fast
+
+Institutional investors know crypto assets are volatile: “They’re making a generational bet and are not deterred by a few weeks of volatility.”

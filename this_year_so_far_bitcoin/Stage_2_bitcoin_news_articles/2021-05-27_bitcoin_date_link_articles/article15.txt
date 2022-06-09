@@ -1,0 +1,31 @@
+The bitcoin options market is on track to record a modest monthly options expiry in the wake of the recent price crash – mainly because the cryptocurrency’s price is so much lower. But there’s still speculation some traders might try to use the moment to push prices as high as $50,000 to increase their payoff or minimize any payouts.
+
+The May expiry, expected early Friday, would have been much bigger had it not been for bitcoin’s recent drop from $58,000 to $30,000, which pricked the speculative bubble in the market.
+
+Major exchanges are due to settle 55,900 contracts worth $2.2 billion on Friday, based on data from the provider Skew. That makes the upcoming May expiry the smallest of 2021 in terms of nominal value.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Almost all the options contracts will expire at 8:00 coordinated universal time (4 a.m. ET) – the designated time on Deribit, which is the dominant exchange for cryptocurrency options.
+
+Open interest across all expiries – the total value of outstanding positions – nearly halved to $6.5 billion in the two weeks to May 23 and was last seen at just over $7 billion.
+
+Settlement of monthly option contracts has gained relevance this year, with the “max pain point” – the strike price at which the most open options contracts expire worthless – serving as an overhang in the run-up to expiration (last Friday of the month).
+
+For example, bitcoin fell from nearly $60,000 to $50,000 in the six days leading up to the March 26 expiry, narrowing the gap between spot prices and the then-max pain point of $40,000. And the cryptocurrency bounced by $4,000 to $54,000, reaching the max pain point ahead of the April expiry.
+
+The idea is that the max pain point acts as a magnet for spot prices while heading into expiration. That’s because option sellers, mostly institutions, sometimes try to push prices closer to the max pain point to inflict maximum loss on options buyers.
+
+Bitcoin: open interest as per expiration Source: Skew
+
+The max pain point for Friday’s expiry is $50,000 – more than 25% above the current price of $39,500. Some investors are betting that the max pain effect will kick in ahead of the settlement, pushing prices toward $50,000, as tweeted by Swiss-based options analytics platform Laevitas.
+
+While historical data supports the case for a pre-expiry rally, the size of the impending settlement is relatively small compared to previous expirations. For example, a record $6 billion worth of contracts expired at the end of March, while exchanges settled more than $4 billion of options earlier on April 30.
+
+Thus, the max pain effect may not have big influence on the market ahead of Friday’s settlement. However, other factors such as the renewed outflows from crypto exchanges may help the battered cryptocurrency gain some ground.
+
+While nominal value has declined with the price drop, the number of contacts open on Deribit has remained mostly stable in the aftermath of the price crash.
+
+The resilience could be attributed to increased option selling in the wake of the recent spike in implied volatility. Some Asia-based family offices and ultra-high-net-worth individuals sold put options earlier this week.
+
+Also read: Bitcoin Outflow From Exchanges Suggests Confidence Crypto Rout Is Over

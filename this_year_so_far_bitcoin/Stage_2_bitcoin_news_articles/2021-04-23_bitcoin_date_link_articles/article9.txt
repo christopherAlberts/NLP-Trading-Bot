@@ -1,0 +1,75 @@
+The value of the cryptocurrency market declined by hundreds of billions of dollars Friday but seems to be recovering at the close of the business week.
+
+Bitcoin (BTC) trading around $50,993 as of 21:00 UTC (4 p.m. ET). Slipping 3.7% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $47,875-$52,557 (CoinDesk 20)
+
+BTC above the 10-hour but below 50-hour moving average on the hourly chart, a sideways signal for market technicians.
+
+Bitcoin’s hourly price chart on the Bitstamp exchange since April 20. Source: TradingView
+
+The price of bitcoin fell over the past 24 hours, with the asset dipping as low as $47,875 around 09:00 GMT (4 a.m. ET) according to CoinDesk 20 data. The price is now retrenching from the loss, at around $50,993 as of press time.
+
+Analysts pointed to U.S. President Joe Biden’s proposal to double capital gains taxes on high-income individuals as the catalyst.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+“My take right now is that the Joe Biden tax has something to do with it. Sellers probably jammed the market, and bids disappeared,” said Consantine Kogan, partner at investment firm Wave Financial. “U.S. participants are just a portion of the market but probably the wealthiest, both corporate and retail.”
+
+“Bitcoin broke the $50,000 support, going back to early March price levels with a drawdown of 25%,” noted Elie Le Rest, partner at quantitative trading firm ExoAlpha. “Holding ground at $50,000 would confirm the accumulation pattern by institutional investors at or below $50,000, leaving room to grow for bitcoin in the coming weeks and months.”
+
+Bitcoin had been in the doldrums for most of the week while alternative cryptocurrencies shined as recently as Thursday. But no asset was completely spared during the recent fall.
+
+Total crypto market capitalization, as provided by charting software TradingView, fell from $2 trillion to as low as $1.7 trillion, a $300 billion plunge that exemplifies the fickle nature of blockchain-based assets. As of press time, total cryptocurrency market cap is recovering but still down 1.7% over the past 24 hours.
+
+Total cryptocurrency market capitalization in 2021. Source: TradingView
+
+As usual, liquidations, the crypto market equivalent of a margin call on Wall Street, exacerbated the price drop. According to data aggregator Bybt, over $3.4 billion in long liquidations occurred across all cryptocurrencies in the past 24 hours.
+
+Cryptocurrency deviative liquidations across major venues the past three months. Source: Bybt
+
+The tumble began late Thursday in the U.S. equities markets, with the S&P 500 falling 0.80% Thursday. Not long after the U.S. market closed, bitcoin began its slide below $50,000.
+
+Darius Sit, partner at quantitative trading firm QCP Capital, noted that larger macro events, such as the fear of higher taxes on traders and investors, cause most markets to work in tandem. “When there is a deleveraging event, everything is correlated,” he told CoinDesk.
+
+Jean-Marc Bonnefous, managing partner of investment firm Tellurian Capital, highlighted $50,000 per BTC as a key market price point as taxes might still stay front and center in market dynamics over the next month or so.
+
+“We are still seeing good BTC support at $50,000,” Bonnefous told CoinDesk via a Telegram message. “However, [it is] important to mention also as an exogenous factor the possibility of selling as the tax deadline is nearing in May … always entertaining for sure.”
+
+Ether volumes way up in 2021
+
+Bitcoin and ether volumes the past year. Source: CoinGecko
+
+Ether (ETH), the second-largest cryptocurrency by market capitalization, was down Friday, trading around $2,370 and falling 6.5% in 24 hours as of 21:00 UTC (4:00 p.m. ET).
+
+After making double-digit gains while bitcoin was in the dumps this week, ether has fallen with with the rest of crypto and was doing worse than bitcoin Friday in terms of 24-hour price performance.
+
+“ETH usually dumps more,” said Stefan Coolican, chief financial officer of investment firm Ether Capital. “Whereas yesterday ETH was the outlier in terms of its strength, today is a more normal sight.”
+
+This year has seen more liquidity than ever flow into the ether market, and it seems to have occurred around the start of the year, according to data from CoinDesk Research. In 2020, average daily ether volume across exchanges was $12 billion. For 2021 so far, that figure has jumped to $36 billion in ETH volume per day. More liquidity means more traders buying and selling ether, meaning its price could easily rebound in bullish conditions, compared with previous years.
+
+That bullishness could come back. Ether Capital’s Coolican termed Friday’s bearish-leaning market as temporary after a crazy run-up so far this year.
+
+“Generally, the crypto markets have been really robust for the past few months and it’s not unusual to see some weakness after big runs,” he said.
+
+Ether prices are still more than triple where they started the year.
+
+Other markets
+
+Digital assets on the CoinDesk 20 are all in the red Friday. Notable losers as of 21:00 UTC (4:00 p.m. ET):
+
+Notable losers:
+
+Equities:
+
+Commodities:
+
+Oil was up 0.82%. Price per barrel of West Texas Intermediate crude: $62.15.
+
+Gold was in the red 0.42% and at $1,776 as of press time.
+
+Silver is falling, down 0.45% and changing hands at $25.99.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield climbed Friday to 1.560 and in the green 1.2%.

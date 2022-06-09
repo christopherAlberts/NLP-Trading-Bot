@@ -1,0 +1,35 @@
+The Bitcoin price rally still has legs, with Bitcoin up 2.7% over the past 24 hours and transactions fuelled by stablecoin Tether.
+
+The Bitcoin (CRYTPO: BTC) price is up 2.7% over the past 24 hours. One Bitcoin is currently worth US$58,009 (AU$75,336).
+
+That’s still down 10.5% from the all-time high of US$64,829, which the Bitcoin price hit last month. But longer-term holders won’t be complaining. The Bitcoin price is up 100% so far in 2021, and it’s gained 550% since this time last year.
+
+In a gauge of its use, CoinMarketCap tells me that US$41.8 billion of Bitcoin have changed virtual hands over the last 24 hours.
+
+CoinMarketCap also tells me that during this same time there were US$87 billion Tether transactions.
+
+That’s right.
+
+Tether, with a market cap of only US$52 billion, has seen twice as much volume over the past 24 hours as Bitcoin, which has a market cap of US$1.1 trillion.
+
+How Tether is fuelling the Bitcoin price
+
+The Tether price is… stable today. Tether has gained 0.01% over the past 7 days.
+
+Which is all as its designers intended.
+
+Tether, if you’re not familiar, is what’s commonly referred to as a stablecoin. A coin that’s generally backed by fiat currencies.
+
+And if you look at Tether’s long-term price chart, you’ll see it’s lived up to its stable billing. With the exception of a brief dip to 91 US cents followed by a short-lived spike to US$1.04 back in 2017, Tether has broadly traded within 1–2 cents of US$1 since inception.
+
+So how did this humble stablecoin become the most traded cryptocurrency on Earth? And how is it helping fuel the Bitcoin price rally?
+
+That’s largely thanks to its inherent lack of volatility, which makes it an attractive crypto to own if you want to avoid the big price swings witnessed by most digital tokens.
+
+It also has become the preferred method to buy and sell Bitcoin, with CryptoCompare estimating that Tether is used to buy some 66% of Bitcoin.
+
+Nic Carter is the co-founder of Coin Metrics. According to Carter (quoted by Bloomberg):
+
+At those offshore exchanges, Tether is the main collateral and margin type. Exchange volumes are way up and Binance volume is way up. For traders to get access to these crypto-only exchanges, they often prefer a stablecoin like Tether. You can think of the supply of Tether as a transparent proxy for the balance sheet of both the crypto-only exchanges as well as the funds trading crypto on those exchanges.
+
+So while your Tether holdings are unlikely to yield any more than your short-term savings account, Tether could be setting us up for the next rally in the Bitcoin price.

@@ -1,0 +1,49 @@
+By now, you've probably heard of Dogecoin (CRYPTO:DOGE), the meme-inspired cryptocurrency that skyrocketed 12,000% over the past year. Those life-changing gains have captured the interest of investors, and the hunt is on for the next moonshot.
+
+To that end, Oxen -- formerly known as Loki -- currently trades at $0.84 per token, and it has a market value of just $46 million. Notably, Oxen offers far greater utility than Dogecoin, which could help it gain traction. Here's what investors should know.
+
+What is Oxen?
+
+Oxen tokens are the currency of the Oxen blockchain, a network that supports anonymous communications and transactions over the internet. To understand exactly what that means, let's backtrack and start with Bitcoin.
+
+People often confuse Bitcoin's decentralized nature with privacy and anonymity. But the Bitcoin blockchain is, by design, transparent. When transactions occur, miners pull data into blocks, validate the blocks by solving cryptographic puzzles, then store the blocks on the publicly accessible blockchain.
+
+The data within those blocks is pseudonymous (i.e., it doesn't include your name), but it does record your unique Bitcoin address -- think of this like an email address -- and that can be linked to a wallet, and wallets can be linked to users. In fact, companies like Chainalysis design software to track blockchain transactions.
+
+To avoid this, you could use a system of multiple different wallets and create a new Bitcoin address for every transaction. But doing this manually would get tedious and confusing. That's why Oxen was created.
+
+Oxen employs three strategies that effectively maintain user anonymity. First, it uses ring signatures. Again, this is easier to understand in the context of Bitcoin.
+
+A Bitcoin address is a public key to which Bitcoin can be sent. It is paired with a private key that allows a user to "sign" transactions and prove ownership; this makes it possible to send and receive Bitcoin. Notably, anyone can verify the signature using the public key. Put another way, a user's Bitcoin address -- which is stored in the public blockchain -- could be used to verify a signature, thereby linking the user to a transaction.
+
+Ring signatures make this impossible. Rather than one person digitally "signing" a transaction, Oxen's system creates a ring of at least 10 signers, all but one of which are decoys.
+
+Second, Oxen uses stealth addresses to prevent the receiver's public key from being linked to any transaction. It does this by creating a one-time-use address with each transfer. This allows an individual to accept a transaction without revealing their public address, which means that address is never recorded in the blockchain.
+
+Third, Oxen uses RingCT protocol to verify the amount being sent is greater than zero, and to ensure that no one can see the transaction size.
+
+To summarize, Bitcoin and Oxen are both decentralized blockchains that rely on a network of miners to validate transactions. But Bitcoin prioritizes transparency, while Oxen prioritizes privacy. To that end, Oxen makes it impossible to identify a signer, link a transaction to an address, or see the amount of currency being transacted.
+
+Why is Oxen better than Dogecoin?
+
+Dogecoin was created without real purpose. Other than its Reddit-fueled rise to fame, there's nothing remarkable about it. It's not the largest or the most popular cryptocurrency like Bitcoin. It wasn't built to support decentralized applications like Ethereum. And it's wasn't designed for privacy like Oxen.
+
+Notably, Oxen's anonymity gives rise to several use cases that could make it more popular than Dogecoin.
+
+First, Blink is Oxen's payments platform. It combines the security of the Oxen network with one-second transaction times, making it the first and only privacy-centric digital coin to offer near-instant payments.
+
+Second, Session is an encrypted messenger platform built on the Oxen blockchain. It supports anonymous communications without requiring a phone number or email address, and without recording a user's IP address. If you're curious, the Session app can be downloaded on Apple and Android devices.
+
+Finally, Lokinet is a routing platform that utilizes the Oxen blockchain to anonymize voice and video calling, applications, and web browsing. This effectively creates a private internet.
+
+All of these use cases address privacy concerns, which have become a hot topic in recent years. In 2020, Alphabet announced that it would stop supporting third-party tracking cookies, making it difficult to serve targeted ads in its Chrome browser. And Apple recently upgraded its iOS operating system to the same effect.
+
+However, Alphabet and Apple still have consumer information, and that data is still stored on central servers that they control. So, for privacy-conscious individuals, Oxen solves that problem. Whether you're making payments, chatting through the internet, or browsing the web, Oxen allows it to happen anonymously, while storing data in a decentralized fashion.
+
+Should you buy Oxen?
+
+The technology behind Oxen is interesting, and it certainly required much more planning than Dogecoin -- which was developed in roughly two hours, according to creator Billy Markus. Moreover, Oxen addresses growing concerns about big data and user privacy.
+
+On the other hand, it's still a relatively new cryptocurrency, and it's currently traded on just six cryptocurrency exchanges. Put another way, Oxen is far from mainstream.
+
+Here's my advice: If you want to pursue cryptocurrency as an investment strategy, keep this one on your watch list, but I wouldn't jump in just yet.

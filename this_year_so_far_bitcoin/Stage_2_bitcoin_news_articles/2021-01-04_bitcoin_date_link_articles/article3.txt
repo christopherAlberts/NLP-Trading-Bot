@@ -1,0 +1,97 @@
+Bitcoin (BTC) suffered its biggest pullback in four months, tumbling 9% after a seven-day winning streak that took prices to a new all-time high of $34,347 on Sunday.
+
+“Bitcoin is having a much-needed reset,” Matthew Dibb, co-founder, and COO of Stack Funds, told CoinDesk.
+
+Some analysts saw signs that cryptocurrency traders might be rotating out of bitcoin into digital-market alternatives like ether (ETH) and litecoin (LTC). Ether, the second-largest cryptocurrency, rocketed 27% on Sunday and hit a 35-month high above $1,150 early Monday. Litecoin, the fourth-largest cryptocurrency, was changing hands at its highest since April 2018.
+
+In traditional markets, European indexes rose on the first trading day of the year, buoyed by encouraging signs of a manufacturing recovery, and U.S. stock futures pointed to a higher open. Gold strengthened 1.9% to $1,935 an ounce.
+
+Market moves
+
+Cryptocurrency markets so far in 2021 have been looking a lot like they did in 2020: Prices are up.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+After quadrupling last year, bitcoin has gained about 7% in the first few days of January. That’s nearly half the gains that the Standard & Poor’s 500 Index mustered over the entirety of 2020.
+
+Ether, the second-biggest cryptocurrency by market value, soared 26% on Sunday alone, pushing past the $1,000 mark for the first time since February 2018. The digital asset’s price rose nearly five-fold last year.
+
+And even with last month’s 67% plunge in prices for what had been the third-biggest digital asset, XRP (XRP), the crypto industry’s total market capitalization has more than doubled in the past two months to about $883 billion.
+
+“At the current trajectory, we can estimate that we’ll easily break the $1 trillion mark within the next few months,” Mati Greenspan, founder of the foreign-exchange and cryptocurrency analysis Quantum Economics, wrote last week.
+
+For context, recall that it was big news in traditional markets when the outstanding amount of U.S. “leveraged loans” – those made to companies with junk-grade credit ratings – grew to about $500 billion in late 2010, and then doubled to $1 trillion by early 2018.
+
+Bitcoin's total market capitalization has more than doubled in just a couple months to nearly $900 billion. Source: CoinMarketCap
+
+Such rapid (and frankly astounding) growth in digital-asset markets should theoretically send any responsible financial journalist scrambling to round up experts who might speak to the growing risks.
+
+But aside from the usual warnings that cryptocurrencies are volatile and prone to unexpected and punishing price corrections, analysts and traders say it’s likely that institutional adoption of bitcoin, ether and an array of other digital tokens is just beginning.
+
+And that prices are far more likely at this point to keep rising than to suddenly reverse, absent any major surprises akin to last year’s pandemic, which sent stocks swinging wildly, from American Airlines to Zoom.
+
+Jim Bianco, a widely followed Wall Street veteran who now heads Bianco Research, tweeted on Jan. 2 that bitcoin “makes Tesla look like it is standing still,” referring to the electric carmaker’s stock price.
+
+First Mover has previously discussed that as bitcoin enters uncharted territory, investors reading price-chart patterns – a widely followed practice among crypto traders known as “technical analysis” – have fewer signposts to key off.
+
+Just a month ago, when the cryptocurrency was changing hands around $19,000, Kraken Intelligence, a research unit of the digital-asset exchange Kraken, published results of a survey noting that clients expect an average price of $36,602 in 2021. Were such predictions to prove on target, bitcoin’s biggest gains for the year would already be in the books.
+
+But well-respected pros in both digital-asset markets and on Wall Street have recently bandied about price predictions from $50,000 to $400,000.
+
+The truth is nobody knows where prices are heading, just as nobody can say for sure that the 2021 economy will be any brighter than the bleak 2020 that just ended. Or how much additional money the Federal Reserve and central banks around the world might have to create to finance stimulus measures and prop up financial markets.
+
+What seems clear is that, for now anyway, “there is little sign that the rally is over,” as Matt Blom, head of sales and trading for the cryptocurrency firm Diginex, put it Sunday in his daily newsletter.
+
+“Bitcoin has started the year exactly as it ended the last – bid,” Blom wrote.
+
+– Bradley Keoun
+
+Bitcoin watch
+
+Funding rates have climbed on bitcoin perpetual swaps, a sign of elevated demand for leverage on long bets. Source: Glassnode
+
+Bitcoin pulled back sharply early Monday in a move typical to bull market correction.
+
+Prices fell from $33,000 to $28,000 before bouncing back to $30,000. The sharp correction has erased the rally from $29,000 to over $34,000 in the previous three days.
+
+A correction appeared to be in the offing, with the perpetual-swap funding rate – a proxy for the cost of maintaining a long position in the derivatives market – reaching an 11-month high of 0.137% early today. An elevated funding rate can signal excessive bullish leverage and often yields pullbacks similar to the one seen in late November. Even with Monday’s price drop, the funding rate has declined only slightly to 0.122%.
+
+According to trader and analyst Michaël van de Poppe, bitcoin came under pressure as the spread between EUR/USDT (euro’s tether-denominated exchange) and the EUR/USD spot rate normalized. EUR/USDT had jumped to 1.33 on Saturday – a 9% premium to the EUR/USD spot rate of 1.23 seen on Friday, according to the data provider TradingView.
+
+“That possibly pushed bitcoin’s tether-denominated price higher,” Poppe said, adding that the premium began normalizing early Monday. Tether (USDT) is the biggest dollar-linked stablecoin by amount outstanding.
+
+Investors expect the cryptocurrency to trade volatile over the next four weeks. That’s evident from the rise in the one-month implied volatility to near 100%, the highest level since March 2020, according to data provider Skew.
+
+Analysts, however, expect bitcoin dips to be short-lived. “Our thesis remains extremely bullish, with a target of $40,000 by February,” Matthew Dibb, co-founder, and COO of Stack Funds, told CoinDesk.
+
+What's hot
+
+DeVere Group CEO Nigel Green sold half of bitcoin holdings over the holidays, says he plans to “re-buy in the dips” (CoinDesk)
+
+Bitcoin options now go to $200K after recent surge (CoinDesk)
+
+Bitcoin mining company Riot Blockchain passes $1B in market capitalization (CoinDesk)
+
+Bitcoin worth $1B leaves Coinbase as institutions ‘FOMO’ buy, analyst says (CoinDesk)
+
+Scaramucci’s SkyBridge has already invested $182M in bitcoin (CoinDesk)
+
+Dogecoin doubles after adult-film star tweets that she’s holding the “memecoin” token (CoinDesk)
+
+Bitcoin prices in 2020: Here’s what happened (CoinDesk)
+
+Analogs
+
+The latest on the economy and traditional finance
+
+Japanese government considers state of emergency for Tokyo area (Reuters)
+
+From stocks to emerging markets, investors bet the “everything” rally will continue (WSJ)
+
+How the Fed’s $120-billion-a-month bond-buying program stifles lending (WSJ)
+
+Trump, on tape, presses official in U.S. state of Georgia to “find” him votes (AP)
+
+SPACs, also known as blank-check companies, raised a record of more than $80B in 2020, six times the amount in 2019 (WSJ)
+
+Tweet of the day

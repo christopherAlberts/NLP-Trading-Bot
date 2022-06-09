@@ -1,0 +1,11 @@
+Kava, built on the Cosmos SDK, plans to take another major step forward through an integration with Cosmos’s recently launched Inter-Blockchain Communication Protocol (IBC). Kava will then use IBC to make Chainlink’s decentralized data feeds available to blockchains across the wider Cosmos ecosystem.
+
+Kava first integrated Chainlink back in May of 2020. Onboarding Chainlink Price Reference Data oracles onto the Kava blockchain has provided a valuable service to all users of its DeFi ecosystem. As more financial institutions make their way to Kava, direct on-chain access to real-time and tamper-resistant data will prove increasingly beneficial to everyone.
+
+Kava is built on the Cosmos SDK, allowing it to benefit from the recently announced IBC protocol launch within the Cosmos ecosystem. Every network under the Cosmos banner can use IBC to gain the ability to communicate with one another. Doing so will unlock an unprecedented level of interoperability, liquidity, and access to decentralized finance solutions.
+
+Having real-time data available for all Cosmos-based blockchains participating in the IBC upgrade will catapult the Cosmos project to a new level. As Cosmos developers announced the IBC upgrade last week, Kava was among the first to confirm they will implement and make full use of this upgrade. Their approach will also bring Chainlink’s DeFi oracles to the broader Cosmos ecosystem.
+
+With more than 200 blockchains building on the Cosmos framework today, the IBC upgrade will play a significant role in the future. For Kava, it is beneficial to unlock more DeFi liquidity across these blockchains, bringing decentralized finance to more users. Today, there are billions of dollars in value across the Cosmos-based blockchains, all of which will benefit from accurate real-time data provided by Chainlink’s oracles.
+
+”We look forward to continuing to provide trusted DeFi data feeds to the Kava blockchain to meet growing market demand. Now thanks to the IBC upgrade, Kava can make Chainlink data easily available to the wider and growing Cosmos ecosystem to enable a more robust and novel set of DeFi applications,” stated Daniel Kochis, head of Chainlink Business Development.

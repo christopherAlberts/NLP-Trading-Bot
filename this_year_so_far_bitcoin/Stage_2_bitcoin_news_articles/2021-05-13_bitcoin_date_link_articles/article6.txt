@@ -1,0 +1,39 @@
+As the market for alternative assets heated up earlier this year, many investors found themselves trying to differentiate between the various investment options. Although there is a lot of buzz around nonfungible tokens and meme-based cryptocurrencies, it was the rise in Bitcoin (CRYPTO:BTC) that seemed to ignite the frenzy.
+
+With the initial public offering of Coinbase and the prevalence of cryptocurrency miners, it can be hard to determine if one will prove a better investment than the asset itself. Let's dig into one miner, Riot Blockchain (NASDAQ:RIOT), to better understand what the pros and cons might be.
+
+Performance and correlation
+
+For a company that mines Bitcoin, one would expect Riot Blockchain's stock performance to be directly tied to the digital currency. Theoretically, the earnings the company generates are simply the value of the mined coins minus all of the costs that go into setting up and running the operation. Oddly, that hasn't always been the case.
+
+Period Change in Bitcoin Change in Riot Blockchain 12 months 551% 1,570% 6 months 252% 638% 3 months 21% (38%)
+
+Other than the past three months, the change in Riot's stock price seems to be about 2.75 to 1 when compared to Bitcoin. The price of Bitcoin has been weak this month, falling 14%. In the same time, shares of Riot Blockchain have collapsed 37%.
+
+Part of the short-term disconnect may be the number of shares outstanding. The company has issued a lot of equity to fund purchases of special mining computers, called Antminers. That dilution has undermined the stock price, dividing each owner's stake across more and more shares.
+
+Date Shares Outstanding Change May 2020 34.54 million N/A November 2020 50.93 million 39% February 2021 78.52 million 115% May 2021 84.14 million 130%
+
+Similar to buying stock in companies that extract commodities like gold and oil from the earth, there are risks that have nothing to do with the price of what they are mining. Dilution is one of them.
+
+Transparency
+
+One way shareholders can stay informed is by following the company's earnings reports and subsequent conference calls. That's not so easy with Riot. In 2018, 2019, and 2020, management filed a notification with the Securities and Exchange Commission (SEC) stating that it would not be able to submit its full-year report in a timely manner. Management stuck to the delayed schedule in 2021, going four months and 22 days between its third- and fourth-quarter reports. It skipped the SEC notice since the agency extended deadlines due to the coronavirus. To date, management has not hosted calls or offered question-and-answer sessions. That approach is understandable when shares are primarily held by one party. However, insiders currently own only 1% of Riot Blockchain. The lack of transparency should give investors pause.
+
+Investigating the primary holders of Bitcoin offers no more comfort. No two lists of the wealthiest cryptocurrency holders are the same, but a recent ranking showed a definite concentration. Of the top ten, one is the creator of Bitcoin, two are the founders of Bitmain Technologies -- the company selling Antminers to Riot, three others are founders of Chinese crypto trading platforms, and two are the Winklevoss twins of Facebook fame. Usually, it's important to make sure that the interests of executives are aligned with shareholders. That isn't possible with Bitcoin since there is no management. That said, the largest holders do seem to have an incentive to keep speculation and trading volumes high. It doesn't mean there is anything shady happening, but as Charlie Munger put it, "show me the incentives and I will show you the outcome."
+
+Wealth creation or destruction
+
+One way to evaluate a business is by comparing how money flows in and out of the operation. Comparing the two flows can shed light on how any cash was produced and if it is sustainable.
+
+For instance, Riot Blockchain raised about $260 million from issuing those additional shares in 2020 and $8 million from selling cryptocurrency. Those inputs were offset by $11 million in negative cash from operations. That means running the company actually burned cash last year. Another outflow was the $41 million management spent on property and equipment: the 33,646 Antminers.
+
+That left more cash on the balance sheet at the end of the year, but highlights a disconcerting reality. In a year where the price of Bitcoin went up more than 300%, Riot Blockchain spent tens of millions of dollars and ended up burning cash rather than generating it. That's fine for a company that doesn't need to keep investing as much, but Riot's purchase of crypto mining equipment isn't an isolated expense. Management acknowledges this in SEC filings, pegging the useful life at two years.
+
+The company doesn't report Bitcoin production numbers on a consistent basis, so it's hard to calculate a detailed performance versus just buying Bitcoin. However, it significantly trails the simpler strategy using last year's average price of $11,185. Even after a recent pullback, Bitcoin currently sits at $50,351. At least last year, spending all that money on the asset itself would have significantly outperformed setting up and running a mining operation.
+
+Split decision
+
+Although just buying Bitcoin has also been the clear winner over the past few months, the longer term has highlighted how levered Riot's prospects are to the digital currency. Owning the stock introduces risks that Bitcoin holders don't have to deal with, but the money spent on special mining equipment last year could lead to a gusher of profits in 2021.
+
+Whenever it finally gets filed, the first-quarter earnings report should be a window into the rest of the year. With the company mining 697 coins at an average price of $46,640 during the period, the money flowing in shouldn't be eaten away by investments. This may leave a pile of profits for shareholders, at least until management has to purchase new Antminers. If that proves true, the stock's recent underperformance could reverse quickly. If Riot still can't turn a profit, investors might be better off giving up on the idea that it ever can.

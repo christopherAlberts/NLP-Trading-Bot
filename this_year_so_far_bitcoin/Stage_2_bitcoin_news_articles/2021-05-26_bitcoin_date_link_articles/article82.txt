@@ -1,0 +1,157 @@
+Can Bitcoin reduce aid corruption, help end dependency and bootstrap renewable energy for emerging markets?
+
+Bitcoin is typically thought of as an investment and a strictly financial innovation.
+
+But what if some of its greatest impact over time ends up being in the humanitarian and environmental spaces?
+
+This essay will explore some of the major challenges in the realm of international development and will argue that donors should be looking at Bitcoin payments and mining as tools to reduce corruption, diminish dependency and help renewable energy overcome adoption obstacles worldwide.
+
+In his searing 2010 essay “Alms Dealers,” Philip Gourevitch tells the history of aid. The industry, he wrote, was largely born in 1968 from Western compassion triggered by the televised starvation of children in Nigeria’s breakaway Biafra province. The impulse to help those less fortunate in the world around us has become a vast $200 billion foreign aid industry.
+
+The 22 wealthiest governments provide approximately 60% of that sum, with private NGOs, companies and foundations funding the rest. Around a third of government foreign aid is classified as development assistance, a third as humanitarian relief and a third as military or security support. In total, over the past six decades, more than $4 trillion of aid has been sent from rich countries to poorer countries.
+
+This is a staggering sum, and, on its surface, a seemingly impressive display of altruism. Public figures like Jeffrey Sachs and Peter Singer argue that aid is a moral imperative. But not everyone agrees on the overall impact. As Gourevitch asks: “Does the modern humanitarian industry help create the kind of misery it is supposed to redress?”
+
+In the end, he credits humanitarianism with doing a lot of good. But there are three striking flaws with international development that prevent it from more fully achieving its mission.
+
+First, aid is usually directed through and distributed by local governments. At that point, these often-autocratic regimes often siphon a portion of the funds or goods off to their cronies or troops, or develop patronage networks. When aid is not outright stolen, fees can be trimmed at every point along the path to the intended recipient. Significant percentages of aid gets extracted by middlemen as it makes its way from Washington or Brussels to farmers or refugees halfway around the world.
+
+In his critique, Gourevitch wrote that there is a “deeper decadence of a humanitarianism that paid war taxes of anywhere from fifteen per cent of the value of the aid it delivered (in Charles Taylor’s Liberia) to eighty percent (on the turf of some Somali warlords), or that effectively provided the logistical infrastructure for ethnic cleansing (in Bosnia).”
+
+Second, aid is often structured in a way that creates dependency. From shoes being dropped out of a helicopter only to ruin demand for local production, to entire nations whose food and basic goods industries have been so destroyed by the competition from free alternatives that they permanently rely on imports from abroad, aid has at times stymied the economic and political independence known to governments and citizens in places like the U.S., France or Japan.
+
+Gourevitch described the “ignoble economies that aid feeds off and creates: the competition for contracts, even for projects that everyone knows are ill-considered, the ways in which aid upends local markets for goods and services, fortifying war-makers and creating entirely new crises for their victims.”
+
+A third, related problem is that aid is not leveraged enough to help communities and developing nations become energy independent, because there is rarely a clear path to economic sustainability for renewable energy farms, whose harvest points are often far from population centers, and lacking grid infrastructure.
+
+Could Bitcoin help humanitarians overcome these three challenges?
+
+On the one hand, it seems obvious how this new digital currency can help connect donors to recipients, in a peer-to-peer way, that cannot be stopped and could significantly reduce “middleman” corruption.
+
+On the other, and in a way that has yet to be widely discussed, it seems possible that financing Bitcoin mining, as opposed to other forms of aid, could actually help lift communities and nations out of dependence on foreign powers and expand electrification.
+
+I. Cutting Out The Middleman
+
+The overwhelming majority of aid comes from Western governments and individuals and is sent to or through governments in emerging markets. Many of these governments are corrupt or authoritarian, and they decide how to distribute the aid. Some more peer-to-peer efforts exist like GiveDirectly, but in general, the opportunity for reform — and for donors and philanthropists to send aid directly to communities and individuals in need — is massive.
+
+When aid is given today, it passes through a string of third parties. According to scholars, “the history of foreign aid has been inextricably linked with corruption.” Reports suggest a “leakage rate” of 15% for aid heading to the most poverty-stricken nations, and that “a large fraction of aid money never reaches a developing country.” A recent study found that “as much as a sixth of foreign aid intended for the world's poorest countries has flowed into bank accounts in tax havens owned by elites.” In 2012, then-U.N. secretary general Ban Ki-moon said that “corruption prevented 30% of all development assistance from reaching its final destination.” As an example, in one Oxfam study, researchers could only verify that 7% of $28 million in U.S. aid meant for Ghana made it to its destination between 2013 and 2015.
+
+In her book “Dead Aid,” Zambian economist Dambisa Moyo argued that foreign assistance can actually hamper growth and, in some cases, does more to line the pockets of bureaucrats than sustainably improving life for the average citizen. Aid can also spark a negative feedback loop of more waste, as when recipient governments are “too weak or too unscrupulous to handle aid resources, donors need to devote a surpassingly high amount of resources to oversight and controls.” Even when aid workers are honest, they are often stuck, unable to complain about corruption for fear of getting kicked out of the country they are working in by local strongmen. This results in a “historical lack of openness among aid agencies about corruption issues.” Many governments, ranging from Myanmar to Venezuela, have acted as a block, using their control of borders and financial systems to prevent aid from flowing to their citizens, for fear it could rescue or strengthen opposition groups.
+
+But humanitarianism could be done more directly.
+
+As a personal example, someone reached out to this author a few months ago, at the beginning of the Myanmar revolution. They wanted to provide aid to the democracy movement, but the banking system was practically shuttered, and there was no easy way to wire dollars. After doing some digging, we were introduced to an aid worker-turned-activist, who was also a Bitcoin user. He could easily accept a donation, save it in BTC and then sell it into the peer-to-peer markets when he needed to spend the collapsing local kyat currency on goods. An address was sent over Signal, and a gift was made in minutes. No barriers, no middlemen, and no possibility for corruption along the way. It is just one small example, but is a glimpse of what the future could hold.
+
+The key to Bitcoin as a successful humanitarian payment rail is either local liquidity (so that the recipients can easily cash out into fiat when necessary), or circular economies. The former has expanded dramatically across the world in the past few years, and the latter is already being built.
+
+Today, if you want to support a humanitarian project in any country in the world, from Iraq to Senegal, all it takes is for the recipient to have a smartphone. From there, they can receive bitcoin directly on a free, open-source Android app like Muun or Blue wallet, and then, when necessary, shave it off over time into fiat through peer-to-peer markets like Paxful, LocalBitcoins or informal Telegram channels.
+
+Aid, donations and remittances can now be sent to individuals in El Salvador, for example, with the help of Strike. The Lightning Network-powered platform — developed by Jack Mallers, Rockstar Dev and others — became, three weeks after launching, the number-one finance app, number-one top app and number-one overall app in the country. This growth was powered by the “Bitcoin Beach” circular economy and community, which is now having spillover effects, and sparking other nascent communities, not just in El Salvador but even in neighboring countries like Guatemala.
+
+The idea of Strike as a humanitarian tool is very compelling. Any American, for instance, could pay any Lightning invoice with their debit card, with the funds delivered in bitcoin instantly, with final settlement anywhere in the world, directly to a recipient’s phone. Leveraging Lightning — which has tiny fees, settles instantly and has barely any energy footprint — seems like an especially promising way forward, especially in a world where payment processors act as rent-seeking middlemen, skimming 2% to 5% of online gifts.
+
+Ultimately, one of the biggest obstacles to effective international development has been the fact that there are so many third parties between the donor and the intended recipient. Often, they are kleptocratic governments, or exploitative, monopolistic corporations. With Bitcoin, there is a new model to cut straight through this mess, and connect grantors and grantees in a peer-to-peer way.
+
+II. The Extractive Society
+
+In their book “Why Nations Fail,” economists Daron Acemoglu and James Robinson break the world down into two kinds of societies: inclusive and extractive.
+
+Inclusive societies, such as South Korea or the United States, “are those that allow and encourage participation by the great mass of people in economic activities that make best use of their talents and skill and that enable individuals to make the choices they wish.”
+
+This contrasts with extractive societies, which depend on absolutist political institutions for their survival.
+
+"Inclusive political institutions, vesting power broadly, would tend to uproot economic institutions that expropriate the resources of the many, erect entry barriers, and suppress the functioning of markets so that only a few benefit,” but in extractive societies, those in power are able to counteract these forces and “enrich themselves and augment their power at the expense of society.”
+
+In general terms, aid flows from inclusive societies to extractive ones. Acemoglu and Robinson told the tragic story of the Congo, which has, for centuries, suffered under highly extractive institutions. From the Kingdom of Kongo to the genocidal reign of King Leopold, and from later-stage Belgian colonialism to the dictatorship of Mobutu and today’s rare mineral wars, elites and foreign powers have plundered the country’s vast natural resources, skimmed incredible profits, destroyed the environment and decimated the population.
+
+Mobutu, for example, owned a palace with an airport big enough to land a Concorde jet (which he rented to fly back and forth to Paris) and bought castles across Europe and even owned large tracts of Brussels. Meanwhile, Congolese citizens under his reign suffered from hyperinflation, abject poverty, rampant violence and a near-complete lack of consistent electricity.
+
+“Modern DRC,” Robinson and Acemoglu wrote, “remains poor because its citizens still lack the economic institutions that create the basic incentives that make a society prosperous. Political power continues to be narrowly concentrated in the hands of an elite who have little incentive to help the people.”
+
+Aid does not fundamentally change this, and, sometimes, helps prop up the oppressors who keep their people down in the first place.
+
+What if a new type of humanitarian aid could break this model of dependency, instead of aiding and abetting it?
+
+III. A Bootstrap For Independence
+
+Billions of people in developing nations face the stranded power problem. In order for their economies to grow, they have to expand their electrical infrastructure, a capital-intensive and complex undertaking. But when they, with the help of foreign aid or investment, build power plants to try and capture renewable energy in remote places, that power often has nowhere to go.
+
+In many countries across Africa, for example, there are vast solar, wind and hydro resources. These forces could drive economic activity, but local communities and governments usually lack the resources to invest in the infrastructure to kickstart the process.
+
+Foreign donors and investors are not keen to support projects that do not have a pathway to sustainability or profits. Without strong transmission lines to deliver energy from harvest points to population centers, power plant builders could wait years before they can run without foreign subsidy.
+
+Here is where Bitcoin could be an incentives game-changer. New power plants, no matter how remote, can generate immediate revenue, even with no transmission lines, by directing their energy to the Bitcoin network and turning sunlight, water or wind into money.
+
+As local authorities or customers gradually link up to the power plant, and are willing to pay more for the energy than what miners can afford, the Bitcoin load is lowered, and communities can grow. In this way, economic activity and renewable grids can be bootstrapped by Bitcoin mining. And international aid could provide the spark.
+
+To find out how, the author spoke to Bitcoin miner Seb Gouspillou.
+
+IV. Bitcoin Mining In The Congo
+
+In 2014, the European Union helped finance a 15 megawatt (MW) hydroelectric plant on a small tributary of the Congo River in the DRC. The facility is nestled in what is, after the Amazon, the second-largest tropical rainforest in the world. It is owned and operated by Virunga National Park, which aims to preserve thousands of animal and plant species including the endangered Mountain Gorilla, as well as support the five million people who live near the park’s borders.
+
+The dream of powering parks like this with hydro energy is compelling. As The New York Times wrote in a 2017 profile, these plants in Virunga “may save a park, and aid a country.”
+
+But, as is typical, due to the difficulty of grid construction, the park’s management has not been able to use all of the power right away. In 2020 it decided to start mining Bitcoin with the surplus energy.
+
+Normally, generating revenue right away from a remote power plant in the mountains or jungles or deserts is nearly impossible, because the energy may not be connected immediately with customers. But with Bitcoin, the facility can still profit even without distribution lines or local demand. Gouspillou said the hydro mines, and his company’s other projects, like solar farms in South Africa, are good examples of this mechanism in action.
+
+As local demand rises, his miners will turn off. This works because of the energy market: Bitcoin miners need prices in the range of 2 cents to 5 cents per kilowatt (kw) to run profitably. But practically every other electricity user will pay more, from 5 to 6 cents/kw for industrial users and 10 to 15 cents/kw for residential users in developed nations, to a staggering 20 to 40 cents/kw range in Africa. If there is ever competition for the energy that the Bitcoin miners are buying, the miners turn off their machines, perhaps to turn them back on later in a real-time response to grid loads. This relationship is poorly understood by many, leading to a popular but incorrect assumption that Bitcoin is “wasting” energy that could be used for other projects.
+
+Gouspillou’s company built and operates the Virunga mining facility — in what looks in videos like containers of computers in the middle of the jungle — and they trained local staff, who run daily operations. The farm connects by satellite internet to mining pools, and the company deposits the park’s share of bitcoin revenue directly into its online account on an ongoing basis.
+
+This is a new economic lifeline for the park, which according to Gouspillou only receives around $100,000 per year from the Congolese government, but has a monthly operating budget of around $1,000,000.
+
+There is another Virunga hydro project in the works, a 30 MW dam, on a different river nearby, to be financed by the EU. This time, the park is already planning to use some of that energy for Bitcoin mining as a bridge. Eventually, these dams could support the millions of people who live around the park territory, and constitute an “ambitious attempt not only to protect Virunga — Africa’s oldest national park — from threats including armed rebels, deforestation and oil prospectors, but to jump-start the local economy and potentially help stabilize one of the world’s worst conflict zones.”
+
+Hundreds of millions of people today still live without access to electric grids, and most are located in sub-Saharan Africa. As of 2019, just 8.7% of the Congolese population had access. The numbers are similar or worse in South Sudan, Somalia, Libera, Sierra Leone, Chad, Niger, Malawi and the Central African Republic, with only a few governments on the African continent able to provide electricity to more than 50% of their population. In countries like the Congo, electrification is expanding more slowly than population growth.
+
+Traditionally, citizens without electricity cut down trees for charcoal to help cook their meals, releasing significant amounts of carbon into the atmosphere. Burning biofuels for cooking and heating is also a leading cause of indoor air pollution worldwide, leading to 1.6 million deaths per year, half of which are children under five. But if Bitcoin mining can be a bridge to help subsidize and encourage more hydro power to come online, it could be a worthy project for humanitarians to target to help stop deforestation, protect the local environment and empower the people. According to the International Food Policy Research Institute, the Congo “has the potential to become the breadbasket of the entire African continent.”
+
+UN research states that getting electricity to those without it requires “increased private financing and adequate policy and fiscal incentives to spur faster development of new technologies.”
+
+Bitcoin could very well be a mechanism to help align incentives and spark more electricity and agriculture for a part of the world that is underdeveloped and dependent on imports.
+
+There are different models of how aid could work in this scenario. In a “less mature” model, a company like Gouspillou’s BigBlock might be paid to handle everything and simply deliver a profit share to a local partner. In a “more mature” model, they could be contracted to just handle setup and training, and leave everything else behind for local authorities to run. In the latter model, one can begin to see how the inclusive economy could grow.
+
+In this way, humanitarian aid could help strengthen local communities and bootstrap them so they can be in control of their own destiny, making them more productive and sovereign. There are already many such projects to give electricity to small communities away from population centers across Africa, Gouspillou said, and Bitcoin mining can make them much more profitable and effective. What if the Gates Foundation or the EU, for instance, announced $100 million per year to finance Bitcoin mining in Africa? With ongoing innovation in satellite internet connectivity, monetizing energy sources in remote regions becomes more compelling over time.
+
+Gouspillou said the grid in his native France is still 70% nuclear, a legacy of Charles de Gaulle’s vision for energy independence. But none of it is used for Bitcoin mining, something Gouspillou called a big mistake. He estimated that if just 2% of the output of the nuclear system was directed toward Bitcoin mining, it could be enough to overcome the state electric company’s recent financial difficulties and put it back in the black. During the summers and at night, there is less demand on the grid, but today, that energy goes unused. Gouspillou said these times would be perfect occasions to flex in Bitcoin mining. But the authorities, he said, are clueless, and he loses sleep thinking about the wasted opportunities.
+
+To this end, Bitcoin could eventually play a significant role in helping to incentivize nuclear energy. Dozens of emerging market countries are exploring nuclear energy as a way to achieve energy independence. But according to the World Nuclear Association, the size of their grid systems is a major issue, as “many nuclear power plants are larger than the fossil fuel plants they supplement or replace.” But again, with Bitcoin, any excess energy can be directed to mining until the communities around the plant catch up. The idea of using Bitcoin to harness curtailed energy holds for developed countries too, of course. Germany, for example, has famously created more wind power than it can use.
+
+A near-complete disregard for Bitcoin is chronic across the entire international development space, which has until this point not realized or ignored the currency’s potential to reduce corruption and spark economic activity. Too many humanitarians have fallen victim to the mirage of “blockchain not Bitcoin” narratives, which have wasted hundreds of millions of dollars.
+
+The French story unfolds to a much more depressing vision across the developing world, where many nations have abundant wind, solar, hydro and even uranium resources, but lack the grid infrastructure and concentrated demand to take advantage. Gouspillou sees Bitcoin mining, powered by humanitarians or investors, as the way to bootstrap this all into place.
+
+Today, just 4% of the world’s population has the exorbitant privilege of creating the global reserve currency. But in a potential future where Bitcoin is that reserve currency, mining from renewable sources could help empower any nation to directly earn the future base money of the world. And this could provide a massive incentive to continue expansion and innovation in renewable energy systems. “This,” Gouspillou said, “is the beautiful dream.”
+
+V. Avoiding Pitfalls
+
+If humanitarian organizations, foundations and foreign offices could support Bitcoin mining operations at renewable energy sites, that could be a trigger for sustainable local economic activity.
+
+Consider how in Norway, the Sovereign Wealth Fund, backed by oil, has financed some of the highest quality of life in the world. Could Sudan and Ethiopia, with massive wind and solar resources powering Bitcoin mining and a growing electric grid, be Norways of the future?
+
+A rosy outcome, of course, is far from guaranteed. The big obstacles of corrupt local authorities and exploitative foreign corporations remain.
+
+One way to neutralize this threat is for international donors to position Bitcoin mining projects as economic leverage opportunities, where they stipulate that part of the profits go towards microfinance or venture capital to form local businesses. If major foundations and governments can enforce these conditions in their deals setting up renewable mining infrastructure, they could have a lasting impact.
+
+Even on the for-profit side, there is a possibility that foreign Bitcoin miners can operate in a non-extractive way. They can be paid to set up operations and train local staff, leaving some or all of the ongoing profits in the hands of the region. The population could then absorb the wealth from renewables, instead of seeing it slip away to foreign lands, as it often does. In this way, investing in Bitcoin payments and mining could be a compelling environmental, social and corporate governance (ESG) narrative moving forward.
+
+A major challenge for Bitcoin is how to avoid the fate of gold, which as a historical reserve currency was plundered by colonial powers in places like the Congo. Later, the U.S. custodied gold inside its borders through Executive Order 6102, and finally, after the Bretton Woods agreement, centralized much of the gold held by other governments. This helped President Nixon in 1971 to essentially move gold out of the monetary system and neutralize its restraining effects on war spending. So, what is to stop this kind of exploitation and capture from happening to Bitcoin if it is being mined at renewable sites in developing countries?
+
+Satoshi Nakamoto chose April 5 as their birthday, which was the day that Executive Order 6102 came into effect in 1933. They designed Bitcoin specifically to be resistant to this kind of capture. Because of its properties and the political incentives it creates, it will be difficult for one government to control all of the world’s mining, and domestically, impossible for governments to effectively stop citizens from using it.
+
+After all, Bitcoin is invisible, can teleport from one end of the earth to the other in minutes, is programmable, easily divisible and its spending power can be easily stored in a variety of ways and formats by individuals, making it highly-confiscation resistant.
+
+Gold and other mined commodities have none of these qualities, and have helped at times lead to extractive societies. Perhaps Bitcoin’s open and permissionless attributes can help lead the world in a more inclusive direction.
+
+A final obstacle is that a huge global aid industry now runs on propping up societies that cannot stand on their own. This may sound cynical, but will large foundations and government agencies actually want to reduce bureaucracy, corruption and dependence through Bitcoin, if they themselves benefit from it?
+
+For all of the hundreds of billions of dollars invested each year into international development to improve the lives of the most vulnerable, major obstacles remain.
+
+This essay has examined how middleman corruption and forced dependency plague the humanitarian industry, and how a lack of infrastructure prevents emerging markets from capitalizing on stranded renewable energy resources. For anyone interested in overcoming these challenges, Bitcoin is worth a long look as a humanitarian and environmental tool for change.
+
+Whether as a corruption-resistant, peer-to-peer rail for transferring funds abroad, a spark for economic independence, or a subsidy for sovereign renewable electrification in developing nations, Bitcoin’s future human impact outside of the traditional areas of finance and investing is just beginning to be understood.
+
+This is a guest post by Alex Gladstein. Opinions expressed are entirely their own and do not necessarily reflect those of BTC Inc or Bitcoin Magazine.

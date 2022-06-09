@@ -1,0 +1,41 @@
+Money and Business
+
+A cryptocurrency that looks and sounds a lot like bitcoin has creeped up into the top 10 biggest digital currencies list: bitcoin cash.
+
+Bitcoin cash shares most of its code with bitcoin. But it is significantly faster at processing transactions.
+
+The cryptocurrency is having a moment: It surged more than 11% Thursday, and more than 300% this year, according to Coinbase.
+
+Here’s what you need to know about the bitcoin cousin that’s rapidly growing in popularity.
+
+What is bitcoin cash?
+
+Bitcoin cash was developed in 2017 as a split-off of bitcoin, known as a “fork” in crypto parlance, to solve some of bitcoin’s issues as it grew more popular. Bitcoin, which runs on a decentralized ledger system known as blockchain, can only process a maximum of seven transactions per second, making it a less-than-ideal crypto for everyday transactions.
+
+“Bitcoin cash is the version of bitcoin that implemented an increase in the transaction capacity,” digital currency economist Alex de Vries told CNN Business.
+
+The bitcoin cash creators aimed to raise bitcoin’s block size limit of one megabyte every 10 minutes — which translates to a maximum of seven transactions per second — to eight megabytes every 10 minutes, de Vries said. Bitcoin cash blocks can go up to 32 megabytes.
+
+The creators of bitcoin cash, “wrote an update for the Bitcoin software which increased the transaction limit,” de Vries said, and thus, the new cryptocurrency was born.
+
+Bitcoin cash split in two in 2018, in a similar situation, creating another fork called bitcoin SV, which, with a market value of nearly $8 billion, is currently ranked at number 19 on the top digital currencies list on Coinbase.
+
+What’s the difference between bitcoin cash and bitcoin?
+
+For starters, there’s less demand for bitcoin cash. Bitcoin is by far the largest digital currency, with a market value of more than $1 trillion, according to Coinbase. Bitcoin cash, on the other hand, just passed Litecoin to become No. 10 on the list of largest digital currencies, with a market value of almost $26 billion.
+
+Although both have 18.7 million digital coins in the universe, demand isn’t nearly the same for bitcoin cash as for bitcoin: One coin of bitcoin costs about $57,168 right now, and one coin of bitcoin cash costs about $1,412.
+
+“Bitcoin cash has proven itself to be one of the most resilient cryptocurrencies in the digital currency ecosystem today,” Konstantin Anissimov, executive director of international cryptocurrency exchange CEX.IO, told CNN Business.
+
+Bitcoin cash was supposed to boast faster transaction speeds than bitcoin, but that that didn’t exactly pan out the way the creators expected. Bitcoin cash transaction confirmation times remain higher than bitcoin transaction confirmation times for a host of complicated reasons. Still, bitcoin cash has a distinct advantage over bitcoin: It’s cheaper to use.
+
+Bitcoin transaction fees have spiked as high as $60 on average, according to Coindesk. And bitcoin cash’s average transaction fee is currently just 3.5 cents, according to BitInfoCharts. Transaction fees apply any time you transfer coins, either to someone else as a payment or to your own wallet, de Vries said.
+
+Ready to buy bitcoin cash?
+
+Most of the popular bitcoin exchanges will also allow you to buy bitcoin cash. For example, you can purchase the cryptocurrency on Coinbase, the digital currency exchange that went public in April.
+
+Bitcoin cash has shot up more than 139% in the past month. It’s relatively cheap per coin compared to other popular cryptocurrencies such as ethereum and the original bitcoin, but it’s pricier than meme-turned-cryptocurrency dogecoin, which is currently only $0.60 per coin.
+
+— Correction: An earlier version of this story incorrectly stated Bitcoin Cash’s transaction cost. On Friday, it was 3.5 cents.

@@ -1,0 +1,87 @@
+Treasury Department Secretary Janet Yellen is not big on bitcoin, a point she reiterated recently when she called the digital currency speculative and “inefficient.”
+
+
+
+That doesn’t mean Yellen and the department she leads — which includes the Internal Revenue Service — don’t care about the cryptocurrency.
+
+Now that it’s income-tax filing season, people holding bitcoin and other cryptocurrencies will see that the IRS is actually very curious about a taxpayer’s cryptocurrency transactions.
+
+So much so that it has tweaked the first page of Form 1040 — the main piece of income-tax paperwork taxpayers file yearly — to ask taxpayers if they’ve received, sold, sent, exchanged “or otherwise acquire[d] any financial interest in any virtual currency?”
+
+
+
+A “yes” could mean more taxes, but not necessarily, tax experts told MarketWatch.
+
+Cryptocurrencies keep achieving a progressively higher profile. Last week, bitcoin hit an aggregate value above $1 trillion. As more people eye cryptocurrencies, more people have to face up to the tax rules at play.
+
+“It can be super, super easy, or it can be insanely complicated,” said Matt Metras of MDM Financial Services in Rochester, N.Y. Some transactions can spur multiple tax events at once, but tax professionals have scant IRS guidance to work off, he said.
+
+Here’s a primer on some tax-time issues when it comes to cryptocurrency.
+
+The basics on how the IRS views cryptocurrencies
+
+The IRS treats cryptocurrency as property. It’s helpful to remember tax rules that also apply on stocks. If value goes up and the owner sells at a profit, they’ll likely pay capital-gains tax.
+
+If a sale at a profit occurs within a year of purchase, the proceeds count as a short-term capital gain. That is taxed as ordinary income, which means it is lumped with other things like wages and taxed at a marginal rate corresponding to the bracket the taxpayer falls into.
+
+If the sale happens at least one year after the acquisition, that’s a long-term capital gain. A single filer making under $40,400 and a married couple making under $80,800 get a 0% rate. Pretty much everyone else gets a 15% rate, with the rate applying to incomes up to $445,850 for individuals and $501,600 for married couples filing jointly.
+
+That’s still a lower rate than five of the seven income-tax brackets.
+
+But cryptocurrency is volatile stuff. For example, shortly after bitcoin’s market value hit the $1 trillion mark, it was on the cusp of entering a bear market.
+
+So it’s important to remember the tax treatment for losses, said Ben Weiss, chief operating officer and co-founder of CoinFlip, which has bitcoin ATMs in 1,800 locations allowing people to buy and sell cryptocurrency.
+
+If the value goes down and the investor sells at a loss, they get a capital-loss deduction. When yearly annual loses exceed yearly annual gains, the taxpayer gets to also deduct up to $3,000 a year. Excess losses beyond that can be carried forward to future tax years.
+
+
+
+What if I get paid in cryptocurrency?
+
+When you get paid for services via bitcoin BTCUSD, +0.95% , Ether ETHUSD, +2.41% or any other cryptocurrency, that counts as ordinary income. It doesn’t matter what the medium of payment is when it comes to the question of “whether the remuneration constitutes wages for employment tax purposes,” the IRS said.
+
+Cryptocurrency that an independent contractor receives for work counts as self-employment income, the IRS noted. In both cases, the value of the cryptocurrency is measured by its U.S. dollar value on the date of receipt.
+
+So, how do I respond to this IRS question?
+
+Near the top of the 1040, the IRS wants a yes or no answer to this question: “At any time during 2020, did you receive, sell, send, exchange, or otherwise acquire any financial interest in any virtual currency?”
+
+
+
+Remember, “yes” doesn’t necessarily mean more taxes, experts said. For example, if someone just buys and holds crypto, there’s no tax event because there’s no ensuing sale for a profit or loss, Metras said. Someone like that could check the “yes” to the answer and not have to report the purchase in their return, he added.
+
+Laura Walter, owner of Crypto Tax Girl near Salt Lake City, Utah, says you need to say “yes” if, for example, you sold cryptocurrency, traded it, spent it on goods and services, received it as compensation, or received an airdrop or fork. (A hard fork can happen when a digital coin splits, and an airdrop is a way for a company to hype a coin with a giveaway and airdrop it into ledger addresses. )
+
+Parsing the language on the 1040 instructions, Walter says you can check “no” if you merely held the crypto asset or transferred it among your own digital wallets, and also if you only bought it but did nothing else. “You don’t have to report anywhere how much you’re holding or where. All you report is when you have a taxable event,” she said.
+
+Metras, however, thinks a person should answer “yes” if they merely bought cryptocurrency.
+
+“There’s mixed messages coming out of [the IRS] on who should be checking the box,” Metras said. “I think the IRS and Treasury aren’t sure what data they are trying to get out of the question. … I think the potential repercussions of checking ‘yes’ unnecessarily are much lower than not checking ‘yes’ when the IRS decided you should have.”
+
+Where do I get the necessary tax records?
+
+Brokerage firms will automatically generate the necessary tax paperwork, but that’s not necessarily the case in cryptocurrency exchanges.
+
+The task of tallying up gains and losses can fall on the cryptocurrency holder, Walter said. “My biggest advice to taxpayers is keep track of your records.” Tax software can track transactions, she said. Another way is a simple spreadsheet, Weiss said.
+
+People who have not been keeping close tabs through the year — “basically everyone I work with,” Walter said — can go back and gather up transaction information from their wallets and the exchanges they’ve used. But that takes time.
+
+For the first-timers who got into crypto in 2020 and are sorting out their buys and sells, Walter has another bit of advice, alongside an appointment with a tax preparer: “Just file [for] an extension. You can’t just do this overnight.”
+
+Exchanges like Gemini, Coinbase and Kraken all have to maintain transaction records for five years, Weiss said. Don’t be afraid to contact them if there are questions, he said. “It’s better to talk to customer support and be embarrassed that you don’t know your password than to not have those records,” he said.
+
+What are my audit risks?
+
+They could be getting more serious.
+
+IRS officials could soon be “shifting from education to compliance and enforcement,” according to Metras. Still, he added later, “we don’t know exactly what the enforcement phase is going to look like.”
+
+Giving the virtual-currency question such prominent play on the 1040 is a good indicator IRS officials “are keeping their eye on” crypto assets, Walter added.
+
+Others agree the IRS is getting more serious. “Regulators are poised to commence a flurry of enforcement actions related to virtual-currency tax fraud,” attorneys at BakerHostetler, a national law firm, wrote.
+
+In summer 2019, the IRS sent out more than 10,000 letters to virtual-currency holders who may have failed to report all income and tax obligations. The “educational letters” were part of the IRS’s expanding focus on cryptocurrency, IRS Commissioner Charles Rettig said at the time.
+
+The IRS likely didn’t have its sights on taxpayers with smaller holdings, MarketWatch tax columnist Bill Bischoff said around that time. “The agency is more interested in tracking down individuals and businesses that engage in significant virtual-currency transactions while failing to comply with the tax rules,” he said.
+
+A little tax-time common sense can go a long way. “If you sell $50,000 of bitcoin and a wire transfer shows for that amount, they are going to see it,” Weiss said. “You’re basically rolling the dice if you put $50,000 in the bank and are not reporting anything.”

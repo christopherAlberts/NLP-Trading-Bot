@@ -1,0 +1,119 @@
+gopixa / iStock.com
+
+If you’ve been following the news, you undoubtedly know a few things about Bitcoin right now.
+
+Find: Why Some Money Experts Believe In Bitcoin and Others Don’t
+
+One: It’s a cryptocurrency.
+
+Two: One Bitcoin is worth more than $40,000 in U.S. dollars, although the price fluctuates wildly day to day.
+
+Three: Electric vehicle manufacturer Tesla recently invested in Bitcoin and announced it would soon allow people to purchase its cars using the cryptocurrency.
+
+But, if you’re like many people, you’re still fuzzy on a few things, including exactly what cryptocurrency is, how it works and if it’s a safe way to invest your money.
+
+See: Dogecoin’s Major Price Increase: Is It a Worthwhile Investment?
+
+Find: Bitcoin Is Pricey and Headed for a Crash – Consider These Smart Crypto Alternatives
+
+History of Bitcoin
+
+Bitcoin was invented in 2009 as a form of digital currency. Unlike paper money or debit cards, which represent paper money the buyer holds in a bank, Bitcoin has no physical form. It’s all stored digitally, providing increased security over checks, paper money transactions and even other digital transactions, which, again, represent the exchange of paper money held in accounts.
+
+As of Monday morning, Bitcoin’s value sits at $47,794, up approximately 20% since last week, according to Reuters. For perspective, in 2010, a single Bitcoin was worth only 8 cents in USD, Investopedia writes.
+
+See: Long-Term Investors Hold Most of the Bitcoin Supply
+
+The Hype Around NFTs: What Are They? And How Pricey Do They Get?
+
+Other Cryptocurrencies
+
+Bitcoin was the first cryptocurrency, but today there are more than 6,700 cryptocurrencies traded on public markets, according to the website CoinMarketCap. Although Bitcoin and other cryptocurrencies are used for the exchange of goods and services on the private market, they are not considered legal tender like U.S. dollars and coins.
+
+Some of the most common cryptos right now include Ethereum, Bitcoin Cash and Litecoin, which you can purchase through Paypal. Other, less common cryptos are termed altcoins. The most popular altcoin is Dogecoin, popularized by billionaire Elon Musk’s tweets. He recently shared, “Bought some Dogecoin for lil X, so he can be a toddler hodler.”
+
+Story continues
+
+The tweet was accompanied by a video of Musk and singer Grimes’ infant son declaring, “Dadada!”
+
+This content is not available due to your privacy preferences. Update your settings here to see it.
+
+See: Musk Tweets Again and Dogecoin – a Bitcoin Rival – Skyrockets
+
+Options: All About Ethereum (ETH) — To Help You Decided If It’s Worth the Investment
+
+What Is Cryptocurrency and Cryptography?
+
+“Cryptocurrency is a fully decentralized peer-to-peer electronic money implemented by cryptography,” says Rob Zel, founder of crypto exchange bitni.com. Due to their nature, cryptocurrencies are not regulated, which carries risk of market volatility and loss for investors. However, the security risks and risk of fraud when using Bitcoin and other cryptocurrencies are vastly reduced.
+
+Also, due to the highly secure nature of transactions, purchases cannot be traced. That means individuals can use crypto to purchase illegal or highly regulated merchandise, including certain classes of drugs or firearms.
+
+Cryptocurrencies use cryptography technology to keep transactions and coins secure. “Cryptography, or cryptology, is the practice and study of techniques for secure communication in the presence of third parties called adversaries. The most common form of cryptography is using codes to send messages securely between two individuals,” says Dr. Alexander Shipilov, CEO of iModX, a blockchain-based marketplace.
+
+See: Crypto Bubble Brings a Curious Problem for Investors
+
+Find: What Are Digital Wallets?
+
+How Does a Blockchain Work?
+
+Cryptocurrencies are traded by means of a blockchain, which Shipilov describes as “a way for multiple computers to come to a consensus about a set of information.” He says, “The most common use of a blockchain is to create a ledger of financial transactions between multiple individuals.”
+
+Blockchains operate via cryptography, with each block in the chain cryptographically connected to the previous one. “The blockchain is stored and shared across a network of peer-to-peer nodes, similar to file-sharing torrents. The blocks are cryptographically secured against tampering. This makes it very difficult for nefarious parties to modify or shut down,” Zel says.
+
+See: How to Invest in Cryptocurrency
+
+Find: The Most Googled Money Questions – Answered
+
+Understand That a “Secure” Investment May Not Be a “Safe” Investment
+
+So, thanks to blockchain technology, Bitcoin and other crypto transactions may be inherently more secure than other types of digital transactions, such as online banking, money transfers through digital wallets or peer-to-peer payment services. But it’s important to emphasize that these services all use state-of-the-art encryption technology to protect your funds digitally. Also, most banks offer fraud protection so that if your account is hacked, the bank will return your missing funds up to a certain amount, which varies by institution.
+
+The technology used to keep crypto investments secure is also effective. In fact, it’s so secure that some people who invested in Bitcoin years ago have lost their password with no way to reset it. That wouldn’t happen with a regular bank account or peer-to-peer payment service, which offer ways to reset your online banking password so you can access your money.
+
+See: Steal These Money Secrets from 25 Millionaires Under 25
+
+Find: How to Invest Your Money in 2021
+
+Understand Why Crypto Is So Risky
+
+Although your crypto investment is likely “secure,” that doesn’t mean it’s “safe” by any means. There are two elements that make cryptocurrency riskier than holding cash in a bank account: market volatility and lack of federal insurance and regulation.
+
+When you hold your money in a bank account, it is FDIC-insured for up to $250,000 per depositor, per account class, per bank. That means if you have your own checking account with $100,000 in it, a savings account with $50,000 in it and a CD with a $100,000 investment, all within a single FDIC-insured bank, your funds are all protected by the Federal Deposit Insurance Corporation. If your bank goes out of business, you will not lose your money.
+
+On the other hand, if something happens to the company holding your crypto, you could lose your entire investment.
+
+See: Banks Might Treat Bitcoin Like ‘Real Money’ – These Experts Weigh the Pros and Cons
+
+Find: Mark Cuban – “Bitcoin is Exactly like the Dot Com Bubble”
+
+Crypto, like stocks and other investments, also tend to fluctuate wildly. When you hold cash in a bank, the value of your money will fluctuate marginally based on inflation or deflation. That represents the value of the dollar. But it’s highly unlikely you would lose — or gain — large amounts of money overnight.
+
+“Cryptocurrencies tend to be highly volatile,” Zel says. “In one day, a coin can move 20% or more. Some newly invented coins can jump 40x in their first few months.”
+
+There’s another concern for those seeking a safe haven for their money. “Occasionally, a newly invented coin will be a complete scam and the founders will take the money from investors and disappear, leaving them holding a worthless token,” Zel says.
+
+See: 9 Investing Bubbles That Will Make You Rethink Bitcoin
+
+Find: The Classic Cons Behind These Digital-Age Scams
+
+Can You Use Bitcoin to Buy Things?
+
+Right now, Bitcoin and other cryptocurrencies are considered both an asset, traded like stocks, and a currency, used in the exchange of goods and services. However, high transaction fees and the volatility of the coins prevent its widespread adoption as a currency, Zel says.
+
+You can use Bitcoin and other cryptos to make purchases, but it’s not always ideal.
+
+See: PayPal Finally Welcomes Bitcoin, More Cryptocurrencies
+
+
+
+Shipilov adds that the vast majority of cryptos right now are being treated as assets rather than currency. “They are being speculated on by investors who assume the asset will increase in value over a long-time horizon,” he says.
+
+However, although people have gained millions through their Bitcoin investments in the past year, crypto may not be the best choice for beginning investors or those with low risk tolerance.
+
+“Crypto are non-regulated assets with a high degree of volatility, limited government oversight, and the majority of cryptocurrency lose most or all their value extremely quickly, with over half failing in the first four months,” Shipilov warns.
+
+More From GOBankingRates
+
+Last updated: Feb. 15, 2021
+
+This article originally appeared on GOBankingRates.com: How Does Cryptocurrency Work – and Is It Safe?

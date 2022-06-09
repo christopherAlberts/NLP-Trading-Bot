@@ -1,0 +1,85 @@
+Bitcoin (BTC) is keeping bulls and bears guessing as it opens a new weekly candle in the green, heading away from $50,000.
+
+After an uneventful but uninspiring weekend, BTC/USD has begun Monday by reclaiming $53,000 for the first time since Thursday. What could lie in store?
+
+Cointelegraph takes a look at five factors that could shape BTC price action in the coming days.
+
+BTC/USD 1-week candle chart (Bitstamp). Source: TradingView
+
+Stocks steady but dollar dives
+
+Stocks are once again cool this week as the macro picture presents a familiar mixture of hope and misery driven by the coronavirus.
+
+While Asian markets had an uneventful day on the whole, India’s virus problems and Turkey’s financial woes were cause for concern.
+
+Separately, with the United States set to send tourists to the European Union this summer, fresh economic incentives for traders are beginning to take shape.
+
+With no overall direction, however, the impetus for Bitcoin to track a macro narrative is barely existent — and the day’s price movements are already proving it.
+
+“What does the future hodl?” Tesla and SpaceX “Technoking” Elon Musk summarized on Saturday in a tweet that will be poignant for many a market participant. Tesla, one of the big-name BTC investors, is due to report on earnings after the Wall Street close.
+
+When it comes to the dollar, the opportunity for Bitcoin is more skewed to the upside — the U.S. dollar currency index (DXY) is continuing its decline after closing below 91 on Friday. As Cointelegraph often reports, the index, particularly over the past year, tends to be negatively correlated with BTC/USD.
+
+BTC regains $53,000 mark
+
+Bitcoin spot price action is already offering surprises, and unlike last week, it’s the bears who are being caught unaware.
+
+Data from Cointelegraph Markets Pro and TradingView reveals BTC/USD rising to hit $53,000 for the first time since losing the same level on its way down last week.
+
+The level itself is significant, equalling a Bitcoin market cap of $1 trillion and thus previously forming a line in the sand that analysts thought would hold.
+
+In the event, it was $46,000 that provided the floor, but as yet, there is no firm belief that the latest price dip is over. This is evidenced in trading positions, as the move up to $53,000 liquidated shorts to the tune of $150 million in an hour.
+
+“Looks like this interim sell-off might be reaching its conclusion,” podcast host Preston Pysh suspected late on Sunday.
+
+The scope of the dip was a shock to some investors, coming despite hordes of new buyers entering the network. On-chain metrics as a whole have remained in the green, lending further weight to the theory that current circumstances are a temporary blip in an otherwise enduring bull market.
+
+“Market is very emotional over 2%+/- Swings on closes,” Filbfilb, co-founder of trading suite DecenTrader, told Telegram subscribers last week.
+
+“Take note, volatility will be inbound soon. I’m quite bullish but think we need a bit more of a shake before up. Could be wrong... about the direction, but not so much about the volatility so buckle up.”
+
+Difficulty set for biggest retrace since November
+
+In fundamentals, miners continue to recover from a Chinese power outage that truncated the network’s hash rate overnight earlier in April.
+
+As a result of flooding, as before in Bitcoin’s life, large segments of China’s mining power disappeared from the network, leading to a drop in hash rate, which at one point neared 25% of all-time highs.
+
+Since then, miners have begun adapting, while a drop in mining difficulty will allow smaller operators to mine more profitably and provide an incentive for maintaining network security.
+
+This drop, set to occur in around five days’ time, will be the largest negative move since Nov. 3, when BTC/USD was still at $13,000.
+
+7-day average Bitcoin hash rate. Source: Blockchain.com
+
+Difficulty adjustments form an essential, if not the most essential, part of Bitcoin’s ability to maintain itself regardless of external factors influencing its modus operandi.
+
+Recent months have been characterized by upticks in difficulty, which together with the hash rate has seen consistent new all-time highs. Should history continue to repeat itself, price action should also revert to gains in line with their recovery.
+
+Commenting on recent events, Adam Back, CEO of Blockstream, cautioned observers on their choice of statistics resource and argued that the drop had not in fact been as large as some suggested.
+
+“Bitcoin hashrate back at 157 EH about 5% below 168 EH peak. Mostly recovered from 25% down at 125 EH,” he tweeted on Sunday.
+
+Sentiment tends toward “extreme fear”
+
+Along with shorts and overleveraged longs alike, it seems that irrational sentiment in crypto has finally been shaken out.
+
+That’s the conclusion of the popular Crypto Fear & Greed Index, which uses a basket of factors to determine trader sentiment and, therefore, what’s likely to occur on BTC/USD as a result of their actions.
+
+Previously, as new all-time highs of $65,000 appeared, Fear & Greed was nearing historic record highs in line with the tops of bull markets past.
+
+At nearly 80/100, a sell-off was clearly on the cards as per the metric, which took around a week to react to the price dip down to $46,000.
+
+Now, however, the pressure is off, and the index has gone from “extreme greed” to “fear” — effectively a “reset” of sentiment, which provides scope for further price gains.
+
+Analyst highlights price dip “silver lining”
+
+It’s not just private individuals who have undergone a serious mood change. According to other metrics, erratic behavior from professional traders has also been effectively cleansed from the market.
+
+In his latest update for Morgan Creek Digital co-founder Anthony Pompliano’s market newsletter on Friday, analyst William Clemente noted that longs had once again become an attractive bet.
+
+“There was some silver lining to this event, greed and leverage was flushed out,” he wrote.
+
+“In addition to the liquidations, this can be illustrated by funding rates. To peg the perpetual swap contract to Bitcoin spot price, funding rates are used. When the majority of traders go long, it becomes profitable to go short, and vice versa. During the event, funding rates flipped negative, meaning it became profitable for traders to take the long side of the trade. This has shown to be a buy signal in the previous two times this happened during this bull market.”
+
+Also approaching a “full reset” is the spent output profit ratio (SOPR), a metric, which Cointelegraph previously noted, tends to dictate local market bottoms.
+
+“Currently, SOPR is approaching the full reset mark, meaning price has either reached, or is very closing to reaching, the bottom of the current correction,” Clemente added.

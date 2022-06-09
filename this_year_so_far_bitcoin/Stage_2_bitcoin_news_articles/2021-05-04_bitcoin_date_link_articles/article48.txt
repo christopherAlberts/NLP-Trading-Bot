@@ -1,0 +1,75 @@
+“Running Bitcoin” is a sculpture in commemoration of Hal Finney — celebrating his 65th birthday and his contributions to Bitcoin. It will be up for auction beginning today, May 4, 2021, Hal's birthday, and 50% of the sale will be donated to ALS Association Golden Golden West Chapter. I am the artist, Marcus Connor, best known for being the original creator of the “Bitcoin Roller Coaster Guy.”
+
+Running Bitcoin
+
+Hal Finney was one of the very first people to run Bitcoin. He wrote, “When Satoshi announced the first release of the software, I grabbed it right away. I think I was the first person besides Satoshi to run bitcoin.” We know that Hal was doing this also due to his now-famous tweet which simply states, “Running bitcoin.” This sculpture was directly inspired by that tweet.
+
+Running Hal
+
+When Bitcoin was first released in early 2009, Hal was in great shape and was running quite a bit. Hal wrote, “I’d lost a lot of weight and taken up distance running.” He had run half marathons and was looking forward to running a full marathon. Unfortunately, later that same year, he was diagnosed with ALS and his running days were quickly coming to a close. On September 5, 2009, Hal ran his last race — the Disney Half Marathon in Anaheim, California. He ran that race with his wife Fran. Hal wore the number 415 in his final race and that number is carried on in this sculpture.
+
+First Person-to-Person Bitcoin Transaction
+
+On January 11, 2009, Satoshi Nakamoto (the creator of Bitcoin) made the first person-to-person bitcoin transaction — he sent 10 bitcoins to Hal Finney as a test. Luckily, the transaction worked, and people have been sending bitcoins all over the world ever since. That first transaction is forever saved on the blockchain, and the first eight characters of that transaction hash (f4184fc5) are incorporated into this sculpture. Those eight characters also share the digits four, one and five with Hal’s race number.
+
+Proof of Work
+
+In 2004, Hal created the first reusable proof-of-work system (RPOW). RPOW used Hashcash, which is a proof-of-work algorithm developed by Adam Back in 1997. Prior to RPOW, proofs of work were not reusable — RPOW allowed for sequential reuse to pass on a token. Hal’s RPOW also allowed users from anywhere to verify a token’s validity and correctness. This work paved the way for Bitcoin.
+
+Artwork Proof of Work
+
+Here is a progress video from the build.
+
+Sculpture Info
+
+The Bitcoin body of the sculpture is cut and hand-carved from Basswood. The wood was oiled first and then painted with oil paints that were cut with more oil to allow the wood grain to be seen. The body measures approximately five inches tall. The sign in his hand was made with the same process as the body. The limbs of the piece are made from steel and painted. All metal joints were soldered with silver. The base is a piece of a New Hampshire maple tree that is partially carved and oiled. The base was chosen for its unique natural curves and interesting beauty.
+
+Overall approximate dimensions are 11″ tall × 15″ long × 7″ deep (28 × 38 × 18 cm).
+
+More About Hal
+
+Hal graduated high school in 1974 as valedictorian of his class.
+
+He worked on programming video games for Intellivision and Atari.
+
+Hal developed early versions of Pretty Good Privacy (PGP) with Phil Zimmerman. He later became senior software engineer of PGP Inc.
+
+Hal ran the first cryptographically based anonymous remailer — a server that would receive and forward messages without revealing the original sender.
+
+Hal was married to his wife, Fran, for 35 years and they had two children.
+
+He enjoyed skiing, bicycling, hiking and trail running with their dogs.
+
+He also enjoyed flying and had a private pilot’s license.
+
+Some of his other hobbies/passions included astronomy and magic.
+
+Hal was a libertarian who believed in individual freedom and peaceful interaction.
+
+He was a positive person who looked forward to the future and the changes ahead.
+
+When Hal died on August 28, 2014, he was cryopreserved.
+
+Hal piloting a Cessna. Photo taken by his wife, Fran.
+
+
+
+Hal and Fran at an ALS fundraiser walk in December 2009.
+
+
+
+ALS
+
+On August 5, 2009, Hal Finney was diagnosed with ALS — a progressive degenerative disease. People with ALS also lose involuntary muscle function. The usual cause of death is respiratory failure because the lungs cease to function. There is currently no cure for ALS. Hal died from ALS five years after his diagnosis. Half of the sale price from this art auction will go to The ALS Association Golden West Chapter.
+
+ALS Association Golden West Chapter
+
+The “About” section of the ALS Association Golden West Chapter states, “The Golden West Chapter supports people living with ALS, and their loved ones, in 31 counties throughout California and the state of Hawaii. Everything they do advances the search for effective treatments and cures for ALS.”
+
+If you would like to donate bitcoin in memory of Hal Finney and to advance the search for effective treatments and cures for ALS, please visit HalsPalsFightALS.org.
+
+Keep Running
+
+As long as Bitcoin is running, it carries the flag of financial freedom for Hal.
+
+This is a guest post by Marcus Connor. Opinions expressed are entirely their own and do not necessarily reflect those of BTC, Inc. or Bitcoin Magazine.

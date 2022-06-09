@@ -1,0 +1,97 @@
+Other cryptocurrencies have no chance at all in competing with the monstrously large Bitcoin network.
+
+Mimesis Capital: Inside The Event Horizon, Report #16
+
+Bitcoin Versus Ethereum And Other Alts
+
+It’s been “alt season” for the past couple months. Bitcoin has remained situated around $50,000 while Dogecoin, Shiba Inu and Ethereum are soaring.
+
+While short-sighted gamblers like to make bets on the next big dog meme coin, it’s important to review the basics of why bitcoin has accrued value and compare bitcoin to other tokens.
+
+Bitcoin is the best monetary good.
+
+Why? It has specific credible properties: scarce, durable, portable, transactable and so on.
+
+From these properties, we can derive two unique characteristics:
+
+No counterparty risk No dilution risk
+
+These two characteristics can only be maintained by having the ability to hold your own private keys and run your own full node.
+
+No other coin or token can even compete with bitcoin on these properties and characteristics.
+
+Therefore, no other coin or token can compete with bitcoin as being the best monetary good.
+
+Like the invention of the number zero, “Bitcoin is a path-dependent, one-time invention; its critical breakthrough is the discovery of absolute scarcity — a monetary property never before (and never again) achievable by mankind.” — Robert Breedlove, “The Number Zero and Bitcoin”
+
+The point of money is being able to send wealth through time and space. Bitcoin’s unique properties enable it to do that better than any other good. Since money is a winner-take-all, network effect–driven good, individuals game theoretically converge on bitcoin as a Schelling point due to its specific properties and characteristics.
+
+“Each digital value network carries a network effect, the strength of which can be approximated by the $ value of each. (Shown here as size of circle, with accurate scale.)
+
+
+
+With your hard-earned money at stake, pick which circle others will value most.” — @croesus
+
+Why Do Ethereum And Other Alts Have Value?
+
+First, ETH is a token.
+
+Before its launch, 71% of ETH was premined. Some of this ETH was given to developers, but it was mostly distributed to ICO investors.
+
+ETH clearly has not and cannot compete with bitcoin on being a monetary good as its monetary policy has and never will be credibly perfect like bitcoin.
+
+Instead ETH is “pitched” as a promise to be useful in a variety of different applications. Since ETH is a token and not equity in a corporation, the community attempts to create both supply and demand narratives to incentivize speculators to buy and hold the token.
+
+The ETH community must continue to come up with unique narratives that rationalize a reason for holding ETH. It must continue changing if it wants to bring in new buyers.
+
+Some of these include demand use cases like issuing ERC-20 tokens, DeFi, NFTs and DAOs.
+
+Other narratives are supply driven, like “Ultra-Sound Money,” where the community has recently started to argue that ETH supply could potentially decrease over time.
+
+The unethical part of this is some people pitch ETH as “ultra-sound” money, something that is supposedly “better” than bitcoin.
+
+This idea of ETH being “ultra-sound” money is scammy and misleading.
+
+In fact, ETH is actually copying the monetary policy of an ERC-20 token built on ETH, $BOMB. This token has a monetary policy that dictates that supply will forever decline.
+
+The market cap of $BOMB is $3 million. If ETH successfully copies $BOMB and becomes worth just as much, it will trade at $0.02 per ETH, a rather large drawdown from $4,000.
+
+Of course, since this token has a constantly decreasing supply, it should confirm that supply itself (or “ultra-sound” money) does not make a token a good monetary good.
+
+Unlike bitcoin, whose value accrued as a game theory Schelling point from the organically decentralized, credibly fixed nature of its monetary properties, ETH’s value is derived from promises and speculation.
+
+ETH must continue changing and promising more applications and usefulness otherwise why hold the token? The hope is simply that it becomes more scarce and more in demand, forever. Like most startups and bubbles, it’s not the underlying fundamentals that give the asset value, it’s the hope and/or speculation of what it could become.
+
+Like stated above, ETH is a token. It’s useful if you want to use the Ethereum blockchain. It’s not money.
+
+The ETH token is like a Chuck E. Cheese token to use the Ethereum blockchain.
+
+ETH’s best-case scenario: There are sustainable, long-term, useful applications on the Ethereum blockchain that are not able to be built on Bitcoin or Bitcoin second layers, don’t require perfect censorship resistance or decentralization (average person can’t run an Ethereum node), and wouldn’t just be more efficient as a product or service offered by a corporation.
+
+Potential use cases:
+
+Buy an NFT or buy a Fortnite skin (corporation)?
+
+Trade on DeFi exchange or trade on Binance or Coinbase (corporation)?
+
+Get a DeFi loan or get a loan from Unchained Capital, BlockFi or HodlHodl (corporation)?
+
+Casino, gambling or speculation (e.g., Dogecoin, ETH, and all other alts)?
+
+The ONLY major use case for a blockchain is money (bitcoin). For money, you need censorship resistance and decentralization in order to have the best credible monetary properties.
+
+With that said, even if some of these use cases do play out, it doesn’t mean the token (ETH) would accrue value.
+
+When Chuck E. Cheese launched in 1977, you should have bought equity in the business, not their tokens.
+
+ETH And Alts Are Riding Bitcoin’s Monetization
+
+All alts are riding the success of bitcoin. On top of bitcoin’s monetization process, unprecedented monetary and fiscal policy leads to a breakdown in the pricing mechanism of “free” financial markets.
+
+Traditional finance doesn’t understand bitcoin, and they bring their idea of diversification to the world of monetary goods (not a good idea). In addition, retail speculators are shortsighted and constantly looking for the next big thing (SPACs, GME, Dogecoin, ETH, Tron, etc.) to get rich quickly. They fall for unit bias and chase price.
+
+At the end of the day, alts fall to the greater fool theory. Can I sell my token to someone else at a higher price?
+
+The best monetary good (bitcoin) becomes money, and the rest are nothing more than gambling in a casino. Dogecoin (nothing more than a joke/meme) closing in on Ethereum as the number three coin should help shed more light on that.
+
+This is a guest post by Mimesis Capital. Opinions expressed are entirely their own and do not necessarily reflect those of BTC, Inc. or Bitcoin Magazine.

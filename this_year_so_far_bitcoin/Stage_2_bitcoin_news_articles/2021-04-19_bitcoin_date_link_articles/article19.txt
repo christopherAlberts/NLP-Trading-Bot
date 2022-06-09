@@ -1,0 +1,9 @@
+DMG Blockchain Solutions, a public bitcoin mining company, has purchased 3,600 bitcoin mining machines.
+
+The Canadian company expects the order to push its hashrate to over 500 petahashes per second from roughly 140 petahashes. (The seven-day moving average for Bitcoin’s total hashrate is 144 exahashes per second, according to Luxor Tech.) DMG’s stock is trading at $1.39 CAD ($1.11 USD) at press time and is down 15%.
+
+DMG will receive the first shipments of these application specific circuit (ASIC) miners – computers optimized for one function only, in this case, producing hashes to mine bitcoin – this August. The company anticipates it will receive the final batch of the order next August.
+
+This delay underscores a pain point in a mining industry that is teeming with demand but short on the metal to meet it. As industrial-scale miners including Marathon, Riot, Blockcap and others purchase machines by the tens of thousands, there aren’t enough machines to go around, especially for North American bitcoin mining companies, considering that most of these machines are manufactured in Asia.
+
+North America’s mining footprint is growing, but China still holds a significant foothold in the industry, as evidenced by the network’s recent hashrate troubles.

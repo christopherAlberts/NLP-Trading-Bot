@@ -1,0 +1,39 @@
+“Are you running the numbers?”
+
+This is what Bitcoin Core developer Andrew Chow is trying to find out in a new survey.
+
+Sponsored by a grant from MIT’s Digital Currency Initiative, Chow crafted the survey “to get answers from people who are not current users” about why they don’t run a Bitcoin Core full node, the wallet software which simultaneously keeps a record of Bitcoin’s transaction history and connects users to other peers in the network.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Bitcoin full nodes are like servers so, if you’re not running your own to broadcast transactions to the wider network, then you’re relying on someone else’s.
+
+Moreover, a full node offers users complete control over what encoded rules they want to follow, as well as the ability to independently verify a variety of network data. The popular Bitcoin memes “One node, one vote” and “Run the numbers” demonstrate that these principles of self-verifiability and freedom of choice are core principles for Bitcoin’s most fervent followers.
+
+In short, running a full node is the ultimate exercise in financial self-determination in the Bitcoin realm.
+
+So that’s why Chow launched the survey, which runs until March 2, to give developers an “idea of the biggest barriers facing people who might want to run a node but currently do not.” The inspiration came from a conversation with fellow developers about the removal of a little-known wallet feature for Bitcoin Core.
+
+“Several months ago, a few other Bitcoin Core developers and I were discussing the removal of a feature called zapwallettxes. The main question that we had was whether anyone actually used it. This basically led to the general sentiment of wishing to know how users actually use Bitcoin Core,” he told CoinDesk in a direct message.
+
+Bitcoin Core usage survey
+
+The survey’s first questions establish the basics: where are you from, how’d you find the survey, do you run a Bitcoin Core full node?
+
+If the respondent replies that they do run a node, the survey follows up by asking if they use the Bitcoin Core wallet and if they ever have in the past. If you do run a node, the survey will continue to grill you over the specifics of your use: how often you update, what other software/hardware you use, why you run a node, etc.
+
+If you don’t run a node, the survey asks you what wallet you use if you own bitcoin and what barriers have kept you from running a node, be they technical complexity or otherwise.
+
+How many Bitcoin nodes are there?
+
+Measuring the total number of active nodes on the Bitcoin network is tricky, because some nodes may choose to be open to connect to any other node (a “listening node”), while others may choose to keep their connections closed and private (a “non-listening node”)
+
+Still, one of the more accurate metrics comes from prolific Bitcoin developer Luke Dash Jr., whose data estimates there are roughly 83,000 Bitcoin Core nodes currently active (and just over 1,100 or so of Bitcoin’s other few software versions).
+
+This is long shy of the 200,000 Bitcoin nodes that were running back at the peak of 2017’s market cycle, according to the same data, but still more than the 40,000 or so that were operating in the aftermath of March 2020’s historic sell-off.
+
+Better-than-expected response
+
+So far, the survey has 600 recorded responses, which is more than Chow and his peers projected for the early stages of the survey, which will run for roughly five more weeks.
+
+Chow said he plans to publish the data he collects once it’s fully analyzed, adding that “there are no plans to act on the results.” Bitcoin’s development is distributed, after all, so coordinating around specific changes for the diversity of users in the survey isn’t practical.

@@ -1,0 +1,33 @@
+Bitcoin’s recovery from Monday’s low is gathering pace, with the options market pricing in a double-digit probability of an above $50,000 by the month’s end.
+
+The leading cryptocurrency by market value is currently trading at $38,300, representing a nearly $4,000 or 11% gain on a 24-hour basis, according to CoinDesk 20 data.
+
+The price bounce has erased a significant chunk of losses observed earlier this week. Bitcoin dropped from $40,000 to $30,305 on Monday on heavy selling in the spot market, most notably on the U.S.-based Coinbase exchange.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Despite the recovery, the cryptocurrency is still well short of the record high of $41,962 registered on Jan. 8.
+
+Options market data shows investors are betting on a continued rally and are assigning a 20% probability of the cryptocurrency rising above $50,000 by Jan. 29 (monthly expiry), according to data provided by the crypto derivatives research firm Skew.
+
+Option probabilities are calculated using the Black-Scholes formula based on critical metrics such as call options’ prices, strike prices, the price of the underlying asset and the “risk-free” interest rate on investments as U.S. Treasurys and the time to maturation.
+
+Options are derivative contracts that give the purchaser the right, but not the obligation, to buy the underlying asset at a predetermined price on or before a specific date. A call option represents a right to buy, and a put option gives the right to sell.
+
+Bitcoin option probabilities for Jan. 29 expiry Source: Skew
+
+The 20% probability of bitcoin rising above $50,000 by Jan. 29 looks impressive, considering the monthly expiry is just two weeks away and the cryptocurrency is currently down 31% from $50,000. The likelihood of bitcoin rising above a certain level on or before the expiry is positively correlated to the time left for expiry.
+
+While a 31% rally to $50,000 in two weeks may be challenging to envision, it is far from impossible, as noted by Deribit Insights. The cryptocurrency has charted more significant moves in the recent past. For instance, prices rose 52% from $19,000 to $29,000 in the last two weeks of December alone.
+
+The bullish momentum would again gather pace if institutional inflows resume, Chris Thomas, head of digital assets at Swissquote Bank, told CoinDesk on Wednesday. The Grayscale Bitcoin Trust (GBTC), the biggest publicly traded crypto investment trust, reopened Tuesday after a month-long break. Inflows into Grayscale hold the key to a bitcoin price rally, as per investment banking giant JPMorgan. Grayscale, like CoinDesk, is owned by Digital Currency Group.
+
+Also, U.S. president-elect Joe Biden is expected to announce a $2 trillion stimulus on Thursday, strengthening the cryptocurrency’s long-term bullish case. Bitcoin is considered a hedge against monetary and fiscal indiscipline by prominent public-listed companies such as MicroStrategy.
+
+Call options in demand
+
+The one-, three- and six-month put-call skews, which measure the cost of puts relative to calls, remain entrenched into the negative territory, according to Skew data. That’s a sign of calls or bullish bets drawing higher demand than puts.
+
+The one-month put-call skew has declined to a lifetime low of -35.9, indicating record bullish sentiment. Investors have been buying the $52,000 call expiring on Jan. 29 since Tuesday.
+
+“In the past 24 hours, the $52,000 call option has registered a buying volume of 2,059 contracts. Meanwhile, the $36,000 call has seen a buying volume of 1211 contracts,” Swiss-based data analytics platform Laevitas told CoinDesk.

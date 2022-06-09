@@ -1,0 +1,25 @@
+Bitcoin and crypto lender BlockFi has been incorrectly depositing and then trying to reverse excessive amounts of bitcoin to users’ accounts, according to people who spoke to CoinDesk and others who posted their experiences on Reddit.
+
+The issue is apparently connected to a March promotional giveaway, specifically the March Trading promotion, in which qualifying clients were eligible for a bitcoin reward bonus if they traded a certain volume in U.S. dollars during the promotional period that ran from March 18 to March 31. The bonuses were to be credited to people’s accounts by May 31.
+
+On May 14, however, BlockFi tweeted that there was an issue and some participants might see an inaccurate bonus displayed on their transaction balances.
+
+But not everyone seems to have gotten the message. The result is a plethora of emails threatening legal action have gone out to some users who say they withdrew their erroneous bitcoin rewards before they realized the situation. Other users who did not participate in the promotion say they have also seen their withdrawals suspended, though it is not clear if these issues are related.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+In a statement sent to CoinDesk and also shared on Reddit, a BlockFi spokesperson said that on May 17 fewer than 100 clients were incorrectly credited with cryptocurrency associated with “a promotional payout that did not belong to them.”
+
+“Certain withdrawals were delayed and trading paused while BlockFi contacted clients to rectify the issue,” said the spokesperson. “At this time, withdrawals and trading on the platform have resumed. The situation did not affect any of BlockFi’s ongoing operations and measures have been taken to ensure that an error like this will not be possible in the future. Client funds are not impacted and are safeguarded.”
+
+Reversing the excess bitcoin rewards
+
+One user who reached out to CoinDesk said he received a large sum of BTC in his account which he thought was a reward for referring friends – so he sent it to his cold storage wallet.
+
+BlockFi’s previous promotion was a friend referral promotion that offered (albeit small) BTC rewards.
+
+The user said after looking at the transaction in more detail, he realized it was an error, so requested a cancellation of the withdrawal. The cancellation request was confirmed via email and the account shows the BTC transaction was reversed, with a note specifying the bonus transaction had been reversed. Nevertheless, the user said the bitcoin reward ended up in his cold storage wallet. He shared these documents with CoinDesk, and the blockchain shows the funds were indeed transferred to the person’s wallet address.
+
+The next day, he said he received a phone call and an email (which CoinDesk has reviewed) from BlockFi threatening legal action if the funds weren’t returned, but also offering $1,000 worth of the stablecoin GUSD for any trouble caused.
+
+Other users on Reddit posted images of BlockFi’s “generous” giveaway, with one deposit amounting to over 700 BTC. That transaction, according to the user, was reversed. Another said their friend received 5 BTC and was, in fact, able to move it off the platform.

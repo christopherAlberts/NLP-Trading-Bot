@@ -1,0 +1,36 @@
+FORT LAUDERDALE, Fla., May 10, 2021 /PRNewswire/ -- Graystone Company, Inc. (OTC: GYST) announced today that it has formed a separate operating subsidiary. All of the company's Bitcoin Mining will be conducted through a wholly owned subsidiary, Graystone Mining, Inc.
+
+Terahash are the units used to measure speed of the mining hardware for mining Bitcoin, with a TH/s equaling one trillion hash calculations computed per second. Due to the production and technical differences among the various BTC mining equipment available, from this point forward, the company will always discuss mining operations in terms of TH/s and will make its purchasing and acquisition decisions based on the following calculations:
+
+Acquisition cost per TH/s Power cost per TH/s.
+
+Graystone Mining, Inc. plans to acquire 50,000 Terahash (TH/s) in calendar year 2021. Based on open-source calculators available through online resources such as NovaBlock, we currently expect the following results from 50,000 TH/s:
+
+Daily Revenue: 0.30503539 BTC (or approximately $17,500 per day USD based on current Bitcoin price) Daily Power Costs: $2,816 per day (based on $1.69 per month per TH/s)
+
+*Calculated using: https://novablock.com/calculator
+
+These calculations are subject to change based on increases in price for equipment, costs for power or fluctuation in price per BTC. Even with these variables, the company feels strongly that an aggressive approach to Bitcoin Mining will be very favorable toward creating shareholder value.
+
+
+
+About The Graystone Company, Inc.
+
+Graystone Company operates two divisions: A Bitcoin BTC mining operation and a Wellness, Longevity and Anti-Aging product line. The Graystone Company, Inc. (OTC PINK: GYST) is headquartered in Fort Lauderdale, FL., and can be contacted at www.thegraystonecompany.com or by phone at (954) 271-2704.
+
+Notice Regarding Forward-Looking Statements in this press release which are not purely historical are forward-looking statements and include any statements regarding beliefs, plans, expectations or intentions regarding the future. Actual results could differ from those projected in any forward-looking statements due to numerous factors. These forward-looking statements are made as of the date of this news release, and we assume no obligation to update the forward-looking statements, or to update the reasons why actual results could differ from those projected in the forward-looking statements. Although we believe that any beliefs, plans, expectations and intentions contained in this press release are reasonable, there can be no assurance that any such beliefs, plans, expectations or intentions will prove to be accurate.
+
+For more information:
+
+Graystone Company
+
+Email: [email protected]
+
+Phone: (954) 271-2704
+
+SOURCE Graystone Company, Inc.
+
+Related Links
+
+https://www.thegraystonecompany.com/
+

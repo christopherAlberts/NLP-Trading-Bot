@@ -1,0 +1,13 @@
+Bitcoin Core version 0.21.1 is now available for download, including activation parameters for the Schnorr and Taproot protocol upgrade.
+
+Bitcoin Core version 0.21.1 has been released and is now available for download. The update includes mainnet and testnet activation parameters for the Taproot soft fork (BIP341), which also adds support for Schnorr signatures (BIP340) and tapscript (BIP342).
+
+Bitcoin Core is the original Bitcoin software client launched by Satoshi Nakamoto in 2009. The software is collaboratively developed by hundreds of contributors, with features and fixes being batched together and made available for download in major and minor releases. This is the first minor release of the 21st major release, hence the 0.21.1 version number.
+
+Beginning with this version, miners will signal readiness to enforce Taproot during Speedy Trial, a variation of BIP9 versionbits described in BIP341.
+
+If 90% of blocks within a 2,016 retarget period signal readiness for Taproot during Speedy Trial’s first three months, Taproot will be “locked-in” and the additional consensus rules specified in BIPs 341 and 342 will be enforced at block 709,632, which is expected in November.
+
+“If activated, these improvements will allow users of single-signature scripts, multisignature scripts, and complex contracts to all use identical-appearing commitments that enhance their privacy and the fungibility of all bitcoins,” explained the official release notes. “Spenders will enjoy lower fees and the ability to resolve many multisig scripts and complex contracts with the same efficiency, low fees, and large anonymity set as single-sig users.”
+
+Privacy and fungibility go hand in hand, and both are vital for bitcoin to be a good form of money. Bitcoiners are therefore excited for Taproot, since the protocol upgrade would “lay the groundwork for future potential upgrades that may improve efficiency, privacy, and fungibility further,” per the release notes.

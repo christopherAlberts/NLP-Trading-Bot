@@ -1,0 +1,17 @@
+Source: State Street
+
+State Street Corporation (NYSE:STT) today announced the launch of a new Bitcoin Thematic Indicator series to help contextualize the rising popularity of Bitcoin and how it is impacting more traditional financial markets.
+
+The series quantifies media coverage of Bitcoin, measuring the intensity or prevalence relative to all news of the day, as well as the sentiment of news over a period of time.
+
+
+
+This new indicator series expands the State Street MediaStats Thematic Indicators offering, which was launched in November 2020 in partnership with MKT MediaStats, a big-data information technology company specializing in financial markets. The indicators analyze hundreds of thousands of digital news sources to generate daily sentiment signals for various assets to help institutional investors form a more complete picture of what factors are driving their portfolios and overall markets. The new Bitcoin Indicator will capture vast information around the asset as well as its linkages to traditional currencies and emerging trends, which investors can leverage for portfolio planning and to gain indirect exposure through equity baskets.
+
+
+
+“Over the last few months, media coverage around Bitcoin has grown significantly relative to corporate, financial and economic media markets and continues to trend higher,” said Rajeev Bhargava, head of the Investor Behavior Research Team at State Street Associates. “Understandably, institutional investors are increasingly eager to learn how this rising attention is impacting traditional asset markets. Our newest Bitcoin series provides a quantitative and timely measure of the tone and intensity of media discussion and reveals additional transparency into this highly sentiment driven market, enabling our clients to make more informed investment decisions.”
+
+
+
+“Our indicators are built on a decade’s worth of natural language processing research combined with a strong academic underpinning,” said Dr. Gideon Ozik, managing partner and founder of MKT MediaStats. “Now, harnessing the power of vast data to provide real-time perspectives, we’re able to offer investors a tool they can leverage to make tactical and strategic judgments on key narratives that drive financial markets.”

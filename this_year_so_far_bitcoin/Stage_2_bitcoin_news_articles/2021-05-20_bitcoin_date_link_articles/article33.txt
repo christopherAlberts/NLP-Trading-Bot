@@ -1,0 +1,63 @@
+Hello, again: In a rumbustious week of trading on Wall Street, one big question that seems to be emerging is this: Is sentiment in crypto influencing the mood in traditional financial markets?
+
+The jury is out but a lot of folks seem inclined to draw parallels between risk appetite in the nascent digital-asset market and sentiment in stocks and bonds.
+
+Read: Why is crypto crashing? Will bitcoin prices ever recover? Here’s what traders and investors say
+
+As per usual, send tips, or feedback, and find me on Twitter at @mdecambre to tell me what we need to be jumping on.
+
+Sign up here for ETF Wrap.
+
+What happened this week? We promise that we won’t be talking about crypto on Wrap every week, but it is becoming a more pervasive talking point as one of the year’s hottest trades appears to be coming off the boil.
+
+And interestingly, researchers at JPMorgan Chase JPM, -1.70% this week made the case that investors are shifting from bitcoin BTCUSD, +0.01% to gold. It’s a thesis that seemingly has its challenges since the assumption is that bitcoin and gold investors don’t mix well.
+
+See: Bitcoin’s 40% crash ‘does feel like capitulation,’ says crypto specialist, but here’s where the next crucial support level stands
+
+JPMorgan says that “the bitcoin flow picture continues to deteriorate and is pointing to continued retrenchment by institutional investors,” and those investors are gravitating from bitcoin futures BTC.1, +0.23% , which the report says “experienced their steepest and most sustained liquidation since the bitcoin ascent started last October,” and into bullion GC00, -0.02% .
+
+What’s fascinating is that the top performing ETFs this week, among those screened by MarketWatch, are those for gold and silver miners.
+
+The ETFMG Prime Junior Silver Miners ETF is up nearly 10% so far this week, through midday Thursday, for example. The Global X Silver Miners ETF was up 8.1% and VanEck Vectors Junior Gold Miners ETF was showing a more than 7% return thus far.
+
+There isn’t an ETF exclusively for companies that digitally mine for bitcoin miners…yet, but Riot Blockchain Inc. shares RIOT, +14.08% are down nearly 7% over the same period this week and those for Marathon Digital Holdings MARA, +12.77% were off 1.2%, FactSet data show.
+
+Weekly ETF moves
+
+Top 5 gainers of the past week % Performance ETFMG Prime Junior Silver Miners ETF SILJ 9.6 Invesco Solar ETF TAN, +1.20% 8.6 Invesco WilderHill Clean Energy ETF PBW, -0.32% 8.5 Global X Silver Miners ETF SIL, -0.27% 8.1 VanEck Vectors Junior Gold Miners ETF GDXJ, -0.41% 7.3 Source: FactSet, through Thursday midday, May 20, excluding ETNs and leveraged products. Includes NYSE, Nasdaq and Cboe traded ETFs of $500 million or greater
+
+Top 5 decliners of the past week % Performance iShares U.S. Home Construction ETF -3.4 SPDR S&P Homebuilders ETF XHB, -1.35% -3.0 Global X Copper Miners ETF COPX, -1.32% -2.9 Global X U.S. Infrastructure Development ETF PAVE, -1.10% -2.4 iShares MSCI Global Metals & Mining Producers ETF PICK, -0.93% -2.3 Source: FactSet, through Thursday midday, May 29, excluding ETNs and leveraged products. Includes NYSE, Nasdaq and Cboe traded ETFs of $500 million or greater
+
+What’s new?
+
+Modernizing Dow theory? The iShares Transportation Average ETF IYT, -0.90% will be undergoing a renovation this summer.
+
+The $2.2 billion ETF tracks the price-weighted Dow Jones Transportation Average DJT, -0.87% and is viewed as an important gauge of the health of the market and the economy, tracking an index that is even older than the Dow Jones Industrial Average DJIA, -0.25% .
+
+Rather than track the 20-biggest transportation and airfreight companies on a price-weighted basis, the ETF will now track 41 companies, including Uber Technologies Inc. UBER, +1.52% and Lyft Inc. LYFT, +4.10% on a market-cap weighted basis.
+
+Why it matters: The change is a big deal because the transports are part of one of the oldest methods of technical analysis of the market called Dow Theory, which holds that any lasting rally to new highs in the Dow industrials must be accompanied by a new high in the Dow Jones Transportation Average.
+
+It will be interesting to see how investors respond to that change.
+
+Is there a SPAC for that?
+
+Perhaps the only thing buzzier than crypto over the past 12 months has been SPACs, or special-purpose acquisition companies. In 2021, SPACs have raised nearly $100 billion in initial public offerings — more than the amount SPAC IPOs raised from 2003 to 2019 combined.
+
+However, the SPAC phenomenon, which became a popular way for companies to be taken public, is suffering a powerful downturn but that hasn’t stopped the rollout of a new fund pegged to the SPAC craze.
+
+Tuttle Capital Management earlier this week launched the Short De-SPAC ETF SOGU, +1.87% , which aims to benefit from declines in the SPAC market.
+
+Comments from the Securities and Exchange Commission, who said they were reviewing the accounting behind SPACs and their issuance, also helped to add to the chill in the space.
+
+The Defiance Next Gen SPAC Derived ETF SPAK, -1.30% is down 30% over the past three months and down 16% so far this year.
+
+So a fund that would bet against the universe of companies that have been taken public through a SPAC is either late or right on time.
+
+Chart of the week
+
+This table highlights the increasing focus on bank stocks in this phase of the recovery from the COVID pandemic.
+
+The Wall Street Journal recently wrote that about $32 billion has been poured into broad financial stocks this year, citing data from Bank of America strategists.
+
+“The biggest factor driving flows into the financials has been a belief that 2020 marks a secular low point so far as interest rates and inflation,” WSJ quotes Michael Hartnett, chief investment strategist at Bank of America, as saying.

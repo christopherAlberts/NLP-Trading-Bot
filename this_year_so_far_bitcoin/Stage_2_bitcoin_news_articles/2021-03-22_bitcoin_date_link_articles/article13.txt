@@ -1,0 +1,31 @@
+After a volatile week for bitcoin’s price, what can on-chain data tell us about the price drop, long-term HODLers, liquidity and more?
+
+Another volatile week in the books for bitcoin, with the price ranging between a new all-time high of $61,788 down to $53,221. There are several developments on chain that are worth diving into.
+
+Bitcoin Moved Off Of Exchanges
+
+Bitcoin have continued to be pulled off of exchanges, now down 41,215 ($2.42 billion) in just the last 30 days. There are several factors that have been speculated to be the causes of this:
+
+Increase of awareness of the importance of cold storage in combination with a variety of new institutional-grade custody solutions that now exist. Miners have stopped selling in comparison to the rates at which they did in mid-to-late 2020, with their seven-day outflows at their lowest levels in five years, per CryptoQuant. This could partially be credited to the ease of access to liquidity for miners through maturing borrowing/lending markets. This allows them to access capital without having to sell coins onto the market. The possibility of bitcoin being locked up in escrow through borrowing/lending platforms, possibly caused by the opportunity to capture arbitrage yields through cash/carry trade that exists due to the difference between spot price/futures premiums.
+
+Illiquid Supply
+
+The same idea can be illustrated by looking at the change of liquid supply of bitcoin. This metric indicates that liquidity is dramatically decreasing, possibly for the reasons mentioned above. This should cause a dramatic supply shock once more demand is generated in the coming months as new players seek to acquire bitcoin as an inflation hedge asset.
+
+Long-Term HODLers Continue To Accumulate
+
+On a similar note, three-to-five-year-old HODLers continue to accumulate as one-to-two-year-old HODLers have been selling into the recent price rally. This is particularly interesting as those three-to-five-year-old HODLers have experienced a bull run before, while the one-to-two-year-old HODLers haven’t; possibly illustrating that veterans know what is yet to come.
+
+Cause Of Price Drop
+
+On March 15, the bitcoin price dropped as low as $53,221. This can be credited to a cascade of over-leveraged long liquidations, totaling $738 million. According to Binance, 60 percent of contracts at the time were leveraged 20-times or more. In that sense, this is a good thing for bitcoin as it is wiping out the greed before a more sustainable continuation.
+
+Long-Term Metrics
+
+Along with HODL Waves, Glassnode’s Reserve Risk (the bitcoin price divided by the metric HODL Bank) offers a gauge of the confidence of long-term bitcoin holders. Both of these metrics have roughly five-times of runway left before reaching 2013 and 2017 top levels. Nothing to be concerned about, but something to keep an eye on throughout the coming months.
+
+Canada’s Purpose ETF
+
+In other news, Canada’s Purpose Bitcoin ETF reached a milestone of $1 billion in assets under management on its one-month anniversary of going public. This is great news, and leaves one to image how well a U.S.-based bitcoin ETF could do once approved.
+
+This is a guest post by William Clemente III. Opinions expressed are entirely their own and do not necessarily reflect those of BTC Inc or Bitcoin Magazine.

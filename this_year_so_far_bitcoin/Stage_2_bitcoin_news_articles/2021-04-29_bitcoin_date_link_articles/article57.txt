@@ -1,0 +1,13 @@
+Bitcoin mining firm Genesis Digital Assets has ordered $93.63 million worth of new machines from Canaan.
+
+The order is for Canaan's latest AvalonMiner A1246 model, which produces a hashrate of 90 tera hashes per second (TH/s). It is not clear when the order will be dispatched as there is already a global chip shortage. Canaan declined to comment when contacted.
+
+When shipped and deployed, the machines will help Genesis add 117 megawatts (MW) of bitcoin computing capacity to its existing 140MW power, according to Canaan.
+
+Founded in 2013, Genesis claims to have a 1.2% share of bitcoin's global mining hashrate. The firm says it has brought over 250,000 miners online and mined over $1 billion in bitcoin since inception. Genesis Digital Assets is part of Genesis Mining that was spun off into a separate entity earlier this week.
+
+As for Nasdaq-listed Canaan, the order appears to be one of its largest. Its rival Bitmain, on the other hand, has seen orders worth millions of dollars in recent months.
+
+Earlier this week, for instance, Core Scientific ordered 112,800 bitcoin mining machines from Bitmain. That order alone is reportedly estimated at worth more than $400 million.
+
+Bitcoin mining firms continue to order and purchase new machines to expand their capacity amid the bull market. The monthly revenue of bitcoin miners also reached an all-time high in March. According to data compiled by The Block, bitcoin miners made a total of $1.75 billion in revenue in March.

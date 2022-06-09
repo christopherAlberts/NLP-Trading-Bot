@@ -1,0 +1,43 @@
+Why blockchain, with bitcoin and NFTs, is a good thing
+
+Image taken from investopedia.com -
+
+Kiran Mathur Mohammed
+
+As the rich world gradually becomes less religious, with the developing world soon to follow, something is rushing in to fill the void. Enter blockchain, and its bitcoin and non-fungible tokens.
+
+As much as I’ve always respected the undeniably impressive technology behind it, the evangelical zeal, reverent voices and glints in the eye of blockchain adherents is mildly alarming, to say the least.
+
+After all, this technology is simply a way of recording entries in an online ledger that splits up the record between lots of different computers. Complicated codes (cryptography) ensure that only the people who are meant to be adding to or editing the record can do so. Since the record is all split up, no one person can change it easily.
+
+Clever, to be sure, but worthy of the fervour it has inspired?
+
+The latest craze is non-fungible tokens – unique digital files that cannot be replicated. NFTs have rocketed into prominence (or notoriety, depending on who you talk to) in the art world since the recent sale of one of Instagram artist Beeple’s work for US$69 million – just for a digital image that can be viewed by anyone.
+
+Sounds mad. But is it any more absurd than any of the other beliefs that underpin modern society?
+
+Is a strong belief that a self-limiting online ledger is an excellent store of value any different from the immense value we currently ascribe to such varied objects as lumps of shiny yellow metal, sparkling rocks, or daubs of paint on some stretched canvas?
+
+There is no coincidence that gold and art are the two markets to be the first to be disrupted by blockchain. That is because they are opaque and rely heavily on trust and belief. In the case of the former, blockchain provides a way to verify the authenticity and provenance of a piece, establish rarity (the “non-fungible” bit of NFT) and in the case of the latter, a way to limit supply of a digital token, except in a more convenient and assured way than mining gold.
+
+Underlying the value of gold and art is little more than faith. In the case of art, it is nurtured by the doctrines of the high priests of art curation, legitimising each piece with every exhibition (ritual) and critical paper (Talmudic text).
+
+What will blockchain do to art? The art world will be forced to become more transparent, and more democratic. Art will perhaps more closely resemble popular music or film. Now that is not necessarily a good thing – there may well be a period of anarchy with lots of very expensive, bad art for some time. But demand for high-quality curated content will not go away. Disruption will invigorate artists and curators.
+
+Strong belief from early adopters is fuelling the shift. We discount this to our peril. Both NFTs, as well as a basket of cryptocurrencies, which will become more stable as they age (subject to distortions of government regulation), and are here to stay.
+
+As I’ve written before, according to Nobel prize-winning economist Kenneth Arrow, almost every economic action is underpinned by trust or lack thereof. If you can verify a transaction or an agreement, you can trust that it will be carried out. It therefore has value and can be traded. Blockchain can therefore increase the supply of trust in the world, increasing economic growth.
+
+If one is to especially lean on the side of optimism, I’d argue that blockchain can help us become better behaved. If you know your action will be likely to be recorded in an immutable chain, you’re less likely to try to cheat or break a contract.
+
+How does this affect people like us? Well, technology like this is even more necessary in the developing world, where there is less trust. TT, for example, ranks 174th out of 190 countries in contract enforcement, according to the World Bank.
+
+Blockchain has a use case wherever some form of verification is required – which is necessary for almost any transaction, from transferring a title deed, to onboarding a new customer, to ensuring a contract can be easily entered and enforced into without requiring very expensive lawyers.
+
+By becoming early adopters, developing countries like ours have the rare opportunity to ride this wave of growth, and leapfrog developed nations by rapidly adopting appropriate blockchain solutions.
+
+Try squeezing that on a placard!
+
+Kiran Mathur Mohammed is an economist and co-founder of medl, an IDB lab-backed social impact health tech company
+
+kmmpub@gmail.com

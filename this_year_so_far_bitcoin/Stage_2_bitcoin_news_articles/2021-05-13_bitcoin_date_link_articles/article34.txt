@@ -1,0 +1,73 @@
+The main indicators of on-chain analysis are reaching important areas of support today. On the one hand, their maintenance will be crucial for the consistency of the long-term bull market, and on the other hand, they give hidden signals to a potential increase in BTC price.
+
+In today’s analysis, we look at four on-chain indicators: NUPL, MVRV Z-Score, UTXOs in profit, and aSOPR. All this in view of the bearish price action of bitcoin, which reached an important support area today.
+
+BTC hits 21 EMA
+
+Last week, the price of bitcoin (BTC) made another attempt to break above the $60,000 level between May 8 and May 10. However, the area strongly rejected price action and led to a sharp drop in the following days.
+
+The short-term downtrend resulted in a loss of $50,000 level and a low at $45,700. Bitcoin lost 23% of its value in just four days. Currently, the price is trying to recover the lost $50,000 and generate a potentially bullish hammer candle.
+
+BTC Chart by Tradingview
+
+A very significant event today is hitting the weekly 21 EMA, which is currently at $46,600 (blue line).
+
+This line represents historic bull market support and has served as a rebound point many times in previous bitcoin cycles (blue arrows). Its maintenance is crucial for the integrity of the ongoing bull market. The fall below and the bearish retest was historically a strong signal of the end of a cycle (red arrows).
+
+BTC Chart by Tradingview
+
+The last time this line was touched was in early October 2020, just before the start of the biggest increases in this bull market. Today, bitcoin touches the weekly 21 EMA again.
+
+NUPL lowest in 2021
+
+In the face of bitcoin’s key price action, it is worth looking at the behavior of some on-chain analysis indicators that can help determine where the main cryptocurrency is in the cycle.
+
+The first indicator is NUPL, which BeInCrypto wrote about last month. It is used to determine the total profit/loss for the circulating coins’ supply.
+
+Story continues
+
+The current value of this indicator is around 0.6. This is an important level that has served as resistance/support five times in the previous cycle. It was even hit during the mini-run in July 2019 when bitcoin peaked at $13,880.
+
+Net Unrealized Profit/Loss / Source: Glassnode
+
+Looking at the medium-term NUPL chart from the last 5 months, we can see that it currently records its lowest values in 2021. Interestingly, the indicator shows a hidden bullish divergence as its value decreases (red arrows) and the bitcoin price increases (blue arrows).
+
+Net Unrealized Profit/Loss / Source: Glassnode
+
+MVRV Z-Score is also the lowest in 2021
+
+The second significant indicator is the MVRV Z-Score. It expresses the ratio between the difference between market capitalization and realized capitalization. In practice, it allows you to assess when bitcoin is over/undervalued relative to its “fair value.”
+
+In the long-term chart, we can see that the current value of MVRV Z-Score is around 3.3. This level also represented a minor area of resistance/support for the 2017 cycle.
+
+However, more importantly, it served as a short-term resistance during the bitcoin price action around December 2020. The main cryptocurrency then tried to break resistance from the historic ATH at $20,000. Today – with a price around $50,000 – we see a decline to the same level.
+
+MVRV Z-Score / Source: Glassnode
+
+In this year’s medium-term chart, we see a situation identical to the NUPL chart. The MVRV Z-Score has its lowest values in 2021 (red arrows), but the price of BTC is rising (blue arrows). This is an upward signal of hidden bullish divergence that usually leads to a trend continuation.
+
+MVRV Z-Score / Source: Glassnode
+
+On-chain support on UTXOs and aSOPR
+
+Two other indicators of on-chain analysis are touching important areas of support now – namely the percent of UTXOs in profit and aSOPR.
+
+The former expresses the percentage of UTXO whose price at creation time was lower than the current price. In other words, it allows you to estimate how many BTC addresses are making a profit.
+
+It turns out that this indicator has now fallen – for the second time in this run – to the area of 90%. This level was used as support five times in 2017. Each drop to this value was related to a local low on BTC price and provided a strong buy signal.
+
+Percent of UTXOs in Profit / Source: Glassnode
+
+Meanwhile, the medium-term aSOPR chart also shows an important reset level around one. If the graph of this indicator does not fall below the black line, it means that the average network user sells BTC at a profit.
+
+For the 2021 price action, it is already the fourth retest of this area. However, as long as it is above one, the integrity of the bull market is intact.
+
+Adjusted SOPR / Source: Glassnode
+
+Conclusion
+
+The four above-mentioned indicators of on-chain analysis reached important support areas, the maintenance of which was a signal for the continuation of the bull market in the past.
+
+Moreover, if you combine this with the fact that bitcoin has just hit the weekly 21 EMA – historic bull market support – then a strong continuation of uptrend can be expected.
+
+For BeInCrypto’s latest bitcoin (BTC) analysis, click here.

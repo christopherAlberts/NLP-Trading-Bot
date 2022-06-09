@@ -1,0 +1,25 @@
+Independent Reserve, one of the largest digital currency exchanges in Australia, says it will delist the bitcoin SV cryptocurrency due to controversial behavior by its team.
+
+In an announcement Wednesday, the exchange said, “In light of recent events and community feedback Bitcoin SV (BSV) and related trading pairs will be delisted.”
+
+CoinDesk reached out to clarify the reasons for the move, with CEO Adrian Przelozny responding:
+
+Related: Bitcoin Developers Weigh the Costs of Defying White Paper Copyright Claim
+
+“Bitcoin is ‘The People’s Money’. At its very core are the principles of openness and freedom and these were also the founding values of Independent Reserve. The behaviour shown by the team behind BSV has been completely counter to these ideals, repeatedly spreading misinformation and making baseless threats against the community. Recent talk of legal action against developers working to improve the Bitcoin ecosystem proved to be the final straw. These are the actions of a bully and they must stop.“
+
+Przelozny’s comments appear, in part, to reference threats by high-profile BSV proponent Craig Wright to sue entities hosting the bitcoin white paper online, claiming he owns the copyright. Earlier this month, Wright sent take-down letters from his lawyers to several entities, with Bitcoin Core – bitcoin’s primary developer team – complying in the face of a costly legal battle.
+
+Wright controversially claims to be Satoshi Nakamoto, the inventor of bitcoin, but has yet prove his claim to the satisfaction of most in the community and media, bar some supporters of BSV. Wright also claims BSV “is bitcoin,” making the claim in the title of his blog.
+
+The bitcoin white paper was originally released under the permissive MIT license, meaning anyone is free to use or distribute it. Since Wright sent out his legal letters, a number of notable entities have taking the decision to host the white paper, including Square, the city of Miami and the governmental websites of Colombia and Estonia.
+
+Related: Why Everyone From Square to Facebook Is Now Hosting the Bitcoin White Paper
+
+Independent Reserve will halt trading of BSV on March 28, allowing a further six months for customers to withdraw any BSV holdings from the platform.
+
+See also: What Is the Bitcoin White Paper?
+
+Related Stories
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.

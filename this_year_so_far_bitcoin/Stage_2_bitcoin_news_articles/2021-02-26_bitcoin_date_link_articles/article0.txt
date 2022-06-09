@@ -1,0 +1,33 @@
+The Bitcoin price has risen more than 340% this year, causing some analysts to label it a 'bubble' Dado Ruvic/Reuters
+
+As more institutions embrace bitcoin, some experts say the cryptocurrency is not well suited as a method of payment.
+
+Janet Yellen on Monday said bitcoin is "an extremely inefficient way of conducting transactions."
+
+Insider asked five experts whether they think bitcoin will see widespread use as a form of payment.
+
+Sign up here for our daily newsletter, 10 Things Before the Opening Bell
+
+As more institutions embrace the idea of accepting bitcoin as payment, from Tesla to PayPal, criticisms about such a move have grown, especially in light of bitcoin's recent volatile trading.
+
+The huge price swings of the cryptocurrency as well as its finite supply are cited as the two main reasons why it does not make an effective method of payment. US Treasury Secretary Janet Yellen is one such critic. Yellen on Monday expressed her doubts about bitcoin ever being used to transact.
+
+"I don't think that bitcoin is widely used as a transaction mechanism," Yellen told the DealBook DC Policy Project. "It's an extremely inefficient way of conducting transactions and the amount of energy that's consumed in processing those transactions is staggering."
+
+Bitcoin, which began circulating in 2009, is attractive for its security, anonymity and de-centralized nature. For some, the possibility of it being used as payment is a ways off, but still has potential.
+
+"While Bitcoin may one day be used as a mainstream method of payment, the current use case for the cryptocurrency is as a store of value and a hedge against inflation," Adam Liposky, Ecosystem Operations Lead at Pocket Network, a blockchain data ecosystem said.
+
+Others, however, are firmer in their insistence that the asset is not currency and will never be a method of payment.
+
+Here is what five experts had to say:
+
+"There is a common belief that in order for bitcoin to thrive, it must become widely adopted as a form of payment. That is not correct. Bitcoin will never be a money substitute for the consumer mass market. It is too slow, expensive, and volatile for that purpose. Stablecoins will fill that purpose. That's why we invented Tether. And that's ok. Bitcoin has tremendous value in other use cases. It has no equal when it comes to cross-border settlements. That purpose alone would justify a $5 trillion market cap. We need to move away from thinking about bitcoin as a global consumer payment network. It's not suited for that purpose, nor is its success depends on it." - William Quigley, managing director at Magnetic, a blockchain and cryptocurrency investment firm and incubator
+
+"I feel we've gone too far down the road of bitcoin as a store of value asset rather than a payment method. More akin to gold than say euro, there may be some use cases as a payment method but I don't think you'll be using it to buy groceries anytime soon." - Jeffrey Wang, Head of America's at Amber Group, a cryptocurrency financial service firm
+
+"If you bought a $50,000 Tesla with four bitcoins on October 1st, that purchase now has an opportunity cost of $212,000 because bitcoin's dollar price has risen from $10,000 to $53,000 in those four and a half months."That type of volatility is unsuitable for transacting in an economy." - Robert Minter, Director of Investment Strategy, Aberdeen Standard Investments, a global asset manager
+
+"We believe bitcoin is evolving to become the digital gold, aka. a store of value. Virtual currencies such as USDC should better assume the role of a mainstream method of payment." - Alex Zhao, CEO of Standard Hashrate Group, an open platform for bitcoin miners to standardize and tokenize their bitcoin hashrate
+
+"Not in the near future and probably never. Its value is just too unreliable for any corporate or customer at the moment. Maybe when salaries are getting paid in BTC but I find that hard to believe for the next nnn years. Imagine buying a car for 1 BTC and your salary is paid in USD. The car can easily be thousands of dollars more expensive or cheaper in a week's time. I don't believe the world is ready for that." - Julius de Kempenaer, Senior Technical Analyst at StockCharts.com, a technical analysis and financial charting platform

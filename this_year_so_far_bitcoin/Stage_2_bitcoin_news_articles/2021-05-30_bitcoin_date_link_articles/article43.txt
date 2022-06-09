@@ -1,0 +1,29 @@
+EZ Blockchain Partners With Texas-Based Oil Provider to Monetize Wasted Natural Gas With Bitcoin
+
+While a number of media pundits and politicians have been talking about Bitcoin’s energy consumption, there’s been a myriad of firms working toward green solutions well before all the controversy. Unfortunately, critics don’t highlight the amount of renewables miners use or the cogeneration applications. One project called EZ Blockchain has partnered with the Texas-based oil and gas service provider, Silver Energy to monetize wasted natural gas with bitcoin, while reducing emissions.
+
+Monetizing Stranded Gas and Reducing Emissions With Bitcoin
+
+A firm called EZ Blockchain recently detailed that the company has partnered with Silver Energy, an oil and gas provider based in Texas. According to the firm, the team installed Silver Energy’s first mining site at the company’s Alberta, Canada location in February 2021.
+
+After the installation of Microbt Whatsminers, EZ Blockchain said that the project reached around 1 megawatt of power consumption. All of the power is “processed from 250 MCFd of stranded natural gas using a gas-electric generator,” the company’s blog post notes.
+
+“Today oil and gas producers are implementing Bitcoin mining in the oil field as a part of their ESG policy more often,” the cofounder and CEO of EZ Blockchain, Sergii Gerasymovych said in the report. Gerasymovych added:
+
+Bitcoin mining’s enormous power consumption can solve environmental problems caused by gas flaring and leaking wells. Since Silver Energy is an oil and gas service company, it was a natural symbiosis for EZ Blockchain to work with them.
+
+Natural gas is a byproduct of oil extraction and oil providers either have to flare the gas or use it in some other way. The World Bank estimates 5.3 trillion cubic feet of natural gas is flared annually into the atmosphere.
+
+EZ Blockchain’s manufacturing production line designs and manufactures mobile data centers that act as a flare mitigation system. The company says that the Silver Energy project took three days to construct and it was fully operational by March 2021.
+
+“We’ve had the privilege of working with EZ Blockchain over the last year. Their support in getting our mine up and running was invaluable, saving us countless hours and maximizing uptime,” Joel Gordon, Silver Energy president and CEO explained.
+
+According to EZ Blockchain’s website, the company has expanded quite a bit since it started in 2017 and now has headquarters in Chicago, LA, and Estonia. To date, EZ Blockchain has 35 MW produced and installed and 20 MW more in production.
+
+The firm is not the only company producing mobile bitcoin mining data centers, as the Canadian business Upstream Data also offers stranded gas solutions. Moreover, Crusoe Energy Systems a U.S.-based business offers similar crypto mining solutions for oil and gas producers as well.
+
+What do you think about EZ Blockchain partnering with Silver Energy to mine bitcoin with excess gas? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, EZ Blockchain
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

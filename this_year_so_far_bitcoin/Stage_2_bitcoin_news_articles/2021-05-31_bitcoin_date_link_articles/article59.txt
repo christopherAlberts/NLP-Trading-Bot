@@ -1,0 +1,29 @@
+Central Bank of Brazil Issues Guidelines for Its CBDC
+
+The Central Bank Of Brazil, the highest monetary authority of the country, has released a note listing the general guidelines for the design of a hypothetical central bank digital currency (CBDC) for the country. While there are still no concrete steps taken in this direction, at least the document recognizes there have been discussions about this possibility in the institution.
+
+Central Bank of Brazil Issues General CBDC Guidelines
+
+The Central Bank of Brazil, the economic authority of the South American country, has released a document where it specifies the general guidelines of a future Brazilian central bank digital currency (CBDC). The note, titled “Banco Central do Brasil releases general guideline for a Brazilian CBDC,” details the characteristics and traits that a hypothetical CBDC emitted by the institution will have in the future.
+
+Among the characteristics detailed in the document, apart from mentioning its use as a money substitute, its compliance with AML and anti-terrorism regulations, and also its issuance by the same bank, there are other more interesting attributes. First, the bank cites the coin will feature an:
+
+Adherence to all privacy and security principles and rules determined, in particular, by the Bank Secrecy Law, and by the General Law for the Protection of Personal Data (LGPD);
+
+As a fundamental part of the currency. CBDC’s have been criticized for the total control that the issuers can have over the spending information and personal data of their users, so the bank is already dealing with this kind of criticism early. Another important specification the bank mentions is the relation its currency will have with smart contracts. The document also states the currency will have an:
+
+Emphasis on the development of innovative business models based on technological advances, such as smart contracts, internet of things (IoT), and programmable money;
+
+Which may enable the future currency to be interoperable with smart money features.
+
+This CEDB initiative is part of the program called Agenda BC#, an initiative of the bank to modernize some of its operations, including fintech startups in the banking business and introducing some sandbox regulations. However, this is just an initial design draft and the bank recognizes this might change in the future, including or excluding some traits of this list after a more open dialogue is established with private sectors of the Brazilian society.
+
+CBDC Study Not so Common in LATAM
+
+The Central Bank of Brazil has been one of the pioneers in proposing and issuing the guidelines for its CBDC in the continent. Most of the countries in the region have made no announcements of having an interest in investigating this kind of currency to deploy it in their territories.
+
+In contrast, the Bahamas, an island country, is on the verge of launching the Sand Dollar, its own CBDC. Also, China is already using its own CBDC for cryptocurrency payments, having transacted 3 million operations worth over a billion yuan during last year.
+
+What do you think of the advances the Centra Bank of Brazil is making on CBDC? Tell us in the comment section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons

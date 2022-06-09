@@ -1,0 +1,21 @@
+CoinGeek Chief Historian Kurt Wuckert Jr. recently sat down with Lucas Forstmeyer to talk about all things blockchain and Bitcoin.
+
+Forstmeyer is on a quest for knowledge and insight, his videos tend to focus on the human experience, healing from trauma, and taking a thoughtful approach to psychology. These days, when it comes to the human experience, it is increasingly likely that you will be having a conversation about blockchain technology and its potential for disruption—which is exactly what Forstmeyer and Wuckert end up doing.
+
+Wuckert begins by giving the audience insight into his journey to Bitcoin SV (BSV) and briefly discussed how he found BTC before transitioning to BCH and ultimately BSV.
+
+“The scaling debate had heated up quite a bit, I was a big blocker, I was a supporter of Bitcoin XT and Bitcoin Unlimited, and going the direction of that, I thought small block Bitcoin was such a bad idea that nobody would adopt it, that there was no way we could lose because small block Bitcoin is so uninteresting—turns out I underestimated how silly or manipulative some people could be,” Wuckert said.
+
+“So I went to Bitcoin Cash, a big advocate of Bitcoin Cash until 2018 until the BSV split happened and I once again followed the biggest block version of Bitcoin. I believe in big blocks, I believe in building business and creating value with the tools rather than trying to absorb value just because it exists—that’s my general world view, that’s my very short version of my Bitcoin story.”
+
+Wuckert and Forstmeyer go on to talk about why Bitcoin was invented, the value in building on Bitcoin versus thinking of Bitcoin as digital gold, how Bitcoin can provide solutions regarding data friction and data integrity, as well as the benefits of on-chain identity.
+
+“Let’s talk about going to a bar, for example, right now in the United States I need to prove that I am at least 21 years old to have a drink, when I do that, I hand my ID to the bartender, who now knows my name, address, and DOB, that’s a lot of information for a bartender that I don’t know. That’s most of the information you would need to start to steal my identity and take out a loan in my name,” Wuckert said.
+
+“However! If I hash that information, all I would need to do is show him a QR code and he scans it, he does not need to know my name, but it can say that Kurt has been attested to, that he is at least 21 years old, and that he has every right to drink in this bar, but he doesn’t need to get any of that information, he isn’t given the actual information, he is given a hash to the attestation that he is allowed to serve me a drink. Now my privacy is completed protected in that situation as opposed to [the first scenario I laid out].”
+
+Wuckert and Forstmeyer go on to talk about putting data on the blockchain and tokens on Bitcoin, but I do not want to spoil it all for you before you watch it. Wuckert’s conversation with Forstmeyer gives a unique perspective on Bitcoin, creating value, and the value in commerce that we do not always get to hear. Forstmeyer asks a lot of questions that long-time BSV supporters may not think to ask which provides both newcomers and veterans with valuable insight into the topics of conversation that take place.
+
+You can watch the full video, “What makes Bitcoin SV sound money? (Satoshi Vision) with Kurt Wuckert Jr.”, on Lucas Forstmeyer’s YouTube channel.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

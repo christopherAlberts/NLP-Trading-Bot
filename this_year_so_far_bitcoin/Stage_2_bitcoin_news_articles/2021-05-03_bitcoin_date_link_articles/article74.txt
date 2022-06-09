@@ -1,0 +1,39 @@
+The potential exit scam pulled by the Turkish crypto exchange Thodex has possibly become one of the most notorious crypto scams in history.
+
+Thodex trading volumes were reported to be in the billions of dollars before it went offline. Although the actual figure turns out to be much less, it’s still enough for skeptics and regulators to take note of.
+
+BeInCrypto attempted to delve below the tip of the iceberg to better understand exactly what happened and where the funds went.
+
+Thodex background
+
+On April 21, Thodex announced that it had suspended operations due to a “partnership offer.” According to an undated statement on its website, the exchange said that it was courting external investments to serve its clients better. It also said users shouldn’t worry about their funds, as services would only remain shut for five working days.
+
+Following this announcement, users began complaining that they couldn’t withdraw from their accounts. Concerned they had lost all their investments, many filed a legal complaint. Suspicions about Thodex began to surface even before the closure.
+
+For example, since April 14, the exchange had been selling DOGE at a fixed rate of $ 0.11. However, on April 16 the value of DOGE on other exchanges reached $ 0.42, leading many to question what was going on.
+
+Tracking transactions
+
+After researching user complaints on Twitter, BeInCrypto was able to find at least one bitcoin hot wallet connected to Thodex (3MGde…1Zz9b).
+
+According to the wallet holder, Thodex has received at least 643 bitcoins since the beginning of the year. This is roughly $30.5 million at a weighted average rate. Earlier, since September 13, 2020, the exchange received more than 4,500 bitcoins* (approximately $160 million).
+
+*Note. The numbers above only apply to the Thodex wallet that BeInCrypto found. It’s likely that the exchange holds several additional independent wallets, which could significantly alter the total amount.
+
+Meanwhile, Thodex recorded saw its largest growth period in October of last year when its inflows reached 1,700 bitcoins in a single month, Thodex also recorded its largest daily outgoing transaction of 214 bitcoins. The only time this happened again was on March 23, 2021. The last outgoing transaction made on Thodex was April 17, 2021.
+
+Story continues
+
+Despite all this, it’s still impossible to say conclusively that this situation is an exit scam. The exchange has gradually been reducing the volume of outgoing transactions since October 2020. The only time the exchange had an increase in the outgoing transaction volume was in March of this year.
+
+Transfer analysis
+
+Let’s take a closer look at where the bitcoins from Thodex was sent in March 2021.
+
+The chart below shows that the majority of the BTC bypassed public crypto exchanges. Although BeInCrypto was able to identify at least two foreign crypto-exchanges, the amounts sent there were negligible.
+
+These transactions are shown as “No 1” and “No 2” on the chart:
+
+However, the thicker line indicates a transfer of over 239 bitcoins. About 35 BTC settled on the address 3Lgk… 2syr. This address appears to belong to an exchange, since the total turnover of the address since 2017 is 26,500 BTC. The rest were distributed among intermediary BTC addresses.
+
+The rest of the bitcoin, according to preliminary information, was laundered through bitcoin mixers. There is reason to believe that the March withdrawals were the last for Thodex. This is because the exchange made only four transactions in April. The largest of which was only 2.72 BTC.

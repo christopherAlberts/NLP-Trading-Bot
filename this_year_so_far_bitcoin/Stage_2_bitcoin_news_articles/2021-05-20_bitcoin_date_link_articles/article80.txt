@@ -1,0 +1,27 @@
+Decentralized project Internet Computer’s (ICP) token rallied over 45% in the 24 hours leading up to press time as the apex cryptocurrency Bitcoin (BTC) found its way back above the psychologically important $40,000 level post-carnage.
+
+What Happened: ICP traded 45.16% higher at $206.16 at press time over a 24-hour period. However, the token has fallen 35.31% over a seven-day trailing period amid a broader market selloff.
+
+ICP was up 47.28% and 62.13% against BTC and Ethereum (ETH) respectively.
+
+See Also: How to Buy Internet Computer (ICP)
+
+BTC traded 1.9% higher at $40,021.32 at press time over the course of 24 hours. The cryptocurrency has fallen 21.98% over a seven-day trailing period.
+
+The second-largest cryptocurrency by market capitalization, ETH, traded 9.45% lower over a 24-hour period at $2,660.29 and was down 33.9% over seven days.
+
+ICP intends to displace the dominance of tech giants such as Amazon.com, Inc (NASDAQ:AMZN), Alphabet Inc (NASDAQ:GOOGL) (NASDAQ:GOOG), and Facebook Inc (NASDAQ:FB).
+
+Why It Matters: Since its launch, ICP has risen to take the ninth rank in terms of market capitalization on CoinMarketCap’s chart of biggest cryptocurrencies.
+
+ICP is a project built by Zurich-based DFINITY, which has raised $166.9 million, as per Crunchbase data.
+
+The project’s scope spans from Decentralized Finance or Defi to on-chain mass-market tokenized social media services.
+
+Dfinity said on Twitter that the Internet Computer will run “billions of canisters at scale.” Canisters refer to pieces of software. The sting of tweets touched on the security of the Internet Computer as well as its reliability and included a detailed blog on the consensus mechanism related to the project.
+
+1/ The Internet Computer will eventually run billions of canisters at scale. A big advantage of the Internet Computer's novel consensus protocol compared to traditional blockchains is its fast asynchronous finalization approach — finality happens in less than 1 second — DFINITY Foundation (@dfinity) May 19, 2021
+
+On Tuesday, Sygnum — a Switzerland-headquartered digital asset bank — said it would become the first bank to offer custody and banking services for ICP.
+
+Sygnum said it was a “key member” of the Internet Computer Association, which runs specialized machine nodes that provide the project with its computing capacity.

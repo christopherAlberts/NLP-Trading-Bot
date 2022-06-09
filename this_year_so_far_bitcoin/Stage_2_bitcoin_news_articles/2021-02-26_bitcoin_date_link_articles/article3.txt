@@ -1,0 +1,65 @@
+Bitcoin’s price turned choppy on Friday as the No. 1 cryptocurrency by market capitalization logged its worst weekly performance since March 2020 when the pandemic hit the global economy.
+
+Bitcoin (BTC) trading around $46,244 as of 21:00 UTC (4 p.m. ET). Slipping 5.7% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $44,180.99-$49,325.91 (CoinDesk 20)
+
+BTC trades below its 10-hour and 50-hour averages on the hourly chart, a bearish signal for market technicians.
+
+Bitcoin trading on Coinbase. Source: TradingView
+
+A quick recap of bitcoin’s most tumultuous weekly performance since almost a year ago shows that this week’s high volatility was not caused by one simple factor. The correction earlier this week was largely triggered by an overheated derivatives market as traders rushed to exit leveraged bets (or got liquidated from positions) that had accumulated as bitcoin pushed to an all-time-high price above $58,000. A drop below $45,000 on Thursday coincided with a sell-off in the broader stock market due to rising concerns over surging bond yields, which might dim the allure of riskier assets like cryptocurrencies.
+
+Bitcoin’s spot market looked quiet on Friday, with the daily trading volume on eight crypto exchanges tracked by CoinDesk largely flat compared with levels on Thursday. Volume spiked during the sell-off earlier this week after large bitcoin inflows to exchanges such as Gemini on Sunday, which signaled an intent by some traders to take profits as prices approached $60,000.
+
+Source: CryptoCompare
+
+The market’s relatively quiet tone Friday appeared to reflect low anxiety over a key month-end expiration date on options contracts. A notional total of about $3 billion worth of bitcoin options contracts expired on Friday and the strike price with the highest open interest stood at $48,000, according to derivatives data site Skew.
+
+“Typically, with options, the highest strike price continues to have a pull on the underlying’s spot price, which could partly explain bitcoin’s recent price action,” said Hunain Naseer, senior editor at OKEx Insights. “Now, with those options contracts out of the way, the market appears, in the short term, to be free to pick a direction.”
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+“Despite the narrative being sold by crypto maximalists that digital assets are a safe-haven asset, the use of bitcoin suggests it is more of a risk asset,” said Denis Vinokourov, head of research at Bequant.
+
+“Thus, liquidity events such those witnessed this week in equity markets will subsequently feed into digital assets, even if fundamentally the two are not related,” Vinokourov said. “Cash is king in times of distress, not bitcoin.”
+
+Others have remained optimistic after this week’s high volatility.
+
+“Right now, one of the most interesting aspects of bitcoin is that it has no fundamentals to base a valuation model on, but its price movements do correlate with social sentiment,” said Guy Hirsch, U.S. managing director at trading platform eToro. “Shifts in social sentiment can be indicators of price movements, and inform investors about short-term movements.”
+
+“Long term, though, we do feel that it is a ‘safe haven’ in the sense that there is no way to artificially deflate it or otherwise manipulate it, and that is a perfectly good reason for people to invest in it,” Hirsch said.
+
+Recent blockchain data showed that more investors were accumulating bitcoin as seen by a huge amount of bitcoin outflow from institution-driven crypto exchange Coinbase Pro, according to CryptoQuant, a data provider.
+
+Ether moves in tandem with bitcoin amid a quiet market
+
+Ether (ETH), the second-largest cryptocurrency by market capitalization, was down on Friday, trading around $1,446.2 and sliding 8.2% in 24 hours as of 21:00 UTC (4:00 p.m. ET).
+
+Ether tumbled to nearly $1,400 during Friday’s trading hours in Asia and has been hovering around $1,450 for most of Friday.
+
+Read more: Coinbase Calls Out Binance as It Bemoans Compliance Burden
+
+Ether’s spot trading activity was thin on Friday, continuing to mirror the bitcoin market.
+
+Source: CryptoCompare
+
+After the two cryptocurrencies’ correlation dropped slightly last month, the relationship between bitcoin and ether’s prices turned stronger at the end of February.
+
+Other markets
+
+Digital assets on the CoinDesk 20 are mostly in red Friday. There were no notable winners as of 21:00 UTC (4:00 p.m. ET).
+
+Notable losers:
+
+Equities:
+
+Commodities:
+
+Oil was down 3.02%. Price per barrel of West Texas Intermediate crude: $61.61.
+
+Gold was in the red 2.23% and at $1730.40 as of press time.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield fell Friday dipping to 1.402%.

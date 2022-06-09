@@ -1,0 +1,55 @@
+Investors are confronting difficult questions over whether cryptocurrency investing is compatible with their ESG considerations, as surging bitcoin prices prompt many managers to consider allocating toward digital assets.
+
+Bitcoin has rallied over the past year, with prices increasing fivefold as the cryptocurrency has garnered mainstream adoption by financial institutions including BlackRock, Morgan Stanley, and Ruffer.
+
+Bitcoin has received investment flows of USD3.7 billion in the year-to-date, according to CoinShares. The wider cryptocurrency market is now worth more than USD2 trillion, its highest value ever after doubling in just the last two months.
+
+At the same time, interest in sustainable investing has skyrocketed alongside worsening concerns about climate change. Almost three quarters of institutional investors and fund selectors are now implementing ESG strategies, according to a recent survey by Natixis Investment Managers, citing rising demand from end investors.
+
+Chris Clothier, fund manager at CG Asset Management, says that “investors with any consideration for ESG principles should avoid” investing in bitcoin. “Bitcoin is nothing short of an environmental catastrophe,” wrote Clothier in a recent note.
+
+Bitcoin has been under fire for years from environmental activists, who criticise the blockchain’s reliance on energy-intensive ‘mining’ by computers.
+
+According to the Cambridge Bitcoin Electricity Consumption Index, the bitcoin network consumes more energy in a year than entire countries such as the Netherlands, Argentina and the United Arab Emirates.
+
+“Bitcoin “miners” are in a race to complete the proof of work against other miners. The winner of each race (which occurs every 10 minutes or so) is awarded new coins. As the value of Bitcoin has risen, so the prize for “winning” increases and Bitcoin miners are incentivised to deploy ever greater resources in pursuit of victory,” says Clothier.
+
+According to the University of Cambridge Centre for Alternative Finance (CCAF), two-thirds of the electricity used by bitcoin miners is generated from fossil fuels. Moreover, most Bitcoin mining happens in coal-heavy countries like China.
+
+“Bitcoin is much less efficient than the networks it aims to replace. It is estimated that a single transaction on the Bitcoin network uses as much energy as 500,000 transactions on Visa,” notes Clothier.
+
+Bitcoin’s energy consumption is expected to keep rising. A recent study in Nature Communications predicted the blockchain’s annual energy consumption in China will peak in 2024, when it will generate 130 million metric tons of carbon emissions.
+
+“The growing energy consumption and associated carbon emission of bitcoin mining could potentially undermine global sustainable efforts,” write the authors.
+
+Clothier believes attempts to 'reform' bitcoin may be difficult, given its decentralised nature.
+
+“Like any other human institution, bitcoin is capable of reform but its decentralised nature makes change cumbersome. Whether it is able to reform while retaining its appeal among its proponents remains to be seen. For the time being, investors with any consideration for ESG principles should avoid it.”
+
+David Sneyd, vice president of Responsible Investment at BMO GAM, says it is “difficult to see how [bitcoin] is consistent with a transition to a low carbon economy”.
+
+On the positive side, Sneyd notes that bitcoin may offer social benefits by reducing the cost of remittance corridors between richer and poorer countries, through which migrant workers send funds home to their families.
+
+He considers bitcoin a “net negative” from an ESG standpoint: “As it currently stands, the positive potential of bitcoin remains unproven, but the negatives are very real and present.”
+
+“Yet that is not necessarily the end of the story, as we consider that the blockchain technology that underpins cryptocurrencies has a lot more promise at providing solutions to long-standing ESG problems. By offering a new method to record information in a manner that is more open while also being secure, it could address issues with supply chain traceability, renewable energy distribution, anti-money laundering and proxy voting,” says Sneyd.
+
+Some participants in the cryptocurrency market are attempting to change the way bitcoin is mined. The Bitcoin Clean Energy Initiative (BCEI) was launched by Square in December 2020, which committed to invest USD10 million to help drive the use of renewable energy within the bitcoin ecosystem.
+
+“We believe that cryptocurrency will eventually be powered completely by clean power, eliminating its carbon footprint and driving adoption of renewables globally,” said Square Co-Founder and CEO, Jack Dorsey.
+
+In a recent whitepaper, BCEI suggests that bitcoin miners could become an “energy buyer of last resort” for the excess energy generated solar panels and wind turbines during the daytime, despite demand being higher at night.
+
+“Bitcoin miners are unique energy buyers in that they offer highly flexible and easily interruptible load, provide pay-out in a globally liquid cryptocurrency, and are completely location agnostic, requiring only an internet connection. These combined qualities constitute an extraordinary asset, an energy buyer of last resort that can be turned on or off at a moment’s notice anywhere in the world.”
+
+There is some evidence of renewable energy being used to mine bitcoin. Hydroelectric power plants in China and the Democratic Republic of Congo are popular for crypto mining, as the rainy season produces a glut of cheap energy.
+
+Meanwhile, asset managers are also attempting to make bitcoin more ESG-friendly for investors.
+
+One River Digital Asset Management (ORDAM) and carbon credit platform MOSS are launching a ‘carbon-neutral’ crypto asset fund, promising to offset carbon emissions by buying and "planting" MCO2 tokens for every bitcoin owned.
+
+"There's a lot of talk about the carbon footprint of bitcoin. We decided it's time to stop talking and start doing something about it," said ORDAM Chief Executive Officer Eric Peters in a Bloomberg interview.
+
+Brazil's MOSS will be doing the “hard work of actually creating and executing carbon offset programs in the Amazon and then tokenising them for use in the crypto space”, according to Peters. “This was a truly needed application of tokens and we're looking forward to helping our clients offset their crypto carbon footprint."
+
+For now, Bitcoin’s ESG problems are significant enough to create doubts in some investors' minds over the cryptocurrency's long-term value.

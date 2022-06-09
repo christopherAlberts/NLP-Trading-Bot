@@ -1,0 +1,39 @@
+China is making promising progress with testing its digital yuan currency. It has announced the success of a pilot in Suzhou City, near Shanghai in eastern China, where 181,000 consumers were given ¥55 (£6) of free money in digital wallets to spend at participating outlets in the Double Fifth shopping festival between May 1 and 5.
+
+This was part of a bigger test by the People’s Bank of China targeting 500,000 consumers in 11 Chinese regions since April. For those eligible, there is a straightforward app to download which gives them a wallet. Using this to make purchases in thousands of participating stores, they receive discounts.
+
+The digital yuan is a version of the normal Chinese currency deployed on a blockchain, which is the tamper-proof online ledger technology that underpins digital coins like bitcoin and ethereum. However, this blockchain is permissioned, meaning the People’s Bank decides who can use it.
+
+The latest round of tests is ten times the size of the original round that took place in autumn 2020. China has also been trialling the digital yuan cross-border between Hong Kong and neighbouring Shenzhen, and is developing a platform for making the currency internationally viable that involves Thailand, UAE and the Bank of International Settlements.
+
+Every step forward increases the prospect of China becoming the first country to put its currency fully on a permissioned blockchain. No date has been announced, but a national rollout seems foreseeable within the next 12 months, most likely in staggered stages.
+
+In contrast, western central banks like the Federal Reserve, Bank of England and to a lesser extent the European Central Bank have all been been moving more slowly on so-called central bank digital currencies (CBDCs). They worry about things like getting privacy right when all transactions will be publicly visible on the blockchain, and about the effect on retail banks.
+
+Yet a digital yuan raises profound questions about global financial stability. The question for the world’s other major economies is how to respond.
+
+Advantages of digital currencies
+
+The digital yuan already has the status of legal tender. Payments using it are fundamentally different from those on payments platforms like Alipay or WeChat (or indeed PayPal in the west). Such services may settle transactions very quickly for customers, but behind the scenes are ledgers of large numbers of transactions between the banks of the buyers and sellers and often also intermediary banks that settle hours or even days later.
+
+The digital yuan bypasses the need for these banks. There is no service fee, unlike these payment alternatives, and in theory the speed of payments can be even faster.
+
+Unlike cryptocurrencies such as bitcoin, the currency is also backed by a government. This means that issuance of digital yuan is the same as issuance of cash in circulation, making it just as secure. It gives the government better control over the money supply, since unlike with cash, officials can see all the transactions taking place at any given time.
+
+Three dangers
+
+Lots of central banks have been looking at developing digital currencies. Some such as Japan and South Korea are not far behind the Chinese. The EU is signalling that a digital euro could be four or five years away.
+
+For the laggards, there are several dangers. The first is around international payments. Most transactions between different currencies currently use the US dollar as an intermediary, via the SWIFT international banking protocol. This means considerable demand for the US dollar, which brings advantages such as enabling the US government to borrow more cheaply. In 2019, for example, China alone exported goods worth US$134 billion (£96 billion).
+
+Transactions using digital yuan won’t need SWIFT or the dollar, with implications for dollar usage in international trade. As many as 120 countries have China as their biggest trade partner, and many question settling in dollars as it adds the unnecessary financial risk of adverse exchange rate movements. China says it is not trying to replace the dollar with the digital yuan, and that the “goal is to allow the market to choose” how to settle international transactions.
+
+A second danger is that if central banks don’t meet the demand for digital money, market forces will. Paper money was invented in China during the Song Dynasty in the 11th century. But it is fast becoming redundant. Contactless credit cards have become ubiquitous during the pandemic. Digital money is better still as it costs less to use.
+
+Third, countries that fail to embrace digital currencies could find their central banks losing control over monetary policy to cryptocurrencies – be it decentralised initiatives like bitcoin or centralised ones like Facebook’s forthcoming diem currency. In other words, if these non-sovereign coins become widely used for payment purposes, central banks will find it harder to manage their economies by setting interest rates or changing the money supply. Of course, it is possible to ban cryptocurrencies but this stands in the way of progress and all the advantages they bring.
+
+The digital yuan is happening amid heightened tensions between China and the US and Europe. This clearly makes it a worrying time to give the Chinese first-mover advantage over this new type of currency.
+
+Incidentally, sanctions such as those recently imposed on Chinese officials over human rights concerns will be much easier to bypass if and when the digital yuan is up and running. There could well be calls to sanction those using the currency as a result, which raises numerous questions about viability and consequences that could be discussed on another occasion.
+
+But given how much is at stake, it is vital that the US, EU and UK begin testing their own digital currencies urgently. Blockchain is reinventing the way we conduct payments, and the risks of being left behind are too great to ignore.

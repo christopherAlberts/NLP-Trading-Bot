@@ -1,0 +1,37 @@
+BTC Hashpower Swells: Bitcoin Network Touches 185 Exahash, Hashrate Climbs 18,400% Since 2016
+
+During the last week, the Bitcoin network’s hashrate has jumped to a record high of 185 exahash per second on March 14, 2021. The hashpower has relentlessly continued to rise, climbing a whopping 18,400% in five years since January 21, 2016.
+
+Bitcoin Price Jumps Over 1,500% in a Year, Hashrate Climbs 18,400% in Five Years
+
+The price of bitcoin (BTC) touched an all-time high (ATH) reaching $61,782 per BTC on March 13, 2021. It happened pretty much one year after the crypto asset’s most recent market bottom on March 12, 2020. The price had risen over 1,500% since that day, otherwise known as ‘Black Thursday,’ which saw BTC prices slide to $3,850 per unit.
+
+BTC prices are down over 6% since the recent ATH and the value of the leading crypto asset has driven mining profitability. A touch after BTC hit the ATH in value, BTC miners ramped up the hashrate to 185 exahash per second (EH/s) the day after on March 14, 2021.
+
+Bitcoin mining is extremely competitive and with the hashrate so high, the network’s mining difficulty is also at extreme heights as well. Currently, it’s never been more difficult to mine the leading crypto asset than it is today with charts currently measuring 21.7 trillion.
+
+There are 18 mining pools directing hashrate at the BTC blockchain and F2pool was the number one miner for the last few months on end. However, F2pool’s hashrate has slid some and Poolin now captures the number one bitcoin miner in terms of hashrate distribution.
+
+Poolin and F2pool have close to the same speeds as Poolin now commands 26 EH/s with 17% of the hashrate and F2pool captures 24 EH/s and 15.7% of the overall hashrate. The pool operated by crypto firm Binance holds the third-largest position with 12% of the BTC hashpower.
+
+185 EH/s is a phenomenal speed and other sites like fork.lol recorded upwards of 189 EH/s on that day. To compare this with speeds five years ago data shows BTC’s hashrate has jumped 18,400% when it touched 1 EH/s that year.
+
+Since 2016 a Single Mining Rig Improved by 1,328%, Institutions Purchase Tens of Thousands of Next Generation Miners
+
+The price of bitcoin (BTC) has surely helped drive the hashrate to the number we are seeing today, however, other technological advances have fueled Bitcoin’s hashpower as well. At that time in 2016 when the hashrate was 1 EH/s, machines like Bitmain’s S9 series were the dominant miners in the industry.
+
+Yet at that time, mining rigs did anywhere between 7 to 15 terahash per second (TH/s). Today, machines manufactured by Bitmain and other competitors like Microbt, process hash at around 100 TH/s. That’s an improvement of 1,328% efficiency per application-specific integrated circuit (ASIC) mining machine in five years’ time.
+
+From 2015 through 2016, the 16nm semiconductor was the standard chip at the time for ASIC mining rigs. The company Bitfury had released what was called one of the “fastest” mining chips that could reach around 40 gigahash per second, while keeping the power efficiency around 0.06 joules per gigahash.
+
+In December 2016, Bitfury’s mining pool captured over 9% of the overall BTC hashrate but today Bitfury’s mining pool has zero hash. 16nm ASIC mining chips have been replaced by far more efficient 12, 10, and even 7nm semiconductors. Moreover, companies are preparing to build even faster models with better chipsets in the future.
+
+There’s also been a massive surge in institutional interest in bitcoin mining as large orders of mining rigs have been ordered in 2020 and into 2021. For instance, the company Marathon Group broke records when it purchased 70,000 next-generation bitcoin miners from Bitmain. The publicly listed Canadian bitcoin mining operation Bitfarms revealed the company purchased 48,000 Microbt Whatsminer mining rigs.
+
+Even with a high $0.12 per kilowatt-hour (kWh) the top mining rig the Microbt Whatsminer M30S++ (112TH/s) captures over $32 per day. The Bitmain S19 Pro (110TH/s) series machine gets $32 per day as well using current exchange rates.
+
+What do you think about Bitcoin’s hashrate reaching 185 EH/s and mining rig improvements? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

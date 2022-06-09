@@ -1,0 +1,27 @@
+MTI Bitcoins Sent to Privacy Mixers as New Data Breach Exposes the Ponzi Scheme's Top Earners
+
+In another twist to the Mirror Trading International (MTI) bitcoin Ponzi scam, the blockchain intelligence firm Whitestream says bitcoins from wallets associated with the company are being sent to Wasabi privacy mixers. According to Whitestream’s update, this pivot to mixers suggests that operators of the Ponzi are trying to obfuscate the movement of the bitcoins.
+
+Conspiracy to Hide Funds
+
+The reports of MTI bitcoins going to mixers follow the recent disappearance of the company’s CEO, Johann Steynberg late last year. This also comes after a South African court granted a liquidated order against MTI.
+
+In an update on January 2, Whitestream explains that in the weeks preceding its report, about 75 BTC (or over $3 million) was sent to this address. Following that transaction, the blockchain intelligence firm claims it then observed the transfer of about 10 BTC from this address to a Wasabi Mixer.
+
+Meanwhile, Whitestream Co-Founder and CEO, Itsik Levy tells News.bitcoin.com that these transfers to mixers should concern MTI investors who are trying to recover their funds. Levy says:
+
+This can maybe indicate a pattern that shows us that the operators of Mirror Trading International are trying to hide some of their funds on the Blockchain.
+
+The CEO adds that this strategy has been a common tactic used by “other popular Ponzi schemes we already saw this year.” Bitcoin mixers are designed to allow users to mix their coins with other users in order to preserve their privacy. When coins are mixed, they become much harder to trace, and this makes mixers appealing laundering tools for cybercriminals elements.
+
+Another Data Breach
+
+Meanwhile, adding more woes to the MTI executives, are reports in the South African media of another hacking of the online trading company’s servers. According to one report, this latest breach has exposed the obscene earnings of some of the MTI Ponzi scheme’s founders and executives. The breach, which was perpetrated by a group calling itself Anonymous, has resulted in the publishing of “names, addresses, contact information, and account information of each of the top 200 members.”
+
+According to this data dump, sitting at the top of this list is Clynton Marks who apparently has two accounts on MTI’s top ten earners’ list. Marks’ first account shows that he has earned bonuses totalling 532.39 BTC to date and while the other one has total bonuses of 148.48 BTC. Other names that feature in the top ten of the high earners include Ignatious Bell who similarly has more than one account. Cheri Marks, wife to Clynton Marks and the missing CEO Steynberg also make the list.
+
+Lastly, as the report explains, the timestamps in the transaction histories suggest that this breach occurred on December 24, 2020.
+
+Do you think MTI will succeed in recovering investments? Share your views in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons

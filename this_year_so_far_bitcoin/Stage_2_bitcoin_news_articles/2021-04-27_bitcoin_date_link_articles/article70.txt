@@ -1,0 +1,43 @@
+These days it’s become common for people to ask, what is money? It’s a fair question. There’ve been more than a few events this past year that have complicated, if not outright challenged, the usual, everyday, whip-out-your-credit-card-and-pay mentality when it comes to spending. The U.S. monetary supply has expanded by 30%, for instance. Can money just expand like that? Then there are all these acronyms for new financial tools: NFTs, SPACs, DOGE. At the very least, these things cost a lot of money.
+
+The usual line economists take is that money serves three functions in an economy. It’s a medium of exchange, store of value and unit of account. It’s a simple checklist to determine if some asset has the right attributes and can rightfully be called money. In 2014, NYU professor David Yermack called bitcoin a “marginally useful,” money-like commodity popular among hackers and “opponents of the banking system.” Just yesterday, a fifth National Football League star announced he’d take at least a portion of his compensation in BTC.
+
+This article is excerpted from The Node, CoinDesk’s daily roundup of the most pivotal stories in blockchain and crypto news. You can subscribe to get the full newsletter here.
+
+Related: Bitcoin: Spent Output Age Bands
+
+Bitcoin has escaped from its nerdy, anarcho-capitalist roots and entered the financial mainstream. It’s accepted as payment at Tesla and WeWork. Institutional giants are buying and holding bitcoins. At least some things – usually other cryptos – are natively priced in bitcoin. So is bitcoin money? Here are three views:
+
+1. Money itself is a collective fiction, and so is bitcoin
+
+Money is and has always been, as CoinDesk Chief Content Office Michael Casey says, a collective imagination. There’s no intrinsic aspect that makes money, money. Instead, it is whatever object on which we can all agree has steady, transactional value. Yap stones, gold and fiat. Bitcoin is the latest chapter in this shared imagining, a new, digital good that bypasses the sovereign issuer and presents the world with a freely accessible standard.
+
+Story continues
+
+Bitcoin, under this framework, is money when it crosses some undefined, ineffable standard of adoption, such as when there are finally enough people that say, “sure, pay me in bitcoin.” No one knows where the line is, but this weekend’s New York Times ran a story with the headline, “We’re All Crypto People Now.” So it’s possible we’ve crossed it.
+
+2. Bitcoin is not money, it’s an investable asset
+
+In 2018, at the tail end of that year’s supercycle, the St. Louis Federal Reserve raised the question, is bitcoin money or a financial instrument? “The line between money and financial asset [sic] is not clear,” the economists wrote. “People’s actions often reveal the role the asset is playing in the economy.”
+
+Related: Goldman Sachs Says Blockchain Stocks on Average Outperform S&P 500 (But Not Bitcoin)
+
+Although introduced to the world as digital, peer-to-peer cash, bitcoin had not yet taken up that role, the Fed economists said. Instead, it was a “highly speculative asset.” A potential bubble. An inadequate currency due to its price fluctuation and limited liquidity, that few were actually using “to buy goods and services.”
+
+Three years on, there are still more than a few people who take this view. The journalist Brett Scott argued that bitcoin has been successfully branded as a deflationary good by financially conservative fearmongers. Although bitcoin may be used to purchase goods, that wouldn’t be proof a cash-equivalent transaction had taken place. Instead, it would be a countertrade between two assets. Just think about where you’re likely to come into possession of BTC: by buying from a crypto exchange.
+
+That said, bitcoin is different from other commodities. It was designed to be fungible, to be broken down into small units of account and to be easily transferable and stored. Perhaps that’s what Scott means by “ornate digital collectible.” But few other digital goods have all those cash-like qualities.
+
+The Federal Reserve hasn’t released an accounting of the current crypto supercycle, yet, so it’s difficult to say whether the central bank’s thinking on bitcoin has changed. But it has published a DeFi explainer.
+
+3. Bitcoin is…
+
+It’s possible bitcoin is all of these things and more. It functions like cash. It also functions like a speculative asset. People are buying it as an inflation hedge as well as for its volatility. It’s a burgeoning global reserve currency and a distributed ledger on which to run decentralized applications.
+
+The question whether bitcoin is real money is reductive. This is especially the case when you consider its metaphysical properties. Bitcoins don’t exist in the world, but to what extent do they exist at all?
+
+Northern Illinois University associate professor Craig Warmke pushes back against the idea that bitcoin exists as a chunk of code. It isn’t real . Instead, he argues, Bitcoin is “a fictional substance in a massively coauthored story on a network.”
+
+In other words: “Bitcoin just is.”
+
+Related Stories

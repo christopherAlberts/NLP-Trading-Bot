@@ -1,0 +1,49 @@
+This week’s price movements for bitcoin (BTC), gold, and our wildcard stock PayPal, and bonus stock AMD.
+
+BTC
+
+After recovering above the $50,000 price level last week, bitcoin has been largely channeling in the 50,000’s this week. After reaching nearly $52,400 on April 29, BTC saw a boost the next day, pushing its price to $58,400 by May 1.
+
+It trickled down the next two days to $56,400. Then on May 3, the price bumped back up to $58,800, before selling pressure forced it down by the end of the day and over the course of the next day. Upon opening on May 5, BTC was trading at $53,300, but rose back up to nearly $58,000 later in the day. On May 6, BTC reached $58,000 again, but is now trading just above $57,000.
+
+Source: TradingView
+
+GOLD
+
+Gold has had a handful of large swings over the past week. It fell sharply on April 29, down to $1,756, before recovering to around $1,764 for most of the next day.
+
+However, on May 3, gold saw persistent buying pressure, which brought it to the brink of $1,800. It trickled back down after that, before briefly shooting back up to that level, then dropping again the next day. From there, it played just above $1,776, then started creeping up, which it continued on May 6. Then around midday it skyrocketed past $1,800, to where it is currently trading around $1,815.
+
+Source:TradingView
+
+This lift above the psychologically significant value of $1,800 was supported by slipping bond yields and a slightly weaker U.S. dollar. The first time breaching this threshold is “quite something for gold,” according to Ross Norman, chief executive officer at Metals Daily.
+
+“Over the last three weeks, it has attempted these levels five times unsuccessfully, which further reinforces the strength of the resistance level,” he said. “The key issue is that the nominal ten-year Treasury yield has been edging lower and the real yield looks like it is headed back to -1% once again.” Meanwhile, “the sharp move higher in silver through the $27 level will also have given gold confidence to move higher,” Norman added.
+
+Story continues
+
+PYPL
+
+Similarly to other crypto-related firms, PayPal (PYPL) has recently been trading like BTC. For example, it saw a recent peak around mid-February before bottoming out by the end of the month. This week, however, it has not fared too well.
+
+From around $274 last week, PYPL has been edging down day-by-day, before hitting support around $246 on May 4. Although after closing on May 5 the stock rose over 5% in light of a successful earnings report.
+
+Source: TradingView
+
+The company generated first-quarter net income of $1.1 billion, or $0.92 cents a share, up from $84 million, or $0.07 a share, in the same quarter the year prior. After adjusting for stock-based compensation, and other items, PYPL earned $1.22 a share, nearly double the $0.66 a share of the year prior.
+
+PayPal’s revenue for the quarter totaled $6.03 billion, up from $4.62 billion, a year earlier, bolstered by the increase in digital payment due to the global coronavirus pandemic, and the growing use of its crypto offerings.
+
+“The really interesting thing is that we not only saw the strongest quarter in our history, but as we look forward, we’re continuing to see elevated levels of digital spending,” chief executive Dan Schulman said. “And we now believe the shift in consumers’ digital behavior is going to remain essentially unchanged in a post-COVID world.”
+
+AMD
+
+This week’s bonus stock is Advanced Micro Devices, who also recently released an earnings report. Its stock also seems to have struggled the past week.
+
+After opening around nearly $90 on April 28, the stock promptly sold off to below $86. It continued to sink down to $82 going into the weekend. The sell off continued upon opening, on May 3, to $79. It edged down to $78 the next day, before inching back up to $79 the following day. By May 6, it had reached below $77, but is now trading just below $78.
+
+Source:TradingView
+
+The large selloff that occurred on April 28, was due to the release of its latest earnings report. AMD earned $3.45 billion in its first quarter of 2021, a 93% increase year-on-year. Although a great deal of that revenue likely stemmed from purchases for cryptocurrency mining, the company’s CEO Lisa Su seemed to stumble over a question regarding its contribution.
+
+“You asked about crypto. We do not — we have negligible crypto in here,” she said. Because AMD does not make products explicitly for the crypto mining market, it is unable to discern what customer segments its profits derive from.

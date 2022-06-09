@@ -1,0 +1,25 @@
+Moving Bitcoin apps into the physical world: The Bitcoin Bridge talks IoT with Dr. Walter Wang
+
+width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen">
+
+Dr. Walter Wang is all about “tangible” applications that live on the Bitcoin blockchain. We mean that literally—as an IoT researcher and entrepreneur, he wants to see real-world devices interacting with blockchain data to improve our lives. Find out some of the ways he intends to do this in this week’s episode of The Bitcoin Bridge.
+
+Dr. Wang has a PhD in Computational Biology from the National University of Singapore. He’s also just spend a week at the Bitcoin SV Bootcamp in Zhuhai City, China, an all-too-rare (these days) in-person event where Bitcoin’s technical minds got together to share ideas and learn about what’s possible.
+
+We welcome Dr. Walter Wang from who's working on IoT area, utilizing blockchain tech to have more trusted records. His company combined #BSV MetaID protocol to their products- digital lockers. pic.twitter.com/urX7M0ni63 — Lise L.慧子 (@Lise0508) April 13, 2021
+
+Walter was inspired by what he saw there, and tells us some of his personal highlights. Naturally, contract developments from the likes of sCrypt and SensibleContract captured his attention the most.
+
+A few years ago, Walter developed a service to challenge AirBnB’s dominance of the room-sharing market. It was called PopulStay, and it promised to make room-sharing even cheaper and more streamlined for guests and hosts alike by eliminating several of the middleman services a centralized service like AirBnB still uses.
+
+Another idea was to use blockchain-based identities as “keys” to gain admission to rooms, rather than relying on combination locks (which often need to be reprogrammed) and hiding physical keys. While PopulStay is still around, Water realized it might be better to focus on some of its components first.
+
+From that simplification grew PopuLife, which focuses on smart locks. It ties in with some of the concepts we discussed with Sunny Fung of MetaID last week; the idea of a portable identity that can literally open doors.
+
+Walter says it was his friendship with sCrypt’s Xiaohui Liu, and hearing more about the technology at the developer events, that convinced him Bitcoin SV is Turing Complete. The ability to maintain a constant “state” across several transaction blocks is important for blockchain-based applications and contracts to work, and he says this knowledge opened up a lot of new possibilities for him.
+
+P2P apps are the future, he says: “A middleman has value, but it should be in the past.” Room-sharing, games, payments—everything can be done (and automated) using Bitcoin. And it doesn’t need to stop at internet services, the benefits of the blockchain can easily reach into the real world as well. As long as there are smart people with vision to build those systems, that is.
+
+Check out previous episodes of The Bitcoin Bridge on Streamanity.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

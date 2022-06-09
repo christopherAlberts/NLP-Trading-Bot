@@ -1,0 +1,91 @@
+BitClout allows users to invest in celebrity fame by buying tokens that increase in value as the creators gain popularity.
+
+The site traded over $225 million within a month of its launch and is continuing to grow.
+
+Here's what you need to know to get started on investing in creators on BitClout.
+
+See more stories on Insider's business page.
+
+BitClout, a cryptocurrency platform designed to operate as a social network, has already drawn in celebrities and investors from billionaire Chamath Palihapitiya to YouTuber Jake Paul.
+
+The site has traded over $225 million within a month of its launch and is worth about $1 billion, according to a recent report from New York Magazine.
+
+BitClout is designed to let people bet on the popularity of public figures by buying tokens associated with people's profiles. Users can use BitClout coins to buy a Creator's Coin and watch its value change based on the creator's popularity on the site. The site started with 15,000 creator accounts preloaded from the most popular Twitter profiles.
+
+At the moment, Tesla CEO Elon Musk has the most expensive Creator Coin, coming in at nearly $70,000. The Creator Coins gain or lose value depending on how many people buy coins associated with the profile, as there are between 100 to 1,500 coins in existence for each profile.
+
+Individuals included in the 15,000 preloaded Twitter profiles can claim their account by tweeting their BitClout public key, found under the profile section, alongside #bitclout. The creator then receives a blue check mark next to their account name and can begin earning a percentage of the profits from the Creator Coins associated with their name.
+
+Top creator accounts on BitClout BitClout
+
+Even people outside of public figures and celebrities can profit off their own Creator Coins, as well as generate money investing in other accounts. BitClout investor @Sigil told Insider, he invested about $150 Canadian dollars in his BitClout account and made thousands within three days. The 17-year-old was also able to push his own coin's value from $0 to a market cap over $500,000.
+
+How to set up your BitClout account
+
+BitClout sign up page BitClout
+
+The first step to setting up your BitClout account involves keep tracking of a "seed" phrase for your account. The string of non-related words operates as a type of passcode or safety measure for protecting your account.
+
+At this point, it is important to save a picture or write down your seed phrase, as the site will require the phrase whenever you need to log in or out of your account. The site warns that if you lose your seed phrase, your account, along with the money you put into it, will be lost forever.
+
+BitClout
+
+The next steps to setting up your account involves providing a phone number and an email address, as well as verifying your phone number.
+
+Once you have officially created your account, you can choose whether to buy BitClout coins immediately, browse Creator Coins to buy, or update your profile information by claiming a username and avatar image.
+
+On your profile you can also set your "Founder Reward Percentage." The percentage is automatically set at 10%, but can be shifted anywhere from 0% t0 100%. The Founder percentage allows you to keep a certain percentage of your Creator Coins. If a founder sets the percentage too high it can discourage potential buyers, but owning your own coins can also help push the value of your own Creator Coins up.
+
+BitClout
+
+How to buy BitClout coins
+
+The only way to buy BitClout is by using bitcoin. Thus, the first step is to download a digital wallet app or create an account on a desktop and buy bitcoin.
+
+Once the wallet is set up, the next step is to go to the "Buy BitClout" tab on the site. Copy the address under "Send Bitcoin to this address" and go back into the wallet app. In the app, select "Send Crypto to another wallet." Then, select the amount of money you want to convert into BitClout and hit "Continue."
+
+When the next page appears on the digital wallet, paste your BitClout address into the "To" field and select the preview button. You will see a preview of the transfer, as well as the network fee. If the amount is an appropriate number, you can hit "Send now" on the digital wallet.
+
+It should only take a few moments, but the amount should then appear on your BitClout account, under "Buy BitClout." If It does not immediately appear, you can also hit "Refresh" under "Amount Deposited."
+
+BitClout
+
+Once the bitcoin has been deposited in your account, you can use the coins to buy BitClout coins. Prices for the coins fluctuate, but were $170 per BitClout on Friday.
+
+Under "Step Two" on the page, type the amount of BitClout you want to buy or convert all the bitcoin by hitting "Max."
+
+BitClout
+
+In order to convert to BitClout, you must exchange at least 0.0001 Bitcoin, or about $6.40, according to the current value of BitCoin. Once the number has been entered, you can hit "Buy BitClout." Then a review of your purchase will pop up on the screen; hit the "OK" button to complete the conversion.
+
+After you hit "OK," you will get a screen showing your new BitClout balance.
+
+How to use the BitClout site
+
+On the site you can follow other accounts, like, comment and direct message, much like Twitter. The feed is designed to emulate the feel of Twitter, but also uses a creator's market value to determine which comments are prioritized on accounts. All posts are public on the site's general feed.
+
+BitClout
+
+Each action requires users to maintain some BitClout coins in order to pay the gas fees for each action which is recorded on the blockchain.
+
+Users can also invest in Creator Coins by searching for the profiles and selecting the "Buy" button, which will be followed by a confirmation page.
+
+While the most expensive Creator Coin on BitClout currently belongs to Musk, BitClout investor @Sigil argues the best way to make money on the site is to invest in accounts that are valued near zero.
+
+"They can only go up and you can help push them up by buying into the account," @Sigil told Insider.
+
+When you create a profile, there are initially zero coins in existence, which makes the price for the creator's coins $0. When a user buys into another account, BitClout mints the coins and sells them according to a price curve, making it more and more expensive as more coins are purchased.
+
+BitClout price curve BitClout
+
+The money you use to buy the coins gets stored in the user's profile and adds to the value of the account. You can also sell the coins and the profile will buy them back from you, causing the account's value to go down.
+
+While BitClout has become increasingly popular since it was launched over a month ago, the site is already facing criticism
+
+Many critics of the site have questioned the security of the platform, as well as the anonymity of its creator known only as @diamondhands. BitClout's bitcoin holdings, which typically are secured on the blockchain, are held privately in servers, NY Mag reported. The site also does not currently have an option to exchange its coins for US dollars.
+
+BitClout responded to doubts about its security on Twitter. "A rumor has been going around that BitClout is insecure," @Bitclout_ tweeted. "Just wanted to say this is untrue full-stop. The dev community completed multiple audits specifically around seed phrase handling prior to launch, and the nodes have been running since last year without issue."
+
+@Sigil told Insider he doesn't see BitClout as any different than bitcoin. When the first decentralized cryptocurrency launched it also did not have a way to directly convert the bitcoins back to US dollars.
+
+For now, users can sell their coins on various Discord servers or via Twitter threads. @Sigil is also working on his own business to solve this problem by building his own trading site called BitSwap, a site that allows people to buy and sell BitClout for Ethereum.

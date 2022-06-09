@@ -1,0 +1,27 @@
+Kenyan Fintech Startup to Use Stablecoins to Transfer Universal Basic Income Payments to African Refugees
+
+Kotani Pay, a Kenya based digital currency on and off-ramp service provider, has entered into an agreement wherein it will enable the transfer of universal basic income (UBI) payments to African refugees. Working in conjunction with the Refugee Integration Organisation (RIO) and Impact Market, the fintech start-up, which uses the Celo blockchain, will use its platform to ensure payments reach the intended beneficiaries.
+
+Using the Blockchain Without the Internet
+
+According to Kotani Pay’s recent post on Medium, the start-up’s partnership with RIO and Impact Market will also see non-smartphone holders benefitting. Commenting on this unique feature, Kotani Pay said:
+
+(The partnership) is achieving a never-before-done implementation of UBI through a stablecoin that is available to non-smartphone users. This is a pioneering achievement in the world of UBI, digital currencies, and the inclusivity of refugees.
+
+The fintech start-up adds it is providing a familiar interface that works on feature phones. This interface “eliminates the need for an internet connection when interacting with blockchain protocols that were designed primarily for smartphone users.”
+
+For its part, RIO says the use of the Celo blockchain “will certainly help keep fraud and corruption from this programme, ensuring that for once, every dollar will go to the people they are meant for.”
+
+UBI Does Not Foster Dependency
+
+In the meantime, Brian Kimotho, the chief marketing officer at Kotani Pay, revealed some of the details relating to the funds that will be distributed as well as the number of refugees involved. Kimotho said:
+
+The program will support 5,000 refugees. The refugees can claim the equivalent of $1 (100 shillings) in Celo Dollars (cUSD) daily up to a maximum of $400 (40,000 shillings) in a month. We’re currently running a pilot with 1,000 refugees with plans to onboard the remaining 4,000 within the next few months.
+
+Meanwhile, in the Medium post, RIO dismisses the assertion that this UBI program will likely cultivate a dependency syndrome among refugees. The NGO says it believes the UBI “should not be implemented as a sole means of economic development.” Instead, the payments should be combined “with business training, entrepreneurship awareness, and other financial inclusion services, such as micro-loans.”
+
+Do you believe the blockchain offers a better way of transferring payments to refugees? Tell us what you think in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

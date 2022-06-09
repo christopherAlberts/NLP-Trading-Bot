@@ -1,0 +1,79 @@
+No one’s being their own bank in Bitcoin. There is no such thing as ‘be your own bank because you have Bitcoin’ because banks aren’t cash. It’s a depository.
+
+What is more important? Being free or being equal?
+
+-Dr. Craig S. Wright
+
+As we move through all the sections of the Bitcoin whitepaper with Ryan X. Charles and Dr. Craig Wright in “The Theory of Bitcoin: The Bitcoin Whitepaper series,” it becomes more and more apparent what its creator’s intentions were and how far they deviate from the narrative of BTC and other digital currencies. This is not a system to replace banks. This is not a system to facilitate anarchy. Bitcoin is not digital gold.
+
+Bitcoin is the innovation of a lifetime not only because of how it works technically, but also because its creator factored human nature into its functionality. Not all miners are created equal, and the proof of work system thrives on competition and inequality. Dr. Wright chooses freedom over equality because you can’t have both.
+
+Video 9 of Theory of Bitcoin: The Bitcoin Whitepaper builds us up for the grand finale of the series, covering the “Combining and Splitting of Value” and “Privacy” whitepaper sections. Here are my key takeaways from Charles and Dr. Wright’s conversation in this episode.
+
+“Tokens in an envelope”
+
+Section 9 of the whitepaper, “Combining and Splitting Value” addresses “how you can deconstruct and reconstruct a coin,” Dr. Wright sums up.
+
+Dr. Wright likes to tell people to think of Bitcoin as a set of tokens in an envelope. In a transaction, each of the input “envelopes” gets ripped open and the tokens are “poured out”—you can think of the tokens as being little grains of rice—the tokens or “grains” are then put into new envelopes and we can decide how much we put into each envelope for the outputs.
+
+“Bitcoin is really one hundred million individual tokens. Each of these tokens are fungible, separate items,” Dr. Wright explains.
+
+We can merge coins if we have lots of small amounts, or we can break them down if we have lots of big amounts, similar to how cash works when you change a 20-dollar note into smaller notes, for example. With BSV blockchain’s signature low fees, all of this can be done at a minimal cost.
+
+To merge or not to merge
+
+In general, we should have lots of little “pots” as opposed to merging all the outputs together into one big “pot” for privacy and other reasons. (BTC’s exorbitant fees are the reason why the “one big pot” narrative started).
+
+Dr. Wright explains that one big pot slows down the process and there are two main reasons we should have lots of little pots as outputs:
+
+Privacy. If you have one big transaction to pay for something and you send yourself back the change, it’s easy to follow and figure out what the payment and change amount was from that single transaction. If you have a lot of small transactions getting sent to the merchant and back to yourself as change, in other words a lot of different outputs, it’s much harder to follow.
+
+Availability of funds. What if you want to spend again immediately? If you make one big payment for a small transaction, you’ll have to wait for the change to come back as confirmed before you can pay another merchant, and this could take time.
+
+There are some special cases when merging outputs together into bigger pots would be beneficial. For example, if you are going to make a huge transaction, it might be better to merge or else you could end up paying a lot in fees for processing all the smaller transactions. Therefore, it’s a bit of a balancing act between how much privacy you want and how much you are willing to pay in fees.
+
+As a side note, once we get to a thousandth of a cent for fees (transaction fees will go down as the network scales), this balancing act will no longer exist because the fees are so low.
+
+Dr. Wright also points out that the more inputs you have, the more time it takes to validate and verify. With a single transaction, we’re talking a fraction of a second. However, if you have a hundred thousand transactions, each worth 100th of a cent, for the purchase of a TV for example, it will take a minute or so to validate all the inputs before the transaction is sent off to the blockchain. It’s kind of like the old lady coming into the shop with the penny jar to pay for something, Dr. Wright jokes.
+
+With all of this in mind, some people will prefer to have more small transactions if they are concerned about privacy and others will prefer to have larger ones because they don’t care as much about privacy and they want the process to be quick and at a lower cost. Wallets will eventually be able to construct and deconstruct coins for their users, perhaps updating and reassigning values in the middle of the night, once a week.
+
+Bitcoin is not anti-bank
+
+While the concept of Bitcoin not being “anti-bank” is on the periphery of what’s covered in sections 9 and 10 of the whitepaper, Dr. Wright sets the records straight in this episode.
+
+“There is not anti-bank stuff in Bitcoin. No one’s being their own bank in Bitcoin. There is no such thing as ‘be your own bank because you have Bitcoin’ because banks aren’t cash. It’s a depository,” he says.
+
+Dr. Wright explains how a bank consolidates and reinvents money by taking a lot of short-term amounts and putting them into long term outputs. Bitcoin doesn’t do that.
+
+Dr. Wright also does not see Bitcoin completely replacing fiat at any point in the future. Rather, he predicts people will be using fiat currencies on chain and these currencies will be tokenized. He also predicts that if we’re transacting in small amounts, Bitcoin will prevail as the currency of choice because “it always will be more efficient,” he says.
+
+Traditional banking system privacy model
+
+Moving on to the whitepaper’s section 10 “Privacy,” Charles and Dr. Wright start off by making the distinction between the traditional banking system’s privacy model and Bitcoin’s privacy model. Let’s begin with the traditional model.
+
+In traditional banking, identities and transactions are put together, given to the trusted third party, they then go through a counter party and the public has no idea, they are firewalled off from the entire process.
+
+In actuality, the traditional banking system is not private, think of what happens when it gets compromised. “The whole model is completely screwed up! There are instances of 100 million individuals being compromised at once. All their information now known,” Dr. Wright points out.
+
+Dr. Wright goes on reference a security breach when 11 million Target customers had their information compromised. Why should Target have all your information if all you want to buy is a low-cost item such as a candy bar, he questions? Why should they have this information to be hacked? Your information can now be used for identity fraud, etc, and all you wanted was a candy bar.
+
+There are so many third parties handling our information on the internet these days and this does not have to be the case. Bitcoin makes it possible to buy that candy bar digitally, but without the possibility of having personal information compromised.
+
+Bitcoin privacy model
+
+The privacy that Bitcoin provides is something Dr. Wright wanted from the very beginning, in fact it’s one of the most essential parts, he says.
+
+In Bitcoin, identities are firewalled off from the public. Dr. Wright and Charles use the analogy of a stock exchange—the ticker tape can be compared to the blockchain—you know things are happening, but you don’t know who is doing these things. The size and amounts of trades are revealed, what’s being traded, how much it’s going for. The trades are not linked to individuals, unless they have to disclose such information by law.
+
+Dr. Wright explains that there is a difference between anonymity and privacy. Keeping public keys anonymous doesn’t mean a user is keeping their identity a secret, it just means they will have a level of privacy from the public. Public keys can be linked to a user’s identity and this allows for the law to work when it needs to.
+
+Bitcoin is fungible and traceable
+
+It’s important to note that Bitcoin is consistent with the legal systems all over the world and was not created for anarchy. Despite popular belief, even though it is private, Bitcoin is traceable and therefore not a crime-friendly system whatsoever.
+
+It’s not just tracing, it’s following, Dr. Wright points out. Following transactions are not “reversible,” rather it’s a one-way function. “From you, I can’t go backwards and find out what transactions are yours, but from the transactions you can follow the path. That’s a big critical distinction,” Dr. Wright explains.
+
+“With a warrant or whatever else, there would be methodologies that could be deployed…through all of this, we now have a system that allows us to capture any stolen coins,” he adds.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

@@ -1,0 +1,25 @@
+Bank of Israel Drafts Model of a Digital Shekel
+
+The central bank of Israel has offered a glance at what a digitalized version of the national fiat currency may look like. According to a released “draft model” of the coin, Israelis should be able to use the digital shekel in payments, even offline, and convert it to cash at any moment. The Israeli central bank digital currency (CBDC) will provide some privacy, but not anonymity.
+
+This Is What the Digital Shekel Should Look Like
+
+The Bank of Israel is getting ready to jump on the CBDC bandwagon with a plan to issue a digital currency of its own, after examining the issue for years. Dozens of central banks around the world are already working on similar projects in response to developments in the payments market, not least related to the growth and the spread of cryptocurrencies. The final decision is yet to be made, according to a report by the bank’s Steering Committee, but the project is already taking shape. The published draft opens the door for public discussions and suggestions.
+
+At this stage, the central bank’s intention is to create a “digital commitment” on its behalf, similar to the “physical commitment” it has towards the public in the form of banknotes and coins. Cash is different from commercial bank money, or the money stored in bank accounts and used in transfers and cards. The latter is recorded digitally and represents an obligation on the part of a commercial bank to its customers, not the central bank, business news outlet Calcalist noted in a relevant article.
+
+Israel’s CBDC will be digital too, but its concept differs from that of commercial bank money. The “digital shekel” will be a form of electronic cash, representing a digital commitment by the Bank of Israel towards the country’s citizens. According to the document, Israelis will be able to convert the digital currency to actual paper cash and commercial bank money at any time and its transactions will not necessarily require connection to the internet.
+
+This Is How the Bank of Israel Coin Would Work
+
+The payment infrastructure of the digital shekel will function similarly to existing digital wallets and payment apps. According to the plan, Bank of Israel will launch the CBDC and transfer it to payment service providers such as banks, credit card issuers, fintechs, and even large high tech companies who will in their turn provide the digital shekels to their customers. However, these entities will not be allowed to lend in the digital currency.
+
+The central bank is yet to decide whether to employ a centralized model to issue its digital currency or use a decentralized system, one that relies on distributed ledger technologies (DLT). In any case, an important distinction from cryptocurrencies is that although the digital shekel will ensure a certain level of privacy for its users, its transactions will not be anonymous. The government actually hopes that the digital coin will help to reduce the use of paper cash and shrink the shadow economy. Bank of Israel noted:
+
+While central banks may use DLT such as blockchain when designing and establishing CBDC systems, there are essential differences between a CBDC and cryptocurrencies such as bitcoin.
+
+The Bank of Israel Steering Committee has also outlined several key benefits the digital shekel could bring to the Israeli economy. Its members believe that the coin will provide an advanced and secure alternative that will be up and running even during emergencies or breakdowns. It will also ensure that the country’s payment system adapts to the needs of the digital economy and create an efficient and inexpensive infrastructure for cross-border payments as well.
+
+What do you think about Israel’s plan to launch a digital shekel? Share your thoughts on the subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons

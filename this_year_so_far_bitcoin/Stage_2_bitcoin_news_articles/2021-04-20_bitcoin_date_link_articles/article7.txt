@@ -1,0 +1,33 @@
+Tether (USDT), the oldest and most popular stablecoin, diverged significantly from its peg to the U.S. dollar during bitcoin’s (BTC) recent price drop.
+
+But rather than seeing the move as a defect of the stablecoin, whose market cap stands at $52 billion, some analysts and exchange executives say the “tether premium” shows the token’s growing use as a safe-haven asset in almost-anything-can-happen-at-anytime cryptocurrency markets.
+
+“During a crash, traders will race to sell their bitcoin in exchange for tether, which is similar to the U.S. dollar in that it is recognized as a temporary safe haven amidst extreme price volatility,” Kaiko, a blockchain data analytics firm, wrote in an April 19 newsletter. “A sudden increase in buying pressure for tether often has the effect of causing positive drift from the stablecoin’s one-to-one peg.”
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+The idea of tether as a safe haven might seem incongruous, given the nagging questions over the stablecoin issuer’s credibility and financial backing. The company behind the stablecoin published an attestation in late March to verify its assets, after agreeing to an $18.5 million settlement with prosecutors in New York state.
+
+Yet tether’s market value has more than doubled from about $20 billion at the start of the year, a sign of traders’ growing embrace of the stablecoin’s convenience and efficiency as the de facto form of cash in cryptocurrency markets.
+
+Tether’s price rose above $1.004 as bitcoin started falling early Sunday. That was tether’s highest level since March 2020, when the likely economic damaged from the coronavirus and related documents first became apparent, triggering a sell-off in a broad range of assets from stocks to cryptocurrencies.
+
+Source: Kaiko
+
+Robbie Liu, market analyst at OKEx Insights, said tether’s price increase may also be the result of demand from cryptocurrency derivatives traders who scrambled to line up USDT as collateral to meet margin calls.
+
+“First, the price of bitcoin dropped, and then the tether premium started to spike,” Liu said. “This market behavior is consistent with the previous flash crash, seen on February 22.”
+
+Adding to the picture, tether’s price in Chinese yuan (CNY) was sold at a premium on crypto exchange Huobi’s over-the-counter (OTC) desk even before Sunday’s market correction.
+
+Under normal market conditions, the price of tether expressed in yuan should match that of the U.S. dollar’s exchange rate with the Asian currency.
+
+A spokesperson from Huobi told CoinDesk that the connection between the timeline of the “tether premium” on Huobi’s OTC desk and Sunday’s sell-off is not “strong.”
+
+Instead, the price for the tether-CNY pair has traded at a significant premium recently. That price gap suggests there was elevated demand from Chinese traders and investors, who routinely use dollar-pegged stablecoins as an on-ramp to cryptocurrency markets. Fiat-to-crypto trading, or buying digital assets with government-issued cash, is banned in China.
+
+Du Jun, co-founder of Huobi, told CoinDesk through a spokesperson that the USDT premium over the Chinese yuan happened as many traders were cashing out their crypto profits from the sharp price runup in many alternative cryptocurrencies that occurred in prior weeks.
+
+The recent frenzy over dogecoin (DOGE) and other altcoins has attracted new investors to the crypto market from China, Du said, helping to cause the “tether premium” as demand for stablecoins rose on the OTC desk.
+
+The sudden rise of dogecoin’s value this month had pushed the total market capitalization of the dog-themed joke token above that of xrp (XRP), historically one of the largest cryptocurrencies. At press time, dogecoin was the sixth-biggest cryptocurrency in the world, with a market capitalization of nearly $50 billion, according to Messari.

@@ -1,0 +1,39 @@
+After jumping nearly four times in 2020, bitcoin has been on a tear this year with prices soaring past the $37,000 level on Thursday. The rally has attracted many first-time buyers to cryptocurrency exchanges in India.
+
+While understanding the risks associated with investing in this asset class is important, the selection of the exchange for dealing in cryptocurrencies is one of the key tasks an interested investor must complete before dabbling in fiat currencies. We tell you the key factors one must consider for selecting a crypto exchange.
+
+Also Read | The faces behind the farmer revolt
+
+Order book: The depth of the order book, which is a list of buy and sell orders for a security, can help investors in making more informed decisions. However, the order book at different exchanges can be different.
+
+Sometimes when there is a large order placed, there might be slippages, which means the investor receives a different price than intended. The lesser the slippage, the more robust is the order matching mechanism of the crypto exchange.
+
+“As most Indian crypto exchanges disclose their order book, it does not take much time to evaluate them by doing a side by side comparison of the current state of their order book," said Ajeet Khurana, founder, Genezis Network, a think tank for crypto startup investments.
+
+Nature of KYC: Regulators in India haven’t provided guidelines as to what constitutes know your customer (KYC) at crypto exchanges. In light of this, many exchanges have evolved their own KYC mechanism based on what regulated entities such as mutual funds or banks follow.
+
+“If an exchange is making it very easy for the customer to do an KYC, then this means that their process might be lax. While it would seem that onboarding an investor is easier, in the long run, everybody will lose, as there could be problems in the KYC process. Make sure that the compliance by the exchange is on the higher side," said Khurana, who was earlier chief executive officer of ZebPay.
+
+Custody mechanism: In the case of stock exchanges, BSE and NSE are responsible for matching buy and sell orders for a security, while Central Depository Services Ltd (CDSL) and National Securities Depository Ltd (NSDL) manages the custody of that security. However, in the case of crypto exchanges, apart from order matching, some bourses also offer custody of a security.
+
+Make sure that you are comfortable with and confident about the exchange’s security, the processes and the technology to safeguard the digital assets.
+
+Recordkeeping: Recordkeeping for the purpose of personal accounting and income tax is a very important factor. There are big divergences in the quality of reports made available by different crypto exchanges. Make sure that records provided by the exchange can be easily tracked and managed.
+
+On the importance of transaction fees in selecting a crypto exchange, Khurana said, “While they can make a big difference if volumes are high, most exchanges have converged to relatively similar prices, so, that can’t be a big factor in selecting an exchange."
+
+As the crypto space is evolving and there is a high demand for cryptocurrencies, instances of scams have also increased. Therefore, it is important for investors to save themselves for scam crypto exchanges.
+
+“First, when somebody tells an investor to go on a particular exchange, he or she should check out the volume of that exchange. Second, check if the exchange is listed on coinmarketcap.com, which lists best exchanges from around the world," said Kashif Raza, co-founder, Crypto Kanoon, a research-based platform for blockchain regulatory news and analysis.
+
+There might be an instance where the exchange is legitimate but not listed on coinmarketcap.com. “In this case, one should go on to the exchange’s social media profile and check how many followers are there, what the kind of engagement level they have and what people are talking about this exchange," Raza said.
+
+The next step should be to check the number of visitors on the exchange’s website, using web analytics websites. “There you will be able to figure out if the exchange is very popular or not," he added.
+
+Investors must also keep in mind that most experts don’t recommend investing in cryptocurrencies via Indian exchanges as of now.
+
+“In India, crypto is not a legal tender and the regulatory framework is not very clear. There are exchanges and platforms, where you can buy or sell cryptos, but because of the regulatory and taxation issues, we are not advising any of our Indian clients to buy here. However, we are definitely advising clients to buy it outside India," said Amit Kumar Gupta, a New Delhi-based portfolio manager at Adroit Financial Services Pvt. Ltd, a Sebi-registered portfolio management firm.
+
+Gupta advises that anybody, who wants to buy bitcoin should have a five-year time horizon and have a small allocation in their portfolio. “In the long-term, say, five to 10 years, it may be anywhere between $100,000 and $500,000 as the supply is low," he said.
+
+Subscribe to Mint Newsletters * Enter a valid email * Thank you for subscribing to our newsletter.

@@ -1,0 +1,41 @@
+February 1, 2021 6 min read
+
+This story originally appeared on MarketBeat
+
+
+
+As technical as cryptocurrency and Bitcoin (BTC) markets are there are some fundamentals driving the market. These include cryptocurrency’s growing mainstream acceptance, the amount of power put into mining the coin, and its availability to name a few. Now that BTC/USD is trading at new all-time highs the market can expect the bullish trends to continue because there isn’t much reason for the market to reverse until a clear top is formed. Based on what we’re seeing in the market BTC/USD could easily hit the $59,000 this year and that estimate might be too low.
+
+Related: How a Series of Elon Musk Tweets Helped Lead Investors to Dogecoin, a Meme-Inspired Cryptocurrency Worth 4 Cents
+
+1. There is a cost to mine Bitcoin
+
+While mining Bitcoin used to be very easy, an influx of miners (along with other factors discussed below) drove up the difficulty rate while driving down the reward. Now it is virtually impossible for a lone operator to mine a single BTC without the help of either 1) a vast quantity of expensive mining resources or 2) the aid of a mining pool. The mining pools tend to operate where electricity is cheap but there is still cost, not to mention the overhead of running a large mining operation. The latest estimates put the cost of 40 TH/s of computing power at $4.32 per day. That’s may seem small but it adds up over the year. The annual cost runs about $1,576 with an expected reward of 0.08875 Bitcoins or about $3,017 with BTC trading at $34,000. That’s a gross margin of 47% and then add in the cost of buying or renting a unit. The takeaway, it costs money to mine Bitcoin and that is where a lot of its intrinsic value lay.
+
+2. There is not an unlimited supply
+
+Bitcoin’s value is also driven in large part by supply, and the supply is dwindling. There are only ever going to be 21 million real BTC’s ever minted. That doesn’t count wrapped BTC or other kinds of defi-sourced BTC which ultimately will also affect BTC’s price. But, back to the supply, of the 21 million nearly 90% have already been mined leaving just over 2 million for the mining community to split up. And, not only that, but there are the halving’s to consider. A halving is when the Bitcoin mining reward is cut in half. The purpose of this is to help control BTC inflation and extend the lifespan of the mineable BTC pool. The halving occurs every four years, there have been three so far, and the most recent was just this past year. The takeaway here, people who want to own a Bitcoin or use a Bitcoin have to buy one of the few that are already out there.
+
+3. There are a growing number of BTC addresses
+
+Technically, the way that the BTC network is set up, there are already an infinite # of addresses. The system is set up that way to help make it more difficult to find a specific address and hack into it. The more important figure, however, is the number of Bitcoin wallets that currently hold BTC >0. That figure posted a YOY increase in 2020 that has the total number of wallets in use at over 1 million. That doesn’t sound like a lot but you have to remember that supply is limited and the number of large holders and whales is rising by mid-single-digits. The number of whales, BTC holders with over 1000 BTC in their account rose by 7% while smaller accounts with 5 to 100 BTC’s rose by 4%. In total, BTC whales are holding nearly 2.3 million BTCs while smaller investors account for upward of 10 million BTC. That’s not a lot left for the truly small retail investors who are also flooding into this market.
+
+4. The mining community is still growing
+
+If Bitcoin wasn’t an attractive and lucrative investment the mining community would not be growing and it is growing. The latest data shows hashing power or the amount of computing power attributed to the BTC network at a new all-time high. The takeaway here is that Bitcoin’s hashing power has only risen over the long-term and is likely to continue setting new highs long into the future. That’s a lot of competition for a dwindling supply of coins.
+
+5. Bitcoin is the world’s reserve cryptocurrency
+
+Bitcoin has long been the world’s reserve cryptocurrency because it’s the easiest to use, the most widespread, the first that most new users buy, and its role in defi. The proof of this is in the coins market dominance of its percentage of the total cryptocurrency market cap. Except for a brief period during 2017 and 2018 when the Altcoin craze was going on Bitcoin has always commanded at least 50% of the total market cap. Lately, that has risen to over 60% where it has trended since mid-2019. The takeaway here is that when the world turns to crypto Bitcoin is the first name they seek. And the world is warming up to crypto.
+
+6. Bitcoins get lost, locked, and burned every day
+
+As if the limited and dwindling supply was not enough to support BTCs price movement there is the lost BTCs to consider. The estimates vary but investors should assume that roughly 3.7 million BTCs are already lost or irrecoverable. One analyst estimates that 1,500 BTCs are lost every day. What lost means is that they are in unrecoverable wallets. We know where they are on the blockchain but no one can get to them for 1 of 2 reasons. The first is that they are really lost due to password protection and/or lost devices. Those coins will never come back to the market. The second is burning. Some operations on blockchains require you to lock or “burn” coins. This essentially loses coins on purpose but in a way that spawns new value. For example, if we wanted to launch our own cryptocurrency we could burn $1 million worth of BTC and produce 1 million $1 MarketBeat Coins.
+
+7. Defi is growing
+
+Defi is decentralized finance which, in a nutshell, means locking BTC or another cryptocurrency into a smart-contract. The total value of defi grew at an exponential pace in 2020 and now amounts to over $27 billion in value. That’s not all BTC value but BTC is well-represented. The takeaway here is that defi is growing and will continue to suck up BTC value and drive demand for BTC.
+
+Bitcoin is bullish
+
+After a strong rally from the 2020 lowws the Bitcoin market is very bullish. BTC is likely to move sharply higher over the next year and basied on the recent move, it could run close to 100%. Assuming the recent consolidation at all-time-high levels will lead to a continuation we project at least $27,000 in upside from the $32,000 level.

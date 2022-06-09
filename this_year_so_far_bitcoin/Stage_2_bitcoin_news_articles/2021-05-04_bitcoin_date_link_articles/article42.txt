@@ -1,0 +1,95 @@
+Insight
+
+Turkey’s unregulated crypto market has come under closer scrutiny by the government, as it begins to tighten restrictions and float a tax regime.
+
+Turkey’s unbridled cryptocurrency boom has now been met with an immovable object – the long arm of the state.
+
+While regulatory intervention in the fast evolving space was considered inevitable, government authorities have swiftly moved in a matter of weeks to bring the industry under its purview.
+
+Like many around the world, Turks have flocked to invest in bitcoin, eager to gain from the cryptocurrency’s bull run over the past year while hoping to shield themselves against inflation – which peaked above 17 percent in April – and protect their savings.
+
+Bitcoin, a cryptocurrency run on a decentralised ledger known as the blockchain, is often dubbed ‘digital gold’ and a hedge against inflation because of fixed supply written into its code: there can only be 21 million bitcoins ever ‘mined’ compared to fiat currencies, which can be created ad infinitum by central banks.
+
+With an unregulated environment thriving for years, Turkey was believed to have one of the highest exposures to cryptocurrencies worldwide, with polls indicating between 16 and 20 percent of Turkish citizens have used or owned cryptocurrencies as of 2020.
+
+Daily market transactions are estimated to be worth between $1-2 billion and use of bitcoin has increased a whopping 600 percent over the last 12 months. Between February and March this year, some $26 billion worth of crypto transactions took place, nearly four times as much as in the same period the year before.
+
+But with crypto’s meteoric rise, the flipside of the coin is government pushback – as witnessed from China, Russia, to India. And it appears Turkey has joined the fray too.
+
+Crypto payments ban
+
+On April 16, Turkey’s central bank (CBRT) announced legislation to ban the use of cryptocurrencies as payments for goods and services, citing possible “irrevocable” damage and significant transaction risks.
+
+The move prohibits companies that handle payments and electronic fund transfers from processing transactions involving cryptocurrencies. The ban officially went into effect on April 30.
+
+Investments, however, were not deemed illegal, as Turkish exchanges could still facilitate the trading of cryptocurrencies for other assets, including digital and fiat currencies.
+
+At the moment BtcTurk and Paribu are the two top exchanges in Turkey, trading in excess of $1 billion daily.
+
+By defining crypto as an asset in the regulation – rather than a currency – means the government has removed the option of crypto being a medium of exchange off the table.
+
+Given plans to launch a central bank digital currency (CBDC), the digital lira by 2023, there is a regulatory impetus to make a clear distinction between what is a legitimate digital currency and what isn’t.
+
+In the wake of the Central Bank's regulation on payments, a couple of local cryptocurrency exchanges declared bankruptcy. One of them was Thodex, whose founder shut down the exchange and fled the country with a reported $2bn in investors' assets. (Mehmet Ali Ozcan / AA)
+
+Shortly after news of a payment ban, in the space of a few days, two Turkish crypto trading exchanges Thodex and Vebitcoin collapsed, dealing a major blow to hundreds of thousands of investors who were then unable to access their digital assets.
+
+On April 20, Istanbul-based Thodex abruptly ceased its operations while holding investments from around 390,000 active users. The shutdown triggered a manhunt for the 27-year-old founder and CEO Faruk Faith Ozer, who fled to Albania with a reported $2 billion in investor assets.
+
+Before shuttering, Thodex was trading more than $580 million on its exchange. Most recently, six people were jailed pending trial in connection with the probe.
+
+On April 23, Vebitcoin announced it was halting operations after citing deteriorating financial conditions. As of last week, authorities detained at least four people connected with the exchange.
+
+In the aftermath of the two incidents, Sahap Kavacioglu, Turkey’s central bank chief, warned that a range of crypto regulations would be passed within the coming two weeks but stopped short of calling for an outright ban.
+
+“You cannot fix anything by banning crypto, and we do not intend to do this,” he said.
+
+The fact is a wholesale ban in Turkey would be near impossible to do at this stage. Crypto is a multi-billion-dollar local market where people have been free until now to purchase and trade.
+
+Many are willing to welcome regulation, especially if it means protection from scams.
+
+AML, pending tax regime
+
+On May 1, the day after the crypto payments ban went into effect, a presidential decree stated cryptocurrency exchanges would be added to the list of firms that are covered by anti-money laundering (AML) and terrorism financing regulations.
+
+AML refers to a set of procedures and legal regulations that are in place to identify and prevent profit from illegal activities, such as trading illegal goods, evading tax, manipulating markets, and laundering ill-gotten funds.
+
+The announcement said the country’s latest expansion of rules governing crypto transactions would take immediate effect and cover “crypto asset service providers.”
+
+Chief of the the Central Bank of the Republic of Turkey (CBRT), Sahap Kavcioglu speaks during an interview in Ankara, Turkey on April 16, 2021. (Ali Balıkcı / AA)
+
+The news came alongside reports that new regulation is being drafted to tax crypto transactions and assets.
+
+According to Daily Sabah, crypto would be deemed as assets or goods under Turkish law in the coming weeks.
+
+“A new tax regulation concerning the purchase, acquisition, sale and transfer of the crypto financial assets will be introduced,” the report said. “In order to protect the investors, the new regulation will strengthen the inspection and surveillance mechanism of cryptocurrency trading [by the banking watchdog BDDK].”
+
+It was not immediately clear whether the new tax would be levied as a direct tax or an income tax on crypto assets.
+
+According to finance journalist Erkan Oz, taxing investors would be much easier to do through banks.
+
+“We know that a tax regulation is inevitable, we just don’t know its shape and process. Payment and electronic money establishments being banned from the process can be interpreted as a foreshadowing for taxation from the source via bank channels,” he said.
+
+“I hope tax rates will not be so high and that the Turkish implementation will come close to the US and EU regulations in the coming years.”
+
+Countries like the US and the UK tax crypto assets through income tax, and because they are treated as securities, capital gains tax is applied once the asset is sold.
+
+Securities in Turkey are taxed at a 23 percent rate.
+
+Regulatory fallout
+
+As of April 30, it is only possible to send money to crypto exchanges via banks or the postal office. Users cannot use popular electronic payment services and digital wallet providers like Papara or Ininai to deposit or withdraw fiat currency on crypto platforms anymore.
+
+BtcTurk has agreements with six of the largest Turkish banks through which the platform’s users can use to deposit or withdraw their investments.
+
+One of the fallouts of the payments ban in the short-term could be that it hinders blockchain innovation in Turkey, as local developers and entrepreneurs might be forced to reevaluate and move their projects out of the country.
+
+Speaking to Coindesk on the unfolding situation, BtcTurk’s CEO Ozgur Guneri doesn’t expect regulation to limit investment in the long term.
+
+Rather, he sees the current moment as an intermittent phase where Turkish regulators are in the process of deciding what shape crypto regulation will take.
+
+“In the next few months, we are going to see regulation in Turkey where business, government and individual stakeholders will be operating in a much safer environment,” Guneri said.
+
+“When that happens, I believe the Turkish central bank and capital markets will allow regulated companies to interact with the new regulated crypto asset industry.”
+
+Source: TRT World

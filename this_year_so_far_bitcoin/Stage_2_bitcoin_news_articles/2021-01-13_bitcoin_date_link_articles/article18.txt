@@ -1,0 +1,23 @@
+As the recent price rally in bitcoin and ether cools down, investors and traders are taking a closer look at alternative tokens (“altcoins”), particularly those from the decentralized finance (DeFi) subsector.
+
+Multiple DeFi tokens this week saw double-digit gains, including 0x (ZRX), aave (AAVE), and maker (MKR). Prices for 0x were at $0.52 at the time of writing, up 20.42% in the past 24 hours, according to CoinDesk 20. Maker’s price, at the same time, saw near-160% growth year to date.
+
+“I think the biggest thing is bitcoin’s momentum finally cooling and giving DeFi tokens some room to breathe,” Ryan Watkins, research analyst at Messari, told CoinDesk. “On top of that there are a lot of exciting new releases coming out in DeFi these next one to two weeks which is creating momentum as well.”
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+0x, an Ethereum-based decentralized exchange, announced its version 4 upgrade plan on Jan. 7, which caused a sudden rally in the protocol’s ZRX token. The upgrade will include new customizable modules that are able to execute trades without interruption and gas efficiency optimization. The vote for the upgrade is scheduled for Jan. 16.
+
+Trading volumes on major decentralized exchanges also saw rapid growth in the past month, up 95% to approximately $37.58 billion, according to data from Dune Analytics. On derivatives exchange FTX, perpetual futures for their DeFi index were also trading near their all-time high again as of press time.
+
+Perpetual futures for the DeFi index on FTX. Source: TradingView
+
+However, this time is unlike the last “alt season” that appeared temporarily after bitcoin’s bull run in 2017 or the “DeFi summer” boom, which was caused by “hype” on high yields from liquidity mining, according to Peter Chan, lead trader for crypto trading firm OneBit Quant. He told CoinDesk he does not see any new exciting projects that are attracting particular liquidity to altcoins.
+
+Rather, the current renewed growth in DeFi has some wondering whether DeFi will become something that is much bigger than just the potential high returns from so-called “yield farming.”
+
+In a Financial Times op-ed written by Brian Brooks and published Tuesday, the outgoing acting head of the U.S. Office of the Comptroller of the Currency (OCC) wrote on the future “self-driving” banks, raising the possibility that the DeFi sector is here to stay if regulations are able to catch up with the fast-growing technology and ensure compliance and safety.
+
+“Although these ‘self-driving banks’ are new, they are not small,” Brooks wrote. “They are likely to be mainstream before self-driving cars start to fly.”
+
+Watkins said that “continued growth and maturation of DeFi infrastructure” is the next move for the DeFi sector, which involves increased layer 2 adoptions, more protocol-to-protocol corporations and cross-chain DeFi projects.

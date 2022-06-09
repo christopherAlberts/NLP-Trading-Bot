@@ -1,0 +1,59 @@
+They have major impact on your reputation, cause players to abandon, and take a big bite from your bottom line. Join Dean Takahashi and others to learn how to defend your game against cheaters and pirates.
+
+Elevate your enterprise data technology and strategy at Transform 2021.
+
+Satoshi’s Games has unveiled Elixir Marketplace, a nonfungible token (NFT) marketplace for games that enable players to earn rewards based on the Bitcoin cryptocurrency. The platform will be part of a larger publishing platform that the makers of blockchain games can use to incentivize people to play.
+
+The Elixir Marketplace is live now for people to trade items from Satoshi’s Games’ upcoming 3D cartoon-style battle-royale title, Light Nite, said Carlos Roldan. It’s all part of the trend toward the Leisure Economy, where we could one day make money playing games.
+
+Roldan is the founder at the Alicante, Spain-based company. He said the idea behind the company a couple of year ago was to provide instant liquid “micro rewards” that sparked the creation of the first platform.
+
+How it works
+
+NFTs use the secure and transparent ledger of blockchain to uniquely identify digital items, which can make them more valuable. Game companies are looking at NFTs as a new way to make money while offering players the benefit of being able to own the items outright and buy or sell them.
+
+In other words, players could get paid to play games. In Light Nite, Bitcoin microtransactions add a new level of interaction, as players can earn Bitcoin instantly when they shoot opponents and withdraw balances whenever they wish, the company said. All in-game items have a real value that players can gift or trade, allowing them to feel in control of their gaming world, according to Satoshi’s Games.
+
+Image Credit: Satoshi's Games
+
+The marketplace uses technology from the Liquid sidechain, which is a settlement network for traders and exchanges, enabling faster, more confidential Bitcoin transactions and the issuance of digital assets. It also uses the Lightning Network, a Layer 2 protocol that can operate faster and offer bidirectional payments, so players could bring money into and out of a network. That enables easier trading, like hard currency in a free-to-play game.
+
+It also uses the InterPlanetary File System, or IPFS, for storing images in a peer-to-peer network. And it’s using the Lightning Service Authentication Tokens (LSATs), which allows tracking of a verifiable ownership record from an asset, along with co-ownership and other provable authenticated events. That helps Satoshi’s Games replicate the behavior of NFTs and crypto-collectibles through Bitcoin, Roldan said.
+
+“We say that we replicate the behavior of NFT standards because we can provide that traceability, authenticated co-ownership, and provable swapping mechanisms features and add further functionality like for protecting visual media content linked to the liquid issuance contract,” Roldan said.
+
+Cobbling together all of these services is what is necessary to make it easy, fast, and inexpensive to trade items on the Bitcoin cryptocurrency, which has seen an explosion in value and is gaining mainstream adoption. Others creating such marketplaces include Sandbox, Immutable X, and Mythical Games.
+
+“The choice of Bitcoin is strong,” Roldan said. “It is now and in our opinion will ever be the most secure, liquid, and broadly adopted cryptocurrency. And considering the Layer 2 Lightning Network is more scalable than Ethereum and totally fit for micro-rewards due to its instant and nearly-zero cost properties. No other platform offers this set of essential features.”
+
+Roldan said he considers Elixir to be the first Bitcoin-based NFT, as all the others are based on Ethereum or other blockchains.
+
+“Lightning was just born at that time and with it the ability to make transactions of a millionth of a dollar instantly and at nearly zero cost,” he said. “That allowed new levels of interaction and confidence between players and studio. Loyalty schemes exist since long ago in games as well as in many other industries.”
+
+He added, “We were just replacing soft currencies with very small fractions of real Bitcoin in a way that compensates users for enhancing their skills in the game. Then earmarking skins (NFTs) arrived at Bitcoin blockchain through Liquid and with them a great way for users to sit in control of their bitcoin economy, and to easily jump from one game to the other just by selling and buying skins anytime. Markets based on provable supplies generate more confidence in users and mobility rockets with it.”
+
+Light Nite is a reward-based game
+
+Image Credit: Satoshi's Games
+
+Roldan said that the Light Nite game has about 3,500 people who have preordered the game. It has about 1,300 monthly active users in a pre-alpha version of the game right now, and those players asked for the company to let them trade the tokenized in-game gear they acquire from the battle royale third-person shooter.
+
+“The NFTs in our titles aren’t just collectibles,” said Roldan. “We want our players to have greater control and ownership of their in-game items while still being able to use them on the digital
+
+battlefield.”
+
+Light Nite players can collect Bitcoin for playing well. They can also obtain in-game gear that’s been tokenized with Liquid. NFTs may be earned while playing, purchased or traded in the Elixir marketplace. Users can also withdraw NFTs to their own wallets if they prefer to custody them.
+
+A publishing platform for other developers
+
+Image Credit: Satoshi's Games
+
+The Elixir marketplace will eventually become part of Satoshi’s Games’ greater Elixir publishing platform, due out later this year. The platform will allow any developer to publish games with features such as Bitcoin Micro-Rewards and Asset Tokenization. These features have already been implemented in Light Nite, meaning fans of the title already have access to the marketplace.
+
+Developers uploading their games to the Elixir platform will chose if they want to offer sat micro-rewards, asset tokenization, or both, Roldan said.
+
+Satoshi’s Games has 15 people and it has raised $1 million. The company was founded in 2018.
+
+“As we release Elixir, many developers will immediately understand the advantages of a new economic model natively built on the future mainstream digital currency, which allows a much higher level of freedom and mobility for users,” Roldan said.
+
+As to how to get to a mass market for blockchain games, Roldan said, “Many quality studios are already realizing that there are new ways of acquiring and retaining users at a lower cost for them. Players claim more freedom, more confidence, and more open rewards. Elixir enables studios to offer all that to their users with higher profitability, so it will not be the technology itself (quite transparent for most users) but the convenience that will drive the mass market into this trend.”

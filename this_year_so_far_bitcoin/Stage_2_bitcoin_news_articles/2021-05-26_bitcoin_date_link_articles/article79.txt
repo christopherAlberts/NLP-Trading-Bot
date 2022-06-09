@@ -1,0 +1,25 @@
+Bitcoin has been in the news lately and it is often an inquiry that many investors make. Most recently, it has been in the news cycle for not the best of reasons. A little over a month ago, a Bitcoin was priced at nearly $65,000 USD. As of Friday’s close, it was off -45% from that peak. It experienced a -13% single day on May 12th, and as of this morning (Monday, May 24th) is up +13%. That is a lot of volatility. So, let’s answer the key questions: What is Bitcoin, why is the concept of Bitcoin attractive for investors, and most importantly what is the value of Bitcoin as an investible asset?
+
+What is Bitcoin?
+
+Bitcoin is a digital currency. Unlike the US Dollar, or the British Pound, Swiss Franc, etc., Bitcoin is not backed by any government or bank (it is a “decentralized” currency). How does it work? Well, rather than being backed by any centralized authority, Bitcoin operates off of peer-to-peer technology. Instead of the banks processing transactions, individuals process them. You may have heard the terms “bitcoin miners” or “blockchain.” Blockchain is basically a transparent collection of Bitcoin transactions. Bitcoin miners are the people solving complex algorithms in order to discover new blocks added to the chain. As they do this, they are verifying the transactions across the network and are incentivized by the reward of more bitcoin.
+
+Content continues below advertisement
+
+Think of it like creating a computer that solves sudoku puzzles. For every puzzle the computer solves, a dollar comes out. Bitcoins are released at a fixed, declining rate, meaning there is a predetermined number of Bitcoins that are available in the market.
+
+What makes Bitcoin attractive?
+
+We just discussed the basics of how Bitcoin works, and it seems complicated, probably because it is. So, let’s talk about why some are attracted to Bitcoin. For a form of payment, many see Bitcoin as a faster, lower fee, more global solution to cross-country transactions; it can be a universal currency. Additionally, it is fairly secure. When you exchange bitcoin, there is no personal information, such as banking account numbers being shared. From an investment perspective, it can act as an alternative store of value. Instead of storing dollar value in a commodity like gold, value can be stored in Bitcoin. Additionally, many who seek investment in Bitcoin, may enjoy the extreme volatility and speculation.
+
+Source: “How Bitcoin Works”, Jake Frankenfield, February 2021
+
+Is Bitcoin a “good” investment?
+
+Bitcoin could change the world. Who knows, in 10-20 years, maybe we are all using it regularly to purchase food from the grocery store, pay our mortgages, or travel across the world. But, make no mistake: Bitcoin is still driven by the law of supply & demand. This means that having Bitcoin as an investment is really no different than owning Tesla shares. It isn’t government-backed and is only worth what people are willing to pay for it.
+
+That means as an investment, Bitcoin will go through both Bull Markets and Bear Markets. We have seen Bitcoin hit $20,000, then fall by -80% to $3,500. It then soared all the way to $65,000. One month later, and it’s down to $35,000. This all took place in a matter of two years. Talk about volatility!
+
+The chart above shows the price history of Bitcoin on a Log Scale. You can see that its value has fluctuated dramatically. Just like every other liquid security, its value is based on the law of supply & demand. Green zones represent “lower-risk, Bull” markets; Red zones are “high-risk, Bear markets; Yellow zones are Transitional. Keep in mind, that just because Bitcoin enters into bull markets, it still has a VERY high degree of volatility and fluctuation. A bullish environment for Bitcoin just means it has less volatility than it normally would, but still far exceeds the volatility levels of most market securities.
+
+When it comes to investing in Bitcoin, investment vehicles (such as ETFs) will become more readily available in time. We need to treat Bitcoin just like every other investment in our portfolio: by taking an objective, technical approach, and not one based on our own personal speculation of the future. Looking at the characteristics right now, Bitcoin is very volatile, with a high degree of risk and fluctuation. That being said, there may come a time when Bitcoin becomes a viable investment, with low fluctuations and lower risk, but as of right now, it is not that time.

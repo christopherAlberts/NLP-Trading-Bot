@@ -1,0 +1,91 @@
+After Charlie Munger said Bitcoin (CRYPTO:BTC) is, "disgusting and contrary to the interests of civilization," at the recent Berkshire Hathaway (NYSE:BRK.A) (NYSE:BRK.B) annual meeting, some may get the idea that all value investors must hate the world's largest cryptocurrency. Well, as in everything related to the market, the Bitcoin debate is not so cut and dried, even among famous value investors.
+
+For instance, Bill Miller, a very successful value investor and Buffett acolyte, is a Bitcoin bull. Miller invested in Bitcoin in his fund years ago, before being forced to spin out his Bitcoin holdings into a separate account for investors. Miller also invested his personal money in Bitcoin and is now a Bitcoin billionaire after having purchased the cryptocurrency back in 2014-2015 at an average price around $350 per share, which he continues to hold.
+
+While not as famous as Buffett and Munger, Miller became famous in the '90s and early 2000s after beating the market for 15 consecutive years when he ran the Legg Mason Value Trust. He did go on to make a big mistake during the Great Financial Crisis of 2008, losing 55% that year. Yet a recent profile in Barron's showed Miller is back, with his current fund, the Miller Opportunity Trust, in the top 1% of its peers over the past one-, three-, five-, and 10-year periods.
+
+For those interested in Bitcoin but unsure if it's right for them, you can probably find the best arguments on both sides of the Bitcoin debate from Buffett and Miller, who share two of the greatest investing track records of all time.
+
+Here are their takes on Bitcoin's intrinsic value, which is predicated on its utility as a store of value, medium of exchange, and hedge against inflation.
+
+Buffett v. Miller: On Bitcoin's uses and intrinsic value
+
+Buffett has commented on Bitcoin's value, or lack thereof, on numerous occasions. In 2019, he said:
+
+[I]t's ingenious and blockchain is important, but Bitcoin has no unique value at all. It doesn't produce anything. You can stare at it all day and no little Bitcoins come our or anything like that. It's a delusion, basically.
+
+Followers of Buffett know he values all financial assets based on the wealth they produce. For Bitcoin and other types of commodities without high industrial value, Buffett can't escape the fact that these assets don't actually "produce" anything. In 1,000 years, there will still only be 21 million Bitcoins.
+
+Meanwhile, Miller believes Bitcoin is closest in function and value to digital gold, in that it is a store of value and possible hedge against inflation, and that Bitcoin is superior as a better medium of exchange. So why shouldn't Bitcoin be at least as valuable as gold, which is still 10 times the value of Bitcoin? Here's what he said:
+
+Many of the larger owners of Bitcoin say the best way to think about it is as digital gold. Gold is analog; Bitcoin is digital. It's far superior to gold as a store of value, not just because it's gone up 200% a year for 10 years, but because you can't flee your country with millions of dollars' worth of gold, as it's bulky and hard to divide, whereas you can send Bitcoin anywhere in a fraction of a second at very low cost, and it's almost infinitely divisible. The best estimates I've seen are that there's about $10 trillion of gold value in the world, some in jewelry, some in central banks, some in things like ETFs. Bitcoin's market cap is around $1.1 trillion. I'm highly confident that Bitcoin can go up 10 times under certain reasonably assumed conditions—namely, it can be as valuable as gold.
+
+For the record, Buffett is not the biggest fan of gold either and has said similar things about gold as he has about Bitcoin: He believes it's of limited utility, notes that isn't used in many industrial applications, and disagrees that it's a good store of value or mode of exchange. All of those factors will drive the price for Bitcoin, so let's investigate each potential use case.
+
+On Bitcoin's utility as a medium of exchange
+
+While gold can't really be used as an efficient medium of exchange these days, more and more companies are allowing for you to pay for things with Bitcoin. In fact, Tesla (NASDAQ:TSLA) just recently allowed customers to pay for cars with Bitcoin, as of the end of March.
+
+Of course, as a medium of exchange, Bitcoin is also up against the leading credit and debit card networks, checks, and cash. Buffett touched on Bitcoin's difficult competition years ago:
+
+It's a very effective way of transmitting money, and you can do it anonymously and all that. A check is a way of transmitting money, too. Are checks worth a whole lot of money just because they can transmit money? I hope Bitcoin becomes a better way of doing it, but you can replicate it a bunch of different ways.
+
+Unsurprisingly, Miller was asked about that comment specifically and replied, "If there were 21 million checks in the world and that's all there were, checks would be very, very valuable."
+
+Miller here is referring to the limit of 21 million bitcoins, which is a limit put on the Bitcoin blockchain network by its inventor, Satoshi Nakamoto. This is true, and the scarcity value may make Bitcoin like an expensive check, but does that make it a better mode of exchange?
+
+Back in 2015, Miller did write that there are possible scenarios in which Bitcoin may be a better transaction medium that credit card networks, because of lower friction and costs:
+
+The open ledger combined with the complexity of transaction data makes Bitcoin a very secure method of payment relative to someone's credit card, which relies upon one simple set of numbers to effect many transactions. One of Bitcoin's biggest advantages over other payment networks like Visa and Mastercard is minimal transaction fees. While other payment networks typically charge the greater of ~3% and $0.15, Bitcoin's transaction fee tends to be a negligible fraction of the transaction, if any at all. Lower transaction fees not only enable buyers and sellers to transact at prices that are better for both parties, but they could enable micropayments in markets that are not otherwise compatible with a $0.15 surcharge on low-price, low-margin goods and services.
+
+One pitfall is that bitcoin may be too good a medium of exchange, so much so that it becomes a preferred solution for kidnappers and extortionists, displacing suitcases full of cash. This is one of the moral concerns Munger has brought up. While extortion and kidnapping existed before Bitcoin, it's possible that Bitcoin could make things marginally easier for some types of nefarious activities.
+
+As with investing in things like sugary drinks, oil, cigarettes, gambling, or alcohol companies, every investor needs to draw his or her own moral lines when investing, taking into account of costs and benefits each security brings to the world. Without judging one way or another on this matter, for the purposes of this debate, let's continue focusing on Bitcoin's merits and shortfalls as a financial asset.
+
+Bitcoin as a store of value
+
+Buffett has also dismissed the argument that Bitcoin is a good store of value, saying in 2014:
+
+It's not a currency. It does not meet the test of a currency. I wouldn't be surprised if it's not around in 10 or 20 years. It is not a durable means of exchange. It's not a store of value. It's been a very speculative kind of Buck Rogers-type thing, and people buy and sell them because they hope they go up or down just like they did with tulip bulbs a long time ago.
+
+Harking back to Tulipmania of 1637 Holland, Buffett is basically saying Bitcoin is only as valuable as tulips -- in other words, however much someone is willing to pay. It's likely that the inherent lack of government backing and high volatility make Bitcoin a bad store of value and medium of exchange for Buffett.
+
+However, Miller's son, Bill Miller IV, who runs is own income fund and shares his father's views on Bitcoin, predicts that Bitcoin's volatility should decrease over time as the price runs higher, which will improve its standing as a viable means of exchange and store of value:
+
+When Bitcoin's volatility approaches that of Treasuries, its market cap and price per bitcoin will be immensely higher and leave little room for excess return. At that point, one could imagine Bitcoin transitioning to become a more commonly used medium of exchange.
+
+This may seem like circular logic: "Bitcoin will be worth a lot as a medium of exchange when it becomes less volatile, which will only happen after its price increases a lot." And yet... yes, that's pretty much what Miller believes.
+
+Following on that topic in a recent interview, Miller claimed that Bitcoin's recent rise had made it less risky, not more. "It gets less risky the higher it goes... which is the opposite of most stocks," Miller said.
+
+In Miller's mind, the recent rise in Bitcoin's price is validation of institutional demand and the mutual agreement across institutions that Bitcoin is the de facto cryptocurrency for the world. Given that institutions and leading companies are now buying Bitcoin in their treasuries with some corporate cash, that validates Bitcoin's inherent value. If that adoption continues, demand should far outstrip the supply of Bitcoin for some time to come. Miller goes on:
+
+The supply grew 2.5% last year; it's growing 2% this year. Is demand growing faster or slower than 2%? Well, Morgan Stanley (NYSE:MS) is going to make Bitcoin available to their clients. Goldman Sachs (NYSE:GS) is going to make it available to their clients. Every big bank will do so. There's Bitcoin exchange-traded funds in Canada and Brazil, and about five of them have filed in the U.S. There's an estimated 47 million millionaires in the world; if each of them wanted to own one Bitcoin, they couldn't -- there are only 21 million of them. And how many hundreds of billions of dollars of cash is sitting on company balance sheets? MicroStrategy (NASDAQ:MSTR) famously put all of its cash in Bitcoin. Tesla put cash in Bitcoin. But the adoption rounds to zero. It's that asymmetry between supply and demand that is leading to what's going on.
+
+Buffett isn't convinced Bitcoin will last and attributes its recent adoption by banks as no better than banks' speculating on housing during the Great Financial Crises, or in tulips during the tulip bubble of 1637 Holland: "It will feed on itself for a while and sometimes for a long while and sometimes to extraordinary numbers. But they come to bad endings, and cryptocurrencies will come to bad endings."
+
+What's odd here is that Buffett and Miller both see Bitcoin in a similar way yet have opposite takes on it. Buffett sees the cryptocurrency as having value only inasmuch that people are willing to believe it, which makes it risky and of no real worth. Meanwhile, Miller sees current demand so far outstripping supply that it doesn't really matter what utility Bitcoin will ultimately have: It's going higher regardless because institutions have decided it's worth something.
+
+On Bitcoin as a good hedge against inflation and government-backed currency
+
+One of the more intellectual arguments for Bitcoin is that it's a hedge against the fall of major governments and their currencies, a scenario that could lead to hyperinflation. With the U.S. running up massive debts and increasing the money supply to cope with recent crises, it's a concern on many investors' minds. Starting with the positive side here, Miller claims Bitcoin is an effective hedge against a hyperinflationary scenario:
+
+Bitcoin is the solution to a problem that's bedeviled economies since there were economies, which is government monopoly over the money supply and the banking systems, leading to serial defaults, confiscation with nationalization, inflation, and 25% money growth even in the U.S. Bitcoin protects you from all of those things.
+
+This argument probably makes the most sense for Bitcoin as an intrinsically valuable financial asset. Assuming Bitcoin has in fact achieved a first-mover advantage and the network effect of being the world's centralized digital currency, and not other cryptos, then it may very well function as a more efficient form of gold.
+
+But again, remember that Buffett doesn't have much affection for gold, even as an inflation hedge. So to have a new technology that, at its best, may be a new digital form of gold isn't so appetizing. On the topic of gold's role as a hedge on inflation, Buffett wrote in his 2011 letter to shareholders:
+
+The second major category of investments involves assets that will never produce anything, but that are purchased in the buyer's hope that someone else -- who also knows that the assets will be forever unproductive -- will pay more for them in the future. Tulips, of all things, briefly became a favorite of such buyers in the 17th century. ... The major asset in this category is gold, currently a huge favorite of investors who fear almost all other assets, especially paper money (of whose value, as noted, they are right to be fearful). ... During the past decade, that belief has proved correct. Beyond that, the rising price has on its own generated additional buying enthusiasm, attracting purchasers who see the rise as validating an investment thesis. As "bandwagon" investors join any party, they create their own truth -- for a while.
+
+Buffett then notes that internet stocks in the late '90s and housing in the mid-2000s were examples of logical ideas that turned into bubbles before collapsing. And the same could have been written about Bitcoin today.
+
+So what would Buffett prefer to own as a hedge against inflation, instead of gold? He prefers stocks of productive businesses that have pricing power and don't require much capital investment. Buffett went on to cite Berkshire holdings Coca-Cola and See's Candies as examples of assets that are good inflation hedges, since they can raise prices and customers are likely to accept them, while neither is burdened with heavy capital costs.
+
+The verdict
+
+The final verdict has not yet been rendered on Bitcoin, and it's unclear whether Buffett or Miller will be proved right. In fact, they both could be right. Bitcoin could very well surge to or beyond the price of gold and then crash or even become worthless later on.
+
+These are two of the smartest investors on the planet articulating both sides of the Bitcoin argument, so investors will have to figure if the new financial currency is within their risk and moral tolerance.
+
+Regardless of where you come down, one thing I would recommend is not putting a huge proportion of one's net worth in Bitcoin. Whether Bitcoin is a winner or a loser, it appears to be an all-or-nothing type of bet. As they say regarding investments in high-risk, high-upside assets, if it goes up a lot, you don't need much, and if it goes to zero, you won't want much.

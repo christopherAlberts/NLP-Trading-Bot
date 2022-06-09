@@ -1,0 +1,27 @@
+Bitgo Chosen to Manage Seized Cryptocurrencies for the US Marshals Service
+
+The U.S. Marshals Service has published a contract showing the crypto custodian Bitgo has been chosen to manage law enforcement’s seized bitcoin acquired through criminal forfeiture. The contracted deal is $4.5 million for the storage, maintenance, and disposal of cryptocurrencies according to documents released on Wednesday.
+
+USMS Pens a Deal With Bitgo
+
+During the last ten years, the U.S. government has seized a substantial amount of bitcoin (BTC) and other digital assets from criminal forfeiture cases. Traditionally, the U.S. Marshals Service (USMS) has been in charge of these funds stemming from high-profile cases like the Silk Road marketplace investigation.
+
+Since 2019, the USMS has been in search of a recruit or a custodian that can manage the crypto assets seized by the U.S. government. The government entity published another offering on April 24, 2020, for a contract worth $4.5 million.
+
+“The United States Marshals Service (USMS) has a requirement for storage, maintenance, and disposal of seized/forfeited virtual currency,” the USMC’s original solicitation notes. “The purpose of this contract is to provide the full range of virtual currency management and disposal services. This includes but is not limited to such activities as accounting, customer management, audit compliance, managing blockchain forks, wallet creation and management, private encryption key generation and safekeeping, backup and recovery of private encryption key material, airdrops, etc., as well as future actions associated with the virtual currency forfeiture process.”
+
+Over $4.5 Million for Managing Crypto Seized in Criminal Forfeiture
+
+On April 21, 2021, the contract was awarded to Bitgo, the digital asset trust company and security company, headquartered in Palo Alto. The length of the contract has not been disclosed in the contract filings. Prior to Bitgo’s partnership with the law enforcement agency, the USMC, FBI, and Department of Justice handled storage and auctions.
+
+Just recently, the department revealed it had seized over $1 billion in bitcoin from the Silk Road marketplace. The criminal forfeiture stemmed from a person dubbed “Individual X” and it is assumed that the person may be one of the rogue agents who got caught stealing bitcoin during the investigation.
+
+The company founded by Mike Belshe and Ben Davenport in 2013 has grown a great deal since Bitgo’s inception. The firm already manages billions of dollars worth of crypto assets and is the custodian for the Wrapped Bitcoin (WBTC) project as well. The BTC held in custody for the WBTC project is approximately 156,087 BTC according to Dune Analytics stats.
+
+The deal with the USMS may see Bitgo dealing with a significant sum of cryptocurrencies from ill-gotten gains going forward. The Palo Alto company will get $4,549,672 for dealing with the U.S. government law enforcement agency and meeting the contract requirements.
+
+What do you think about the United States Marshals Service contracting Bitgo to manage crypto assets for the government entity? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

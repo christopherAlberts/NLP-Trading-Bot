@@ -1,0 +1,13 @@
+The software also allows the Bitcoin network to confirm the accuracy of the password to allow transactions, without seeing or knowing the password itself. In short, the system makes it possible for anyone to create a Bitcoin wallet without having to register with a financial institution or go through any sort of identity check.
+
+That has made Bitcoin popular with criminals, who can use the money without revealing their identity. It has also attracted people in countries like China and Venezuela, where authoritarian governments are known for raiding or shutting down traditional bank accounts.
+
+But the structure of this system did not account for just how bad people can be at remembering and securing their passwords.
+
+“Even sophisticated investors have been completely incapable of doing any kind of management of private keys,” said Diogo Monica, a co-founder of a start-up called Anchorage, which helps companies handle cryptocurrency security. Mr. Monica started the company in 2017 after helping a hedge fund regain access to one of its Bitcoin wallets.
+
+Mr. Thomas, the programmer, said he was drawn to Bitcoin partly because it was outside the control of a country or company. In 2011, when he was living in Switzerland, he was given the 7,002 Bitcoin by an early Bitcoin fanatic as a reward for making an animated video, “What is Bitcoin?,” which introduced many people to the technology.
+
+That year, he lost the digital keys to the wallet holding the Bitcoin. Since then, as Bitcoin’s value has soared and fallen and he could not get his hands on the money, Mr. Thomas has soured on the idea that people should be their own bank and hold their own money.
+
+“This whole idea of being your own bank — let me put it this way: Do you make your own shoes?” he said. “The reason we have banks is that we don’t want to deal with all those things that banks do.”

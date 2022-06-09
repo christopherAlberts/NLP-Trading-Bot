@@ -1,0 +1,43 @@
+How to explain bitcoin? As I said a couple of weeks ago, it’s hard to dismiss the digital currency as a classic investment bubble because — unlike any of the other historical manias which have seen similarly extreme gains in price — it has formed a series of bubbles, which have burst and then reinflated. Bubbles aren’t supposed to do this: They are booms grown so large that they cannot gently deflate and must burst, never to return.
+
+Bitcoin has many of the symptoms of a speculative mania, led by the sheer excitement it inspires in its believers. But it’s hard to say what the digital asset’s value should be. Like gold, value is in the eye of the beholder. It has no intrinsic value, and while the same is true of banknotes, it has no government standing behind it.
+
+Plenty of people are grappling with the same issue, and the value of bitcoin might best be derived from its absence. To see how this works, look at the odd relationship between gold and Treasury bonds, in this chart from Gavekal Research Ltd. Generally, Treasuries beat gold when people aren’t too worried about inflation, while gold wins when there are inflationary concerns. Except at present, both are falling.
+
+
+
+This is happening despite widespread belief in a new wave of reflationary growth, and a historic amount of money-printing.
+
+Gold is generally thought of as an inflationary hedge, but if we judge it instead in terms of silver, we see that its price has roughly halved since the Covid panic last year. Gold has grown steadily more expensive relative to silver since the bizarre year of 1980 when prices of both precious metals went bonkers. The last year has seen a spike and then a reversal for the ages.
+
+What drives the gold price, then? Dhaval Joshi of BCA Research Inc. comes up with a different idea. The following chart shows three centuries of the gold/silver ratio. The relationship was stable until confidence in the gold standard eroded and then collapsed after the First World War. During the decades of the soft gold standard of the postwar Bretton Woods agreement the ratio returned to its old level, only to head back to the stratosphere once Bretton Woods broke down 50 years ago.
+
+Joshi contends that this shows demand for gold over silver is driven by its perception as a superior “anti-fiat” asset. If people are worried about the long-term buying power of government-issued currencies, they will be prepared to pay more for gold, with its perceived role as a store of value. How then do we explain gold’s sudden fall in silver terms over the last year?
+
+The Joshi argument is that bitcoin has risen as an alternative anti-fiat asset. It has been popular because of the libertarian anti-government ideas that have accompanied the digital currency since its inception. Bitcoin’s increase in scale to become better known and much easier to obtain now makes it a much more viable competitor for the shiny metal.
+
+There is circumstantial evidence that some money has flowed directly from gold into bitcoin. The following chart is from Charles Morris of ByteTree Asset Management Ltd. and shows flows into investment funds holding both assets since last May.
+
+Not all of the money leaving gold has gone into bitcoin, but quite a big chunk has. Institutions appear to be making a decision to allocate some money to bitcoin as a hedge against a fiat collapse. (Another important destination appears to be Chinese bonds.) Bitcoin’s strength in the last few months has come despite a distinct drop-off in Google searches for the term, which might be taken as a proxy for retail interest, or the kind of excitement that typically accompanies a bubble.
+
+Bitcoin’s performance over the last year is directly aligned with movements in bond yields. When yields rise, so does bitcoin. This implies that the digital currency benefits directly from the “reflation trade” — or the belief that inflation is coming. And to be clear, before anyone accuses me of chart crime, this one has two scales. Bitcoin is prone to much more titanic moves than Treasury bonds. The point is that they both move in the same direction at the same time.
+
+A rather more scientific analysis by the British research firm Quant Insight Ltd. shows bitcoin’s key sensitivity is to inflation breakevens. The same is true of gold. The difference, at present, is that bitcoin is positively correlated with breakevens, gaining when fears about inflation rise, while gold is negatively correlated.
+
+Adding another layer, Morris of ByteTree suggests that bitcoin is behaving like a growth stock, and gold has never done that:
+
+Bitcoin seems to have it all. It is one of the few assets that seems to benefit from a rising bond yield – something we reserve for true growth stocks and those cyclicals enjoying recovery. Conversely, this is normally detrimental to traditional low-growth safe assets such as gold, defensive yield stocks and bonds. Unlike defensive stocks and bonds, Bitcoin and gold are both inflation-sensitive, but gold is happiest when the world faces a downward spiral. In contrast, Bitcoin prefers a stronger economy, when the yield is rising. This is where we are today.
+
+The current drive in bitcoin therefore looks like a bid to protect against currency debasement, by means of a measured transfer from gold, which is deemed the weaker anti-fiat asset for the moment. Bitcoin’s recent pause (at a level where its price is still double what it was at the start the year) overlaps with a pause in the bond market, which had seemed to get ahead of itself. Real 10-year yields have essentially moved sideways for more than a month since their big rise ended in late February.
+
+If this is what is motivating people to buy bitcoin, with resurgence in fears of debasement and inflation accounting for its persistent recovery after crashes, the question of exactly how we should value it remains. Joshi looks at the merits of an anti-fiat asset as being tied up with its ability to avoid major losses. Gold can also have big drawdowns, but nothing like the epic losses that bitcoin periodically inflicts on its holders before rallying again. As bitcoin’s declines tend to be three times bigger, risk can be equalized by holding three times as much gold as bitcoin — which implies buying more bitcoin.
+
+Is bitcoin really that direct a substitute for gold? It’s a tough proposition to handle. I am typing this with a very small piece of gold around my ring finger. I am confident that I will never swap my wedding ring for one made of bitcoin. Gold at least has an intrinsic use as the raw material for much-desired jewelry. Bitcoin has nothing so straightforward to fall back on. Official action might easily limit use of the digital asset if it grew big enough to challenge the government’s monopoly of currency issuance.
+
+One final issue is that, as with gold, there is so little to hold on to. Yes, there are some measures that can justify a rising price. Bitcoin has been ingeniously designed so that the supply of new coin will reduce over time, and so that price declines will reduce the incentive to spend money on increasing supply. Network effects can also make the currency more useful — the more applications are developed, and the more easily and swiftly it can be used, the more it becomes a viable currency. But it still provides no yield to compare it to other assets. And its continued susceptibility to massive crashes messes up its use as a means of exchange, while ensuring that it continues to be an unreliable store of value.
+
+The technology undergirding bitcoin and other cryptocurrencies continues to develop. Like the laser, in its early days known as a “solution in search of a problem,” cryptocurrencies and the blockchain could solve all kind of problems for us. This is a reasonable hope, if not something that can be pinned down and valued with discounted cash flow analysis.
+
+For now, bitcoin fills a demand for a wider array of alternatives to fiat currencies at a time when many are deeply skeptical of monetary policy, while also promising the kind of exciting growth that tech stocks have done. It’s understandable that there would be wide demand for such an asset. And while that demand is strong, it is aided by that other universal force in markets; fear of missing out. If reflation doesn’t come through on cue, however, it might be as well to brace for another bitcoin bump.
+
+Bloomberg

@@ -1,0 +1,25 @@
+Some bitcoin options traders are betting this year’s price rally, which paused in recent weeks, will resume in April – historically a strong month for the market.
+
+Among options listed on the dominant Deribit exchange with an April 30 expiry, the most common open position is the $80,000 call, data shared by the options analytics platform Laevitas shows. Deribit is the world’s largest crypto options exchange by trading volumes and open interest.
+
+That’s a sign of high price expectations for April, as noted on Twitter by on-chain analytics firm Glassnode founders Jan Happel and Jann Allemann. Bitcoin is currently changing hands around $53,000, up 83% on the year. But the market has stagnated since reaching an all-time high above $61,000 on March 13.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+As highlighted by CoinDesk on Wednesday, the near-term focus in the bitcoin options market is on this Friday’s March expiry, where a record $6 billion of contracts are set to come due, with some analysts warning of an extreme pullback to what’s known as the “max pain” point, seen at $44,000.
+
+But if that expiry comes and goes without any major price fluctuations, the bullish bets for April would come into view.
+
+A call option gives the purchaser the right but not the obligation to buy the underlying asset at a predetermined price on or before a specific date. Essentially, it’s a bullish bet on the underlying asset.
+
+The total open interest in the $80,000 call option is 4,469 contracts, or 240 million at press time. The option is currently drawing a premium of 0.0160 BTC on Deribit, a relatively cheap rate that reflects just how far out of the money is the $80,000 strike price.
+
+Bitcoin options open interest (April 30 expiry) Source: Laevitas, Deribit
+
+Theoretically, the $80,000 call represents a bet that bitcoin would settle above that level on April 30. That doesn’t necessarily mean buyers of the $80,000 call option are anticipating a rally above that level by the end of April.
+
+Traders often purchase deep out-of-the-money calls even when expecting a moderate bull run because they can gain significant value as prices rise, yielding handsome returns on a small investment.
+
+Statistically speaking, the seasonality for April is biased bullish.
+
+Historical data shows bitcoin has chalked out gains in April in eight out of the last 10 years.

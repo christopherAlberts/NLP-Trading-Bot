@@ -1,0 +1,31 @@
+Crypto prices have mostly risen in 2021—despite a bout of volatility in recent weeks. And that price run-up has stoked intense interest among investors eager to gain some exposure to cryptographic assets like bitcoin BTCUSD, +0.60% .
+
+Absent an exchange-traded fund that allows for direct exposure to bitcoin and crypto—one doesn’t currently exist in the U.S.—there are a number of assets that offer high correlations with the world’s No. 1 virtual currency.
+
+In simple terms, correlation refers to the extent to which assets perform in relation to one another.
+
+Based on commonly used statistical measures, a correlation of 0 means the performance of one asset is uncorrelated to the other, while a correlation of 1 indicates that the asset moves in lockstep—in the same direction, and by the same degree. A negative correlation means that assets tend to move in the opposite direction.
+
+For its part, bitcoin has been viewed as an asset that isn’t correlated with many others. The crypto asset certainly has a low correlation with stocks, as represented by the S&P 500 index SPX, +0.18% and a pretty low correlation with technology stocks, as represented by the large-capitalization oriented Nasdaq-100 index NDX, +0.93% .
+
+Bitcoins correlation with the Nasdaq-100, as measured in late May, was around 0.20 on a rolling 20-day average, and its correlation with the S&P 500 is 0.29, as of June 2, according to Dow Jones MarketWatch data.
+
+The asset with the highest correlation to bitcoin, presently, is the Grayscale Bitcoin Trust GBTC, +7.47% , at 0.81, meaning that the trust moves nearly in lockstep with the crypto.
+
+That is even as competition and expected bitcoin-pegged ETFs have sapped GBTC of a premium that it used to enjoy relative to its net asset value.
+
+CoinDesk reports that the GBTC premium was around 30% at the beginning of 2021, but is now trading at discount at around -11.40% to NAV, as of the middle of the week.
+
+GBTC has been closed to new investors and is also hoping to convert its trust into a bitcoin ETF, if it can secure regulatory approval—a challenge as no crypto-pegged fund has been greenlighted in the U.S.—yet.
+
+Outside of GBTC, Michael Saylor’s MicroStrategy MSTR, +15.89% has a correlation of 0.73, and VanEck Vectors Digital Transformation ETF DAPP, +6.30% has a 0.65 correlation to bitcoin.
+
+Crypto platform Coinbase Global’s COIN, +6.78% correlation to bitcoin, meanwhile, is comparatively low at 0.32. lower than Tesla Inc. TSLA, +1.28% at 0.55, as well as bitcoin mining companies Riot Blockchain RIOT, +14.08% at 0.60 and Marathon Digital Holdings MARA, +12.77% at 0.57.
+
+Coinbase, the U.S.’s largest crypto platform, went public in mid April and is down nearly 30% since then. Bitcoin is down 42% over the same period.
+
+Dow Jones Market Data
+
+As the chart illustrates the U.S. dollar DXY, -0.01% has a negative correlation with bitcoin, at -0.37.
+
+—Ken Jimenez contributed to this article

@@ -1,0 +1,11 @@
+Financial services firm Square Inc. will partner with blockchain technology provider Blockstream Mining to build an open-source, solar-powered bitcoin mining facility, Blockstream announced in a press release Saturday. Square confirmed the news in a tweet, saying it was “committed to driving further adoption and efficiency of renewables within the bitcoin ecosystem.”
+
+According to the release, Square will invest $5 million in the facility, which will be a “proof-of-concept for a 100% renewable energy Bitcoin mine at scale,” and will be built at one of Blockstream’s sites in the US. “We hope to show that a renewable mining facility in the real world is not only possible but also prove empirically that Bitcoin accelerates the world toward a sustainable future,” the release states.
+
+Together, we'll be creating a public-facing dashboard to serve as a transparent case study for renewable energy and bitcoin mining. As we continue to explore the synergies between the two, we're excited to share our ongoing learnings and real world data points. (2/2) — Square (@Square) June 5, 2021
+
+Bitcoin mining uses a lot of electricity, and the pursuit of sustainable methods for mining it is top of mind for many in the industry. Tesla CEO Elon Musk said in April the automaker would stop accepting bitcoin as payment for vehicles (after having the policy in place for roughly a month), noting that cryptocurrencies like bitcoin “come at great costs to the environment.” He met with bitcoin miners in May, and the group agreed to form a Bitcoin Mining Council, “to promote energy usage transparency [and] accelerate sustainability initiatives worldwide.”
+
+Square CEO Jack Dorsey, who is also CEO of Twitter, is another big proponent of bitcoin (it’s the only word in his Twitter bio at the moment), saying in 2018 that he thinks bitcoin will become the world’s single currency within 10 years. Square invested $50 million in bitcoin in October , adding another $170 million in February. Users of Square’s Cash app can use it to buy bitcoin. And during remote testimony before Congress in March, a bitcoin clock could be seen in the background of Dorsey’s video stream.
+
+On Friday, Dorsey tweeted that Square was “considering making a hardware wallet for bitcoin” building it entirely in the open and in collaboration with the community.

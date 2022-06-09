@@ -1,0 +1,105 @@
+A sudden and unexpected death. Millions of dollars worth of cryptocurrency gone. Amateur detectives poring over digital puzzle pieces in a desperate bid to reclaim what's theirs.
+
+If you paid attention to the world of cryptocurrency over the past decade, the story of QuadrigaCX might sound familiar. At least in the beginning, anyway.
+
+The now defunct cryptocurrency exchange, an online clearing house of sorts where mom and pop investors could turn dollars into bitcoin or ethereum, was once the largest of its kind in Canada.
+
+Founded in 2013 by Gerald Cotten, by late 2018 the exchange had approximately 363,000 registered users and supposedly held roughly C$180 million worth of cryptocurrency in a combination of so-called hot and cold storage digital wallets. That was in addition to the C$70 million in assorted funds.
+
+And then, in late 2018, Cotten unexpectedly died while honeymooning in India — taking the digital keys to his customers' cryptocurrency to the grave with him.
+
+Or, at least that's the tragic tale his widow told the world at the time. But something about the story didn't sit right with Aaron Lammer, the host and coproducer of Exit Scam, an eight-part investigative podcast series on QuadrigaCX that premieres Monday.
+
+"It sounded like a scam," observes Lammer in the show's first episode. "And in bitcoin, if something sounds like a scam, it usually is."
+
+Over a free-wheeling phone call last week, I spoke with Lammer — who cofounded longform.org and cohosts the Longform podcast — about the new podcast series he coproduced with Lane Brown, the not uncommon belief that Cotten is still alive, and the ongoing effort to exhume Cotten's body.
+
+The below conversation has been edited for length and clarity. You can listen to the first episode of Exit Scam on Spotify, Apple Podcasts, and other platforms now.
+
+JM: Can tell us a bit about your work and your relationship with cryptocurrency?
+
+AL: I started getting interested in crypto around maybe like 2017-ish, after being pretty dismissive of it. You know, I have a long history of being wrong about cryptocurrency. It wasn't like the minute I heard about it I was deep in it. I started getting interested in Bitcoin in 2017, kind of right when the big first altcoin boom was happening.
+
+A lot of what drew me into crypto was the crazy stories. I like the stories of these weird little coins where the developer turned out to have been using a fake name, and purported to be some other person who had never even heard of the project. I just think those stories are incredible. So I started this podcast Cointalk, which was co-hosted with Jay Caspian Kang who writes for the New York Times Magazine, and we kind of caught serendipitously that first big insane bull run when some of these coins were going up 1,000 percent in a day. It actually has a lot of echoes of what's happening right now with Dogecoin, but this was the version one of it with some like weird clone of Ripple, or like a weird ethereum clone that some Russian guy was running and, you know, people were buying and selling them. They had funny logos. And I kind of got hooked on it, honestly. Less so the making money part and trading — which I am not particularly great at — and more so the finding the crazy stories part.
+
+JM: Yeah, the human element of cryptocurrency has always stood out to me as well. I'm interested in developments like DeFi and decentralized exchanges, but what I want to read about are the scams and the stories — that's where a lot of the excitement is in my mind.
+
+AL: They go hand in hand. As people push further forward into cryptocurrency, as an industry and as a field of innovation, it's ripe for people to do fake things and blend in with the people doing real things. So strangely, you're going to encounter the scammers and the charlatans whether you're interested in them or not. They sort of just go where the puck is going, where the money's going, where the interest is going.
+
+JM: Which brings us to QuadrigaCX. What inspired you to make Exit Scam, and how long have you been working on it?
+
+AL: I mean, when I first started working on this podcast I didn't know that I was making it into a podcast. I was just really interested in the story.
+
+Where the story was when I first heard about it was that there was this exchange in Canada called Quadriga. It was the largest exchange in Canada. And the founder went on his honeymoon trip to India. He arrived in Jaipur, and he had a serious stomach pain. He was known to have Crohn's disease, and pretty much within a day he went to the hospital and died. And after he died it was revealed that he hadn't shared his passwords with anyone, and that these private key passwords locked up all the money that the exchange had. That his customers had. And the company went into creditor protection because it no longer had access to its own money.
+
+Of all the stories I'd heard, this one was the craziest.
+
+This news came out while I was still hosting Cointalk. And of all the stories I'd heard, this one was the craziest. It had all of these elements that alone would be incredible. And yet, they were all in this one story. You've got this really mysterious death, you've got the fact that this guy is basically running a whole exchange more or less by himself. And you have the fact that there was no plan for what to do in a situation like this. So after following a lot of these stories, this was just the one that I couldn't let go of, and I was still following really closely and talking to other people investigating the case. And at some point, I was like, that would be a good podcast, you know? Because the story was so complicated, honestly, that I was like, if I want to get anyone else into the story, I need to simplify it and break it down and organize all this stuff because it was just all over the internet.
+
+JM: Right, and the story gets even wilder and more complicated than it seemed at first.
+
+AL: Okay, so basically after Quadriga filed for creditor protection, this accounting firm called Ernst & Young was brought in to look into whether there was any money to recover for the Quadriga customers who lost money. And what Ernst & Young concluded was, they basically went and looked into these wallets where there should have been hundreds of millions of dollars frozen, and concluded that the wallets were empty.
+
+The wallets were empty the whole time.
+
+And in fact, that the wallets had been empty for about eight months, before Gotten even left on his honeymoon.
+
+If you look back, you can see people on Reddit who are figuring out pretty rapidly that the wallets are empty. Now, those people didn't know for sure that the wallets they were looking at were the actual Quadriga wallets. The accountants, because the wallets had been turned over to them, did know. But yeah, I mean, that was not public knowledge immediately. For a long time, people were laboring under the idea that this was this kind of funny viral story about a guy who didn't tell anyone his passwords, and it cost his customers $200 million — which would have been a tragedy in its own right.
+
+But then in the middle of that story, we find out: Oh, no, the wallets were empty the whole time.
+
+JM: Which brings us to the name of your show.
+
+AL: Yeah, an exit scam, at least in crypto — and I think there are actually exit scams in other industries — but in the cryptocurrency sense an exit scam is usually someone behind a crypto business, sometimes a person who has a coin out, sometimes an exchange, will usually make some excuses. Like they'll say, "Oh, we got hacked," or, "we had a technical difficulty, there was a glitch. And as a result, we've lost your money." Or, you know, "we don't have access to your money now, but we'll be able to get it soon."
+
+And then, generally, the people disappear. And before customers know what's going on, they've completely lost this person along with all their money. There's been a lot of exit scams in darknet markets, where basically a successful darknet market will continue to accept money and then a month or so elapses, people realize nothing's getting shipped, and the person behind it has basically just made off with the funds. These kind of schemes were really common during the altcoin run that I talked about earlier. It's sometimes called the world of shitcoins. These are tiny currencies, or small exchanges that specialize in exotic small-cap altcoins. I lost my money on one called Cryptopia, actually. I had money on this total fly-by-night altcoin exchange and the proprietors exit scammed. I'd like to make a podcast about them too. That'll have to be season two.
+
+Exit scams are happening all the time.
+
+Exit scams are happening all the time. There's a Turkish exchange that the founder exit scammed, like a week or two ago, and took off with $2 billion is what's believed. And a consistent quality of exit scams, I'll say, is that there's a lot of things that people say were an exit scam and it's not clear whether it was until someone really looks into it deeply. Some of the legitimate hacks that have happened — I mean, as legitimate as a hack can be — people will say, "Oh, they didn't really get hacked. It was an exit scam." So just because something looks like an exit scam doesn't necessarily mean it was.
+
+But I guess what I want to say is that the climate this Quadriga thing happened in, it's not that rare that the actual explanation for one of these things would be an exit scam.
+
+JM: How did you approach reporting this story? Were people involved with QuadrigaCX willing to speak with you?
+
+AL: I mean, we talked to everyone who would talk to us. But Gerry [Cotten] was a pretty reclusive person. You know, he was not a social guy. A lot of people in the crypto space who become famous are basically using their clout to make money. They're promoting themselves on Twitter and have paid groups and all this kind of thing. There's a lot of that. But that wasn't the kind of guy Gerald Cotton was at all. He kept a pretty low profile.
+
+We did talk to people who knew Gerry. We talked to a couple people who lost money, but honestly the people who lost money didn't know any more about what happened than you or I did. The experience of losing money turned a lot of them into detectives, however. And we learned a lot from that community of detectives who pursued this case. In fact, I would say I learned more from them than I ever discovered myself. A lot of our path was to take all of these different sources of varying levels of believability — everything from really excellent reporting in the Globe and Mail, to Reddit threads — and to try and turn that into a coherent story. And talk to the real people behind the story, so that we're hearing from people who knew Gerry, not hearsay on Reddit.
+
+JM: How large is that community of detectives? And among those people, how prevalent is the theory you explore in Exit Scam — the theory that Gerald Cotten isn't actually dead.
+
+AL: That theory is extremely prevalent. I would be remiss if I were not to mention that the majority of these people that I have spoken to think there's a very good chance that Gerald Cotton is still alive.
+
+Gerald Cotton being alive is not the only mystery to the story.
+
+But I'll also say that Gerald Cotton being alive is not the only mystery to the story. If Gerald Cotton really did die of natural causes in India, then there's still a lot of money that needs to be accounted for. So I think that the people who are looking into this case are trying to figure out what happened at every level. What happened to the person? What happened to the money? How did this happen? How was this person even in a position to do this? It's not common that one person has sole control over hundreds of millions of dollars. It's pretty rare.
+
+It's unusual for an exchange to have such a concentration of power. Generally, there are pretty accepted best practices in terms of multi-sig wallets and really basic things exchanges should do. And when none of those things are in place, you have to question why. Why did someone build a system like this?
+
+JM: You're saying that it's not just that Cotten dropped the ball in setting up and managing QuadrigaCX, it's that he never tried to even hold one in the first place.
+
+AL: Or that potentially this power structure was by design, because it facilitated that person to do things that he wanted to do.
+
+JM: So there's this prevailing theory that Cotten faked his own death, and an ongoing effort to exhume his body to prove that it's not really him in that grave. Has that happened?
+
+AL: The body has not been exhumed. And I don't know that it ever will be. The authorities are, as far as I know, under no legal obligation to exhume the body and I've heard no indication that there is any imminent move to do so.
+
+JM: Do you see this story as representative of the larger crypto space as we're in this second boom? Is there a lesson that the cryptocurrency community can draw from it?
+
+AL: Well, I think that one lesson that I would draw from the story of Quadriga is that a lot of people who are in opsec, and infosec, will tell people that you have to keep your own private keys. And, you know, write them down on a piece of paper. And I think that those people have been validated by this story, and that they've been screaming from the mountaintops that you shouldn't keep your coins on exchanges for a decade now.
+
+And Gerry's story has proved them right.
+
+A lot of people sent Gerald Cotton money because he seemed like a nice Canadian guy.
+
+However, I also think that this story shows that when a risk comes to you, it may not be a high-tech risk. It may be something very classic and old like a Ponzi scheme. Ponzi schemes don't rely on some kind of high technology. They rely on the same thing they relied on in the early 20th century, which is people's greed, and sense of FOMO, and people's innate trust of other people. A lot of people sent Gerald Cotton money because he seemed like a nice Canadian guy. And it was a Canadian exchange, and people liked supporting it. Or people sent him money because it was the biggest exchange in Canada and that made it seem legit. And what he did was manipulate those people's perception of what he was doing, and he didn't use any particularly high-tech tools to do so. He used classic confidence techniques.
+
+If I was Canadian, I would have gotten hosed by Gerald Cotten too. You know, there's an expert I interview on Exit Scam, a guy who worked on the Quadriga case, and he told me the greatest weakness in the password is the human. And he means a truly random password is very hard to break, but he breaks a lot of people's passwords because their password is the name of their dog. And I think when it comes to cryptocurrency the greatest weaknesses is the human, too. It's not the nameless hacker who is going to somehow get your coins off you — that could happen, too — but it might just be a greedy guy who owns the exchange where you have your money.
+
+So I think as long as people are involved, there's probably going to be more Gerry's out there.
+
+This guy was the founder of the biggest exchange in Canada. He took a honeymoon trip to India, three days after he signed a new will, and he died very suddenly. His customers lost $200 million plus as a result of him not sharing his passwords. And when I heard this story, it just didn't add up. So this podcast is me trying to add it up. It's following all the leads and trying to make sense of this story and trying to figure out what really happened.
+
+Episode one of Exit Scam premieres Monday, May 10.
+
+WATCH: How to buy, use, and spend Bitcoin

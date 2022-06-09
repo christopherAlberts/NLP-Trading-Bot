@@ -1,0 +1,63 @@
+There comes a point in every investor’s journey when he must admit he is wrong about something. In my case, I was wrong about bitcoin and whether it would ever be considered a legitimate asset class. This realization dawned on me in the last month when the price of bitcoin passed its December 2017 highs of $20,000. My prior belief was that bitcoin wouldn’t surpass these highs for many years, if at all. I didn’t think that bitcoin was “going to zero,” but I also didn’t think it would eclipse its December 2017 peak anytime soon.
+
+Nick Maggiulli is chief operating officer at Ritholtz Wealth Management and author of the "Of Dollars and Data" financial blog, where a version of this article first appeared.
+
+Now that it has surpassed that peak by over 50%, I have come to realize that bitcoin isn’t the one-trick pony I thought it was. As Paulo Coelho wrote in “The Alchemist“:
+
+Everything that happens once can never happen again. But everything that happens twice will surely happen a third time.
+
+Well, here we are again. Bitcoin is on another spectacular bull run and investors are taking notice. Now that bitcoin has survived (and thrived) beyond its 2017 peak, many investors who used to see it as a joke are now realizing it isn’t one. I am one of them.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+I have changed my tune on bitcoin, but not because of many of the arguments put forth by bitcoin bulls. For example, bitcoin bulls have claimed that bitcoin would be used as a currency, that the U.S. dollar would plummet in value and that the halving in May 2020 would increase bitcoin’s price. They were wrong on all counts, yet bitcoin’s price has still gone up.
+
+What the bitcoin bulls were right about was increased adoption and the ability of many bitcoin owners to hold (“HODL”) even as prices rose dramatically. These two effects (more demand from buyers and reduced supply from sellers) have helped to boost bitcoin’s price and cement it as a legitimate asset class within the investment community. As a result, bitcoin has become a form of digital gold. You may not agree with this assessment, but if you still think bitcoin is “going to zero” you should reconsider your assumptions.
+
+Why bitcoin is here to stay
+
+The problem with arguing that bitcoin is “going to zero” is there are too many investors who are willing to buy it at a price far above $0. I remember speaking to many non-crypto investors before the recent run-up in price who said they wouldn’t buy bitcoin at $10,000, but if it dropped to $1,000-$2,000 they would surely jump in.
+
+Well, guess what? Now that the current price is above $30,000, some of those investors have likely increased the limit at which they would consider buying bitcoin. Instead of buying at $1,000 these same investors may be happy to jump in closer to $10,000. And every time the price goes up in the future, these “mental buy limits” go up as well, increasing the likelihood of bitcoin’s future survival.
+
+“But Nick, bitcoin doesn’t have any intrinsic value!” Well, guess what? Neither does gold, which has a $10 trillion market capitalization! So if you want to argue against bitcoin on intrinsic value terms, then you have to argue against gold, too. Because both the price of gold and the price of bitcoin are based around one thing and one thing alone – belief, the belief that these assets will have value in the future.
+
+And right now the collective belief in bitcoin is increasing. The cult is becoming a religion. Don’t just take my word for it though. There are plenty of articles (see here, here and here) that discuss this increased adoption within the investment community. And if this trend continues (as it probably will), then we are even less likely to see a future without bitcoin.
+
+How will bitcoin behave?
+
+Now that bitcoin is here to stay, you might be wondering how it will behave in the future. Will increased adoption lead to higher prices? I have no idea! What I do know is bitcoin is a speculative asset class. Therefore, we should look at other speculative asset classes as a guide for how bitcoin might behave. And I believe there is no better speculative asset to use for this comparison than the early years of gold as an investment.
+
+While gold has been around for millennia as a form of money, it wasn’t until August 1974 in the U.S. that it was an investable asset class. And in the six years following its reintroduction to the investment community (1974-1980), gold tripled in value in real terms (i.e., the yellow line below):
+
+Source: FRED, Stockcharts
+
+But since that tripling, it hasn’t performed all that well. Though bitcoin is unlikely to follow a similar path to gold, it is likely to exhibit similar behavior. This means bitcoin will continue to have huge run-ups in price followed by violent crashes that may last years (and possibly decades) in the future. We have already seen this kind of behavior from bitcoin before and I am quite confident we will see it again.
+
+The difference between bitcoin and gold is that bitcoin is still gaining adoption among investors.
+
+The difference between bitcoin and gold is that bitcoin is still gaining adoption among investors. Will that continue at its current pace into the future? Who knows? However, if bitcoin’s market capitalization were to match that of gold, it would be worth over $500,000 a coin. This is why some investors are so bullish on bitcoin.
+
+However, there are still some reasons to be bearish. The main one is that bitcoin is associated with some of the most speculative investment activity out there. This is most apparent when comparing its price movement to the price movement of another speculative cryptocurrency – dogecoin. Though you may not have heard of dogecoin, it is an alternative crypto currency (altcoin) that is kind of an inside joke on the internet.
+
+And since dogecoin’s price is a clear indicator of speculative behavior, if we look at the correlation between dogecoin and bitcoin we can get a better feel for how much speculation might be occurring in bitcoin at any point in time:
+
+Source: Of Dollars and Data
+
+As you can see, over the last three years the correlation between dogecoin and bitcoin has been quite high, with the most recent correlation reading around 0.8.
+
+But if we compare dogecoin to gold, we see that the correlation between their prices tends to center around 0:
+
+Source: Of Dollars and Data
+
+This is just more evidence that bitcoin is associated with speculative activity and will continue to behave like a speculative asset in the future.
+
+Is there a right way to invest in bitcoin?
+
+Though I have changed my mind on bitcoin, I haven’t necessarily changed my view on how one should invest in it. I believe the only prudent way to invest in this asset class without any long-term negative repercussions is to hold no more than 2% of your portfolio in it. I wouldn’t recommend this approach for everyone, but it may work for some people. By limiting your exposure to 2% of your portfolio you’re unlikely to get rich, but you’re unlikely to go bankrupt either.
+
+Why 2%? This was the allocation I got when I worked out the optimal portfolio back in October 2017. Anything more than 2% adds too much risk (per unit return) to your portfolio and anything less than 2% reduces your returns (per unit risk) too much. Of course, the optimal portfolio is the best solution for the past, not the future. Either way, I don’t see the harm in a 2% allocation, but please do your own research first.
+
+The biggest risk I see to owning bitcoin going forward isn’t a price crash (which is inevitable), but the possibility of a government ban on ownership. This might seem outlandish but in April 1933 the U.S. government banned the ownership of gold bullion/coinage for all U.S. citizens. The reasons for that ban are very different from a bitcoin ban that could happen today, but with the recent Securities and Exchange Commission complaint against Ripple I wouldn’t rule it out completely.
+
+Lastly, I might be wrong on many of the things I have stated today or in the past. But I don’t blog so that I can be “right.” I do it so I can learn more about investing and get closer to the truth. As economist John Maynard Keynes (or Paul Samuelson) supposedly said:

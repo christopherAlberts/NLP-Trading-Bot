@@ -1,0 +1,55 @@
+This post originally appeared on the Unbounded Capital website and we republished with permission from Dave Mullen-Muhr.
+
+For years one of the predominant debates in Bitcoin has been the block size debate. Should Bitcoin have “small blocks,” processing computationally small amounts of data every 10 mins? Should Bitcoin have “big blocks” processing as much data as possible? Or should Bitcoin find a goldilocks zone somewhere between the two? As this block size debate raged on, the different viewpoints became irreconcilable, and each vision went their own way creating independent “forked” blockchains. Today we have BTC pursuing the small block vision with ~1 megabyte (MB) blocks, BCH pursuing the goldilocks vision with 32 MB of data allowed per block, and BSV pursuing the big block vision with an unbounded block size which has yielded blocks containing over 600 MB of data. BSV’s aim is to soon process gigabytes (GB) and ultimately terabyte (TB) and petabyte (PB) sized blocks.
+
+If you’re still with me, I’m honestly somewhat impressed. 1 MB? 32 MB? 600 MB? Terabyte? Huh? What does any of this even mean? For the average person, a megabyte is not an intuitive unit. Maybe you know the market price for a 1 TB hard drive for the weeks and months after you purchase one on Amazon. If you work in IT maybe you have a more embodied and lasting understanding. But in general, data is hard to grasp. Especially when you are trying to think in terms of the price or value of data which are units and values that change rapidly (getting bigger and cheaper) over time.
+
+There is, however, one major exception: cell phone plans. The average person has a monthly cell phone bill with a data package. This is typically a significant cost, especially for heads of households paying for 4 or more lines each month. Because of the cost, people typically shop around to find the most competitive option. Thus, people have an embodied sense of what data cost and, practically speaking, what various data sizes will get you. Is 10 GB of monthly shared data enough? Should you upgrade to the 15 GB option? Or maybe just go all-in on the unlimited plan? These are trade-offs most people understand. Let’s use this to better understand the data debate regarding block sizes in Bitcoin.
+
+If BTC was a family plan
+
+BTC has pursued their small block vision for Bitcoin. This means that only 1 MB of data can be processed every 10 minutes. Because this is so small (the average iPhone photo is about 2 MB for reference), and particularly so for a network with global aspirations, there is more demand for reserving a slice of this data than there is supply (1 MB). As a result, a fee market has developed so that users can outbid each other to buy their way onto the network. Ultimately these fees are paying for data, much like how you pay for cell phone data. Let’s take a look at the April 2021 phone bill using the BTC carrier.
+
+$250 Million for 5.2 GB of data (I hope those 0.2 GB are not overages!). This seems a bit higher than Verizon. In the BTC carrier’s defense, they are offering qualitatively different data than that offered via a Verizon cell phone plan, but this framework does provide a sense of the relative cost. An apple to apples comparison to BSV, which has pursued the big block path, will be informative.
+
+If BSV was a family plan
+
+How does the BSV carrier stack up? With an unbounded block size there is no artificial scarcity on the supply of space on the BSV network that can be occupied by user data. Because of this, the fee market is not needed. BSV transactions do have fees (current median fee is $0.00013) but these fees are to pay the “BSV carrier” for including their data, not to outbid the other guy who also wants to use the network’s artificially scarce space. What did the April phone bill look like for the BSV carrier?
+
+$55k for 31.3 GB of data. This is still out of market for typical cell phone plans, but relative to BTC’s $250M for 6 times less data it looks pretty good.
+
+Long term planning
+
+Part of deciding which phone carrier to use is a consideration of what will become of the phone plan. Maybe they offer free data for the first month after you sign up. Great! But if I’m locked into a multiyear plan I will want to read the fine print. What’s going to happen to my bill next year? Will my carrier’s data plans decrease in price over time (as they should given technological innovation)? Will my carrier throttle my data usage in certain circumstances or will I be able to use the data however I see fit? These are key questions. So what’s in the fine print for the BTC and BSV carriers?
+
+The BTC carrier’s roadmap
+
+The BTC carrier is offering one plan: 5 GB of shared data, the price of this data will significantly increase over time, and you can only use the data as they see fit, it will be throttled for all non-approved use cases.
+
+Huh? Yep, that’s right. BTC has more or less committed to their 1 MB block size for the foreseeable future. Some influential BTC developers (think of them collectively as CTOs with majority voting rights for the BTC carrier) have even suggested reducing this down to 300KB. If successful with this decrease, your 5 GB of shared monthly data (shared with your global “family”) will be reduced to ~1.5 GB. Even if this doesn’t happen, it is likely that you will be stuck with 5 GB for the foreseeable future.
+
+But if the data allowance is capped, how will fees increase? Despite the constant march forward for computer chip innovation, your BTC carrier data package will (and MUST) increase orders of magnitude over time. Popular BTC thought leaders encourage users to “embrace” the network’s “sustained high fees” which they claim are a feature, not a bug: “fees are designed to pump forever”!
+
+Okay…well at least this data will be extremely useful. Right? Well, as a customer of the BTC plan you will be able to use the data in the way that the CTOs want you to. If you are looking to use your plan to play games or apps that are not sanctioned, you’ll be out of luck.
+
+A compelling offer!
+
+The BSV carrier’s roadmap
+
+Maybe ever increasing costs with limited functionality on a stagnant (maybe decreasing) data plan isn’t what you want! What is the competition offering? The BSV carrier is effectively offering an unlimited data package. A package likely familiar to actual phone plan shoppers in 2021. Today, data is cheap and getting cheaper. Thus, consumers rightfully expect this to be reflected in their data-dependent utilities. The BSV plan is unlimited data with a pay-as-you-go structure, with decreasing costs per unit of data over time, and total freedom on how that data is used by customers who buy it.
+
+If you want to use 50 GB this month, go for it! The BSV carrier will charge you for your use at market price with razor thin margins. If you’re off the grid on a tropical vacation and don’t need much data, you’ll be charged very little.
+
+The razor thin margins on your plan will have an impact on the future price of your plan too. The margins are so thin because the BSV carrier is serviced by an open market of providers. These providers are competing to process your data. As innovation continues to decrease the cost of storage and computation this will be reflected in your bill. When you use data from the BSV carrier you can be assured that you’re getting a fair price. Today, $55k for 31 GB of data is high, but next year that ratio of $/GB should look much better. The same cannot be said for BTC which wants (and needs) that ratio to move in the opposite direction.
+
+The freedom to use your data as you please is probably a must-have for most actual cell phone shoppers. Imagine if Verizon said that you can ONLY use your data package to watch movies on Netflix. If you prefer Hulu, you’re out of luck! If you want to look up a recipe, too bad! The ability to use the data that you purchased however you want is a key component of the BSV carriers’ ethos. The BTC carrier effectively prohibits customers from using the data for anything other than financial transactions. On BSV, customers can use data for financial transactions if they want, but they can also use it for games or applications. How they use their data is up to them!
+
+Conclusion
+
+While it would be a fair criticism to suggest that the blockchain-as-phone-bill is not a perfect 1:1 analogy, the framework for understanding what you are buying when you pay a $30 transaction fee on BTC versus what you are buying when you pay a $0.0001 fee on BSV is useful nonetheless. Years of conversations about block sizes and transaction throughput have taught me that most people’s eyes glaze over when you start mentioning megabytes and gigabytes. Next time you encounter this discussion I hope you use this framework to make it more clear.
+
+The BTC carrier is offering a family of 7.6 trillion 5 GB of shared monthly data in perpetuity which the hope will become exorbitantly more expensive over time.
+
+The BSV carrier is offering unlimited data right now with a pay-as-you-go plan that will decrease substantially in price over time.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

@@ -1,0 +1,67 @@
+Market intel
+
+The pullback
+
+Bitcoin tumbled below $50,000, before bouncing back this morning. This follows exuberant trading yesterday, which saw the cryptocurrency claw to a fresh high of $58,332 during early Asian hours.
+
+How deep will it go? According to David Lifchitz, CIO for Paris-based quantitative trading firm ExoAlpha, a 15% correction isn’t out of the question. “$50,000 looks like the first stop for a mild pullback, but a second leg down could take it down to $40,000, while the $30,000 zone looks like the ultimate bottom should things turn ugly in the short term,” Lifchitz said.
+
+It’s not just tea leaves, there are macroeconomic forces that might explain this recent price action. CoinDesk’s Omkar Godbole notes that U.S. inflation-adjusted bond yields are rising, with the real yield turning positive for the first time since June 2020. This supports a bullish case for the U.S. dollar – as investors de-risk and put money in U.S. Treasury bonds when yields rise – and a bearish case for gambles like bitcoin and stocks.
+
+Related: NY AG’s $850M Probe of Bitfinex, Tether Ends in an $18.5M Settlement
+
+Speaking of, according to a new survey, 41% of U.S. investors think stocks and crypto are equally risky. One JPMorgan analyst might disagree. In a recent investor note the banker wrote that market liquidity in hedges like bitcoin and gold is “much lower” than in stocks, meaning that “even small flows can have a large price impact.”
+
+Sound bites
+
+This morning on First Mover, Muneeb Ali dug into the cultural differences between the traditional tech industry and crypto. The prevaling attitude in Silicon Valley, he argued, is constant iteration, perhaps best exemplified by the “move fast and break things” mantra.
+
+Bitcoin is different. “Bitcoin doesn’t change. Bitcoin is valuable because it is durable, because it is hard to modify,” Ali said. Watch the full interview here.
+
+Story continues
+
+Top shelf
+
+Putting the fun in nonfungible
+
+NFTs are getting ridiculous. Yesterday, a batch of CryptoPunks, sometimes called the “rookie card” of digital collectibles, sold for around $1 million in ETH. Apparently a single buyer made the purchase. This follows news from Friday that a tokenized version of “Nyan Cat,” a classic internet meme, sold for 300 ETH ($527,000). Chris Torres, creator of the meme and NFT, said the sale “opened the door to a whole new meme economy.” Sounds strange, but here’s Ben Roy’s “fat CryptoPunk thesis.”
+
+Related: ECB Wants to Be Able to Veto Stablecoins Like Diem in the EU
+
+Regulator opinions
+
+Former Bank of England Governor Mark Carney has joined Stripe as a board member. Carney has been an advocate for the digital economy and a potential cryptographic replacement to the U.S. dollar, which he sees as a victim of a multipolar world. Carney is unique among regulators for not completely bashing Libra (now Diem) when first announced – even saying a private, “synthetic” currency could become the global reserve.
+
+Still, not all regulators are aligned. Sweden’s financial watchdog warned that investments such as bitcoin exchange-traded products (ETPs) may be unsuitable for retail consumers. Even the Washington Post editorial board thinks bitcoin’s rise is cause for alarm.
+
+Digital yuan
+
+MYbank and WeBank – institutions backed by Chinese giants Ant Group and Tencent, respectively – are reportedly set to join the ongoing trial of the digital yuan. Digital wallets from the two private banks will be added to the People’s Bank of China’s digital yuan app alongside those from the six state-owned banks already participating. If and when it is launched, the digital yuan would be the first national digital currency from a major country. Meanwhile, Morocco’s central bank is reportedly looking into CBDCs.
+
+Institutional interest
+
+The North American bitcoin exchange-traded fund (ETF) market launched last week, with two products gaining approval and quickly surpassing expectations. The first of which brought in $421.8 million in assets in just two days trading, including over 6,000 BTC. There are now many proposals for competing bitcoin ETFs, including one from Canadian asset manager Global Asset Management and merchant bank Galaxy Digital.
+
+Institutional attention isn’t just on bitcoin. CoinShares is launching a token that tracks the decentralized finance (DeFi) market subsector. CoinDesk’s Will Foxley noted the risk involved here, with $25 million in DeFi loans liquidated this morning.
+
+Quick bites
+
+NFTs in the NYT. (NYT)
+
+Can governments stop bitcoin? TLDR: No. (Alex Gladstein/Quillette)
+
+Hacked exchange gets hacked again. (CoinDesk)
+
+I wrote about bitcoiners, lizards and dogecoin stans on Clubhouse. (CoinDesk)
+
+What’s up with the laser eyes on Twitter? (Slate)
+
+Inside the Fight Against India’s Proposed Crypto Ban. (Decrypt)
+
+How much did Tesla and MicroStrategy make on their bitcoin buys? (Protos)
+
+Australian Man Arrested for Trying to Launder $4.3M With Bitcoin. (CoinDesk)
+
+Who won Crypto Twitter?
+
+Related Stories

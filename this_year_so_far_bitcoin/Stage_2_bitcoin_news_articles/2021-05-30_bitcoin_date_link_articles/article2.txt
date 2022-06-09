@@ -1,0 +1,97 @@
+filadendron / Getty Images
+
+Elon Musk made waves in February when he announced that Tesla was buying $1.5 billion worth of Bitcoin and accepting the world’s most popular cryptocurrency as payment for its vehicles — yet another first for Musk in the auto industry.
+
+The revolution was short-lived.
+
+Support Small: Don't Miss Out on Nominating Your Favorite Small Business To Be Featured on GOBankingRates -- Ends May 31
+
+What is often left out of the discussion about Bitcoin is how terrible it is for the environment. The powerful, specialized computers that are needed to mine Bitcoin gobble up enormous amounts of energy, which is why most of it is mined in China, where electricity is dirt cheap and regulations are lax. Tesla — a company whose entire brand is rooted in sustainable energy — dropped its Bitcoin bid about three months later. Musk cited environmental concerns and the huge volume of fossil fuels that must be burned to produce a single coin. On May 12, Musk’s mea culpa wiped $365 billion from the cryptocurrency market in a single day.
+
+Read: Why Some Money Experts Believe In Bitcoin and Others Don’t
+
+But not all companies share Musk’s concern with green energy. Bitcoin is big and getting bigger, with some of the biggest corporations in America jumping on the bandwagon and accepting Bitcoin as payment. Here are the top 10 players in the game.
+
+Last updated: May 17, 2021
+
+Microsoft sign at the entrance of their Silicon Valley campus
+
+Microsoft
+
+Microsoft became an early adopter of Bitcoin in 2014 when it began accepting the cryptocurrency as payment for games, apps and other digital content for platforms like Windows Phone and Xbox. Bitcoin was still largely unknown in 2014 and many of those who were familiar heard about it for all the wrong reasons. It was a year of drama and scandal, with the world’s largest Bitcoin exchange, Mt. Gox, collapsing into bankruptcy after a flurry of frauds, hacks and incidents that saw hundreds of millions of dollars worth of Bitcoins lost. At that time, a bar in New York City accepted Bitcoin, so did a few car services and restaurants, but very few other major companies to speak of — except for two.
+
+Story continues
+
+Discover: Google, Microsoft Beat Earnings Estimates Thanks To Cloud Services, Ad Revenue
+
+San Jose, California, USA - April 26, 2018: Exterior view of Paypal 's headquarters in Silicon Valley.
+
+PayPal
+
+If anyone was going to beat Microsoft to the punch, it makes sense that it would be the company that blazed the trail for modern digital payments. Microsoft began accepting Bitcoin at the end of 2014 in December — three months after PayPal got on board in September. Back then, Bitcoin was trading as XBT instead of BTC. As a testament to how unfamiliar the concept was then, CNN described Bitcoin as “an independent, government-less currency.” PayPal’s move was intended to draw businesses to its platform, not consumers. That draw was that Bitcoin’s transaction fees were far lower than the profit-killing 2%-3% charge that businesses were paying for credit card transactions.
+
+In the News: Elon Musk Sends Doge Prices on a Rollercoaster After Tesla Drops Bitcoin
+
+Los Angeles, California, USA - 25 June 2019: Illustrative Editorial of Overstock website homepage.
+
+Overstock
+
+Before Microsoft went crypto, and even before PayPal, Overstock.com was blazing the trail that those giants would follow. As early as 2018, CNN was reporting that Overstock was “basically a crypto company now,” an exaggeration based on the online retailer’s heavy investment in blockchain technology. By that time — before COVID boosted Overstock to its current status as one of the hottest e-commerce platforms in the world — it was already a Bitcoin veteran. In January 2014 — a full nine months before PayPal took the plunge in September of that same year and nearly a year before Microsoft — Overstock became the first major retailer to accept Bitcoin as payment.
+
+Economy Explained: Breaking Down the Basics of Cryptocurrency
+
+Whole Foods market in Irving Texas
+
+Whole Foods
+
+In May 2019, a cryptocurrency dam broke when a payments startup called Flexa joined forces with Gemini, a digital currency company owned by the Facebook-famous Winklevoss twins. The partnership’s platform allowed big retailers to incorporate Flexa into the digital scanners they were already using to accept phone-based payments through Apple Pay and other digital wallets. The technology instantly converted Bitcoins into dollars for seamless purchases. One of the first of those big retailers to adopt the technology was Whole Foods. Whole Foods is owned by Amazon, but Amazon itself does not, as of now, accept Bitcoin for purchases made through the world’s largest online retailer.
+
+Find Out: What Are Altcoins — and Are the Potential Rewards Worth the Risks?
+
+Etsy marketplace sign
+
+Etsy
+
+Etsy itself doesn’t have a platform for accepting Bitcoin as payment sitewide, but the independent sellers who populate its platform can accept crypto in their individual shops if they choose. It’s up to the seller to add an “other” payment method option at checkout. When buyers click that option, they’ll be able to message the buyer with their payment preferences — Bitcoin, in this case. The seller then responds with a Bitcoin address to complete the transaction. The Etsy Community forum has a special page dedicated to Bitcoin with tutorials that explain how sellers can advertise that they accept Bitcoin and how to make the process go smoothly.
+
+Read More: Ethereum — All You Need To Know To Decide If It’s Worth the Investment
+
+Starbucks on Sunset Boulevard
+
+Starbucks
+
+In March 2020, just as masks began covering faces across America and the world, Starbucks announced it was joining the Bitcoin revolution — kind of. Like Etsy, Starbucks dipped its toes in the water instead of diving right into accepting crypto as cash. You can’t pay for your Frappuccinos with Bitcoin at the register, but you can add Bitcoin — along with things like gift card balances and frequent-flyer miles — to the Starbucks app and pay that way. That upgrade was made possible by a third-party digital wallet app called Bakkt that converts Bitcoin to dollars to make payments not just possible, but instantaneous.
+
+See: What Is Chainlink and Why Is It Important in the World of Cryptocurrency?
+
+Richmond Hill, Ontario, Canada - June 03, 2019: Sign of Newegg Canada in Richmond Hill, Ontario, Canada, an online retailer selling computer hardware and electronics based in California.
+
+Newegg
+
+Online electronics giant Newegg accepts Bitcoin — and they’ve gone all-in. Unlike some of the others that require you to convert crypto to cash through an app or third-party service, Newegg just lets you pay outright. For shoppers who are buying through a computer, all they have to do is choose “Pay With Bitcoin'' and go through the motions of shipping. For shoppers making purchases with their phones, Newegg will send a QR code to scan. For anyone who’s looking to get started harvesting Bitcoins on their own, Newegg also sells cryptocurrency mining starter kits.
+
+The Economy and Your Money: All You Need To Know
+
+Home Depot garden center
+
+Home Depot
+
+Home Depot, too, is using the Winklevoss/Flexa system — the same one that allowed Whole Foods to accept Bitcoin through its own digital scanners without investing in new hardware. Retailers have to submit balance sheets in dollars no matter what form of payment they accept, which was long a big stumbling block for companies that wanted to accept Bitcoin but didn’t know how. Flexa converts Bitcoin to dollars instantaneously, which gives both parties what they want. The buyer gets to spend their Bitcoins when they buy their paint and Ryobi tools, and Home Depot gets the green dollars they require in exchange.
+
+Read More: 10 Best Cryptocurrencies To Invest in for 2021
+
+SHIBUYA, TOKYO, JAPAN - CIRCA AUGUST 2018 : Logo of RAKUTEN company.
+
+Rakuten
+
+Japanese cashback/shopping site Rakuten began letting users choose Bitcoin as a payment option in 2015. As part of a global Bitcoin rollout, the company started with Rakuten.com in the U.S. before expanding the new service to its counterparts in Germany and Austria. Rakuten made it possible by integrating the Bitnet payment processing platform into its own marketplaces. It has since developed Rakuten Wallet, which has expanded to support altcoins like Bitcoin Cash and Ethereum. Users can now charge their Rakuten Cash balance using crypto assets.
+
+More Economy Explained: How Does Cryptocurrency Work – and Is It Safe?
+
+Twitch
+
+Twitch is the 800-pound gorilla on the streaming video platform block. Like Whole Foods, Twitch is owned by Amazon. Also like Whole Foods, it now accepts cryptocurrency — and not just Bitcoin. Users can pay in Bitcoin, but also Bitcoin Cash and Ether, as well as lesser-used coins like BUSD, PAX, GUSD, USDC, and XRP. Twitch was one of the earliest adopters of crypto, adding it as a payment option in 2014. That, however, ended in 2019 when Twitch quietly removed its Bitcoin service. In June 2020, however, Twitch brought that capability back to the delight of its crypto-conscious users.
+
+More From GOBankingRates
+
+This article originally appeared on GOBankingRates.com: 10 Major Companies That Accept Bitcoin

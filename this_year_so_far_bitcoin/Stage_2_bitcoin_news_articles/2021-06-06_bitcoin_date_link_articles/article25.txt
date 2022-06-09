@@ -1,0 +1,47 @@
+For more than a century, the stock market has proved time and again that it's one of the greatest wealth creators on this planet. If you buy stakes in great businesses and allow your investment thesis to play out over time, history suggests you have a very good chance to build wealth.
+
+But in recent years, investors have chosen to be mesmerized instead by the jaw-dropping returns of cryptocurrencies. For instance, a little over a decade ago, a single Bitcoin (CRYPTO:BTC) could have been purchased for around $1. As recently as this year, that same token was going for nearly $65,000.
+
+While it's not uncommon for retail investors to chase momentum plays, I believe they're mistaken to do so -- especially with cryptocurrencies. That's because I'm a card-carrying crypto skeptic.
+
+The cryptocurrency space looks like a gigantic bubble
+
+Why no love for digital currencies? One of the bigger issues is their lack of real-world adoption and utility. Bitcoin, the world's largest digital currency, has only been able to handle around 300,000 transactions on a daily basis for years. Comparatively, the people's currency, Dogecoin (CRYPTO:DOGE), is only dealing with 50,000 transactions on its blockchain daily. To put this into some context, payment-processing giants Visa and Mastercard handled a combined 700 million daily transactions in 2018. On an off-exchange basis, cryptocurrency is (pardon the pun) virtually useless.
+
+The blockchain technology crypto is based on brings about another issue. Though blockchain offers new ways to immutably and transparently store and access data, it's run into one heck of a Catch-22. No business is going to switch from proven infrastructure to something that hasn't been tested on a large scale in the real-world... and no major businesses wants to be that guinea pig to demonstrate it'll work.
+
+And don't overlook the fact that some governments aren't OK with crypto competing against their central bank-backed currencies. A handful of countries have outright banned digital currencies altogether, with China recently prohibiting banks and online payment businesses from offering services to the crypto industry. China is the epicenter for Bitcoin mining.
+
+And, of course, misinformation and manipulation run rampant throughout the crypto space. Tesla CEO Elon Musk has whipsawed both Bitcoin and Dogecoin in recent months with a mixture of tweets and memes. Trust me, this is a sentence I never thought I'd be writing with a straight face. Tesla initially bought $1.5 billion in Bitcoin, with Musk allowing consumers to purchase electric vehicles with Bitcoin. But not long after, Musk ended the program by claiming that Bitcoin mining wasn't eco-friendly. He's since changed his perceived allegiance to Dogecoin, which may well be the biggest pump-and-dump scheme in the crypto space.
+
+And if this still isn't enough, remember that every parabolic move in history has eventually burst and come back to Earth.
+
+Suffice it to say, there are a lot of reasons I would strongly suggest avoiding cryptocurrencies.
+
+These digital currencies could be long-term winners
+
+Nevertheless, there are a very small number of cryptocurrencies I believe could be successful over time. Please note that "could be successful" is not my endorsement to buy. I still firmly believe that crypto should be avoided. However, the following two digital currencies stand out as having the tools and differentiation to be long-term survivors.
+
+Stellar
+
+I view the crypto space as having two key focuses: An aim to improve financial payments and a desire to tackle everything in the non-financial realm. When it comes to financial payments, the blockchain that I, a crypto skeptic, believe offers the most promise is Stellar (CRYPTO:XLM).
+
+Call me old-fashioned, but I believe if a blockchain network is going to displace existing financial payment infrastructure, it should be wildly more efficient. As of today, it can take up to a full week for payment made from one country to another to be validated and settled. On Stellar's blockchain, these same payments can be validated and settled across borders in a couple of seconds for a transaction fee that significantly undercuts many of its peers. The more than 4 million Stellar account holders are required to hold a small amount of Lumens (the Stellar coin) at all times to cover these nominal transaction fees. In total, Stellar can make the round-trip, cross-border conversion of more than 180 fiat currencies to Lumens and back to fiat faster than just about any other cryptocurrency.
+
+What's more, Stellar has claimed that it can handle up to 3,000 transactions per second. Even if this proves to be pie-in-the-sky high and it's a fraction of this efficiency, it would still blow Bitcoin's transactions per second out of the water.
+
+Stellar has support from IBM (NYSE:IBM), as well. Even though IBM's blockchain development buzz has waned in recent years, it partnered with Stellar back in 2017 to create an international payment hub that would connect banks via Stellar's blockchain.
+
+Stellar is mostly off the radar for now, but I view it as the payment-focused network with the most long-term intrigue.
+
+Ethereum
+
+On the other hand, ultra-popular cryptocurrency Ethereum (CRYPTO:ETH) offers the greatest potential outside of traditional financial applications, even if it offers intrigue within the financial space, too. Once again, I remind you that this isn't an endorsement to buy Ethereum here. I believe the entire group is in a massive bubble that's already begun bursting. But when taken as whole, Ethereum has a story and technology that long-term investors might be able to get behind.
+
+One of the biggest lures for Ethereum is its use of smart contracts. These are protocols that help to verify, facilitate, and enforce the negotiation of a contract. As an example, a smart contract could help with the enforcement of a will. If a deceased individual wanted to dictate that their grandchildren receive a certain amount of money when they reach a particular age, a smart contract could handle the execution of these protocols. Best of all, smart contracts are transparent, immutable, and legally binding.
+
+Another win for Ethereum is the buzz it's creating within the business community. The Enterprise Ethereum Alliance (EEA) has more than 200 members, some of which are brand-name businesses. The goal for these businesses is to promote the use of Ethereum's blockchain. The EEA is essentially the crypto space's best bet to overcome the Catch-22 of blockchain technology.
+
+Ethereum is also getting plenty of press for its role in decentralized finance, or DeFi. Without getting overly technical, DeFi is a financially focused blockchain that uses smart contracts to bypass financial intermediaries that might otherwise deny or slow a transaction. While I'm not denying that Ethereum will have a role in finance in the future, Ethereum's differentiation can be seen clearest in the nonfinancial space.
+
+When the dust clears following an expected implosion in crypto valuations, I believe Ethereum and Stellar will offer two of the most compelling ownership cases.

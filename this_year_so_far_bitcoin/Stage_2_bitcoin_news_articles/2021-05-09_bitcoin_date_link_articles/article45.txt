@@ -1,0 +1,25 @@
+Defi Project Rari Capital Hacked for $10M in Ether, Project's Pool Drained for 2,600 ETH
+
+Reports from the decentralized finance project Rari Capital detail that the protocol’s ethereum pool has experienced a recent exploit. Rari Capital says they are assessing the situation and the team removed funds from the recent Alpha Finance Lab integration. At first, the project’s team revealed they were assessing the hack, but later estimates assume the project lost $10 million to the hacker.
+
+Rari Capital Drained for 2,600 Ether, Hacker Taunts Project
+
+There has been no shortage of defi hacks at the end of 2020 and into 2021, as a myriad of projects has seen funds drained from a wide range of vulnerabilities. Now it seems the Rari Capital project lost $10 million from a malicious hacker who gained access to an exploit in the ethereum (ETH) pool.
+
+Essentially, Rari Capital is a Web3 defi tool that allows people to deposit crypto assets and rebalance them into the “highest-yielding stable opportunities.” The protocol builds a “lego effect” of defi apps and claims the platform provides “never-before-seen high yields from a risk-averse mechanism.”
+
+On May 8, 2021, Rari tweeted that an exploit was manipulated, and “the rebalancer has removed all funds from Alpha in response.” Furthermore, Rari said that the team was “currently investigating the situation and a full report will be shared once everything is assessed.” The hacker also mocked the Rari Capital project with a base64-encoded message that said: “rari=REKT. alpha=ok # saved rari 6m.”
+
+The interesting message from the hacker says that $6 million was saved by the Alpha Homura development team. “Funds are SAFE on Alpha Homora,” the official Alpha Finance Lab Twitter page wrote. “We are notified that Rari Capital has suffered from an exploit that was due to the incorrect assumption when using Homora Bank contract, as they were setting up an ibETH pool on their platform,” the team added.
+
+Rari Capital Plans to Discuss the ‘Next Steps as One Whole Community’
+
+Rari Capital will have to come up with a plan to give restitution to those who lost money. The team’s community will meet at 5 p.m. (PT) this evening (5/9/21) in order to “debrief yesterday’s events and discuss next steps as one whole community.”
+
+The team’s post mortem addressed the losses on Sunday and said that the “attacker stole approximately 2600 ETH.”
+
+“These funds were extracted from Rari Capital’s Ethereum Pool before the attacker was stopped when the contracts were paused,” Rari’s post mortem said. “This loss equates to 60% of all users’ funds in the Rari Capital Ethereum Pool.”
+
+What do you think about the defi project Rari Capital’s recent exploit and the loss of $10 million? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons

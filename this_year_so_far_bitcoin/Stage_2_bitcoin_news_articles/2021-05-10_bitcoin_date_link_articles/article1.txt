@@ -1,0 +1,21 @@
+In this article ETH.CM=
+
+Jack Taylor | Getty Images
+
+LONDON — Ether, the world's second-largest cryptocurrency, has been stealing the limelight from bitcoin lately. The digital coin hit a record high above $4,000 on Monday and is now up more than 450% since the start of 2021. That doesn't come close to the returns on meme-inspired crypto dogecoin, which is up over 11,000% year-to-date. But many crypto investors dismiss dogecoin as little more than a joke and have compared its rise to the Reddit-fueled trading frenzy that pumped up the prices of GameStop and other stocks. Here is a breakdown of what ether is and how it's different from bitcoin:
+
+How it started
+
+Ether is the native currency of Ethereum, an open-source blockchain platform. Ethereum was founded in 2013 by Russian-Canadian programmer Vitalik Buterin and several other crypto entrepreneurs. Many of the people who started Ethereum were previously involved in bitcoin.
+
+For Buterin, bitcoin was too limited in functionality. In an interview with Business Insider, he compared it to a pocket calculator that "does one thing well," whereas he said Ethereum is more like a smartphone with multiple applications you can use. That's the main premise of Ethereum. Like bitcoin, it's built on blockchain technology — essentially a distributed computer network that records all cryptocurrency transactions. But unlike bitcoin, people can build apps on top of Ethereum. In Buterin's own words, Ethereum is "a blockchain with a built-in programming language" and the "most logical way to actually build a platform that can be used for many more kinds of applications."
+
+Smart contracts
+
+The Ethereum network hosts what's known as smart contracts — collections of code that carry out a set of instructions and run on the blockchain. These contracts are what power decentralized applications, or dapps, which are similar to smartphone apps that run on Google's Android or Apple's iOS operating systems, except they don't answer to one company or authority. Recently, activity on ether's network has surged thanks to the rise of NFTs, or non-fungible tokens, which are digital assets designed to represent ownership of unique virtual items. That's because many NFTs — from the colorful online cats of CryptoKitties to the cyberpunk-inspired avatars of CryptoPunks — run on Ethereum.
+
+Put simply, bitcoin is a payments network that can be used to transfer value between two people anywhere in the world. Today, it's mainly used for investing. Ethereum, on the other hand, is aiming to create the infrastructure for an internet that isn't maintained by any single authority. A big trend in Ethereum right now is decentralized finance, a term that refers to traditional financial products like loans and mortgages that are built using blockchain. In this case, blockchain replaces the middlemen — from banks to governments — and keeps track of everything.
+
+Criticisms
+
+Ethereum is far from perfect, though. In 2017, the popularity of the game CryptoKitties caused ether's network to become heavily congested, slowing transactions significantly and leading the game's developers to raise their fees. Scalability is one of the biggest issues with the Ethereum network today. It currently operates using a proof-of-work protocol, similar to bitcoin. This means that cryptocurrency miners with purpose-built computers have to compete to solve complex mathematical puzzles in order to validate transactions. This has led to criticisms of both bitcoin and Ethereum from those who are worried about the massive amounts of energy consumed by their networks.

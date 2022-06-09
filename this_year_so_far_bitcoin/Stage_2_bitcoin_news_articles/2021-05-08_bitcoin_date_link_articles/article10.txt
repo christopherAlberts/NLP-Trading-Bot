@@ -1,0 +1,75 @@
+In an August 2020 paper “Is bitcoin money?” Peter Hazlett and William Luther wrote that there exists only “a small corner of the internet where transactions are routinely conducted with Bitcoin serving as the medium of exchange.” But that corner may be growing into a room, or even a house now.
+
+“Demand for Bitcoin has certainly grown over the last year,” co-author Luther, assistant professor of economics at Florida Atlantic University, told Cointelegraph in a recent conversation. “As new users find themselves with Bitcoin, and existing users find themselves with more Bitcoin, it’s only natural that more people will consider using it to make payments.”
+
+Others see a recent rise in crypto payment options. “Definitely,” Joanna Wasick, a partner at law firm BakerHostetler, told Cointelegraph, adding: “More people are owning cryptocurrencies, and more companies are accepting them — sometimes even at an incentive over fiat. There’s also an influx of exchanges and payment platforms facilitating these kinds of transactions. I don’t think that happens without a demand.”
+
+This past week, eBay was reported to be exploring crypto payment options, including NFT auctions, while PayPal was said to be discussing the development of its own stablecoin. Elsewhere, Switzerland’s Canton of Zug began recently accepting tax payments in Bitcoin (BTC) and Ether (ETH).
+
+“There have certainly been some major announcements from mainstream financial services companies in the past several months that point to the momentum of viewing crypto as a payment option,” Kristin Smith, executive director at the Blockchain Association, told Cointelegraph, citing Visa, PayPal — and from the crypto world — BlockFi.
+
+Still too volatile?
+
+Not all believe that Bitcoin is viable as a medium of exchange, though. Aswath Damodaran, professor of finance at New York University’s Stern School of Business, told Cointelegraph: “I don’t see it, and the reasons are simple: It is an incredibly inefficient currency, with transaction costs overwhelming the benefits.”
+
+These inefficiencies are likely to multiply, too, as BTC moves closer to its 21-million limit. “It is also far too volatile for people to trust it,” he added — though he doesn’t rule out other cryptocurrencies as potential payments options.
+
+St. Louis Federal Reserve president James Bullard noted that in the 19th century –– before the American Civil War –– it was common for private United States banks to issue their own notes, a practice analogous to today’s cryptocurrencies, in his view. “They were all trading around [i.e., the banknotes], and they traded at different discounts to each other, and people did not like it at all.” People want a uniform currency like the U.S. dollar, said Bullard.
+
+Because Bitcoin has yet to find widespread use as a means of exchange, growing numbers have suggested that its proper role might really be as an alternate store of value, like gold. But Luther, for one, doesn’t think this makes much sense, telling Cointelegraph:
+
+“I don’t understand those who say Bitcoin is better suited as a store of value than as a medium of exchange. An asset can only function as a store of value if it is expected to have a positive price in the future. And it will only have a positive price in the future if it has some use in the future.”
+
+To say that Bitcoin can be a store of value today, and possibly a medium of exchange one day — though maybe not — could be putting the cart before the horse. In Luther’s view: “Bitcoin is expected to function as a medium of exchange in the future — that its price fluctuates today as people expect it to be more or less useful as a medium of exchange in the future.” Moreover, he believes that “conditional on its usefulness as a medium of exchange in the future, it might serve as a store of value as well.”
+
+Meanwhile, Bitcoin remains the most used crypto payment platform, according to BitPay, which processes some $1 billion annually in crypto payments. In March, Bitcoin accounted for 72% of BitPay’s crypto payments (by number), far ahead of Bitcoin Cash (BCH) (14%) and ETH (10%), which ranked second and third, respectively.
+
+BTC may be good enough
+
+There are indeed valid reasons why crypto partisans continue to use BTC for transactions — even while other crypto platforms may be faster with lower fees. “I don’t like spending my Bitcoin, but I know that as soon as I say those words ‘just send me your Bitcoin address’ the transfer will get done quickly and cheaply,” said Quantum Economics founder Mati Greenspan in a recent newsletter, further adding:
+
+“I know for a fact that my analyst will be happy to receive Bitcoin, and that I have a Bitcoin stash that I can feasibly use to pay with. However, if I tell him, ‘Hey, let me send you some XLM,’ the response probably won’t be enthusiastic because it would probably require him to spend time and energy researching wallets and exchanges.”
+
+Bitcoin today occupies a somewhat unusual role as a “niche medium of exchange,” according to the Cato Institute’s Lawrence White in a blog post. “It is better than other media for making some payments that, even if for legitimate purposes, might be censored if routed through payment systems controlled by national governments and central banks.” A grassroots human rights organization in Belarus, for instance, has used the BTC network to transfer money to striking workers — in a way that the government cannot stop.
+
+Others expect that BTC will achieve mainstream acceptance as a payments option. Bill Zielke, chief marketing officer of BitPay, told Cointelegraph that “crypto is already a significant payment method, as more than a billion in volume occurs annually.” Firms such as Newegg and Apmex, both top 100 merchants, already “see a meaningful percentage of their sales in Bitcoin and other cryptocurrencies.”
+
+A need for greater stability
+
+However, more still needs to happen before Bitcoin and/or other cryptocurrencies achieve widespread adoption as payments options. “Most importantly, cryptocurrency needs to become more stable and stop being a speculative vehicle,” said Wasick, adding: “If I think the value of my Bitcoin is going to go up, I’m not going to use it to buy a car. I’m going to sit on it so I can realize more gains.”
+
+Damodaran agreed, as individuals who think about using Bitcoin to purchase items worry that their BTC will be worth 30% more in a day or two. Sellers — e.g., merchants — “don’t want to receive it since they are worried about the exact opposite.” Damodaran added: “For a good crypto to make it, it has to get governments to buy in, some version of a trusted authority to reduce transaction costs and [become] less of a speculative game.”
+
+Related: Bitcoin’s upcoming Taproot upgrade and why it matters for the network
+
+“The two biggest obstacles, in my view, are the volatility of its purchasing power and the relatively small number of transactions it can handle,” Luther told Cointelegraph while going on to add: “Second-layer solutions have gone a long way toward eliminating the second problem — and will no doubt go further. Of course, that means most on-chain Bitcoin transactions would merely be for settlement.”
+
+“There are regulatory issues that we believe would encourage broader adoption, such as adopting a de minimis exemption for cryptocurrency transactions,” added Smith. For example, cryptocurrency transactions of less than $200 might be exempt from taxation.
+
+“The regulatory regime needs to change or at least become clearer to people,” said Wasick, in addition to raising a question: “How many people using crypto for payments know exactly what the tax implications are of their payment transactions?”
+
+Do people want a uniform currency?
+
+But what about Bullard’s contention that people aren’t keen to deal with all these private forms of money. What they really want is a uniform currency, like the U.S. dollar.
+
+“Bullard has a point — people generally want a uniform currency,” answered Wasick, but Bullard overlooks some key aspects of cryptocurrencies, she added. They are “decentralized and deflationary — or, at least, non-inflationary — by design.” Fiat, by comparison, created and managed by governments, “is by design inflationary. [...] Dollars lose value over time.”
+
+Bullard, in Luther’s view, also glosses over some important historical details. Most pre-Civil War banknotes were not discounted, he said — “they typically traded at par.” Only when they circulated far away from the issuing bank were they discounted. Banknotes issued in Chicago, for example, might trade at a discount in New York — but only because it was costly to redeem them. Luther further explained:
+
+“Banknote collectors had to bundle them up and ship them back to the issuing bank in order to redeem them for gold. Then, they had to haul that gold back home. And, of course, they risked theft both ways.”
+
+Banks would have liked to provide closer redemption options, but regulatory restrictions on branch banking didn’t allow it. According to Luther: “Far from demonstrating an uncompromising desire for a uniform redeemable currency, as Bullard claims, the historical evidence suggests that many redeemable currencies might prevail, even under a poor regulatory regime that makes them perform far worse than they otherwise would.”
+
+If BTC can’t make it, could stablecoins prevail?
+
+Still, the volatility problem with crypto persists, which is why some believe the solution for crypto as a payment mechanism starts with stablecoins. “We do see use of stablecoins growing,” answered Zielke, adding: “Accepting or paying with stablecoins opens up new possibilities for global businesses that require the stability of the dollar but the security, speed and efficiency of blockchain payments.”
+
+“I like the idea of stablecoins,” said Luther. But as is the case with traditional cryptocurrencies, they still need some improvements. “For one, they tend to be stable relative to the dollar, which by definition means they will never be managed better than the dollar.” A second concern is “they typically require one to trust the issuer to manage the supply appropriately — a risky proposition,” said Luther.
+
+Related: The way of the stablecoin: A journey toward stability, trust and decentralization
+
+Damodaran was skeptical about the utility of stablecoins, which he described as “solutions in search of problems,” further adding: “Of all the problems in the world, not having a currency that works is not in the top 100 in much of the world.”
+
+But it is a problem in some locales, which is why Smith, for one, believes that crypto as a payment option may first catch on widely “in other, non-U.S. jurisdictions,” especially countries that “do not have the same access to payment systems that make internal transactions simple.”
+
+Meanwhile, White listed some other current BTC use cases, including “fundraising by activists in Nigeria, Hong Kong and Russia, savings expatriation by people fleeing Venezuela, remittances into Iran, and peer-to-peer transfers within China among people seeking to avoid state financial surveillance.” He concluded: “Such uses — together with forecasts of wider future use — are enough to sustain Bitcoin’s positive market value.”

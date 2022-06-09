@@ -1,0 +1,35 @@
+Original equipment manufacturers (OEMs) are hurrying to design and develop electric vehicles to meet the evolving regulatory deadlines. The race to do so while meeting the high consumer expectations for new products is an immense challenge – exacerbated by a shortage of key engineering skills in many national workforces.
+
+The emergence of new engineering skillsets and capabilities needed for new automotive product introduction risks hindering the move to electrification. If unresolved this could result in failure to meet their fleet CO2 targets set for the coming decade – including the ban of all petrol and diesel car sales in the UK by 2030.
+
+The technological transformation of cars into computers – powered by electric batteries – has created demand for a parallel transformation of the automotive engineering workforce, and a pressing requirement for new skills in software and battery engineering.
+
+The skills of the moment
+
+There is a huge and growing need for tech talent. In the UK alone, programming and software development jobs are growing 7.3% on average every year, and these tech roles are amongst the most in-demand jobs. Design and development engineers from either the mechanical or electronic domain, who can also programme, are the new trend. The car of the future relies heavily on programming languages such as SQL, Java, C++, and Python for development of their embedded systems and tools used in their validation. The most highly sought-after talents are those individuals who have blended to become a multi-disciplined hybrid of several specialities.
+
+Manufacturing also demands IT skills due to the digital transformation of the production and supply chain environments. It is now heavily reliant on Edge machine-level data processing, with cloud integration of shop-floor assets (such as robots, measurement, optical recognition, machining centres etc) all connected together with visualisation and big-data analytics. Availability of Artificial Intelligence and Machine Learning expertise becomes a limiting factor to organisations seeking to make real-time cloud-managed decisions governing quality control, predictive performance and optimise asset utilisation.
+
+The trend to Model-Based System Engineering methods is a significant benefit to product development cost and time to market. Recruiting sufficient Computational Analysis Engineers (CAE) for system dynamics, fluids, structures and acoustics, fatigue and forming technologies, is a challenge. Computational fluid dynamics (CFD) engineers, in particular, have an essential role in EV development: to evaluate the thermal strategy for the battery architecture and integrated cooling systems, with the mission of keeping the car functionally safe and reliable in all conditions.
+
+Closing the gap
+
+The top drivers of the skills gap reported by employers include strong competition for skilled candidates, a shortage of applicants with appropriate qualifications, and a lack of awareness among young people of the educational routes into engineering occupations. The development goal and long-term solution is obvious: to get more people into studying engineering and widen the diversity of this talent pool. Recent UK Government initiatives are already showing some positive impact on this challenge:
+
+Significant changes in GCSEs with promotion of single-science options has led to a 17.3% increase in take-up rate of Physics
+
+A-level entries are on the rise for most STEM subjects – take-up of A-level Mathematics continues to be particularly high, making up 12.0% of all entries
+
+High proportions of international students, especially from India and China , are studying engineering and technology in the UK, particularly at taught and research postgraduate levels (67.7% and 59.3% of entrants respectively).
+
+Universities are adapting to supply the future talent for the electrified automotive industry, many now offering combined degrees in mechanical and electrical engineering with dual accreditation. Degrees in Controls and Systems engineering are also gaining in popularity, teaching future engineers to work on holistic problems where there are conflicting needs and complex interactions. Given the time it takes to train a new engineer and for them to become effective in the workplace, the sector is therefore challenged to wait for this influx and mobilisation of in-demand skills to be realised.
+
+Instead, focus turns to being ‘employer of choice’, and companies aim to attract the highest calibre new hires to staff their teams. Despite the distraction to business continuity due to COVID-19, there is no time for complacency regarding the employee culture. The most highly skilled (especially in ADAS, functional safety, system controls, CFD, electromagnetic and power electronics) can literally cherry-pick their next employer with ease, aided by the transparency of website platforms like GlassDoor and LinkedIn.
+
+Partnering on development
+
+Onboarding of software and tools can significantly help alleviate the engineering skills gap – by embedding know-how, others have developed into their digital multi-physics offerings. Engineers can be assisted in getting the workflows and design rules right, creating an immediate and tactical solution to ease the product development challenges.
+
+We can also seek collaborations and technology partnerships by working with specialist service partners locally and globally in a new ecosystem. The ability to achieve the leap to develop IP, leverage experienced resources for global teams, and offload the risks associated with finding and training the skilled engineers in-house – often gives the best of both worlds.
+
+The unprecedented pressure on the world of engineering to develop new EV models will require collaboration on a new scale. While many countries are pushing to grow and diversify the engineering workforce, the skills gap needs to be closed now to avoid disruptive delays for the global market. As a central part of the evolution to e-mobility for our customers, the urgency of this task is starkly clear, and encouraging novel partnerships to close the skills gap will be vital to ensure our industry meets this historic goal.

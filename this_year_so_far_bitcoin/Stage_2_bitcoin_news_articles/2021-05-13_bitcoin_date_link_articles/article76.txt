@@ -1,0 +1,99 @@
+Limitations Of The Physical World
+
+If you were to ask a stranger, “What are the properties of a physical object?” They would likely say it can be touched, it has volume and mass, and is made up of atoms. If you were to ask about its limitations, they might say it must travel a physical path to move from point A to point B (no teleportation); it cannot be given to a person without being relinquished by the giver (discrete ownership); or it degrades over time (increasing entropy).
+
+If you asked the same person how to describe “information,” they might say essentially the opposite; it’s intangible, it can be given to someone while the giver retains it, and it can survive in perpetuity without changing. In summary, the physical is finite and limited, while the metaphysical is infinite. Many of us (myself included until recently) believe that no single entity can be both finite and infinite. Enter Bitcoin.
+
+Several of the following topics are touched upon by Alex Waltz in “Bitcoin: Or How We Became Gods.” He concluded, “Bitcoin is the link between the two worlds: chaos and order, real and digital, uncertain and certain, unconfirmed and confirmed.” I hope to build upon this idea and explore its implications.
+
+I will generally refer to the network and the token as bitcoin. Bitcoin (the token) has advantages of both the physical and the metaphysical: it is intangible, teleportable, infinitely divisible and is created from nothing while it’s paradoxically impossible to destroy and finite in final quantity. Though you and I both know it’s not truly physical, it seems so by application (e.g. futures markets are ironically calling derivatives settled in Bitcoin “physically settled”). The significance of this relationship cannot be understated. We now have an example of how an infinite resource can be bound in a semi-physical form to leverage the benefits of both worlds. This author has lost his grasp of the metaphorical versus literal implications of this technological breakthrough.
+
+At first glance, this may seem to be a clever trick of computer science which, with its advances, continually improves and outdoes itself in its order-of-magnitude improvements on our world. One could be forgiven to think that this imitation of scarcity could just as easily be undone with more information or changes to its code. Yet there are multiple metaphysical layers of defense that prevent this from occurring: robust network effects, a firewall of mining hashpower, a hornet’s nest of social consensus, and so on (these are well documented elsewhere). If the laws of thermodynamics set the bounds of the physical world, these characteristics could be thought of as the incentive-bounds of Bitcoin dynamics.
+
+I no longer believe that Bitcoin is simply a network, digital gold or the future of our financial system. I believe Bitcoin is proof that we have taken the limits of the physical world for granted, which opens the doors to question, reverse or obliterate these limitations as long as we can apply a limitless concept (such as information) in an opposing fashion on a related plane.
+
+The Second Law of Thermodynamics
+
+Entropy is the measure of stability or disorder of a system. We accept that in any contained system, entropy increases over time and cannot decrease. In some cases, such as chemical reactions, this can be directly measured. Entropy is an important driving force of the physical world; everything trends toward chaos (eventually the heat death of the universe). But like the saying goes, “Bitcoin’s value doesn’t go up a straight line.” Similarly, the universe has systems of order along the path towards disorder.
+
+Life itself is an affront to the compulsion of increasing entropy. Living beings strive to maintain a level of order throughout their existence. This inevitably ends in failure for the individual lifeform, yet this failure has yet to be seen for life as a whole. Life could be described as the capacity for growth, reproduction, functional activity and continual change preceding death. It’s also defined as a system capable of performing functions such as eating, metabolizing, excreting, breathing, moving, growing, reproducing and responding to external stimuli. In the context of this monologue, I define life as a system working as one to leverage the potential energy of its environment to stabilize its own entropy. Individual lifeforms die, but life goes on. If entropy is a river, life is a fish swimming upstream against the nearly insurmountable force of the water.
+
+Unstoppable Force, Immovable Object
+
+We learn in physics class that a larger force trumps a smaller one; it will either move it, incorporate it or destroy it. Yet there are types of measurements, or planes of existence, that don’t allow for direct comparisons, at least not intuitively. For example, what would win out, the sheer volume of my shrill singing voice or the strength of a wine glass? Intuitively, the primary characteristics of each have nothing to do with each other, this is demonstrable with the units by which they are measured. Audible volume is measured in decibels and my cheap wine glasses are made of strong bonds between silicon dioxide molecules.
+
+High school math taught me that measurements of different units weren’t directly comparable and thus had no effect on each other. However, there is a term that can be applied to both: resonance. With research, practice and lots of vocal lessons, I can learn the resonance with which the chemical bonds in my wine glass vibrate and sing at that exact pitch. From there, it’s a simple case of “which force is stronger?”
+
+It wasn’t what I took for granted as the primary characteristics of my voice (the decibels of volume) and the glass (the chemical composition) that mattered, these concepts are unrelated to each other. What mattered was being able to apply my voice in a way that could forcefully act within the same domain as the glass.
+
+Most of us understand the world around us by perceiving, measuring and subconsciously categorizing things into a basis of comparison. For example, yesterday, I took a cold refreshing beer out of the fridge and enjoyed it. I believe that today, the remaining beer will be equally cold and refreshing. I might take for granted the fact that the next beer could serve the same purpose, or it could be a gift for a new neighbor that might foster a strong community or a long and memorable friendship. Same tool, new application. These two concepts, refreshment and friendship, are two concepts that can’t be compared apples to apples.
+
+I didn’t reinvent the idea of vocal resonance, I had to discover it. I didn’t change the beer, I merely learned how to use it differently. What other concepts do we take for granted that may be holding us back as individuals or as living beings?
+
+Orthogonality
+
+“First lesson: Stick ‘em with the pointy end.” — Jon Snow
+
+When I was a kid and wanted my dad’s attention, sometimes I’d stand between him and the TV. When he told me to move, I would step backward, technically obeying his request (see image below) while still blocking his view. I would keep this position only briefly, lest I cease to be charming and start to annoy. My path was a movement we could both understand, but it could be best described as orthogonal to his line of sight.
+
+(My father circa 1992, colorized)
+
+Futurama
+
+I like the term “orthogonal” to describe two seemingly unrelated concepts. On a classic two-dimensional graph, the x-axis and y-axis are orthogonal, as they can be described in independent ways but, rather importantly, they are not completely independent. In fact, they coexist at a very important point, [0,0]. The importance of zero is brilliantly described by Robert Breedlove in “The Number Zero and Bitcoin.”
+
+Most of us assume that this point is meaningless, but Breedlove adds onto the work of Brahmagupta to say that not only is zero a sort of final frontier of numbers, but it is a gateway to negative and imaginary numbers. He says that zero “punched a hole and created a vacuum in the framework of mathematics” and that Bitcoin “is the catalyst of a worldwide paradigmatic phase change.” I’ll combine these concepts and say that Bitcoin is the gateway between the infinity of information and the finiteness of matter.
+
+How difficult would it be to block the thrust of an enemy’s sword with the point of your own? Not as hard as finding a single point between dimensions where seemingly unrelated systems can interact and influence each other. Bitcoin sticks ‘em with the pointy end.
+
+“Let’s get cosmic.” — Marty Bent
+
+Stated another way, Bitcoin is the [0,0] coordinate between (yet within) the orthogonal dimensions of the physical and the metaphysical. The fact that this relationship was forged is an quantally unique occurrence. It can be hard to analogize what I’m proposing here, so let’s start with foundational concepts. An electron is effectively a zero-dimensional object as it has nearly immeasurable mass and volume. Its path through a wire is analogous to a zero-dimensional object bound by and traveling through a one-dimensional plane. If it were to come upon a slow, stopped or reverse-moving electron in the same wire, they would have no choice but to pass through each other or collide.
+
+In our world, that is to say an electrical force applied on one end of the wire will travel to the other end, affecting the wire wholly; there is no section of wire not affected by the electron. However, if you placed the same electron at the edge of a thin metal plate (two-dimensional wire), the number of paths to a different edge are numerous. The dimensional degree of freedom is one level higher than in the one-dimensional wire. The chances of two electrons placed on different edges ever meeting are improbable. The possible pathways are orthogonal and increase exponentially with each higher dimension of freedom. In this example, a zero-dimensional object on a two-dimensional plane allows for two dimensions of freedom.
+
+Now consider two electrons placed at different locations on a metal sphere at different times throughout history since the big bang. This sphere is a four-dimensional version of our wire, allowing for four dimensions of freedom. These two electrons have an infinitesimally low chance of ever meeting. To summarize, the dimensional difference between two systems has an exponential effect on the inability for them to have influence upon each other.
+
+Another interesting example of domain boundaries is found in chemical phase change. We all know of H2O as solid ice, liquid water, and gaseous vapor. These are all domains of H2O’s existence that are bounded on the pressure vs temperature graph by physical changes. We regularly observe the transformation of water via boiling, melting, condensation, and freezing. Most of us only observe these changes as manipulated by temperature changes. In a sufficiently cold environment (to the left of the triple point in the image below), decreasing the pressure causes solid ice to phase change into gas, omitting the liquid state completely. This is called sublimation and is the process by which freeze-dried food is produced, an important tool in increasing its shelf life.
+
+I can’t describe how difficult it is to discover the inflection between the domain of imagination and the domain of the physical world, as I can’t perceive all of the dimensions of freedom between them.
+
+“It’s like launching a pencil over the empire state building, having it reverse, come back down and land on a shoebox on the ground in a windstorm.” — Tim Urban on SpaceX landing a rocket upright for the first time.
+
+I’d happily bet that the electrons in the four-dimensional example above will never meet. Yet two entities having common existence on multiple dimensions have a much higher probability of meeting. Consider two lines on a graph, these are two one-dimensional objects bound by the same two-dimensional plane.
+
+The graph below depicts how two lines representing supply and demand can intersect, setting an optimal price (all of trade is dependent upon supply and demand being bound by the same domains so they can meet, satisfying the double coincidence of wants).
+
+Let’s come back to Earth. If supply is the primary driver of value (demonstrated by the supply vs. demand graph), one might say that anything physical is totally scarce. They’d be wrong, of course, but only for taking supply and demand as too literal of a concept. The hidden complexity to supply is the amount of work to bring goods and services to market. Gold coins are much more useful than gold ore. Frédéric Bastiat describes the relationship between work, property and value in “The Law.” In short, the physical is finite but not necessarily scarce. This is another perspective on the laws of thermodynamics, in that unlimited resources are pointless if they cannot be properly utilized (just ask Venezuela’s oil producers). Scarcity and value are always measurable in energy and work, including Bitcoin’s proof of work. It is ironic then, that Bitcoin is the only purely scarce thing in the universe, and it’s not even purely physical.
+
+Seeking Zero
+
+Bitcoin is a practical application that straddles the intersection of the real and the imaginary. In Bitcoin’s eternal struggle, Gigi demonstrates the incentive-bounds of Bitcoin and summarizes it by saying, “Bitcoin grows on the edge of order and chaos.” He is describing how Bitcoin takes the “chaos” of randomness and leverages it into the “order” of blocks. Bitcoin is the [0,0] that allows us to convert chaos into order.
+
+Information can be shared without diminishing. Information is fire, Satoshi is Zippo, and Bitcoin is the lighter. Being able to harness something intangible and bound it in a physical form breaks us free of our physical limits. All it requires is admitting what many of us are in denial about: the physical state isn’t our final form. The first epoch of man has been spent striving for understanding and earning rewards of the spiritual realm. A short span of man’s existence has been dedicated to developing one implementation of life after death: the computer.
+
+We’ve been getting closer to building the digital ship of Theseus by reducing ourselves to bits. This may lead to a completely digital existence, or the ability to regenerate ourselves in meatspace elsewhere in the universe. Maybe we can have our cake and eat it too. There will be some uncomfortable truths to face along the way. Such as
+
+Is a digital self truly the same as the original or merely a projection of what we can currently perceive?
+
+Will our vanity drive us to chase perfection by altering either our DNA or our source code?
+
+Is this the correct path of life?
+
+Conclusion
+
+“I will strike God to Earth and become a perfect being.” — Edward Elric, The Fullmetal Alchemist, interpreting a hieroglyph
+
+“Well, that’s certainly an arrogant concept.” — Ling
+
+A single living being cannot overcome the force of entropy. Everything that has ever lived, has died and decayed. Yet life itself continues to grow and improve. I mentioned above that I believe life is a “system working as one to leverage the potential energy of its environment to stabilize its own entropy.” Generally speaking, individual life forms are in competition with each other for resources. But on the grand scale, life itself is making progress in the fight against chaos. There are many examples of living beings working in tandem. A pride of lions works together to hunt, to grow and to survive. Man, as a being of higher intelligence, is able to work together in much more complex ways. Our intelligence continues to survive and grow with each generation.
+
+The difference between an inanimate object and living being is intelligence. If knowledge is a force of infinite magnitude, then it will win out versus anything bound by the limits of the physical world, but it requires the right application. A virus has intelligence that has singular application: reproduction. Lions have a higher but still limited level of intelligence whose application is limited to the survival of a pride until a new alpha takes over. Humans have taken the application of knowledge a step further in that we can communicate our knowledge directly, allowing our collective intelligence to grow with each generation. The more effectively we apply our intelligence, the closer we can get to finding the gateway that unlocks the power of infinity, the next [0,0].
+
+Applying infinite metaphysical concepts to the physical world allows us to achieve the improbable. Not because our knowledge is complete, but because our imagination is boundless. Bitcoin is an order-of-magnitude improvement for mankind. How many improvements would it take to counter or slow the forces of chaos? Possibly many but maybe not infinite. What do we currently accept as truth which may be fallible if we grow to a higher level of intelligence: The eventual end of our species? The heat death of the universe? The expected death of an individual life form? I hope I live long enough to see another shattered assumption.
+
+[0,0] is the ultimate goal of mining life’s intelligence, not only as the common path of the physical and metaphysical, but also the goal of life as it applies to its change in entropy. If entropy is a stream and life is a fish swimming against the current, life’s ultimate goal is to build a watermill and leverage the force of the stream or dam it up entirely. Bitcoin has shown us not to take for granted the impossible of today which might be an afterthought of tomorrow.
+
+“Life, uh, finds a way.” -Dr. Ian Malcom
+
+This is a guest post by Corey Edwards. Opinions expressed are entirely their own and do not necessarily reflect those of BTC, Inc. or Bitcoin Magazine.

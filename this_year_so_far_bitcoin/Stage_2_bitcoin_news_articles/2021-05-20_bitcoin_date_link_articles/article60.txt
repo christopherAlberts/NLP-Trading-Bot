@@ -1,0 +1,27 @@
+Jim Cramer says yesterday's bitcoin-triggered mayhem underscores the need for tighter regulation on what he sees as a 'new systemic' risk in the market.
+
+Bitcoin's spectacular crash, and the rally that followed, has rattled investors around the world and intensified calls Thursday for clearer regulation over the multi-trillion dollar cryptocurrency market.
+
+Bitcoin, the world's biggest cryptocurrency with an estimated market value of around $2 trillion, suffered its biggest single-day decline in more than a year yesterday, falling nearly 30% on the session to just under $30,000. A late-morning rally, however, triggered in part by a cryptic Tweet from Tesla (TSLA) - Get Report CEO Elon Musk, lifted bitcoin to just over $40,000, a move that also pulled the Dow Jones Industrial Average out of a 600 point tailspin and helped add more than 100 points to the S&P 500.
+
+Despite yesterday's comeback, a notable amount of leverage in the cryptocurrency universe -- with buyers using borrowed money to capture momentum in digital currency markets -- as well as technical challenges within some of the market's biggest trading exchange have accelerated calls for tighter oversight in a market that has yet to find a clear definition among U.S. regulators.
+
+"Time for the SEC to consider crypto and asset worth regulating ... that's what yesterday was about: the need for regulation," TheStreet's founder, Jim Cramer, Tweeted Thursday. "One hundred to one leverage is not healthy for the system. New systemic risk identified."
+
+Bitcoin prices traded as low at $29,995.00 on European exchanges Wednesday, were last seen 3% higher on the Thursday session at $40,329.50, a level that still marks a 37% slump from the all-time high of $64,829.14 it reached on April 15.
+
+The Securities and Exchange Commission, at least at the moment, doesn't consider bitcoin itself to be a financial security that falls under its jurisdiction, while the Commodity Futures Trading Commission considers it a commodity.
+
+To further complicate matters, the Internal Revenue Service sees it as property, at least in terms of any potential tax liability attached to its capital gains.
+
+A recent move by Congressional lawmakers to clarify this discrepancy -- the Eliminate Barriers to Innovation Act -- would create a small group of experts tasked with merging the CFTC and the SEC's frameworks on digital asset regulation and decide, once and for all, if it should be deemed a security or a commodity.
+
+The legislation, however, has yet to pass the Senate and may not become law until later in the year, leaving the ultimate decision on bitcoin oversight on hold.
+
+In the meantime, the overall leverage in the market remains a more pressing near-term concern, especially after yesterday's collapse appeared to trigger selling in mainstream assets such as stocks and bonds in order to meet margin calls in various brokerage accounts.
+
+Data from Bygt.com, a cryptocurrency futures trading & information platform, showed that more than 720,000 accounts around the world were liquidated yesterday, representing around $8.1 billion worth of bitcoin.
+
+That was exacerbated by technical glitches at the two largest crypo exchanges - Coinbase and Binance -- with the latter temporarily pausing withdraws linked to Ethereum and the former reporting "“intermittent downtime” on the U.S.-based platform.
+
+"A number of crypto exchanges have supported 10x margin leverage and 50x or greater futures leverage -- Binance supports up to 125x and 100x leverage on Bitcoin and Ethereum futures contracts, respectively, and up to 50x or 75x leverage for a slew of other cryptos," said Eric Jhonsa in a column on TheStreet's Real Money platform. "It's not hard to guess what happens to crypto prices when such contracts are liquidated en-masse due to maintenance requirements not being met."

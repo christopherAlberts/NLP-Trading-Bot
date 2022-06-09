@@ -1,0 +1,21 @@
+In the latest Cointelegraph Crypto Duel, founder of Digiconomist Alex de Vries and CEO and founder of Blockchain for Climate Joseph Pallant debated the intensity of Bitcoin’s footprint and possible paths forward to reduce it.
+
+As pointed out by de Vries, Bitcoin’s energy consumption has been increasing together with its network. The analyst predicts its carbon footprint could increase tremendously as Bitcoin gets closer to mass adoption.
+
+“I fear that this will quickly get completely out of control if adoption increases a lot more”, he said.
+
+According to de Vries, as long as Bitcoin functions with a proof-of-work system, bringing down emissions will be difficult. De Vries doesn’t see the incentive for miners to embrace renewables, given the intermittency of this type of energy sources.
+
+“There's no incentive for miners to just enrol themselves into a scheme where they can only get power for an hour of day”, he pointed out.
+
+Thus, according to the analyst, Bitcoin miners will continue relying on fossil fuels in the forseeable future.
+
+Pallant disagrees. He believes that cheap renewables will be playing an important role in reducing the environmental footprint of Bitcoin.
+
+"We do know that in a lot of places solar and wind power is the lowest cost", he said.
+
+Pallant also believes that blockchain tech could be used to establish a record of those Bitcoins that are mined with renewables, thus stimulating demand for those "green coins" among institutional investors.
+
+"We can get to net-zero emissions of these blockchains through reducing emissions where we can and offsetting the rest", Pallant pointed out.
+
+To check out the full debate, watch it on our YouTube channel and don’t forget to subscribe!

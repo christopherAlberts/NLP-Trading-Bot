@@ -1,0 +1,27 @@
+“What are we going to learn today, Doctor?” asks sCrypt founder Xiaohui Liu at the start of “Bitcoin Class with Satoshi” Episode 2. This one touches on Semantic Web applications, provably fair gaming, verifiable proofs and zero-knowledge proofs. It might also make you question what aspects of life are similar to games, and even wonder what “proof” actually means.
+
+This edition of the continuing masterclass with Bitcoin creator Dr. Craig S. Wright has more emphasis on practical applications than on theory, making it more accessible to a mass audience.
+
+There’s a bit of theory in there too: Dr. Wright talks again about performing operations on data in matrix graphs, and how applications might handle that data. The theme of using “predicate logic” comes up again, though it’s discussed in more detail in Episode 3.
+
+Liu and Dr. Wright discuss how a developer might use Bitcoin Script to set the basic rules on what outcomes/results to verify and feed into Bitcoin transactions—while external applications could store and handle the data itself. For example, in a simple “solve the maze” type situation, servers could provide the different methodologies, test structures and paths, and feed that information into the matrices to produce outcomes.
+
+Life is like a MUD sometimes
+
+Dr. Wright also mentions contracts with multiple layers, which can be used just as much in business as in games. Using the classic Zork as an example of setting conditionals to handle various player actions and decisions, he says it could also apply to situations in the real world where there are various parties who must make agreements, or commit to actions, and then prove they’ve fulfilled them.
+
+This moves on to a discussion of the Semantic Web—a concept that involves categorizing data on the internet using metadata so it can be more readily relatable to each other, and found using natural-language searches. Accomplishing this is easier said than done, and involves setting standards, writing the algorithms that follow the rules, and applying the right metadata to all the information on the internet. It could be a perfect opportunity for Bitcoin to step in with the Metanet, with its more secure and provable data handling capabilities.
+
+While we’re starting to see such unifying logic applied to some aspects of web data, Dr. Wright asks “what do you think is missing?” The answers are proof and trust. How do you prove that Semantic Web statements are coming from trusted sources?
+
+The server has to trust the user. Instead of this, we get data silos on web apps like Facebook and Twitter, where the company behind the app has full control over the data and often opaque practices on what they do/don’t regard as “truth.”
+
+Bitcoin allows people to take back (some) control, with built-in identity and by creating hierarchies outside the apps themselves. Transactions, their location and time, are all recorded permanently while also (if required) giving users a degree of privacy. Dr. Wright stresses again that this isn’t the same as full anonymity, but provides a kind of firewall between addresses involved in transactions and their real-life identities—while also providing the means to verify both if required.
+
+“I want to see people have more control over their own destiny,” Dr. Wright says, mentioning that he himself has had problems with Twitter and Facebook, and “de-platforming.”
+
+But “Bitcoin is not about radical decentralization … it’s about security, privacy, verifiability.” Whether your concern is owning your own data (and what exactly that means), proving a credential, or just organizing the way business and government operations are performed in a more trusted way, Bitcoin can provide solutions. Watch the full episode for more information on the real-life scenarios where this is important, and some of the challenges that lie ahead.
+
+To watch previous episodes of the Theory of Bitcoin and Bitcoin Class with Satoshi, check out the Theory of Bitcoin YouTube channel here and the Bitcoin Class with Satoshi YouTube channel here.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

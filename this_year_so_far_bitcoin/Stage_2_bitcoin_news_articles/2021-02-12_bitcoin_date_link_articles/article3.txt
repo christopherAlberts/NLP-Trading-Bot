@@ -1,0 +1,59 @@
+The price of bitcoin struggled to regain $49,000 Friday, continuing to bounce between $48,000 and $46,000 heading into the weekend. As bitcoin contemplated which way to go, ether made a new all-time high above $1,850.
+
+Bitcoin (BTC) trading around $47,600 as of 21:00 UTC (4 p.m. ET). Slipping less than 1% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $46,286 to $48,925
+
+Bitcoin trading on Coinbase Source: TradingView
+
+Much of bitcoin’s choppy price action could be attributed to futures deleveraging as eager bulls piled into long trades expecting a swift breakout to $50,000 or higher. Funding rates for perpetual bitcoin futures have steadily increased through February, according to market data collected by Skew, with some funding rates reaching their highest levels in the past 12 months.
+
+High positive funding rates signal an increase in long positions, whereas negative rates indicate a more bearish sentiment. The market tends to reset when traders, especially in overcrowded derivatives positions, become overly bearish or bullish.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Read more: First North American Bitcoin ETF Approved by Canadian Securities Regulator
+
+In the past 24 hours, over $330 million worth of bitcoin futures contracts were liquidated, according to market data from Bybt. Most of the liquidated positions were longs.
+
+Bitcoin perpetual futures funding rates Source: Skew
+
+Despite the choppy price action, news over the past few days has been extraordinarily bullish for the leading cryptocurrency. In one week, Tesla bought $1.5 billion worth of bitcoin, Twitter’s CFO said the company is considering investing in the cryptocurrency, BNY Mellon announced plans to custody bitcoin for its clients, and PayPal confirmed its plans to add crypto to its Venmo product.
+
+Ether leads the DeFi way
+
+Ether (ETH), the second-largest cryptocurrency by market capitalization, was up Friday trading around $1,850 and climbing 3% in 24 hours as of 21:00 UTC (4:00 p.m. ET).
+
+As it set new record highs above $1,850, other decentralized finance-related (DeFi) cryptocurrencies followed suit, with some even outperforming ether. The DeFi sector in aggregate rallied over 5% in the past 24 hours, according to Messari, led by Uniswap, yearn.finance and others, which gained by double-digit percentages.
+
+Ether’s fresh highs come the same week the CME launched its ether futures market, which some traders anticipated would be a bearish catalyst for the market. The expectations were almost exclusively pinned to the ominous timing of bitcoin’s peak in 2017 near the launch of CME’s bitcoin futures market. Yet, so far the bearish thesis has not played out.
+
+Since CME’s futures launch, ether has rallied over 12%. The product has had a quiet start, with less than $200 million worth of contracts traded this week. In contrast, Binance’s ether futures have traded nearly $40 billion worth this week.
+
+Read more: Former Bitcoin Developer Mike Hearn Steps Down From Enterprise Blockchain Firm R3
+
+Other markets
+
+Digital assets on the CoinDesk 20 are mainly green Friday. Notable winners as of 21:00 UTC (4:00 p.m. ET):
+
+Notable loser:
+
+Equities:
+
+Asia’s Nikkei 225 closed the day down nearly 43 points at 29,520.
+
+The FTSE 100 in Europe gained over 1% heading into the weekend, up to 6,600.
+
+The S&P 500 in the United States closed the day up 0.5% to 3,934.
+
+Read more: Crypto Payments Provider BitPay Adds Apple Pay Support
+
+Commodities:
+
+Oil gained 3%. Price per barrel of West Texas Intermediate crude: $59.50.
+
+Gold was in red less than 1% at $1,818 as of press time.
+
+Treasuries:
+
+The 10-year U.S. Treasury bond yield climbed Friday to 11.98, in the green 3.5%.

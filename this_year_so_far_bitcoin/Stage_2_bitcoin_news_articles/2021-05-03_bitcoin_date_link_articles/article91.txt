@@ -1,0 +1,51 @@
+What is an ‘honest node’ in Bitcoin?
+
+Honest nodes produce a costly signal of opportunity cost expressed in high-power hashing in search for emergent, cryptographic numbers. This lets the network know that, instead of investing in any other thing, the operators of an honest node will spend their own money to defend and enforce Bitcoin against all other signals by building valid blocks atop other valid blocks. This is how bitcoin is secured and governed by proof of work. For that work, honest nodes are paid out of the block reward subsidy, and they receive the fees for the transactions they process.
+
+But nodes aren’t just hashing, or just mining for new coins or just hunting for fees. The concept of mining has been abstracted away by small blockers, and general users forget that there is not a monolithic entity of “the miners” that slave away in dank, industrial factories just waiting for the mempool to fill up so they have something to do. Honest nodes are run by honest people; intrepid entrepreneurs who run businesses which seek to be valuable vendors to general users, commercial data users and the emerging economy of data/transaction brokers. There is an incredible amount of work to do on the new business model that the restored bitcoin protocol creates, but at scale, commercial interests should think of their node partners as an extension of their own business. These nodes should have helpful and collaborative customer service departments, business outreach specialists and technical insiders looking for ways to create constant competitive edges to make sure their node remains as close to the center of the network as possible!
+
+Unfortunately, Bitcoin mining has been subverted for at least the last five years as the Bitcoin Civil War was fought largely over the role of nodes and Bitcoin governance, and there is a lot of deprogramming necessary to get things back on track since the protocol has been restored. In the interim, the consequence of the war has made it such that this generation of miners lack experience in a truly competitive marketplace, but it will be up to them to set the tone for the future of block building, data services and transaction processing. This is a crucial moment for honest nodes!
+
+Now there’s opportunity to compete!
+
+Connor Murray, founder of Britevue, had a problem this week. His business accidentally generated a considerable amount of transactions that fell below the standard policy limits for “dust” in the baseline SV Node mining software, so the transactions were stuck in limbo—illustrating some of the nagging baggage that still exists in BSV from Core’s gutting of Bitcoin over the last several years.
+
+“Dust” is the name given to sats/bits/duros that fall below the minimum fees to send around, so they are stuck due to the policies of the network. In BTC, we have seen anything under $10 considered immovable dust, for example. In BSV that figure is much smaller, but perhaps not small enough for truly global micro-commerce to be practical. Coupled with minimum relay fees and a few other network policy settings (which are arbitrary), networks like Solana are able to send more transactions per penny than on BSV—leading to a week of meming across social media.
+
+Back to Britevue: with unconfirmed transactions falling below the fee policy limits of BSV, Murray was stuck in a difficult spot. If no miner was willing to make a policy change to mine his transactions, they would be stuck unconfirmed forever. After reaching out to a few nodes who were seemingly unwilling to make any special exceptions for Britevue, Murray was able to find a willing partner in MatterPool. Dean Little, MatterPool’s software implementation guru, was happy to make policy changes to their node in order to serve Britevue and confirm their transactions with the following line of code:
+
+-dustrelayfee=0.00000001 -minrelaytxfee=0.00000005
+
+That’s it! That’s the change that the other miners were unwilling to implement for the sake of Murray and Britevue.
+
+A huge thanks to @mxtterpool for helping with some (accidentally) low output @britevue transactions https://t.co/n3fcxDPsWU — Connor Murray (@Bitcoin_Beyond) April 30, 2021
+
+So, MatterPool mined the transactions, confirmed the block and took a special fee for their work—showing us all a glimpse of what the honest node economy really should look like in the future. In fact, it should look a lot like how business worked in the past! Have a business hiccup? Call a trusted vendor to do a favor, solidify some business relationships and make the customers happy. Back in the day, someone might expect to get donuts or a gift basket a few days later for going out of their way to help, but maybe that’s a bygone era in business…
+
+What can we learn from this?
+
+A few things, actually! Nimble businesses are fun to work with, for one. It is pretty cool to be able to ping a guy like Dean, and have him bang out a solution that makes everyone’s lives smoother because his business doesn’t have layers of bureaucratic friction. MatterPool is hungry for blocks, and Dean is a creative professional who is willing to solve problems for the sake of making things easy for his clients.
+
+But more importantly, everyone should be aware that the typical miners in the BSV economy are still carrying technical debt from Core that really should be eliminated sooner rather than later. MatterPool has taken the first step. Sources indicate that Mempool will be following their lead, and there is even indication that Hathor Mining is looking for ways to be stronger competitors on these sorts of progressive steps to lower fees and provide specialized services in the near future as well.
+
+Dean Little, after this excursion into making BSV a little more “unbounded,” has now made a point to publicly advocate for two ideas that he would like to see the other nodes adopt for the sake of the network: “lower relay fees to 0.05 sats/byte to enable faster propagation of low-fee transactions, and drop the dust limit to 1 sat.”
+
+When asked to clarify the benefits of such changes, he was excited to list the following:
+
+A) Lower fee transactions will all have instant 0-conf protection.
+
+B) All nodes could offer fees as low as 0.5 BSV/GB with zero orphan risk.
+
+C) If most of the hash power adopts these changes, it would allow smaller miners to do the same.
+
+D) Improve the propagation and validation speed of blocks, lowering their own orphan risk for low fee transactions.
+
+E) Enable 1:1 STAS tokens and lower the cost of other UTXO based tokens and services.
+
+F) This costs all of us nothing but a bit of extra RAM that we already have.
+
+In closing, honest nodes compete, but they compete best by cooperating the best. This is the strength of bitcoin, and the cornerstone of proof of work: a system that seeks to guarantee that the most powerful node on the network is that which is the hungriest to provide the most value to their customers and to bitcoin as a whole. If MatterPool continues to set standards, lower costs and provide exceptional customer service at a moment’s notice to the businesses that are building on bitcoin, they can become the center of the network and hold their position for as long as they remain focused on being superlative.
+
+It is important for Bitcoin SV to remain untouchable in as many regards as possible, as the network is competing against well-funded and beguiling forces with their proof of stake propaganda. I often say “BSV has already won,” but this is NOT a call for people to put their feet up and relax. Statements like this are based on the knowledge that there are people willing to fight for Bitcoin—compete for every block—with every fiber of their being. This is how we will keep on winning.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

@@ -1,0 +1,177 @@
+This article was originally published on ETFTrends.com.
+
+Eight years ago, the first Bitcoin ETF application was filed. Then rejected. Then filed for again. Then rejected again.
+
+Over the years, many, many proposals have crossed the SEC’s desk—at least twelve, by our count, and the regulator hasn’t approved any of them. But this is the year, say the forever-optimists. 2021 is the year a Bitcoin ETF finally gets approved.
+
+We have to admit: something really does feel different now. Several cryptocurrency ETFs have already launched abroad for starters, including three Bitcoin ETFs in Canada and as many Ethereum funds. Brazil now has a Bitcoin ETF for trade too.
+
+In addition, there’s been a changing of the guard at the SEC. Former CFTC head Gary Gensler—who until recently taught classes at MIT on cryptocurrency—has been seated as SEC Chairman; while noted Bitcoin skeptic Dalia Blass exited the SEC’s Investment Management division in January.
+
+Even crypto skeptics are starting to sense that momentum is building. A decision will be made—and soon.
+
+Where the Bitcoin ETF Filings Stand
+
+Currently, eight applications sit before the SEC. All eight are variations of a physically-backed ETF – meaning the fund would hold bitcoins in cold storage somewhere, much like the SPDR Gold Trust (GLD) holds gold bars in a vault.
+
+Four of the ETFs have also had 19b-4 forms filed on their behalf. 19b-4s are rule change proposals submitted by securities exchanges, which would need official approval from the SEC to change their listing rules to list and trade the Bitcoin ETFs in question.
+
+When a 19b-4 is filed, the SEC has 45 days in which to weigh in or extend its period of review, up to a maximum of 240 days. Historically, the SEC has pushed out these review periods as much as possible; in fact, the SEC just extended the review period for the 19b-4 Cboe filed on behalf of the VanEck application. The new decision date will be mid-June.
+
+That said, the 240-day window is “binding,” at least as much as anything at regulator's hands ever is—and given that the VanEck 19b-4 was filed on March 1, it means the SEC has until the end of this year to make a call one way or the other on the firm’s proposal. The clock is indeed ticking.
+
+Story continues
+
+What’s Inside Each Bitcoin ETF Filing
+
+With so many proposals on the SEC’s desk, it’s easy to gloss over the details and assume each is pretty much the same as the others—especially since the chatter from experts and analysts is that the SEC, if and when it does approve an ETF, will approve more than one at once.
+
+Yet, these proposed ETFs aren’t fungible. Each offers its own twist on the theme, which we break down below:
+
+What's Inside the 8 Bitcoin ETF Filings Proposed Name VanEck Bitcoin Trust Valkyrie Bitcoin Fund NYDIG Bitcoin ETF WisdomTree Bitcoin Trust First Trust SkyBridge Bitcoin ETF Trust Wise Origin Bitcoin Trust Kryptoin Bitcoin ETF Trust Galaxy Bitcoin ETF Issuer VanEck Valkyrie Investments Stone Ridge & NYDIG WisdomTree First Trust & SkyBridge Fidelity Kryptoin Investment Advisors Galaxy Digital Date Prospectus Filed 12/30/2020 1/22/2021 2/16/2021 3/11/2021 3/19/2021 3/24/2021 4/9/2021 4/12/2021 Dated 19b-4 Act Filed 3/15/2021 4/23/2021 N/A 4/9/2021 N/A N/A 4/10/2021 N/A Listing Exchange CBOE NYSE NYSE CBOE NYSE not listed CBOE NYSE Creation Unit Type In-Kind In-Kind & "Cash-ish" Creates In-Kind In-Kind In-Kind In-Kind In-Kind In-Kind Custodian not listed Coinbase Custody Trust Company, LLC self-custody: NYDIG Trust Company LLC not listed not listed self-custody: Fidelity Digital Asset Services, LLC Gemini Trust Company, LLC not listed Sponsor VanEck Digital Assets, LLC Valkyrie Digital Assets LLC NYDIG Asset Management LLC WisdomTree Digital Commodity Services, LLC Advisor: First Trust Advisors L.P.
+
+Sub-Advisor: SkyBridge Capital II, LLC FD Funds Management Kryptoin Investment Advisors LLC Galaxy Digital Funds LLC Indexer self-index: MV Index Solutions GmbH The Chicago Mercantile Exchange Group. Active CF Benchmarks Active self-index: Fidelity Product Services LLC CF Benchmarks Bloomberg Index Services Ltd TA not listed The Bank of New York Mellon, U.S. Bancorp Fund Services not listed Bank of New York Mellon not listed Bank of New York Mellon not listed Administrator not listed not listed U.S. Bancorp Fund Services not listed Bank of New York Mellon Fidelity Service Company, Inc Bank of New York Mellon not listed
+
+Filed by: VanEck
+
+Filed on: 12/10/20
+
+This isn’t VanEck’s first crypto rodeo. The issuer has submitted several Bitcoin ETF filings over the years, including this one back in December 2020. (It also runs an institutional-only Bitcoin fund in partnership with Solid X.)
+
+VanEck’s proposed ETF—one of three that would list on the Cboe Exchange—would be self-indexed, tracking the MVIS® CryptoCompare Bitcoin Benchmark Rate, which was developed by a VanEck affiliate.
+
+The benchmark is calculated daily using the one-hour volume-weighted average Bitcoin prices from the top five crypto exchanges out of a universe of 165 crypto exchanges worldwide. Those exchanges currently include Bitstamp, Coinbase, Gemini, itBit, and Kraken (get used to those names; you’re about to see a lot of them). Which exchanges’ prices are included is decided upon twice yearly.
+
+But what is “volume-weighted average pricing?” Essentially, it’s a form of consolidated tape for bitcoin, much in the same way major exchanges create a “ticker tape” for stock prices to accommodate for trades on not just the primary listing exchange but other trading venues as well.
+
+Several other Bitcoin ETF proposals use this consolidated tape approach, too, including Valkyrie, WisdomTree, Kryptoin, and Galaxy. The benefit is that consolidated tape reduces the idiosyncratic risk of market stress events or failure from any one exchange. It also deters price collusion by forcing would-be malicious actors—or even the exchanges themselves—to succeed in their efforts across not just one exchange but five; and over an extended period of time long enough to surely attract the notice of security experts and regulators.
+
+VanEck’s spin on the consolidated tape is that its benchmark rate is calculated over the course of an hour, using the median prices found on each exchange over twenty 3-minute intervals, which are then averaged. (Medians exclude outliers—another deterrent for price manipulation.) Three minutes is a shorter interval than found in other proposals, but a higher frequency of them.
+
+The index rate is then published once an hour throughout the trading day.
+
+Unlike other ETF proposals, no custodian or other service provider is mentioned by name in the VanEck proposal.
+
+The SEC is already formally reviewing the VanEck proposal.
+
+Filed by: Valkyrie Investments
+
+Filed on: 1/22/21
+
+The Valkyrie Bitcoin Fund introduces some tweaks to the VanEck approach. It tracks a third-party index, for starters, the CME CF Bitcoin Reference Rate, which also serves as the basis for the Bitcoin futures traded on the CME exchange.
+
+This rate is very similar to the volume-weighted average price approach in the MVIS index, and the five exchanges from which it aggregates trade flow are the same: Bitstamp, Coinbase, Gemini, itBit, and Kraken. The biggest difference is that the CME CF Bitcoin Reference Rates calculation window is an hour’s worth of intervals broken into twelve 5-minute chunks instead of twenty 3-minute ones.
+
+What really sets Valkyrie’s proposal apart from all the others is its option for authorized participants (APs) to use cash in the creation/redemption process. While the trust itself only creates and redeems ETF shares in-kind, APs now have the option to hand cash over to the fund’s administrator, who will then buy or sell bitcoins via a contracted liquidity provider on the APs behalf. It’s not quite cash creates/redeems (which are the norm in the Canadian crypto ETFs), but it’s pretty close in practice.
+
+There are all sorts of trading reasons to favor using either cash or in-kind create/redeems—a thorny topic, and one best left for another time. But the basic gist is this: in-kind creations/redemptions will lead to low tracking error but leave open the potential for high trading premiums & discounts, whereas cash creations/redemptions will narrow the possibility of premiums & discounts while possibly introducing slippage in NAV.
+
+Another complicating factor is timing: in-kind creates/redeems for the Valkyrie fund will process the day the order is placed, while cash-ish creates/redeems will occur the day after. That could lead to different trade execution prices for the two orders—which could be a significant disconnect given how quickly Bitcoin prices have been known to move. Yet, it could also protect the APs from big overnight/over-the-weekend price swings.
+
+The Valkyrie proposal also goes deeper into its specific security measures regarding how the bitcoins are stored. Bitcoins are stored both in a wallet account and a vault account, and the private keys to the bitcoins are held in cold storage vaults around the world, including the U.S., Switzerland, South America, and elsewhere. Custodian accounts may also be audited and inspected by both the trust and the sponsor.
+
+Valkyrie lists Coinbase as its custodian—Coinbase being one of the largest crypto exchanges in the world and supplier of one of the five reference prices that go into calculating the ETF’s index value. The fund would trade on NYSE.
+
+Filed by: NYDIG
+
+Filed on: 2/16/21
+
+The NYDIG Bitcoin ETF is one of two actively managed bitcoin ETFs before the SEC—though its prospectus doesn’t outright use the words “active management,” only that the fund does not track a benchmark or index. And it’s the only proposed ETF that already has an initial AP lined up: Morgan Stanley.
+
+NYDIG’s proposed ETF, which would trade on NYSE, will value the bitcoin it holds according to GAAP (or Generally Accepted Accounting Principles, the accounting standard used by the SEC and, therefore, pretty much all fund accountants). The managers’ version starts with first determining which Bitcoin trading venues are active and orderly, meaning they provide relevant, reliable price and volume data. That’s in turn defined as venues that trade in dollars, have certain fraud protection programs in place, and demonstrate market quality, data integrity, and regulatory compliance.
+
+From there, NYDIG values Bitcoin using transactions in a designated “principal active market”: generally, whichever venue has the highest trading volume and activity (likely an exchange, according to the prospectus). This principal market is decided upon quarterly.
+
+If reliable pricing info isn’t available, though, NYDIG reserves the option to rely on the subjective calls of a “fair valuation committee”—akin to the valuations that take place in bond ETF land.
+
+NYDIG plans to self-custody the fund via a subsidiary. No mention of vaults are made in the prospectus, but NYDIG asset managers and trust officials can’t access the private keys from custody, unlike other proposals.
+
+One last interesting note: the prospectus is one of the few to mention a size for its creation unit, which would be blocks of 10,000 shares. That’s on the smaller side, making it easier for APs to seize arbitrage opportunities by effecting a creation/redemption on quick turnaround, which in turn could lead to smaller premiums and discounts. (Something that could be important, given how quickly Bitcoin prices can move, and outside of normal trading hours at that.) That said, smaller creation units can add frictional costs and are more of a pain for administrators and custodians to work with—and as a result, those service providers may charge slightly higher fees to transact.
+
+Filed by: WisdomTree
+
+Filed on: 3/11/21
+
+Although, at first glance, the WisdomTree Bitcoin Trust sounds an awful lot like the Valkyrie proposal, it’s actually more similar to their already extant Bitcoin ETP trading in Europe, with just a few slight Americanizations.
+
+That product, WisdomTree Bitcoin, has traded in Europe since 2019 and already has $339 million in assets under management. (On the Swiss exchange, it trades under the ticker “BTCW”—the same ticker listed in the U.S. proposal.)
+
+WisdomTree’s U.S. proposed ETF, which would trade on the Cboe, would track the CF Bitcoin US Settlement Price—which is almost exactly the same as the CME CF Bitcoin Reference Rate used by the European ETP (and proposed in Valkyrie’s application), except that the CME version settles in London time, whereas this rate is calculated as of Eastern Time.
+
+Unlike the Valkyrie proposal, though, WisdomTree’s proposed ETF wouldn’t offer cash-ish creation/redemptions; creates and redeems in the WisdomTree proposal would only happen in-kind.
+
+No custodian has been named, nor any mention of vaulting made—but given that Coinbase is the custodian for the European version, it might also be tasked with custodying this product as well.
+
+WisdomTree has clearly made a firm-wide commitment to crypto-tech: the firm has filed for other crypto-related products in the United States, even a short-term Treasury fund based on the blockchain; and of course, it has already launched a Bitcoin ETP and Ethereum ETP in Europe. So it seems that WisdomTree isn’t vying to be a first-mover in the U.S., so much as bring home the business it has already built overseas.
+
+Will it succeed? We’re about to find out: the SEC announced it had formally begun reviewing the WisdomTree proposal in April.
+
+Filed by: First Trust and SkyBridge
+
+Filed on: 3/19/21
+
+The First Trust SkyBridge Bitcoin ETF Trust is the second of two active ETF proposals and the only one of the lot that would delegate the day-to-day portfolio management of the fund to a sub-advisor, SkyBridge Capital.
+
+SkyBridge is a hedge fund co-founded by Anthony Scaramucci, a longtime hedge fund manager best known for his brief stint as the Trump Administration’s White House Communications Director in July 2017.
+
+However, this isn’t Scaramucci’s first foray into Bitcoin. Like VanEck and WisdomTree, Skybridge runs other institutional crypto vehicles: the firm also offers the SkyBridge Bitcoin Fund, an institutional-only fund.
+
+Like the NYDIG proposed ETF, the First Trust/Skybridge version would value Bitcoin based on GAAP. In fact, the two funds’ methodologies are very similar concerning how principal markets would be selected and revaluated and even their fallback fair valuation committees.
+
+Where the two active ETF proposals differ, though, is in the details about security. Skybridge’s prospectus digs far deeper into the security measures that would surround its Bitcoins’ custody, including geographically dispersed vaults where the private keys are held (as with the Valkyrie proposal). Some of the security measures mentioned in the prospectus include the fact that First Trust employees must verify each transaction in the trust; regular audits of the custodian’s holdings will be conducted; and the aforementioned vaults are located deep underground, to prevent seizure “from a government entity” (prospectus’s language, not ours).
+
+In addition, First Trust and SkyBridge can access the bitcoins within the custodian’s account, but the custodian can also restrict access, should money laundering be suspected.
+
+No custodian has been named yet for the fund, but Bank of New York Mellon has signed on as fund administrator and transfer agent.
+
+Filed by: Fidelity
+
+Filed on:3/24/21
+
+The Fidelity bitcoin proposal is the most self-contained application: Fidelity affiliates serve as fund sponsor, custodian, and index provider. (Coin Metrics serves as the calculation agent, however.)
+
+The Wise Origin Bitcoin Trust would track the Fidelity Bitcoin Index, which is a price return benchmark constructed using Bitcoin feeds from eligible spot markets. Using yet another take on the volume-weighted median price methodology, Fidelity’s benchmark value would be calculated every 15 seconds, based on rolling 5-minute increments; the indexing algo would select the price associated with the median volume.
+
+Eligible markets include all U.S.-based digital exchanges; eligibility is determined twice a year or more frequently during market disruptions. Current spot markets include—you guessed it—Bitstamp, Coinbase, Gemini, itBit, and Kraken.
+
+Filed by: Kryptoin Investment Advisors
+
+Filed on: 4/9/21
+
+The SEC is also now formally reviewing the Kryptoin Bitcoin ETF Trust application, filed by Kryptoin Investment Advisors.
+
+Like the WisdomTree proposal, the Kryptoin ETF would use the CF Bitcoin US Settlement Price to determine the price of Bitcoin. In fact, the two proposals are remarkably similar in methodology and security measures.
+
+There are a few distinguishing characteristics, though. Kryptoin’s prospectus is the only other proposal to list the size of its creation unit: 50,000 shares. (The other’s is NYDIG’s, with a unit size of 10,000 shares.) A 50k lot size is fairly standard for the ETF world, threading the needle between ease of use for APs and economies of scale for fund service providers.
+
+Furthermore, Kryptoin’s is the only proposal where all intended service providers are listed by name. Its custodian would be Gemini (one of the exchanges whose prices feed into the benchmark rate), while its transfer agent and administrator would be Bank of NY Mellon.
+
+But what sets Kryptoin apart from the pack might be one of personnel: the fund is led by Jason Toussaint, former CEO of the World Gold Trust, which sponsors the world’s biggest gold ETF, the SPDR Gold Trust ETF (GLD).
+
+Although the Kryptoin Bitcoin ETF Trust would be Kryptoin’s first foray into the ETF space, this isn’t the firm’s first Bitcoin ETF filing; the Delaware-based investment advisor unsuccessfully filed for a fund in 2019. Not much has changed since that application, although the fund now plans to list on Cboe, instead of NYSE.
+
+Filed by: Galaxy Digital
+
+Filed on: 4/12/21
+
+The final proposal in our review is the Galaxy Bitcoin ETF, which tracks the Bloomberg Galaxy bitcoin Index—a co-branded index with Bloomberg Index Services, which serves as index provider.
+
+The benchmark, yet another take on the “consolidated tape,” is based on Bitcoin prices aggregated from trading venues selected by the index provider for their pricing consistency, frequency, and market quality. Each day, the index value is calculated over a 15-minute window right after the market close. It is determined by calculating the median bid/asks for Bitcoin on the various venues, then averaging them separately—then averaging those prices separately.
+
+The difference for this take on consolidated tape is two-fold. First, there’s no mention of volume-weighting in the pricing calculation, which could skew the averages toward less-active exchanges. Secondly, the calculation window is only 15 minutes instead of an hour for other approaches (including VanEck, Valkyrie, WisdomTree, Kryptoin). Galaxy argues this length of time is long enough to make it difficult for collusion or manipulation to occur, but it’s one-fourth that proposed by the other approaches.
+
+Galaxy’s proposal doesn’t cite a custodian by name but mentions that it has insurance and is chartered under NY Banking Law.
+
+Bonus: Grayscale Bitcoin Trust
+
+Waiting in the wings and watching all this action is the Grayscale Bitcoin Trust (GBTC), a closed-end fund listed in Europe. Grayscale has yet to file for its own ETF and has remained tight-lipped over its plans, though its CEO has said he hopes to convert the fund to an ETF as soon as possible.
+
+Eagle-eyed observers have noticed that the otherwise unremarkable ClearShares Piton Intermediate Fixed Income ETF recently changed its ticker to “BTC,” shortly after Grayscale purchased a stake in ClearShares ETFs. Speculation has arisen that Grayscale may be intending to convert that existing vehicle to a Bitcoin fund, in the same way that ETFMG once converted a zombie Latin American real estate fund to the world’s first marijuana ETF. But BTC is a 1940 Act fund, whereas a bitcoin-holding ETF would be neither a ’40 Act fund nor a commodity pool, making a conversion like this unlikely.
+
+What’s more likely is that GBTC realized the value of a juicy ticker and wanted to place dibs on this one by using the already-listed bond fund. If and when the firm launches a U.S. Bitcoin product, they’ll swap that ticker for the new fund.
+
+For more news, information, and strategy, visit the Crypto Channel.
+
+POPULAR ARTICLES AND RESOURCES FROM ETFTRENDS.COM
+
+READ MORE AT ETFTRENDS.COM >

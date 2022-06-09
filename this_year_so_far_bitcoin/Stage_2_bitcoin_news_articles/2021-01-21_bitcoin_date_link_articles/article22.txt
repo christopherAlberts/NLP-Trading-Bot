@@ -1,0 +1,49 @@
+Interest in Bitcoin “double-spending” grew after recent news that the Bitcoin network processed the same bitcoin (BTC) in two transactions – the very “double-spending” scenario Bitcoin was specifically designed to prevent.
+
+Except the double-spend didn’t happen, at least not in the traditional sense.
+
+“The bitcoin ‘double-spend’ media headline has certainly spooked investors, but it’s a misunderstanding of how the Bitcoin network operates. In this case, a chain re-organization of one block occurred, which is a fairly common occurrence,” Jason Lau, COO of OKCoin exchange, told CoinDesk.
+
+Put another way, no bitcoin was “double-spent” because no new coins were added to Bitcoin’s supply. Instead, the same coins from the same wallet were registered in two different blocks during a typical split in Bitcoin’s blockchain.
+
+The reason this does not qualify as a double-spend is because only one of these transactions (the one recorded on Bitcoin’s longest blockchain history) is considered valid by the network while the bitcoin in the other transaction cannot be spent because the network does not consider it valid.
+
+What is a Bitcoin block reorganization?
+
+Due to the distributed and highly competitive nature of Bitcoin mining, mining pools from time to time mine the same block simultaneously and thus cause a split in the blockchain’s history. When this happens, both blocks will have miners add on to them until one history wins out over the other.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Let’s say, for instance, mining pool A and mining pool B mine a block at the same time, resulting in two different blockchain histories (versions A and B). Going forward, all other miners have to choose which version of the chain to build on. Let’s say the miner who finds the next block in the sequence chooses to build on version A, but then afterwards the next two or three or more miners decide to build on version B. Version B ultimately wins out as more miners choose to mine that transaction history.
+
+The other history is excised from the network and considered irrelevant and any blocks mined on it become stale blocks.
+
+This was the case at block 666,833, wherein two blocks were spawned by separate mining pools and a one-block reorganization, as described by Lau, occurred. The above scenario is why Satoshi Nakamoto said in the white paper that a transaction should only be considered final after it has six confirmations (i.e., six new blocks are mined onto the chain that has recorded the transaction).
+
+No, a double-spend didn’t really happen
+
+The supposed double-spend first became news yesterday after BitMex Research reported on block 666,833’s abnormalities on Twitter. The reorganization meant a “stale block” (also sometimes called an “orphan block”) had been mined that contained bitcoin also spent on Bitcoin’s valid chain, so a transaction containing the same bitcoin was recorded on both the relevant and irrelevant chains.
+
+What BitMEX research called at first a “double-spend-like scenario” now looks like a perfect storm caused by the one block reorg and a replace-by-fee transaction. A RBF transaction occurs when you tell your wallet to send the same bitcoin again but with a higher fee, with the hopes that it will be confirmed before the lower fee transaction.
+
+Here's what actually happened
+
+It went down like this: Someone sent 0.00062063 BTC to this address but set the lowest fee possible (1 satoshi per byte, or less than a fraction of a cent, per byte of transaction data).
+
+Since the fee was so low, the transaction took a while to confirm, so the sender tried to outpace it by sending what’s called a “replace by fee transaction” (RBF).
+
+Instead of the RBF replacing the slow transaction as intended, however, the lower fee transaction cleared first and made it into the block that was mined onto the longest chain.
+
+Meanwhile, the higher fee transaction found its way onto the stale block. The final result: 0.00062063 BTC is recorded as existing on the address 1D6aebVY5DbS1v7rNTnX2xeYcfWM3os1va on the irrelevant transaction history while 0.00014499 BTC exists on the same address but on the relevant transaction ledger.
+
+A flow chart of the conflicting transactions, adapted by BitMex Research from an image originally produced by 0xB10C (BitMEX Research)
+
+The importance of 6 confirmations
+
+Technically, the same bitcoin was spent twice in this scenario. But one transaction was double-spent to an address on a transaction history that the Bitcoin network does not consider valid (if you query the transaction ID for the “losing” transaction in any Bitcoin block explorer, for instance, nothing comes up).
+
+“It’s kinda a double-spend but not really. Normally a double-spend refers to when you intentionally replace a transaction that sends money to someone with one that sends it to your own wallet,” Ben Carman, a Bitcoin Core contributor and developer at Suredbits, told CoinDesk.
+
+In this scenario, “the important thing to know is that, yes, there might be different versions of the same transaction, but only [one] will ultimately be accepted” by nodes and users of the Bitcoin network, Coin Metrics Bitcoin network data analyst Lucas Nuzzi wrote on Twitter.
+
+A double-spend typically means a sender tricks a recipient into accepting a transaction that the sender actually sends to itself, as well. This is why it’s considered best practice for merchants to wait for six confirmations before a payment is considered final to avoid an outcome like this one. It’s worth noting that in this instance, though, no reported fraud took place because the sender and the recipient are probably the same entity.

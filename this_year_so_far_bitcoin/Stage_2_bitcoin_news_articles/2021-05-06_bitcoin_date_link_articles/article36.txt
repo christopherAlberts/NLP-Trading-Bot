@@ -1,0 +1,7 @@
+As of May 3, 2021, the amount of electricity consumed by Bitcoin was recorded at 133.63 Terawatt-hour (TWh). The massive amount of energy required to keep the supply flow of the cryptocurrency actually trumps the electricity required by entire countries per year. Currently, Bitcoin mining electricity usage is expected to exceed the consumption of 181 countries by 2024.
+
+Bitcoin mining requires thousands to tens of thousands of computers operating while being cooled around the clock. Additionally, the more computers mining brings the total yield efficiency down, meaning more computers will be required in the future as the digital currency’s popularity continues to rise.
+
+It is interesting to note some countries, like Iran, have suffered power outages due to Bitcoin mining, leading to regulation and forced closures of mining sites. Microsoft co-founder Bill Gates has also said that “Bitcoin uses more electricity per transaction than any other method known to mankind.”
+
+In case you missed it, celebrate your Dogecoin earnings with a “Cogedoin” Frisbee for your doge.

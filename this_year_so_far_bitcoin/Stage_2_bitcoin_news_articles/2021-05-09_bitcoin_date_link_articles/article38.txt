@@ -1,0 +1,61 @@
+Edward Snowden Knocks Alex Gladstein's Crypto Critique- ‘Worst Part of Dragon-Level Wealth Is People Devolve Into Dragons Themselves’
+
+On Saturday evening, the privacy advocate and well known whistleblower, Edward Snowden, spoke out against some criticism stemming from the Human Rights Foundation’s Alex Gladstein. Snowden attacked the tribalism taking place in the crypto space and said that some people “lose sight of the world beyond their cave.”
+
+Alex Gladstein Calls Snowden’s Interview Clip a ‘Disaster’
+
+Just recently, the Human Rights Foundation’s (HRF) Alex Gladstein had some words to say to the former NSA contractor and whistleblower Edward Snowden. Gladstein didn’t like the statements Snowden made in a recently published video, when the privacy advocate criticized bitcoin (BTC). It’s not the first time Snowden has given BTC a scathing review that knocked BTC’s ability to scale and privacy.
+
+For instance, on December 25, 2020, Snowden explained that BTC developers have had years to address scaling and privacy in a video with the popular Youtuber, Naomi Brockwell. The famed whistleblower said he was “puzzled” and developers have “had years to do it.”
+
+Snowden’s latest critique of BTC stems from an interview he did at Decrypt’s Ethereal 2021 conference. Following the video, Gladstein an outspoken proponent of BTC said that the Snowden video clip was a “disaster.”
+
+“Respect Snowden for his work on privacy and criticism of CBDCs. But this clip is a disaster. TLDR: Taproot makes Bitcoin privacy worse, Lightning is ‘shenanigans,’ attacks core devs, hypes NFTs + privacy coins (except monero which he trashes). When Snowdencoin? Say it ain’t so,” Gladstein said. However, not everyone agreed with Gladstein’s summary of the video.
+
+“Just watched the clip,” Blocktower Capital’s Ari Paul replied to Gladstein’s tweet. “What he says is very different from your summary. ‘Great project’ w/known privacy vulnerabilities != ‘trashes.’”
+
+But Gladstein wasn’t impressed with Ari Paul’s statements and again criticized Snowden’s commentary in his reply.
+
+Gladstein added:
+
+What about the rest? You’re ok with the conclusion that Taproot is bad for privacy and that Lightning is “shenanigans”? Or that core devs have intentionally failed to improve privacy?
+
+Snowden Fires Back
+
+It didn’t take long for Edward Snowden to respond to Gladstein’s tweet and the whistleblower trashed tribalism and BTC maximalism.
+
+“The worst part of cryptocurrency transforming into dragon-level wealth is witnessing good people emotionally devolve into dragons themselves: so intellectually paralyzed by the fear that everyone they see threatens their hoard that they lose sight of the world beyond their cave,” Snowden replied to Gladstein’s statements.
+
+“This is such a profoundly misleading TL;DR of a privacy-focused talk that it’s hard to call it anything but intentionally deceptive,” Snowden continued. “To the extent I own crypto (unless and until it has been lost in boating accidents), I own more bitcoin than anything else—but despite the theoretical risk of harming the value of that ownership, I continue to criticize Bitcoin’s (and other cryptocurrencies I hold) failings because the public cost of doing otherwise would be orders of magnitude greater than that individual private gain. Moral compass,” he added.
+
+Snowden further said:
+
+Bitcoin’s disastrous privacy is the ‘missing stair’ of cryptocurrency. Every expert understands it’s a problem, but—as experts—they themselves know how to compensate for the risk in their own personal interactions with Bitcoin, and therefore feel no urgency to actually fix it.
+
+Snowden: ‘Only Privacy Guarantees Fungibility’
+
+The former NSA contractor also said that privacy coins are “great” but they don’t have the dominance BTC has and called it “Ultima Ratio Cryptum.”
+
+“The central property of cash is fungibility—meaning a dollar spent by a plumber is honored equally to one spent by a sex worker: they are indiscriminable,” Snowden stressed. “Adversarial chain analysis of Bitcoin’s public ledger reduces its fungibility over time. Only privacy guarantees fungibility.”
+
+1/ Snowden notices part of what's wrong with #Bitcoin governance and development. https://t.co/p2eiKMJEW8 — Ser Jeff Garzik (@jgarzik) May 9, 2021
+
+Some people agreed with Snowden saying: “BTC core devs haven’t prioritized privacy because real, inherent privacy would stand in the way of institutional adoption. Their main objective is institutional adoption and wealth absorption. Not personal liberty.” Software developer Jeff Garzik also wrote a comprehensive thread about Snowden’s most recent commentary and criticism toward Bitcoin developers.
+
+Snowden even argued with software developer Matt Corallo on Twitter after knocking Gladstein’s critique. “Taproot nor Lightning come even *close* to addressing Bitcoin’s privacy problems — and in fact even provoke arguments for how they hurt it (at least short term),” Snowden remarked.
+
+The Holy Wars ( https://t.co/m3wdkL1uoO ) will continue until the meta-consensus problem is solved ! ( BIP 300 and fork futures are the only solutions that I'm aware of. ) https://t.co/GsGCFEgzD0 — Paul Sztorc (@Truthcoin) April 26, 2021
+
+As of 2021, the Lightning Network pales in comparison to the bitcoin used on Ethereum’s network and Taproot already sparked disagreements over how to activate the upgrade. Moreover, Blockchair’s lead developer, Nikita Zhavoronkov has criticized Taproot on Twitter and people have wondered if the meta-consensus problem can even be solved.
+
+The podcaster and BTC maximalist, Peter McCormack, tried to use Snowden’s recent tweet as an opportunity to interview Snowden but got no response. Another BTC maximalist agreed that Snowden should accept McCormack’s interview offer.
+
+“Edward, you have nothing to lose by talking with Peter and others on his cordial, non-adversarial show, and your followers could hear many helpful insights they may never learn of if you don’t. As a dev who is aware of the issues in play, I encourage you to consider his offer,” software developer Daniel Buchner said.
+
+Check out Snowden’s entire video commentary below from Decrypt.co’s Ethereal 2021 conference.
+
+What do you think about Snowden’s response to Gladstein on Twitter? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

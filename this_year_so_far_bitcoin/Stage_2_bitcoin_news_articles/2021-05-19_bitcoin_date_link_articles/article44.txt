@@ -1,0 +1,55 @@
+Meltem Demirors, CoinShares Chief Strategy Officer, joins the Yahoo Finance Live panel to discuss the crypto plunge.
+
+Video Transcript
+
+- Welcome back to Yahoo Finance Live. We've been watching a brutal sell-off hit the crypto space here with Bitcoin off, close to about 12% overall in the last 24 hours. We saw nearly a half a trillion dollars market cap wiped off.
+
+The board here, as those moves accelerated. That we have, it seems like, at least established a little bit of a bottoming out right now in the mid $35, mid $30,000 level. For more on the moves that we are seeing play out in the crypto space, I want to bring on chief strategy offer-- chief strategy officer Digital Asset Investing company Coin Shares. Meltem Demirors joins us right now.
+
+Meltem, thanks for taking the time here because this is a very interesting point, I think, in the cycle we've seen it played out in Bitcoin, specifically, I guess. I mean, it seemed like we're going to bounce off the 200-day moving average. It was around that $40,000 price range.
+
+I mean, what do you make of the acceleration of the sell-off 'cause we've been seeing it play out over the last couple of days? But what do you make of this? And are we maybe seeing a bottoming out now?
+
+- Yeah, great questions. Look, first and foremost, today, the last 24 hours have been crazy. This is year seven for me in this industry. So we're accustomed to this. But each time it happens, obviously, it feels very, very raw.
+
+Look, we've seen some sell-offs. I think it really started last week with some skittishness in macro markets. We're seeing a lot of skittishness around what's happening with continued stimulus. We've seen that in tech equities, as well as core equities, and also in crypto.
+
+Any time there's skittishness in macro markets, there happens to be sort of a knock-on effect in crypto. And let's be really honest, we've had about 200 days of up and to the right momentum and Bitcoin. ETH is up over 3X since the start of the year. So we're used to seeing 30% to 40% corrections in the crypto space.
+
+Story continues
+
+And over the last week, we've had a flurry of negative news. There's these lingering ESG concerns. Elon Musk's trolling of the crypto community, potential investigations into finance and tether, nervousness around new regulation. And also options markets did flip bearish last week, so the skew has been trending negative.
+
+So again, there are a lot of different trends playing out here. But when we have this type of environment, we tend to see selling gets exacerbated. And then on top of that, all of the venues over the last 24 hours have been experiencing outages. ETH network congestion is at all-time highs.
+
+So when we take all of these factors together, you sort of get prime market conditions for a sell-off that's been further exacerbated by people taking risk off. Now, we see aggressive buying of the dip, a lot of rebounding here. But it'll be interesting to see how the next 24 to 48 hours play out.
+
+- How-- how do we look at that macro correlation? Because Meltem, some of the headlines you pointed to, whether it's the Musk tweets, Tesla's moves, I mean, so much of that is what we focus on at least in the crypto space. We've already been seeing the broader equity markets pushing lower as a result of inflation jitters. But the tie the two for me on why specifically today the sell-off is accelerated, especially in the space?
+
+MELTEM DEMIRORS: Absolutely. So it really started over the last week. We saw selling of Bitcoin over the weekend. Bitcoin continued to decline.
+
+The biggest issue we see-- and there's great data from, a firm called Glass [? Snoad. ?] A lot of the selling recently has actually been from recent acquirers of Bitcoin. When we look at on-chain analytics, we can see that longer term holders of Bitcoin haven't been selling. They've actually been using the sell-off to accumulate.
+
+It's really the 23% of Bitcoin holders that are now holding at a loss-- because they bought over the recent three months-- that have been driving the majority selling activity. The sell-off more importantly has been mostly retail-driven via platforms like Binance. Coinbase has seen net sustained outflows of Bitcoin.
+
+We have seen-- we have $5 billion in ETPs in the market. We have seen for the first time over 50 million of net outflows from Bitcoin ETP products in the last week. The GDTC product which trades in the US is now trading at a negative premium to NAV or discount to NAV, I should say. And that discount has only widened over the last few weeks.
+
+And again, what we tend to see is there's a lot of risk behavior where people get skittish. There's a lot of fear, uncertainty, and doubt. Especially some of the newer entrants into the space who aren't accustomed to the volatility want to take some risk off the table.
+
+The last data point I'll just mention is we are nearing all-time highs for the amount of institutional dry powders sitting on the sidelines. Institutions have been net sellers of risk over the last quarter; whereas retail has been buying, and that's more broadly from a macro perspective. So I think we're still seeing a lot of skittishness around risk in the current market.
+
+- Yeah, that's an important point to hit on because when we talk about institutional-- that element of this, it was supposed to be that we weren't going to see another collapse like this, or maybe not to the size that we're seeing now because the theory was, oh, institutional players aren't necessarily going to be as skittish as retail players. But when you look at the relative flows, it was interesting to see Bitcoin flows, as you're talking about, going the opposite direction and money coming out. JP Morgan showed the same thing.
+
+But when you look at Ethereum fund flows, not negative, actually positive, still. So you got to wonder about maybe the room that that has to run. What's your take on maybe how Bitcoin dominance was already way down ahead of this sell-off, too, which some people point to as a trigger? What does it look like in the next couple of months here, relative to all coins and Bitcoin? Do you agree that it seems like Ethereum has a lot more room to run?
+
+MELTEM DEMIRORS: But look, I think generally, in every Bitcoin cycle, right, in every crypto cycle, if you will, what we tend to see is as Bitcoin runs, Bitcoin is up 3X since the beginning of this year, right? So Bitcoin went from 20K to 60K. Ether just went through 300% run-up as well.
+
+What we tend to see is when people make money in crypto markets, they tend to rotate from the established large cap assets like Bitcoin and Ether into some of the longer tail higher risk assets as they chase the risk reward ratios. So as people move further out on the risk reward spectrum, what we see is not net new cash inflows going into some of those long tail assets, but a lot of that activity happening through rotation.
+
+I think that's what we saw now is a large thematic rotation from some of the larger, better known assets, i.e. Bitcoin in some of the longer tail. Furthermore, on the institutional side, we have certainly seen an increase of interest from institutions and larger buyers in Ether. This, I think, is a great development for the crypto space and might actually lead to a reduced correlation between crypto assets, overall.
+
+Historically, crypto markets have had a beta of 1 to Bitcoin. But as we start to see this market grow, as of last week, $2.5 trillion market, it really is an established asset class. What we're looking for at CoinShares is some of that divergence starting to emerge where individual crypto assets are developing their own audience, their own narrative.
+
+And this, in my view, is a good thing. But we do expect Bitcoin dominance to return at the end of the day. Whenever there's a big sell-off like this, we do see a lot of investors rotating back into Bitcoin in particular as an asset they'd like to hold long-term. And of course, tax implications with a Biden administration. People are really looking for position that they can take where they can be net long for at least 12 months, if not longer. So I think that gives Bitcoin some additional headwind, particularly, as we see buying on these dips
+
+- Meltem, you and I are on the same page here. And it's nice to have someone to agree with on the show. Appreciate you coming on. Hope to have you back to chat that one further when there's a less craziness going on. But Meltem Demirors, CoinShares chief strategy officer. Appreciate your time.

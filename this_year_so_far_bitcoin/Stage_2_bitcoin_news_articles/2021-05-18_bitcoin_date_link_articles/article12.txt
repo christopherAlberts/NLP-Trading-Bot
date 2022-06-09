@@ -1,0 +1,47 @@
+Before Vitalik Buterin co-created Ethereum, he first learned about bitcoin in 2011, when he was 17 years old.
+
+Initially he dismissed it, but Buterin eventually connected with the idea of bitcoin after a second look, he told Wired in 2016. Like many bitcoin evangelists, Buterin, a Russian-Canadian programmer, was curious about the decentralized payment system.
+
+Back then, "I had a much more cartoon mentality," he told Wired.
+
+"I saw everything to do with either government regulation or corporate control as just being plain evil. And I assumed that people in those institutions were kind of like Mr. Burns [on "The Simpsons"], sitting behind their desks saying, 'Excellent. How can I screw a thousand people over this time.'"
+
+Though his take on good and evil "substantially updated" as time went on, he told Wired, Buterin still felt motivated to get involved with bitcoin to adjust the balance of power between "the big guy" and "the little guy."
+
+"I think a large part of the consequence is necessarily going to be disempowering some of these centralized players to some extent," he said in 2016.
+
+"Because ultimately power is a zero sum game. And if you talk about empowering the little guy, as much as you want to couch it in flowery terminology that makes it sound fluffy and good, you are necessarily disempowering the big guy. And personally, I say screw the big guy. They have enough money already."
+
+It's a mindset held by many who were drawn to the crypto space early on — and is especially relevant now.
+
+Meme stocks and cryptocurrencies have become prevalent this year, with many in the space citing the same opinion Buterin talked about. Starting in January, retail investors on Reddit planned to help drive the price of GameStop stock after it was bet against by Wall Street hedge funds, calling their campaign as a "great wealth redistribution." Since, cryptocurrencies like bitcoin have reached record-highs with supporters rallying behind the decentralized system.
+
+"I thought [bitcoin] was something really interesting," Buterin told Business Insider in 2019. "I started getting into the community more and more."
+
+Seeing value in the space, Buterin co-founded Bitcoin Magazine in September 2011 while in college. There, he became an expert on bitcoin and learned what could make the blockchain better.
+
+In May 2013, Buterin attended a bitcoin conference that convinced him to pursue development of the cryptocurrency full-time, and by the end of the semester, he had dropped out of school to do so.
+
+For six months in 2013, Buterin traveled around the world to meet with bitcoin developers. He realized that he could iterate on the bitcoin blockchain to create a new, potentially better, one.
+
+Bitcoin had "too limited functionality," he told Business Insider.
+
+To explain his thinking, Buterin compared bitcoin to a pocket calculator and a new potential blockchain to a smartphone.
+
+"A pocket calculator does one thing and it does one thing well, but really, people want to do all these other things. And if you have a smartphone, then you have a pocket calculator as an app," he said. "So basically, taking that same kind of idea of increasing the power of the system by making it more general purpose and applying it to blockchains."
+
+As a result, he came up with Ethereum, the blockchain that powers the cryptocurrency ether. (He wrote its white paper in November 2013 when he was just 19.)
+
+Bitcoin is known for its peer-to-peer payment system, whereas Ethereum is capable of more than solely transactions — it can power and build decentralized applications, like financial tools and social media platforms, along with NFTs, or nonfungible tokens, due to its smart contracts.
+
+"When I came up with Ethereum, my first first thought was, 'OK, this thing is too good to be true and I'm going to have five professional cryptographers raining down on me and telling me how stupid I am for not seeing a bunch of very obvious flaws,'" Buterin told Wired in 2016. "Two weeks later I was extremely surprised that none of that happened."
+
+Today, ether is the second largest cryptocurrency after bitcoin and has a current market value of over $400 billion.
+
+Buterin recently became the world's youngest crypto billionaire at 27. On Wednesday, he donated over $1 billion to the India Covid-19 Relief Fund and other charities.
+
+A representative for Buterin declined CNBC Make It's request for comment.
+
+Sign up now: Get smarter about your money and career with our weekly newsletter
+
+Don't miss: Mark Cuban: The 3 ways Ethereum 'dwarfs' bitcoin

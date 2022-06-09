@@ -1,0 +1,61 @@
+Bitcoin (BTC) has been a hot topic of discussion lately even for those outside the core crypto community, but unfortunately, it’s not for the best of reasons. In particular, the amount of energy required to mine Bitcoin has created concerns for investors who were considering BTC as an option to diversify.
+
+According to the Cambridge Center for Alternative Finance, Bitcoin currently consumes around 110 terawatt-hours per year. A Harvard Business Review article further noted that this equates to 0.55% of global electricity production, which is roughly equivalent to that of a small county.
+
+Although this is the case, it’s important to point out that any industry that adds value to society will likely have an environmental impact. Yet with the rise of global warming and other environmental concerns today, it’s become crucial for the crypto sector to recognize the amount of energy consumption required to mine Bitcoin. As this concern is brought to fruition, individuals within the cryptocurrency community can then come up with solutions to combat this challenge moving forward.
+
+Today’s green solution: Carbon-neutral Bitcoin funds
+
+Influential executives and crypto investors like Elon Musk and Michael Saylor continue to highlight Bitcoin’s energy consumption challenges on Twitter in order to raise awareness for the future of Bitcoin. Most recently, Musk and Saylor announced the formation of a Bitcoin Mining Council, which consists of several industry leaders who will ultimately enable sustainable Bitcoin mining initiatives.
+
+While this is a step in the right direction, it may take years for this Bitcoin Mining Council to make a real impact. Jesse Morris, chief commercial officer of Energy Web — a blockchain protocol designed to facilitate application development for the energy sector — told Cointelegraph that while it’s encouraging that Musk and Saylor are tweeting about a new Bitcoin Mining Council, actions must be taken immediately.
+
+Morris explained that Energy Web is currently working directly with a number of Bitcoin miners to build software that leverages blockchain technology to detect in near real-time the carbon footprint of the Bitcoin network. Morris noted:
+
+“I wish the Bitcoin community would move to a more efficient consensus mechanism, but I don’t think this will happen, so we have to come up with a solution now to fix the challenges with proof-of-work consensus.”
+
+Morris further believes that a near-term solution to begin enabling a greener Bitcoin network could be through the development of carbon-neutral exchange-traded funds.
+
+Although carbon-neutral ETFs may sound like a foreign concept, some investment management firms have already taken steps to ensure just this. For example, Toronto-based Ninepoint Partners LP is an independent investment management firm with about $6.5 billion in assets under management. Alex Tapscott, managing director of digital assets at Ninepoint, told Cointelegraph that Bitcoin makes up a good portion of the assets under the firm’s management. “Crypto assets are a fast-growing and important asset class for us,” he noted.
+
+Ninepoint created a Bitcoin Trust that went public on the Toronto Stock Exchange in January of this year. The Bitcoin Trust was then converted to an ETF on May 6. Following the news of Ninepoint’s Bitcoin ETF, Tapscott explained that the firm decided to offset 100% of its fund’s carbon footprint to ensure that interested investors receive green exposure to Bitcoin:
+
+“By absorbing the cost of Bitcoin’s carbon footprint, we are giving investors an option to get green exposure to Bitcoin. We think this is a unique and important offering that will help convince investors that have been on the fence about buying Bitcoin.”
+
+According to Tapscott, Ninepoint is partnering with a number of initiatives to help ensure the firm’s green Bitcoin ETF. For example, Ninepoint is working with the Crypto Carbon Ratings Institute, a research company focused on the environmental impact of cryptocurrencies, along with CarbonX, an environmental software fintech firm.
+
+Lena Klaassen, co-founder of the Crypto Carbon Ratings Institute, told Cointelegraph that the firm uses its own methodologies and research to compute the best estimate of the real carbon footprint of the Bitcoin network. Together with CarbonX, the Crypto Carbon Ratings Institute reports to Ninepoint regarding its ETF’s share of the Bitcoin network. CarbonX then uses its Zerofootprint practice, which supplies the commensurate volumes of CO2e, or carbon dioxide equivalent, to counterbalance the pollution.
+
+While Tapscott was unable to disclose specific numbers regarding the fund’s carbon footprint, he explained that this is mainly because the assets under management fluctuate as new investors come in and as the price of Bitcoin changes. “The energy footprint of Bitcoin changes with its hashing rate. This is a moving target that we adjust monthly to reflect these changes,” he remarked.
+
+Even with market fluctuations and the cost of offsetting the carbon footprint being funded entirely by Ninepoint, Tapscott noted that the firm views this as the right thing to do, both for the future of the company and for the entire crypto sector at large. Tapscott said:
+
+“There are plenty of investors who want exposure to Bitcoin, but they question its energy footprint, especially the institutions that have Environmental, Social, Governance (ESG) goals to meet.”
+
+Green funds — An ongoing trend?
+
+While there are still very few crypto-asset management investment firms that have pledged to go green, efforts of some firms could very well create a powerful movement.
+
+Shortly after Ninepoint announced its green Bitcoin ETF, One River Digital Asset Management filed for a carbon-neutral ETF. One River declined to speak with Cointelegraph about the matter, yet Tapscott noted that he hopes Ninepoint’s green initiative serves as a model for the entire industry.
+
+Although it’s hard to predict the future of the crypto space, it’s encouraging to see that BitMEX, a crypto derivatives trading platform, also recently announced the decision to go carbon neutral. In addition, Marathon Digital Holdings, a United States-based enterprise Bitcoin mining company, revealed plans to achieve 70% of carbon neutrality. Klaassen added that the Crypto Carbon Ratings Institute is now seeing a trend for BTC mining companies — especially ones that are publicly traded — to assess their own Scope 1,2 and 3 emissions in order to address them.
+
+Paul Brody, blockchain lead at Ernst & Young, further told Cointelegraph that carbon-neutral mining operations are definitely possible. “If you plan to only hold the Bitcoin you mine in a carbon-neutral operation, you have a green solution,” he said.
+
+However, Brody pointed out that if someone were to transact with Bitcoin, one may not be able to know for sure that the transaction will be processed by a carbon-neutral miner. Brody said:
+
+“You cannot know the history of those transactions. However, if you combine a carbon neutral mining operation with some level of carbon-offset against your other transactions, you most likely have a largely green Bitcoin operation.”
+
+A long-term solution for Bitcoin
+
+While Bitcoin ETFs, investment management firms and mining companies continue to pledge to go carbon neutral, a longer-term solution is still needed in order for a green Bitcoin to become a lasting reality.
+
+For the long term, Morris believes that accords that adhere to official standards must be established. In order to ensure this, Energy Web recently launched its Crypto Climate Accord, which Morris noted has 45 supporters consisting of miners, crypto investors, foundations, exchanges and more. The goal of the Accord is to make Bitcoin entirely renewable by focusing on two aspects.
+
+Morris mentioned that the Accord aims to raise awareness around “greenwashing.” According to Morris, “clean crypto funds” are cause for skepticism, as blockchain networks that don’t use a traditional proof-of-work consensus do not consume anywhere near the amount of energy as Bitcoin does.
+
+As such, Morris believes that the conversation around energy conservation should be focused on Bitcoin specifically. Morris also explained that the Crypto Climate Accord will take steps to help large scale institutional and retail investors make their Bitcoin green by bringing radical transparency to the Bitcoin network.
+
+However, a challenge that still needs to be addressed is the development of standards. According to Morris, Energy Web is currently looking into developing a global standard for tracking Bitcoin’s carbon footprint.
+
+In addition, the crypto community must also continuously work toward an environmentally friendly solution for Bitcoin. Bill Tapscott, chief operating officer of CarbonX, told Cointelegraph that “although a carbon-neutral path has been set forth, the crypto community itself has to embrace a responsibility to transition to a lower-carbon world.”

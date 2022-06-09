@@ -1,0 +1,27 @@
+Bitcoin Hashrate Hits 180 Exahash, Mining Difficulty Climbs Higher, Pools Jump by 35%
+
+The price of bitcoin has climbed to phenomenal heights during the last few weeks and this has fueled the crypto asset’s mining sector a great deal. Despite the fact that the Bitcoin network’s mining difficulty has never been higher at 21.72 trillion, the hashrate has climbed to a whopping 180 exahash per second (EH/s) and there’s 23 mining pools dedicating significant hashrate to the Bitcoin blockchain.
+
+180 Exahash and a 21.72 Trillion Difficulty
+
+Bitcoin (BTC) continues to climb higher and higher in value and on Sunday the crypto asset tapped another all-time price high. BTC reached a whopping $58,300 price per unit on February 21, and the asset’s market valuation captured 1.09 trillion in value. The price of BTC has made bitcoin mining extremely profitable as next-generation mining rigs are making bountiful profits.
+
+For instance, the Microbt manufactured Whatsminer M30S++ with 112 terahash per second (TH/s) gets $37 a day. The popular Bitmain Antminer S19 Pro (110 TH/s) gets a touch above $36 per day in BTC. This is using today’s extremely high mining difficulty and electric prices at $0.07 per kilowatt-hour (kWh). Older generation mining rigs like Bitmain S9s and other 10-14 TH/s machines are also making profits.
+
+The high difficulty percentage has never been larger in Bitcoin’s lifetime as the difficulty today is 21,724,134,900,047 (21.72T). The next difficulty change is expected to happen in 12 days and the mining difficulty is likely to go higher if the hashrate and if the price stays consistent. BTC’s difficulty will jump a percentage to 21.94 trillion on or around March 5, 2021. This is due to BTC’s hashrate remaining very high and tapping 180 exahash per second (EH/s) this week. At the time of publication, the hashrate is around 163 EH/s.
+
+Bitcoin Mining Pool Participation Jumps by 35% in 30 Days
+
+The hashrate surge is due to the additional mining pools joining in on the fresh profits. A few weeks ago 17-18 pools pointed hashrate at the BTC chain and now there’s 22-23 pools. The top gun in the BTC mining operation business is F2pool as it has held the number one position for months on end. That’s because F2pool commands 18.92% of the network’s overall hashrate with over 28 EH/s dedicated to the BTC blockchain.
+
+Poolin follows behind with 15% of the hashrate and 23 exahash, Btc.com captures 12.1% with its 18 EH/s, and Binance Pool commands 11% of the hashrate with 17.5 EH/s. The fifth-largest BTC mining pool today is Antpool which has 8% of the network hash and 13 EH/s.
+
+Pools like Viabtc, Huobi, 1thash, Slushpool, and Lubian have around 2.4% to 7.4% of the network hashrate respectively. Following those five pools is an unknown operation, Btc.top, Spiderpool, Emcdpool, and Novablock. All of which capture around 1 to 2.4 EH/s and most of the hashrate belongs to the stealth mining operation.
+
+Bitcoin mining has always been competitive and hard, but in 2021 it has never been more difficult to secure a BTC block with 6.25 BTC and tethered fees. Nevertheless, miners continue to shatter new hashrate highs, and difficulty continues to climb because of this factor.
+
+What do you think about the Bitcoin network’s difficulty obtaining all-time highs and the challenging mining difficulty increases as well? Let us know what you think about the bitcoin mining topic in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, Btc.com, Coinwarz.com, Bitcoin.com,
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

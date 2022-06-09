@@ -1,0 +1,25 @@
+ZUG, Switzerland, Jan. 14, 2021 /PRNewswire/ -- Bitcoin Association, the Switzerland-based global industry organisation that works to advance business with the Bitcoin SV blockchain, today announces that it has awarded the Satoshi Nakamoto scholarship for a second year in 2021 to Robin Kohze, a PhD candidate in genetics at the University of Cambridge.
+
+The Satoshi Nakamoto scholarship is awarded annually to an exceptional student to support the study and development of blockchain applications that leverage the unique qualities and capabilities of Bitcoin SV. The only implementation of Bitcoin which adheres to the original protocol, design and vision for Bitcoin outlined by its creator, Satoshi Nakamoto, the Bitcoin SV network scales unbounded to support greater transaction throughput and data capacity, facilitating more efficient online payments and a powerful data network for enterprise blockchain applications.
+
+It is the second consecutive year that Kohze has been awarded the scholarship, after receiving the inaugural Satoshi Nakamoto scholarship in 2020 to support the development of the HIVE platform and protocol – a dynamic, self-growing information protocol built on the Bitcoin SV blockchain. The concept, which won Kohze a finalist position in the second Bitcoin SV Hackathon, was implemented as a working platform last year under the brand name Raspora. Kohze intends to use the 2021 award to further develop the protocol, in addition to publishing a research paper expanding on the theoretical underpinnings of the system.
+
+Kohze has played a central role in stoking a fast-growing community of Bitcoin SV developers and enthusiasts in Cambridge. He founded the Cambridge University Metanet Society, a student-led organisation offering workshops, discussion forums, hackathons, masterclasses and more, focused on stoking interest in blockchain technology and developing applications with Bitcoin SV.
+
+Speaking on today's announcement, Bitcoin Association Founding President Jimmy Nguyen, said:
+
+"Bitcoin Association are delighted to award the Satoshi Nakamoto scholarship for a second year to Robin Kohze, a promising intellectual mind at the University of Cambridge, who sees the wide-reaching capabilities of a blockchain platform allowed to scale unbounded and the ability of Bitcoin micropayments to re-invent the Internet by incentivising different behaviour for users' digital activity. I look forward to once again working alongside Robin and the wider Cambridge community to advance the Satoshi Vision for Bitcoin with Bitcoin SV."
+
+Also commenting, Robin Kohze, said:
+
+"For the past year, my focus has been advancing the biology-inspired HIVE protocol from an initial concept through to a real platform that brought the idea of dynamic, incentive-based content creation and curation to life. This year, the focus will shift towards formalising the academic component of the work, with a HIVE research publication, as well as further refinements to the platform. Ultimately, I see HIVE as an opportunity to expand the scope of micropayment-based incentive systems, to facilitate the creation of next generation Metanet platforms."
+
+About Bitcoin Association
+
+Bitcoin Association is the Switzerland-based global industry organization that works to advance business on the Bitcoin SV blockchain. It brings together essential components of the Bitcoin SV ecosystem – enterprises, start-up ventures, developers, merchants, exchanges, service providers, blockchain transaction processors (miners), and others – working alongside them, as well as in a representative capacity, to drive further use of the Bitcoin SV blockchain and uptake of the BSV digital currency.
+
+The Association works to build a regulation-friendly ecosystem that fosters lawful conduct while facilitating innovation using all aspects of Bitcoin technology. More than a digital currency and blockchain, Bitcoin is also a network protocol; just like Internet protocol, it is the foundational rule set for an entire data network. The Association supports use of the original Bitcoin protocol to operate the world's single blockchain on Bitcoin SV.
+
+Logo: https://mma.prnewswire.com/media/1218683/Bitcoin_Association_Logo.jpg
+
+SOURCE Bitcoin Association

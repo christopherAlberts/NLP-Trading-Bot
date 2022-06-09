@@ -1,0 +1,59 @@
+Things are now moving quickly in the world of cryptocurrencies and digital assets, but Australia is moving slowly and being left behind.
+
+There are two reasons some serious attention needs to be given to digital currencies and blockchain: first, they are driving a profound revolution in commerce that will be bigger than the internet itself, and second, there is going to be an almighty crash at some point as the price bubble deflates, which could have a wide impact.
+
+Bitcoin has already crashed once, in late 2017, when it went from $US18,400 ($A23,840) to $US6600 in a matter of months, but in those days it was a “small earthquake in Chile, not many dead” (to quote the Times’ sub-editor Claud Cockburn, who reputedly won a “dullest headline” competition with that effort).
+
+Now Bitcoins are about $US56,000 apiece, having peaked at about $US63,000 two weeks ago.
+
+Maybe the crash has started already, maybe not, but the reason it’s more dangerous now is not so much that the price is higher, but that leverage is building and digital assets are becoming deeply interconnected to other financial markets.
+
+Some crypto exchanges allow borrowing of up to 100 times the value of the asset, and digital assets are no longer the exclusive domain of geeks. Everyone’s into them now – they are the hottest things in town.
+
+And it’s not just about Bitcoin: The market value of the top 50 digital assets apart from Bitcoin has gone from $US100 billion to $US850 billion since the start of this year. Add Bitcoin and the market is worth well over $US2 trillion.
+
+So a crypto crash now would be more of a systemic event, like the GFC, when the global financial system was brought to its knees by US mortgages.
+
+The mortgages were fine individually; the problem was the way they were leveraged and woven into the financial system by investment banks.
+
+In one way the cryptocurrency bubble is simply an outcome of central banks growing money supply faster than GDP for more than a decade.
+
+The result has been rampant asset price inflation caused by low cost of capital and too much cash, which is also producing massive inequality as the rich get much richer and the poor do not.
+
+As well as a massive boom in tech stocks like Amazon, Facebook, Microsoft and Google, blockchain technology has created new digital avenues for speculation and wealth preservation as an alternative to central bank money.
+
+And there is the same paradox this time as happened in the 1990s, when the first tech bubble expanded and then popped: There is something very significant and lasting going on underneath it, it’s just that the price is running ahead of reality.
+
+For example, last week an Australian law firm, Piper Alderman, became the first to execute a blockchain-based payment guarantee in a contract.
+
+It used technology developed by a company called Lygon, which is backed by CBA, Westpac, ANZ, Scentre Group and IBM.
+
+All major world central banks, including the Reserve Bank of Australia, are either investigating or working on digital blockchain versions of their currencies. The People’s Bank of China is furthest advanced and is testing its CBDC (central bank digital currency) right now. The RBA is just investigating.
+
+RMIT University is working with the Queensland government to develop blockchain water rights trading, and the Australian Border Force is trialling the use of blockchain to simplify cross-border trade compliance.
+
+One of the new cryptocurrencies, called Filecoin, is being used to create a global commodity market in data storage, using tokens and blockchain to knit together millions of computers around the world with spare capacity to disrupt the data storage duopoly of Amazon and Microsoft.
+
+Whatever happens to the price of Bitcoin and the other crypto currencies, a permanent revolution is taking place that will change the world.
+
+There will no doubt end up being fewer individual cryptocurrencies than the 4500 or so there are now, but there will never be none.
+
+Bitcoin is already seen as a serious store of value to rival gold.
+
+But as Senator Andrew Bragg, chair of the ambitiously named Senate Select Committee on Australia as a Technology and Financial Centre, told a blockchain and digital currency conference last week: “The problem is that there is not a clear policy framework.”
+
+He said the driver of the problem is that blockchain is a new form of property right.
+
+“It is not, of itself, a security, a share, a bond, personal property, or a contract. It may include these aspects, it may draw upon these frameworks, but to pigeonhole it into these arenas is an ultimately futile exercise.”
+
+So Senator Bragg is calling on the government to establish a regulatory framework for it “which we can’t leave to regulators – it is not their job to make policy. That is up to us, the policy makers elected by the people”.
+
+The lack of policy means the Australian financial sector is being cut off from opportunities, with banks unwilling to provide any services to this new industry, but also it’s harder to track and prosecute any malicious use of digital assets and blockchain.
+
+Yes, there are a few other things going on at the minute – such as saving the planet and preventing mass illness and death – but Andrew Bragg is right: A taskforce needs to be set up to get moving on a legal and regulatory framework for blockchain.
+
+Australia became an internet backwater, a mere client of Silicon Valley.
+
+Does it have to be same for the next phase of the fourth industrial revolution?
+
+Alan Kohler writes twice a week for The New Daily. He is also editor in chief of Eureka Report and finance presenter on ABC news.

@@ -1,0 +1,29 @@
+Credit: Dreamstime
+
+A new emerging crypto-currency, Chia, could do to the hard drive and SSD market what more traditional crypto-currencies like Bitcoin and Ethereum have done to GPUs: spike prices and make them next-to-impossible to buy. In Asia, the trend has reportedly already begun.
+
+Chia isn’t just another knockoff crypto-currency: it’s led by the founder of BitTorrent, Bram Cohen, who is chief executive of the Chia Project. Chia began allowing Chia “farmers” to begin mining Chia coins in March, and will allow transactions of the coins themselves to begin on May 3.
+
+Traditional crypto-currencies use what’s called “proof of work” to authenticate blockchain transactions, with progressively decreasing rewards as more coins are mined. In reality, this means that crypto-currency miners have moved to CPUs to GPUs (and even specialised ASICs) to mine crypto as quickly and efficiently as possible.
+
+But because specialised ASICs are impossible for consumers to design and manufacture, demand for more available GPUs has skyrocketed, driving up prices hundreds of dollars above MSRP.
+
+Chia uses “proof of time and space” to achieve similar goals, but with storage. According to Chia, users of the Chia blockchain will “seed” unused space on their hard-disk drive or SSD by installing software which stores a collection of cryptographic numbers on the disk as “plots”.
+
+Using the Chia software, users then scan the blocks to see what hash is closest to the crypto-graphic challenge, then pass the result off to a separate server, known as a “timelord.”
+
+All this means is that Chia put your surplus storage space to work, rather than your GPU. According to the Chia.net plotting basics page, Chia farmers will want to prioritise both storage size and storage speed—which means the technology will prioritise the largest, fastest SSDs, especially those that use the NVMe interface.
+
+However, Chia doesn’t recommend running the software on your PC’s boot drive, because of the wearing effect all of the calculations will have on your PC.
+
+Instead, the reference Chia hardware posted to Github prioritises external storage above all else, with racks of traditional hard drives or SSDs stored in a NAS or other arrangement. The goal, Chia says, is to maximise the number of terabytes with minimal power consumption. A discrete GPU isn’t even listed among the suggested parts. It's tacit encouragement to snap up whatever hard drives and SSDs you can.
+
+Storage price spikes may have already begun
+
+Will hard drives and SSDs begin disappearing as more farmers begin farming Chia? Unfortunately, some reports say it’s already happening. The good news, at least for everyday users, is that Chia farmers seem to be bypassing consumer drives for enterprise-grade hardware, whose capacity and speed offer the greatest mining potential.
+
+In China, The South China Morning Post cited officials at Taobao online stores and JD.com, reporting that most enterprise-grade drives with over 8TB storage are sold out. The Post also reported that the price of a WD 12TB drive had spiked from 2,188 yuan (about $337) in February before surging on April 8 to 3,499 yuan (about $540) on JD.com, a 59-percent increase.
+
+So far, the effects haven’t been felt that profoundly in the American market. According to PCPartPicker.com, the price of SATA-connected SSDs has nearly doubled, especially in the low end. But prices of higher-end M.2 SSDs have remained relatively fixed throughout the past year. Prices of enterprise-class storage appear to be relatively stable at online stores like Amazon, too.
+
+It’s enough to make enthusiast stomachs get fluttery, though. While it’s neat for NAS racks to be used for more than just video and network back-ups, the scarcity of GPUs has thwarted PC upgrades and new builds for many. If Chia makes high-end SSDs a scarce commodity, too, PC building will become even more frustrating.

@@ -1,0 +1,233 @@
+Editor's note Be careful with cryptocurrency. Bitcoin — and the entire crypto market — is highly volatile and we do not recommend any particular cryptocurrency.
+
+For many people, Bitcoin is cryptocurrency. Ask them 'What is Bitcoin?' and you might not get the right answer — but they'd at least have heard of it.
+
+That's hardly surprising, because although Bitcoin is far from the only cryptocurrency, it was the first to be created and it remains by some distance the most famous and the most valuable.
+
+After several years of gradual, albeit turbulent growth, Bitcoin exploded into the mainstream in late 2017, when its price skyrocketed to more than $19,000 per coin… and then rapidly deflated. The so-called “Bitcoin bubble” had burst, and many people believed that it was a fad that would never regain steam.
+
+But Bitcoin kept lingering in the background, gradually regaining ground as a wider market of similar cryptocurrencies and related financial services emerged. Amidst the economic uncertainty of the COVID-19 pandemic, Bitcoin soared in price once more — and this time around, it has done a better job of holding onto that value.
+
+Meanwhile, the technology behind Bitcoin, known as blockchain, has become the financial and tech industries' new buzzword. Companies are rushing to adopt the tech to rethink classic systems and invent new ones, while investors scramble to get in on the Next Big Thing.
+
+All of that has given Bitcoin a mainstream profile it has never before enjoyed — and attracted many potential investors who would never have dreamed of buying into crypto a year or two back.
+
+If that describes you, then be careful. Though Bitcoin and other top cryptocurrencies have seen dramatic gains in value in recent months, the market remains highly volatile. Bitcoin investing is not for the faint of heart and we're not here to tell you whether to invest in it — or in any cryptocurrency.
+
+Instead, this piece is a guide to help you better understand Bitcoin, both its benefits and its risks.
+
+Bitcoin's slight recovery after the crypto crash of last month appears to have stalled: as of June 1, the coin's value is down by around 1.5% in the past 24 hours and 4% in the past week.
+
+Bitcoin expert Nikolaos Panigirtzoglou of J.P. Morgan warned that the cryptocurrency could still fall further.
+
+Bitcoin may soon be available to purchase from hundreds of U.S. banks via a partnership between NYDIG and fintech firm Fidelity.
+
+What is Bitcoin?
+
+Bitcoin is a decentralized, digital-only currency. Rather than having a central monetary authority, a peer-to-peer computer network keeps track of Bitcoin transactions and creates additional bitcoins through a process called "mining."
+
+Bitcoin users and their transactions are pseudonymous; there are no international exchange rates to figure out, and there's no need for middlemen to collect fees.
+
+Bitcoin was created in 2009, in the wake of the near-collapse of the global financial establishment. It happened soon after an individual or group using the name "Satoshi Nakamoto" posted a paper online discussing the idea of a decentralized digital currency free from interference by governments and financial institutions. Nakamoto created the online bookkeeping system to record and track Bitcoin transactions and mined the first bitcoins.
+
+The software to create, track, hold and exchange bitcoins is open-source, so it can be used for free.
+
+Bitcoin price: What is the current Bitcoin value?
+
+As of this writing, the price of a single Bitcoin (BTC) is approximately $35,910. You can check the current market price at coin tracking platform CoinMarketCap.
+
+When Bitcoin was first released in 2009, one BTC wasn't worth much: a single U.S. dollar could buy more than 1,300 of them. By April 2013, international speculation boosted the price of a single Bitcoin to $260, although the coin’s famous volatility reared its head, and the price plummeted back down to about $50 later that month.
+
+Momentum began building gradually again, with the price trading between $200 and $400 across most of 2015 before growing from mid-2016 on. It increased rapidly over the following 18 months to peak at about $19,000 in mid-December 2017, amidst a groundswell of mainstream attention.
+
+Bitcoin’s price crashed soon thereafter, as the market was not ready to support such wildly speculative prices. But it didn’t go away. Bitcoin enthusiasts continued to “HODL” (hold on for dear life) in the hopes that their digital coins would again prove immensely valuable, and the wider cryptocurrency market grew.
+
+(Image credit: CoinMarketCap)
+
+Finally, amidst the COVID-19 pandemic in 2020, demand for Bitcoin skyrocketed once more. The price climbed quickly in the late months of the year, nearly hitting $30,000, and then blasted off in early 2021, setting an all-time high above $64,800 in April 2021.
+
+However, its value has declined significantly since then due in part to unease over the environmental impact of mining, impending Chinese regulation, and more. The price dipped to around $32,500 in late May, down nearly 50% from that all-time high, but has started rebounding as of this writing and is currently at around $36,000.
+
+Bitcoin’s constant price fluctuations are due, in part, to its capped amount of 21 million individual bitcoins and to its perceived value on the market.
+
+How do you buy bitcoin?
+
+Anyone can buy Bitcoin — although as we said above, you should be wary of doing so. Many people purchase it through an exchange, such as Coinbase or Binance, which will hold your coins within your account on the service; you can also move your holdings to an external wallet, if you please. Cash App, Venmo, and Robinhood are also popular ways to buy Bitcoin, although note that as of this writing, Robinhood does not let you spend Bitcoin or transfer it to an external wallet.
+
+If you want to control your own Bitcoin and cryptocurrency holdings, then you’ll need to set up a Bitcoin wallet, typically on your computer or mobile device. Some of the most popular wallet services are Trust Wallet, Mycelium, and Electrum. Most wallet services will walk you through the process of setting up your wallet. More on this below.
+
+Centralized exchanges such as Coinbase and Binance require personal information to register your account so that you can buy Bitcoin, and will verify your identity using a driver’s license, passport or similar. You'll also need to share your bank account information. Note also that many credit card issuers in the U.S. and U.K. will not let you use a credit card to buy cryptocurrency.
+
+(Image credit: GDAX.com)
+
+Another way to buy Bitcoin is through a decentralized exchange such as Uniswap or PancakeSwap. These are funded by liquidity from the community and run on automated “smart contracts,” and they don't require personal identifying information or even an account. That said, they also don't let you use fiat currency (like U.S. dollars) from a bank account or debit card — so you will already need to own cryptocurrency acquired from another exchange or wallet.
+
+It's worth noting that you don't need to buy or transact an entire Bitcoin — pretty important, given not only the surging price but also the limited number of Bitcoins that will ever be mined. There are 100 million satoshis (or sats) within a single Bitcoin, and smaller-value transactions are sometimes handled in satoshis as a result. It’s also possible to buy, say, $20 worth of Bitcoin at an exchange and get a tiny fraction of a single Bitcoin in your wallet.
+
+Is Bitcoin a bubble?
+
+Bitcoin may seem like a great investment opportunity, but its bubble has burst once before and may do so again. Bitcoin proponents see it and other cryptocurrencies as the future of currency and trading, and point to the rise in public interest in Bitcoin — and its gradual acceptance by mainstream financial firms — as evidence of Bitcoin's inevitability.
+
+However, many investors believe that Bitcoin is still an unknown quantity. Its exchange rates are extremely volatile, and we don't know if a one-day drop will turn into a permanent crash. While the price has risen significantly so far in 2021, it has also experienced such a severe drop that its value was nearly halved within a month of setting an all-time high price.
+
+Bitcoin investing is, therefore, a risk. If you've been drawn in by the promise of untold riches, then think again: there's absolutely no guarantee on this front.
+
+What is Bitcoin mining?
+
+Bitcoins can be purchased using real money, but they can also be generated or "mined." Users generate Bitcoins by having their computers solve difficult mathematical algorithms that help verify the creation of new Bitcoins in the blockchain — the encrypted ledger that records and registers all Bitcoin activity — and the transfer of Bitcoins between users. The algorithms become progressively more difficult over time.
+
+Blockchain node operators keep track of all transactions and broadcast new transactions across the host network, incrementally adding to the blockchain. Computers that are participating in the network communicate and agree on updates to the blockchain.
+
+About every 10 minutes, a miner whose blockchain updates have been approved and packaged into a block earns 6.25 bitcoins. When Bitcoin first came into being, the reward was 50 bitcoins, but the reward amount halves with every 210,000 blocks registered, equivalent to about four years. The last “halving” took place in May 2020.
+
+The total number of Bitcoins that can ever be mined is 21 million. The cap prevents anyone from flooding the market and devaluing the Bitcoins already in circulation.
+
+According to Blockchain.com, which provides real-time updates on Bitcoin, there are just over 18.7 million coins in existence as of this writing, or about 89% of the total number possible. The last-ever Bitcoin is expected to be mined in 2040, based on projected network activity.
+
+Mining Bitcoin can be lucrative, but it requires upfront investment in robust computer hardware and is not easy to accomplish. Gone are the days when you could use any old computer to get a piece of the action.
+
+Some Bitcoin miners rig up chains of high-end graphics cards normally used for computer gaming, but perhaps the most successful current method is to use a Bitcoin-mining application-specific integrated circuit (ASIC), which is a generic term for a computer chip designed for a specific purpose. (The "system on a chip" in your smartphone is another type of ASIC.)
+
+(Image credit: Bitcoin miners. Credit: Bitcoin.com)
+
+Each mining ASIC is measured by its power efficiency and price per computation. Mining ASICs typically cost thousands of dollars per unit, and tend to get snapped up by mining farm businesses. Higher-end models will generate bitcoins more rapidly.
+
+Energy usage has become a major issue in Bitcoin mining. According to the cryptocurrency website Digiconomist, the electricity used by the entire Bitcoin global mining apparatus is equivalent to the carbon footprint of Libya.
+
+Once you have the hardware to mine Bitcoin, it is typically most efficient to join a Bitcoin mining pool, in which a group works together to solve a block. You can work alone, but it will take longer and be less rewarding. To be awarded Bitcoins, miners must be able to verify 1MB of transactions and be the first to compute a 64-digit hexadecimal number. Working in a pool increases the possibilities of receiving an award, even if it is shared.
+
+For beginners or those who see mining as a hobby, it may be more worthwhile to mine for other cryptocurrencies that have lower hardware requirements than those for mining Bitcoin.
+
+What can you buy with Bitcoin?
+
+Spending Bitcoin isn’t quite as easy as buying the cryptocurrency, but we have seen wider adoption over the years. Often, Bitcoin holders don’t want to spend their BTC given the perceived potential for future gains, but some enterprising individuals that want to fully live the crypto lifestyle and avoid fiat currency altogether have done their best to spend only crypto.
+
+Some companies, such as online retailer Overstock and travel site Expedia , accept Bitcoin directly. VPN services like NordVPN and ExpressVPN also accept Bitcoin, as does coworking service WeWork , and you can even buy a private jet with Bitcoin via Aviatrade . And the number of retailers accepting Bitcoin has recently expanded thanks to PayPal, which now allows U.S. users to spend cryptocurrency at its retail partners around the world.
+
+One thing you cannot buy right now with Bitcoin is a Tesla electric car. You could have done so earlier in 2021, but in May, the Elon Musk-headed firm changed course , suggesting that the environmental impact of Bitcoin mining led to its decision. Tesla, which had purchased $1.5 billion worth of Bitcoin to hold on its balance sheet in early 2021, says that it will resume transacting Bitcoin when more miners embrace renewable energy sources.
+
+Is using Bitcoin legal?
+
+Bitcoins aren't regulated by any government, which raises questions about their legality.
+
+In the United States, Bitcoin use is legal because it isn't a physical form of currency like the dollar. Were the currency to be given a physical form, like a silver dollar, the creators would be held guilty of "making, processing and selling" their own currency. Bitcoins are legal but regulated in Canada and Mexico, and legal in most of Europe as well as New Zealand and Australia.
+
+In China, it is legal for private citizens to hold Bitcoin, but since 2014, it has not been legal for financial firms to do so. Bitcoin exchanges were banned in 2017, and the Chinese domestic currency, the yuan or renminbi, can't be used to add or withdraw funds from a Bitcoin account. In early February 2018, China said it would block access to overseas Bitcoin exchanges from within the country.
+
+Chinese regulators have increased their scrutiny of Bitcoin since, and in May 2021 banned banks and other financial institutions from offering cryptocurrency-related services. As a result, some firms have also announced plans to stop mining cryptocurrency in the country, as well as to halt the sale of mining rigs to consumers.
+
+(Image credit: Shutterstock)
+
+There’s speculation so far in 2021 that India may ban cryptocurrencies, with a senior government official telling Reuters that the country’s proposed plan would penalize miners and traders. India is reportedly looking to launch its own digital, national currency instead.
+
+According to SpendMeNot, Bitcoin is currently outright illegal in several countries around the world, including Bolivia, North Macedonia, Algeria, Egypt, and Morocco.
+
+Is using Bitcoin anonymous?
+
+Using Bitcoin is not 100% anonymous; rather, it is pseudonymous, as users can employ whatever names and handles they want. But because of the fixed and transparent nature of the blockchain accounting system, all transactions involving Bitcoin are public, and anyone can see how many bitcoins are in a given wallet.
+
+Bitcoin "ATMs," which trade cash for Bitcoins or vice versa, allow for additional anonymity. You could also use multiple wallets or mix Bitcoin services to obscure the digital paper trail, and there are other practices for hiding identity. But in the end, nothing is foolproof. There are analytics firms and services devoted to linking Bitcoin wallets to suspected criminals, and government agencies have stepped up their use of such tools and services.
+
+What is a blockchain?
+
+The blockchain is the distributed digital ledger that documents all Bitcoin transactions, and is Bitcoin creator Satoshi Nakamoto's primary technological innovation. It is the only place where Bitcoins "exist." Several times every hour, new batches of Bitcoin transactions called "blocks" are registered and transmitted over the internet to all hosts of the Bitcoin blockchain. As of this writing, there are nearly 10,000 active Bitcoin nodes all around the world.
+
+Whenever a block is completed, it is added to the chain, creating a permanent and unalterable record. Each new block is cryptographically linked to the previous block, and changing any recorded block would create a mathematical ripple effect that would be immediately visible to all blockchain hosts. Because of this, the blockchain acts as its own ledger, similar to a bookkeeping ledger.
+
+Because the blocks can't be altered in any way, users can validate cryptocurrency transactions without need of a third party or outside-storage source. The blockchain prevents a single unit of Bitcoin from being used in two different transactions at the same time. It also allows users to remain relatively anonymous, although Bitcoin addresses are permanent.
+
+Because it is decentralized and easily verifiable, blockchain technology can be used for other purposes — for instance, it could be used to share sensitive databases, such as gun registries or medical records, on a large scale. It could also provide a more secure way for traditional financial institutions to operate. Some blockchain advocates suggest that the technology could enable secure online voting and protect the copyrights of digital music or books.
+
+What are Bitcoin wallets?
+
+Bitcoin transactions are processed through a Bitcoin wallet, an application that users download and install on their computers or smartphones. A purchaser or seller is identified only by his or her digital wallet's "address," a unique string of letters and numbers with a private "key" (another numeric string), which only the wallet holder has.
+
+The best crypto wallets can be set up for free and with relative ease, meaning consumers can open and close wallets at will to maintain their anonymity. One person can have multiple wallets, and multiple individuals can control a single wallet.
+
+There are several types of Bitcoin wallets to choose from, each with its own set of pros and cons. The options include:
+
+Hardware wallets: This kind of wallet is an external device specifically designed to hold and manage Bitcoins. No transaction can take place unless the hardware wallet is connected to a computer or mobile device, and access to the Bitcoins held within is often protected with a PIN code. Hardware wallets are considered the most secure type of Bitcoin wallets, as they are “cold storage” when not connected to a computer. However, unlike software wallets, they're not free.
+
+(Image credit: Shutterstock)
+
+Desktop wallets: Software is downloaded directly to the computer, giving users full control and responsibility.
+
+Because the Bitcoin address is kept on the computer's storage, no one else has access to it. However, the user must ensure that there is a backup of the drive and must have a security system installed to prevent theft of the Bitcoin data. If the desktop wallet is corrupted in some way, any Bitcoins stored there are deleted and irretrievable.
+
+Desktop wallets come as either full-size clients or light clients. Full-size clients allow the user to host and read a copy of the entire Bitcoin blockchain, which is almost 350GB today. Light clients simply provide Bitcoin storage and require external sources to read the blockchain.
+
+Mobile wallets: These wallets are accessed through an app on your smartphone or tablet. They can be easy to use, offering touch-screen controls and the ability to scan QR-coded Bitcoin addresses, but mobile wallets can access only a small portion of the entire Bitcoin blockchain and so are considered light clients.
+
+Online wallets: Web-based wallets allow you to manage bitcoins through your browser. These wallets are convenient because they can be accessed at any time, and anywhere. You can't accidentally delete them, and you don't have the responsibility of backing up your holdings.
+
+However, third parties usually manage online wallets, and this involves high levels of trust and means that you have to rely on someone else to handle the security. The companies that manage online wallets often also act as Bitcoin brokers, or exchanges, which make money by taking a cut of every transaction they manage.
+
+Paper wallets: Bitcoin address keys and QR codes are printed on paper or some other medium. You don't have to worry about cyberattacks stealing the information, because nothing is stored digitally, but if the paper is lost or destroyed, access to the bitcoins is gone forever.
+
+What is a Bitcoin address?
+
+Your Bitcoin address works much like a bank account number. It is a unique combination of letters and numbers, ranging from 26 to 35 characters, that is used to send and receive Bitcoins and is connected to your Bitcoin wallet. Most users have multiple addresses tied to a single pseudonym. The "key" to the Bitcoin address is cryptographically linked to the address, and only the holder of the address should have that key.
+
+What are Bitcoin forks?
+
+Because there are so many players involved in mining and using Bitcoin, there can be disagreement about common rules. This has led to forks: technical actions that have separated the blockchain into new paths.
+
+There are now more than 100 Bitcoin forks , most of which are still considered active. The best-known forks are Bitcoin Cash, Bitcoin Gold, and Bitcoin Satoshi Vision (SV).
+
+Bitcoin Cash was introduced in the summer of 2017, when miners wanted to move bigger blocks of memory in the blockchain. While Bitcoin moves at 1MB per block, Bitcoin Cash moves at 8MB. This allows for an increase in the rate of transactions in the ledger. The Bitcoin Gold fork occurred in the fall of 2017 and was meant to make it easier to mine money once again. Bitcoin SV was forked from Bitcoin Cash a year later and is said to be more in line with creator Satoshi Nakamoto’s original vision for the cryptocurrency.
+
+What's the link between Bitcoin and crime?
+
+Bitcoin is often the currency of choice in cybercrime transactions, including the selling of goods such as drugs, guns, child pornography, malware, and phony antivirus software, as well as the selling of services such as botnet rentals and the payment of ransomware ransoms. Some experts believe the growth of Bitcoin and the parallel growth of ransomware are directly related.
+
+Ransomware and scareware existed before cryptocurrency, of course, but the introduction of Bitcoin has made it more difficult for authorities to follow the thread of payments back to real-life accounts. That said, there are other coins (such as Monero) that are even more difficult to trace and have become popular for ransomware attacks.
+
+Cybercriminals know that their targets are becoming savvier about ransomware and that they're increasingly taking steps to avoid paying the Bitcoin ransom to retrieve their data.
+
+Unsurprisingly, criminals have reacted to this by discovering new ways to "earn" bitcoins — for instance infecting websites and online ads with malware that turns the computers of visiting browsers into cryptocurrency-mining machines.
+
+Administrators of some websites are also doing this directly to create an additional revenue stream, and it's not clear whether it is illegal to do so without informing site visitors.
+
+What's the deal with attacks on Bitcoin exchanges?
+
+Criminals have set their sights on Bitcoins and have attacked Bitcoin exchanges over the years. Arguably the best-known attack was the one on the Mt. Gox exchange, until then the world's largest Bitcoin exchange, in 2014.
+
+The exchange suffered a series of DDoS attacks in February of that year, causing lags in trading and locking users out of their accounts. Shortly afterwards, Mt. Gox discovered that thieves had stolen some $450 million in Bitcoin from the exchange. Some of the money had been skimmed off over the previous three years; another chunk was stolen during the DDoS attacks. By the end of that month, the CEO had shut down the exchange site and declared bankruptcy.
+
+Cyberattacks on Bitcoin exchanges are becoming more common, especially as the currency increases in value. Phishing attacks to steal user or administrator passwords are the most common attack vector, but cybercriminals are also going after mobile wallets and targeting weaknesses in the blockchain. Malware written for Windows and Mac also looks for and steals Bitcoins from infected computers.
+
+Because of the nature of the currency, once a Bitcoin is stolen, it's nearly impossible to recover.
+
+What other cryptocurrencies compete with Bitcoin?
+
+(Image credit: Shutterstock)
+
+Bitcoin is the best-known cryptocurrency, but it is not the only one. In fact, CoinGecko tracks some 7,500 different coins, with more sprouting up each and every day. Here are some of the popular coins that have sprouted up in the wake of Bitcoin’s success.
+
+Ethereum (ETH) is a software platform and programming language that runs on its own blockchain and is traded as a digital currency commodity. Ethereum is the second most valuable cryptocurrency by market cap, and the platform is used to deploy automated “smart contracts” for decentralized finance (DeFi) apps and other services.
+
+Binance Coin (BNB) is the official coin of popular cryptocurrency exchange Binance, and has grown significantly in value in 2021 as the firm’s Binance Smart Chain platform gains more developers and users. Binance uses a share of its quarterly profits to buy up BNB and “burn” or destroy it, which consistently boosts the value of the remaining coins.
+
+Litecoin (LTC) is a peer-to-peer, open-source currency that is fully decentralized. Litecoin is mathematically very similar to Bitcoin, but features faster transaction-confirmation times.
+
+Dogecoin (DOGE) is inspired by a meme and was launched as a joke cryptocurrency, but it has exploded in value so far in 2021 after hovering below $0.01 for years. Elon Musk and Mark Cuban are amongst DOGE’s highest-profile fans.
+
+Ripple (XRP) is a nearly-instant and low-cost international payment service, but it uses its own cryptocurrency called XRP, which doesn't require mining.
+
+Monero (XMR) claims to be truly anonymous by hiding the addresses used in each transaction. As such, it has become a cryptocurrency of choice for criminal activity. For a time, many cryptocurrency miners surreptitiously embedded into websites mined Monero.
+
+Who is Bitcoin creator Satoshi Nakamoto?
+
+The true identity of Bitcoin's creator is a mystery. Some conspiracy theorists think the U.S. National Security Agency has figured out Nakamoto's identity , or that the CIA created Bitcoin.
+
+Nakamoto might have been Hal Finney, a California computer scientist who was the first person to receive a Bitcoin payment from Nakamoto. Finney always denied that he was Nakamoto, and he died in 2014.
+
+Another leading suspect is Nick Szabo, a computer specialist based in Washington state who worked on the theories of cryptocurrencies years before Bitcoin was unveiled. One analysis of Szabo's and Nakamoto's writing styles concluded they were "probably" the same individual, but Szabo has denied it.
+
+In 2014, Newsweek magazine claimed that a Japanese-American computer specialist named Dorian Nakamoto was the Bitcoin creator. Dorian Nakamoto quickly denied it. In 2016, Australian entrepreneur Craig Wright announced that he was Satoshi Nakamoto. Several experts said Wright's cryptographic "proof" was unconvincing, but he has continued to claim that he is indeed the real Satoshi, even suing some high-profile critics .
+
+Despite the Japanese name, Satoshi Nakamoto wrote in fluent, North American-tinged English , and most of his emails and forum postings were time-stamped during working hours in the Western Hemisphere.
+
+If Satoshi Nakamoto is a single individual, he or she is worth a fortune. Bitcoin addresses controlled by Satoshi Nakamoto hold nearly 1 million Bitcoin, worth about $39 billion at current exchange rates.
+
+About the author Andrew Hayward is a writer and editor based in Chicago. His work covering tech, crypto, games, and esports has appeared in more than 100 publications around the world, including Polygon, Rolling Stone, Decrypt, and Stuff. He has covered cryptocurrency extensively since 2019, including coins, crypto games, and NFTs, and interviewed many creators and prominent figures in the space. He has also personally invested in several coins and currently holds less than 1 BTC, 2 ETH, and 700 ADA, along with smaller amounts of other coins. View all articles by Andrew here.

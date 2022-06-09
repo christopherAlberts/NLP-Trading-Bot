@@ -1,0 +1,65 @@
+Bitcoin Energy Consumption Is Far More Efficient and Greener Than Today's Banking System
+
+While bitcoin and a variety of digital currencies have swelled in value, a number of critics have spread fear, uncertainty, and doubt (FUD) in regard to the energy consumption proof-of-work (PoW) cryptocurrencies leverage to produce new units of currency. Just recently the software engineer Stephen Diehl expressed his dissatisfaction over the environmental cost of bitcoin. However, cryptocurrency supporters believe Diehl failed to mention the amount of renewable energy used by a great number of mining facilities, alongside the insurmountable cost to operate today’s banking system.
+
+Bitcoin’s Waste of Energy Argument Is a Fool’s Errand
+
+The latest hot topic within the cryptocurrency industry is the topic of Bitcoin’s proof-of-work (PoW) energy consumption, and whether or not the consumption is efficient. The conversation was sparked by a number of articles published during the last year, alongside software engineer Stephen Diehl’s recent critique of the network’s power consumption.
+
+Besides the fact that Diehl considers the crypto asset to be “a giant smoldering Chernobyl,” he also said that “bitcoin economics [is] a pyramid-shaped investment scheme backed by the collective delusion that value can [be] created out of nothing by convincing greater fools to buy it after you do.”
+
+Diehl’s criticism toward Bitcoin’s energy consumption is filled with obvious fallacies, but he also doesn’t realize how Satoshi’s cryptocurrency network is more energy-efficient than most think. Diehl and many others, also fail to recognize the cost to maintain today’s banking system, which consists of a great number of terawatts dedicated to servers, branches, and automated teller machines.
+
+1/ Bitcoin’s energy consumption is not “wasteful.” – It is much more efficient than existing financial systems
+
+– No one has the moral authority to tell you what is a good or bad use of energy (ex: watching the Kardashians) Let's debunk this FUD👇 — Dan Held (@danheld) January 18, 2021
+
+Bitcoin Electricity Consumption Index Discrepancies
+
+Most of the consumption data stemming from the BTC network is derived from the Cambridge Bitcoin Electricity Consumption Index (CBECI). Interestingly enough analysts and mainstream media reporters also reference the digiconomist.net bitcoin energy consumption index as well. Unfortunately, both CBECI and digiconomist.net’s annualized consumption of terawatt per hour (TWh) data has a very large discrepancy.
+
+The digiconomist.net stats show the BTC network captures 77.78 TWh, while CBECI indicates the network is 111.08 TWh. That is a huge variance (44% difference) when attempting to estimate the data consumption of the crypto asset’s network. Yet, these are the most leveraged sources used by bitcoin naysayers who say BTC’s electrical consumption is a ‘waste’ without any shame.
+
+Further, we don’t even know how accurate the CBECI data is because a team member from the Cambridge Centre for Alternative Finance (CCAF) recently explained to news.Bitcoin.com that the CBECI map is not up-to-date and will be updated in 2021. This has led to numerous reports stating that China captures 65% of the Bitcoin mining hashrate, which may be entirely inaccurate. In July 2020, a hashrate report written by Bitooda said China was steadily losing its concentration of bitcoin hashpower and the country dropped to 50%.
+
+It is far more likely, that CBECI’s theoretical lower bound estimate for the BTC network’s energy consumption is more accurate. This theoretical lower bound estimate is around 4.6 gigawatts or 39.3 TWh annualized on January 19, 2021. Moreover, there are countless rebuttals and data points that show people complaining about Bitcoin’s energy consumption are overreacting.
+
+we had the exact same debates about the perceived 'costliness' of the gold standard I would direct the energy crew to go read those rebuttals instead of boring us with 100 yr-old arguments — nic carter (@nic__carter) January 18, 2021
+
+Studies Show Over 75% of Cryptocurrency Miners Leverage Renewable Energy Sources
+
+For instance, the anti-bitcoin environmentalists do not weigh the fact that much of the PoW mining industry uses renewable energy sources like hydropower, wind, solar, and geothermal energy. There are a number of reports that show over 70% of crypto miners use a mix of renewable energy to power facilities across the world. There is also abundant efforts dedicated to energy cogeneration as well.
+
+The 2020 third Global Cryptoasset Benchmarking Study by the University of Cambridge also indicates that 76% of digital currency miners use renewable power sources. Backing up this data is a report from Deutsche Bank Research, the Chinese National Energy Agency, Morgan Stanley, and Coinshares. The report from these four organizations highlights that “78% of Bitcoin’s electricity usage is from renewables.”
+
+There are countless reminders and real-world examples of bitcoin miners using a far more efficient means of electric use than all of the financial systems on the planet. Two years ago, Bill Tai, an investor and board director of Bitfury, detailed that Satoshi is smiling because of the green energy use bitcoin miners use today.
+
+“It’s been clear to me for years now, that mining of Bitcoin and other ‘proof-of-work’ based cryptocurrencies are driving positive change in the underlying infrastructure of energy production — at an accelerating rate,” Tai explained at the time. The investor is also the chairman of Hut8’s board and he said the company has a “policy to ‘be green’ as we build.” Tai detailed that the most efficient sources of electrical power are not fossil fuel-based in order to scale, but the marginal costs of water, solar, and wind-based energy, Tai stressed.
+
+Delivery Trucks, Servers, Branches, ATMs, and the Insurmountable Cost of the Modern Banking System
+
+Then ultimately there’s the cost of the modern banking system, something that bitcoin naysayers never account for when they criticize the crypto’s energy consumption. There is a great number of articles and statistics that indicate the current banking system uses well over 140 TWh a year. In one study, Katrina Kelly-Pitou, a researcher who “studies clean energy technology, specifically the transition toward decarbonized energy systems” says the energy conversation surrounding bitcoin is “oversimplified.”
+
+Furthermore, the researcher stressed that “Bitcoin’s energy consumption isn’t as bad as you think.” Then the Hacker Noon contributor, Carlos Domingo, called the comparison of bitcoin’s electrical usage to Visa’s a complete “fallacy.”
+
+Domingo said:
+
+Stop complaining about Bitcoin and start complaining about Xmas lights.
+
+Despite the Fact That ‘the Cost of Bitcoin Mining Has Never Really Increased,’ Cancel Culture Pundits Want to ‘Criminalize Bitcoin’
+
+This past October, the researchers Yo-Der Song and Tomaso Aste, published a report which highlights that the cost of bitcoin mining “has never really increased.” In the paper, Aste and Song detail that the Bitcoin network consumes a lot of energy, but the researchers still manage to estimate the “lower bound for the global mining energy cost for a period of 10 years from 2010 to 2020.”
+
+“Despite a 10-billion-fold increase in hashing activity and a 10-million-fold increase in total energy consumption, we find the cost relative to the volume of transactions has not increased nor decreased since 2010,” the paper notes.
+
+The researchers add:
+
+This is consistent with the perspective that, in order to keep the Blockchain system secure from double-spending attacks, the proof of work must cost a sizable fraction of the value that can be transferred through the network. We estimate that in the Bitcoin network this fraction is of the order of 1%.
+
+It is clear that the bitcoin mining industry is not as wasteful as the current banking system filled with not only servers, ATMs, and branches, but it is also free of rampant fraud and manipulation as well. Despite this, members of today’s woke crowd and cancel culture want to “criminalize bitcoin,” because it is allegedly “grotesquely damaging to the environment.” As usual, these critics are filled with emotional opinions and weak virtue signals, without a whole lot of facts to back them up.
+
+What do you think about the recent critique toward Bitcoin’s energy consumption? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, Twitter, Coinshares, digiconomist.net, CBECI, Medium,
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

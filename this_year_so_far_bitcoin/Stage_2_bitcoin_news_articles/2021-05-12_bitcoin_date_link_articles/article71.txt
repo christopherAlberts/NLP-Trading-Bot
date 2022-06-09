@@ -1,0 +1,27 @@
+Cybersecurity Firm Spots a Crypto Stealer Distributed Through a Massive Email Spam Campaign and Discord Channels
+
+A crypto stealer seems to have spread through a massive spam campaign across several countries, including the United States, Australia, Japan, and Germany. The malware dubbed “Panda Stealer” has been spotted by a cybersecurity company. It is reportedly also distributed on Discord channels.
+
+Malware Can Also Steal Data From Telegram and Discord Apps
+
+According to the report published by Trend Micro, the stealer is a variant of another malware named “Collector Stealer,” which utilizes the same algorithms to bypass most detection tools. The malware is contained within a malicious Excel file in a .xlsm format.
+
+Once the victim executes a series of Powershell scripts in the infected document, Panda Stealer deploys its malicious processes. It collects sensitive crypto-related data, including private keys and records of past transactions performed with wallets from virtual currencies like dash (DASH), litecoin (LTC), ethereum (ETH).
+
+Researchers from Trend Micro provided further technical details on the malware’s similarities with other ones:
+
+Panda Stealer was found to be a variant of Collector Stealer, which has been sold on some underground forums and a Telegram channel. Collector Stealer has since been cracked by a Russian threat actor called NCP, also known as su1c1de. (…) Like Panda Stealer, Collector Stealer exfiltrates information like cookies, login data, and web data from a compromised computer, storing them in an SQLite3 database. It also covers its tracks by deleting its stolen files and activity logs after its execution.
+
+But the stealer is not limited to catching digital asset-related data from victims. In fact, the study revealed that it has the technical capabilities to steal credentials from Telegram, Nordvpn, and Discord, among others.
+
+Moreover, Panda Stealer can take screenshots from the users’ computers and catch encrypted data in browsers, such as credit card information.
+
+Recent Crypto Malware Stealers Spotted
+
+Bitcoin.com News has reported the surge of crypto-malware over the past few months. Recently, a cryptocurrency-related malware program named “Westeal” has been advertised on darknet forums as the “leading way to make money in 2021,” raising alarms among the cybersecurity community.
+
+The system has the resources to steal bitcoin (BTC) and ethereum, but the malicious code works under a subscription model.
+
+What do you think about the study revealed by the cybersecurity firm? Let us know in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons

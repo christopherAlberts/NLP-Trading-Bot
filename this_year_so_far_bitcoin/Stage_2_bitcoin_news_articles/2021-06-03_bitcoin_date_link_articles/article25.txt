@@ -1,0 +1,59 @@
+Distributed Ledger Technology (DLT) may be the next phase of the digital revolution. Tech entrepreneur Rick Falkvinge boldly predicts that “Bitcoin will do to banks what email did to the postal industry.” There’s keen interest in cryptocurrency, and banks need to plan whether and to what extent they will participate. Confusion often surrounds the language of DLT, cryptocurrencies and how they interrelate. This blog explores the lexicon of virtual currencies and what they may mean for banks.
+
+The Rise and Fall and Rise of Bitcoin
+
+Cryptocurrencies – such as Bitcoin, Ethereum, Dogecoin and others – have recently surged to highs that few investors could have predicted. In the last year, the total global value of the cryptocurrency market increased by USD $260 billion to more than $2 trillion.* However, cryptocurrency is highly volatile due to a combination of factors. Because it is not dynamically managed by governments, the price of digital assets such as Bitcoin can move quickly and dramatically – a Tweet from Elon Musk has been known to change the price up or down by 20% in a day.
+
+For some time, large banks have bought Bitcoin as an investment. JPMorgan Chase will soon launch an actively managed Bitcoin fund to broaden ownership. Some community bankers are embracing Bitcoin as an investment opportunity for accountholders. Innovative fintech solutions enable participating banks to offer their customers the ability to buy, sell, and hold Bitcoin via their bank accounts.
+
+Alongside growing acceptance and bullishness, there’s also confusion and trepidation. To help create some clarity, let’s take a look at cryptocurrencies and their relationship with distributed ledger technology. Although related, these terms are not synonymous.
+
+Cryptocurrencies – Fad or Future?
+
+Cryptocurrency is a digital (or virtual) currency that is secured by cryptography, making it impossible to forge or double spend. As a digital asset distributed across numerous computers, cryptocurrency serves many traditional functions of money: as a medium of exchange, a means of deferred payment and a store of value.
+
+However, cryptocurrency still fails to meet one essential characteristic of money, that of universal acceptance. Although accepted as payment by some businesses, no cryptocurrency has gained universal acceptability. Some big-name businesses have wavered – for example in March Tesla announced it would accept Bitcoin for payment, but suspended the decision in May, citing environmental concerns related to Bitcoin.**
+
+Another differentiator from traditional money is that cryptocurrencies are not issued by a monetary authority. They are in effect “private” money. The independent nature of cryptocurrency is neither good nor bad in itself, but it has consequences. Cryptocurrencies cannot be manipulated or debased by government policy. The price of a cryptocurrency is determined solely by supply and demand and is not pegged to anything. While most major currencies are freely traded, some are effectively tied to an underlying commodity, such as oil, and many are related to each other.
+
+An economist might describe the trading of cryptocurrencies as a “perfect market” where the price of the currency reflects all that’s known about it by all participants; a doubter may question how much the participants know… But, in any case, cryptocurrencies enable funds transfers – currently in the trillions of dollars – without requiring a trusted third party such as banks, exchanges, and other traditional intermediaries. This clearly has consequences for banks to consider as the develop and refine their digital transformation strategies.
+
+Crypto Players
+
+As of May 2021 the Top 10 cryptocurrencies by value are Bitcoin (BTC), Ethereum (ETH), Tether (USDT), BinanceCoin (BNB), Cardano (ADA), XRP/Ripple (XRP), Dogecoin (DOGE), Polkadot (DOT), USD Coin (USDC), and Internet Computer (ICP).
+
+Blockchain and DLT
+
+In practice, banks and other financial intermediaries are holding cryptocurrency as an investment rather than a means of payment. Perhaps of greater interest to banks is the underlying technology – specifically blockchain and DLT.
+
+Blockchain and DLT are both digitalized and decentralized books of record. With a shared conceptual origin, they’re often confused but really quite different. Blockchain is a type of database, one which stores data in blocks that are chained together in chronological order. Blockchain is a type of Digital Ledger Transfer (DLT) – but just as a swan is a type of bird, not all birds are swans, and it’s important to understand the taxonomy.
+
+In simple terms, DLT is a decentralized database that’s collectively managed by its participants. The important takeaway is that there’s no central authority involved. DLT offers a unique, totally transparent way of conducting peer-to-peer transactions. Because the ledger is distributed, it is far more difficult (but not impossible) to commit fraud or to hack the system.
+
+DLT has transformative potential in the financial market where vast amounts of data are exchanged. In a regulated market, compliance can be built in and trust assured without a detailed knowledge of counterparties. DLT’s attributes can empower market participants to reduce costs, boost efficiency and onboard new counterparties more quickly.
+
+Use cases for DLT in finance include:
+
+Identity services. The immutability of a distributed ledger provides a new level of security. All banks know how challenging it is to establish a single customer view across different jurisdictions and business lines. With mutualized data management, DLT allows permitted parties to share data securely and in real time, which could address the twin challenges of Know Your Customer (KYC) and Anti Money Laundering (AML).
+
+Lending and trade finance. Some banks have formed syndicates to apply the power of DLT to syndicated lending. Lending can take place with fewer intermediaries, and business processes are streamlined. Efficiency can be further boosted with smart contracts, which go beyond the transaction to provide tamperproof records that cannot be amended by a single party.
+
+Global payments and foreign exchange. DLT can facilitate delivery versus payment of securities, payment versus payment of foreign exchange, and efficient cross-border payments. Banks may also adopt DLT to support internal funds transfers and reconciliations.
+
+Getting to the Next Level
+
+Given the transformational potential of DLT, why the delay in uptake? Key challenges include:
+
+Integration. Banks and other financial institutions need to figure out how to integrate the new technology with existing systems and business processes.
+
+Standards. To realize its full potential, DLT requires widespread collaboration and agreement of common standards. Although banks have formed DLT syndicates for specific purposes, the real benefit will derive from the “network effect” of widespread adoption.
+
+Security and regulation. Some concerns remain about the potential for distributed ledgers to be manipulated by a group of bad actors. These concerns may be allayed by regulators taking action to mitigate risk and introduce a regulatory framework.
+
+Legal. Further clarity is needed regarding ownership and jurisdiction of DLT data and transactions.
+
+These are not insurmountable challenges, but they need to be addressed. Likewise, it is worth noting that current suspicions of the new technology are reminiscent of nascent e-commerce concerns. My next blog will consider how banks can prepare for the arrival of DLT and virtual money.
+
+* Peter Santilli, Caitlin Ostroff, and Paul Vigna, “From Bitcoin to Dogecoin: What’s Driving Cryptocurrencies’ Rise and the Challenges Ahead”, The Wall Street Journal, May 17, 2021 https://www.wsj.com/articles/the-factors-driving-crypto-markets-boom-and-the-challenges-ahead-11621243809
+
+** Peter Hoskins, “Tesla will no longer accept Bitcoin over climate concerns, says Musk”, BBC News, May 13, 2021 https://www.bbc.com/news/business-57096305#:~:text=Tesla%20will%20no%20longer%20accept%20Bitcoin%20over%20climate%20concerns%2C%20says%20Musk,-13%20May&text=Tesla%20has%20suspended%20vehicle%20purchases,while%20Tesla%20shares%20also%20dipped

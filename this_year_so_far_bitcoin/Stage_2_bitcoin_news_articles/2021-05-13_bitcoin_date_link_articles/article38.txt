@@ -1,0 +1,31 @@
+In this episode of the BeInCrypto video news show, host Jessica Walker will look at bitcoin cash (BCH). The coin has returned to the top ten in market cap, due to an anticipated upgrade, its pairing with ethereum (ETH), as well as the increased use of CashFusion. We’ll also take a look at its recent price movements.
+
+Bitcoin cash back in top ten
+
+Bitcoin cash has been gaining a lot in the past several weeks. It currently sits at the tenth place on CoinMarketCap’s top cryptocurrencies in terms of market capitalization. It is a regular on the list and it seems to be going up because of investors looking for the next “boom-coin.” By sharing a name with mainstay bitcoin (BTC), it’s basking in the glory of its more popular namesake. But what are some other reasons for BCH’s return to the top ten?
+
+May 15th upgrade
+
+Perhaps the most important thing on BCH holders calendar is the upgrade that will happen on May 15. Most of the changes are aimed at improving the experience of users and merchants when using BCH to make payments. This will hopefully provide another incentive for adoption.
+
+Another upgrade that stands out to us is the removal of the unconfirmed chained transaction limit. This will allow users to do more than 50 chained unconfirmed transactions at a time. This was a highly requested feature for a long time. In particular, by gambling sites and other high volume, quick transaction apps that relied on BCH for payment.
+
+BCH and Ethereum
+
+Another interesting development around BCH is its pairing with Ethereum. This will happen through the SmartBCH sidechain, which was announced last Thursday.
+
+In an interview with bitcoin.com, the Smart Bitcoin Cash team lead explained that developers and decentralized app makers can now experiment and develop with the sidechain, which is compatible with the Ethereum Virtual Machine. This seems to have already provoked some interest.
+
+The Coinflex exchange team has begun running tests with setting up a decentralized exchange and creating tokens. If successful, the sidechain could become a platform for expanding the user base of bitcoin cash and grow its ecosystem.
+
+Story continues
+
+CashFusion
+
+CashFusion has also been mentioned quite a lot this week. For those of you who haven’t heard of it, CashFusion is a service that provides privacy for bitcoin cash. Described simply, it lets wallets help each other blend into the crowd and keep prying eyes away.
+
+Reports have indicated that since CashFusion was introduced in November 2019, there have been more than 67,000 fusions or almost $6 billion worth of BCH using today’s exchange rates. This could be another sign of the popularity of bitcoin cash, which has largely gone under the radar in recent months.
+
+Technical analysis
+
+A quick chart analysis shows us that we are close to a high from May 2018, which was around $1,850 dollars. Right now, we seem to be on track to reach and test that level. But a correction and retest of $1,228 on the downside are also possible, although that level did hold several days ago.

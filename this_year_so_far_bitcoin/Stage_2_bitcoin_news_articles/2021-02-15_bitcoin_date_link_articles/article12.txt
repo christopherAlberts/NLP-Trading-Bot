@@ -1,0 +1,25 @@
+Data firm Chainalysis has named Mirror Trading International’s (MTI) scheme as 2020’s biggest investment scam in its latest review of cryptocurrency-related crimes.
+
+MTI is being investigated after it was provisionally liquidated in December 2020, with regulators now calling for more power to prosecute perpetrators of fraud and oversee dealing in cryptocurrencies.
+
+The scheme presented itself as a passive income source. According to its website, users simply deposit a minimum of $100 worth of Bitcoin, and MTI promised to grow it using an AI-powered foreign exchange trading software.
+
+The group said that customers can achieve consistent daily returns of 0.5%, which would translate to yearly gains of 500%. Algorithmic trading is a common premise for many cryptocurrency investment scams.
+
+In August 2020, cryptocurrency website CoinDesk encouraged all MTI users to withdraw their funds as soon as possible, citing the decision of Texas state regulators to formally label the company a scam, as well as a pending investigation by South Africa’s Financial Services Conduct Authority (FSCA).
+
+On December 18, 2020, the FSCA acted against MTI after its investigation found that the company falsified trade statements, didn’t declare losses, and committed other acts of fraud to deceive the market.
+
+The investigation also found that MTI had over 16,000 Bitcoin of claimed customer investment funds unaccounted for.
+
+MTI claimed to have transferred those funds to a new FX trading platform after its old platform banned MTI due to its scamming reputation, but the new platform says these funds were never deposited.
+
+Since those charges were filed, MTI customers have complained that they can no longer access or withdraw funds they’ve deposited to the platform, and MTI chief executive Johan Steynberg has disappeared.
+
+“Mirror Trading International is another example of why the industry must spread the word that algorithmic trading platforms promising unrealistically high returns are nearly always scams,” Chainalysis said.
+
+“When cryptocurrency exchanges and other services learn of these scams and receive their cryptocurrency addresses, they should discourage users from sending funds to those addresses or at least warn them that financial losses are highly likely.”
+
+In addition, exchanges, gambling platforms, and other services that these scams use to launder funds should consider blocking incoming transactions from businesses that relevant government bodies label as scams or potential scams, as removing the ability to convert funds to cash makes it more difficult for scams to operate, Chainalysis said.
+
+Read: Bitcoin under scrutiny as South Africa’s largest alleged ponzi scheme is probed

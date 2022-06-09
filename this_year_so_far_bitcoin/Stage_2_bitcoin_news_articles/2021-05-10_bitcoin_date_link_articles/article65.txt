@@ -1,0 +1,69 @@
+Calvin Ayre has been advising the gambling industry to pay attention to Bitcoin (in its original form as Bitcoin SV), for several years now and after studying this space in more detail, it’s clear to me why Calvin is right.
+
+Let’s start with the most obvious reason. Dr. Craig S. Wright, chief scientist of nChain, the author of the Bitcoin Whitepaper and therefore the inventor of Bitcoin itself, has deep ties with the gambling industry.
+
+Dr. Wright was brought into Lasseters in 1998 to help launch a licensed online casino by providing guidance on regulatory requirements and setting up security systems. Around 2007, Centrebet was a client of Dr. Wright’s when he was an auditor with BDO. Dr. Wright also worked with Playboy Gaming, MGM, Bodog and even built an online poker application on top of Bitcoin shortly after its launch in 2008.
+
+I knew Dr. Wright had gambling industry experience, but only until this Hashing It Out interview did I realize how deep it was and recognize the influence his gaming experience had on creating Bitcoin itself.
+
+Calvin once said “when Craig talks, you listen” and he was right, once again. Dr. Wright’s mind works in a special way and if you listen hard enough, you’ll walk away with some new ways of looking at the world. Here’s what I took away from our discussion on the crossover of Bitcoin and the gambling industry, but I also urge you to watch the interview, maybe even several times, like I did.
+
+Bitcoin is the ideal system for regulatory audits
+
+When Dr. Wright was working with Centrebet on behalf of BDO, he had ideas for building programs to detect fraud and wanted to test them with Centrebet. While that never happened, he ended up using some of the ideas for the Bitcoin whitepaper.
+
+“Part of what I was doing with BDO overlaps with the concept of Bitcoin,” Dr. Wright revealed.
+
+“The key aspect of Bitcoin and related systems is the ability to know that you have a single system that hasn’t been changed, where the changes have been made if any need to occur and to have a ledger that you know can’t be altered,” he said.
+
+“What we had been creating was a set of audit techniques that would hash each of the ledger tables and keep them in a real time basis allowing the audit staff to view things, see where the changes were, look at any alterations, etc.,” he added.
+
+The reaction to Dr. Wright’s forward thinking was mixed at the time. Some loved the innovation and some feared their jobs may be at stake, but in reality, technology like this would allow for employees to spend less time looking through paper and more time advising companies on how to set their controls better.
+
+When Dr. Wright set up the systems for Lasseters, the focus was on real time transaction logging because the government wanted to be able to randomly select some transactions to audit and rest assured that no one could change the records.
+
+Fast forward to April 15, 2011, and the ripple effects of online poker’s “Black Friday” ultimately destroyed Lasseters’ business. If Bitcoin technology had been integrated into their system at the time, the situation would have been different.
+
+“One of the things that did push me along was the whole black Friday incident with the American government. Shortly after that Lasseters ended up closing their online operation. The difficulties of getting money in and out when banks in Australia or even Malaysian banks were stopping transactions is ridiculous because it had nothing to do with Americans and they just made it so difficult that everyone stopped doing business,” Dr. Wright recalled.
+
+Things would have also been different for Full Tilt, Pokerstars and AP/UB players whose balances were seized by the Feds if they had been playing on non-custodial sites, making deposits and receiving winnings in Bitcoin straight from and to their wallets.
+
+Benefits of gambling with Bitcoin in micropayments
+
+Bitcoin was created with the ability to do micropayments in mind. The gambling industry has a lot to gain from these capabilities (think penny slots or placing 10 cent in-play bets), especially the online side as traditional digital payment systems cannot support micropayments due to high fees and other complications with the system.
+
+“When you’re trying to get someone to put a few dollars in, it may not sound like much, but it’s a lot more to trust and a lot more overhead than it is getting random one cent amounts and the audit and controls around the larger systems in credit cards are a lot more difficult [than Bitcoin],” Dr. Wright explained.
+
+“So all of this can be constructed in a way that is utterly secure and without a lot of cost, without having to set up expensive infrastructure, high-end firewalls, or any other aspect of this. Just one secure website will do it,” he said.
+
+What’s important to understand here is that the ability to do micropayments is unique to Bitcoin in its original form. You cannot take advantage of micropayments with BTC because the number of payments are limited and the fees are simply too high.
+
+To illustrate his point, Dr. Wright used the example of slot machines:
+
+“Think of how many times people pull a lever a second in somewhere like Caesars. Now extend that out to a global system where there could be people doing virtual slot machines globally for a tenth of a cent slots. How are you going to actually do this in a way that can be managed and secure if you’re getting a million potential transactions a second?”
+
+The answer is you can’t with BTC. You’d have an enormous backlog of transactions and users would have to pay higher fees to get their transactions through quicker and this is how you end up with $50 fees or more.
+
+What are crypto casinos, really
+
+I’m sure you’ve heard of “crypto casinos,” namely online casinos that take BTC or other altcoins as payment. While these casinos are incredibly popular with the crypto community, there are some shady operators who are not licensed, allow underage players and so on. This is the exact type of thing Dr. Wright despises and does not want any connection to.
+
+“Most of these at the moment are all about laundering. So they are mixers. They put their money in, try to get away from tax or other obligations, take their money out. Long term that’s going to be a big problem because if you have mixed funds, then you’re going to lose your funds,” Dr. Wright warned.
+
+While Dr. Wright has been saying Bitcoin is not anonymous from the start, BTC and other digital currency camps are promoting the exact opposite, which is when bad actors facilitating money laundering and underage gambling come in.
+
+“Bitcoin is pseudonymous. The section on privacy in the whitepaper, if you look it says that identity is firewalled. That doesn’t mean that its removed,” Dr. Wright pointed out.
+
+“So what we can do with identity is create pseudonymous linkages so that people on the public blockchain don’t see who you are, but you can prove your identity and AML and full ‘know your customer’ requirements can all be satisfied every time you use any payment, instantly,” he confirmed.
+
+“When you pay it can all be recorded, it can be a complete audit trail, simplifying the reporting obligations of the casino and also giving you piece of mind because if something goes wrong, you now have proof of what went wrong,” Dr. Wright added.
+
+Bitcoin was part of a data system right from the beginning
+
+A common misconception of Bitcoin is that it’s only a payment system (or a store of value, according to BTC), but in reality, Bitcoin was part of a data system right from the beginning. The combination of data and money is what makes Bitcoin the perfect system for the gambling industry to take advantage of.
+
+“Bitcoin is the first digital currency with tracing. With the ability to have a ledger that allows people to find out where the money came from. That’s the real distinction that no one’s talking about. It is the first traceable electronic money system,” Dr. Wright explained.
+
+“What you can do is incorporate information both on and off chain, but link data in a provable manner. So you can have fully auditable records that will satisfy all of the operator requirements, the player requirements, everything. And that’s an important aspect,” he added.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

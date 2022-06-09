@@ -1,0 +1,21 @@
+The magnitude of realized losses in the recent crypto crash has eclipsed all previous capitulation events, including March 2020, November 2018 and the sell-off that ended the last bull market in January-February 2018. According to on-chain report from Glassnode, a new all-time high of $4.53 billion in losses were booked on 19 May and $14.2 billion for the week.
+
+The bitcoin market has experienced a tremendous deleveraging, with prices falling nearly 50%, and on-chain entities taking historical losses. During the week, the world’s biggest cryptocurrency traded down by over 47% from the weekly high of $59,463, to lows of $31,327.
+
+This sell-off has been so severe that it has raised the question in many minds as to whether the 2021 bull market remains in play.
+
+“Looking at the number of unique entities on-chain who are now in profit, we can see that the current FUD (fear, uncertainty and doubt) bath has reduced profitable entities to 76%. This means that 24% of all on-chain entities are currently holding UTXOs that are underwater. In a bull market context, this compares to three periods in 2011, 2013 and 2016. This metric also highlights the proportion of the market who purchased coins higher and thus who may become panic sellers," the on-chain data and intelligence platform said in a note.
+
+The note also highlighted that a large portion of the recent selling activity was driven by short-term holders, those owning coins purchased within the last six months.
+
+Moreover, during this capitulation sell-off, the selling of one- to three-year-old coins was actually significantly less and declining as a proportion of total activity. “This suggests that old hands did not panic sell nor rush for the exits," the note added.
+
+In terms of unbooked profits, Glassnode found that around 9-9.5% of the current market capitalization ($700 billion) existed as unrealized losses, which is equal to around $65 billion in underwater value.
+
+“Despite this being a historical capitulation event, relative to the market size, the value of underwater positions on-chain is actually relatively small. We can compare this to relative unrealized losses of 44% in March 2020 and over 114% in November 2018," it said.
+
+Subscribe to Mint Newsletters * Enter a valid email * Thank you for subscribing to our newsletter.
+
+Never miss a story! Stay connected and informed with Mint. Download our App Now!!
+
+Topics

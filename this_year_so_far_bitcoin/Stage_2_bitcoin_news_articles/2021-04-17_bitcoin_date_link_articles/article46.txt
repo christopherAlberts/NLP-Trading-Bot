@@ -1,0 +1,45 @@
+There's a pretty good chance that when the curtain closes on 2021, it's going to be remembered as the year of the retail investor.
+
+Beginning in mid-January, retail investors on Reddit's WallStreetBets chatroom began banding together to target stocks with very high levels of short interest. The goal for these relatively young investors has been to effect a short squeeze -- i.e., an event where pessimists effectively run for the hills and cover their short positions, sending a rising stock price skyrocketing higher.
+
+Over the past three months, we've watched as dozens of companies have been hit with retail investor-fueled short squeezes to some varying degree. While many of these squeezes last a couple of days, at most, a few have generated lasting gains. Perhaps none is more famous than video game and accessories retailer GameStop (NYSE:GME).
+
+A nearly $34,000 bet on GameStop a year ago would have made you a millionaire
+
+GameStop is the company that started the Reddit frenzy. It was the only publicly traded company in mid-January that had a short interest relative to float of more than 100%. This made it the perfect target for retail investors, who bought shares and out-of-the-money calls in GameStop. Three months after the initial squeeze, GameStop's share price is still up by more than 600%.
+
+What's more, GameStop's one-year returns are truly jaw-dropping. Investors who had the foresight, stomach, and luck to put their money to work in the struggling gaming company one year ago, as of April 13, are sitting on gains of 2,874%. To put this into some context, if you invested $33,650 in GameStop on April 13, 2020, you're now a millionaire.
+
+And yet, GameStop's nearly 2,900% 12-month gain is only the eighth-best performance among stocks with a market cap of at least $300 million. The following three highfliers have not just outperformed GameStop over the trailing year -- they've at least doubled up its 2,874% gain.
+
+Riot Blockchain: Up 5,767% over the trailing year
+
+Here's an idea to wrap your head around: Cryptocurrency mining company Riot Blockchain (NASDAQ:RIOT) has gained almost 5,800% over the trailing year -- and that's only good enough for the third-best performance among publicly listed companies with a market cap of at least $300 million!
+
+Cryptocurrency miners are people or companies that use high-powered computers to solve highly complex mathematical equations for a group of transactions known as a block. Resolving these equations verifies and validates transactions on a cryptocurrency network, resulting in the person or company being paid a block reward.
+
+Riot Blockchain specifically focuses on mining Bitcoin (CRYPTO:BTC), the world's largest digital currency by market cap. Following news just over a week ago that it had placed an order for 42,000 S19j Antminers from Bitmain, it'll have in the neighborhood of 81,150 Antminers in service when fully deployed. According to the press release, Riot isn't expected to receive all of its ordered miners until October 2022.
+
+Furthermore, a day after its huge Bitmain order, the company announced a cash-and-stock deal worth $651 million to acquire Whinstone, the operator of North America's largest Bitcoin hosting facility. With this acquisition and the Antminer order, Riot effectively blew through most of its cash on hand.
+
+Though a higher Bitcoin price helps Riot generate additional revenue, the company is facing increased competition in an industry with virtually no barrier to entry. Additionally, the block reward for Bitcoin (currently 6.25 tokens) halves every couple of years. And let's not forget that Bitcoin has had three separate 80% or greater pullbacks over the past decade. Riot is a company that's nearly devoid of innovation and entirely reliant on an external catalyst (Bitcoin) to head higher. This suggests its gains may prove fleeting.
+
+MicroVision: Up 5,838% over the trailing year
+
+Another company that essentially doubled up GameStop's spectacular one-year performance is scanning and sensor technology company MicroVision (NASDAQ:MVIS). Once a micro-cap stock, MicroVision is now sporting a hearty $2 billion market cap and has gained more than 5,800% over the trailing 12-month period.
+
+There look to be two catalysts primarily responsible for sending MicroVision from penny stock territory to borderline mid-cap status. First, like GameStop, MicroVision was aided by the Reddit frenzy. Close to half of its gains over the past year began in late January, which is when retail investors were hunting down penny stocks or low-volume plays with reasonably high levels of short interest. MicroVision certainly fit the bill.
+
+The second upside factor has to do with the company's development of 3D perceptive light detection and ranging (lidar) technology. The ultimate goal for this potential long-range scanning and sensing technology is that it'll be used by automakers for autonomous driving purposes. MicroVision has stuck to its timeline of unveiling samples of its Long Range Lidar Sensor sometime this month. With autonomous driving representing one of the fastest-growing opportunities of the decade, there's clear buzz that MicroVision's technology could play a key role.
+
+On the other hand, we're talking about a company that's still prototyping, generated only $3.1 million in sales last year, and lost $13.6 million. It's also been selling stock via at-the-market offerings to raise capital to fund its operations. There simply aren't any guarantees that a previously unknown scanning technology player will have its technology chosen by automakers for their autonomous driving programs.
+
+Marathon Digital Holdings: Up 11,438% over the trailing year
+
+I hope you like your one-year gains with a side of "holy cow," because that's precisely what cryptocurrency mining company Marathon Digital Holdings (NASDAQ:MARA) is delivering. In just one year, Marathon's share price has galloped from microcap/penny stock territory to $51 a share and a nearly $5 billion market cap. The 11,438% return virtually quadruples GameStop's stellar return over the same period.
+
+Like Riot Blockchain, Marathon Digital has been purchasing miners in order to nab its share of the Bitcoin mining pie. It ended the first quarter with roughly 6,800 active miners but has a veritable boatload on order with Bitmain. Approximately 65,000 miners will be delivered between October 2021 and January 2022, with all 103,120 miners in its active and ordered fleet expected to be operational by the end of March 2022.
+
+What differentiates Marathon from Riot Blockchain is that it also made a direct investment in Bitcoin. In late January, the company purchased more than 4,810 Bitcoin at an average price of $31,168. With Bitcoin crossing $63,000 earlier this week, Marathon's $150 million investment has doubled to a little over $300 million. In theory, having more Bitcoin on its balance sheet should help to better shield Marathon from large moves lower in the price of Bitcoin. This is to say that while the mining operation model could be unsustainable if Bitcoin prices fall too much, Marathon will still hold value since it now owns 5,134.2 Bitcoin.
+
+Nonetheless, it's difficult to overlook the many red flags facing the crypto mining industry. There are huge capital input costs and very little reliance on the innovation that investors lean on from businesses to drive valuation multiples. These are the reasons I've referred to crypto miners as the worst possible way to invest in Bitcoin.

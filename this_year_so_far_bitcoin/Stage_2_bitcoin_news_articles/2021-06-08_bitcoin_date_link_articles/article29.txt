@@ -1,0 +1,19 @@
+Mining for cryptocurrencies like Bitcoin and Ethereum uses a lot of energy and is contributing to climate change. Here are more eco-friendly cryptocurrency options to consider instead.
+
+If you feel like all anyone is doing these days is investing in cryptocurrency, you're not far off. A January 2021 survey by the New York Investment Group found that an estimated 22 percent of adults in America have invested in Bitcoin-that's more than 46 million people.
+
+And it's not just investing; the same survey found that 83 percent of respondents are looking to include Bitcoin in their future financial plans. With people using cryptocurrency on vacation, and creating digital art and collectibles with NFTs, the possibilities seem endless. But with all the opportunities that these digital currency alternatives seem to present, they come with harmful environmental effects.
+
+Of all the cryptocurrencies, Bitcoin uses the most energy. According to Cambridge University's Bitcoin Electricity Consumption Index, the mining process used to create bitcoins consumes about 116 terawatt hours (TWh) of electricity per year-almost as much as the entire country of Argentina, and more than what the Netherlands and the Philippines use annually. Bitcoin also has 65 percent of its miners located in China, where most of the energy is generated from coal-which is non-renewable and harmful to the environment.
+
+"The bitcoin network also generates 11.5 kilotons of electronic waste per year," says Patrick Moore, a cryptocurrency content creator at CryptoWhat. "In particular, many skeptics and environmentalists have raised concerns about the energy consumption of cryptocurrency mining, which can lead to increased carbon emissions and climate change."
+
+It's important to consider sustainability in your finances, whether it's choosing an earth-friendly bank to put your money into, or the cryptocurrency you're investing in. "Make sure that your values and your investments are in line with one another," says Greg McBride, Bankrate's chief financial analyst. Here are the ways cryptocurrency is affecting the environment-and some sustainable options you can invest in instead.
+
+How does cryptocurrency use energy?
+
+The process currently used by Bitcoin to verify transactions is known as a Proof of Work (POW) model. This mining protocol, which helps the blockchain technology in cryptocurrency accurately verify each transaction, runs on a massive electrical network that uses a lot of energy. The POW model uses every single miner for each transaction on its large network, whereas the more energy-efficient Proof of Stake (POS) model selects one random miner for each transaction.
+
+"[Bitcoin] currently uses the most energy of any cryptocurrency in the ecosystem," says Cody Ryan, founder and head of research at cryptoasset research and education platform Clearblock. "POW network actually utilizes more energy at a compounding rate as the network grows, and we all know Bitcoin is by far the largest network in the crypto markets right now." Bitcoin uses 1,546 kWh (kilowatt hours) of energy per transaction-one Visa charge only uses 0.003 kWh.
+
+"Proof of Work cryptocurrency uses electricity. If that electricity is generated using environmentally damaging methods like coal, then it would impact the environment," says Zach Bruch, co-founder of RECUR, an NFT tech company that has decided to go completely carbon-neutral. The company mints NFTs using the far greener Proof of Stake model, which has no gas fees. If you're looking to invest (or continue investing) in cryptocurrency, here are the environmentally friendly competitors you should consider.

@@ -1,0 +1,49 @@
+Ripple's Chris Larsen Believes Bitcoin Dominance Could Fall Over Proof-of-Work's Energy Consumption
+
+Ripple Labs cofounder Chris Larsen has a bone to pick with bitcoin and crypto networks that leverage proof-of-work (PoW). Larsen’s latest write-up explains that the crypto industry needs to reconsider PoW because of the effects on the environment. The Ripple executive believes that other types of consensus algorithms have been effective at being secure while only “using a tiny fraction of the energy.”
+
+Ripple Cofounder Believes Crypto Networks Leveraging Proof-of-Work Should Consider Alternatives
+
+While the global economy struggles after a year of Covid-19 lockdowns and business shutdowns, a great number of people are very interested in tackling climate change. Ripple Labs cofounder Chris Larsen has written a blog post about the environment and why the crypto industry should reconsider leveraging PoW. Larsen believes that if the Bitcoin (BTC) network’s verification model doesn’t get addressed, then at some point, it will lose out to a crypto asset network that does.
+
+“With more individual investors and corporations taking significant bitcoin positions— PoW is heading for levels society will find tough to tolerate as the world works to avert a climate disaster,” Larsen’s blog post says. The Ripple cofounder notes that Bitcoin network participants have been committing to renewable energy and green sources of fuel, but Larsen stresses this is only “part of the solution.”
+
+To Larsen, consensus algorithms that leverage proof-of-stake (PoS) have “proven effective in securing their stored value while using a tiny fraction of the energy.” He understands that a consensus algorithm is necessary to validate transactions and keep the blockchain secure.
+
+Larsen says that the crypto industry has had a decade to review these alternatives and also noted that many PoS and non-PoW coins have captured over 43% of the entire market capitalization.
+
+“Today, non-PoW-based coins (including Ethereum’s anticipated switch) make up 43% of all cryptocurrencies by market cap, and the majority of new cryptocurrencies introduced today choose to eschew PoW. It’s clear which way the trend is moving,” Larsen explains.
+
+The Ripple executive adds:
+
+The XRP Ledger has been using Federated Consensus to validate transactions and secure its public ledger for almost nine years. It’s closed 62+ million ledgers without downtime, uses the energy equivalent of just 50 U.S. homes per year, and is already carbon neutral.
+
+A Myriad of Studies Claim PoW’s Security Strength Is Superior to Federated and PoS Systems
+
+Larsen’s blog post covers a comprehensive look at all the negatives involved with PoW consensus algorithms. However, the blog post doesn’t go over any negative arguments against the security and vulnerabilities associated with PoS and non-PoW coins. There’s a myriad of papers and studies that have been written over the last decade that indicates PoS algorithms have not proven to be as secure as PoW. For instance, Ripple’s Federated Consensus or any type of federated blockchain mechanism has been considered centralized in comparison to networks like BTC.
+
+For instance, blockchain and fintech attorney Nikhil Mehta from Smithamundsen LLC has said that Ripple’s issues with the U.S. Securities and Exchange Commission (SEC) were invoked because the regulator thinks XRP is a security due to centralization.
+
+“The SEC has already indicated that bitcoin and ethereum are not securities due to their decentralized nature, which is a hallmark of blockchain applications”, Mr. Mehta stressed in his paper. “Ripple, on the other hand, is viewed differently by the SEC, which has taken the position that the development and distribution of XRP was conducted by Ripple in a centralized way,” he added.
+
+Further, Larsen’s paper fails to mention the PoS coin networks that have been attacked on various occasions during the last decade. One example is how Tron’s Steemit acquisition exposed vulnerabilities within delegated-proof-of-stake networks. PoW and PoS systems also have different attack costs, and one paper notes that the attack costs for a PoS protocol can be down to zero.
+
+“In fact, if the attacker’s motivation is large enough (and this is common knowledge), he will succeed in his attack at no cost,” the paper highlights.
+
+Ripple’s Chris Larsen addresses in his paper that he wouldn’t consider PoW models outdated, but that maybe these types of networks should be separated from those that provide low energy/low carbon verification systems.
+
+“We should see PoW for what it is — a brilliantly designed technology that is becoming outdated in today’s world,” Larsen’s blog post details. “In no way does this suggest that bitcoin and other PoW cryptos themselves are outdated. Their widespread adoption speaks for itself. But they need to separate themselves from this early technology that is not built for today’s climate needs, and embrace low energy/low carbon alternatives to secure their ledgers,” the executive adds.
+
+Plenty of Papers Have Knocked Bitcoin’s Use of Energy
+
+There has been a myriad of papers, studies, and complaints in regard to PoW’s use of energy. Much of which has been highlighted more often during 2021’s thrilling crypto bull run. However, most of these arguments have been debunked and just recently one bitcoin miner claimed that “Bitcoin is one of the most environment-friendly financial networks.”
+
+Moreover, there are not that many academic papers that have found security loopholes, attacks, or vulnerabilities when it comes to Satoshi Nakamoto’s proof-of-work system. Still, Larsen believes that the energy issues could be the Bitcoin network’s Achilles heel in the future.
+
+“I would argue that such a change is critically important for Bitcoin to remain the world’s dominant cryptocurrency,” Larsen says. “PoW’s current energy demands and carbon footprint are already unsustainably high, with Bitcoin alone consuming an average of 132 TWh a year (equivalent to roughly 12 million U.S. homes), and releasing an estimated 63 million tons of CO2 annually,” the Ripple Labs executive’s paper concludes.
+
+What do you think Chris Larsen’s opinion about PoW networks like Bitcoin and reconsidering PoW consensus? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

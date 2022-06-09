@@ -1,0 +1,71 @@
+TORONTO & BROSSARD, Québec--(BUSINESS WIRE)--Bitfarms Ltd. (“Bitfarms”, or the “Company”) (TSXV: BITF), one of the largest and most cost-effective public bitcoin mining operations in the world, provides corporate update on activities and changes for the benefit of all shareholders.
+
+Computing Power Expansion:
+
+Bitfarms is on schedule to install 3,000 additional miners at the end of this month. Upon successful completion of these installations, the Company will have installed 8,847 latest generation miners since June 2020. As a result of this growth, the Company will have added over 679 Petahash per second (“PH”) of computational power to its mining operations within the past eight months.
+
+Announced: Installed: Equipment: June 2020 June 2020 1,847 MicroBT’s WhatsMiner M20S units adding 133 PH of computing power August 2020 September 2020 1,000 MicroBT’s WhatsMiner M31S+ units adding 82 PH of computing power October 2020 November 2020 2,000 MicroBT’s WhatsMiner M31S unit adding 144 PH of computing power October, 2020 Mid - December 2020 1,000 MicroBT’s WhatsMiner M31S units adding 74 PH of computing power. December 2020 Late February 2021 (Expected) 3,000 MicroBT’s WhatsMiner M31S+ units forecast to add 246 PH of computing power.
+
+The Company currently has a Bitcoin mining market share of approximately 0.66% (.965Exahash/147.315Exahash), with an estimated mining output of over six Bitcoins per day, a daily value of in excess of US$222,000.
+
+With the addition of these new and efficient miners, the Company’s fleet of miners now achieve a higher level of computational throughput while using comparatively less electricity per PH. The Company’s acquisition of these miners prior to the late 2020 Bitcoin price surge has resulted in capital cost savings for the Company, through purchasing these miners when demand and prices were low.
+
+Bitfarms plans to further develop the infrastructure capacity at two of its mining facilities during the second fiscal quarter of 2021, through the addition of new transformers. The additional transformers are anticipated to create approximately 15 MW of additional capacity.
+
+Expansion Plans:
+
+Bitfarms operates five data centres in the Province of Quebec and possesses long term contracts with Hydro Quebec and several municipal power utilities. Bitfarms values the relationship it possesses with the local government and community members at its data centres. The Company plans to bolster its cooperation with these municipal bodies and communities through sustained employment of local residents, ongoing by-law compliance including sound control measures and consultation with community stakeholders.
+
+The Company is seeking discussions with the Province and Hydro Quebec to assess options for an expansion and activation of a sixth data centre, in late 2021 or early 2022, that would be beneficial to all parties.
+
+In addition, the Company entertains expansion plans throughout North America and elsewhere. In particular, as previously announced, the Company has a non-binding memorandum of understanding with a private energy producer to secure exclusive use of up to 200 MW of electricity in South America at an average price of US 2 cents per kilowatt hour (“kWh”). Discussions with local engineering and project management firms to develop initial capital investment cost estimates to operationalize the first 60 MW of mining infrastructure are ongoing.
+
+BTC Pilot Retention Program:
+
+After considerable planning, implementation of internal controls, counter-party risk review, and custody arrangements, in early January, Bitfarms has commenced a Bitcoin Pilot Retention Program. Under this Program, for the first time, the Company is no longer selling all the Bitcoins earned. As investors look to alternatives to buying Bitcoins which can be cumbersome, expensive, and risky, an investment in Bitfarms can be a proxy for directly buying and holding Bitcoins. Since the start of this Program, Bitfarms has added over 150 Bitcoin to its balance sheet.
+
+Corporate Debt & Financing:
+
+In January 2021, the Company completed two private placements for gross proceeds of C$40 million. The proceeds of the private placements and the improved profit margins from the increase in Bitcoin prices, has provided new and attractive options for expanding the Company’s infrastructure, acquiring new miners, and reducing the Company’s outstanding term debt.
+
+As a result of the two private placements, the exercise of various warrants, and the conversion of a term loan into equity, the total number of outstanding shares of Bitfarms has increased to approximately 113 million.
+
+Management Reorganization:
+
+In December 2020, Bitfarms’ Board of Directors approved changes to the Company’s executive management team to facilitate additional governance and oversight towards the Company’s plans for expansion and other initiatives in 2021.
+
+On January 14, 2021, it was announced that Mathieu Vachon amicably retired as an officer and director of the Company. The Company continues with an experienced and knowledgeable management team.
+
+Stock-Market Listing:
+
+Due to increasing demand by investors, management is actively seeking an additional stock exchange listing for the Company in the United States.
+
+Emiliano Grodzki, Chief Executive Officer of Bitfarms added, “Higher Bitcoin prices along with a strong management team has allowed Bitfarms to achieve progress which only a few months ago would have only been a dream. We are pleased with our progress and are excited about what is possible in 2021 and beyond. We have built a strong platform that distinguishes Bitfarms amongst its peers. The outlook for further Bitcoin price appreciation is positive and Bitfarms is well positioned to take full advantage.”
+
+About Bitfarms Ltd.
+
+The Company owns and operates computing centres that power the global decentralized financial economy. Bitfarms provides computing power to cryptocurrency networks such as Bitcoin, earning fees from each network for securing and processing transactions. Powered by clean and competitively priced hydroelectricity, Bitfarms operates five computing centres in Québec, Canada. Bitfarms’ experienced management team includes industrial-scale data centre operators and capital markets professionals, focused on building infrastructure by developing and hosting one of the industry’s most efficient ecosystem growing around blockchain-based technologies.
+
+To learn more about Bitfarms’ events, developments and online communities:
+
+Website: www.bitfarms.com
+
+https://www.facebook.com/bitfarms/
+
+https://twitter.com/Bitfarms_io
+
+https://www.instagram.com/bitfarms/
+
+https://www.linkedin.com/company/bitfarms/
+
+Cautionary Statement
+
+Trading in the securities of the Company should be considered highly speculative. No stock exchange, securities commission or other regulatory authority has approved or disapproved the information contained herein. Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release.
+
+Forward-Looking Statements
+
+This news release contains certain “forward-looking information” within the meaning of applicable Canadian securities laws that are based on expectations, estimates and projections as at the date of this news release. The information in this release about future plans and objectives of the Company, are forward-looking information. Other forward-looking information includes but is not limited to information concerning: the intentions, plans and future actions of the Company, as well as Bitfarms’ ability to successfully mine digital currency, revenue increasing as currently anticipated, the ability to profitably liquidate current and future digital currency inventory, volatility of network difficulty and digital currency prices and the resulting significant negative impact on the Company’s operations, the construction and operation of expanded blockchain infrastructure as currently planned, and the regulatory environment of cryptocurrency in the Provinces of Canada.
+
+Any statements that involve discussions with respect to predictions, expectations, beliefs, plans, projections, objectives, assumptions, future events or performance (often but not always using phrases such as “expects”, or “does not expect”, “is expected”, “anticipates” or “does not anticipate”, “plans”, “budget”, “scheduled”, “forecasts”, “estimates”, “believes” or “intends” or variations of such words and phrases or stating that certain actions, events or results “may” or “could”, “would”, “might” or “will” be taken to occur or be achieved) are not statements of historical fact and may be forward-looking information and are intended to identify forward-looking information.
+
+This forward-looking information is based on reasonable assumptions and estimates of management of the Company at the time it was made, and involves known and unknown risks, uncertainties and other factors which may cause the actual results, performance, or achievements of the Company to be materially different from any future results, performance or achievements expressed or implied by such forward-looking information. Such factors include, among others, risks relating to the global economic climate; dilution; the Company’s limited operating history; future capital needs and uncertainty of additional financing; the competitive nature of the industry; currency exchange risks; the need for the Company to manage its planned growth and expansion; the effects of product development and need for continued technology change; protection of proprietary rights; the effect of government regulation and compliance on the Company and the industry; network security risks; the ability of the Company to maintain properly working systems; reliance on key personnel; global economic and financial market deterioration impeding access to capital or increasing the cost of capital; and volatile securities markets impacting security pricing unrelated to operating performance. In addition, particular factors which could impact future results of the business of Bitfarms include but are not limited to: the construction and operation of blockchain infrastructure may not occur as currently planned, or at all; expansion may not materialize as currently anticipated, or at all; the digital currency market; the ability to successfully mine digital currency; revenue may not increase as currently anticipated, or at all; it may not be possible to profitably liquidate the current digital currency inventory, or at all; a decline in digital currency prices may have a significant negative impact on operations; an increase in network difficulty may have a significant negative impact on operations; the volatility of digital currency prices; the anticipated growth and sustainability of hydroelectricity for the purposes of cryptocurrency mining in the Province of Québec, the ability to complete current and future financings, any regulations or laws that will prevent Bitfarms from operating its business; historical prices of digital currencies and the ability to mine digital currencies that will be consistent with historical prices; an inability to predict and counteract the effects of COVID-19 on the business of the Company, including but not limited to the effects of COVID-19 on the price of digital currencies, capital market conditions, restriction on labour and international travel and supply chains; and there will be no regulation or law that will prevent Bitfarms from operating its business. The Company has also assumed that no significant events occur outside of the Bitfarms’ normal course of business. Although the Company has attempted to identify important factors that could cause actual results to differ materially, there may be other factors that cause results not to be as anticipated, estimated or intended. There can be no assurance that such statements will prove to be accurate as actual results and future events could differ materially from those anticipated in such statements. Accordingly, readers should not place undue reliance on forward-looking information. The Company undertakes no obligation to revise or update any forward-looking information other than as required by law.

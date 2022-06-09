@@ -1,0 +1,31 @@
+Bitcoin inflows to cryptocurrency exchanges surged on Monday by the most in 15 months, blockchain data shows, in what might be a sign of more retail traders looking to liquidate their holdings in a falling market.
+
+Crypto exchanges registered a net inflow of 30,749.89 BTC on Monday, according to the data provider Glassnode. That was the biggest single-day tally since March 12, 2020, when the bitcoin price tanked by 40% amid coronavirus-induced panic selling in the global financial markets – earning the date the moniker of “Black Thursday.”
+
+Investors typically transfer bitcoins to exchanges when they want to liquidate their holdings. On Black Thursday, for example, exchanges witnessed a net influx of over 40,000 BTC.
+
+Bitcoin fell to $42,102 on Monday, extending the preceding week’s 20% decline and hitting the lowest level since Feb. 8, according to CoinDesk 20 data. The sell-off gathered steam over the weekend with some Twitter users suggesting that the U.S. electric car maker Tesla may be selling its bitcoin holdings.
+
+Tesla CEO Elon Musk clarified early Monday that the company has not sold any coins. So far, however, Musk’s declaration has failed to lift the cryptocurrency beyond $45,000.
+
+Bitcoin daily net exchange flows. Source: Glassnode
+
+While net inflows spiked on Monday, the majority of the action was concentrated mainly on Binance, a preferred venue for retail investors, as per Glassnode. Meanwhile, the U.S. exchange Coinbase continued to register bitcoin outflows, potentially indicating persistent demand from institutional investors looking to buy the price dip.
+
+“Coinbase has seen almost entirely net outflows of BTC since breaking last cycles $20,000 all-time high, a trend that has continued this week,” Glassnode said in the weekly newsletter published on Monday. “Coinbase is the preferred venue for U.S. institutional accumulation, and given the scale of typical daily withdrawals (10,000 to 20,000 per day), it suggests that larger buyers remain in active accumulation during this correction.”
+
+Bitcoin daily inflows on Binance and Coinbase Source: Glassnode
+
+While Binance received more than 80% (or 26,000 BTC) of the total net inflow of 30,749.89 BTC on Monday, the U.S.-based Coinbase registered a net outflow of 146 BTC.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+The two exchanges have seen diverging trends in net flows in recent weeks. The balance held on Coinbase has declined by 34,408 BTC since April 19. Meanwhile, the amount held on Binance has increased by 95,397 during the four weeks.
+
+The magnitude of the net bitcoin flows on Binance has picked up sharply in recent months in a sign of “volatility in Binance user macro sentiment,” as noted by Glassnode.
+
+Also read: Bitcoin Chart Indicator Suggests Worst of Pullback May Be Over
+
+“This provides further indication that the recent inflows are likely to be driven by both new market entrants (panic sellers) and potentially due to capital rotation into other crypto assets,” Glassnode’s weekly newsletter said. For example, some investors could be transferring bitcoin to Binance to snap up alternative cryptocurrencies.
+
+That said, inflows do not imply immediate liquidation, just traders getting into position to make a quick sale, and it’s hard to gauge how many of the coins were already liquidated, partly due to limitations on the data.

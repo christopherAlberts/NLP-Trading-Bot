@@ -1,0 +1,265 @@
+In this issue
+
+Is the Dogecoin price boom over? Cryptocurrency markets plummet — crash or correction? Whistleblower Edward Snowden’s NFT sells for over $5 million Ethereum ETFs come to Canada Can China be warming to digital assets?
+
+From the Editor’s Desk
+
+
+
+Dear Reader,
+
+
+
+“First they ignore you, then they laugh at you, then they fight you, then you win.” It’s an oft-used quote by everyone from Elizabeth Holmes of the Theranos fraud to Donald Trump, and often misattributed to Gandhi. Instead, Nicholas Klein, an American labor union advocate, first uttered those words in 1918 — words meant to inspire support for an underdog and what many believed to be a hopeless cause.
+
+
+
+Like the Dogecoin.
+
+
+
+What started as a joke has today captured the imagination of people around the world — these small, mom-and-pop investors who bet their hard-earned dollars for a quick bump. It’s these investors who historically have been too small for financial institutions to pay attention to and generally ignored, who made small bets that added up into one giant momentum play in crypto this past week.
+
+
+
+We spoke to many of them in Asia, who told us why they picked up some Dogecoins. There’s a unique aspect of this doggy paddle in DOGE: limitless supply, meant to keep prices intentionally low and affordable, so that it could be used for small transactions. That has now evolved into small bets. It is wealth generation for non-whales, and it has now captured the imagination of a bigger crowd who are plowing into the coin. In India, bet a few rupees here; in the Philippines, a few pesos there… and suddenly you’re watching your little pot of wealth grow.
+
+
+
+Whether these small investors will “win” has not yet been determined. Certainly, the jury is out. But the mass movement and what drives the crowd into Dogecoin is not to be ignored as a new characteristic in crypto trading.
+
+
+
+Until the next time,
+
+
+
+Angie Lau,
+
+Founder and Editor-in-Chief
+
+Forkast.News
+
+1. Doge prices choke on game day
+
+Doge Barking at the Moon pic.twitter.com/QFB81D7zOL — Elon Musk (@elonmusk) April 15, 2021
+
+By the numbers: Doge Day — over 5,000% increase in Google search volume.
+
+After Dogecoin surged to new all-time highs of US$0.42 on April 20 HKT, the Asian market was eagerly waiting for U.S. investors to wake up and send the meme crypto’s prices soaring even more on the inaugural Doge Day. This did not happen as Dogecoin dropped by 18.3% in the last 24 hours.
+
+The Doge Day letdown came after a week of DOGE surging by almost 250% and briefly becoming the world’s fifth most popular cryptocurrency by market cap. DOGE is currently in sixth place, after Tether (USDT).
+
+What triggered the Dogecoin price surge? On April 15, Tesla CEO Elon Musk tweeted “Doge Barking at the Moon” to his 51.4 million followers.
+
+On the same day, the subreddit group famous for the GameStop short squeeze — r/WallStreetBets (WSB) — lifted its ban on crypto discussions on “BTC, ETH and DOGE only.” Google search interest for WSB was also maxed out on this day. WSB has since reversed the course after a Bloomberg article seemingly rubbed moderators the wrong way. “Due to the article that was written @bloomberg who somehow felt that “WallStreetBets Bows to Crypto” Crypto discussion is banned indefinitely. I’ve read a lot of dumb articles written about wsb. This one takes the cake,” posted WSB moderator u/bawse1.
+
+
+
+The explosion of interest in Dogecoin put “extreme pressure” on crypto trading platforms including commission-free trading app Robinhood. “One of our systems failed which brought down our crypto order system.” Freshly Nasdaq-listed Coinbase was not one of those systems as it has not listed Dogecoin.
+
+Forkast.Insights | What does it mean?
+
+
+
+Founded in 2013 by Billy Markus and Jackson Palmer, Dogecoin was initially invented as a joke currency based on the Doge meme featuring a Shiba Inu dog. Today, the Dogecoin’s market movements are no longer a laughing matter — unless you are an early investor laughing all the way to the bank.
+
+
+
+Dogecoin, which was worth less than a penny per token at the beginning of the year, has risen 5,000% and is now around US$0.32. The cryptocurrency that started as a joke even briefly vaulted over stablecoin stalwart Tether (USDT) and Cardano (ADA) this week to become the fifth most popular cryptocurrency in the world, with a market cap of over US$52 billion.
+
+
+
+However, Dogecoin did experience a huge sell-off on April 20, which retail traders had affectionately coined Doge day. The meme cryptocurrency finally joined the rest of the market and corrected on the day that many were expecting the token to moon as high as US$1. Dogecoin has since slipped to the sixth spot with a market cap of $40 billion — which is still very impressive for a coin with no real utility.
+
+
+
+The explanation for the DOGE’s continued surge as the rest of the market corrected over the weekend was hard to pinpoint, but the hype machine of celebs endorsing the project on social media has historically appeared to be the driving force with many high-profile personalities on board, including Mark Cuban, Guy Fieri, Snoop Dogg and the Wolf of Wall Street, Jordan Belfort.
+
+
+
+Without a doubt, none have been more influential to the meme coin’s growth than Tesla and SpaceX CEO Elon Musk, who has managed to propel DOGE higher almost every single time he tweets about it. Dogecoin also benefited earlier this year in a GameStop-style coordinated buying attack, when a band of retail investors joined forces to pump and dump the crypto on a WallStreetBets copycat subreddit called SatoshiStreetBets.
+
+
+
+Although Dogecoin is still considered little more than a meme stock by investors — even the majority of those who have staked their cash on it — the crypto continues to ride a wave of popularity with retail investors looking for the moon.
+
+2. Did Bitcoin crash, or was it just a correction?
+
+Bitcoin’s steep price drop brought altcoins with it. Image: Envato Elements
+
+By the numbers: Bitcoin crash — over 5,000% increase in Google search volume.
+
+US$9.2 billion in Bitcoin long positions were liquidated in global exchanges on April 18, with 49% of those cases occurring in Binance alone, according to data from Bybt. Mass liquidations in long positions were accompanied by a steep drop in Bitcoin prices, dropping from around US$60,000 per Bitcoin to around US$55,000 per Bitcoin. Bitcoin’s price drop reached a low point on Sunday at around US$53,000, and is currently trading at US$55,451 as of publishing time.
+
+A series of developments led up to the mass-liquidation of long positions, including a blackout in China’s Xinjiang region after a flooding incident in one of the region’s coal mines, leading to a 46% drop in Bitcoin’s mean hash rate, according to Glassnodes data.
+
+The excitement around Coinbase’s Nasdaq listing may have also contributed to faltering investor confidence in Bitcoin longs. COIN opened last week at US$381 on the Nasdaq, hit a high of US$429 before dipping to a low of US$310. Coinbase’s debut included a selling frenzy from company executives, such as CEO Brian Armstrong’s liquidation of over US$291 million.
+
+In government-related news, Turkey has banned Bitcoin and cryptocurrency payments.
+
+Forkast.Insights | What does it mean?
+
+
+
+Coinbase was the talk of Wall Street and cryptocurrency investors alike last week. As the largest U.S. exchange prepared for its Nasdaq debut last Wednesday, the cryptocurrency sector witnessed a trading frenzy that saw almost every cryptocurrency surge in price, putting the entire market into overbought territory. Coinbase going public has been regarded by some as a potential tipping point for cryptocurrency becoming mainstream, despite the many questions regarding the exchange’s actual value.
+
+
+
+However, it was soon revealed that many of Coinbase’s largest shareholders and company insiders had sold off around US$5 billion worth of COIN stock on its first day of trading — with CEO Brian Armstrong selling almost $300 million of his own stake. The news reverberated across the cryptocurrency market, with Bitcoin plummeting to the low US$50,000s.
+
+
+
+While the news that Coinbase executives were actually selling their stocks could not possibly have sent a very bullish signal to the market, Bitcoin prices were also affected by the news of a power outage in China’s Xinjiang region — where a significant portion of worldwide Bitcoin mining is done.
+
+
+
+The power outage caused a significant decrease in Bitcoin’s hash rate — shown to have a direct correlation to the BTC price — which also had the market in a panic. Toya Zhang, chief operating officer of AAX Exchange told Forkast.News, “People started to panic a little bit […] The information on the power outage was everywhere on the internet. So before the impact could be fully interpreted, people started selling off” their Bitcoin.
+
+
+
+While Bitcoin fell more than 15% on Sunday, to as low as US$53,238.33, corrections were felt across the entire cryptocurrency market, with Ethereum’s Ether also falling below US$2,000 before a recovery above the US$2,200 level. The weekend’s sell-off also erased much of the recent price gains made by most of the other top 10 cryptos, including Binance Coin (BNB), Cardano (ADA) and XRP.
+
+
+
+While the popular meme cryptocurrency Dogecoin was the only top-10 cryptocurrency that escaped the weekend carnage in the green, DOGE did eventually succumb to the selling pressure after reaching an all-time high of US$0.42 on April 20, also known as Doge Day. The crypto has since fallen over 18% in the last 24 hours.
+
+3. Snowden NFT winner is… a DAO?
+
+Snowden’s first and only NFT so far sold for over US$5 million. Image: Gage Skidmore, CC BY-SA 2.0
+
+By the numbers: Snowden NFT — over 5,000% increase in Google search volume.
+
+“Stay Free,” a non-fungible token (NFT) that contains the full court rulings of the National Security Agency’s (NSA) violation of the law via mass surveillance, was minted and sold by NSA contractor-turned-whistleblower Edward Snowden for 2,224 ETH, or around US$5.1 million, as of publishing time. This time, the NFT wasn’t purchased by a single patron, but rather a decentralized autonomous organization (DAO). According to Snowden, the proceeds will go to the Freedom of the Press Foundation.
+
+PleasrDAO — a DAO initiated by a group of NFT collectors to pool funds to win the bid for the NFT of digital artist pplpleasr curated for Uniswap’s V3 upgrade — won the bid for the Snowden NFT.
+
+“Emerging applications of cryptography can play an important role in supporting our rights,” Snowden said, in a statement. “This auction will drive the development of valuable and privacy-protecting uses of encryption, to safeguard press freedom and serve the public.”
+
+Forkast.Insights | What does it mean?
+
+
+
+Non-fungible tokens (NFTs) may be here to stay as absolutely everyone seems to be joining in on the craze. With major auction houses, exclusive publications, fast-food giants and even the venerable New York Times hopping on the NFT gravy train — the latest sale of an NFT artwork by NSA whistleblower Edward Snowden for over US$5 million (the exact cost depends on the market price of the ETH used to buy it) is no exception.
+
+
+
+The artwork “Stay Free” combines all of the 2013 U.S. court documents ruling that the National Security Agency’s mass surveillance had violated the law, with the iconic portrait of Snowden, who says the proceeds from the sale will go to the Freedom of the Press Foundation, of which he is president.
+
+
+
+What stands out in the sale of “Stay Free” is that this time, the NFT artwork in question was not sold to a single buyer but instead was bought by a decentralized autonomous organization — PleasrDao — which was launched by a diverse group of NFT art collectors who are using smart contracts to create a decentralized digital art investment empire.
+
+
+
+PleasrDAO represents just how powerful smart contracts can be but is still only the tip of the iceberg in terms of how such contracts could be used. The DAO has a budget dedicated to the funders of the project to make purchases of other assets that exist on the Ethereum ecosystem.
+
+
+
+This sale can also be seen as an exposition to the mainstream public of real-life use cases of NFTs beyond just basketball highlights or JPEGs. Snowden’s NFT displays the technology being used in the preservation of evidence and data on the blockchain.
+
+
+
+PleasrDAO said that they bought the Snowden NFT because the NSA whistleblower changed the rules of the game for transparency with his leaks on the surveillance tactics of the U.S. government — an ideal the DAO members staunchly support.
+
+4. Canadian crypto ETF ecosystem adds Ethereum
+
+Ethereum ETFs now coming to Canada. Image: Envato Elements
+
+By the numbers: Ethereum — 1,300% increase in Google search volume.
+
+While Bitcoin exchange-traded fund (ETF) applications are piling up on the SEC’s desk, Canada has approved three Ethereum ETFs following three Bitcoin ETFs on the Toronto Stock Exchange (TSX).
+
+Purpose Investments and Evolve ETFs added Ethereum to their ETF offerings after getting their respective Bitcoin ETFs approved on the TSX earlier this year. CI Global Asset Management also joins the Ethereum ETF list along with its sub-advisor Galaxy Digital.
+
+It took less than two months for Purpose Investments to reach US$1 billion in assets since listing its Bitcoin ETF on TSX.
+
+A fourth Bitcoin ETF, launched by Canadian digital assets manager 3iQ in partnership with CoinShares, also started trading on the TSX this week.
+
+Forkast.Insights | What does it mean?
+
+
+
+Canada has taken another stride forward in crypto adoption as three new Ether-based ETFs were launched on Toronto’s stock exchange (TSX) yesterday, as the U.S. markets wait for their own regulators to get on board with the growing demand for mainstream crypto investment vehicles
+
+
+
+Canada’s green light to CI Global Asset Management, Purpose Investments and Evolve ETFs to launch mainstream investment products for Ethereum came hot on the heels of its approval of the first-to-market Bitcoin ETFs. Canada’s first, the Purpose Bitcoin ETF (BTCC), launched in late February and has already amassed over US$1 billion in assets.
+
+
+
+Evolve has also already launched a Bitcoin ETF in Canada, while CI Global Asset Management will be the latest addition to the crypto ETF space. The firm worked in collaboration with Mike Novogratz’s Galaxy Digital on the fund. Galaxy Digital is also among the many organizations that has also applied for a Bitcoin exchange-traded fund in the United States.
+
+
+
+In the lead-up to the launch, both CI Global and Evolve were the most aggressive by waiving all fees for their Ethereum ETFs in a bid to capture the majority of the market share.
+
+
+
+Though the U.S. Securities and Exchange Commission (SEC) has rejected all attempts to launch a Bitcoin ETF in the United States since 2013, the crypto community and mainstream investors, looking for exposure in the nascent market, are eagerly awaiting the regulator’s decision on the application from mutual fund manager VanEck, which was filed in December 2020. VanEck’s application has been under review for weeks, and the SEC is expected to make a decision on April 29.
+
+
+
+In an interview with Forkast.News, Elliot Johnson, CIO and COO of Evolve Funds said that the progressive attitude and “practical approach” of the Ontario Securities Commission (OSC) to collaborate with fund issuers appear to be the main reasons why Canada now has four operating Bitcoin ETFs and were able to launch the three new Ethereum ETFs so quickly, while the U.S. is still awaiting a decision on their own crypto ETF proposals.
+
+
+
+The OSC takes the stance of “how can we make it safe for investors to use” rather than view the ETF proposals as a threat they don’t understand. Johnson said, “They don’t really feel threatened. They think about providing a good progressive, flexible regulatory scheme which allows them to maintain a stable financial system that’s relevant for the future as well.”
+
+
+
+Unlike the SEC, which often requires all communication through legal and formal correspondence, Johnson said, “we were able to have discussions with the regulators about their concerns without having to do it through filings in the public domain, that usually causes everything to look like an argument in the newspapers.”
+
+
+
+Instead, Johnson added, “there is a process for being collaborative that exists for Canadian issuers with the Canadian regulators. And that is an amazing thing to be able to put some context around what they [OSC] wanted in practical terms.”
+
+
+
+In an interview with Forkast.News, Alex Tapscott, managing director of Digital Asset Group at Ninepoint Partners, said the U.S. regulatory climate toward Bitcoin ETFs could be changing with a crypto expert now in charge of the SEC.
+
+
+
+“Gary Gensler, who was Biden’s nominee for chairperson of the SEC, was confirmed by the Senate,” Tapscott said. “He has a pretty full plate of different kinds of priorities, I’m not sure how highly a Bitcoin-ETF approval ranks on his list of priorities, but he is someone who knows the technology.”
+
+
+
+”Frankly, an ETF approval in the U.S. is an inevitability,” Tapscott said. “It’s not a question of if, it’s a question of when.”
+
+5. Is China warming to Bitcoin?
+
+PBOC may be warming up to crypto. Image: David290, CC BY-SA 4.0, via Wikimedia Commons
+
+In surprise public statements, a Chinese central bank official — appearing to adopt a new softer stance toward cryptocurrency — said over the weekend that Bitcoin and other crypto assets should be regulated as “alternative investments.”
+
+“We believe Bitcoin and stablecoins are crypto assets that should be regarded as investment vehicles, not currencies,” said Li Bo, deputy governor of the People’s Bank of China (PBOC), in a panel discussion at Boao Forum, the “Asian Davos” that takes place in Boao, in Hainan province, every year.
+
+Li said PBOC is still working on the regulations for Bitcoin and other cryptocurrencies and mentioned if stablecoins want to be widely used payment tools, they will be subject to even stronger regulations in China.
+
+Li also mentioned China’s digital yuan, saying DCEP does not aim to replace the U.S. dollar or any other international currency. Zhou Xiaochuan, the former president of PBOC added that the initial purpose of DCEP is to create a more convenient payment system for the domestic retailing market.
+
+Forkast.Insights | What does it mean?
+
+
+
+The comments made by Li Bo, the deputy governor of People’s Bank of China during the “Digital Payment and Digital Currency” panel discussion of the Boao Forum for Asia Annual Conference 2021 on Sunday, may indicate a realization by China’s officials that decentralized cryptocurrencies like Bitcoin can’t be stopped and regulation is a more appropriate response than an outright ban.
+
+
+
+Wu Blockchain, a China-based crypto blogger, said that Beijing may have some positive policy changes coming for cryptocurrency based on PBOC’s words at the Boao Forum, as “it was the first time PBOC’s deputy governor has positively acknowledged the significance of Bitcoin and other crypto-assets in a direct way as investment vehicles and emphasized compliance of regulation.”
+
+
+
+In many parts of Asia, particularly India there appears to be a concerted effort by the government to legitimize cryptocurrencies as banning them has proved futile in the past. In an interview with Forkast.News, Jeremy Britton, CFO of BostonCoin, said, “India putting a crypto ban is not going to make people stop using crypto. It’s just going to make people use crypto illegally […]That’s going to make people distrust the government. And they know the entire world is using this […] it’s not going to stop people doing it. In fact, it’ll have the opposite effect.”
+
+
+
+Due to crypto’s surging popularity both in India and Asia, Britton said, “the government is fighting a losing battle and they will look very, very silly trying to ban crypto. Whereas other countries such as China tried to ban crypto in 2018, they let it go, then they banned it again and let it go and banned it again.”
+
+
+
+As has been felt by investors in India regarding new cryptocurrency disclosure legislation, China’s own crypto communities see the PBOC’s comments on crypto regulation as an encouraging step by the government. One netizen commented on Weibo, “It is better that PBOC plans to regulate cryptocurrencies, rather than ban it all.” Another netizen said, “regulation on cryptocurrency means cryptocurrency is going to have legitimacy.”
+
+
+
+Encouraging as it may sound, it should be noted that Li Bo’s comments are the only indication that crypto regulation could be coming soon and there has been no official announcement from the PBOC, although it is unlikely that the governor spoke out of turn particularly after the consequences felt by Alibaba founder Jack Ma who “disappeared” for several months after he was openly critical of China’s regulatory regime and attitude towards innovation last October.

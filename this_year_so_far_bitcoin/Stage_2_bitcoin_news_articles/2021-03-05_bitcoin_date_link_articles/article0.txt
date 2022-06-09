@@ -1,0 +1,63 @@
+Bitcoin ended the first week of March with little fanfare as the market reset after the prior week’s 21% plunge. There are more signs the global economic recovery might come faster than previously expected, and traders are speculating on what that might mean for the largest cryptocurrency.
+
+Bitcoin (BTC) trading around $49,196.78 as of 21:00 UTC (4 p.m. ET). Climbing 1.93% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $46,393.39-$49,462.13 (CoinDesk 20)
+
+BTC trades above its 10-hour and 50-hour averages on the hourly chart, a bullish signal for market technicians.
+
+Bitcoin trading on Coinbase Source: TradingView
+
+Source: CryptoCompare
+
+This week’s muted price activity in bitcoin showed in the trading volume from eight U.S.-focused exchanges CoinDesk tracks. It has been flat over the past week, roughly a third of levels seen recently.
+
+“Bitcoin is consolidating around $50,000 after rebounding from lows earlier in the week,” Jason Lau, chief operating officer at San Francisco-based crypto exchange OKCoin, said. “Most recently, its price action has been hovering within this range, while open interest in bitcoin futures has also remained consistent.”
+
+$50,000 also appears to be a key short-term resistance level, according to IntoTheBlock’s newsletter Friday, citing a key blockchain data metric In/out of the money around price (IOMAP).
+
+In/Out of the Money Around Price Source: IntoTheBlock
+
+“A large cluster of addresses (1.46 million) and volume (650,970 BTC) had been bought slightly below $50,000,” IntoTheBlock wrote in the newsletter. “This price range, which already saw high levels of trading activity, is expected to act as strong resistance short-term as investors in this price range may look to break-even on their positions at this point.”
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+At the same time, another large cluster of addresses and volume, bought in a range of $45,600 to $47,000 currently at the money, are likely to provide strong support, IntoTheBlock’s data shows.
+
+“Ultimately, a break past $45,000 may mean bitcoin will retrace further, while a breakout past $50,000 may suggest it is poised for new highs,” IntoTheBlock added. “These are the levels to watch out for before being certain of the correction being over or not.”
+
+Investors will also have to weigh macro factors including a better-than-expected February job report in the U.S., as well as surging bond yields.
+
+Ether underperforms bitcoin, market watches July hard fork
+
+Ether (ETH), the second-largest cryptocurrency by market capitalization, was up a little on Friday, trading around $1,534.25 and in the green 0.11% in 24 hours as of 21:00 UTC (4:00 p.m. ET).
+
+At press time, ether’s price was down approximately 25% from its all-time high at $2,036.55 on Feb. 19. That’s a steeper drop-off than bitcoin 17% retreat from a record $58,332.36 on Feb. 21.
+
+The main reason ether has been underperforming “is that high ether prices are detrimental to Ethereum’s primary use case as a smart contract platform, making transactions extremely costly and resulting in activity moving to other platforms,” said OKCoin’s Lau.
+
+As CoinDesk reported, Ethereum Improvement Proposal (EIP) 1559 is scheduled to take effect in July – regardless of the mining industry’s discontent with the proposal – with the goal of fixing part of Ethereum’s high transaction cost problem.
+
+Other markets
+
+Digital assets on the CoinDesk 20 are mostly in green Friday. Notable winners as of 21:00 UTC (4:00 p.m. ET):
+
+Notable losers:
+
+Equities:
+
+Asia’s Nikkei 225 closed in the red 0.23%.
+
+The FTSE 100 in Europe was also lower, 0.31%.
+
+The S&P 500 in the United States in the green 1.95%.
+
+Commodities:
+
+Oil was up 3.82%. Price per barrel of West Texas Intermediate crude: $66.27.
+
+Gold was in the green 0.09% and at $1698.51 as of press time.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield fell Friday at 1.556%.

@@ -1,0 +1,43 @@
+Bitcoin’s Lightning Network-powered Venmo, Strike, is now available in El Salvador, and its team is planning on a full rollout in Europe soon along with a feature which allows users to convert their paychecks into bitcoin.
+
+The payment app, also described as a “neo bank” by founder Jack Mallers, goes live in the country today, according to a press release. This comes some months after Strike, the brainchild of Lightning developer Jack Mallers, opened up a beta to European Union, U.K. and Philippines residents. Strike released its beta in the U.S. eight months ago.
+
+“Our decision to enter El Salvador as our first non-U.S. market was intentional. One of the opportunities that interest us the most at Strike is our ability to deliver financial tools to emerging markets. El Salvador is the sixth-highest ranked country in inbound remittance from the United States,” Mallers told CoinDesk.
+
+Related: Bitcoin Steady at Resistance; Support Around $57K-$58K
+
+“They don’t have supportive financial regulations, they don’t have supportive fintech banking infrastructure, they don’t have peer-to-peer applications and so on. Through initiatives like the Bitcoin Beach project, they’ve looked to bitcoin as an asset and network to improve financial access,” he continued.
+
+Bitcoin Beach: Bitcoin’s tropical circular economy
+
+Bitcoin Beach is a social experiment in El Salvador, funded by an anonymous bitcoin whale, or large holder, where the local populace has adopted bitcoin as a means of account and payment.
+
+Strike’s latest rollout follows Maller’s jaunt in El Zonta and Punta Manga, the two Salvadoran towns whose local economy has used bitcoin via the Lightning Network since 2020 as a payment method. Strike will now play an integral role in easing the remittance process for these communities and their families abroad.
+
+“We are very excited about how Strike will revolutionize the remittances industry. About 22% of El Salvador’s GDP comes from remittances. Sending money from the U.S. to relatives in El Salvador using legacy companies like Western Union is very inefficient and expensive. Currently, the process involves someone in the U.S. driving to a Western Union office and paying upwards of 20% in fees to send money to El Salvador,” said Michael Peterson of Bitcoin Beach, the project that bootstrapped the bitcoin circular economy in these villages.
+
+Story continues
+
+Related: Coinbase Taps Morgan Stanley Lawyer to Head Up Enterprise Compliance
+
+Peterson said Salvadorans can now use Strike to receive remittances from their families abroad without the added hassle of currency conversion. The relatives top up their Strike with dollars (or euros or pound sterling) and send an equivalent value in bitcoin over the Lightning Network to their families in El Salvador.
+
+“Most people in El Salvador do not have bank accounts, and at this point the Strike App cannot connect to banks [in the country],” Peterson said, highlighting the app’s usefulness for remittances.
+
+“For most people their Bitcoin Lightning Wallet is their bank and their smartphone is more useful than a bank account. In the time it used to take them just to catch the bus, they can now receive their remittance funds while sitting at home and send it as a Lighting payment to the local store to pay to have milk delivered,” Peterson said.
+
+What is Strike?
+
+Strike uses Bitcoin’s Lightning Network – a software stack and network built on top of Bitcoin core protocol that offers near-instant, low-fee transactions – to settle transactions for its users.
+
+All of the tricky cryptography is done in the background for the user; in fact, all balances on the app show up as fiat currency, and deposits and withdrawals can be made for zero fees by linking a bank account.
+
+If a user wants to pay someone (or move their funds to their own wallet), then they can withdraw this cash balance in the form of bitcoin either through Lightning or Bitcoin’s primary network.
+
+Mallers told CoinDesk the app has active beta testers in the “Philippines, Canada, the EU, the U.K., Argentina and more” and is currently in beta in the EU, UK and Philippines, to be fully released soon. He said the payment app’s next frontier for fully functioning services is the EU, adding that there are more than 50,000 users on the European waitlist.
+
+Down the pipe for this year, Strike plans to issue its own Visa card and a “Pay me in bitcoin,” the same feature the neo bank uses to pay out National Football League offensive tackle Russell Okung’s salary. Mallers told CoinDesk this feature would be live very soon for all U.S. Strike users.
+
+“We’re working with some huge names in sports, Hollywood and music,” he said. “We’ll release the ability to get paid in bitcoin to anyone in America in the coming months, right from your Strike app.”
+
+Related Stories

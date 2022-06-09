@@ -1,0 +1,35 @@
+The DOJ said it had recovered much of the bitcoin ransom paid by Colonial. Michael Santiago/Getty Images
+
+The FBI's recovery of ransom bitcoin from a hacker wallet has raised questions about security.
+
+Bitcoin fans have long said the crypto is a government-free zone, unfettered by state scrutiny.
+
+But the US move has thrown that idea into doubt, analysts said, and sent bitcoin tumbling.
+
+Sign up here for our daily newsletter, 10 Things Before the Opening Bell.
+
+Bitcoin's fans have long argued that its decentralized design makes it a currency free from government control and manipulation.
+
+But on Monday, the US Justice Department said it had reached into a bitcoin "wallet" and swiped back $2.3 million that Colonial Pipeline had paid to hackers after a ransomware attack in May.
+
+Analysts said the dramatic move raised questions about just how free from state oversight bitcoin really is.
+
+"The rapid move by US agents in tracing and tracking the ransom paid, then retrieving it after gaining access to a private key to unlock the bitcoin wallet, is a blow to crypto fans who have lauded its untraceable nature," said Susannah Streeter, senior investment analyst at broker Hargreaves Lansdown.
+
+"One of bitcoin's most lauded qualities - its decentralized nature, away from the scope of government interference - is now under question."
+
+The Justice Department said the FBI had tracked down the ransom payment that Colonial Pipeline made to the hacker group DarkSide in May. It said the FBI knew the key for the wallet and swooped in after a judge gave it the go-ahead. Yet it did not say how the FBI came to know the key, which is effectively a password to the storage facility.
+
+Edward Moya, senior market analyst at currency firm Oanda, said: "If the government can control servers and easily track where the money is going, bitcoin might not be as independent from big government as many have initially thought."
+
+Bitcoin tumbled 9% on Tuesday to close to below $32,000, with analysts pointing to the FBI's move as a key factor.
+
+"A portion of the people that use bitcoin are bad players, and some must have got nervous after hearing about the ransom recovery," Moya said.
+
+Yet crypto analysts said any suggestion that the bitcoin network was hacked is false.
+
+Bobby Ong, cofounder of crypto data website Coingecko, said: "This seizure does not make bitcoin any less secure or decentralized, as the Justice Department was able to access the stolen funds with the private key that was already in their possession."
+
+Some argue that increased oversight will make bitcoin more appealing. Anthony Scaramucci, the founder of investment fund SkyBridge, tweeted: "Bitcoin transactions are anonymous but not untraceable. This will make the asset more and more acceptable once people understand this."
+
+Kit Juckes, macro strategist at Societe Generale, said the episode showed the power states have over the financial system. "I've always really assumed that, in the end, governments can win," he said.

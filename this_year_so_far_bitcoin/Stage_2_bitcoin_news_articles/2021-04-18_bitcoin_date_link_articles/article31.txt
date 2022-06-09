@@ -1,0 +1,61 @@
+After a dramatic week in which the crypto industry’s eyes were on Coinbase’s Nasdaq debut, it’s time to step back and reflect. Plenty of pixels and airtime have already been beamed. Plenty of analysis has been performed about the valuation and growth outlook. But not enough has been said about what I think is the long game.
+
+Some have wondered if Brian Armstrong, Coinbase’s CEO and co-founder, is “selling out” by going public. A business that was built around an asset group created to eliminate the need for centralized gatekeepers ends up joining the centralized system. How could he?
+
+You’re reading Crypto Long & Short, a newsletter that looks closely at the forces driving cryptocurrency markets. Authored by CoinDesk’s head of research, Noelle Acheson, it goes out every Sunday and offers a recap of the week – with insights and analysis – from a professional investor’s point of view. You can subscribe here.
+
+I don’t think Coinbase going public is contradictory at all. Look deeper, and you see a strategic move to influence the system from within.
+
+New rules
+
+By joining the ranks of listed companies, Coinbase is now part of the traditional financial establishment. Only, it’s not, really.
+
+It still is a business premised on assets that do not function like traditional assets, and that permit a level and speed of innovation unlike any before in the financial industry. It is still, through and through, a crypto business.
+
+This is more far-reaching than it sounds: It’s not just about providing a platform for the buying and selling of crypto tokens. That’s significant, and currently accounts for 96% of Coinbase’s net revenue. But it’s “just” the on-ramp. It provides a relatively easy way for new investors to take their first steps into crypto – but it won’t change traditional markets.
+
+Coinbase’s commitment to capital markets reform can be seen in a couple of recent announcements. Earlier this month, Coinbase joined forces with Fidelity, Square and others to form the Crypto Council for Innovation, which will lobby policy makers to support the growing crypto asset industry. A couple of days later, Coinbase announced that it was joining the DeFi Alliance, an organization that supports decentralized finance (DeFi) startups with guidance around regulations and market operations.
+
+Institutions are increasingly recognizing that DeFi could impact established processes, but they generally regard it as being too “out there” to be a meaningful threat. Imagine a large cap company actively promoting DeFi services, showing off their advantages and convincing other large cap companies that the operational benefit is worth the risk and the cost.
+
+New incentives
+
+Since money speaks louder than words, let’s look at some of Coinbase’s recent investments.
+
+In January, Coinbase acquired Bison Trails, a startup focused on staking services, to expand into the infrastructure-as-a-service segment. This isn’t just any type of infrastructure, though. Staking is based on a new type of consensus protocol, in which the stakeholders of a network (those that hold the assets) vote on transaction validation and other governance issues. In exchange for locking up their ether holdings, stakers earn a yield. In the case of the Beacon chain, Ethereum’s beta transition towards a full proof-of-stake blockchain, this yield can be as much as 11% annually.
+
+The Bison Trails acquisition is said to be one of Coinbase’s largest to date, which suggests that they will be looking to leverage this beyond simply offering clients access to yield opportunities. Staking exists as an incentive to actively participate in a network’s governance. The key word here is “incentive.” We saw this week how the median CEO pay in the U.S. jumped 7% to $13.7 million at a time when GDP slumped and unemployment soared. The main reason is that top executive compensation is increasingly linked to stock market performance, which can skew strategic decisions by moving focus to short-term results and superficial investor-appeasing press releases.
+
+Imagine the impact of a top-tier listed company showing stakeholders in other industries alternative incentive mechanisms with more balanced rewards and greater involvement in the community.
+
+New types of asset
+
+Another area to keep an eye on is Coinbase’s actual and potential investments in tokenized securities. In the S-1 filing, the company said (my emphasis):
+
+“Shortly following the effectiveness of the registration statement of which this prospectus forms a part, our board of directors will be authorized, subject to limitations prescribed by Delaware law, to issue common stock in one or more series … in the form of blockchain-based tokens.” [emphasis added]
+
+This is a powerful and somewhat overlooked statement. The board of directors can do this “without further vote or action” by the company’s stockholders. And bear in mind the company has stakes in several security token platforms and issuers through its venture capital arm Coinbase Ventures.
+
+Coinbase is not registered as a broker-dealer or alternative trading system (ATS), so it cannot legally trade securities of any type on its main platform. Its subsidiary Coinbase Capital Markets is an SEC-registered broker-dealer, however, and Coinbase Securities is an SEC-registered ATS, so blockchain-based securities trading could well be on the horizon.
+
+Just think of the market buzz if one of Nasdaq’s largest-cap companies issued security tokens, that could trade on its own platform. Nasdaq would effectively be hosting the emergence of a parallel securities market that could end up being significant competition. Talk about changing capital markets from within.
+
+New beginnings
+
+And this is the main point: Coinbase did not “sell out.” It took the “revolution” to the castle. On the way, it got its early investors an exit, gave its shareholders liquidity and set the stage for easier and cheaper capital raises going forward.
+
+The main takeaway, though, is that crypto market businesses are now in the big leagues. They now have a seat at the traditional capital markets table. This is where the real impact on today’s systems starts.
+
+Chain Links
+
+The Senate approved by a 53-45 vote the nomination of Gary Gensler as the new chair of the U.S. Securities and Exchange Commission (SEC). TAKEAWAY: It’s now official, and this is good news as Chairman Gensler understands the crypto industry. He has taught courses on it at MIT, and I have personally heard him speak thoughtfully and knowledgeably about some of its more complicated aspects. There will no doubt be many of these piling up in his in-tray by the time he first sits at his new desk.
+
+Chicago-based Rothschild Investment Corporation recently bought 265,302 shares of the Grayscale Ethereum Trust (ETHE), and added just under 8,000 shares to its previous Grayscale Bitcoin Trust (GBTC) holding of 30,454 shares. At current prices, its GBTC holding is worth almost $2.0 million, while its ETHE holding is at $6.3 million. TAKEAWAY: It’s not often we come across institutional asset managers that are more heavily invested in ether than in bitcoin, but I wouldn’t be surprised to see more of this going forward. (For an overview of the different investment cases for bitcoin and ether, download our recent report “Bitcoin + Ether: An Investor’s Perspective”).
+
+Purpose Investments and CI Global Asset Management both received approval to launch an ether ETF on the Toronto Stock Exchange (TSX). TAKEAWAY: In early March, Evolve also filed for an ETH ETF, so we could soon see a third. If this happens soon, this would make three BTC and three ETH ETFs in North America – just not in the U.S., the world’s largest ETF market. [TradeBlock, a unit of CoinDesk, is the index provider for Purpose Investments.]
+
+Galaxy Digital has filed with the SEC for a bitcoin ETF. TAKEAWAY: For those keeping score, this makes seven bitcoin ETF applications in front of the SEC, with only two currently under active review (VanEck and WisdomTree).
+
+Digital asset manager Grayscale Investments (a subsidiary of DCG, also parent of CoinDesk) has taken an equity stake in ETF issuer ClearShares. TAKEAWAY: Details are scarce (for instance, it’s not clear if Grayscale has a minority or a majority stake), but this seems to confirm Grayscale’s commitment to issuing other types of products. Last week it issued a statement expressing its intention to convert its flagship fund to an ETF when that becomes legally possible.
+
+Swiss-based METACO, whose clients include several large banks, is building an offering of decentralized finance and staking services for its institutional clients. TAKEAWAY: This is one of several signs we have started seeing recently of growing traditional finance in DeFi, beyond the potential profit in holding the relevant tokens. Decentralized finance may seem like the antithesis of the centralized financial services banks offer, but it appears that some appreciate the potential market expansion and cost reduction enabled by some of these new platforms. Furthermore, we are likely to see a growing interest from banks in staking (the equivalent of mining on proof-of-stake blockchains), as it offers a yield unavailable in mainstream markets.

@@ -1,0 +1,95 @@
+The House passed a bill geared toward ultimately clarifying digital asset regulation in the U.S. If it becomes law, the industry might finally have the regulatory clarity it has been seeking.
+
+You're reading State of Crypto, a CoinDesk newsletter looking at the intersection of cryptocurrency and government. Click here to sign up for future editions.
+
+One step closer
+
+The narrative
+
+The U.S. House of Representatives passed H.R. 1602, the “Eliminate Barriers to Innovation Act of 2021,” last week, sending it to the Senate, which referred it to the Senate Banking Committee. If passed and signed into law, the bipartisan bill would commission a working group to evaluate how the U.S. currently treats digital assets.
+
+Why it matters
+
+This might be the first major crypto bill to get anywhere in Congress. What’s more, it’s one that, if passed, would have a direct impact on how the U.S. treats digital assets. This could finally provide companies in this industry with some much-requested regulatory clarity. The fact the bill has support from both parties is another mark in its favor. Of course, if regulatory agencies don’t act until this bill is implemented, it’ll be quite some time before any actual clarity is adopted.
+
+Breaking it down
+
+The entire House of Representatives passed the “Eliminate Barriers to Innovation Act,” introduced by Reps. Patrick McHenry (R-N.C.) and Stephen Lynch (D-Mass.) in March, making it the first major crypto-specific legislation to get through one of the bodies of Congress.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+A number of other bills have also been introduced to define how cryptocurrencies can or should be treated under U.S. law, but few have made any progress.
+
+“It’s the first bill to address regulatory clarity for digital assets and digital asset marketplaces to pass the house, and in a bipartisan fashion no less,” said Amy Davine Kim, chief policy officer at the Chamber of Digital Commerce.
+
+Representatives for McHenry and Lynch did not respond to requests for comment.
+
+According to the terms of the bill, a working group would be established with representatives from the Securities and Exchange Commission (SEC), Commodity Futures Trading Commission (CFTC), financial technology firms, financial firms regulated by the SEC or CFTC, academic institutions or advocates looking at digital assets, small businesses using financial technology, investor protection groups and entities supporting historically underserved businesses.
+
+The group would have one year to evaluate the current legal and regulatory landscape for digital assets, how this landscape impacts crypto markets and how other countries approach the industry.
+
+More important, the group would be asked to draft recommendations for improving the regulatory landscape (and, in turn, improving the markets), as well as best practices to minimize fraud and ensure investors are protected.
+
+The bill asks that the recommendations be limited to the powers the SEC and CFTC already hold.
+
+“It brings a number of stakeholders to the table, so it’s not just the SEC, it’s not just the CFTC, it’s also businesses and thought leaders who actually have expertise in the digital asset space,” Kim said.
+
+Creating a working group with this many stakeholders also brings sunlight to the process of drafting or updating the regulatory framework around digital assets, she noted.
+
+The next step is bringing the bill before the Senate. Right now the Senate Committee on Banking, Housing and Urban Affairs, helmed by Senators Sherrod Brown (D-Ohio) and Pat Toomey (R-Penn.), is looking at the bill.
+
+Kim said the Digital Chamber has already been in touch with some Senators to move the bill forward.
+
+No sponsors have been named yet, according to a search of public records.
+
+A number of other actions last week might further give heft to the idea of regulatory clarity coming to the U.S.
+
+The House of Representatives Committee on Financial Services also renewed the Fintech Task Force last week, under the leadership of Reps. Lynch and Tom Emmer (R-Minn.), both of whom are returning to their roles.
+
+“I’m hopeful that the work of this task force will continue to lay the foundation for a better understanding of these financial technologies, and today’s release of the fintech report is yet another step towards fostering financial innovation and keeping America competitive on the global stage,” Emmer said in a statement.
+
+Paxos receives an OCC charter
+
+What is going on in Turkey?
+
+Two Turkish exchanges collapsed last week. (Tarik Haiga/Unsplash)
+
+Two crypto exchanges abruptly closed up shop in Turkey last week, leaving hundreds of thousands of users at risk of losing potentially billions of dollars in cryptocurrencies. I asked my colleague Sandali Handagama, who has been following the situation, to explain what’s going on. Here’s what she told me:
+
+Within days of each other, not one but two crypto exchanges have come under government investigation in Turkey, where digital assets are largely unregulated.
+
+On April 20, Thodex, one of Turkey’s largest cryptocurrency exchanges, abruptly shut down its exchange and operations, informing users the firm was considering a partnership with new investors. At the time of closing, the exchange was trading upwards of $580 million. The founder and CEO of Thodex, Faruk Fatih Özer, reportedly fled to Albania on the night before the exchange closed, according to local police.
+
+On April 23, Turkish authorities shut down the bank accounts of another crypto exchange, Vebitcoin, after it, too, shut down its exchange citing financial difficulties. The following day, Reuters reported Turkish authorities had detained four people associated with Vebitcoin.
+
+Thodex’s Özer claimed in an update on the exchange’s website that everything is fine, but Turkish police are now searching for him, enlisting Interpol in the process and detaining 62 other individuals associated with the company. Another four individuals associated with Vebitcoin have also been detained.
+
+In response to the two incidents Şahap Kavacıoğlu, governor of Turkey’s central bank, said on Sunday that a wide range of crypto regulations is coming within two weeks, but ruled out an outright ban.
+
+“You cannot fix anything by banning crypto, and we do not intend to do this,” he said.
+
+The fact is, completely banning crypto in Turkey is almost impossible to do. It’s a multi-billion dollar market locally where people have been free to purchase and trade crypto.
+
+But then, suddenly, last month, the central bank banned the use of crypto for payments, although this did not have a long-term effect on trading.
+
+Some people in the Turkish crypto community told CoinDesk they will welcome regulation, especially if it means protection from scams, but it remains to be seen whether the incoming regulations will be favorable to Turkey’s devoted crypto enthusiasts.
+
+Biden’s rule
+
+Changing of the guard
+
+Key: (nom.) = nominee, (rum.) = rumored, (act.) = acting, (inc.) = incumbent (no replacement anticipated)
+
+Gary Gensler was confirmed to be the chairman of the Securities and Exchange Commission for, like, the second week in a row, which is great news for Gensler and his proponents. Gensler was initially confirmed to serve out the rest of Jay Clayton’s term, which expires this year, at the beginning of April. On April 20, the Senate voted to confirm him for a full five-year term expiring in 2026. Regulatory clarity for crypto will be one of his priorities, said the Digital Chamber’s Amy Davine Kim.
+
+Elsewhere:
+
+Outside CoinDesk:
+
+( Signal ) This is what you might call a flex. Signal found a Cellebrite device that just so happened to “fall off a truck” and unpacked both how it works and how it might be exploited. Cory Doctorow has a good thread breaking down exactly what Signal’s Moxie Marlinspike did.
+
+This is what you might call a flex. Signal found a Cellebrite device that just so happened to “fall off a truck” and unpacked both how it works and how it might be exploited. Cory Doctorow has a good thread breaking down exactly what Signal’s Moxie Marlinspike did. (Vice) Greenidge, a power generation facility that burns gas to create electricity, plans to more than double the number of bitcoin miners it operates, and received an important green light to do so last week. Environmental activists are concerned this will also lead to more pollution as the facility burns more gas to power the new miners. The next day, Square and Ark Invest published a report claiming bitcoin will incentivize greater use of renewable energy.
+
+If you’ve got thoughts or questions on what I should discuss next week or any other feedback you’d like to share, feel free to email me at nik@coindesk.com or find me on Twitter @nikhileshde.
+
+You can also join the group conversation on Telegram.

@@ -1,0 +1,241 @@
+Welcome back to Cook's Kitchen!
+
+
+
+Last week I explained what the Bitcoin faithful were missing about their precious "digital gold" in this article and video...
+
+
+
+Bitcoin Crash Lessons: Passionate Belief Still Needs Risk Management
+
+
+
+And in the past week, I've had many conversations about those views, even publicly on Twitter. You can always follow me @KevinBCook to eavesdrop in real-time, but I'll share one exchange that was right up our alley.
+
+
+
+First, the premise: the acerbic wit of one OJ Renick, anchor extraordinaire of the TD Ameritrade Network investing broadcast, coined an important new market acronym Wednesday to describe, and warn, Bitcoin faithful about what was happening in their minds and margin-based accounts.
+
+
+
+It was MUD: Maniacal Unwavering Devotion.
+
+
+
+And it was a beautiful contribution to the conversation I began last week.
+
+
+
+Second, the interaction: Immediately, OJ's tweet about his article explaining MUD (published on his LinkedIn blog) drew some very important fire...
+
+
+
+A crypto thought leader wrote...
+
+
+
+"I don't know a single *crypto* thought leader that warned people of the upcoming *bitcoin* crash" (quoting OJ Renick from his article).
+
+
+
+He proceeds...
+
+
+
+"Why should I (a public proponent of accumulating bitcoin for the long term) encourage people to gamble their bitcoin by trying to time unpredictable markets?"
+
+
+
+And here was my immediate reply...
+
+
+
+Exactly the question needs to be asked & answered. I proposed last week that "faithful fundamentalists" ignore that even a revolutionary new asset class trades at market prices, susceptible to human emotional extremes (bubbles & crashes). Think of newbs following & buying at $60K.
+
+
+
+My point, as always here, was that it's fine for BTC "thought leaders" to engage in fantasies of accumulating their precious for the "inevitable" surges to $100K and $500K, but the average follower with less than $10K to spare can't really handle or understand the 50% crashes.
+
+
+
+Until Bitcoin has quantifiable use cases and big institutional support (think buying from BlackRock, JPMorgan, and central banks), the fundamental value of it is hard to model, let alone quantify. That means it's trading mostly on emotional speculation and passionately-held beliefs. Or influential whims and changes of heart (@elon if you musk ask who).
+
+
+
+Don't get me wrong. In my piece last week, I argued that Bitcoin is an entirely new asset class for the digital age. And there are good reasons that it's 10X better -- and more volatile -- than that barbarous relic gold.
+
+
+
+So maybe we should warn new BTC "investors" about possibilities for "wild randomness," as the great Benoit Mandelbrot described the central feature of complex and chaotic markets. After I understood what he and Nassim Taleb were trying to teach us about volatility in human-built systems, I realized that "when anything can happen, there is no standard for deviation."
+
+
+
+The Semi Ecosystem is a Rich Jungle of Investing Opportunities
+
+
+
+While some "coiners" look for opportunity in the hundreds of alt-coins that may go from a thousandth of a cent to 5 cents -- for a 5,000X windfall -- those dreams will remain as infrequent as they are random.
+
+
+
+What I'm encouraging investors to do is look at the companies building the actual infrastructure of the Crypto-Blockchain space.
+
+
+
+And that's what I've been focused on for the month of May with deeper dives into the sales and earnings growth of Micron MU, Applied Materials AMAT, and NVIDIA.
+
+
+
+On Wednesday morning, I published a piece on ASML Holding N.V. ASML the Netherlands-based giant of photolithography for integrated circuit (IC) manufacture.
+
+
+
+That article spins a few quick circles around many of the players that we find most important in the buildout of the Nanosphere. That was my new term last year for the world of sub-10 nanometer technology that was becoming crucial to the next stages of ICs for phones, cars, medicine, and aerospace.
+
+
+
+But then I found that futurist and technology guru George Gilder calls it the Nanocosm, and I'm going with him since he is probably the best independent semiconductor researcher on the planet. He is also the author of the 1989 book Microcosm: The Quantum Era in Economics and Technology, which set the stage for a whole generation of investors and technologists to understand this invisible world of power laws.
+
+
+
+Be sure to check out the article on ASML linked above to find out which mega-investor just became the 5th largest holder of ASML shares in Q1.
+
+
+
+NVIDIA Is Taking It Down, Way Down
+
+
+
+In the video attached to this article, I talk a bit about NVIDIA NVDA innovation heading down to the 5nm level for its next-gen GPU architecture, Hopper. Since NVIDIA contracts Taiwan Semiconductor, or TSMC, to build this hardware, word gets out in the supply chain and DigiTimes has been reporting on this "mystery" chipset for the past year.
+
+
+
+What is known with a little more certainty is that NVIDIA has orders in with TSMC for 7nm technology that goes into Ampere GPU cards. According to Kara Copple writing for WePC.com "TSMC will be producingApple’s AAPL 5nm ARM-based processors and also AMD’s Ryzen 5000 series of CPUs. It’s fair to say TSMC has some big projects on its hands."
+
+
+
+And for TSMC to build any of this requires the sophisticated laser etching technology of ASML.
+
+
+
+I taped the video on Wednesday morning before NVIDIA reported its latest quarterly results. As I type now, investors are reacting to stunning growth in the company's two primary segments:
+
+
+
+Gaming revenue of $2.76 billion was up 106% from a year ago. Datacenter revenue of $2.05 billion was up 79% from this time last year.
+
+
+
+They even got a boost from crypto mining as they offer that niche market new specialized GPUs for massively parallel, high-speed processing. More importantly, current Q2 revenue guidance at $6.3 billion was more than 14% higher than the analyst consensus of $5.5B! That has investment banks jumping over each other to raise price targets north of $750.
+
+
+
+After NVIDIA's show-stopping annual GPU Tech Conference, held virtually in April, I wrote about my own $750 PT on NVDA and how Datacenter was on pace to overtake Gaming this year. Here's what I wrote then...
+
+
+
+Jefferies semiconductor analyst Mark Lipacis wrote a powerful research report in September that the former is growing at 40% CAGR vs just 10% for the latter.
+
+
+
+Based on that math, this is the year that Datacenter takes over Gaming in revenues. And based on his 5-year projections, Lipacis sees Gaming growing to a nearly $12 billion business while DC blows the doors off to $34 billion.
+
+
+
+For perspective, this year's total revenue is only expected to be in the neighborhood of $22.5 billion.
+
+
+
+To be clear, Lipacis was inspired to write this new report after NVIDIA announced it had an agreement to buy UK-based ARM Holdings for $40 billion. That deal remains controversial -- for everyone but NVDA -- and also uncertain in terms of the probability of actually closing any time soon.
+
+
+
+The primary issues revolve around ARM's technology for mobile devices which is licensed to everyone from Apple to Qualcomm.
+
+
+
+ARM also deals in CPUs (serial processing), which is part of what made it attractive to NVIDIA's GPU (parallel processing) expertise. But one of the most important elements to keep in mind when talking about Jensen Huang & Co. is that he surrounds himself with the best engineering talent in the world, just like Elon.
+
+
+
+And that's why they develop complete "stacks" of hardware and software in the CUDA platform to give power tools to data miners and modelers, automation innovators, and scientific researchers expanding the limits of our knowledge and technology in medicine, energy, aerospace, materials, autos, and smart cities.
+
+
+
+Gilder on the Nanocosm
+
+
+
+I mentioned that my ASML article has details on the new 5th largest investor. The video actually has a good screenshot of the top ten.
+
+
+
+But I also want to share why George Gilder is a new buyer of ASML shares, which have more than doubled in the past year from $325 to over $650. I'll let him explain in his own words...
+
+
+
+"Without Taiwan Semiconductors and crucially ASML, your iPhone 12's M-1 processor chip would not exist. Without ASML, TSM would not be able to make Huawei's 5G HiSilicon processors. The same is true for Samsung and your Galaxy phone.
+
+
+
+"ASML is the key. ASML's technical lead in the field is so great, and growing, that it has essentially 100% market share of the photolithography market for single-digit-nanometer geometries."
+
+
+
+The Semi Ecosystem is a complex jungle. As complicated as NVIDIA's proposed acquisition of ARM may be, they also contract with the other big Asian chip foundry, Samsung, to spread out their risk away from TSMC -- and maybe to avoid any technology IP slipping into view of Apple.
+
+
+
+For this jungle, it pays to pay attention to a wily and brilliant veteran like Gilder, who knows that a premier "arms dealer" like ASML and its invisible technologies may be one of the smartest bets of all. Be sure to check out my ASML article to learn about his latest work on the Blockchain.
+
+
+
+Disclosure: I own NVDA shares for the Zacks TAZR Trader portfolio.
+
+
+
+Bitcoin, Like the Internet Itself, Could Change Everything
+
+
+
+Blockchain and cryptocurrency has sparked one of the most exciting discussion topics of a generation. Some call it the “Internet of Money” and predict it could change the way money works forever. If true, it could do to banks what Netflix did to Blockbuster and Amazon did to Sears. Experts agree we’re still in the early stages of this technology, and as it grows, it will create several investing opportunities.
+
+
+
+Zacks’ has just revealed 3 companies that can help investors capitalize on the explosive profit potential of Bitcoin and the other cryptocurrencies with significantly less volatility than buying them directly.
+
+
+
+See 3 crypto-related stocks now >>
+
+
+
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+
+
+
+Micron Technology, Inc. (MU) : Free Stock Analysis Report
+
+
+
+NVIDIA Corporation (NVDA) : Free Stock Analysis Report
+
+
+
+Apple Inc. (AAPL) : Free Stock Analysis Report
+
+
+
+ASML Holding N.V. (ASML) : Free Stock Analysis Report
+
+
+
+Applied Materials, Inc. (AMAT) : Free Stock Analysis Report
+
+
+
+To read this article on Zacks.com click here.
+
+
+
+Zacks Investment Research

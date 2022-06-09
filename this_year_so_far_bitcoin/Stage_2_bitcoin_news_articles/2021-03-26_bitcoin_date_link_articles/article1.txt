@@ -1,0 +1,67 @@
+Here’s some free advice for the Honda Motor Company: Market your cars to the newly bitcoin rich.
+
+I’ve already got the ad copy for you.
+
+A true bitcoiner is building for the future and deferring gratification. She doesn’t blow her hard-earned savings on flashy toys. She prefers a solid, dependable family car.
+
+And a slogan….
+
+Lambos are for losers. HODLers drive Hondas.
+
+Marc Hochstein, CoinDesk's executive editor, owns some bitcoin, and if he were smarter he'd have bought more years ago. This article is excerpted from The Node, CoinDesk's daily roundup of the most pivotal stories on the future of money and Web 3.0. You can subscribe to get the full newsletter here.
+
+OK, so I’m no Don Draper. It’s doubtful Honda or any other affordable carmaker would heed my suggestion any time soon. It’s different for luxury electric vehicle maker Tesla, which doesn’t need to be told – it’s already doing something similar.
+
+Not the author (Getty Images)
+
+Diamond hands
+
+This week, the manufacturer began accepting bitcoin (BTC) as payment for its cars, delivering on a promise made in early February by its impish chief executive, Elon Musk. Underscoring his faith in the currency, Musk declared on Wednesday that Tesla would keep rather than convert any bitcoin it earns from car sales.
+
+Typically, the rare merchant that accepts crypto as payment for goods or services will swap it right away for U.S. dollars or another fiat currency. That’s understandable, given the price volatility and the low likelihood that a merchant’s suppliers would take magic internet money. But the Tesla chief said his company is HODLing.
+
+For the uninitiated, HODLing is bitcoin slang for refusing to sell BTC, either to take profits in a bull market or to cut losses in a bear market. Based on a forum poster’s drunken misspelling of “hold,” the word broadly connotes a steely determination in the face of fear, uncertainty and doubt. A HODLer is someone who, to borrow from Rudyard Kipling, “can keep your head when all about you/Are losing theirs and blaming it on you.”
+
+Not Satoshi Nakamoto (Creative Commons)
+
+Musk clearly is one, in at least the narrow sense, having invested $1.5 billion in bitcoin for Tesla’s corporate treasury beginning this year. Over the last 12 months, the cryptocurrency’s price has soared nearly 700%, as inflation fears, a self-perpetuating hype cycle and possibly pandemic lockdown boredom spurred buying among individual and institutional investors. Like Tesla, for instance.
+
+Yet, while I’m sure Musk would be happy to keep growing Tesla’s BTC stash one car sale at a time, I strongly suspect that isn’t his only or main motivation.
+
+Rather, my gut is that the payment option is at least in part, if not primarily, a clever marketing maneuver.
+
+Incentives to HODL
+
+First off, there’s no indication Tesla is offering a discount to buyers who pay with bitcoin, which you might expect the company to do if its main goal were to acquire more of the stuff. Also, Tesla surely understands bitcoiners are strongly disincentivized to part with their “sats” (a loving nickname for the currency’s smallest unit, 0.00000001 BTC, in homage to creator, Satoshi Nakamoto).
+
+This is partly for the reason I alluded to in my quixotic Honda pitch: Bitcoin is deflationary by design. There’s a set amount – 21 million BTC – that will ever be minted. Yet, as it grows in popularity, denominating things such as luxury cars in bitcoin ends up hurting the buyer over the long run.
+
+While the price oscillates wildly from one minute to the next, if you zoom out the lens real wide, bitcoin has generally appreciated over time, which encourages saving (or “hoarding,” depending on your worldview). Remember that pizza purchased for 10,000 bitcoin in 2010? Ten thousand bitcoin is worth $500 million today. Hope the pizza tasted good.
+
+Would you sell your birthright for a slice? No? How about the whole pie? What if I throw in some garlic bread? (Nicolás Perondi/Unsplash)
+
+Also, in the U.S. crypto is treated as property for tax purposes, which means that if you buy a coin for, say, $1 and it doubles in value and you spend that extra dollar on a cup of coffee, you are supposed to report the purchase to the Internal Revenue Service and pay tax on it. It remains to be seen whether Uncle Sam will go after every last Joe Schmoe who fails to report a piddling purchase. But it’s reasonable to assume anyone who uses crypto gains to buy a Tesla (which can run from $39,000 to $150,000) would show up on the taxman’s radar.
+
+Even if a buyer can overcome those hurdles, Tesla isn’t making it easy. As CoinDesk’s Daniel Kuhn reported Thursday, when paying Tesla with bitcoin, a car buyer has “about 30 minutes” to complete the transaction or else the price in BTC expires and a new one must be requested. Also, Tesla will only accept exact amounts and will not reimburse payments sent to an incorrect address.
+
+All told, even if you have large bags of bitcoin, it may make more sense to pay with fiat, whether for a Tesla or a tall latte.
+
+Tribal signaling
+
+Crypto is already obsessed with a car: the Lamborghini. But it’s more of a joke than anything. Were Tesla to become the true status symbol in this industry, it could move the needle.
+
+By embracing bitcoiner culture, Musk is likely to make more sales among that crowd than would happen otherwise, even if they’re settled in greenbacks. Any extra bitcoin Tesla picks up would be gravy.
+
+In the Wednesday tweet, Musk also revealed Tesla is running its own node, rather than relying on a third party to tell it what’s happening on the Bitcoin network. This is considered a best practice for advanced users, but it’s also a signal to the tribe: I get it. I’m one of you. It’s closely associating the Tesla brand, and Musk’s, with the ethos of the sovereign individual that animates the crypto community, not least of all the bitcoin faithful.
+
+The absolute madman (NORAD and USNORTHCOM Public Affairs)
+
+Think of it as a weird 21st century twist on affinity marketing, but without any formal partnership like the one my college had with a credit card lender in the 1990s, which led to me getting up to my ears in debt from charging stuff I didn’t need and couldn’t afford. Gee thanks, alma mater; I wish bitcoin were around back then to set me straight.
+
+There is also a less charitable interpretation of Musk’s messaging: That he’s trying to divert attention away from bad news for Tesla. As CoinDesk’s Muyao Shen reported in February, the big coming-out party coincided with the revelation by Chinese officials that they were questioning Tesla about quality and safety issues. And this week’s bitcoin announcement conveniently happened right after reports that U.S. regulators are scrutinizing Tesla’s autopilot technology.
+
+If true, this explanation is not mutually exclusive with my hunch. Tesla HODLing bitcoin could be a cynical PR move and a marketing coup – and a sincere adoption of an innovation in the world of bits by an innovator in the world of atoms, all at the same time. Binary thinking is for fools.
+
+It’s far from certain if the marketing ploy, if that’s what it is, will work. “Not quite sure if anything sold yet in bitcoin,” a Tesla representative told my colleague Thursday.
+
+But for my money, it’s better than anything Madison Avenue could come up with.

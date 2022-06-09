@@ -1,0 +1,23 @@
+It’s been a busy year for BSV enterprise blockchain. Amid surging interest in digital currencies and blockchain tech, BSV is continuing to win over developers, entrepreneurs, and government agencies as the platform of choice for scale.
+
+June 2 brings the next Bitcoin SV Virtual Meetup for EMEA (Europe, the Middle East and Africa), the latest red letter day in the calendar for those who are keen to learn more about BSV blockchain and the exciting possibilities afforded by the technology. The free event kicks off at 6 p.m. Zurich time on June 2, with registration now open for those who wish to attend.
+
+The Bitcoin SV Virtual Meetup has been organized by the team at Bitcoin Association, part of their remit to run events around BSV blockchain, to raise awareness of the technology, and to provide a supportive infrastructure to the community around building and developing on the BSV enterprise blockchain.
+
+This EMEA edition is one of several geographically segmented events scheduled to take place in the coming weeks and months, in the latest leg of the busy events calendar for Bitcoin Association and the BSV ecosystem this year.
+
+The event will bring together speakers from across the BSV community to discuss some of the most pressing issues affecting the ecosystem, at a time when more people and entities than ever before are turning to BSV enterprise blockchain to power their projects.
+
+The event will be chaired by Bernhard Müller, general manager at CENTI. Müller is set to kick things off with opening remarks, welcoming attendees to the event and setting out the rest of the agenda for the meetup. CENTI is a point of sale payment system for accepting payments in BSV, giving Müller unique insights into developing applications on and for the BSV blockchain, with significant experience to contribute to the discussions.
+
+Müller is then set to hand the baton to Kurt Wuckert Jr., Chief Bitcoin Historian at CoinGeek. Speaking on behalf of CoinGeek Zurich, Wuckert will discuss the positioning of BSV blockchain in the context of the Bitcoin journey, from Satoshi whitepaper to present day. With one eye to the past and another to the future, Wuckert’s presentation is set to flesh out the role the BSV blockchain will play in shaping the technologies of tomorrow.
+
+Also joining the virtual meetup is Stephan Nilsson, co-founder and CEO of UNISOT. Nilsson is set to discuss UNISOT release modules for supply chain management via the blockchain, tools which can be used by others building similar solutions to track, record and monitor data transactions across the chain. In particular, Nilsson will draw on his own experiences of leading the development of UNISOT in respect of building solutions for and on the BSV platform.
+
+His presentation is set to look more at the technical side, and how these and other modular tools can be used in the process of building apps powered by BSV blockchain.
+
+Another speaker is Angus Brown, co-founder and CEO at wallet app Centbee, who will be looking at the role of regulatory sandboxes, and why they matter to developers working with BSV blockchain. With reference to Centbee’s own experiences, Brown is set to discuss why having the flexibility of regulatory leniency is important for developers and innovators, particularly in financial services and emerging technologies.
+
+Attendance at the virtual meetup is free, with registration available here.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

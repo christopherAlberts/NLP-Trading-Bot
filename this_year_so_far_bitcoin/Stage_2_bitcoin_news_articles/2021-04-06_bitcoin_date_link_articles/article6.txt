@@ -1,0 +1,55 @@
+Font Size: A A A
+
+Wyoming’s first cryptocurrency bank may herald a new era of U.S. cryptocurrency regulation.
+
+Font Size: A A A
+
+Wyoming has unleashed the Kraken.
+
+In 2020, Kraken, a platform for exchanging cryptocurrencies such as Bitcoin, became the first cryptocurrency company to secure a bank charter in the United States, signifying the cryptocurrency industry’s growing mainstream acceptance. Kraken’s bank also represents a step forward in Wyoming’s efforts to become the U.S. center for cryptocurrency companies, with new laws designed to position the state as the “Silicon Prairie.”
+
+The U.S. federal government has yet to establish a clear framework for cryptocurrencies. In the absence of federal regulation, states such as Wyoming have independently approached regulating cryptocurrencies, despite their digital, borderless nature.
+
+In 2019, a new Wyoming law established Special Purpose Depository Institutions (SPDI) that permits cryptocurrency companies to create financial institutions resembling custodian banks, which focus on holding assets for clients. Wyoming legislators designed the SPDI Act with cryptocurrency companies in mind, highlighting “the rapid innovation of blockchain technology” that underpins many cryptocurrencies and that most “federally insured financial institutions” cannot hold cryptocurrencies.
+
+SPDIs operate under several conditions that other banks typically do not. SPDIs cannot offer loans. They must hold enough liquid assets to cover 100 percent of deposits while also maintaining an additional 2 percent of deposits as a contingency account “for unexpected losses and expenses.” And before an SPDI begins operating, Wyoming requires that shareholders fund the SPDI with at least 5 million dollars and set up a surplus fund to cover “three years of estimated operating expenses.”
+
+These stringent requirements may reassure regulators and potential customers that SPDIs will remain solvent despite high volatility in cryptocurrency prices when compared to traditional assets such as real estate or stocks.
+
+Not all are convinced, however. The Bank Policy Institute, for example, claims that Kraken’s bank is “an accident waiting to happen.”
+
+Despite these concerns, SPDIs may become an attractive option for cryptocurrency companies.
+
+Most states require new banks to obtain Federal Deposit Insurance Corporation (FDIC) insurance, which covers certain U.S. dollar accounts but does not protect other assets such as stocks—or cryptocurrencies. This insurance requirement normally hinders cryptocurrency companies from offering banking services. But Wyoming now allows SPDIs to operate without FDIC insurance and instead substitutes its significant reserve requirement. (Wyoming law, however, permits SPDIs to apply later for FDIC insurance if it should ever become available for cryptocurrencies.)
+
+The ability to offer banking services as an SPDI offers relief to cryptocurrency companies that have historically lacked access to normal banks as partners. Cryptocurrency companies in the United States have traditionally banked with a handful of cryptocurrency-friendly banks or otherwise turned to smaller, sometimes less capable intermediaries. For example, after Wells Fargo stopped processing cryptocurrency exchange Bitfinex’s transactions, Bitfinex turned to a Panamanian company that later allegedly lost $850 million worth of Bitfinex funds. If Bitfinex “had been properly banked,” it may have avoided this mishap.
+
+Traditional banks’ attitudes toward cryptocurrency companies may be shifting—big banks such as JPMorgan that once called Bitcoin a fraud now take cryptocurrency exchanges as clients. But cryptocurrency companies still have several reasons to pursue their own banking operations.
+
+They may, for instance, prefer to pursue SPDIs over working with third-party banks that could later de-platform them in response to political pressures. Such concerns linger following Operation Choke Point, in which President Barack Obama’s Department of Justice pressured banks to avoid servicing legal but politically unsavory businesses, such as payday lenders.
+
+Integration of cryptocurrency companies into existing regulatory and financial systems may also assuage hesitant potential customers. Kraken’s SPDI comes with oversight from the Wyoming Division of Banking. And the state’s SPDI Act allows companies to apply to join the Federal Reserve System, bringing them closer to larger payments networks.
+
+Moreover, being a bank in a growing industry could prove profitable to cryptocurrency companies. Especially when other such firms are relying on third parties to process payments and convert between cryptocurrencies and dollars, offering banking services through a company’s own SPDI could allow it to provide quicker service than competitors do.
+
+Although predictions for cryptocurrency activity vary greatly, optimists predict massive growth over this decade. Enabling cryptocurrency companies to offer banking services presents an opportunity to capture part of that growth.
+
+Such optimism undergirds Wyoming’s SPDI Act. The state hopes to develop itself as a hub for cryptocurrency companies. SPDIs must be chartered in Wyoming, but they may be able to offer their services across the United States.
+
+Beyond the SPDI Act, Wyoming has passed a dozen other laws to entice cryptocurrency companies to locate in the state. For instance, the Financial Technology Sandbox Act offers “supervised, flexible regulatory” oversight for cryptocurrency companies to test innovations in “a welcoming business environment.”
+
+Meanwhile, Wyoming’s Digital Asset Act classifies cryptocurrencies as property under existing laws and clarifies that the Uniform Commercial Code applies to cryptocurrencies, offering users greater regulatory clarity in business. Wyoming even set up a new chancery court that, like Delaware’s, focuses on business disputes.
+
+Much as Delaware captures an outsized share of U.S. businesses generally, proponents of Wyoming’s cryptocurrency regime claim that Wyoming will become the “Delaware” of cryptocurrency companies.
+
+Other jurisdictions are competing for that mantle as well. Over a dozen states introduced bills in 2020 to regulate or study regulating cryptocurrencies. New York’s early attempt at regulating cryptocurrency companies—the BitLicense—precedes Wyoming’s efforts. But New York has so far attracted few applicants, acquiring instead a reputation as a state with onerous regulatory hurdles.
+
+More recently, the mayor of Miami, Florida, has proposed including Bitcoin in the city’s investment portfolio and paying municipal workers in Bitcoin in efforts to make Miami a center for tech industry innovation.
+
+Regulatory competition for cryptocurrency extends internationally as well. Switzerland’s Zug district established a Crypto Valley with a “business-friendly regulatory framework,” and Singapore situated itself as a regional cryptocurrency hub.
+
+Despite Wyoming’s efforts, the United States’ lack of a coordinated, federal approach could push cryptocurrency innovators to other countries.
+
+Wyoming’s approach, however, may ultimately inform a federal strategy, as recently elected U.S. Senator Cynthia Lummis (R-Wyo.) reportedly became the first senator to own Bitcoin. Senator Lummis has hired a key figure behind Wyoming’s cryptocurrency regulations for her staff and reportedly plans to “introduce the topic of Bitcoin” to the Senate and increase “the understanding in the Senate about Bitcoin.”
+
+In the meantime, Wyoming has already approved its second SPDI. More SPDIs would appear to be riding into town.

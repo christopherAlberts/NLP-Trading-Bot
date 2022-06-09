@@ -1,0 +1,119 @@
+April 22, 2021 9 min read
+
+This article was translated from our Spanish edition using AI technologies. Errors may exist due to this process.
+
+Opinions expressed by Entrepreneur contributors are their own.
+
+Investing in Bitcoin and other cryptocurrencies –Altcoins– is becoming easier given the constant technological development, which allows us to buy these digital currencies through applications from our smartphones.
+
+Key points:
+
+Exchange Platforms
+
+Security measures
+
+The ABC to buy cryptocurrencies
+
+Exchange Platforms or Exchanges
+
+They are basically digital exchanges, they allow you to buy Bitcoin and other cryptocurrencies such as Ethereum , Litecoin, BNB, XRP, many more. Each platform has a diverse variety of cryptocurrencies, as well as stablecoins (“stablecoins” - cryptocurrencies developed to avoid volatility) and their own commissions per exchange. According to CoinMarketCap , there are more than 300 Exchange platforms at the time of writing.
+
+Platforms such as Bitso , Binance , Mexo , Coinbase and Crypto are as popular as they are practical in North America given the characteristics that each one offers its users, both for the purchase of cryptocurrencies and for their trading and staking functions, among others.
+
+Each platform offers different ways to acquire cryptocurrencies, listed below:
+
+Cryptocurrency offering
+
+Binance is the platform with the highest trading volume, as well as the largest offer with a sum of 150 cryptocurrencies, MEXO, Coinbase and Crypto offer more than 50 cryptocurrencies and Bitso only 9 cryptocurrencies, of which 2 are stablecoins. However, in Mexico, Bitso offers as a differentiating factor the transfer of funds directly to a bank account, which makes it the bridge between Crypto and FIAT (money by decree) par excellence in the country.
+
+The Mexican Exchange
+
+In August 2020 MEXO began operations in Mexico, its purpose is to professionalize the digital asset market in Latin America. In addition to the purchase of cryptocurrencies, it has Leveraged Trading, as Coinbase PRO -in the United States- and BINANCE do. It recently launched its Grid Trading feature, which automatically performs buy and sell operations using Artificial Intelligence .
+
+Security measures
+
+Something very important to consider is that you do not depend on third parties to be able to acquire a cryptocurrency -or fractions of these- you just have to register in an Exchange, and to create your account you just have to fill out the registration forms.
+
+As with any digital financial instrument, consider:
+
+Preferably keep your passwords stored on paper - paper - in a place where only you know where you keep them, as well as the "seed phrases" (set of words) of your cryptocurrency wallets.
+
+Complete the KYC ( Know Your Customer ) processes, which are intended to prevent Identity Theft and Financial Fraud, this will also increase your limits for transferring funds in some Exchanges.
+
+Use Google Authenticator to access each Exchange. If you need to migrate your device, Google offers the function of exporting each of your accounts in a simple process.
+
+Use a portfolio - physical or digital - that meets your needs for those cryptocurrencies in which you will invest in the medium and long term.
+
+Create different passwords for each Exchange.
+
+Avoid accepting invitations from those who ask you to invest in plans and packages with the promise of fixed returns or of doubling your investment in a given time.
+
+The ABC to acquire cryptocurrencies
+
+Newcomers to crypto generally share the same doubts:
+
+How much do I have to invest? As I shared with you in the previous point, there are no plans or packages, only you can determine the amount of capital you want to invest. One tip is that you only allocate the investment capital, once you have already covered your expenses - expenses, services, food, transport, insurance, etc.-
+
+As I shared with you in the previous point, there are no plans or packages, only you can determine the amount of capital you want to invest. One tip is that you only allocate the investment capital, once you have already covered your expenses - expenses, services, food, transport, insurance, etc.- Do I have to buy 1 full Bitcoin? No. You can buy fractions of Bitcoin, as well as other cryptocurrencies.
+
+No. You can buy fractions of Bitcoin, as well as other cryptocurrencies. The exchange to which I can send funds from my bank does not include the cryptocurrencies that I want to buy. What I can do? Using BITSO as an example, you can buy cryptocurrencies and send them to another Exchange where you have registered. You can do it with XRP and Litecoin preferably given the low commissions and time it takes to reach your other Exchange.
+
+Is an exchange different from a portfolio? Yes, the main difference is its purpose. In an Exchange you will have an address for each cryptocurrency that you acquire or with which you operate, these exist to facilitate transactions between users and wallets, and your own cryptocurrency portfolio, whether physical or digital, serves to store and protect your cryptocurrencies.
+
+A. Transfer of Funds
+
+Once you have investigated each Exchange and registered in those that are most practical for you, as well as in those whose cryptocurrency offer includes those of your interest and you have defined the amount you want to invest, you can buy the cryptocurrencies you want.
+
+Markets available in BITSO
+
+BTC / MXN
+
+ETH / MXN
+
+XRP / MXN
+
+LTC / MXN
+
+BCH / MXN
+
+TUSD / MXN
+
+MANA / MXN
+
+BAT / MXN
+
+DAI / MXN
+
+For each of the above, you will have an address that will function as a wallet, and that for the security of your account will change for each transaction, however, the addresses previously assigned to your account continue to work and credit funds in your BITSO account.
+
+Each cryptocurrency has its own interest rate and operates under its own chain of blocks (“blockchain”), this is important since it determines the transfer costs to another exchange or wallet, as well as the number of confirmations that a cryptocurrency requires to arrive. to the destination portfolio. These confirmations are a measure of how many blocks need to be created after the block in which your transaction was created. It is basically a security measure and determines the time it takes for each transaction to reach its destination.
+
+B. The role of cryptocurrencies like XRP and LTC
+
+At the beginning I shared with you that BITSO is considered the bridge between Crypto and FIAT money, this because of the ease of sending funds to the Exchange either from your banking apps or in cash from OXXO, as well as sending funds back to your bank account , where once your capital is available, you will be able to operate in the Mexican Peso Markets of:
+
+If the cryptocurrency you want to acquire is not in BITSO and not in Crypto (.com), Exchanges in which you can buy cryptocurrencies directly, you must transfer funds to another Exchange in which you already have a registered account and this is where cryptocurrencies such as XRP , Litecoin (LTC) and Stellar Lumens (XLM) stand out for their low transaction fees and the number of confirmations required, which in the case of XLM only requires a confirmation. Both XRP and LTC can be acquired in BITSO, so the process to acquire a cryptocurrency that is not in BITSO would be:
+
+It is important to point out, for those who start in Crypto, that the destination addresses are of the cryptocurrencies that you are going to transfer. If you purchased Litecoin in BITSO to transfer to another Exchange, enter the destination Exchange, choose Litecoin and click on Deposit. This will show the address of your Litecoin wallet on the destination Exchange, as well as the QR code to facilitate sending.
+
+In the case of sending XRP, when you click on the destination Exchange to reveal your XRP address, you will also have a Destination Tag, which you must include when transferring funds and is required to determine to which user the funds sent will be assigned.
+
+Once your XRP or LTC have been received, you can sell them for BTC or a stablecoin, usually USDT, to use them to buy the cryptocurrency in which you are interested in investing.
+
+C. Types of orders
+
+Cryptocurrency exchanges on an Exchange occur between buyers and sellers through "Order Books" or Order Books, in which all purchase and sale offers are found. These exchanges can be executed through orders from:
+
+Market
+
+In this type of Orders there is no control over the price, they are used when you want the transaction to be executed immediately at the best available price, which will not always be the current price shown. This type of order is used by the BITSO and COINBASE apps. In BITSO, to buy or sell at specific prices, it is recommended to use other types of orders in BITSO Alpha.
+
+Limit
+
+In these orders you set the price at which you want the purchase or sale of an asset to be executed and it is executed when the price you set coincides with the price of the order book, it offers a better price than the market order.
+
+Stop Limit
+
+This type of order offers greater control over the price since you set the price at which you want it to be executed. The Exchange converts it into a market order when the trigger price (stop) is reached, it is at this time that the order is created in the order book and will be executed at the best available price, now as a Market order but which may not be fully executed.
+
+What are the crypto and / or projects in which you want to invest?

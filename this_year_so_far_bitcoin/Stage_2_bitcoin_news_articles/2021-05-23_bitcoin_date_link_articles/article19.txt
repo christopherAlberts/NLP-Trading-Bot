@@ -1,0 +1,49 @@
+Reports Analyze Bitcoin Price Crash and Network Energy Consumption
+
+By: Keith R. Murphy
+
+A well-known blockchain analytics company has issued a report commenting on this week’s crash of the prices of cryptocurrency, including bitcoin. The report suggests there are significant differences between this week’s price decline and declines in prior years such as the major price declines in March 2020 and December 2017. According to the report, among other things the differences include the very large investments in bitcoin that have taken place since those prior declines. The report also notes that during this week’s price decline, “bitcoin inflows into exchanges are relatively low compared to past sell-offs,” which “suggests that much of the selling is from people with assets already on exchanges, who tend to be retail investors.”
+
+Continuing the trend of bitcoin analysis, a research report issued this month by a digital asset financial services firm provides an analysis of the long-standing inquiry regarding the acceptability of the Bitcoin Network’s energy consumption. While recognizing the subjective nature of the question, the report draws comparisons of the network’s energy consumption to the energy footprints of long-established asset classes represented by the gold industry and the banking system. The report suggests that the energy used by each of the latter asset groups is more than double that consumed by the Bitcoin Network.
+
+In other news, according to recent reports, a Wall Street banking giant has joined the Paxos Trust network utilizing blockchain technology in a move to make same-day stock trade settlements available to its clients, pending its approval as a clearing agency. Paxos previously applied its Ethereum-based system to effectuate same-day settlement capability for two other financial services firms in March of this year, according to the reports.
+
+For more information, please refer to the following links:
+
+SEC Petitioned on NFTs, NFT Platform Sued in Class Action as More NFTs Launch
+
+By: Teresa Goody Guillén and Veronica Reynolds
+
+A broker-dealer registered with the U.S. Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority (FINRA) recently petitioned the SEC for rulemaking regarding non-fungible tokens (NFTs). According to the petition, the issue of when an NFT is a security is unclear and requires analysis by qualified legal counsel, which is cost-prohibitive to early-stage companies, which are the main drivers of innovation in the fintech space. The petition states that an NFT that is a security triggers the securities regulatory regime, which could also require companies with activities that involve NFTs to register as a broker-dealer, an exchange or an alternative trading system. The petitioner notes that NFTs have not been the subject of SEC interpretative guidance and the SEC has not initiated an enforcement action against the creator of an NFT or the operator of a platform that facilitates the offer and sale of NFTs. Consequently, the petitioner requests that the SEC publish a concept release on the regulation of NFTs and propose rules to address when NFTs are securities, to bring clarity to the market.
+
+Dapper Labs, creator of NBA Top Shot, a digital marketplace for NFTs sold as collectible highlight videos called “moments,” is being sued in a private class action lawsuit, with plaintiffs asserting that the NFT Top Shot moments are securities. The basis of the lawsuit centers on the argument that the Top Shot NFTs are securities because they satisfy the Howey Test – a four-pronged analysis that courts and the SEC use to determine whether an instrument is a type of security called an investment contract. Among other things, the complaint alleges that Dapper Labs “used their control over the platform to prevent investors from cashing out” their NFT purchases.
+
+Across the pond, an English soccer club recently announced plans to launch its own NFT collection to commemorate its Premier League title victory. The collection includes four pieces by artist Jon Noorlander, with one of the NFTs available to fans via a sweepstakes. The collection is being offered on the NFT marketplace, MakersPlace, starting May 24.
+
+For more information, please refer to the following links:
+
+FDIC Seeks Info on Crypto, FATF Focuses on DeFi, Payment Solutions Announced
+
+By: Joanna F. Wasick
+
+On Monday, the Federal Deposit Insurance Corp. (FDIC) issued a request for information and comment (RFI) about depository institutions’ activities related to digital assets (e.g., cryptocurrencies), in order to inform the FDIC’s understanding of digital asset activities and related risk and compliance management issues. The RFI categorizes these activities into five use cases: (1) technology solutions, such as token-based systems and distributed ledgers; (2) asset-based activities, such as investments and margin lending; (3) liability-based activities, such as deposit services and reserves; (4) custodial services; and (5) other activities, which could include market-making and decentralized financing. The submission deadline is July 16, 2021.
+
+This summer, final guidance from the Financial Action Task Force (FATF) is expected to address various issues in DeFi, which is short for “decentralized finance,” an umbrella term for a variety of financial applications in cryptocurrency or blockchain, often geared toward disrupting financial intermediaries. The forthcoming guidance focuses on six areas: (1) clarification of the definitions of virtual assets and virtual asset service providers (VASPs); (2) stablecoins; (3) the risks and potential risk mitigants for peer-to-peer transactions; (4) licensing and registration of VASPs; (5) implementation of the Travel Rule; and (6) principles of information-sharing and cooperation among VASP supervisors. FATF issued a draft guidance in March.
+
+Earlier this week, Ripple announced a partnership with the National Bank of Egypt (NBE) and a United Arab Emirates (UAE)-based financial service provider to process cross-border payments from the UAE to Egypt. A head executive of NBE stated: “NBE’s partnership with Ripple will help to improve overall efficiency by enabling NBE to establish new alliances across wider markets with reduced cost and quicker integration time.” Here in the United States, the city of Williston, North Dakota, announced a partnership with BitPay to begin accepting cryptocurrency payments for utility bills. And a leading luxury yacht charter company, which accepts bitcoin payments, said it expects a 40 percent growth in bitcoin transactions this year.
+
+For more information, please refer to the following links:
+
+Reports Cover Pipeline Ransomware, Crypto Schemes and DeFi Hacks
+
+By: Jordan R. Silversmith
+
+After a six-day outage, Colonial Pipeline reportedly paid almost $5 million in bitcoin to Eastern European hackers to restore functionality to the largest pipeline in the U.S., according to reports. Analysts have traced the bitcoin wallet used by the hackers to one owned by the DarkSide ransomware affiliate, which announced it would be ending operations after its servers were seized and its cryptocurrency was drained.
+
+Eleven individuals were arrested in Europe on May 11 for their links to a criminal network involved in investment fraud, money laundering and a trading scheme resulting in almost €30 million in losses. According to a press release, the criminal network created different fraudulent trading platforms advertising substantial profits from cryptocurrencies.
+
+This week, the Office of the Comptroller of the Currency (OCC) issued a warning concerning a fraud scheme in which consumers have been receiving fictitious email messages, alleging to be initiated by the OCC or senior officials of the agency, regarding funds purportedly under the control of the OCC. The scheme reportedly involves requests for users to provide bitcoin wallet addresses for a purported transfer of funds.
+
+Meanwhile, although crypto hacks and thefts are bringing smaller amounts of money to illicit actors this year, a new report shows an alarming trend in DeFi hacks. According to the report, while DeFi hacks made up approximately 25 percent of total hack and theft volume in 2020, they now make up more than 60 percent of the total volume. The report also notes that, at $156 million, the amount taken from DeFi-related hacks in the first five months of 2021 already surpasses the $129 million stolen in DeFi-related hacks throughout all of 2020.
+
+For more information, please refer to the following links:

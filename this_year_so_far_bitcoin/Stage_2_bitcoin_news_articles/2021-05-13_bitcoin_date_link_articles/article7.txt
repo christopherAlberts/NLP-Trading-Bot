@@ -1,0 +1,7 @@
+Colonial Pipeline paid its extortionists roughly 75 Bitcoin, or nearly $5 million, to recover its stolen data, according to five people briefed on the transaction.
+
+The payment came after hackers last week held up Colonial Pipeline’s business networks with ransomware, a form of malware that encrypts data until the victim pays, and threatened to release it online. Colonial Pipeline pre-emptively shut down its pipeline operations to keep the ransomware from spreading and because it had no way to bill customers with its business and accounting networks offline.
+
+The shutdown of the company’s network, which includes 5,500 miles of pipeline that supplies nearly half the gas, diesel and jet fuel to the East Coast, triggered a cascading crisis that led to emergency meetings at the White House, a jump in gas prices, panic buying at the gas pumps, and forced some airlines to make fuel stops on long-haul flights.
+
+The ransom payment was first reported by Bloomberg. A spokeswoman for Colonial declined to confirm or deny that the company had paid a ransom.

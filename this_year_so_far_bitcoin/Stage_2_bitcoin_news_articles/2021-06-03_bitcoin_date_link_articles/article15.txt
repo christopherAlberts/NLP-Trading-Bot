@@ -1,0 +1,27 @@
+In this week’s episode, CoinDesk’s Christine Kim and Consensys’ Ben Edgington discuss major investments in layer 2 Ethereum scaling solutions and debate whether Elon Musk’s attempts to “greenwash” the Bitcoin network are working.
+
+This episode is sponsored by PumaPay.io.
+
+Over the last few months, investments in Ethereum startups focusing on layer 2 technologies have been on the rise.
+
+In late March, billionaire investor Mark Cuban made an investment in Polygon, previously known as the Matic Network. Polygon enables users to send transactions on Ethereum with greater speed and lower cost by moving computations to a separate side blockchain or “sidechain.”
+
+On March 1, venture capital firm Union Square Ventures led a Series A funding round for Matter Labs, another Ethereum layer 2 scaling solution. In February, Silicon Valley VC Andreessen Horowitz led a $25 million investment for the team behind the Optimistic Ethereum Network, another still yet different layer 2 Ethereum-scaling service.
+
+“It seems like capital galore going into layer 2s and if any of our listeners we’re around for Consensus [last] week, we also heard a lot of [decentralized finance] developers … talking about how layer 2 scaling is going to be the solution to one of their biggest challenges, which is high fees and limited transaction throughput on Ethereum,” Kim said.
+
+Along with greater investment in various layer 2 scaling solutions, there is heightened competition among these startups. As end users have started to compare and contrast the merits of one layer 2 solution over another, controversy has been brewing on social media according to Edgington.
+
+“There are trade-offs all over the space and it’s hard to see how this is going to fall out,” he said. “With Polygon, it’s certainly gaining a lot of traction and [its future] will depend on how people feel in the long term about the security trade-offs in the security model.”
+
+Speaking of controversies, Edgington and Kim also discussed Elon Musk’s latest attempts to improve the environmental footprint of the Bitcoin blockchain by creating a new “green” initiative within the North American Bitcoin mining community.
+
+While Edgington viewed these efforts as nothing more than a “PR effort to greenwash Bitcoin,” Kim pushed back on whether these efforts could make a significant impact in making bitcoin mining more energy sustainable in the long run.
+
+Even if bitcoin mining were to become more sustainable, Edgington noted bitcoin would still consume magnitudes more energy than Ethereum’s proof-of-stake (PoS) blockchain because PoS doesn’t rely on intensive computer computations for network security but instead relies on the collective stake, or wealth, of users.
+
+To listen to the full debate between Edgington and Kim on bitcoin’s energy consumption, listen to this week’s episode of Mapping Out Eth 2.0.
+
+Links mentioned in this podcast:
+
+What’s New In Eth2 (www.eth2.news)

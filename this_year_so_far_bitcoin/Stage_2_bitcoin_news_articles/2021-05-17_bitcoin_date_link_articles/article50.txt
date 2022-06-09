@@ -1,0 +1,116 @@
+SAFETY HARBOR, Fla. — Cryptocurrency has become a red-hot investment, generating huge returns for people who bought in at the right time.
+
+Bitcoin, Dogecoin and Ethereum are among the most popular currencies, with each Bitcoin valued at nearly $50,000.
+
+But ABC Action News I-Team Investigator Adam Walser has uncovered cyber-criminals have found ways to drain people’s cryptocurrency accounts in the blink of an eye. And currently, there’s no easy way for victims to recover their funds.
+
+"They think their money is safe and it’s not"
+
+“The money we were looking forward to after we retire is gone. Probably two-and-a-half years of my salary is gone,” said Tampa Firefighter Tanja Vidovic.
+
+She and her husband Jared, who is a VA nurse, started investing in cryptocurrency three years ago after hearing about the high rates of returns from friends.
+
+“We were aware this was a riskier investment, but you don’t expect to wake up one morning and find that it’s completely gone,” Jared Vidovic said.
+
+The Vidovics lost nearly $170,000 in the blink of an eye when someone hacked their Coinbase account.
+
+Coinbase claims on its website to have 43 million customers and describes itself as the “world’s most trusted crypto exchange.”
+
+But the Vidovics say the company has inadequate fraud protection.
+
+“All these people who are investing think their money is safe and it’s not,” Tanja Vidovic said.
+
+Adam Walser
+
+Criminals hacked the Vidovics’ Coinbase account using something called a “SIM swap."
+
+“I noticed that all of the sudden my phone stopped working, the internet stopped working,” Tanja said.
+
+Someone contacted Tanja’s cell provider Cricket Wireless, pretended to be her and had her SIM card — containing her pictures, contacts and apps — electronically transferred to a new phone.
+
+“When they did the SIM swap they switched over email addresses to make their email to be the back-up and my phone number is now their phone number,” Tanja said.
+
+That allowed the crooks to use two-factor verification to access her Coinbase account.
+
+“They were able to make these changes and transfer all of our money via this app over to their wallet in an instant,” Tanja said.
+
+“And then eight hours later, after you noticed it, you notified Coinbase and their response was none of the transactions can be frozen or reversed,” Jared said.
+
+"There’s no FDIC for the crypto world"
+
+Retired U.S. Secret Service Agent Gus Dimitrelos says cryptocurrency theft is one of the fastest-growing cyber-crimes.
+
+“There is no FDIC for the crypto world. You’re on your own. It’s still the wild, wild west,” Dimitrelos said. “This year, I’ve done more cryptocurrency fraud investigations than all other years combined. It’s because that’s where the money is today.”
+
+Dimitrelos says, unlike banks and credit card companies, cryptocurrency exchanges don’t yet have adequate policies to address fraudulent transactions.
+
+“Someone can steal your money without any recourse. And if you can get law enforcement to help you, all they can do is trace back these transactions to most likely foreign countries,” Dimitrelos said.
+
+His client Joe Blumetti learned that the hard way.
+
+“This is by far not only the most unsuspected thing that’s ever happened to me that I didn’t see coming, but the worst,” Blumetti said.
+
+Blumetti invested proceeds from the sale of his family’s beverage distribution business into cryptocurrency, which was stolen last month.
+
+“I’m still not back in my account, so I cannot tell how bad the damage is, but it’s in the hundreds of thousands,” he said.
+
+Dimitrelos says thieves used a hacked username and password from a security breach to enter Blumetti’s email account and identify him as a crypto trader.
+
+“They knew he had the account. They knew what the username was. They were able to log in, but they still needed that challenge token, in this case, the PIN,” Dimitrelos said.
+
+So they set up a fake website that looked like it was from Coinbase and contacted him.
+
+“What they told Joe was 'Hey, we saw you had an error in a transaction you had about a month ago' and they used that knowledge because they were in his email,” Dimitrelos said.
+
+“The gentleman reached out to me through text and he called. And he sent me a screen that showed the Coinbase sign-in,” Blumetti said.
+
+That’s what tricked him into sending him his verification code.
+
+“When I finally opened my computer and used my two-factor on my computer, all I saw was my account draining from its top-level, straight down,” Blumetti said.
+
+The first transaction transferred more than $500,000 worth of Bitcoin out of his account.
+
+Blumetti immediately tried contacting Coinbase.
+
+“There is no person in their support team that will talk to you,” Blumetti said.
+
+Adam Walser
+
+He eventually reached them by email and instructed the company to disable his account.
+
+Over the past month, Joe says he sent Coinbase multiple emails trying to get help and received only generic responses.
+
+“No name, no identification. Gus thinks we’re speaking to a robot,” he said.
+
+He’s also contacted his internet provider, the police, the U.S. Secret Service and the FBI, but has not been able to unwind the fraudulent transactions.
+
+"You can steal a million dollars instantaneously"
+
+Attorney David Silver of Coral Springs, Florida, represents 150 victims of crypto theft.
+
+“One of the reasons hackers like cryptocurrency is you can steal a million dollars instantaneously,” Silver said.
+
+He says phone companies and cryptocurrency exchanges rarely make victims whole.
+
+“The phone company’s gonna say there’s an intervening third party criminal who’s responsible,” Silver said.
+
+The Vidavics and Blumetti received messages from Coinbase saying the company wasn’t responsible for their losses.
+
+“Unfortunately, as you may already be aware, all cryptocurrency transactions are irreversible once they've been confirmed on their respective blockchain and the funds are not able to be recovered by Coinbase,” one email said.
+
+“It’s time for regulation. They are a trillion dollar market and they need regulation,” Silver said.
+
+“You steal someone’s gold and diamonds and if it’s found, they go to jail and you go home with your stuff. Why is it that Cryptocurrency, today’s number one growing asset, can be stolen, found and cannot be recouped?” Blumetti said.
+
+“How are they getting away with this?" Tanja Vidovic said. "Hundreds of thousands of dollars, millions of dollars are being stolen from Coinbase and they literally don’t even have a fraud department that you can talk to. It’s infuriating."
+
+Coinbase statement:
+
+"Coinbase acknowledges that these are terrible crimes that can have a significant impact on consumers. With more and more of our personal information available online, it is increasingly important for consumers to understand how to protect their personal email accounts and cell phones from unauthorized third parties. Once a third party gains access to a consumer’s email or phone, that consumer’s other online accounts may also be at risk. That is why Coinbase regularly works to educate our customers about how to protect their personal email accounts and phones -- it is the most important thing they can do to prevent unauthorized access to all of their online accounts, not just Coinbase. Coinbase takes extensive security measures to ensure our customer accounts remain as safe as possible. Our customers have never lost funds due to a security breach of our platform. In addition to educating our customers on best practices for securing their Coinbase accounts, Coinbase has a dedicated fraud investigations team and policy to ensure specialized support for our customers. The team is responsible for providing a coordinated approach to the identification, investigation, and resolution of fraudulent activities on the Coinbase platform. Because of these steps, unauthorized access to a Coinbase account remains extremely rare. When Ms. Vidovic and Mr. Blumetti emailed our support team to report possible unauthorized activity in their accounts, in both instances Coinbase responded within minutes and immediately locked their accounts to prevent any further unauthorized activity. Coinbase also offered step-by-step directions to both Ms. Vidovic and Mr. Blumetti to reconfirm identities and further secure their accounts. We are still in contact with both Ms. Vidovic and Mr. Blumetti at this time. Coinbase thoroughly investigates all incidents of unauthorized access to a Coinbase account, including Ms. Vidovic’s and Mr. Blumetti’s accounts."
+
+Cricket Wireless Statement:
+
+"We are working closely with our industry, law enforcement and consumers to stop and help prevent this type of crime. We have restored this customers’ service. Customers can learn more about preventing this type of crime here."
+
+If you have a story you think the I-Team should investigate, email us at adam@abcactionnews.com
+

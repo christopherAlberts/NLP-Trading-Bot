@@ -1,0 +1,133 @@
+Note: This article is not investment advice and is for informational purposes only. Do your own research.
+
+With its fixed supply, open-source software and peer-to-peer (p2p) structure, bitcoin is the global money of the people, by the people, for the people.
+
+What Is Bitcoin?
+
+There are countless responses to this simple question and bitcoin analogies are plentiful from bamboo to mycelium and, most relevant for this article, gold 2.0. For people unfamiliar with bitcoin’s attributes, the following infographic by Bitcoin OG Wences Casares is useful:
+
+Note: Bitcoin is made up of 100 million satoshis, rather than 1 million bits. Graphic credit: Wences Casares
+
+Image source
+
+Bitcoin’s Inventor Satoshi Nakamoto Was A Polymath
+
+Bitcoin is a fascinating entity which sits at the intersection of cryptography, economics and money, open-source software and computer science, game theory, politics and law, and more. Because of bitcoin’s multifaceted nature, it means different things to different people. In this article, I aim to show that bitcoin solves a critical problem facing many of the world’s citizens: unsound money (this term is unpacked below) and the striking absence of a savings technology that can successfully store value into the future. I am far from the first person to draw attention to bitcoin’s supreme savings technology — or “Number Go Up” (NGU) properties. The aim of this article is to put the case to everyday people around the world that bitcoin should not simply be viewed as speculation or a “get rich quick scheme,” as the mainstream media often likes to portray it, but a rational choice by an increasing number of individuals and institutions to benefit from the best savings technology the world has ever seen. In my opinion, this is one of the extremely rare instances where something is not “too good to be true.” That said, as with any decision about where to place your hard-earned money, it does not come without risk. Historically, bitcoin has had significant price corrections, although this cycle has been less volatile than previous ones. To begin with, I would encourage people to only put in the amount they are willing to lose. You can start with as little as one or two U.S. dollars — each bitcoin consists of a hundred million satoshis, meaning you can buy a fraction of a bitcoin.
+
+I am a believer that having at least some “skin in the game” will incentivize you to further educate yourself on bitcoin, which may, in turn, enable you to consider saving a larger portion of your wealth in bitcoin. But there is no shortcut to increasing your conviction. To do so, you need to put the time in — fortunately nowadays there’s a wealth of excellent podcasts, articles and books if you are curious to learn more. . As I mentioned, bitcoin is not a get rich quick scheme and anything you do choose to save in bitcoin, you should be thinking about holding for at least four years or more. The reason being, if you were unlucky enough to buy the top of either the 2014 or 2017 bull markets, within four years of each you would be back in the green, and over a longer time frame even more so.
+
+Software Is Eating The World
+
+Bitcoin’s meteoric rise fits in with the broader digital revolution which is dematerializing the physical world. The investor Marc Andreessen famously said: “Software is eating the world.” Software’s inexorable march has already swallowed our social networks (Facebook), telephone directories and maps (Google), video shops (Netflix), music players, calculators and countless other items (smartphones) and the list goes on.
+
+By being hundreds of billions of dollars larger than its nearest competitor, combined with its superior monetary properties and decentralized nature, it is clear that bitcoin is the winner of the monetary network and asset crown. Stemming from its significant network effects and size compared to competitors, it is not the “Myspace of crypto,” as some people have sought to characterize it. In its 12-year existence, bitcoin has already eaten a $1 trillion-sized chunk out of the legacy financial system. When you zoom out from the daily price fluctuations and consider bitcoin’s total addressable market is in the many hundreds of trillions of dollars, it is only getting started. @Croesus_BTC’s graphic below shows bitcoin’s current size relative to its total addressable market (other “store of value” instruments) and just how early it still is. If you’d like a more in depth look at how early it still is, see here.
+
+The Soundest Money
+
+At its core bitcoin is the soundest money ever invented by human civilization.The term “sound money” is contested and in this article I define sound money as one in which its total supply is not at risk of being devalued by the arbitrary printing of vast quantities of additional monetary units. A form of money which is continually devalued through the printing of additional units is known as “unsound” or “easy” money. Such currency devaluation is a feature, not a bug, of most, if not all, fiat currencies around the world. Fiat, in this context, meaning a legal tender or currency by government order. Fiat currencies imply a degree of coercion by the state on its citizens; for example, citizens are forced to pay taxes in their country’s fiat currency. Bitcoin, on the other hand, is a free-market money which citizens from around the world are free to opt into if they wish to.
+
+Bitcoin is sound money because, for the first time in human history, building on 40 years of research, development and demand (see timeline below), Satoshi Nakamoto invented digital scarcity and gave bitcoin a fixed supply of 21 million coins. Unlike fiat currencies, after the 21 million coins have been minted, no more can be minted. As a result, holders of bitcoin know that the amount they hold cannot ever be debased or devalued. For example, if someone holds 0.1 bitcoin (or ten million satoshis) today, they know that their share of bitcoin’s total supply will be 0.1 ÷ 21 million, or 0.00000048% of the total supply — forever.
+
+Satoshi also designed bitcoin to be incredibly resilient in a hostile environment. To date, despite having $1 trillion on the network, Bitcoin has not been hacked. One way Satoshi achieved this with bitcoin by solving the problem of fiat currency’s reliance on a trusted third party to operate. By drawing on the technology underpinning other peer-to-peer networks, such as file-sharing network BitTorrent (launched in 2001), Satoshi successfully launched the Bitcoin protocol on January 3, 2009, using “unstoppable code.” Bitcoin does not have a headquarters with a physical front door for anyone to knock on. To paraphrase Michael Saylor, Satoshi started a fire in cyberspace. And unlike previous iterations of free-market monies, which relied on trusted third parties, bitcoin’s decentralized nature means there is no single physical location for a person or authority to douse out the flames.
+
+Theoretically, bitcoin’s open-source software Bitcoin Core can be changed, but, much like the U.S. constitution, the threshold to alter it is high and requires consensus among the network of computers running Bitcoin’s code (known as nodes). No single actor, however powerful, has undue influence over the system and the more people who run their own node, the more decentralized and resilient the system becomes to undesirable changes. Consequently, incremental changes to Bitcoin Core are implemented because the majority of the network deems them to be in the interests of the Bitcoin project as a whole.
+
+For a more in-depth discussion of bitcoin’s sound money properties and why they are arguably superior to its competitors, including gold, see Vijay Boyapati’s article, “The Bullish Case for Bitcoin,” which is a must-read and is accessible in terms of complexity.
+
+Why Does Sound Money Matter?
+
+If you need to ask this question, it is likely that you are privileged enough not to have lived in a country which has experienced high levels of inflation or, at the extreme, hyperinflation (when a country’s currency becomes essentially worthless). Countries that have experienced this in living memory are, among others, Weimar Germany, Venezuela, Lebanon, Argentina, Zimbabwe and Turkey. One way hyperinflation occurs is when central banks print their national currencies to such an extent that the currency becomes worthless. Unsurprisingly, such a process is detrimental to human security and dignity. Common stories include people trying to spend all of their currency (the very opposite of saving) immediately because they know that its purchasing power the next day will be significantly reduced. Citizens forced to use unsound money has too often resulted in their impoverishment and the value of their hard-earned savings — often generational wealth — evaporating in front of their eyes, with no choice but to suffer the tragic results. By way of example, on August 16, 2018, in Caracas, Venezuela, a roll of toilet paper cost 2.6 million bolívars (the equivalent of $0.40). In Zimbabwe, in 2009, 100 trillion Zimbabwe dollar bills were introduced, and, at the time, when in a bar, it was not uncommon for the price of the drinks to double by the time of the second round. Though, as we will see, it is not just “developing” world countries who suffer the effects of unsound money, citizens in “developed” countries have been left increasingly exposed to its deleterious effects.
+
+For the first time, as a result of its fixed supply and open-source nature, bitcoin offers citizens a choice to place their hard-earned savings in a savings account which, algorithmically, cannot be devalued through the printing of additional monetary units. By taking the money printing press out of human hands, bitcoin has liberated savers and their families around the world, bringing back hope to people as they now have the means to save and, therefore, be in control of their own destinies.
+
+Bitcoin Offers People A Choice
+
+Bitcoin offers people who can access the internet the opportunity to choose to save in the sound money of bitcoin. A system which has a known and predictable monetary policy, and, importantly, is reliable — it has had 99.98% of uptime since going live in 2009 and is accessible 24/7 and 365 days per year. Unlike traditional banking, bitcoin does not have inconvenient opening times as it does not sleep. According to the Lindy effect, popularized by Nassim Nicholas Taleb, with every block the Bitcoin protocol adds to its blockchain — approximately every 10 minutes (which can be thought of as the heartbeat of the world’s first global, open-source monetary network) — the longer it is probabilistically likely to exist into the future. Bitcoin has existed for 12 years and, therefore, the Lindy effect indicates that we should expect its future lifetime to be at least a further 12 years.
+
+Unsound Money With Minuscule Or Zero Interest Rates
+
+On the other hand, people around the world can choose to store their wealth in their national currency which is being ever-increasingly devalued by the printing of additional units — or in unsound money. Not only that, but, saving in bank accounts with interest rates which are commonly close to zero or negative, it means savers are not rewarded for saving and, at worst, are paying their bank to save. It is also worth adding that, in the world of modern economics, fiat currencies only came into existence in 1971 when President Nixon passed a law taking the United States off the gold standard — before which dollars were redeemable in gold. After 1971, dollars were redeemable with nothing, zilch, nada. Ultimately, a fiat currency’s value is in large part derived from the government’s ability to maintain trust in said currency.
+
+It is not just savers in countries experiencing high levels of inflation or hyperinflation who are turning to bitcoin to store their wealth. The same is true in the United States, home of the current global reserve currency. The economic fallout from the 2008 crisis, and more recently the Covid-19 pandemic, has accelerated the devaluing of the USD. Data from the Federal Reserve — the central bank of the United States — indicates that the broad measure of the stock of dollars, known as the M2 money supply, rose from $15.34 trillion at the start of 2020 to $18.72 trillion in September 2020. The increase of $3.38 trillion equals 18% of the total supply of dollars.
+
+This means nearly one in five dollars was created in 2020.
+
+It also means that, at a stroke of a computer key, every other dollar in existence had an 18% reduction in purchasing power. The chart below illustrates this.
+
+Neel Kashkari, president of the Federal Reserve Bank of Minneapolis, is even on record on CBS on March 22, 2020, as saying: “There’s no end to our ability to [flood the system with money].” Each “flooding” inevitably devalues every other dollar in existence, reducing the purchasing power of hard-earned USD cash savings.
+
+If In Doubt, Zoom Out
+
+Bitcoin’s price has experienced high levels of volatility, however, as it has become increasingly adopted its volatility has reduced. It is worth noting that no monetary asset is able to be bootstrapped from zero to becoming a global money without having volatility — to do so would defy the laws of physics. It is also worth noting that, since inception, bitcoin’s volatility trends to the upside. Consequently, the longer people have held a portion of their savings in bitcoin the more it has increased in purchasing power.
+
+The chart below — created by the former Dutch institutional investor PlanB — shows that bitcoin, priced in USD, has not fallen beneath the 200 Week Moving Average (WMA). Since launching, bitcoin’s 200 WMA has consistently moved in an upward direction. Put another way, bitcoin holders, who hold over a sequence of at least four years, have had their savings accrue in value in US dollar terms. Hence, a simple strategy (but tricky to implement at first, as people tend to think they can increase profits by trading) for accumulating savings in bitcoin is: buy an initial position, buy the dip (when there is a significant price drop — historically 20–30% but seemingly less in this cycle) and Hold On for Dear Life (HODL); .the HODL meme originates from a post on bitcointalk.org by a drunk user who famously misspelt HOLDING.
+
+Institutional Adoption Has De-Risked Bitcoin
+
+Led by the visionary bitcoin advocate and longest serving, publicly listed company CEO Michael Saylor (who happens to be an actual rocket scientist), numerous publicly listed companies, including electric car giant Tesla, have put bitcoin on their company balance sheets. Many other types of institutions have also purchased bitcoin, including the insurance firm MassMutual, typically the most risk averse category of institution. Real estate firms, sovereign wealth funds, and small and medium enterprises have also been acquiring bitcoin.
+
+The next part of the article briefly touches on altcoins (cryptocurrencies other than bitcoin), bitcoin and the environment, and central bank digital currencies (CBDCs). These are big topics in their own right and, given the scope of this article, I will only touch on them at a high level.
+
+A Brief Note On Altcoins
+
+You might be wondering whether the next bitcoin is lying in wait in the 9,191 (and counting) other cryptocurrencies currently listed on CoinMarketCap. The short answer is monetary history has shown that there is a tendency for the market to converge on the soundest money at the expense of all other monies.² No other altcoin can compete with bitcoin’s superior monetary properties, established market cap, network effects, mining and hardware infrastructure, ATMs and so forth. If an altcoin is able to do gazillions of transactions per second, it is because they have made a trade-off somewhere else, most likely in it not being truly decentralized. If you remember, the latter is a fundamental feature in order to keep the temptation to print more monetary units out of human hands. Second, such a take fails to appreciate that increased transaction throughput and speed can be achieved on the second layer of Bitcoin, such as the Lightning Network. This way the decentralization of bitcoin’s base layer is not compromised.
+
+Altcoins should be thought of in the same way as startups — 99% will fail. Some will strike it rich by selecting the 1%, but most people will lose money. If you’re looking for a reliable store of value and savings account, I would recommend looking no further than bitcoin.
+
+However, if you’re looking for high risk, high reward, and you’re willing to put research and time in, you might be successful in the altcoin space — though you might also lose everything, so make sure you go in with your eyes open. Also, remember to compare any profits to bitcoin terms because, if you’re not beating bitcoin, you might as well stick to bitcoin and save yourself the time, and stress, and tax bill on trading altcoins. Willy Woo’s article on “degen” and “oscillator” altcoins is well worth a read.
+
+A Brief Note On Bitcoin And The Environment
+
+There is a lot of talk in the mainstream media about bitcoin being terrible for the environment. First, it is important to understand that the computational power (or hash rate) which the Bitcoin network expends is proportional to the network’s security. Currently, there is $1 trillion sitting in the middle of the table, and it is Bitcoin’s hash rate which secures this. If you see value in the world having access to a cheap, secure and reliable savings account then the energy is put to good use. Bitcoin itself inspires and funds green energy research as it incentivizes the usage of otherwise stranded natural resources.
+
+Second, in his article on the environmental impact of bitcoin mining, Christopher Bendiksen hits on an important point: “Bitcoin is as green as an electric car. Nothing about Bitcoin requires emissions. It will take whatever electricity you feed it. If the world goes green, so does Bitcoin.” Since the cost to produce renewable energy is becoming increasingly competitive compared with fossil fuels, the probability that bitcoin mining continues to become greener increases.
+
+However, and arguably most importantly of all, as a result of its sound money properties, bitcoin enables a deflationary (meaning a reduction in global prices) economic system which would allow us to break out of the current, “endless growth” economic model. Meaning, shock and horror!, Bbitcoin is actually good for the environment.³ This is such an important and under-discussed topic that I will be writing about it in a future article.
+
+A Brief Note On Central Bank Digital Currencies
+
+The majority of central banks are working on creating national CBDCs as they offer a route out, of sorts, from the post-2008, post-Covid monetary quagmire that they find themselves in. Across the world, central banks have become “the only game in town”⁴ and a consistent policy response has been to print more money, otherwise known by the popular meme: “Money Printer Go Brrr.”
+
+Of all the CBDCs under development, China’s digital yuan is at the furthest stage and is already being trialed in certain states. With CBDCs, central banks will be able to offer digital dollars, pounds or yuan directly to citizens. Some people think this will threaten bitcoin’s rise, the short answer is “no” as they will still be a form of unsound money — meaning endless units can be printed — unlike bitcoin’s fixed supply of 21 million. As CBDCs no longer require commercial banks to distribute these digital currency units, the writing is on the wall for our high street banks. In my opinion, this is part of the reason for the banks’ Uu-turn on bitcoin, as recently lots of major and long-established banks have announced that they will offer bitcoin custody and banking services.
+
+What will CBDCs mean for savers? Well, because they will be digital and programmable, they will give central banks much more optionality in terms of how they distribute capital into the economic system. For example, it is theoretically possible for them to set different interest rates for different citizens in the same country — a low or negative interest rate for older, wealthier citizens and a higher interest rate for younger, less wealthy citizens. In China’s digital yuan trial, it has come to light that the system enables an expiration date to be set for certain amounts of currency when seeking to “boost” the economy. In this way, CBDCs would have the capability to actively prevent or discourage saving, and impinge on citizens’ rights to choose when and how to spend their money. On the other hand, bitcoin — because you are your own bank and own all of your satoshis directly (when held on a hardware wallet or similar self-custody solutions) — has no expiration date and you are free to do what you want with it when you want to.
+
+CBDCs would also give central banks the functionality to switch off citizens’ CBDC accounts if they were in breach, or considered to be in breach, of certain rules and regulations. In the wrong hands, they hold the capacity to be a one-way road to greater levels of state control, and, at worst, a “1984”-esque dystopia. I am not saying all this will happen, only that the possibility exists and — as history tends to show — if the ability to do something exists, for the purposes of power and control, over a long enough time span, some humans in leadership positions are likely to choose to use such functionality to further their own interests and agendas. If you’re interested to find out more about this topic, then Simon Dixon is a well-informed source.
+
+Bitcoin’s Too Expensive, I’m Too Late To The Party
+
+People have been saying this since the bitcoin price was $1, $100, $1,000 and $10,000 per coin and the same will be said when the price is $100,000, $1 million and beyond.
+
+The following three facts put the “bitcoin’s too expensive, I’m too late to the party” statement into context:
+
+1. Global bitcoin adoption currently stands at around 2% of the world’s population and bitcoin solves a problem facing billions of people around the world — that of unsound money and the lack of a cheap, secure and reliable savings account.
+
+2. Bitcoin’s market cap is $1 trillion and its addressable market is in the hundreds of trillions.
+
+3. Monetary history is full of examples of more technologically sound monies replacing less technologically sound competitors: shells ➡ glass beads ➡ silver ➡ gold ➡ ?.
+
+It can be argued that bitcoin can already be seen to be eating into gold, owing to its superior monetary technology, as expressed in the chart below.
+
+By exhibiting superior monetary properties compared to other existing monies, technology. In my opinion, bitcoin is on track to becoming the primary store of value for global citizens. The latest development in monetary technological development, its consistent appreciation in price is merely signaling that an increasing number of individuals (and more recently institutions) are rationally choosing to store their wealth in the soundest money available to them. As a result of bitcoin’s open-source nature, this choice is open to you as well too.
+
+Conclusion
+
+As I hope this article has demonstrated, bitcoin’s fixed supply of 21 million coins, decentralized nature and unstoppable code make it the soundest money invented by human civilization.
+
+Currently, people around the world are working increasingly harder for ever-devaluing national currencies. Bitcoin’s growth at over 100% per year for the last 10 years offers global citizens the choice to store their wealth in the latter and not the former. By giving people around the world access to a cheap, secure and reliable savings account, Satoshi has returned hope to individuals that the future will be better not only for them but for their family, friends and community.
+
+In light of what I have outlined above, I recommend that everyone tries to place at least a small portion of their savings in bitcoin to get off zero, even if it is one dollar’s worth (1,673 satoshis at the time of writing). If you are or aren’t ready to do that, I strongly recommend you take some more time to educate yourself further on what bitcoin is and why it is important. (see the Resources section below). It is a fascinating and rewarding topic and there’s always something new to learn.
+
+References:
+
+¹ Bitcoin’s compound annual growth rate* over 10 years was 132.65% on 24 May 2021.
+
+* Compound annual growth rate (CAGR) is the rate of return that would be required for an investment to grow from its beginning balance to its ending balance, assuming the profits were reinvested at the end of each year of the investment’s lifespan.
+
+² “The Bitcoin Standard: The Decentralized Alternative to Central Banking” by Saifedean Ammous; the early chapters provide a solid framework around the history of money. If you read only one book on bitcoin, you’ll be hard-pressed to find a better one than this.
+
+³ “The Price of Tomorrow” by Jeff Booth; A must-read about how technological improvements are naturally deflationary and result in the fall in prices of goods.
+
+⁴ “The Only Game in Town: Central Banks, Instability, and Avoiding the Next Collapse” by Mohamed A. El-Erian; a thought-provoking take on central banks and the prospects for the global economy from more of an insider perspective.
+
+This is a guest post by Harry Duncan. Opinions expressed are entirely his own and do not necessarily reflect those of BTC Inc or Bitcoin Magazine.

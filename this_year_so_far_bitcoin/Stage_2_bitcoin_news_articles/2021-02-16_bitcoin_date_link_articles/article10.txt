@@ -1,0 +1,13 @@
+Ethereum is similar to Bitcoin in the sense that they are both cryptocurrencies - non-centrally issued, digital currencies. Another similarity between the two is that the both operate using the proof-of-work consensus. This means that for both Ethereum and Bitcoin, the verification and confirmation of transactions requires a network-wide consensus of nodes. Due to this condition, both of them are slow when it comes to transaction processing.
+
+Ethereum is slightly faster than Bitcoin: it normally processes 10-15 transactions per second, while Bitcoin processes 3-5. At least, this is true for the current version of Ethereum. One of the big expectations in the market right now is that the upcoming 2.0 upgrade will provide faster transactions, among other things.
+
+But the major point that separates Ethereum from Bitcoin are smart contracts – the term most closely associated with Ethereum blockchain. Smart contracts are digital contracts that have a variety of applications.
+
+Without going too far from the topic of Ethereum 2.0, it makes sense to mention Beacon chain., that is used to provide an upgrade to Ethereum’s features. Beacon chain makes use of a proof-of-stake consensus algorithm rather than proof-of-work – this means that it uses tokens instead of traditional computational power in order to process transactions.
+
+Beacon chain employs shardchains, smaller groups of nodes that process their own portions of transactions in parallel, without needing to achieve a consensus across the entire network. This is meant to improve Ethereum’s scalability and vastly increase its throughput rate. At CEX.IO, we expect that the Ethereum 2.0 throughput rate will be able to reach 15,000 transactions per second, allowing Ethereum to match any centralized payment system in transaction processing speed.
+
+In terms of price stability, it is clear that Bitcoin has a lead over Ethereum. BTC rate is a major point in defining the entire cryptocurrency market picture. And the two are positively correlated - when Bitcoin rises or falls, the same happens to Ethereum. And Bitcoin has an around four times higher market capitalization; therefore, it is less unstable in its price action.
+
+As far as the trading of both assets is concerned, at CEX.IO we observed that in December 2020 ETH/USD trading volumes grew by 20%, while BTC/USD grew by 47.5%. We believe that it may represent a psychological trait for users – due to the rally, BTC became too "expensive" to fund trading strategies with, too risky to trade. This also indicates that Ethereum is no longer following Bitcoin’s price fluctuations as closely as it used to. And this divergence may become more apparent in the future.

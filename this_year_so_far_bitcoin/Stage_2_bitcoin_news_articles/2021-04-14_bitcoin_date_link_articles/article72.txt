@@ -1,0 +1,58 @@
+QINGDAO, China, April 14, 2021 /PRNewswire/ -- SOS Limited (NYSE: SOS) (the "Company" or "SOS") announced the receipt of the previously announced, third batch of 5464 cryptocurrency mining rigs.
+
+Immediately upon delivery of the mining rigs, the SOS team kicked off inspection, configuration and installation procedures. Once this batch of mining rigs go live, the Company expects that the pool of rigs will be able to generate about 177 Peta-Hashes per second (PH/s) for mining Bitcoin and 356 Giga-Hashes per second (GH/s) for mining Ethereum (ETH). If the machines operate as expected, the long-term ROI (return on investment) is projected to be promising. These hash rates are subject to numerous factors, including down time for maintenance, reconfiguration and other variable factors that may materially impact computing performance in the future.
+
+The Company confirms mining operations in Q1 2021, have generated 42 Bitcoins and 916 ETH. This is for a partial quarter of operation. SOS Chief Financial Officer Steven Li elaborated, "These mining results reflect the first quarter of operations, and the number of Bitcoins and Ethereum are higher than what we originally anticipated. We expect our output to grow in future quarters as we complete the installation of our third batch of mining rigs and have full quarters of operation."
+
+These mining results do not include any financial results for the Company and do not address the Company's other, non-mining operations, such as the Company's marketing data, technology and solutions for emergency rescue services. United States generally accepted accounting principles for cryptocurrency mining are complex, emerging and uncertain. Cryptocurrencies may not be recognized as cash or cash equivalents, and mining activities may not qualify for revenue recognition. Cryptocurrencies have no inherent value, are not legal tender recognized by any governmental entity, and might not be able to be converted into fiat currencies. Investors are advised not to place undue reliance on mining results alone, without considering other financial and non-financial metrics.
+
+Mr. Yandai Wang, Chairman of SOS, commented, "We believe that the general trend for cryptocurrencies will be bullish. We have completed the set-up of the cryptocurrency business in China at this stage. With the anticipated development of our cryptocurrency mining operation in the U.S., we believe that SOS' cryptocurrency business will achieve significant results. We remain confident in our strategy to invest in crypto-currency operations.
+
+About SOS Limited
+
+SOS is an emerging blockchain-based and big data-driven marketing and solution provider, with a nationwide membership base of approximately 20 million in China. Recently, SOS has outlined its strategy in blockchain and cryptocurrencies, which include a series of initiatives to expand its business into cryptocurrency mining as well as cryptocurrency security and insurance. The core infrastructure of SOS' marketing data, technology and solutions to insurance and emergency rescue services is built on big data, blockchain-based technology, cloud computing, AI, satellite, and 5G network, etc. SOS has created a cloud "software as a service (SaaS)" platform for emergency rescue services, with three major product categories: basic cloud, cooperative cloud, and information cloud. This system provides innovative marketing solutions to clients such as insurance companies, financial institutions, medical institutions, healthcare providers, auto manufacturers, security providers, senior living assistance providers, and other service providers in the emergency rescue services industry.
+
+SOS has obtained a national high-tech enterprise certification and the title of "Big Data Star Enterprise," awarded by Gui'an New District Government. Staying on the forefront of digital technology innovation, the Company has registered 99 software copyrights and 2 patents. For more information, please visit: http://www.sosyun.com/ .
+
+Forward-Looking Statements
+
+Certain statements in this press release may constitute "forward-looking statements" within the meaning of the federal securities laws, including, but not limited to, our expectations for future financial performance, business strategies or expectations for our business. These statements constitute projections, forecasts and forward-looking statements, and are not guarantees of performance. SOS cautions that forward-looking statements are subject to numerous assumptions, risks and uncertainties, which change over time. Words such as "may," "can," "should," "will," "estimate," "plan," "project," "forecast," "intend," "expect," "anticipate," "believe," "seek," "target," "look" or similar expressions may identify forward-looking statements. Specifically, forward-looking statements may include statements relating to the Company's:
+
+expected hash rate for its mining rigs;
+
+expected mining results for the second quarter of 2021;
+
+intention to grow and install more mining rigs;
+
+ability to execute its business plan;
+
+changes in the market for SOS' products and services; and
+
+expansion plans and opportunities.
+
+These forward-looking statements are based on information available as of the date of this press release and our management's current expectations, forecasts and assumptions, and involve a number of judgments, risks and uncertainties that may cause actual results or performance to be materially different from those expressed or implied by these forward-looking statements.
+
+These risks and uncertainties include, but not are limited to, the risk factors described by SOS in its filings with the Securities and Exchange Commission ("SEC"). These risk factors and those identified elsewhere in this press release, among others, could cause actual results to differ materially from historical performance and include, but are not limited to:
+
+SOS's cryptocurrency mining, security and insurance businesses are still under development, with many uncertainties in research of relevant technologies;
+
+failure to access a large quantity of power at reasonable costs could significantly increase SOS operating expenses and adversely affect our demand for SOS's mining machines;
+
+shortages in, or rises in the prices of mining machines may adversely affect the Company's business;
+
+any significant or prolonged failure in the data warehouse facilities and data mining facilities that SOS operates or services it provides, including events beyond its control, would lead to significant costs and disruptions and would reduce the attractiveness of its facilities, harm its business reputation and have a material adverse effect on its results of operation;
+
+security breaches or alleged security breaches of our data warehouses could disrupt SOS operations and have a material adverse effect on its business, financial condition and results of operation; and
+
+Chinese government's policies and regulatory oversight of crypto currency mining operation;
+
+other risks and uncertainties indicated in SOS's SEC reports or documents filed or to be filed with the SEC by SOS.
+
+Accordingly, forward-looking statements should not be relied upon as representing our views as of any subsequent date, and you should not place undue reliance on these forward-looking statements in deciding whether to invest in our securities. We do not undertake any obligation to update forward-looking statements to reflect events or circumstances after the date they were made, whether as a result of new information, future events or otherwise, except as may be required under applicable securities laws.
+
+SOURCE SOS Limited
+
+Related Links
+
+http://www.sosyun.com
+

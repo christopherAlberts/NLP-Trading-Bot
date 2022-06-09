@@ -1,0 +1,35 @@
+US financial authorities are preparing to take a more active role in regulating the $1.5tn cryptocurrency market as concern grows that a lack of proper oversight risks harming savers and investors.
+
+The new efforts reflect a break with the Trump administration, which in some cases encouraged the use of cryptocurrencies in the financial system. But they could take time to bear fruit as US regulators struggle to determine who has the legal authority to oversee the volatile market.
+
+In an interview with the Financial Times, Michael Hsu, who was installed this month as acting comptroller of the currency, said he hoped US officials would work together to set a “regulatory perimeter” for cryptocurrencies.
+
+“It really comes down to co-ordinating across the agencies,” said Hsu, who heads the Treasury department bureau that oversees national banks. “Just in talking to some of my peers, there is interest in co-ordinating a lot more of these things.”
+
+Cryptocurrencies have been on a rollercoaster ride this year. In February, the price of Bitcoin soared after Tesla founder Elon Musk said the company had ploughed $1.5bn into the cryptocurrency, and went on to reach a record high of more than $60,000 in April.
+
+But the price plunged after Chinese regulators signalled a crackdown on the use of digital coins, while Musk reversed a move to allow bitcoin payments for Tesla cars, citing environmental concerns. Other cryptocurrencies have experienced similar volatility.
+
+One sign of the new US approach came this month with the first meeting of an inter-agency crypto “sprint” team, involving officials of the three leading federal bank regulators — Hsu’s Office of the Comptroller of the Currency, the Federal Reserve and the Federal Deposit Insurance Corporation.
+
+Hsu said the team’s goal was not to make policy but to “put some ideas in front of the agencies to consider” as they try to catch up with the growth in cryptocurrencies.
+
+“It’s small and it’s senior,” Hsu said of the working group. “The idea is that time is of the essence and if it’s too big that gets harder.”
+
+The Securities and Exchange Commission and the Commodity Futures Trading Commission have also discussed how to protect investors in the crypto market.
+
+Gary Gensler, the SEC chair, told a House committee last week that there are “gaps in our current system”, pointing to a potential need for legislation to specify which regulator should oversee crypto exchanges.
+
+Gensler said his aim was to bring “similar protections to the exchanges where you trade crypto assets as you might expect at the New York Stock Exchange or Nasdaq”.
+
+Gensler said the Treasury department has been focused on “anti-money laundering and guarding against illicit activity” in the crypto market. Janet Yellen, the Treasury secretary, has said she fears bitcoin is used “often for illicit finance”.
+
+By installing Hsu at the OCC, Yellen also signalled a change in approach to crypto. Hsu is, in his own words, “a career public servant and a bank supervisor at my core”. His OCC predecessors under Donald Trump included Brian Brooks, a former chief legal officer of Coinbase, a crypto exchange, who is now chief executive of Binance.US, a rival crypto exchange.
+
+As one of Hsu’s first acts at the OCC, he asked staff to review a Trump-era decision to give national trust charters to companies that provide custody services for cryptocurrencies.
+
+While Hsu believes there is no turning back from innovations such as the blockchain technology used in cryptocurrencies, he said in congressional testimony this month that the current enthusiasm for banking innovation reminded him of the years leading up to the financial crisis.
+
+The danger is that new and improved techniques give rise “to a large and less regulated shadow banking system”. Today, fintechs and technology platforms are devising payment processing tools that “bring great promise”, he said, “but also risks”.
+
+“For me, it is hard not to feel some déjà vu,” Hsu told legislators.

@@ -1,0 +1,29 @@
+Mystery Whale Moves 20 Bitcoin Block Rewards from 2010, Entity Moved 10,000 BTC Since Last Year
+
+On Tuesday, March 23, the infamous whale that’s been spending numerous strings of 2010 block rewards since last year, has spent another 1,000 bitcoin that sat idle for over a decade. The string of 20 block rewards transferred on Tuesday, follows the exact same patterns our newsdesk has tracked since March 12, 2020, otherwise known as ‘Black Thursday.’
+
+Mystery Whale Spends Another 20 Block Rewards from 2010
+
+On February 28, 2021, the mysterious whale who has been spending a great number of 2010 block rewards for roughly a year, had once again spent another 20 blocks. 23 days later, on March 23, 2021, the pattern repeated, as another 20 block rewards from 2010 were transferred today. Since Bitcoin.com’s newsdesk started investigating this old school whale on March 12, 2020, to-date the entity has spent 10,000 BTC worth over $550 million using today’s BTC exchange rates.
+
+Today, the spending pattern followed the exact same pattern as the previous strings of blocks spent from 2010. All 20 blocks from 2010 were coinbase rewards, which also means each block reward contains 50 BTC. All 20 block rewards moved by the entity were also processed at block height 675,887.
+
+Per usual and similar to previous patterns, the string today had mined blocks stemming from July 2010 up until November 2010. All the strings of 20 block rewards caught since March 12, 2020, were mined within these months. Tuesday’s transfer of 1,000 bitcoin mined in 2010 was caught by the onchain blockchain parser Btcparser.com. With close to 700,000 BTC blocks processed so far, the web portal’s parsers monitor the activity of so-called ‘sleeping bitcoin‘ addresses.
+
+Flex or Force? 10,000 Bitcoin Transferred So Far, All Strings Have Followed the Exact Same Spending Pattern
+
+Just like the past spends, the corresponding bitcoin cash (BCH) block rewards have also been moved. However, the corresponding bitcoinsv (BSV) coinbase rewards remain untouched like the whale’s previous string movements. Once again, the whale took all of the coins (1,000 BTC in total) and consolidated them into a single address.
+
+The first consolidation scheme is done with hardly any privacy tactics and the coins seem to be swept. After the consolidation, the coins are then moved again and split into fractions, and with far more privacy than the original sweep.
+
+It is still hard to say why this whale has been spending this way and our research team assumes there are two possible reasons. One reason may be the whale may be forced to use some sort of Script-based spending program that forces the user to move coins in this manner.
+
+Otherwise, the whale is flexing wealth with these transfers to show the public his/her movements at certain times. Why the individual would do this on purpose is unknown and it may never be known why these bitcoins are being moved in this fashion.
+
+Out of the 10,000 BTC spent in over a year’s time, the whale has moved strings of 20 decade-old bitcoin block rewards on March 12, 2020, October 11, 2020, November 7, 2020, November 8, 2020, December 27, 2020, January 3, 2021 (Bitcoin’s 12th anniversary), January 10, 2021, January 25, 2021, February 28, 2021, and today.
+
+What do you think about the string of sleeping bitcoins from 2010 that was transferred today? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, Btcparser.com, Bitcoin.com, Holyroger.com,
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

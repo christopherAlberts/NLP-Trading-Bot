@@ -1,0 +1,11 @@
+Square's Cash App, a Bitcoin-friendly mobile payments platform, has raised its minimum withdrawal requirements for BTC holders.
+
+The minimum withdrawal amount for Bitcoin accounts is now 0.001 BTC, or 100,000 satoshis, compared with 0.0001 BTC, or 10,000 satoshis, previously.
+
+With Bitcoin hovering around $51,800, 0.001 BTC is equivalent to $51.80. The leading cryptocurrency was in the midst of another large correction on Thursday, having fallen 6%. Bitcoin is down over 19% over the past seven days, according to CoinMarketCap data.
+
+“You must have a balance of at least 0.001 bitcoin to make a withdrawal,” reads Cash App’s withdrawal instructions. Users can still withdraw up to $2,000 worth of BTC every 24 hours and up to $5,000 within any seven-day period.
+
+Although Cash App appears to have updated its withdrawal terms silently, the change may be due to higher network fees. As Cointelegraph recently reported, BTC transaction fees are approaching all-time highs in dollar terms following a major decline in the network’s hash rate. The average cost of a Bitcoin transaction reached $58 on Tuesday, just shy of the $62 record set in December 2017.
+
+Cash App has emerged as a popular method for buying Bitcoin, with fees on purchases accounting for the lion’s share of its revenue. Cash App’s Bitcoin-derived revenue reached $1.63 billion in the third quarter of 2020, accounting for 80% of its total sales.

@@ -1,0 +1,51 @@
+Coding and blockchain aficionados listen to speakers at the WyoHackathon in Laramie. The September 2019 event, which featured groups solving computer challenges for prizes, was sponsored by a number of blockchain companies, including two big cryptocurrency firms. (Andrew Graham/WyoFile)
+
+May 20, 2021 by Nick Reynolds, WyoFile
+
+The recent collapse of cryptocurrency prices raises new questions about Wyoming’s pursuit of the blockchain industry: namely, whether the would-be economic stabilizer is, in fact, another volatile boom-and-bust industry.
+
+Cryptocurrency values plunged over the past week, with Bitcoin — the most prominent digital currency — losing roughly one-third of its value in a single month.
+
+Article continues below...
+
+Blockchain, the technology that underpins cryptocurrencies and other high-tech innovations, has played a starring role in Wyoming’s economic development and diversification conversation for years. The Wyoming Legislature first formed a task force to study blockchain regulations in 2018 and has since passed several first-of-their-kind bills aimed at making Wyoming an attractive home for cryptocurrency and other blockchain-related operations.
+
+The collapse in prices is nothing new in the world of cryptocurrency, a type of digital currency traded like stocks that are often subject to sharp gains and dramatic dips. The current sell-off followed a post-COVID buying boom.
+
+“Just more of the same,” Bitcoin wrote on its official Twitter account Wednesday with a graph of its five-year market performance showing a series of significant peaks and valleys.
+
+It raises questions for Wyoming’s burgeoning cryptocurrency sector, which has experienced growing visibility in the years since the task force’s formation. Several cryptocurrency businesses have established presences in the state. Federal regulators have highlighted the state’s advances on the national stage. Several states, including Colorado and Texas, have begun considering legislation similar to Wyoming’s.
+
+Advocates for the technology, however, say it’s inaccurate to compare the volatility of cryptocurrencies to the boom and bust cycles of fossil fuels, which Wyoming has long depended on for its economic base.
+
+Caitlin Long, who has helped drive blockchain-friendly legislation in Wyoming, envisions blockchain and cryptocurrency companies plugging into aging coal-fired power plants in Wyoming. (Dustin Bleizeffer)
+
+Caitlin Long, the CEO of Cheyenne-based “crypto bank” Avanti Financial and a key architect of the state’s cryptocurrency regulations, said the decline in prices is primarily due to the “flushing” of leveraged players — people who own large amounts of cryptocurrencies on credit — out of the market in the wake of recent headlines.
+
+While the decline has raised eyebrows, Long said, Wyoming’s regulations for Special Purchase Depository Institutions — a new type of cryptocurrency “bank” first made possible by Wyoming legislation — operates under a completely different business model than crypto exchanges.
+
+The main difference? Customer deposits need to be backed up 100% by cash.
+
+“[What’s happening] has nothing to do with Wyoming’s prospects,” Long said. “First of all, the [SPDI] banks are designed to be non-leveraged and are designed to shine in exactly this kind of environment. But we haven’t even given up all of our year-to-date gains in Bitcoin.
+
+“This is something that is normal for Bitcoin cycles,” she added.
+
+Jim Caldwell, a University of Wyoming computer science professor within the university’s blockchain program, said the recent correction could actually help stabilize cryptocurrency markets by reducing the number of speculators trading with it.
+
+“I don’t think it hurts to have a correction like this,” Caldwell said. “I think it’s kind of a good thing, kind of like a reset button. In the long run, we don’t want a bubble to form.”
+
+Caldwell is an adviser for the University’s “Cardano Stake Pool,” a large depository of cryptocurrencies used to monitor the health of the industry writ large that also generates profits to help support student activities. The pool was established with backing from cryptocurrency firm IOHK.
+
+While cryptocurrencies are still subject to volatility, Caldwell said, market corrections like these help bolster the fundamentals of the currency, which he believes has substantial financial value beyond its monetary applications. However, he noted, even as Bitcoin and other cryptocurrencies trend up long-term, they still come with substantial short-term risk.
+
+“A lot of people lost their shirts [in the recent correction],” he said. “I’ve heard of people that supposedly sold their houses or cashed in their retirement to buy crypto right before the price went down. But I’ve always favored the slow and steady approach. The stock market goes up and down, yes, but I’m looking for the long-term return on the stock market.”
+
+Wyoming’s revenues are not yet exposed to the volatility of cryptomarkets, Long noted. Beyond filing fees paid to the Secretary of State’s office, revenues from SPDI banks — which are still awaiting approval from the Federal Reserve — have not yet begun to roll in.
+
+The upside to the technology is high, Long said. The value of cryptocurrency assets — despite the recent dip — remains on an upward trajectory, she said. Wyoming’s business model, is expressly designed to weather the volatility of cryptocurrencies and capitalize from it, she said.
+
+Meanwhile, the Federal Reserve is inching closer to approving Wyoming’s SPDI banks. On May 5, the Federal Reserve announced it would begin gathering public comment for a key policy change that would allow Wyoming’s SPDIs to begin banking with crypto.
+
+“Today’s announcement is encouraging news and the culmination of an extended effort where Wyoming took the lead,” Gov. Mark Gordon said at the time. “This was an unprecedented task and I appreciate the collaborative work that has occurred throughout the process. I’m committed to ensuring that Wyoming remains a national leader in the digital asset realm.”
+
+This article was originally published by WyoFile and is republished here with permission. WyoFile is an independent nonprofit news organization focused on Wyoming people, places and policy.

@@ -1,0 +1,39 @@
+Well, yes, of course. An anti-money laundering and identity verification expert say proactive firms have been working on this for years.
+
+There’s spurious proof, if any, that last weekend’s bitcoin flash crash was linked to impending anti-money laundering action from federal regulators.
+
+The prevailing opinion, explained by longtime on-chain analyst Willy Woo, is that a blackout in the Xinjiang region of China triggered an unexpected dip in hash rates and spooked a lot of people into selling.
+
+Even so, it seemed a good time to check in with anti-money laundering and identity verification experts. After all, it’s what Blockchain Association executive director Kristin Smith said she expects to be first up in D.C..
+
+There's already a federal case in motion in New York that could act as a bell weather for how regulation will be shaped in the U.S.
+
+Arthur Hayes, the former CEO of crypto exchange BitMEX, surrendered to authorities in Hawaii last week. He and three other former BitMEX execs have been charged with failing to implement adequate anti-money laundering controls.
+
+He pleaded not guilty and was released on a $10 million bond pending federal court proceedings in New York.
+
+The grand jury indictment alleges that Hayes had knowledge of hackers using BitMEX to launder stolen cryptocurrency and permitted residents of Iran, the subject of U.S. sanctions, to create accounts.
+
+But any firm that's waited until now to start figuring out how guard against money-laundering, comply with sanctions and implement Know Your Customer identity checks has left themselves open to unwelcome attentions from the feds.
+
+Crypto Investor spoke with Pekka Dare, vice president of the International Compliance Association (ICA) and Yuelin Li, vice president of strategy at Onfido. They both said there's been an uptick in inbound requests for training, solutions or insight into how regulators will proceed.
+
+Dare said crypto firms that have already done their compliance homework stand to benefit when seeking to partner with traditional banking institutions:
+
+“If you can demonstrate you've got good AML controls and systems, that will open up more commercial opportunities for you. So it could be a win for the industry to be seen as having robust AML because we don't want to see it go too far and throw the baby out with the bathwater, right, and kill the whole business model of these crypto companies and put people off anyone from investing," he said. "It’s about finding that sweet spot.”
+
+The ICA is the organization that trains compliance officers on how to train employees at financial institutions. Dare said there's been as much interest from officers at fiat firms as there has from ones that handle crypto.
+
+"AML in particular has become much more of a focus globally in the last couple years. We've seen these huge global scandals, with just mind-boggling amounts of money moving around the world, linked to drug cartels," Dare said.
+
+He advises keeping an eye on the Financial Action Task Force, which recently published draft guidance on digital assets.
+
+Meanwhile, Li said the London-based identity verification service provider counts Bitex, Local Bitcoins, CoinDCX and BitPay among their clients. She’s quick to point out that the firms she interacts with skew heavily towards being proactive about compliance concerns.
+
+Broadly speaking, there are two pieces that a firm needs to have in place to verify a customer's identity: A system to prompt users documents, which varies from one jurisdiction to the next, and a way to verify that those documents are legitimate.
+
+"There are documents that don't have great quality pictures or places where you can acquire documents much more easily," Li said. "So there is a vulnerability to that, seeing a number of fraudulent documents or impersonation attacks"
+
+Her advice to the crypto firms that aren’t thinking about AML yet is to learn from fintech:
+
+“If the SEC wants to go to them and say, ‘I want to understand your process, how you’re doing identity verification, monitoring and anti-money laundering,’ it’s in their best interest to run a really good business to already have that in place. Pre-crypto, we saw this with fintech. I remember five years ago it was, ‘Will fintech take over banking or is banking going to crush fintech,' Li said. "And what we’ve wound up with, on the whole, is a lot more innovation than we would have otherwise seen in traditional banking. So if crypto wants to participate in the economy and regulatory framework, there’s lots of opportunity.”

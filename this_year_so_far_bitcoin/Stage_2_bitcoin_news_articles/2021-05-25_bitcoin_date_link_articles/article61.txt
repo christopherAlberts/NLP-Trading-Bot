@@ -1,0 +1,75 @@
+V. Where's the money, Gerry?
+
+While QCX-INT dug up a lot of information on Cotten and Patryn's history prior to forming Quadriga, a motherlode of information about what actually went down at the crypto exchange came through more official channels.
+
+After Quadriga's spectacular collapse in January 2019, the Supreme Court of Nova Scotia appointed Ernst and Young to look for the missing quarter of a billion dollars owed to creditors, with the most shocking report released in June 2019. The Ontario Securities Commission (OSC) also did their own investigation and released the results of their review in June 2020.
+
+What was clear in both of their findings was that Quadriga's asset shortfall was a result of Cotten's fraudulent activity. "What happened at Quadriga was an old-fashioned fraud wrapped in modern technology," the OSC report said.
+
+Cotten created fictitious accounts and was trading at times in fake dollars and fake bitcoin. His largest account was under the alias Chris Markay and at one point, he credited himself with single deposits of $100 million and $50 million dollars, respectively. He had other fake accounts, too: Aretwo Deetwo, Seethree Peaohhh — and Sceptre Gerry.
+
+The OSC report also found that in the first year of operation, Cotten was involved in the majority of trades on Quadriga. Unbeknownst to customers, he was the counterparty in more than 87 per cent of the bitcoin trades done on his own company's platform in 2014.
+
+“He couldn’t control himself ... and blew just an absolutely eye-popping amount of money.”
+
+The investigations also uncovered that Cotten mixed customer funds with his own. The Ontario securities regulator found that between 2016 and 2018, Cotten transferred millions of dollars of his clients' funds to his and Robertson's personal accounts to buy multiple properties, and fund their living and travel expenses.
+
+Jennifer Robertson, seen here with Gerald Cotten during their wedding celebrations, confirmed to CBC through her lawyer that 'she was with Mr. Cotten at the time of his death and he is most certainly dead.' (Candace Berry Photography/Facebook)
+
+Jennifer Robertson, seen here with Gerald Cotten during their wedding celebrations, confirmed to CBC through her lawyer that 'she was with Mr. Cotten at the time of his death and he is most certainly dead.' (Candace Berry Photography/Facebook)
+
+QCX-INT couldn't get that kind of access to Cotten's activities, but he wasn't surprised by the OSC's findings. To QCX-INT, it followed a pattern of "impulsive behaviour."
+
+"He couldn't control himself, by the looks of things, and blew just an absolutely eye-popping amount of money," he said.
+
+The OSC reported that Cotten used his customer funds for speculative trades on other cryptocurrency exchanges. And when the price of bitcoin was crashing, he'd try to make up for losses by essentially gambling customer funds, digging himself into a hole.
+
+"He was an inveterate gambler … an abysmal trader who lost tens of millions on some of these speculative trades," QCX-INT said.
+
+So in the end, when customers wanted to withdraw funds, Cotten became dependent on new money coming into the exchange. And the gap between the real and the fake money just got bigger.
+
+"Quadriga was a house of cards, and then it was a Ponzi scheme," said journalist Amy Castor. "I mean, where were the regulators?"
+
+Quadriga had been registered with the British Columbia Securities Commission, which issued a cease trade order in 2016, when it failed to file financial statements.
+
+It was also registered, in its early years, with FINTRAC, Canada's money laundering watchdog, as a money service business. The agency would not comment on what it did — if anything — to ensure Quadriga followed regulations. A spokesperson for FINTRAC wrote to CBC that the agency was prohibited by law to disclose that information to the public.
+
+Patryn says he had no idea what Cotten was up to, insisting he parted ways with the company in January 2016 over a disagreement with Cotten about listing Quadriga on the Canadian Securities Exchange. The company never did go public, and although Patryn remained a beneficial shareholder — holding more than 18 per cent of the company's shares, according to an affidavit he filed in court — it would appear that Cotten controlled the company from 2016 until its collapse.
+
+In a statement released in October 2019 in response to the revelations of fraud in the Ernst and Young reports, Jennifer Robertson said she was unaware of Cotten's "improper actions," that "she was not aware of, nor did she participate in Gerry's trading activities, nor his appropriation of customer funds."
+
+She added that she was "upset and disappointed" to learn about what Cotten had been up to.
+
+In a voluntary settlement agreement made in the fall of 2019 as part of the company's bankruptcy, Robertson offered to return $12 million worth of assets to Quadriga creditors, assets she says she believed were purchased legitimately with Cotten's earned profits, salary and dividends.
+
+Of the roughly 76,000 creditors who had money tied up on the exchange, in the end, only 17,000 made claims. About $46 million was recovered, and each creditor is expected to get about 10 per cent back, although the process is still ongoing.
+
+The RCMP would not comment on the creditors' call to exhume the body, nor would police comment on the ongoing investigation. The FBI is also mum and won't comment until the case is closer to completion.
+
+This image, of cash stacked on Cotten’s kitchen counter at his home in Kelowna, B.C., was part of the evidence collected by the Ontario Securities Commission in its investigation of QuadrigaCX. (Ontario Securities Commission)
+
+This image, of cash stacked on Cotten’s kitchen counter at his home in Kelowna, B.C., was part of the evidence collected by the Ontario Securities Commission in its investigation of QuadrigaCX. (Ontario Securities Commission)
+
+Creditors who have contacted the RCMP are frustrated by what appears to be a lack of action on the part of the law enforcement agency.
+
+"It's theft," said QCX-INT. "You know, it's like a $200-million bank job could happen, and you've got a law enforcement agency that does next to nothing about investigating it."
+
+QCX-INT was in contact with a fraud investigator in the RCMP's financial crime unit in the Toronto area, providing him with results of his data investigation and information gathered through sources along the way.
+
+"Even when there is hard evidence of fraud provided to them, you know, they would continually come back and say to us, 'We need more evidence, even in order to investigate,'" he said. "I felt like I actually had to present them with a bloody corpse and a gun with fingerprints on it in order just to get them to investigate."
+
+"I'm not convinced he's dead."
+
+Amy Castor, the journalist, said that Cotten "had been running Ponzi [schemes] from the time he was a kid." Based on what has emerged since his disappearance, "he was operating a massive Ponzi scheme and it was going down in a big way. He knew he'd have to face the piper. So he had to either face maybe going to jail for fraud or find another way out of there."
+
+Without official confirmation from RCMP that the body buried in Halifax is that of Gerald Cotten, suspicions persist about whether he could still be out there.
+
+"I'm not convinced he's dead," Castor said. "I wouldn't be surprised if one day, you know, we saw a press release come out from the U.S. Department of Justice that said he was arrested somewhere. I wouldn't be surprised if other people were implicated in his exit scheme."
+
+QCX-INT believes the balance of probabilities points to Cotten being dead, but said he'd be happy to be shown otherwise.
+
+In the meantime, he continues to keep an eye on the blockchain. He said funds are still moving in accounts connected to Quadriga, and that the activity is "unusual." He wouldn't elaborate further, for fear of compromising active investigations.
+
+"We are not treating this as closed. There are still individuals out there who we believe have benefited from the fraud of Quadriga. Now, we've got some suspicions about who that might be. And that means that they don't want me to be doing what I'm doing."
+
+With files from Eunice Kim, Yvette Brend and Rignam Wangkhang

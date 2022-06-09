@@ -1,0 +1,25 @@
+Former Central Intelligence Agency (CIA) computer consultant Edward Snowden talked in the Ethereal Virtual Summit 2021. The main subject, Privacy Coins, NFTs, decentralization and its relationship with freedom.
+
+A clip of the Summit was shared by Alex Gladstein, Chief Strategy Officer (CSO) for the Human Rights Foundation and Oslo Freedom Forum, via his Twitter account. The video sparked a debate around Bitcoin’s privacy failures.
+
+Snowden said that Bitcoin has failed in this category and its potential upgrade, Taproot, could even make it worse, contrary to popular belief. Gladstein called the clip “a disaster”, he was particularly against Snowden’s comments on Taproot and his classification of BTC’s Lightning Network as “shenanigans”. Gladstein said:
+
+Taproot is a privacy upgrade currently being activated which lays the groundwork for much more powerful privacy stuff like SigAgg. All designed by devs. And yes LN is part of Bitcoin’s global privacy evolution and is def not IMO “shenanigans”.
+
+He further added that Taproot is a real privacy upgrade for Bitcoin with the capacity to “obfuscate” chain analysis, a type of research that is used to track down the identity of BTC users by studying transactions. He added that BTC core developers must take other features into account, in order for a cryptocurrency to become a world cash system:
+
+But to build a robust digital cash system with a decentralized mint aiming to serve the whole world for hundreds of years, you can’t just focus on privacy. You also have to ensure decentralization, scalability, auditability, and economic incentives.
+
+Bitcoin And His “Missing Stair”
+
+Later, Snowden reply to Gladstein and called his statements “misleading”. As a Bitcoin holder, the former CIA consultant feels that he has a responsibility to publicly discussed BTC’s “failures”, such as privacy.
+
+As Bitcoin attracts more “dragon level” wealth, Snowden believes there will be fear amongst the community to criticize the project. Snowden believes there is a great public cost in not pointing out BTC’s so-called flaws. He said:
+
+Bitcoin’s disastrous privacy is the “missing stair” of cryptocurrency. Every expert understands it’s a problem, but—as experts—they themselves know how to compensate for the risk in their own personal interactions with Bitcoin, and therefore feel no urgency to actually fix it.
+
+He praised some privacy projects, such as Zcash and Monero. But claimed BTC is the only cryptocurrency big enough to face a potential regulatory attempt of smother. Therefore, it must further develop one key feature, according to Snowden, fungibility:
+
+The central property of cash is fungibility—meaning a dollar spent by a plumber is honored equally to one spent by a sex worker: they are indiscriminable. Adversarial chain analysis of Bitcoin’s public ledger reduces its fungibility over time. Only privacy guarantees fungibility.
+
+Bitcoin trades at $58,816 with a 3.1% profit in the daily chart and a 1.7% profit in the weekly chart. During the weekend, BTC has pushed into the higher levels of its current range with positive indicators of further appreciation.

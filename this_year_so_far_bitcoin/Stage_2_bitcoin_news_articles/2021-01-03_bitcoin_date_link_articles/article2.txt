@@ -1,0 +1,31 @@
+Today is Bitcoin Day, the anniversary of the Genesis Block that marked the beginning of the Bitcoin blockchain in 2009. This year, with the price of bitcoin shooting for the moon, Bitcoiners have more reason to celebrate – and more reason to assert their sovereignty over their private keys.
+
+An annual event first initiated by Trace Mayer, Proof of Keys is an informal celebration that aims to remind bitcoiners that monetary sovereignty is a fundamental part of Bitcoin’s ethos. It lies at the very heart of the familiar Bitcoiner mantra, “not your keys, not your coin.” In other words, if you don’t control the private keys to your bitcoin, you don’t really own the coin.
+
+The saying is a reminder that Bitcoin was built to give users complete control over their finances. It’s also a reminder of the potential consequences of trusting your bitcoin keys to a third party (like losing your funds in an exchange hack).
+
+Establishing monetary sovereignty
+
+“Anyone who doesn’t want you to hold your own private keys – they’re your monetary enemy. They don’t want you to be free and independent with your money,” Mayer said in the lead-up to 2019’s inaugural event. “That’s just the way it is.”
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+The implications of being reliant on others to process, exchange and hold your cryptocurrencies aren’t immaterial. They hold acute consequences and compromises of your privacy, and will limit how you interact with your own money.
+
+The Financial Crimes Enforcement Network (FinCEN) gathers extensive personal information on millions of people’s financial transactions, all provided by financial institutions, even when those people have not committed any crime.
+
+This year, taking custody of your keys by moving them to a personal wallet takes on an added level of significance. FinCEN has proposed a plan that will force exchanges to comply with new know-your-customer (KYC) requirements when users try to transfer their funds to a personal wallet. Such a requirement, applicable to any transferred amount over $3,000 in value, threatens to undermine cryptocurrencies’ early promise of privacy and self-sovereignty. (Note: FinCEN is accepting comments from the public on this issue only until Jan. 4, 2021).
+
+Add to this the recent delisting of privacy coins by many exchanges, aforementioned exchange hacks showing no signs of stopping and other snafus like absent exchange keyholders inadvertently freezing transactions. Assuming control of your own private keys and becoming the first and last line of control when it comes to your crypto is even more imperative.
+
+The most basic way to exercise your monetary sovereignty is to hold your private keys in your own non-custodial bitcoin wallet. This means taking any bitcoin you own out of exchanges and custodial wallets and transferring the keys to a wallet you control.
+
+Proof of Keys
+
+“Proof of Keys” takes the notion of self-sovereignty even further by adding the adage, “Not your node; not your rules.” The point here is that it is equally important to withdraw your keys to a bitcoin node that you are running. This way, you can perform your own validation yourself, without having to trust other people’s nodes to prove that your keys are your own.
+
+Participants in Proof of Keys usually pledge to take possession of any private keys on or before Jan. 3. On Twitter, this pledge is denoted publicly by the addition of series of symbols to their user name or profile: [Jan/3➞₿🔑∎] The date, arrow, Bitcoin unicode and key represent their intent to hold their keys. The block signals that they have completed the verification process.
+
+Casa’s KeyFest
+
+Self-custodying your keys can be a tricky proposition for the uninitiated – and even for some who have been holding bitcoin for a long time. To help people safely take control of their private keys, Casa is hosting its first KeyFest, a three-day virtual conference from Jan. 5 through 7.

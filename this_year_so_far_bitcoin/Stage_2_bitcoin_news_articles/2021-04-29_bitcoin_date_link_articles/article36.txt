@@ -1,0 +1,13 @@
+CME Group execs discussed the firm's bitcoin futures offerings during an earnings call on Wednesday, with next week's expected launch of micro bitcoin futures predicted to open the door to a potentially wider customer base.
+
+According to a published transcript, CME brought in $4.7 million in revenue from its bitcoin futures offering. Senior managing director Sean Tully remarked that "if you look at our first quarter of this year, the revenue was higher than the entirety of last year, and it was about $4.7 million in the first quarter. So it was a positive and for the first time, much stronger than in the past."
+
+Yet he went on to note that despite the product's success, its characteristics limit the number of customers who are able to interact with its bitcoin futures.
+
+"It's 5 Bitcoins," said Tully. "And the margin requirements run typically more than $105,000 per contract. Obviously, that is extremely restrictive in terms of the number of participants and the types of participants who can be involved in that."
+
+Pointing to the micro bitcoin futures, expected to launch on May 3, Tully remarked:
+
+"With the new micro Bitcoin, it's going to be 1/50 of the size. The micro Bitcoin future will have approximately $2,000 margin. So you can see how that opens up a much wider potential customer base for that product. In addition to that, while the notional size of that product is 1/50, the size of the large contract, it's at 1/10 of a Bitcoin, the rack rate fees are 1/2 of our existing Bitcoin futures. So we're looking forward to that launch. In addition to that, the fees relative to other exchanges will be significantly lower even at that fee rate. So we're looking forward to that launch."
+
+The official CME fact sheet for the micro bitcoin futures can be found here.

@@ -1,0 +1,9 @@
+BitMEX will place a bitcoin wallet holding 1 BTC on the surface of the moon as part of the first-ever commercial soft landing on its surface.
+
+Bitcoin exchange platform BitMEX has partnered with space robotics company Astrobotic to literally put bitcoin on the moon through an upcoming lunar mission that is expected to launch later this year.
+
+A physical coin, similar in design to a Casascius coin, will be included in the payload of an Astrobotic Peregrine lander that will touch down on the moon in a mission to deliver scientific and demonstration items to the surface of the celestial body, according to a BitMEX press release shared with Bitcoin Magazine. This will be the first-ever commercial soft landing on the surface of the moon and the coin will have the private keys that control access to the bitcoin, effectively the bitcoin itself, printed on them.
+
+“BitMEX will mint a one-of-a-kind physical bitcoin, similar to the Casascius coins of 2013, which will be delivered to the moon by Astrobotic,” according to the release. “The coin will hold one bitcoin at an address to be publicly released, underneath a tamper-evident hologram covering. The coin will proudly display the BitMEX name, the mission name, the date it was minted and the bitcoin price at the time of minting.”
+
+The notion that bitcoin is “going to the moon” has been a frequently-used phrase among Bitcoiners, usually meant to describe future price gains. But with the private keys to an address holding 1 BTC resting on the actual moon, those of us on Earth will be able to say it is truly there.

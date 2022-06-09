@@ -1,0 +1,89 @@
+Fast forward to 2011, just 13 years after graduating Stanford with bachelor’s and master’s degrees in computer science. Through these memorable years, I had scored internships at Microsoft, where I introduced myself to Bill Gates at the annual interns barbecue he held each summer, and at IBM, the aging lion of the modern computer industry. I had held management positions at Yahoo and other American and Chinese technology companies, and was now about to start work on my biggest role yet: I was one of the five vice presidents managing a new e-commerce service in China for Walmart, the world’s largest company by revenue.
+
+Walmart figured it could challenge Chinese online retail powerhouses Taobao and Jingdong in the world’s most populated country. Walmart called its effort Project Panda.
+
+This is an excerpt from "The Promise of Bitcoin: The Future of Money and How It Can Work for You" by Bobby C. Lee (McGraw Hill, May 2021), published today.
+
+
+
+Consensus 2021: Bobby Lee will appear at CoinDesk's Consensus by CoinDesk, our virtual experience May 24-27, in the "State of Crypto in China" track. Register here.
+
+But it quickly became apparent that Project Panda faced an uphill struggle as much because of internal politics as outside competition. Walmart was quick to hedge its bet by investing in an established Chinese e-commerce company, Yihaodian, and pitted our newly formed division against them. We had no chance. My 150-member technology team did yeoman’s work but couldn’t catch up to our established in-house competitor. Within a year we could all see the endgame for Project Panda.
+
+During that year I had my first conversation about Bitcoin with my brother. Charlie had graduated from MIT’s five-year master’s program in electrical engineering and computer science and was working as a software engineer on Google’s Chrome OS team. Charlie outlined how Bitcoin worked and how it had built a small global following in its two years of existence. More importantly, Charlie made a compelling case for Satoshi’s Bitcoin thesis and its potential for revolutionizing finance. I was hooked.
+
+(McGraw Hill)
+
+Just as I started my promising Walmart career, I mined my first bitcoins. The experience was addictive and I started looking for graphics cards that would accelerate my computer’s ability to solve the algorithmic problems that would reward me with more bitcoins. The global Bitcoin community was tiny, but I suspect there was at least one other hobbyist in Shanghai who always seemed to be one step ahead of me. Apparently, he bought out the local computer stores’ supply of high-end graphics cards. The shelves were empty at every store I visited. Thankfully, I found supplies overseas.
+
+I mined bitcoins from the summer through the fall of 2011. My single mining rig ran all day, every day, and it was enough to heat up that whole empty guest room in my apartment in downtown Shanghai.
+
+In late 2012, shortly after leaving Walmart, I decided to take an early exit off the traditional technology management career path and make Bitcoin my full-time career. It was a bold step into an uncharted field. The possibilities were enormous, but the truth was I wasn’t sure exactly what I would do.
+
+Mining didn’t offer enough variety: once you knew what you were doing, it wasn’t mentally stimulating. But Bitcoin was just about to catch the public eye. What would consumers need to quicken the pace? I had bought additional bitcoins on a local exchange website called BTCChina.com, created by two Chinese men in their late twenties, one a computer programmer from Nanjing and the other a businessman from Beijing. A switch turned on inside me. (This was in the days before litecoin, ethereum and all of the other cryptocurrencies had launched.) The idea behind BTCChina was inspired, and it compelled me to act.
+
+My single mining rig ran all day, every day, and it was enough to heat up that whole empty guest room in my apartment in downtown Shanghai.
+
+Here was an easy-to-use bitcoin exchange platform available to everyone in China. Its functions needed work, but that’s where I could apply my years of experience building consumer-facing platforms. I emailed them cold, asking via customer support to see if I could speak with the boss. A week later, I was in Beijing outlining my BTCChina vision over a Peking duck dinner, and when the three of us had closed the restaurant we continued at a coffee shop late into the night. Our backgrounds were complementary, and our passion and vision were aligned. We would make a good team.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+They were skilled entrepreneurs who had a sound foundation, but they lacked managerial know-how, vision and a sense of how to find funding to energize the business. I could bring big-picture, corporate expertise to the mix and an understanding of how technology startups thrive. I also knew about the bumps of early-stage companies. Like startups in most new industries, BTCChina might see huge spikes and then lulls of activity. Over the ensuing weeks, I purchased shares in the company, took on the title of co-founder and CEO, and immediately began speaking with venture capitalists to raise money. When we closed the deal on my role in early 2013, bitcoin’s price was just under $15.
+
+About this time, bitcoin prices and trading volumes started climbing. We were using my Shanghai apartment as our headquarters. But after recruiting two customer service representatives and an ex-Walmart colleague, we leased our first office, a 2,000-square-foot open floor plan in the Xujiahui neighborhood, not far from Shanghai’s business epicenter. It was a small office on the twenty-third floor of an office building, with brightly colored walls painted by the previous tenant, an internet content delivery network company. We were excited to get started and to build a real Bitcoin company in China.
+
+By then, I had also secured a $5 million investment round led by venture firm Lightspeed China, an offshoot of the famed Menlo Park, Calif., venture firm by the same name. Lightspeed China counted some of the country’s highest-profile tech companies in its portfolio. We were the first cryptocurrency company in all of Asia to receive venture funding.
+
+We adopted best practices that were drawn from the American startup world but were new to China’s emerging economy. We provided free sodas and drinks at the office, handed out T-shirts and other gear with our corporate logo, and took employees to the movies to foster team building. I borrowed several traditions from Yahoo, including one where we gave employees custom-designed coffee mugs each Christmas. Employees collected a different personalized mug for every year of service.
+
+The hours were long. We even made Saturday a regular work day. On a memorable company retreat in the fall of 2013 at a vacation island outside Shanghai, we spent most of the time in conference rooms revamping our platform to accommodate a sudden jolt in trading volumes. Bitcoin had just passed $200.
+
+But BTCChina also ran a lean ship. We stayed put in our small space even as we quadrupled our workforce. We mapped product designs and engineering solutions on the glass walls enclosing the conference rooms, which served as makeshift whiteboards. We felt we were part of a bold mission, the introduction of a new type of decentralized digital asset based on a technology with huge potential, called blockchain. We focused everything we did on building our business into something that the average consumer and investor could recognize.
+
+Exiting BTCCHINA
+
+The ride was often challenging. For every new customer, we heard from dozens of naysayers. What is this new currency? How can it be valuable? Why would anyone use it? Does it have the government’s support? Who is regulating it? Isn’t it more vulnerable to hacking than an online bank account?
+
+Then there were the shocks.
+
+After shooting to over $1,100 by late 2013, bitcoin quickly lost two-thirds of its value, stoking fears that it was no better than play money. Meanwhile, two aggressive, well-supported competitors emerged, OKCoin and Huobi. They reduced the trading fees, so we started a price war by cutting trading commissions to zero. That was good for customers but drained our cash reserves. We cut staff, introduced new trading features and other new services to boost sales, and went out to seek a fresh cash infusion. A small surge in bitcoin prices and the subsequent demand for exchange services near the end of 2015 helped push us into cash positive territory. We were finally profitable!
+
+The next obstacle arose two years later, when the Chinese government started cracking down on crypto trading and initial coin offerings, a mechanism for funding blockchain projects, largely because these were activities that regulators could not control. In September 2017, we shuttered the domestic BTCChina exchange for trading. At the time, we boasted over one million registered users, a staff of 150 and four separate offices. We kept open our international business called BTCC, based in our Hong Kong office. In January 2018, we sold our business to a Hong Kong–based blockchain investment fund.
+
+The acquisition came when the price of bitcoin was hovering over $10,000 – down from a much-ballyhooed high of $20,000 a month earlier but more than 100-fold higher than the price when BTCChina opened for business.
+
+Bitcoin was fulfilling Satoshi Nakamoto’s vision that a digital currency open to anyone, controlled by no one, would find a wide following. In his 2008 paper, “Bitcoin: A Peer-to-Peer Electronic Cash System,” Satoshi had outlined a system that would allow individual parties to execute financial transactions without the participation of an intermediary controlling entity.
+
+These controlling entities or centralized organizations – most prominently banks, credit card companies, or increasingly electronic payment services like PayPal – had traditionally filled an accounting role, ensuring the accuracy of every activity. Although bank loans and deposits have roots from before the birth of Christ, the system upon which the modern banking model bases itself dates to the Medici family in the Italian Renaissance. The Medicis recognized an ongoing need among the powerful elite for well-organized financial management services on a large scale, via one powerful entity.
+
+Over the centuries, the public came to trust these centralized organizations as the most secure places to park their hard-earned cash. Banks ranked among society’s most respected organizations. They were too big to fail – or were they?
+
+The ride was often challenging. For every new customer, we heard from dozens of naysayers.
+
+Just three months after the economic crash of 2008, when several large financial institutions failed, Satoshi’s nine-page paper offered a more streamlined, efficient alternative to the traditional system. Satoshi had recognized the greatest flaw in the traditional models: namely, that these centralized organizations controlled every activity within their networks. They could delay, stop and even reverse transactions that they determined had not met their standards. Fairness and objectivity often did not guide their decisions. Moreover, the cost of their mediation services increased transaction costs and, perversely, the banks were financially incentivized more and more for their involvement in these financial transactions.
+
+“The system works well enough,” Satoshi wrote. But upon closer inspection it also created obstacles to which most consumers had grown immune, such as transaction costs and lack of control.
+
+His electronic payment system removed the impediments, allowing “two willing parties to transact directly,” to move payments from one digital account to another with access based on memorizing a key of binary numbers. He described the coins as “a chain of digital signatures,” or bitcoins. The now-widely used term refers to bits, the zeros and ones that are the smallest units of data in computer language.
+
+A network of computer-savvy participants, miners, used their computation power to ensure the integrity of this new currency system by verifying and recording each transaction on a digital ledger open for public review. Each time-stamped transaction, approved by a consensus of miners, would become part of a chain of data blocks called the blockchain. To falsify a transaction would require altering earlier entries, alerting the group and invalidating that record and all subsequent ones. The system would be safe from attack as long as miners with honorable intent outnumbered those with malicious designs. The whole system was self-healing, self-reinforcing and self-incentivized.
+
+The system incentivized people to participate by offering bitcoin awards for their work as miners, which required solving an algorithmic equation. Mathematical certainty was at the heart of Satoshi’s system, and that would propel it forward, rather than faith in institutions that were more easily corruptible or had swung from their original intent. Its rapid growth from the idea of a singular genius to a community surpassing 50 million people globally in early 2021 (this is my rough estimate based on my tracking of the industry and discussions with other Bitcoin experts) reflected pent-up demand for a monetary system that could give everyone in the world more control of their assets.
+
+Bitcoin was also a manifestation of a larger movement: a new scrutiny of old ways and embrace of digital innovations that had already transformed much of how we live and work. Money and currency were the last frontiers in this movement.
+
+But for me, bitcoin never felt completely new. It possessed a familiar quality. At first I couldn’t pinpoint the feeling, but then I realized bitcoin was the virtual equivalent of gold, the substance that my great-grandmother’s family was named after; that my paternal grandparents had concealed in their clothes to start a new life in noncommunist Hong Kong; and that my family revered and collected for generations. In short, gold had given all of us a sense of security.
+
+They knew that gold held its value – or better – because of its scarcity and its special properties that have entranced people throughout history, qualities that made it the most suitable form of natural money for thousands of years.
+
+The shine that embodies wealth.
+
+(The author)
+
+Perhaps more importantly, my gold-bearing ancestors had direct control over their most important asset. They didn’t need bank approvals or waiting periods. It was a tumultuous, unpredictable time for them as they made their escape just years after living through one of history’s most violent periods. My grandparents thought a lot about security, both in the physical sense and in the financial sense. They looked for solid ground wherever they could find it.
+
+I’m finding similar reassurance in Bitcoin now as the world becomes more unpredictable. Political unrest fed by populist movements, environmental concerns and a fast-changing global economy that seems to generate new winners and losers every few days have challenged much of what most of us have assumed would always be true. The next downturn seems to be lurking just out of sight. Brexit. Tariffs. Protectionism. Canyoning divides in wealth between haves and have-nots. Social inequity. Growing racial divides. And perhaps most importantly, a growing inability of people to empathize with one another.
+
+What comes next?
+
+Even in the current low-inflationary environment, the money I’ve earned does not buy me as much as it did 10 years ago when I mined my first bitcoins. Yet, untethered from the forces that determine economic policy, my cryptocurrency holdings have risen in value over 10,000%. I couldn’t have done nearly as well investing in retail juggernaut Amazon – even over 20 years. And the great thing is, the superior performance of bitcoin continues.

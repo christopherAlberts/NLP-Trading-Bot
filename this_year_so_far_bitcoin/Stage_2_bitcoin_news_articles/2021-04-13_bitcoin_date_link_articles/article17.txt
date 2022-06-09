@@ -1,0 +1,111 @@
+Tether, also known as $USDT, is what’s known as a stablecoin. It’s a place where you can save your funds in cryptocurrency as opposed to Fiat currency.
+
+The appeal lies in giving your portfolio diversification into the tempting world of cryptocurrency, while avoiding the volatility of cryptos such as Bitcoin and Ethereum. But it’s also used to cheaply and quickly trade cryptocurrencies.
+
+Tether was conceived in 2014 and its value is directly linked to the US dollar. For this reason, it offers more stability than volatile coins like Bitcoin. The idea is that for every USDT issued, $1 is kept in reserve at the Tether Foundation. This is meant to keep the price stabilized at a dollar.
+
+Back in 2014 the supply was under a million dollars, it surpassed this in 2016 and by early 2018 had reached $1.4 billion. Today USDT has a whopping $44.5bn market cap.
+
+According to CoinMarketCap today, Tether is the fifth largest cryptocurrency by market capitalization. This surely shows many people are keen to support Tether.
+
+In the past 24 hours (at the time of writing) Tether has generated volume of $105 billion. That’s more than double Bitcoin’s volume at $50bn and 5X Ethereum’s at $20 billion. In fact, as of February 2021, 57% of all Bitcoin trading was carried out in USDT.
+
+This confirms that USDT is by far the most popular stablecoin in the world. The reasons are stability, liquidity, and cost.
+
+Speaking to Coinbase earlier this year, CTO of Tether and Bitfinex, Paolo Ardoino, said:
+
+“We’re not sure that anyone could have foreseen this level of growth and use cases of tether at the very beginning. We were confident that it was a useful token, but didn’t anticipate quite how useful it could be,”
+
+Faster and cheaper
+
+One reason stablecoins are popular is that they offer a faster and cheaper way to move money around. To wire money from a bank often takes a minimum of three days unless paying huge charges. Stablecoin trading on the other hand is instantaneous. That’s because it’s centralized whereas cryptocurrencies like Bitcoin are decentralized and can take longer to settle.
+
+Crypto is traded 24 hours a day, seven days a week, unlike traditional financial markets, crypto never sleeps.
+
+Controversies surrounding Tether
+
+Tether’s origins are steeped in controversy and in the world of crypto it’s taken a while to establish its footing. The point of Tether being pegged to the US dollar is to protect against market uncertainty and offer constant liquidity in the market.
+
+But there have been questions regarding how truly pegged to the dollar it actually is. And in 2019 a Tether lawyer stated each USDT was only 74% backed by Fiat.
+
+For this reason, some consider Tether a ‘partial reserve stablecoin’ – one that does not have the full backing of the USD. But its convenience and ease of use is propping it up and that’s unlikely to change unless there’s an obvious loss in its peg to the dollar.
+
+Who controls Tether?
+
+Despite it being backed by the blockchain technology, Tether is surprisingly less transparent than its crypto counterparts. This has led to heavy criticism of the coin and suspicion regarding its purpose. Some believe the presence of Tether is helping to artificially inflate the price of Bitcoin and its peers.
+
+An academic peer-reviewed paper published in 2018 set out to investigate whether Tether influenced Bitcoins rise in the 2017 crypto boom. During 2017, the three main exchanges used for trading Tether were Bitfinex, Poloniex and Bittrex. At the time, Kraken was the main exchange where Tether could be exchanged for USD.
+
+After analysing the flow of Tether through the system, the paper concluded that the distribution of Tether into the market was from a large player rather than widely dispersed interest. That’s because more than half of the exchange of Tether for Bitcoin took place at Bitfinex, a Hong Kong-based cryptocurrency exchange, and was associated with one large player.
+
+It turns out Bitfinex officials are responsible for Tether’s origins and this led the New York Attorney General (NYAG) to file a lawsuit accusing Bitfinex of using Tether reserves to bail themselves out of trouble. This case was settled privately in February.
+
+Tether & @Bitfinex have reached a settlement with @NewYorkStateAG. After 2.5 years and 2.5M pages of info shared, we admit to no wrongdoing and will pay US$18.5M to resolve this matter. 1/3 — Tether (@Tether_to) February 23, 2021 Tether (USDT) and Bitfinex reach a settlement with the US District Attorney
+
+Reducing concerns
+
+The NYAG alleged Bitfinex and Tether were covering up losses of around $850 million in customer funds. It also alleged that Tether misrepresented maintaining adequate reserves of one US dollar for every one Tether coin. In settling, Bitfinex and Tether agreed to pay $18.5 million, cease trading with New York residents and entities, and provide quarterly transparency reports to the NYAG. Bitfinex and Tether neither admit nor deny any of the NYAG’s findings.
+
+New York Attorney General Letitia James said:
+
+“Bitfinex and Tether recklessly and unlawfully covered-up massive financial losses to keep their scheme going and protect their bottom lines, Tether’s claims that its virtual currency was fully backed by U.S. dollars at all times was a lie. These companies obscured the true risk investors faced and were operated by unlicensed and unregulated individuals and entities dealing in the darkest corners of the financial system.”
+
+Crypto Capital fiasco
+
+The upshot of this is that in 2018 Tether loaned $900 million to Bitfinex. It used $750 million of this, which the NYAG allege was a coverup for the $850 million of customer funds it lost. Bitfinex lost $850 million after payment processor Crypto Capital seized the funds and it’s still trying to recover this.
+
+The company said:
+
+“Bitfinex continues to make progress in its recovery actions against the Crypto Capital group around the world,”
+
+In any case, the money Tether loaned Bitfinex has now been paid back and the loan facility cancelled.
+
+. @bitfinex repays @Tether_to balance of $550M under credit facility; loans repaid early and in full; all interest has been paid; credit facility now cancelled. https://t.co/K1lRi59R4N — Stuart Hoegner (@bitcoinlawyer) February 5, 2021 Bitfinex repays Tether loan
+
+The controversy surrounding Tether has been extensively debated in recent years, but throughout that time, Tether’s value continues to climb. And now that a settlement has been reached, concerns are diminishing. There’s also since been an independent audit conducted into Tether’s transparency and it concluded it to be fully backed by US dollar reserves, further easing concerns.
+
+Assurance Opinion Confirms @Tether_to’s Reserves Fully Backed; Company Shares as Part of Ongoing Transparency Commitment Our statement: https://t.co/uWHQWBxIYg Assurance opinion: https://t.co/MqJCsSk8uD — Tether (@Tether_to) March 30, 2021 Tether’s reserves are fully backed
+
+But Tether’s legal battles are not yet over. Real Estate investor and former NFL lineman Reggie Fowler was arrested by the Fed for operating an illegal crypto banking scheme. He’s been accused of allegedly providing Tether and Bitfinex with shadow banking.
+
+Meanwhile the US Department of Justice (DoJ) is investigating whether Tether uses USDT to inflate the entire cryptocurrency landscape. Both cases continue.
+
+Rising popularity in Asia
+
+Tether is exceptionally popular in Asia. Chinese citizens can’t legally buy Bitcoin, so they have to use cloak and dagger tactics. The usual state of play is to use a VPN to set up a crypto trading account. They then use Yuan to buy USDT, being pegged to the USD gives them a good rate of exchange. This is then traded with Bitcoin, which can then be used directly for offshore purchases.
+
+Another reason for heightened USDT activity in Asia is a practice called shadow banking, which is commonplace. This refers to unregulated non-bank financial institutions. So, the activity from this area of the market could be another driving force behind the inflated Tether volume.
+
+A selection of stablecoins
+
+Stablecoins have become a popular mainstay of the cryptocurrency markets because they offer liquidity and stability. They’re also a critical part of crypto trading.
+
+The stability helps reduce the uncertainty of cryptocurrencies across the board. Thereby helping reduce the likelihood of a bearish shift in the market.
+
+Tether can safely be considered the first successful stablecoin and has since spawned many other Fiat stablecoins.
+
+USD Coin (USDC) is one of them and the Gemini Dollar (GSUD) another. But there are many more including Paxos Standard Token (PAX), Binance USD (BUSD), TrueUSD (TUSD), Facebook’s Libra (FB.O), and MakerDAO (DAI).
+
+The Gemini Dollar was created by the Winklevoss twins in 2018 and claims to be a transparent stablecoin. It’s an ERC20 token built on the Ethereum network.
+
+Although Tether is pegged to the US dollar, other stable coins have appeared tied to alternative stable assets such as palladium and gold.
+
+For example, Paxos Gold (PAXG), is backed by physical gold. Then there’s DAI which defies logic by pegging itself to Ethereum.
+
+Reasons to be bullish on Tether
+
+Many Bitcoin bulls claim it to be the digital equivalent to gold, but Bitcoin’s volatility is historically more unpredictable than gold. Granted it does seem to be calming down in 2021, to a greater degree than it did historically, but it’s still early days in the life of the coin compared with a long-standing asset such as gold.
+
+So, here’s where Tether can offer more of a stability guarantee than Bitcoin can thus far.
+
+The fact Tether’s value continues to climb despite court cases and suspicion, shows there’s clear demand for its presence. And now the legal battles have been partially dealt with, USDT has further credibility and staying power.
+
+This year it’s not just retail investors riding the crypto bull run, institutional investors are at the helm and this is driving growth across the board. An increase in interest from Fortune 500 companies, the financial industry and many publicly traded companies is helping grow acceptance. This is likely to lead to a regulatory framework that includes stablecoins backed by the banking system.
+
+Reasons for caution
+
+But that eventuality doesn’t necessarily mean it will favour Tether. Being that it’s Hong Kong based, and US-Sino relations are far from perfect right now, there’s a good chance an alternative stablecoin could become the token of choice. Plus, many central banks are in the process of developing their own form of cryptocurrency. For instance, the Chinese stablecoin, the digital yuan.
+
+The entire cryptocurrency landscape is still new in the history of financial markets. Therefore, it’s difficult for anyone to predict where each coin will be in the coming years. There’s no doubt the bulls are out in force and with the global economy under extreme pressure, good reason to believe this will continue.
+
+Nevertheless, there are still several red flags surrounding Tether so it seems unlikely that it will rise up and displace Bitcoin anytime soon. And whether Tether will remain the world’s most popular stablecoin remains to be seen.

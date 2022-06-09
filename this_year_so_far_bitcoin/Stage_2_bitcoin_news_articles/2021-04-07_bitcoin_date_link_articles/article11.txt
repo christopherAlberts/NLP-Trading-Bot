@@ -1,0 +1,49 @@
+It’s true! Ecological catastrophes, systemic pollution and the inefficiencies that create them are a major problem. People obviously do not want to live amid a toxic wasteland, and the quality of human life gets better relative to the cleanliness of the ecosystem in which they live. If the world became too toxic, we could not live, and that would be… well… bad.
+
+However, the benefits of industry have been a net positive for humanity as a whole; creating efficiency in the ways we eat, sleep, travel and grow as a species. Due to industrial processes, we are much more able to focus on arts, culture, charity, and civics. Industry has solved most of the globe’s basic needs, and continues to do so with greater efficiency in places where freedom flourishes.
+
+So, a return to non-systematic, pre-industrial agrarianism is a romantic idea in some ways, but is ultimately undesirable because too much of the world would starve to death, and the other costs would largely outweigh the benefits. However, in the face of the bull run and NFT boom, environmentalist activists have once again targeted Bitcoin’s industrial infrastructure for criticism based on the assumption that proof of work for building blocks is a waste of electricity.
+
+Is Bitcoin a wasteful use of energy?
+
+Of course not! Every system has financial and ecological costs, but how many systems are measuring practical ROI?
+
+People focus on Bitcoin’s consumption, but not Visa’s, for example. Have you considered what Bitcoin can create per kilowatt compared to what the centralized economy can do with the same kilowatt? All systems have consumption which is repurposed in the attempt to create extra value so that efficiencies can be sold to the world in order to make profit. But the real question should be if there’s more profit to be made by using Bitcoin as a tool for efficiency rather than other existing solutions.
+
+The Bitcoin protocol is already more efficient than Visa at a very fundamental level, so why aren’t we measuring Bitcoin’s value per kilowatt? The reason is that BTC is the most well-known implementation of a Bitcoin-style network, and obsolete protocols like Ethereum take up the rest of the mental bandwidth of the blockchain economy. Both networks are massively (and arbitrarily) inefficient, but they are popular due to the asymmetry in information available in the market.
+
+But that is a side note because the current mainstream economy relies on massive data centers that are incredibly power hungry too. They function as a product of the indirect incentives to maintain internet infrastructure as the backbone of the modern economy, and they use power which people just accept as a baseline to maintain their standard of living. They do this because electricity consumption relative to economic output is extremely difficult to measure, and the incentive to be “greener” is something of a mixed bag.
+
+Since the metrics are all wrapped up in complicated math, they are easily forgotten!
+
+How is Bitcoin green?
+
+Before computers, power consumption relative to overall profit was considered a fixed cost because it was difficult to change and even more difficult to measure precisely. So a business plan may only consist of estimated costs versus estimated revenue, and entrepreneurs would attempt to balance them out to make some profits. If things worked, business chugged along, but the incentive to increase something like power efficiency wasn’t really perceivable for industrial consumers who were innately competitive, but not often cooperative. Before Bitcoin, most industries only had marginal incentives to cooperate with their competitors at all without layers of inefficient bureaucracy getting in the way.
+
+Bitcoin changed this. For the first time in world history, the best competitor would be held in perfect balance with his ability to be the best cooperator, while also having a direct and calculable incentive to find proximity to the most efficient source of power in the world.
+
+This has had three major effects:
+
+Honest nodes huddling near sources of cheap power. An exponential increase in efficiency of computer technology specializing in the creation of the supercomputer inherent in bitcoin. An incredible amount of cooperative research into efficient power generation and recycling.
+
+Without Bitcoin, there is far less financial incentive to be more efficient with power in computation and value transfer, and when incentives are low, things stay the same. People needed incentives and gamification of the race to be more efficient in the use of power! Bitcoin created that incentive, and the world is beginning to reap the benefits as industrial miners recycle power into green houses and research new ways of generating power altogether.
+
+As Bitcoin absorbs an increasing share of the centralized economy, the inefficiency of poorly coordinated networks will give way to the efficiency of much more closely coordinated production of value that Bitcoin offers.
+
+Imagine the day when the infrastructure of Visa, Mastercard, PayPal, Venmo, ACH, Swift, FedWire, Western Union, MoneyGram and everyone else has been replaced with bitcoin. Not only does the world benefit from instant payments, 10-minute settlement times and instant proof of all activity, but it does so with the incredibly small and efficient carbon footprint of the honest nodes of Bitcoin.
+
+But isn’t bitcoin consuming too much power?
+
+No, but BTC is! SHA256 (Bitcoin’s mining algorithm) hashing power is being wasted on BTC by fools and scammers chasing a juicy block subsidy. Under the auspices of increased security, hash power is around all-time highs and consumes absurd amounts of energy while the network can only handle six megabytes per hour. Plus, the difficulty on BTC is actually a security concern! If a significant number of mining machines were to be suddenly turned off, the network would be unable to find a block—effectively grinding the network to halt. Since BTC nodes are poorly connected, largely behind TOR and towing a fragile political line in places like China, such an occurrence on BTC is plausible.
+
+So, yes, BTC is extremely inefficient and wasteful.
+
+However, in stark contrast, Bitcoin SV (which shares global SHA256 availability) is capable of practically limitless financial transactions and valuable data per hour, and due to its more competitive nature, opens up more specialized transaction processing business models. Instead of raw competition for block rewards, BSV creates opportunities to use a small amount of hash rate while providing value-added services such as high connectivity data services, asymmetric computation or critical storage of archival data. So for a fraction of the cost, Bitcoin SV can process several orders of magnitude more payments and data across the globe, and that’s the real point.
+
+We don’t need four credit card companies, thousands of banks, dozens of regional and international settlement rails and 6,000 “cryptocurrencies.”
+
+Bitcoin SV can truly replace ALL of the payment rails of the world, eliminate the need for unmeasurable power consumption, and put direct incentives in place to make sure that no arbitrary waste exists in the entire global economy. All the while, providing near perfect identity solutions, property rights management, secure personal and business data and integrating physical and digital lifestyles seamlessly on the blockchain.
+
+This is a goal worth pursuing for the sake of the planet, and for the sake of profit! And that’s what will make important things truly get done on all fronts. So next time you are looking for a green tech solution to all of the world’s problems. Start with Bitcoin SV. It’s the only tool that can replace EVERYTHING.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

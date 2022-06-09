@@ -1,0 +1,71 @@
+DeFi stands for decentralised finance. It’s the central concept underlying Bitcoin and other cryptocurrencies.
+
+It represents a dramatic shift from the way we’ve always handled money.
+
+Traditional financial systems rely on payment processors, banks, and ultimately the government to administrate and regulate all financial transactions. DeFi takes power from institutions and instead relies on blockchain technology.
+
+Blockchain technology provides the technical workings for cryptocurrencies. Instead of relying on a central authority, like a bank, to administer and record transactions, blockchain technology uses a public ledger.
+
+The public ledger is a system in which transactions are verified not by a central authority but by the participants of the blockchain. Nobody has central power over transactions or balances.
+
+Bitcoin is the beginning – but by no means the end
+
+Bitcoin is, without a doubt, the most notable example of DeFi crypto today.
+
+It was the first player in the market and is continuing today stronger than ever. For many people, Bitcoin is more of an investment product than an actual currency.
+
+The staggering rises and falls in Bitcoin’s value have given many investors massive profits. While Bitcoin is unrivaled today, there are many competing coins offering new innovations.
+
+The most prominent competitor is Ethereum, a cryptocurrency that has inspired many offshoots and alternative uses of its blockchain technology.
+
+As Ethereum continues development, many believe that it could supplant Bitcoin with its more advanced features.
+
+Decentralised applications make heavy use of the Ethereum network, and congestion at certain times can cause increased fees. Ethereum is currently moving towards solutions to these problems that could cement it as the dominant DeFi cryptocurrency.
+
+What problems does DeFi cryptocurrency solve today?
+
+The reason that decentralised finance is advancing at such a rapid rate is simple. It provides practical solutions to real problems.
+
+Centralised control by financial institutions is one of those problems. With a traditional centralised institution, somebody has control over transactions and balances.
+
+When you put your money in the bank, the bank has your money. Ideally, they will act honestly and in your best interest all of the time. In practice, this isn’t always the case.
+
+With centralised control of currencies also comes government control.
+
+The government of a country can print more money at any time. This leads to inflation, devaluing current funds.
+
+In some cases, governments devaluing their currency can cause hyperinflation. This is disastrous, wiping out savings and catalyzing numerous other social problems.
+
+With DeFi crypto, the government cannot simply decide to increase the money supply.
+
+Centralised finance also gives both institutions and governments the ability to impose restrictions on citizens at will.
+
+The government or your bank can freeze or even remove your assets. These methods are supposed to be for stopping criminals, seeing wide use against terrorist organizations.
+
+However, some countries use these tools politically, defunding activists and protestors.
+
+There is also a reliance on official payment channels with centralized finance. Even if the bank has not frozen your funds, payment processors reserve the right to deny services to people or ventures they do not support.
+
+People can find themselves without any way to conduct business at the whim of the companies controlling payments, without any means of recourse.
+
+Some companies such as the Immediate Edge software take advantage of these new payment systems and try to lure innocent victims into investing.
+
+DeFi crypto solves all of these problems by removing centralised authority from the equation.
+
+Using Bitcoin or other cryptocurrencies, there is no method to freeze or seize funds. Transactions are carried out through the blockchain, so there is no way to refuse payments to or from a certain person.
+
+Where is DeFi Crypto Headed in the Future?
+
+DeFi crypto certainly seems to be the future of finance.
+
+Removing the limitations of centralised finance, like offering services 24/7 with no restrictions, already gives it a significant advantage.
+
+But the main reason to be hopeful for the future is the continued innovation in decentralised finance.
+
+There are ongoing projects across many areas that could provide more services through DeFi in the future.
+
+Many efforts are going into providing accessible platforms to make blockchain technology more accessible to developers.
+
+There are also numerous projects trying to bring more complex financial services to decentralized finance.
+
+In the future, DeFi could provide loans and integrate interest rates within cryptocurrency frameworks. More than simply allowing more convenient transactions, decentralised finance could someday provide any and all financial services.

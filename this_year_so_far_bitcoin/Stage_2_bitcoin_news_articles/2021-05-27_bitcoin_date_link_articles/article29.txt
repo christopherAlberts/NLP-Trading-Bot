@@ -1,0 +1,13 @@
+Sheetz will soon become the first convenience store retailer to accept payments via bitcoin.
+
+The mid-Atlantic convenience chain will begin allowing customers to pay for items inside the store or at the gas pump using digital currencies like bitcoin, ether, litecoin, dogecoin later in summer 2021. Sheetz is enabling digital currency payments via pure-digital payments network Flexa.
+
+Flexa converts a consumer's cryptocurrency to U.S. dollars in real time for payment to the retailer, enabling an exchange process and use of cryptocurrencies for brick-and-mortar payments. Retailers that have piloted Flexa include Barnes & Noble, Bed Bath & Beyond, Crate & Barrel, GameStop, Lowe’s, Nordstrom, Office Depot/OfficeMax, Petco, and Whole Foods Market.
+
+Sheetz is leveraging its existing NCR POS solution and payment gateway to accept Flexa payments. Customers will also have the option to link their My Sheetz Rewardz loyalty account when paying with Flexa-enabled apps. The company will begin accepting bitcoin at select Sheetz Cafe Stores later this summer, with a planned deployment later in the year for acceptance at fuel pumps, as well.
+
+Other retailers that have recently begun accepting bitcoin payments include Camping World, Newegg. Electric auto retailer Tesla began accepting bitcoin following a major corporate investment in the cryptocurrency in February 2021, but currently is not accepting it due to concerns over the effect digital bitcoin “mining” has on energy usage.
+
+"Above all else, our mission at Sheetz is to continue providing our customers with the ultimate one-stop-shop where they can refuel their car and refresh their body,” said Linda Smith, payments manager for Sheetz. “As a result, we are constantly innovating and exploring new offerings to truly give our customers what they want, when they want it, 24/7/365 — that includes accepting many forms of payment. We're very excited to be working with Flexa to roll out support for cryptocurrencies and other types of digital assets at our stores."
+
+Based in Altoona, Pa., Sheetz currently operates 622 stores in Pennsylvania, North Carolina, Virginia, West Virginia, Ohio and Maryland.

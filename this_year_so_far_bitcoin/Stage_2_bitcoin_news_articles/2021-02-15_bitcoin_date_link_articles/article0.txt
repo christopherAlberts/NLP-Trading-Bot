@@ -1,0 +1,25 @@
+Despite bitcoin‘s rapid $3,000 fall from new record highs seen Sunday, institutions seem confident about the cryptocurrency’s long-term prospects.
+
+The cryptocurrency dropped to $47,790 earlier on Monday after just failing to pass the psychological hurdle of $50,000 over the weekend. So far, however, there are few signs of preparations for deeper losses in the options market.
+
+“There is still an absence of any institutional long-term hedging. In fact, funds continue to take advantage of selling June-December expiry put options at strikes below $40,000,” Deribit Insights said in a tweet thread explaining the reasons for the price drop and the resulting changes in options market flows.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+A put option gives the holder the right but not the obligation to sell the underlying asset at a predetermined price on or before a specific date. Investors buy puts, paying a premium, when anticipating a price drop and sell (write) put options, collecting a premium, when they foresee price consolidation or a rally.
+
+Currently, large investors are still selling long-term puts below $40,000, showing they are not anticipating an extended/sustained price drop below $40,000.
+
+The absence of any implied volatility spike on the drop from $49,000 to $46,000, as well as the bounce to $48,000, suggests “comfort and consolidation” in the mid-$40,000 to $50,000 trading range, Deribit Insights said.
+
+“The strategy of selling the downside puts is twofold: to get premium (theta) which is higher with higher volatilities, and also because the traders don’t think a crash will happen before that expiry,” said Shaun Fernando, head of risk and product at Deribit, the biggest crypto options exchange by trading volume.
+
+The six-month put-call skew, which measures the cost of puts relative to calls, remains entrenched in the negative territory, supporting Deribit’s assessment. The three-month metric is also hovering below zero, indicating a bullish bias.
+
+Bitcoin: Put-call skew Source: Skew
+
+Had institutions bought long-term puts to position for a deeper price slide, the six-month put-call skew would have turned positive. Further, increased put buying in the June to December expiry series would have pushed up long-term implied volatility (IV), a measure of investors’ expectation of price turbulence.
+
+Bitcoin implied volatilities Source: Skew
+
+The six-month IV has dropped from 104.6% to 99.6% in the past 24 hours, while the one- and three-month IV lines are following similar trajectories.

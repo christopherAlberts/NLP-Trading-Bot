@@ -1,0 +1,87 @@
+The ETH price topped $3,000 for the first time ever this past Sunday, May 2. By mid-afternoon the next day, ETH had exceeded $3,300. On Tuesday, May 3, the second-largest cryptocurrency by market capitalization was changing hands around $3,500.
+
+(As of 5/4/2021 @ 19:51 UTC)
+
+Year to date, ETH price has nearly quintupled in a rally many analysts believe is fueled by speculation over the future of decentralized finance (DeFi) and non-fungible tokens (NFTs).
+
+“It used to be the other way around, but now Bitcoin is riding the coattails of Ethereum,” said Edward Moya, senior market analyst for the brokerage Oanda, to CoinDesk in an email.
+
+The bullish price activity of ether over the month of April and into May is in sharp contrast to the poor price performance of bitcoin (BTC) seen over the same time period.
+
+Bitcoin, Ethereum and macro asset returns Source: CoinDesk Research, St. Louis Fed, Yahoo Finance
+
+Since as early as April 2020, ETH’s correlation to BTC has been on the decline, moving from above 0.9 to below 0.7. This trend suggests more investors are beginning to recognize the unique value propositions of these two crypto assets and evaluate their investment cases differently.
+
+Eth 2.0 validator rewards
+
+As a result of ETH’s price rally, network rewards issued to both Ethereum miners and Ethereum 2.0 validators are becoming more lucrative than ever.
+
+Since the launch of the Ethereum 2.0 network on Dec. 1, 2020, total daily validator rewards have increased from roughly $200,000 to $3 million. Miner revenues have also risen significantly over the same time period, trending at about $11 million in December to a high of over $82 million by April.
+
+Daily miner and validator rewards Source: BeaconScan and CoinMetrics
+
+In a recent message posted to a public Ethereum Discord chatroom, Ethereum Foundation’s Tim Beiko warned that mining could soon become obsolete on Ethereum as a result of ongoing development and progress for the Rayonism project.
+
+New frontiers: Steklo testnet
+
+Plans to expedite Ethereum’s transition to a fully proof-of-stake (PoS) consensus protocol took a big step forward this past week with Steklo.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+On Friday, April 30, developers launched the first multi-client test network simulating the Ethereum blockchain run atop Ethereum 2.0 software.
+
+The testnet, dubbed Steklo, faced several challenges as soon as it went live at 12:00 UTC. Some users were unable to process blocks. Others found themselves out of sync with the rest of the network which caused chain splits.
+
+Steklo Testnet Monitor at 21:30 on Friday, April 30 (Eth2 Fork Monitor)
+
+Steklo has since been deactivated by developers, who are now working on a second testnet to be launched as early as next week.
+
+“[Steklo] is still just a 1-day interop[erability] test; we can spin up more later, after testing and sync improvements,” said Ethereum Foundation researcher Diederik Loerakker, better known as Protolambda, in a Discord chat room. “Good work everyone on this first [attempt] though; we made a lot of progress in testnet setup and client integration.”
+
+Next steps for Eth 2.0
+
+The larger goal will be to activate a working testnet between various Ethereum and Eth 2.0 software clients that not only activates PoS but also the technology of sharding. Sharding is a way of splitting up the processing load for transaction data across multiple networks. In Ethereum’s case, the plan is to create 64 sub-networks, also known as “shards.”
+
+Functionality for sharding will be added to the third and fourth testnets that developers are working toward creating in the next few weeks as the Scaling Ethereum hackathon wraps up.
+
+As detailed in a previous Valid Points issue, these efforts, focusing exclusively on Ethereum’s PoS merge and sharding implementation, kicked off in mid-April under the project name “Rayonism.”
+
+By May 14, developers coding for the Rayonism project at the Scaling Ethereum hackathon expect to have launched two more testnets in addition to Steklo, each more feature-complete and durable.
+
+In a presentation at Scaling Ethereum, Loerakker said work on Rayonism will continue even after the hackathon until developers are completely satisfied that code specifications for merging Ethereum and Eth 2.0 are secure.
+
+“What we have [on] Ethereum is a huge amount, like basically one of the biggest decentralized exchanges, [and] all the dapps. There’s a whole super large ecosystem and we should protect it. So … after the hackathon as well – it’s not going to be a hackathon forever – we move towards production with iteration,” said Loerakker.
+
+Ongoing progress on Rayonism has certain members of the Ethereum community expectant that the energy-intensive activity of mining could become obsolete and replaced with PoS validating as soon as December.
+
+Beiko said on Discord, “If I was [an Ethereum] miner, I would plan to break even at the latest by EOY 2021. I much prefer to be too conservative in these predictions than not.”
+
+Validated takes
+
+Money is flowing into Ethereum (Blog post, Arca)
+
+A data-driven view of the beacon chain incident (Blog post, Barnabé Monnot)
+
+DeFi is now a $100 billion industry (Article, CoinDesk)
+
+Ether could hit $10K, FundStrat says, touting network value versus Bitcoin’s (Article, CoinDesk)
+
+Ether price is on the cusp of a 10-day winning streak (Article, CoinDesk)
+
+Why some DeFi projects are migrating from Ethereum to alternative blockchains (Video, CoinDesk)
+
+Ethereum’s institutional evolution (Newsletter issue, Coin Metrics)
+
+CME ETH futures growth suggests institutions are seeking Ethereum exposure (Article, OKEx)
+
+Ethereum 2.0 main network incident retrospective (Blog post, Prysmatic Labs)
+
+Factoid of the week
+
+Open comms
+
+Valid Points incorporates information and data directly from CoinDesk’s own Eth 2.0 validator node in weekly analysis. All profits made from this staking venture will be donated to a charity of our choosing once transfers are enabled on the network. For a full overview of the project, check out our announcement post.
+
+You can verify the activity of the CoinDesk Eth 2.0 validator in real time through our public validator key, which is:
+
+0xad7fef3b2350d220de3ae360c70d7f488926b6117e5f785a8995487c46d323ddad0f574fdcc50eeefec34ed9d2039ecb.

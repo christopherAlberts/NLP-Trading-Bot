@@ -1,0 +1,21 @@
+A popular price-chart indicator known as the Bollinger bandwidth suggests bitcoin could soon chart a big move – up or down.
+
+The leading cryptocurrency has spent the better part of the last three weeks trading in the range of $50,000 to $60,000. The consolidation has worsened of late, with bitcoin bulls unwilling to lead the price action above $60,000 and bears struggling to force a break below $55,000.
+
+Due to the persistent lack of clear directional bias, the Bollinger bandwidth, a price volatility gauge, has declined to a four-month low of 0.15. Bitcoin (BTC) witnessed big moves during the 2017 bull run each time the bandwidth fell to 0.15.
+
+The indicator is calculated by dividing the spread between the Bollinger bands by the 20-day average of the cryptocurrency’s price. Bollinger bands are volatility lines placed two standard deviations above and below the 20-day average of price.
+
+Bitcoin's daily chart (2017) Source: TradingView
+
+The metric dropped to around 0.15 in February, April and late October 2017, just before price rallies. A similar reading in March, July and September paved the way for market corrections.
+
+The data tells us the impending volatility explosion is agnostic to price direction, meaning the big move can happen on either side.
+
+Bitcoin's daily chart (2020-2021) Source: TradingView
+
+Bitcoin’s ongoing range play looks quite similar to the early December consolidation below $20,000, which ended with a breakout following the Bollinger bandwidth falling to 0.15.
+
+While the seasonality for April is biased bullish, some analysts say the market looks overstretched. “Everyone who’s been in crypto for a while can recognize that things have been getting absolutely ridiculous on every level,” trader and analyst Alex Kruger tweeted on Wednesday.
+
+Therefore, the impending big move could be bearish in nature. At press time, bitcoin is trading 1% higher on the day near $56,500, as per CoinDesk 20 data.

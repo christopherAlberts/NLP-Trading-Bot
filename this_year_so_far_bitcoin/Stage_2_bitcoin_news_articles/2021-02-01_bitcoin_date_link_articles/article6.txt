@@ -1,0 +1,23 @@
+ZUG, Switzerland, Feb. 1, 2021 /PRNewswire/ -- Bitcoin Association, the Switzerland-based global industry organisation that works to advance business with the Bitcoin SV blockchain, today announces that it has appointed Aaron Zhou as its first China-based technical outreach specialist. Zhou's hire is the latest addition to a growing team of technical and business outreach professionals within Bitcoin Association, dedicated to improving enterprise engagement and increasing awareness of the capabilities of Bitcoin SV as a data network protocol.
+
+In his new role, Zhou will work alongside Bitcoin Association's global team and China-based staff to engage with business, technology and government leaders across China, educating them about the benefits of building on the Bitcoin SV public ledger and the technical tools available for doing so, as well as the growing ecosystem of companies and products using its network. In addition to his role with Bitcoin Association, Zhou will also join nChain – a leading global blockchain research & development firm – as a software engineer, where he will be a part of the Bitcoin SV Infrastructure team.
+
+Zhou makes the move to his new roles from IBM in Beijing, where he most recently worked as a Java developer and DevSecOps engineer. A long-standing, active member of the Bitcoin SV community, in his own time, Zhou has made contributions to the open-source BitSV Python library, collaborated on several Bitcoin SV application development projects, as well as conducted Bitcoin Association-sponsored workshops and webinars on blockchain technology to educate fellow developers.
+
+The expansion of the Bitcoin Association team comes as interest and uptake of Bitcoin SV continues to grow across China and around the world. As the only blockchain protocol which adheres to creator Satoshi Nakamoto's original design and vision for Bitcoin – both as a peer-to-peer electronic cash system and global data ledger for enterprise – Bitcoin SV is quickly becoming the enterprise network of choice for both businesses and developers. With the ability to scale unbounded and support huge volumes of transactions, in addition to its micropayment, smart contract, tokenization and data functionalities, Bitcoin SV is the only blockchain capable of serving as the world's public data ledger for payments and enterprise data applications.
+
+Speaking on today's appointment, Bitcoin Association Founding President Jimmy Nguyen, said:
+
+'With enterprise interest in Bitcoin SV continuing to grow, Bitcoin Association are delighted to have Aaron join our technical outreach team to help meet the growing demand of the market. Aaron's experience at IBM working with software systems at large scale will be a valuable addition to our Association, as we continue our work to educate enterprises about why Bitcoin SV is the most powerful distributed data ledger to support all of their blockchain applications.'
+
+Commenting on his hire, Aaron Zhou said:
+
+'After being part of the Bitcoin SV community for several years, I'm delighted to have the opportunity to make my passion my profession and join Bitcoin Association as well as nChain. As the only blockchain which scales unbounded and offers the data capabilities businesses require, Bitcoin SV represents a major opportunity for enterprise-level development. I'm excited to start working with the business, government and developer communities across China to help them understand this potential and develop innovative solutions that leverage the unique capabilities of Bitcoin SV.'
+
+About Bitcoin Association
+
+Bitcoin Association is the Switzerland-based global industry organization that works to advance business on the Bitcoin SV blockchain. It brings together essential components of the Bitcoin SV ecosystem – enterprises, start-up ventures, developers, merchants, exchanges, service providers, blockchain transaction processors (miners), and others – working alongside them, as well as in a representative capacity, to drive further use of the Bitcoin SV blockchain and uptake of the BSV digital currency.
+
+The Association works to build a regulation-friendly ecosystem that fosters lawful conduct while facilitating innovation using all aspects of Bitcoin technology. More than a digital currency and blockchain, Bitcoin is also a network protocol; just like Internet protocol, it is the foundational rule set for an entire data network. The Association supports use of the original Bitcoin protocol to operate the world's single blockchain on Bitcoin SV.
+
+SOURCE Bitcoin Association

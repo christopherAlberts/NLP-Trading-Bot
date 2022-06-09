@@ -1,0 +1,83 @@
+The lunar Chinese New Year this year is on Feb. 12, right around the corner. But unlike in previous years, some analysts and traders say the “Chinese New Year Dump,” a belief bitcoin’s (BTC) price would drop around the holiday period, will not take place this year. Why? The impact of retail traders in China has been reduced.
+
+Some argue the “Chinese New Year dump” will not happen this year because institutional investors in the U.S. and Europe have been the main drivers of the current bull run. That is in contrast to 2017’s bull market, which was heavily powered by retail investors in Asia.
+
+Meanwhile, many on Chinese-language social media platforms are discussing whether the current bitcoin bull market would be forced to pause during the holiday season.
+
+Concern about the Chinese New Year’s effect is compounded by data showing at least a handful of miners in China sold their bitcoin in January. Some speculate the selling was triggered by bearish sentiment ahead of the new year.
+
+Cash is king, especially during holiday season
+
+“Chinese traders tend to withdraw their crypto assets and cash out,” Alex Zuo, vice president of China-based crypto wallet Cobo, told CoinDesk. “It is just like how people in the U.S. would take profit from stock holdings before Christmas.”
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+“There’s a decades-old tradition of giving out money, or ‘red packets,’ to family and friends and special people of interest [in China] during Chinese new year,” explained Felix Wang, managing director and partner of investment research firm Hedgeye Risk’s China business. “They need cash so they need to liquidate some of their financial holdings, and that could lead to a little bit of pressure in some of the financial markets.”
+
+Liquidity is another concern. Most businesses are closed during the week of the Chinese New Year, including over-the-counter service and crypto trading desks because people in the Greater China region take at least five days off to reunite with their families and celebrate the holiday.
+
+Data compiled by CoinDesk Research shows the trading volumes on Binance, Huobi and OKEx – the most popular crypto exchanges catering to customers in China – were down during the Chinese New Year period in the past two years. The same decreased trading volumes also appeared during the month October each year, when the Golden Holiday in China takes place.
+
+Source: CoinDesk Research
+
+Decreased liquidity and increased withdrawal activities exposed the market to higher price volatility risks. Trading data from TradingView on Binance’s bitcoin/USDT (tether) pair shows that in each of the past three years, bitcoin’s price went down before the Chinese New Year.
+
+By examining the 14-day price movement up to the day of Chinese New Year over the past three years, per CoinDesk’s BPI data, bitcoin’s price fell as people started taking days off to prepare for the holiday. In 2018, bitcoin’s price dropped to $5,947.40, down 37.2% from a high point at $9,471.46 during the 14-day period. In 2019, for the same period, bitcoin’s price fell to $3,346.14, down 8.3% from an earlier high at $3,648.50. For 2020, the drop was 10.5%, from $9,181.97 to $8,220.87.
+
+Binance's bitcoin/tether pair trading during Chinese New Year 2018 Source: TradingView
+
+Binance's bitcoin/tether pair trading during Chinese New Year 2019 Source: TradingView
+
+Binance's bitcoin/tether pair trading during Chinese New Year 2020 Source: TradingView
+
+Why 2021 might be different
+
+As fate would have it, the year of 2021 will be the year of the ox on the Chinese lunar calendar, a bullish omen. While some may have sold their bitcoin, a large number of traders and investors in China, betting on a long-lasting positive market trend, appear to be holding their BTC into the new year.
+
+Cynthia Wu, head of business development and sales at Hong Kong-based crypto trading service firm Matrixport, told CoinDesk she has not noticed any significant uptick in bitcoin selling from her company’s miner clients, other than a minor increase as the holidays approach.
+
+Mining companies “need to pay annual bonuses to their employees” around Chinese New Year, Wu said. “It is just simply a seasonal behavior.”
+
+Lei Tong, managing director of financial services at Hong Kong-based crypto lender Babel, told CoinDesk the company has been paid back by few China mining companies, an indication these miners have not sold a large amount of their bitcoin holdings yet. Babel allows bitcoin mining firms to use their machines as loan collateral, as CoinDesk reported previously.
+
+At crypto exchange OKEx, Robbie Liu, market analyst at OKEx’s research arm OKEx Insights, told CoinDesk there have been no “unusual fluctuations” in the exchange’s USDT/Chinese yuan rate recently, and there have not been any liquidity problems this year so far.
+
+As of press time, Binance and Huobi have not responded to CoinDesk’s requests for comments.
+
+“This year’s market has been very different from the past years’ and we are seeing very limited impact from [Chinese] retail traders’ behaviors” such as cashing out, mining pool F2Pool’s co-founder, Shixing “Discus Fish” Mao, told CoinDesk. “The current market is driven by institutional money and it moves with the emotions of these Western institutions. We cannot simply come to any conclusions on [bitcoin’s] price’s trend based on retailers’ behaviors.”
+
+An added factor: China’s crackdown on OTC desks
+
+China’s crackdown on the over-the-counter (OTC) service is another potential reason fewer people are cashing out ahead of New Year’s, said people who are familiar with the matter.
+
+As CoinDesk reported previously, Chinese crypto investors using OTC merchants have faced challenges liquidating their crypto holdings for cash because Chinese police have been freezing OTC-related bank accounts and cards amid the Chinese government’s crackdown on money laundering via cryptocurrencies.
+
+Unregulated digital currency outflows, worth a total of $17.5 billion in 2020, were up 51% from 2019, according to an anti-money laundering report published on Feb. 5 by China-based blockchain analysis firm PeckShield.
+
+A representative from PeckShield told CoinDesk that some crypto users on major crypto exchanges could have found their bank accounts frozen because their OTC transactions may have accidentally participated in money laundering activities without realizing it.
+
+“These accounts were ‘contaminated’ and, therefore, they were eventually temporarily frozen by the Chinese authorities,” the representative said.
+
+The crackdown on OTC-related money laundering activities and so-called “card freeze” action have continued into 2021, according to PeckShield. China’s central bank and the State Administration of Foreign Exchange issued a new notice recently to further guide banks on how to operate their cross-border businesses, tightening the clampdown on money laundering and terrorist financing.
+
+Notebly, at least one key Huobi executive is still in custody in China due to investigations related to Huobi’s OTC trading business.
+
+“It was so easy to sell your cryptocurrencies via OTC desks and change them to Chinese yuan immediately,” said a source to CoinDesk, speaking on the condition of anonymity because of the sensitivity of the subject. “It’s highly likely to have your bank accounts frozen this year when the transactions involve those OTC merchants.”
+
+COVID-19 remains a wild card
+
+Even though the coronavirus pandemic is being treated as if it were well under control in China compared with most Western countries, a new number of cases in the past month has led the Chinese government to put more restrictions on traveling around the holiday time in the country.
+
+Some say the uncertainty around the COVID-19 restrictions during the holiday season could have an impact on the crypto market.
+
+Hedgeye’s Wang, whose research work concentrates on the Chinese equities markets, sees new and strong retail interest in Chinese financial market since December due to an eagerness to invest in China and a “flurry” of IPOs from Chinese companies.
+
+Data from a December report by the China Securities Depository and Clearing Corporation shows there are more than 1.6 million newly registered individual stock investors in China in December alone, nearly double the number of the previous year.
+
+Because people cannot travel and the stock market is closed during the holiday week, according to Wang, there could be some negative impact on the crypto market.
+
+Wang notes an that stock market prices Chinese mainland-based stock exchanges have been found to move in the opposite direction of Macau’s gambling revenues and visitation.
+
+“Sometimes there’s an inverse correlation [between stock price and Macau’s casino business],” Wang said. “Because if you can’t bet on the stock market, you go gamble your money in casinos.”
+
+One possible sign of things to come may have been what just happened in the U.S., where retail stock traders rushed to crypto when they were frustrated by the restrictions on their stock buying on online platforms such as Robinhood.

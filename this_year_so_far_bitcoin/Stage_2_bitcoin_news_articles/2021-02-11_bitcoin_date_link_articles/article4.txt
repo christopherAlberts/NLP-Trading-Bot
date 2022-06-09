@@ -1,0 +1,75 @@
+Bitcoin set a new record above $49,000 after trading between $47,000 and $48,000 for much of Thursday. Traders and analysts told CoinDesk they remain bullish on the overall market, as institutional investors’ interest in bitcoin is growing “at a staggering pace.”
+
+Bitcoin (BTC) trading around $47,174.04 as of 21:00 UTC (4 p.m. ET). Gaining 5.48% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $44,057.64-$48,635.84 (CoinDesk 20)
+
+BTC above its 10-hour and 50-hour averages on the hourly chart, a bullish signal for market technicians.
+
+Bitcoin trading on Coinbase since Feb 5. Source: TradingView
+
+Despite bitcoin’s new historical high price earlier Thursday, the trading volume on the eight exchanges tracked by the CoinDesk 20 remains low compared with earlier this week.
+
+Bitcoin volumes on major crypto exchanges since January. Source: CoinDesk, CryptoCompare
+
+The focus of the market on Thursday was on the news that more big players are embracing bitcoin; Mastercard said it will allow merchants to receive payments in cryptocurrency soon, and BNY Mellon announced it will launch a new digital custody unit.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+“To put it simply, it’s really hard to be bearish on bitcoin right now … and you don’t even need to look too deeply at all of the fundamental metrics and technical indicators to feel that,” said Adam James, senior content editor at OKEx’s research arm OKEx Insights.
+
+“The market is bullish,” Denis Vinokourov, head of research at digital assets broker Bequant, said. “There are no immediate fundamental factors that would drive the price down.”
+
+Read More: Mastercard Will Let Merchants Accept Payments in Crypto This Year
+
+That said, bitcoin is struggling to push higher after it briefly went above $48,000 earlier Thursday, according to Chad Steinglass, head of trading at CrossTower. He told CoinDesk that in the short term, the resistance level would remain at or just below $50,000.
+
+The nearest upside hurdle will be higher, at around $53,000, according to Katie Stockton, a technical analyst for Fairlead Strategies. She also pointed out that some overbought and oversold activity will support up to two months of price consolidation.
+
+In the longer term, said John Kramer, trader at market maker GSR, it is “realistic” to think that bitcoin’s on a “healthy” run towards $100,000 by the end of the summer.
+
+“Expect more banks to offer custody and additional products, as well as other companies to follow Tesla and MicroStrategy’s lead,” Kramer said. “On top of this, there’s still additional stimulus on the table, which is what kicked off this rally last spring.”
+
+However, in the derivatives market, options traders don’t appear convinced bitcoin will rally to $100,000 anytime soon. Based on current prices, the market has assigned a 12% probability this price be reached before the end of this year, as CoinDesk reported.
+
+Ethereum killers are killing it, as Ethereum gas fee surges
+
+The second-largest cryptocurrency by market capitalization, ether (ETH), was up Thursday, trading around $1,769.03 and climbing 2.75% in 24 hours as of 21:00 UTC (4:00 p.m. ET).
+
+On the technical side, Joel Kruger, cryptocurrency strategist at exchange LMAX Digital, said the initial resistance level would be the earlier all-time high at around $1,840 on Wednesday.
+
+“A break above [$1,840] will open the door for a test of massive resistance at $2,000, which represents a critical psychological barrier and measured move upside extension,” Kruger said. “We see the first level of support at $1,680, with a break below to take the immediate pressure off the topside and open the door for a correction back down towards the $1,500 area.”
+
+Ether’s rally is not just simply following bitcoin’s price trend, according to analysts. It is largely driven by the fast-growing decentralized finance sector.
+
+“As these [DeFi] projects continue to gain in popularity, we will likely see increased interest in ether,” Guy Hirsch, U.S. managing director at eToro, told CoinDesk. “It would not be surprising to see it make a run at $2,000 soon.”
+
+At the same time, significant growth of the “Ethereum Killers,” including Cardano, Polkadot, Solana, and Algorand, is a reflection of the frustration around the high gas fees on the Ethereum blockchain. Gas refers to the internal pricing unit for running transactions on Ethereum.
+
+Total transaction fees of Ethereum denoted in U.S. dollars in the past six months. Source: Glassnode
+
+“The high gas fees on Ethereum are clearly presenting opportunities to competing layer 1 smart contract platforms,” said Jason Lau, chief operating officer at San Francisco-based crypto exchange OKCoin. “As Ethereum continues through its multi-year process of launching Eth 2.0 to address its scaling issues, it remains to be seen whether developers will migrate their apps to other platforms.”
+
+Others, however, dismissed any threats to Ethereum.
+
+“The price performance [of “Ethereum killers”] does not necessarily mean there is a real threat to derail Ethereum’s dominance,” Vinokourov said. “In fact, the DeFi market continues to grow, and with it so does ether.”
+
+Other markets
+
+Digital assets on the CoinDesk 20 are mostly in green Thursday. Notable winner as of 21:00 UTC (4:00 p.m. ET):
+
+Notable losers:
+
+Equities:
+
+Commodities:
+
+Oil was down 1.26%. Price per barrel of West Texas Intermediate crude: $57.94.
+
+Gold was in the red 0.94% and at $1825.71 as of press time.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield climbed Thursday in the green 1.162%.
+
+Update (Feb. 11, 0:17 UTC): Added new record high price for bitcoin in headline and first paragraph.

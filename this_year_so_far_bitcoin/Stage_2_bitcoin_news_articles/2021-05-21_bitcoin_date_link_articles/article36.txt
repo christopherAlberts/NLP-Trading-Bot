@@ -1,0 +1,43 @@
+May 19 was the worst day bitcoin has seen this year and left some watchers wondering: did it destroy bitcoin’s narrative? The answer is, for those watching closely, it likely strengthened it.
+
+Here’s why: bitcoin proved itself on Wednesday when it saw its second biggest volume day of the year, and market infrastructure did not break. Some exchanges suffered outages, but liquidity was available, as spot volumes show. Moreover, while a drop of over 30% may be dizzying for new buyers high on hopium, such events are not uncommon in bitcoin’s bull-market history.
+
+The chart above shows bitcoin-dollar volume on the 11 exchanges that are eligible as components of the CoinDesk Bitcoin Price Index (XBX). That means these markets are accessible to U.S. investors, have transparent ownership and do not place limits on bitcoin or dollar withdrawals, among other criteria.
+
+Related: Institutional Crypto Exchange LMAX Digital Hit Record $6.6B Volume on Bitcoin’s ‘Black Wednesday’
+
+The chart shows how the May 19 selloff compared, in bitcoin terms, to volume traded in the Jan. 10 selloff, as Dogecoin and GameStop mania peaked on Jan. 22, and during a second sell-off in February.
+
+The bitcoin-dollar markets in general are useful to watch, because they can indicate activity at a well-known market entry point – a place where new entrants “buying the dip” are likely to place orders.
+
+More narrowly, XBX eligibility means these exchanges can attract institutional activity as well. In particular, LMAX Digital serves institutional clients exclusively, and Coinbase (marked here as Coinbase Pro) volume is 64% institutional, according to the company’s latest earnings report.
+
+(To get insights like this in your inbox every Monday, sign up for CoinDesk Indexes’ weekly newsletter, “The Hard Fork”.)
+
+Related: Bitcoin Holds Short-Term Support; Faces Resistance at $40K
+
+Coinbase specifically set records on Wednesday, handling over $4 billion in notional BTC/USD volume for the first time. (It was not a record in bitcoin units. That record was set Dec. 13 2015, when 165,543 BTC changed hands on Coinbase dollar markets. For context, December 2015 saw bitcoin trading up into the $400s, four months into a bull market that would last through December 2017.) Coinbase ETH/USD markets also handled record volume in both ETH and dollar terms on Wednesday, 1.7 million ETH valued in aggregate at $4.5 billion.
+
+Story continues
+
+The fact that spot market volume can crescendo like this is an indicator of market maturity, at least in these two blue-chip cryptocurrencies: capital is able to flow in as the price drops, and sellers are finding buyers on the way down.
+
+Futures markets situation normal
+
+Meanwhile, in offshore derivatives markets, all was normal. Wednesday put this week over $4 billion in bitcoin futures liquidations.
+
+As this chart, pulled Thursday from skew.com, shows, this past week was only the third highest week for liquidations so far in 2021, and it’s the fourth time this year that bitcoin futures liquidations have crossed $4 billion in notional value. Offshore futures markets did not artificially flash-crash the price.
+
+Bitcoin dips
+
+Wednesday’s bitcoin price drop was swifter and deeper than any so far this year. The CoinDesk Bitcoin Price Index (XBX) low, struck in the wee hours UTC time at $30,037.61, was 54% off its all-time high, 41% off its price before Elon started tweeting and 30% off the prior day’s closing price at midnight UTC.
+
+It’s the third time this year bitcoin has entered “bear market” territory, by equity markets’ rule of thumb, which is a 20% drop. The two prior occasions occurred as the XBX made its way to its current all-time high ($64,888.19, set on April 14). Some bear market.
+
+On any time scale, a 30% intra-day drop is unusual for bitcoin. Matt Weller of forex.com presented this illustrative chart Wednesday afternoon on All About Bitcoin on CoinDesk TV.
+
+The chart shows how, in the bull market that began in the second half of 2015, bitcoin saw eight drawdowns of 30% or more. None of them took place in the course of a single 24-hour day. But they all took place during a longer upward trend that took bitcoin’s price from $200 to $20,000.
+
+The current bull market dates back to March 2020, when bitcoin hit a yearly low of $3,905. If this bull market grows to resemble that period, it will put bitcoin on course to hit the $400,000 mark by July 2022. That’s a big if, but also a popular one.
+
+Related Stories

@@ -1,0 +1,57 @@
+Polygon (MATIC) is on a tear. In the past seven days, it has gained 35% in the past seven days, outperformed every major cryptocurrency apart from Uniswap.
+
+There are several big reasons behind the strong uptrend of MATIC, including the growing hype around Polygon, Google BigQuery announcement, and Mark Cuban's investment.
+
+MATIC 1-day candle chart (Binance). Source: TradingView.com
+
+Growing sentiment and hype around Polygon
+
+On Feb. 9, Matic first announced its plans to rebrand to Polygon. At the time, they brought in promising metaverse projects and integrated Matic Plasma Chain.
+
+By implementing Plasma Chains, Polygon was able to provide a layer one blockchain network with built-in scaling solutions for projects.
+
+The Polygon team said in February:
+
+"We implemented and offered Matic Plasma Chains, a production-ready Ethereum Layer2, predicates-based Plasma implementation; We implemented and offered Matic PoS Chain, a permissionless, EVM-compatible, PoS-secured Ethereum sidechain which relies on strong Ethereum security for validator staking and checkpoints; Onboarded 80+ amazing applications, including Polymarket, Aavegotchi, Neon District, Skyweaver, Cometh, EasyFi with more being added everyday."
+
+Since then, Polygon has become a major layer-one blockchain project, specifically for metaverse projects with the numbers of users skyrocketing.
+
+Polygon ranks top ten of cryptocurrencies by social volume. Source: Lunar Crush
+
+The growing fundamentals seem to also be boosting the overall market sentiment for the blockchain project.
+
+Bullish momentum for MATIC was picked up by the VORTECS™ data from Cointelegraph Markets Pro, which began to detect a positive outlook earlier this week, prior to the recent price highs.
+
+The VORTECS™ Score, exclusive to Cointelegraph, is an algorithmic comparison of historic and current market conditions derived from a combination of data points including market sentiment, trading volume, recent price movements and Twitter activity.
+
+VORTECS™ Score (green) vs. MATIC price. Source: Cointelegraph Markets Pro
+
+As seen in the chart above, the VORTECS™ Score flipped green on the morning of May 24 and rose until peaking at 94 on May May 27 right as the price reached its recent highs above $2.30.
+
+Google BigQuery announcement
+
+In addition to several recent development milestones, including a Ren-Polygon bridge for seven top crypto assets and SDK for building Ethereum-compatible chains, Polygon also announced on May 29 that the project completed the integration of Polygon assets into Google Cloud's BigQuery.
+
+This integration is important because it improves the accessibility and positioning of Polygon; it allows users of BigQuery users to easily tap into Polygon.
+
+The Polygon team said:
+
+"We are extremely thrilled to share that we have completed an integration of Polygon datasets into @GoogleCloudTech #BigQuery! This means that you can query Polygon’s datasets, run analytics and extract insights using Google’s #BigQuery platform. Blockchains are some of the richest sources of verifiable data, and this is a big step towards improving developer access to Polygon’s datasets and helping analysts unlock their immense latent value."
+
+Polygon is included in the BigQuery 1TB offering, which means that most BigQuery users will be able to run queries on the Polygon blockchain network to access various blockchain-related data sets.
+
+Cuban backs Polygon
+
+Additionally, billionaire investor Mark Cuban revealed investing in Polygon on May 25.
+
+Cuban explained that having a high transactions per second (TPS) output is highly important to lower the cost of usage for users.
+
+Furthermore, Cuban also emphasized that network effect is crucial, and Polygon already has many projects using the blockchain. He noted:
+
+“Having more TPS and lower gas fees is not enough. There must be a CURRENT network effect and significant user growth. This is a challenge for most L1s and L2s because [with] few exceptions, marketing in the crypto universe is beyond awful. It is fast; it works well, and most importantly, their user base is growing exponentially.”
+
+Analysts also say that exiting DeFi investors are becoming generally optimistic towards Polygon and projects on top of the blockchain.
+
+Brad Laurie, a crypto analyst, stated:
+
+"He's right. There's been a huge shift in support for @0xPolygon from all kinds of parties, influ, groups & powerful players. There's no question that the ETH-#DeFi crowd are keen for the upcoming deals on $MATIC. Many of 'em are busy reading pitch-decks in prep for the hustle."

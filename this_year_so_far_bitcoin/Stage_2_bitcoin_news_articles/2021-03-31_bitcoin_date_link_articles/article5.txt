@@ -1,0 +1,21 @@
+United States bitcoin mining venture Blockcap just raised $38 million, a move in line with a burgeoning North American mining industry’s rush for hashrate.
+
+Off the Chain Capital and Foundry, the mining arm of CoinDesk’ parent company DCG, led the two oversubscribed rounds, which included a handful of other investors. The raise lifts the one-year-old mining firm’s total funding to $75 million.
+
+Based in Austin, Texas, Blockcap has bought 42,000 ASIC miners from Bitmain and Canaan so far, 12,000 of which are operational. The company plans to bring another 18,000 online by Q4 for a total output of 3.5 EH/s and will then add 12,000 more by 2022.
+
+Blockcap hosts these rigs at facilities run by CoreScientific, one of North America’s largest bitcoin mining colocating companies. These facilities, scattered across the U.S., use a variety of renewables and fossil fuels to power machines with 46% renewables penetration, according to Darin Feinstein, founder of both Blockcap and CoreScientific. CoreScientific’s facilities provide Feinstein and his team with access to up to 500MW of power, he said.
+
+North American bitcoin mining
+
+Many megalithic mining farms reside in the backyards of China’s hydro-rich regions, but bitcoin miners like Blockcap in the western hemisphere have been scaling operations in a bid to compete.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Per data from Statist, roughly 65% of Bitcoin hashrate comes from Chinese mining pools, while only 8% comes from the United States and Canada.
+
+North American mining stocks have experienced booming valuations this bull market as many raise money to purchase more mining machines and operational space. Some of these companies, like Great American Mining and Upstream Data have carved out niches with oil and gas producers by furnishing them with mining rigs to turn otherwise flared/vented gas into hashrate.
+
+Others, like Riot, Hut 8, Blockstream and Marathon, have raised money or taken on debt to build out megafarms.
+
+As more mining firms plant their axes in North American soil, Feinstein anticipates that old-timers and newcomers alike will continue to tap renewables as a source of power for their machines.

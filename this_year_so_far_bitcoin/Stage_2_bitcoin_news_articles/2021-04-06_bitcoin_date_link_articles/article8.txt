@@ -1,0 +1,43 @@
+A popular bitcoin market indicator known as the “kimchi premium” is signaling a retail frenzy in South Korea historically observed when prices are peaking.
+
+But this time might be different, analysts say – possibly the result of the dramatic growth and maturation witnessed in cryptocurrency markets over the past few years.
+
+The kimchi premium represents the difference between bitcoin’s price on South Korean exchanges and the going rate on other global trading venues. The reasons for the discrepancy are complicated, but they ultimately stem from trading limitations unique to the country’s exchanges and the existence of domestic capital controls.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Historically, spikes in the Korean premium have taken the wind out of the bull runs, according to data tweeted by Arcane Research analyst Vetle Lunde. The metric peaked at 47% in January 2018 and 63% in May 2017, just prior to market corrections, but it has also marked tops at minor price peaks at 6.5% in November 2018 and 8.5% in June 2019.
+
+Lately, the premium has risen to 18%, the highest since February 2018, according to data source CryptoQuant.
+
+And although bitcoin prices have doubled this year, the Korean spread shows no signs of peaking yet. It’s impossible to say whether the premium is about to reach a top, or if will continue increasing. Besides, South Korea is no longer the crypto heavyweight it was during the last major market cycle in 2017-2018.
+
+“The Korean market contributed to 7.9% of the worldwide crypto trading volume in 2017,” Ki-Young Ju, CEO of the South Korea-based CryptoQuant, told CoinDesk in a Telegram chat. “Now it accounts for less than 2%.”
+
+“Hence, an eventual collapse of the premium is unlikely to have a significant impact on the broader market,” Ju said.
+
+Bitcoin's Korea premium Source: CryptoQuant
+
+Bitcoin fell over 49% in one month after the kimchi premium peaked on Jan. 8, 2018, and remained in a bear market till the end of the year. The cryptocurrency suffered notable price drops following peak premiums observed in mid-November 2018 and at the end of January 2019.
+
+Bitcoin's price performance Source: Vetle Lunde
+
+And while the previous crypto fever in South Korea was primarily fueled by investors belonging to the age group of 20 to 30, the latest frenzy has seen equal participation from Koreans in their 40s and 50s, as discussed last month by The Diplomat, a magazine covering politics, society and culture in the Indo-Pacific region.
+
+“Through cryptocurrency and stock market transactions, South Koreans – young and old – are actively seeking to secure steady streams of passive income,” The Diplomat reported. “Increasingly, after COVID-19, both of these age groups seem to be alarmed by fears of monetary inflation followed by the government’s stimulus packages, skyrocketing real estate prices, and stagnating wages in the extremely competitive job market.”
+
+So the latest uptick in interest in cryptocurrencies in South Korea might be more sustainable, not just speculative, fervor.
+
+Still, a minor pullback cannot be ruled out.
+
+At press time, bitcoin was changing hands near $58,000, down 2% on the day. Prices have been restricted to a narrow range of $55,000 to $60,000 since the end of March.
+
+What is Kimchi premium?
+
+Executing a classic arbitrage strategy by buying bitcoin on western exchanges and selling the same on Korean exchanges at a relatively higher price is quite challenging.
+
+That’s because the Korean market is served by local exchanges that provide Korean won (KRW) fiat trading pairs, and local users do not trade cryptocurrencies using tether (USDT) or BTC most of the time, as per Binance Research.
+
+Therefore, a Korean wanting to “arb” the premium has to first buy a token with KRW that could be exchanged for USDT or other stablecoin, which then would be used to purchase bitcoin on a non-U.S. exchange. The tedious process doesn’t stop here. The bitcoin will have to be transferred back to Korean exchanges for liquidation.
+
+“The relatively long transaction confirmation time, without hedging, leaves the arbitrageur exposed to price fluctuations during the transfer,” Binance research said in a Telegram message.

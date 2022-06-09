@@ -1,0 +1,91 @@
+Some of the more than 4,000 cryptocurrency ASIC miners in Riot Blockchain mining facility. (Image: PRNewsfoto/Riot Blockchain, Inc.)
+
+There’s a vigorous debate underway about the environmental impact of Bitcoin, featuring strong opinions from both critics and defenders of cryptocurrency mining.
+
+We’ve seen this debate before, and we know how it probably ends. The data center industry faced similar critiques in 2010-11, when its use of coal-powered energy came under fire from Greenpeace and The New York Times.
+
+Ten years later, the data center industry is the largest user of renewable energy on the planet. Cloud computing platforms from Google, Microsoft, Facebook and Amazon Web Services are among the biggest buyers of wind and solar energy, followed closely by data center service providers Equinix, Switch, QTS Data Centers and Digital Realty.
+
+A similar transition awaits Bitcoin and the cryptocurrency mining industry. It won’t happen overnight., and it appears that a portion of the bitcoin community will resist the effort. But there is already progress, as Ethereum (the second-leading cryptocurrency) is shifting to less energy-intensive technology, and some mining operations and pools are embracing the market opportunity for sustainable mining.
+
+The bottom line: In the middle of a climate crisis, when you’re a huge energy user and your key stakeholders demand renewable power, you can’t change the subject.
+
+The good news: The data center industry’s pioneering work in renewable energy provides a roadmap that can help cryptocurrency mining operations make the transition to cleaner energy sources.
+
+The Push for Greener Bitcoin
+
+The most compelling reason for greener Bitcoin is that it is the right thing to do. It will be good for the planet, and good for business, as sustainability is important to many of the largest stakeholders in bitcoin’s future. That includes investors, financial firms and corporations, who have implemented ESG (environmental, social, governance) mandates and are accountable to shareholders. Sustainable finance is a huge focus on Wall Street and in the boardroom.
+
+This is the clear subtext of the high-profile retreat by Elon Musk, who caused a selloff across the cryptocurrency sector with his tweet that Tesla will stop accepting bitcoin for vehicle sales, citing concerns about “rapidly increasing use of fossil fuels for bitcoin mining and transactions.”
+
+Some might argue that this is exactly the type of corporate leverage that bitcoin creator Satoshi Nakamoto sought to avoid in designing a decentralized cryptocurrency. But as bitcoin and other cryptos soar in value, they have become a growing component of portfolios for wealth managers and investment firms. Demand from Wall Street and investors has been a major factor in the price gains for bitcoin over the past year.
+
+Like it or not, the value of Bitcoin, Ethereum and other leading cryptocurrencies is supported by parties who are accountable to ESG mandates.
+
+Even before this week’s Musk-powered selloff, key players in the crypto sector understood that bitcoin’s energy profile is becoming a huge problem, as seen in the Earth Day release of a white paper from the Bitcoin Clean Energy Initiative (including Square CEO Jack Dorsey and ARK Invest’s Cathie Wood) arguing that “Bitcoin is the Key to an Abundant, Clean Energy Future.”
+
+The paper discusses strategies worth considering, but its primary argument is that cryptocurrency can be an enabler for others to use more green power – serving as a “battery” to enable utility grids to adopt renewable generation – rather than replacing mining’s current coal-fired energy footprint with solar, wind and hydro.
+
+Wood tweeted that the paper “debunks the myth that Bitcoin mining is damaging the environment.”
+
+“Today is the day we turned the tables on the bitcoin energy debate,” tweeted Miles Suter of SquareCrypto.
+
+The problem: this narrative didn’t resonate beyond Bitcoin social media. Here’s a sampling of the week’s headlines:
+
+Here’s what the data center industry learned: Offering smart alternatives to “change the narrative” is doomed to failure. Any strategy that is not adopting more renewable power is ultimately an attempt to change the subject. Some history is useful.
+
+The History of Data Centers and Energy Critiques
+
+By 2010, the data center industry was in the early stages of an energy efficiency revolution that would create extraordinary benefits, reversing a trend of soaring data center energy use. It was a compelling story, as the world’s largest and most powerful technology companies – led by Google, Facebook and Microsoft – transformed their operations to conserve energy.
+
+Electricity usage by global data centers grew just 6 percent from 2010-18 (from 194 TWh to 205 Twh) while the number of physical servers rose 30% and compute instances (virtual machines running on physical hardware) rose by 550 percent. This marked a complete reversal from the 90 percent growth in data center energy use from 2000-2005.
+
+Initially, almost no major data centers were using solar or wind power. The reason: renewable energy wasn’t readily available from electric utilities.
+
+Here’s what the data center industry learned: Offering smart alternatives to “change the narrative” is doomed to failure. Any strategy that is not “we’re adopting more renewable power” is ultimately an attempt to change the subject.
+
+That made the industry a target as cloud builders began constructing large new data centers.
+
+In early 2010, Greenpeace took aim at Facebook after the social media network announced plans to build a data center campus in Prineville, Oregon that would be supported by energy from fossil fuels. The environmental group launched an “Unfriend Dirty Coal” campaign that galvanized environmental groups to protest Facebook’s energy sourcing. Within two years, Facebook announced plans to prioritize the use of renewable energy in its data centers. Last week the company said it now buys enough renewable energy to account for 100 percent of its global energy use.
+
+In 2011, Greenpeace expanded its target list to Apple, which had announced plans for a $1 billion “iDataCenter” in rural North Carolina. Apple said that Greenpeace had massively overstated its energy use, which was almost certainly true. Nevertheless, within six months Apple announced plans to build one of the world’s largest solar power arrays at the North Carolina iDataCenter campus.
+
+In 2012, after months of interviews with data center executives, The New York Times published a series of stories that portrayed data centers as massive energy hogs, including a startling story that Microsoft had threatened to waste tens of megawatts of electricity to avoid a potential fine from the local utility.
+
+At the time, I wrote that “Greenpeace also knows how to take a complex issue – and data center energy sourcing certainly qualifies – and simplify it. But not always in a useful way. Greenpeace is being selective in which facts it presents, and addressing only a limited portion of a complex issue.”
+
+Bitcoin’s Headline Risk is Not Going Away
+
+That was true, but ultimately didn’t change the outcome. Similar arguments are being raised by defenders of bitcoin’s energy use, led by investor and CoinMetrics chairman Nic Carter, whose Twitter feed has been a leading venue for “debunking” efforts. That includes regular jousting with Digiconomist Alex DeVries, one of the most cited critics of cryptocurrency’s energy use.
+
+The data center industry’s experience is that the media narrative is not going to change. Many data center experts spoke with the Times, providing detailed information on the industry’s energy efficiency gains, as well as utilities’ limited progress on renewable energy. The Times understood the efficiency side of the story, and went with the “energy hog” story, which made for better headlines.
+
+Bitcoin thought leaders hoping to alter the media narrative are likely to experience a similar disappointment.
+
+Make no mistake. Cryptocurrencies will be greener. It is inevitable. The open questions are the timing of the transition, which can be delayed if leading voices in the bitcoin community resist the effort. This resistance could persist, in part because bitcoin investors have serious experience in being right about things that others thought were crazy.
+
+The Greening of Bitcoin
+
+But there are a number of promising initiatives to accelerate the shift to a sustainable crypto sector, particularly in the Ethereum and DeFi (decentralized finance) ecosystems. (For examples, see our companion story, The Greening of Cryptocurrency: Early Players in Sustainable Blockchain).
+
+But Bitcoin seems unlikely to follow the lead of Ethereum and shift to proof of stake or another energy-saving method for validating transactions. There’s also a major challenge with the geography of bitcoin mining, with 65 percent of the current hashrate based in China, compared to just 7 percent in the U.S., which is a distant second, according to the Bitcoin Mining Map from Cambridge University.
+
+This is an opportunity for North American miners, who can adapt their model to create earth-friendly mining operations that align with the compliance requirements and ESG mandates of stakeholders in the business and finance sectors.
+
+As seen in the data center industry, provisioning huge volumes of power that relies on fossil fuels could be an ongoing media disaster. And blockchain miners plan to provision LOTS of electricity in coming years.
+
+Riot Blockchain projects that its energy use will grow from the current 51 megawatts (MWs) to 257 MWs by the end of 2022. BitFarms says it may add as much as 210 MWs of capacity at a mining operation in Argentina. Beowulf Mining, a Montana energy company, says it may deploy 500 MWs of bitcoin capacity by 2025.
+
+Which Energy Ecosystem Will Bitcoin Choose?
+
+Data centers have become important players in the U.S. electricity market, working closely with utilities and energy brokers to acquire renewable energy and manage their costs and risk exposure. They adopted sophisticated strategies to provision green power and manage the pricing and risk profile of its energy. This includes the use of third parties to craft virtual power purchase agreements to buy capacity through liquid marketplaces.
+
+The cryptocurrency sector has the resources and ingenuity to follow this playbook. Even a brief survey of the DeFi market demonstrates the crypto industry’s expertise in risk management and financial engineering. Why not apply these skills to adopting more renewable energy?
+
+Instead, the ARK/Square paper proposes using bitcoin’s resources to effectively prop up the fossil fuel industry by locating mining operations at power plants for coal and natural gas.
+
+The data center industry has shown that large users can support the growth of renewable energy, serving as anchor customers for new solar and wind generation to help these technologies become cheaper and more efficient.
+
+Cloud builders are also working on pioneering new approaches to green power, such as Google’s adoption of geothermal power and Microsoft’s research to eliminate diesel generators and replace them with hydrogen fuel cells.
+
+For Bitcoin, the real opportunity to “change the narrative” is to follow the lead of the data center industry and fully embrace renewable energy and the transition to a greener future.

@@ -1,0 +1,33 @@
+Bitcoin’s proposed Taproot upgrade has been highly anticipated and is now increasingly supported by the community.
+
+The update would enable improvements on the blockchain in areas including privacy, scalability and security.
+
+Over 90% of blocks have signaled support, and just 1,388 additional signaling blocks are needed for the upgrade to lock in during the current difficulty period.
+
+Following the Segwit softfork in 2017, which increased the block size limit on the Bitcoin blockchain, the most anticipated change to the network – Taproot – is likely to see a successful process.
+
+Over 90% of Bitcoin hashrate signaling support
+
+Taproot currently has more than the required minimum of miners signaling support to lock in the upgrade. According to the rules, 90% of blocks mined within one of Bitcoin’s difficulty periods must signal support for the activation in November.
+
+The upgrade was first proposed in 2018 by Bitcoin Core contributor Gregory Maxwell. As of October 2020, Taproot has been merged to the Bitcoin Core library after a request created by Pieter Wuille. The soft fork is the latest step that would enhance the network’s usability and security.
+
+Amendments to the leading cryptocurrency network have been infrequent, as the process is difficult, given the consensus that must be achieved among a diverse and dispersed community. As seen in the case of SegWit, there was a lack of consensus, and a group of users decided to hard fork, which created Bitcoin Cash, while another cohort generated Bitcoin Gold.
+
+If 90% of miners signal support before August 11, the network will see enhanced smart contract capabilities and increased privacy. The threshold must be reached within 2016 blocks, roughly around two weeks before the activation window ends.
+
+Taproot’s Speedy Trial activation process, which began on May 1, is in the third signaling period.
+
+The data size of the smart contracts would be lowered through the soft fork, decreasing transaction costs on the network. This is done by altering two lines of code that would see Bitcoin with a new signature scheme, known as Schnorr signatures.
+
+With the emergence of the new code, multisignature transactions would be cheaper and more data-efficient. These upgrades would also highlight interest in the Lightning Network and other Bitcoin technologies, including discreet log contracts.
+
+Although the signaling process could last until August, over 90% of blocks have been signaling for Taproot. Data on the blockchain shows that we will most likely see a successful process in around ten days when the current difficulty period is over.
+
+According to Taproot Watch, 1,386 additional signaling blocks are needed for the softfork to lock in with the current signaling ratio of 97.95%.
+
+Taproot Watch
+
+Compared to early May, the Bitcoin community has made significant progress on this policy stance. At the time, only around 50% of blocks signaled support for Taproot.
+
+Although unlikely, if the 90% threshold is not reached before mid-August, Taproot will be up for discussion again.

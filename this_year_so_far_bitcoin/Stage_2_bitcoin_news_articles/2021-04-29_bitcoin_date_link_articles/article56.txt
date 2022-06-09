@@ -1,0 +1,11 @@
+Bitcoin infrastructure company Blockstream has introduced the Blockstream Satellite Base Station, a receiver for the satellite it maintains to broadcast the Bitcoin blockchain from space. The new product features an all-in-one antenna that enables users to access this broadcast and run Bitcoin nodes without internet access or any additional hardware.
+
+“[The] Base Station is ideal for bitcoiners who want a secondary connection to the Bitcoin network for redundancy … or a primary connection for increased privacy,” according to the announcement. “It’s also useful for bitcoiners who live in emerging markets, remote locations, or who want to ensure Satoshi’s dream lives on in a Mad Max future.”
+
+After it’s installed and aligned, the flat-panel antenna connects directly to the owner’s home network using Power over Ethernet (PoE), which passes electric power and data through a pair of Ethernet cables. Blockstream claims the Base Station works with its satellite network in most parts of the world.
+
+Running a Bitcoin node using the Blockstream Satellite might seem unnecessary for many users. However, the company claims there are a unique set of advantages in doing so.
+
+First, it lowers the barrier to entry for Bitcoin users who have limited internet infrastructure, helping drive bitcoin adoption. Second, the satellite improves reliability and hedges users and businesses against unexpected network disruptions. Finally, it allows users to interact with the Bitcoin network with “increased privacy and security,” according to the announcement.
+
+The Blockstream Satellite Base Station is available for preorder through the Blockstream store for $499.

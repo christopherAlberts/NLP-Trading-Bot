@@ -1,0 +1,49 @@
+When the famous Satoshi Nakamoto first designed his masterpiece, few could possibly have imagined the almost $63,500 peak that sent investors into a frenzy. Even these days, the first-ever cryptocurrency’s price feels hard to believe at times and investors might be pinching themselves every now and then. Taking a seat alongside Bitcoin (BTC) on the roller coaster, altcoins like Litecoin (LTC), Ether (ETH) and Bitcoin Cash (BCH) joined the ride — and, more recently, DeFi giants Polkadot and Cardano.
+
+But for the long haul, looking into the crystal ball, it’s difficult to see the future of a coin shrouded in uncertainty. Ray Dalio raised fair points in his critique of Bitcoin, arguing that uncertainties regarding how governments will react to digital assets supplanting fiat currency in utilization are causes for potential concern down the road. He further argued that the Bitcoin blockchain will soon be outdated, and without any central governance to adapt it to emerging blockchain technology, a superior coin could overtake it.
+
+Related: DeFi won’t last long without unlocking Bitcoin’s $250B treasure chest
+
+And that nails home the point: Bitcoin’s underlying blockchain protocols are very limiting in terms of enabling broader financial applications. It would be unfathomable to operate a massive DeFi ecosystem on top of the Bitcoin blockchain given Bitcoin’s proof-of-work transaction consensus algorithm.
+
+Despite its limitations, it’s difficult to predict whether innovative advances in competing coins’ blockchains will be enough to overtake Bitcoin’s success. It all hinges on the utility factor: Will crypto stay a store of value, or will it become a viable alternative for exchanging value?
+
+Related: Did Bitcoin prove itself to be a reliable store of value in 2020? Experts answer
+
+Emerging blockchain technologies and DeFi’s success
+
+Since the dawn of Bitcoin just over a decade ago, the blockchain industry has given rise to hundreds of different projects, with each one aiming to forge a new coin into stardom. Many succeeded in the long term. Ether, the second closest coin in value to Bitcoin, continued hitting new all-time highs throughout April, validating not just the coin’s potential as a store of value asset but also Ethereum’s potential as a blockchain network.
+
+Related: Where does the future of DeFi belong: Ethereum or Bitcoin? Experts answer
+
+Similar to Ethereum, a number of projects aimed to emulate the titan that Vitalik Buterin and his associates built, such as Cardano, EOS and, most recently, the hot and popular Polkadot. Each project tries to build off the limitations of the other to varying degrees of success. Hype has been the majority of what’s been delivered to users, as only time will reveal the true validity of these projects.
+
+Regardless of the blockchain projects and their creative names, they’ve spurred on an ecosystem of collaborative development. Together, they’ve created decentralized apps, or DApps, that can bring the unbanked out of the doldrums of impoverishment, opportunity to the financially excluded and new investment avenues to the already-savvy.
+
+Related: It’s time to put the dukes down and work together for blockchain’s future
+
+The flourishing of coins and DApps serves up plenty of optimism to many outsiders looking in, offering hope that there is real potential to foster a booming decentralized finance ecosystem — or at least a hybrid of it combined with centralized markets. But it’s all thanks to belief in Bitcoin’s value, which is the fixation point of many investors.
+
+Related: Was 2020 a ’DeFi year,’ and what is expected from the sector in 2021? Experts answer
+
+Bitcoin’s store of value is what’s really on the mind
+
+What drove the inquisitiveness of investors, developers and crypto enthusiasts alike was the appeal of Bitcoin as a store of value. Against fiat currencies, Bitcoin is deflationary; so, during periods like the COVID-19 pandemic, Bitcoin’s appeal turned white-hot.
+
+Related: How has the COVID-19 pandemic affected the crypto space? Experts answer
+
+While discussions about Ethereum, Polkadot and other blockchain platforms caught the attention of the DeFi world, many outsiders remained numb to them and fixated on the coin prices. And that’s why Bitcoin’s appeal stays as a store of value, for the most part.
+
+Related: The butterfly effect: Why DeFi will force BTC to break its 21M supply ceiling
+
+Many ordinary retail investors and institutional investors don’t have a firm grasp on crypto’s inner workings. According to a Cardify survey, only 16.9% of crypto investors “fully understand” it, while just over 33% of them have limited or “zero knowledge.” Over 40% of crypto investors are newbies who are riding the hype wave. It’s arguable that the entry barriers to the DeFi world are quite high and literacy is rather hard to attain, but that’s a story for another time.
+
+Related: Institutional investors won’t take Bitcoin mainstream — You will
+
+Moreover, institutional investors remain wary of the volatility issues facing Bitcoin and other cryptocurrencies, with ongoing predictions of an imminent bubble — another signal that underlying blockchain technologies are less of a priority. And this is precisely why other coins will not overtake Bitcoin. So long as the mainstream fixation remains pinned to coin value and not underlying blockchain value, Bitcoin will stand atop the cryptocurrency podium. Whether investors can become more literate in the inner workings of the DeFi world will determine how much value investors will find in the underlying technologies of new and emerging coins.
+
+For now, Bitcoin is the king of the hill and will likely stay that way for a long time as the price continues to climb and mainstream investors hop on board.
+
+This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision.
+
+The views, thoughts and opinions expressed here are the author’s alone and do not necessarily reflect or represent the views and opinions of Cointelegraph.

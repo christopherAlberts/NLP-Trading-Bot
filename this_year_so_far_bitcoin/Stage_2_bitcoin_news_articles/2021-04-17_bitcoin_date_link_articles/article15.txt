@@ -1,0 +1,35 @@
+After breaking out of the two-months ascending triangle, the price of Bitcoin (BTC) is firmly staying above $60,000. Current on-chain volume suggests investors are still strongly buying Bitcoin at current price levels.
+
+Furthermore, the current price is not even close to a short-term price top when comparing to historic network valuation multiples.
+
+BTC price bull run not overheated, investor activity shows
+
+While bear market bottoms often coincide with seller exhaustion, bull cycle tops happen to occur with buyer exhaustion. Watching long-term investor activity during the different stages in a bull market proved to be a good indicator for BTC price support levels and overheated conditions in the past. Current investor activity suggests that the market price is far from overheated.
+
+On-chain analyst Willy Woo, who developed a methodology to measure this activity, describes it as follows:
+
+“Investor activity” is predicated on on-chain volume. This is because when BTC moves between wallets between two different participants, we assume there was a payment for it off-chain (fiat or alt-coin). It’s an imperfect measure but approximates what’s going on.
+
+The investor activity, expressed in on-chain volume is then multiplied by the 2-year moving median of the "Network Value" over "Transactions" (NVT) and is then divided by the circulating supply. The price that is derived through this methodology is called "NVT Price."
+
+Bitcoin NVT Price. Source: Woobull.com
+
+NVT price does not only give a good indication of how much volume is willing to pay current prices but it can also be used as an estimate of the price floor in a bull market due to the long-term moving average of NVT. Therefore, NVT could also be called the valuation multiple of the network derived from transaction volume or could be thought of as the PE, or "price to earnings," ratio of Bitcoin.
+
+NVT premium says short-term top possible at $95K
+
+The market price rarely dipped below the NVT price during a bull market. If it did, it proved to be an excellent buying opportunity. The current NVT Price is $47,500. Based on yesterday's closing price of $61,600 per Bitcoin, the market is willing to pay a premium of 1.3 times the current long-term investor valuation. This multiple is called the NVT premium.
+
+During prior bull markets, NVT premiums above 2 turned out to be short-term price tops, and above 3.5 marked the top of a bull market. Currently, this metric suggests that the current NVT premium of 1.3 is nowhere near prior bull market tops.
+
+Based on the current NVT price of $47,500, the next major short-term top with an NVT premium of 2 could likely be at or above $95,000 while a potential cycle top, with an NVT premium of 3.5, could be at or above $166,300.
+
+Current NVT premium suggests more upside potential
+
+While an NVT premium of 1.3 may see a short-term drop in the price by 30% or more, the multiple also shows that it would be at least another 54% price increase from yesterday's closing price to reach a potential short-term cycle top.
+
+However, this assumes that history will repeat again and that similar NVT premiums as in prior bull markets would be reached again. Neither is guaranteed, of course. Nevertheless, if this phenomenon were to repeat, the risk-to-reward ratio certainly favors the upside.
+
+What's more, a $166,000 price tag may actually be a fairly conservative prediction, according to Woo. As Cointelegraph previously reported, the analyst explained that BTC price could also reach as high as $300,000 by December 2021, based on other metrics.
+
+The views and opinions expressed here are solely those of the author and do not necessarily reflect the views of Cointelegraph. Nothing here should be considered investment or trading advice. Past performance is not a guarantee of future results. Every investment and trading move involves risk. The author owns Bitcoin. You should conduct your own research when making a decision and/or consult with a financial advisor.

@@ -1,0 +1,29 @@
+Despite bitcoin’s 20% crash on Monday, some options traders are betting on a continued price rally in coming weeks.
+
+At the press time price of $35,580, bitcoin is up nearly 16% from the low of $30,305 observed on Monday. Even so, the number one cryptocurrency by market value is still well short of the weekend highs above $40,000.
+
+Some traders, though, have been buying Jan. 29 expiry call options at the $52,000, $64,000 and $72,000 strike prices on the Deribit exchange.
+
+A call option gives the buyer the right but not the obligation to buy the underlying asset at a predetermined price on or before a specific date. A call option is a bullish bet, while a put option is a bearish bet. One options contract represents the right to buy or sell one bitcoin on Deribit.
+
+Bitcoin options trades on Deribit Source: Laevitas
+
+A total of 4,000 contracts have been bought at the $52,000 strike in the past 24 hours, according to data provided by Swiss-based data analytics platform Laevitas. The $64,000 and $72,000 strike call options show buying volume of 3,250 and 2,000, respectively.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Theoretically, the purchase of the $52,000 strike call is a bet that bitcoin would rise above that level on or before Jan. 29, making the option “in-the-money.”
+
+Currently, the three contracts are out-of-the-money (OTM), with the spot price well below these strike prices, and are trading at 0.045, 0.0260 and 0.0190 BTC, respectively.
+
+The deep OTM options are relatively cheap and tend to gain significant value if the price rally materializes, yielding big returns on small investments. As such, seasoned traders with bullish price expectations often buy call options at higher strike prices.
+
+Therefore, the latest call option purchases at the $52,000, $64,000, and $72,000 strikes indicate bullish market sentiment. Other option market indicators are making a similar call.
+
+Bitcoin put-call skew Source: Skew
+
+The one-, three- and six-month put-call skews, which measure the cost of puts relative to calls, remain entrenched into the negative territory. That’s a sign of call options, or bullish bets, drawing higher demand than puts.
+
+According to analysts, on-chain fundamentals remain strong and the path of least resistance is to the higher side. “Don’t let short-term $BTC price action distract you. Fundamentals are strong, the network is healthy. Zoom out and HODL,” Rafael Schultze-Kraft, CTO at the blockchain analytics firm Glassnode, tweeted.
+
+However, the cryptocurrency may have a tough time charting a quick move to fresh record highs above the peak of $41,962 reached on Saturday, given the U.S. Dollar Index is witnessing a recovery rally, weakening bitcoin and gold’s appeal in the markets.

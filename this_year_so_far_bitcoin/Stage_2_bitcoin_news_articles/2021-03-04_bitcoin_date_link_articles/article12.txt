@@ -1,0 +1,73 @@
+The Realme Narzo 30A was launched on February 24, and priced at Rs. 8,999. It joins a long list of budget-friendly smartphones under Rs. 10,000. How does the Realme Narzo 30A measure up in this category?
+
+There are smartphones with huge batteries, good cameras, and even some that run stock Android. It's difficult to find a good all-rounder in the entry-level segment, but there are some phones that do come close. The new Narzo 30A from Realme claims to offer a good balance of features and performance at an affordable price point.
+
+Should you stop your search and buy this one instead? Here is my review of the Realme Narzo 30A.
+
+Realme Narzo 30A design
+
+Let's start with the design. The most affordable smartphone in the Realme Narzo 30 series today looks fresh and has a different design compared to its predecessors. At the back, the Realme Narzo 30A has a dual pattern of sorts with the bottom two-thirds having diagonal lines, while the upper section is plain. The pattern looks good and helps you grip the smartphone easily. Realme has used a square-shaped camera module that reminded me of the Realme Narzo 20 (Review). You also get a rear-mounted fingerprint scanner that is well-positioned and easy to reach. The side-mounted power and volume buttons are conveniently placed too.
+
+The Realme Narzo 30A gets a decently big 6.5-inch display with a tall 20:9 aspect ratio. The tall display requires some finger stretching to reach the top of the screen. The SIM tray is on the left side of the frame and has two Nano-SIM slots and a dedicated slot for storage expansion.
+
+The Realme Narzo 30A is noticeably thicker because of the big 6,000mAh battery
+
+Pick the smartphone up and you will notice that isn't the lightest device around. Tipping the scales at 207g, the Realme Narzo 30A is noticeably heavy. Realme has used rounded sides to mask the thickness of the device, which also helps to grip the smartphone better. The upside of this slightly bulky phone is that it packs in a big 6,000mAh battery which helps it deliver good battery life. More on that in a bit.
+
+The Realme Narzo 30A has a USB Type-C port, a 3.5mm headphone jack, and the loudspeaker at the bottom. It comes with a bundled 18W charger in the box which is a good addition at this price. The Realme Narzo 30A is available in two colour options: Lazer Black and Lazer Blue, and I have the latter for this review.
+
+Realme Narzo 30A specifications and software
+
+Realme has stepped up its game with the Narzo 30A as it gets a significant upgrade compared to the Realme Narzo 20A. You get a more powerful MediaTek Helio G85 SoC that's paired with either 3GB or 4GB of LPDDR4X RAM, depending on which variant you choose. These variants are paired with 32GB and 64GB of storage respectively. Storage is expandable further upto 256GB using a microSD card. Realme has priced the smartphone quite aggressively at Rs 8,999 for the base variant, while the higher variant is priced at Rs. 9,999.
+
+The Realme Narzo 30A supports dual-band Wi-Fi ac, Bluetooth 5, and three satellite navigation systems. It runs Realme UI v1.0, based on Android 10. Realme is promising an update to Realme UI v2.0 soon.
+
+You get Realme UI v1.0 on top of Android 10
+
+Since the Realme Narzo 30A still uses the older Android skin, I found the interface very easy to use. There are a fair amount of bloatware apps preinstalled but you can uninstall most of them without any issues. I did not encounter any spammy notifications from the stock apps either.
+
+Realme Narzo 30A performance
+
+The Realme Narzo 30A worked very well for daily use and could also handle occasional gaming quite well. If this is what your typical usage pattern looks like, then the phone should not disappoint. The rear-mounted fingerprint scanner was quick at authentication, and face recognition too did not need more than a single attempt to unlock the smartphone. The Realme Narzo 30A has an HD+ resolution display which is acceptable for the price segment. I found the display to be good indoors but it was strictly average when used outdoors, under direct light.
+
+I ran benchmarks on the Realme Narzo 30A to see where it stands compared to the rest of the competition. In AnTuTu, the Narzo 30A scored 2,04,869 points, while returning 8,712 points in PCMark's Work 2.0 test suite. In Geekbench 5's single-core and multi-core tests, it scored 363 and 1299 points respectively. In GFXBench, the smartphone managed 55fps and 18fps in T-Rex and Car Chase tests, respectively.
+
+The dual-camera setup on the Narzo 30A sports a 13-megapixel camera and a portrait lens
+
+I did play Call of Duty Mobile on the Realme Narzo 30A to see how it fares. The game defaulted to the Low graphics settings with the framerate set to Medium. The game was playable at these settings without any lag. I played the game for 20 minutes and noticed a three percent drop in the battery level, which is acceptable. The phone was slightly warm to the touch but nothing alarming.
+
+Battery life on the Realme Narzo 30A was excellent and the phone managed to last for two days before needing to be plugged in, with my typical usage. In our HD video loop test the phone ran for 27 hours and 11 minutes, which is incredibly good. If you binge-watch lots of video content on your phone, the Narzo 30A can be the ideal partner. The 18W charger in the box can charge the Narzo 30A to 15 percent in half an hour, and up to 33 percent in an hour. Keep in mind that even with this fast charger, it still takes a good two and half hours to fully charge the battery.
+
+Realme Narzo 30A cameras
+
+The Realme Narzo 30A sports a 13-megapixel primary camera and a monochrome portrait camera with an unspecified resolution. At the front, it has an 8-megapixel camera for selfies. The camera app has remained unchanged and finding the right setting wasn't too difficult. There are multiple shooting modes available, along with a camera AI that can automatically tune the colour settings based on the scene or object you're pointing at.
+
+Realme Narzo 30A daylight camera sample (tap to see larger image)
+
+In daylight, the photos taken by the Realme Narzo 30A looked good on the phone's display, but I noticed lower details upon magnifying the image. Text with large fonts at a distance was legible but the overall image lacked good sharpness. There is a ‘Chroma Boost' toggle that increases the contrast slightly and improves details in the shadows.
+
+Realme Narzo 30A close-up camera sample (tap to see larger image)
+
+Realme Narzo 30A Portrait camera sample (tap to see larger image)
+
+Close-ups clicked in adequate light were good, and the phone managed a soft bokeh effect for the background. The Realme Narzo 30A occasionally struggled to focus on smaller objects in my experience. Portrait shots turned out quite well with good edge detection. You also get the option to set the level of blur before you take the shot.
+
+Realme Narzo 30A low-light camera sample (tap to see larger image)
+
+Realme Narzo 30A Night mode camera sample (tap to see larger image)
+
+Low-light camera performance was below average and the phone took over two seconds to take a shot in the regular Photo mode. The output lacked detail in the shadows and the slower shutter speed introduced motion blur in the output. There is Night mode as well in the camera app which takes over four seconds to take a shot. This mode compensates for hand shakes and photos generally had better colours, but it did not do much to improve details in the shadows.
+
+Realme Narzo 30A selfie portrait camera sample (tap to see larger image)
+
+Realme Narzo 30A low-light portrait selfie camera sample (tap to see larger image)
+
+Selfies from the Realme Narzo 30A were good and the phone managed good images in daylight as well as low light. Video recording tops out at 1080p for the primary camera and lacks stabilisation, resulting in a shaky footage. I found the quality to be strictly average during the day, with weaker details when shooting at night or in low light.
+
+Verdict
+
+Realme has priced the Narzo 30A under Rs. 10,000 which should make it accessible to a lot of people looking for a decent device on a tight budget. The smartphone offers good overall performance for the price which is more than adequate for general use and a bit of occasional gaming. I found the battery performance to be excellent which is one of the biggest highlights of this smartphone.
+
+Camera performance is not the best I've seen at this price point, although it does manage to take good selfies. Barring this major hurdle, I think the Realme Narzo 30A is still a good pick for the price. If software and cameras are of importance to you, then the Moto E7 Plus (Review) is one alternative you can consider in this segment.
+
+Is Samsung Galaxy F62 the best phone under Rs. 25,000? We discussed this on Orbital, our weekly technology podcast, which you can subscribe to via Apple Podcasts, Google Podcasts, or RSS, download the episode, or just hit the play button below.

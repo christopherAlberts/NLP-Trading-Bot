@@ -1,0 +1,19 @@
+Taproot now has more than the required minimum of miners signaling support to lock in the upgrade, but the upgrade isn’t a shoe-in just yet.
+
+Per the activation rules set by Speedy Trial, 90% of blocks mined within one of Bitcoin’s difficulty periods need to signal support for the upgrade for it to be locked in for activation in November.
+
+Currently, mining pools that represent 94% of Bitcoin’s hashrate have now included the Taproot “signal bit” to show their support for the upgrade. But it won’t be until the next difficulty period that we could see the upgrade locked in because the current difficulty period has already seen too many non-signaling blocks for miners to hit the threshold.
+
+A visualization of this period's signaling percentage. (Taproot Watch)
+
+Bitcoin’s next difficulty adjustment is in approximately nine days. This next adjustment will mark the third of six possible signaling periods under Taproot’s Speedy Trial activation process, which began on May 1.
+
+Czechia-based Slushpool was the first mining pool to signal for the upgrade, followed by Foundry, F2Pool, Poolin and Antpool. Notably, mining pools have signaled, un-signaled and re-signaled for a variety of reasons so the signaling percentage can oscillate. Poolin’s signal, for example, dropped off in response to technical snafus while BTC.com’s recently changed its status from signaling to not signaling for unknown reasons.
+
+What is Bitcoin's Taproot upgrade?
+
+Taproot is Bitcoin’s most anticipated upgrade since SegWit. The actual change, an alteration to two lines of code, is minimal, but Taproot will outfit Bitcoin with a new signature scheme known as Schnorr signatures.
+
+These signatures pave the way for advanced transaction logic (what the cool kids call “smart contracts”), which will make things like multisignature transactions cheaper and more data efficient (while also giving them a privacy boost by making them look the same as regular transactions on the blockchain).
+
+In addition to multisignature wallets, the upgrade will be a boon for the Lightning Network and other Bitcoin technologies like discreet log contracts (DLC).

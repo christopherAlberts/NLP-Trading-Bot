@@ -1,0 +1,27 @@
+A brewing fight over crypto miners’ carbon footprint escalated Tuesday after New York state senators moved to effectively bar new bitcoin mining operations from plugging directly into the state’s carbon-emitting power plants.
+
+The watered-down bill, which originally sought to freeze all “cryptocurrency mining centers” in New York for up to three years, heads to the State Assembly with a more tailored focus.
+
+Now only prospective mining firms on proof-of-work blockchains like Bitcoin and Ethereum that seek to set up shop within carbon-producing electric plants would be blocked. At least one such plant run by Greenidge Generation is online in upstate New York, but because it is already running, it would appear to be exempt from the bill.
+
+Related: Proof of Stake: A stake through Proof of Work’s heart?
+
+Senators also ditched a three-year sunset provision, limited its scope to new projects and existing operations that are seeking to increase their rig count, and beefed up calls to document miners’ statewide environmental footprint. They nixed any mention of “cryptocurrency” from the final bill.
+
+The amendments may signal where the broader fight over mining is going, however.
+
+“The annual global energy use for proof-of-work authentication is equivalent to that of the country of Sweden and exceeds the energy consumption of all the global activity of major tech companies like Amazon, Google and Facebook combined,” the bill asserted.
+
+With more miners coming to New York and existing operations like Greenidge’s upstate mining center seeking to expand, the bill said increased emissions from “proof-of-work authentication” could imperil statewide efforts to slash carbon emissions.
+
+Related: Ethereum’s Transition Could Be Months Not Years, Away
+
+It also invoked a less-talked-about environmental downside of power plants: Their use of water to cool equipment could damage nearby aquatic life by raising the water temperature of lakes.
+
+Story continues
+
+The bill states the following:
+
+“The department shall not approve a new application for or issue a new permit pursuant to this article for an electric generating facility that utilizes a carbon-based fuel and that provides, in whole or in part, behind-the-meter electric energy consumed or utilized by a facility that uses proof-of-work authentication methods to validate blockchain transactions.”
+
+Related Stories

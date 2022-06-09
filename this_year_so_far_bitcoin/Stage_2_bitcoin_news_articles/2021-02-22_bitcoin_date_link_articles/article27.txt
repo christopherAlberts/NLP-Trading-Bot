@@ -1,0 +1,145 @@
+On a hot day in December 2020, I was sitting in a filled-up keke — commercial tricycle — totally detesting what lay ahead of me. It was Thursday, the 17th, a day after the Federal Government ordered Nigerians to link their National Identification Number (NIN)s to their SIMs or get blocked.
+
+Though it did not make sense that I was heading for Ikotun — one of many busy and crowded locations in Lagos, Nigeria — after the country was hit by the second wave of COVID-19, there I was, without a choice. Overcome by regret for not seizing the opportunity to register in 2015, I questioned the logic behind the directive as the keke weaved its way through traffic.
+
+Given the urgency of the situation, I was not surprised to see a lot of people at the Local Council Office. Making my way up the stairs of the unremarkable National Identity Management Commission (NIMC) building where the NIN registration was taking place, I harboured fears of a crowd and a long queue.
+
+My fears gave way to reality when I got to the office; there was a long queue with people who clung to each other as if to close spaces that less patient people would exploit as they pushed through.
+
+Advertisement
+
+Interestingly, the crowd was at a decent distance (one metre is my best guess) from the NIMC office door. Very few people were wearing masks. A surprisingly friendly staff stood at the entrance addressing questions from random people. Ironically, a sign on the door boldly read, “NO MASK – NO ENTRY.”
+
+Calmly, the staff explained that the following week’s list was filled on Friday the week before.
+
+“What? When next should I come then?”
+
+“Tomorrow,” he said, staring right into my saucer-wide eyes.
+
+“And make sure you come as early as 8 a.m,” he concluded.
+
+Their goal — crowd management at the centre — was an exercise in futility.
+
+I got there just before eight the following morning, and this time, an unfriendly staff firmly told me to come back in January 2021.
+
+Advertisement
+
+As I slowly made my way back home, there were questions on my mind: How did we get here? Why is the government doing this? What will be the consequence of such a move?
+
+Some context on NIN
+
+Africa’s economy is growing increasingly digital, and the pandemic already promises to bring long-lasting changes. Access to widespread digital identity is a key component of digital change. And the ability to identify a person has ripple effects on sectors like health, banking, and education.
+
+For the past 13 years, Nigeria — Africa’s most populous country — has struggled to have a central database, with data either non-existent or little and far between. At least that’s the impression that dealing with any government agency will leave you with.
+
+However, Titi Akinsami, a digital economy and policy expert, begs to differ. She insists that even without a driver’s licence, a passport, or voter’s card, data exists, albeit scattered across different places and often unaccounted for.
+
+“One way or another, you must have been captured by the government,” she says. “It’s either in your schools, your local governments, or your health centres.”
+
+When the government needed to distribute palliatives at the heart of the pandemic, the lack of a central database was a clear stumbling block. Despite the issues behind the quest for digital identity, Nigeria’s Ministry of Communications and the Digital Economy decided to take drastic action.
+
+On December 15, 2020, the Nigerian Communications Commission (NCC) ordered all mobile subscribers to link their National Identification Number (NIN) to their Subscriber Identification Module (SIM) cards. People without NINs were to quickly register or risk being blocked by December 30, 2021.
+
+At the time of this order, there were 207 million mobile subscribers, and 47 million registered NINs. This seemingly sudden move was the outcome of months of ministerial orders and regulatory directives.
+
+The warning signs
+
+When Dr Isa Pantami assumed office as the Minister of Communications, he championed the Ministry’s renaming to the Ministry of Communications and the Digital Economy. He set targets for the NCC and the National Information Technology Development Agency (NITDA) among other agencies under its supervision.
+
+In response, the NCC blocked 2.2 million SIM cards, with the help of telecom companies, and deactivated improperly registered SIMs.
+
+The NCC ordering millions of MTN subscribers to redo their SIM registrations in September 2019 should have been a major warning sign.
+
+Due to poor service, high call and data charges, and less than decent network coverage, the average Nigerian has at least three SIM cards from various network providers. Others also patronise ISPs and sometimes have separate SIMs for calls and Internet access.
+
+According to the NCC, the average Nigerian subscriber has at least 3 to 4 SIMs registered. Being one such average Nigerian, it’s disheartening to observe that quality Internet remains a dream in most parts of Nigeria despite having several options.
+
+The NCC planned to regularise data from subscribers holding multiple SIMs to provide a clear picture of Nigeria’s unique mobile subscribers. However, nothing much has come of this, as Nigerians would later learn.
+
+In February 2020, the Minister set a December 30, 2020 deadline for subscribers to link their SIM cards with their NIN; he also stated that they could not hold more than three SIMs going forward. My colleague, Oluwanifemi Kolawole, explained that meeting the new requirements would be challenging given Nigeria’s peculiar circumstances.
+
+The country struggled economically as the pandemic hit hard in March 2020. A lockdown was initiated, hundreds of people died, thousands were hospitalised, and nothing much was said of the NIN-SIM linkage in light of the rampaging pandemic.
+
+On August 31, 2020, the Presidency approved the transfer of the Nigerian Identity Management Commission (NIMC), previously a standalone agency, to the Ministry of Communications and the Digital Economy.
+
+The important but elusive NIN
+
+A central citizens’ database comes with several benefits that can help the Nigerian government improve healthcare, security, welfare policies, and education.
+
+This data is also important to innovators, entrepreneurs, and for research and development.
+
+The Bank Verification Number (BVN), launched in 2014, has been the focal point for most financial innovation in recent years. A case in point is this hackathon where a team of developers worked to use soundwaves for last-mile payments.
+
+Know Your Customer (KYC) and identity verification have long been a tough nut to crack for companies and governments. At the time of launch, the BVN seemed like a duplication of effort, considering that the NIN, which the government kickstarted in 2007, would serve the same purpose.
+
+Adedeji Olowe, Trium Networks CEO, believes that if the NIN exercise is successful, it could replace the BVN as a critical piece for financial innovation.
+
+The ICT ministry has all but confirmed that the NIN would replace the BVN, insisting that while the former is backed by law, the latter is merely a banking policy. I explored this more with an admittedly long piece on the February 10, 2021 edition of Techpoint Digest.
+
+The government has made the NIN a prerequisite to retrieve lost SIM cards, shop on global eCommerce platforms like Amazon and AliExpress, and more importantly, get your driver’s licence, and international passport.
+
+Further perspective:
+
+COVID-19 the disruptor
+
+The Nigeria Centre for Disease Control (NCDC) confirmed sub-Saharan Africa’s first COVID-19 case on February 27, 2020, in Lagos, Nigeria, and wasted no time assuring Nigerians that it had put emergency measures in place to contain the spread quickly.
+
+And this seemed to be the case in March and April 2020 when the country was in lockdown; Nigeria had only 2,006 confirmed cases by the end of April 2020. But this figure raised questions: How much testing was being done in the country? How many people have access to decent health facilities across the nation?
+
+Nonetheless, everyone tuned in to the NCDC’s Twitter account every evening to get live updates. It became the subject of several jokes as people tried to cope with the reality of COVID-19. If Western juggernauts like the US could barely manage, what hope did the largest black nation have?
+
+With necessity came innovation from startups like 54gene, Helium Health, and Flying Doctors Nigeria with interesting creations like testing booths, and laboratory analysis of the strange virus.
+
+Companies went fully remote, and events of all sizes went online as platforms like Zoom, Google Meet, and Microsoft Team began to gain widespread popularity.
+
+In Lagos, Nigeria’s most populous state, the lockdown had to be eased gradually as it recorded the most cases of COVID-19 during this period. As of April 30, Lagos had 5,600 cases compared to 960 in Kano — the second-worst hit state.
+
+The geography of affected states has changed drastically since then.
+
+When the government eased the lockdown on May 1, 2020, COVID-19 cases rose by 415% to 10,436 by the end of the month.
+
+In the following months, Nigeria paid the price for easing the lockdown as COVID-19 cases more than doubled once more to 26,340 in June. By October 2020 this number had reached 62,929.
+
+Despite this alarming increase, the government seemingly weighed the impact on the country’s economy. As I explored before, MSMEs make up the bulk of Nigeria’s businesses, most of which are not captured by the Corporate Affairs Commission (CAC).
+
+A few embraced tech solutions to keep running their businesses, but for all the progress of recent years, Internet penetration leaves much to be desired. With job losses, salary cuts, a difficult credit landscape, and COVID-19-induced hardship, not many had the luxury to innovate. Nigerians had to survive by returning to their daily means of livelihood.
+
+COVID-19 and NIN registration
+
+A chat with some Nigerians living in different states revealed sordid tales of long queues, stress, bribery, and corruption at NIMC registration centres.
+
+I have paid 15k remita to government, sworn affidavit, wrote a letter, send all requested since December 2020. Nothing as been done yet, only unknown officer asking 150k to get it done..why pic.twitter.com/6e2rbMXlRU — 20/10/2020😠 (@israeladu05) February 3, 2021
+
+A month before the NIN ultimatum, the NCDC’s COVID-19 stats had stopped attracting attention. The infection numbers had thankfully dropped to record lows, and economic activities were slowly resuming. But in December, the numbers skyrocketed. The second wave was no longer a threat. It was now a reality in Nigeria.
+
+Throughout November 2020, Nigeria recorded 4,704 cases, but this number increased by 324% to 19,980 in December. By the end of January 2021, the country hit over 43,000 cases, a 115% increase from the previous month.
+
+The numbers get even more disheartening when you consider the COVID-19 cases in the days following the government’s NIN order.
+
+A month before Nigerians were asked to get their NINs, the nation recorded 9,914 COVID-19 cases, but a month after that order, it recorded a whopping 35,324 cases. A worrying 256% increase.
+
+The West African giant has seen a scary 77,012 cases in the 67 days following the commencement of NIN registration. 67 days before this, Nigeria had just 14,959 cases. In other words, COVID-19 cases have increased by 414% since the NIN registrations commenced.
+
+Nigeria averaged 223 daily cases before the NIN scramble; currently, it averages 1,149 cases daily.
+
+The shocker: Since the first COVID-19 case was reported, Nigeria has confirmed a saddening 153,000 more cases, over 50% of which have come since the NIN announcement.
+
+As I write this, possible logical flaws that might arise from concluding confront me. When trying to escape the post hoc fallacy, we have to note that event B happening after event A does not mean event A caused event B.
+
+Consequently, we have to consider what else could be responsible for the spike in December 2020. Did the disease control agency begin to test more? Did people become more careless? Did careless parties begin in earnest?
+
+Recall how I squeezed myself into a tricycle on the way to the NIMC office? That has been going on for months. You would also witness large crowds in Lagos during trips to the Ikeja Computer Village, and any popular Lagos market.
+
+On the days these markets are permitted to open, people troop in to get business done before closing between 3 and 4 p.m.
+
+The #EndSARS protests held in October 2020, and one could assume that not much testing was done during this time. Yet, the cases did not skyrocket in October or the following month.
+
+It’s common knowledge that Nigerians travel a lot during the festive season, but there’s not much data to support this assertion.
+
+The National Association of Nigeria Travel Agencies (NANTA) announced that it recorded a 46.9% loss in 2020 as COVID-19 limited the number of people who could travel. Various countries suspended flights, and Nigeria banned inter-state travel for some months.
+
+The major outlier in December was the NIN registration. The sudden increase in crowds preceded a surge in the final days of December 2020, and it has not stopped since January 2021.
+
+It’s not just the NIMC registration centres though. Government offices that need the NIN connection complain of network issues, leaving people to wait in their numbers. Also, people trying to retrieve their lost SIM cards complain about crowds and a complete disregard for social distancing.
+
+The NIN exercise might be a turning point in Nigeria’s history, but at what cost? Will the spike in COVID-19 numbers be worth it, or should Nigerians maintain their government distrust and disregard whatever COVID-19 numbers the NCDC publishes? Or maybe there’s a false cause, and this was always bound to happen.

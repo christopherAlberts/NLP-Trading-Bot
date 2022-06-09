@@ -1,0 +1,25 @@
+A raise to the Cash App bitcoin withdrawal minimum suggests increasing transactions and fees were becoming a burden.
+
+Square’s Cash App has raised its minimum withdrawal minimum to .001 bitcoin (100,000 satoshis), up from the previous minimum of .0001 bitcoin (10,000 satoshis).
+
+According to the Cash App withdrawal instructions page, “You must have a balance of at least 0.001 bitcoin to make a withdrawal. You can withdraw up to $2,000 worth of bitcoin every 24 hours and up to $5,000 within any 7-day period. Transfers to external wallets usually take around two hours but can take longer.”
+
+Per the following screenshot from an internet archive capture of the previous withdrawal limitations page, the minimum as of March 29, 2021 was indeed a lower amount of 10,000 satoshis.
+
+At current exchange rates, (1 BTC is worth about $54,785 at the time of this writing), this new 100,000 sat withdrawal minimum is equivalent to $54.79.
+
+Key Takeaways
+
+On-chain bitcoin transaction fees have risen due to a combination of factors. Withdrawals of smaller amounts of bitcoin may have been costing Cash App significant amounts of capital.
+
+A higher withdrawal unit could prevent users from accumulating relatively small amounts of bitcoin (aka “stacking sats”) through Cash App and then frequently withdrawing those amounts to wallets for which they control the private keys. Many Bitcoiners think it’s critical to freely and regularly withdraw their funds from platforms controlled by third parties.
+
+Since smaller withdrawals, and therefore everyday peer-to-peer transactions, are now more limited, this move may push an increasing number of users to look into Layer 2 implementations such as the Lightning Network that reduce transaction fees. Some within the space are pushing Cash App to adopt Lightning.
+
+The new minimum would restrict withdrawals to amounts above what many casual transactions would cost (a cup of coffee should cost well below $54). Cash App effectively disabling such casual transactions may encourage users to search for alternative quick payment methods built upon the Bitcoin blockchain.
+
+It’s also possible that the minimum being implemented will encourage users to stack increasing amounts of bitcoin, especially if they don’t notice the new minimum until having purchased a certain amount of bitcoin already. The next step, psychologically, could be to increase one’s stack until it reaches the withdrawal minimum.
+
+As noted above, the minimum increase can likely be attributed to the increasing transaction costs on the Bitcoin network at large. Bitcoin users who are experienced have likely anticipated these effects, however, and remain optimistic about solutions that help Bitcoin scale as a transactions network, despite growth in on-chain fees.
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.

@@ -1,0 +1,31 @@
+History is full of companies that missed out on big technological changes. Many of them thought they were carefully timing their participation in the market, but I believe they may have been looking at the wrong measures of adoption and consequently made the wrong decisions. That pattern is about to repeat itself with blockchain. The issue here is that when it comes to technology, the battle over standards and market leadership is usually decided before mass adoption.
+
+The result is that by the time most companies notice that the market is entering a mass-adoption phase, it’s too late to change the course of the market. The market for personal computers arguably started in 1977. A decade later, in 1987, less than 15% of all American households had a personal computer, but by then, Microsoft Windows was the market leader with more than half the market. (Great perspective from Asymco.com here and here and here.)
+
+Paul Brody is EY's Global Blockchain leader.
+
+The pattern repeated itself in the smartphone category. Nokia can be said to have kicked off the market with the Symbian ecosystem in 2000. Email-focused smartphones followed in 2003 and then touch-based smartphones in 2007. By 2011, even though adoption was still less than about 20% of the market, we already had the same two market leaders we know today.
+
+The pattern appears to have largely repeated itself in the world of cloud computing and networking systems. Even though both markets are largely based on open-source technologies and well-understood published standards, they remain dominated by the original leaders, even after decades of determined and big spending competition. The market leader in networks has a 50% share, and the market leader in cloud has a 32% share.
+
+And so there is a lesson here for the world of blockchain: Time is running out. That’s true for alternative blockchains, for legacy players, for everyone who isn’t already knee-deep in this business to become a serious player. Depending on the starting point you select (Bitcoin in 2009 or Ethereum in 2015), we are seven to 12 years into this market development. Estimates vary, but the more reliable ones point to between 8% and 10% of all Americans already own some cryptocurrency. The window to create a leadership position seems to close around 10-12 years after a market is created, and so that time is near, if it hasn’t already arrived.
+
+The most astonishing aspect about market leadership in technology is how little it depends on the technology itself.
+
+Just how close we are to the end of the game can be hard to discern in the day-to-day fog of competitive warfare. Between 1985 and 1990, you wouldn’t have been in bad company if you had picked up a Commodore Amiga (as I did) or an Atari ST. In the mid-2000s, you were in similarly good company if you eschewed complicated touch screens for the reliability of a smartphone with keys.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Not only would you have been in good company for choosing different smartphones or PCs, you would have also been right in pointing out the enormous flaws in the market leaders. A black and white PC in 1985? Only 640 kilobytes of memory? The same kinds of absurdities can be found in the world of blockchain. The carbon footprint for Bitcoin and the transaction gas fees (the fee required to successfully conduct a transaction on Ethereum) can only be described as obscene.
+
+These problems did not destroy their ecosystems, however. They got fixed, often imperfectly and with much grumbling, and people moved on. When PCs with extended memory arrived, the solution was criticized as a clumsy workaround. People bought them in huge numbers anyway. Expect roughly the same reception to any “solution” to Bitcoin’s carbon footprint.
+
+I believe the dominant players in the world of blockchain are clearly visible now as well. Bitcoin represents a bigger market capitalization than every other blockchain combined and appears to be on track to become the preferred digital store of value. Likewise, Ethereum has more developers than every other blockchain combined, and is similarly on track to becoming the preferred economic infrastructure for the next generation of developers. At the same time, companies like Aave, Binance, Coinbase and Compound Labs are busy staking out the high ground in this ecosystem around specific value propositions.
+
+I’ve spent five years at EY doing everything I can to make sure that we don’t just participate in this market, but that we lead it. I don’t think I will know if we succeeded for another decade, but I am sure that the critical time is now, and I find myself struggling at times to communicate to others my intense sense of urgency in a market that many think is just in its infant stages.
+
+If there is one final reason to act with urgency, it’s not just that the window for market leadership is closing. It is also unlikely to reopen. There were better operating systems back in 1987 than the market leaders, and that was also true in 2000, 2010 and 2020.
+
+The most astonishing aspect about market leadership in technology is how little it depends on the technology itself. There is always something better out there. The strength of the platform may have started in the technology, but in the end, it is much more driven by the total investment, the installed base and the developer community.
+
+In the next year or two, you can expect many technology and financial services companies to explain their plans to enter the blockchain market. In nearly every case, they will cite the low penetration of the technology in their industry or market as evidence that it’s “early days yet” and they have “plenty of time” to formulate their strategy and leverage their legacy market position. It isn’t. They don’t.

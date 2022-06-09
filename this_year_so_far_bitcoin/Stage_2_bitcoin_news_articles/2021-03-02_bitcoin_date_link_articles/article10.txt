@@ -1,0 +1,27 @@
+Influentials like Elon Musk and star stock picker Cathy Woods have helped send bitcoin’s price soaring in recent weeks.
+
+But investors weighing the popular cryptocurrency need to consider the ethics surrounding it as well—since a significant portion of it is “mined” in China’s Xinjiang, where Beijing is accused of conducting mass human rights abuses.
+
+In cryptocurrency mining, people use enormous power-hungry computers to solve algorithmic puzzles and in return get rewarded with new bitcoin. That makes cheap energy integral to bitcoin. As of April last year, around 65% of bitcoin mining capacity, or hashrate, was based in China due to its cheap electricity.
+
+Xinjiang, which has vast coal resources, accounted for over half, or 36%, of this computational power in the country, according to the Cambridge Bitcoin Electricity Consumption Index, an online tool developed by the British university.
+
+Trading cryptocurrencies is banned in China, but bitcoin mining is legal, at least for now. Companies that produce bitcoin mining gear such as Bitmain, the largest player in this industry, are even running out of inventory due to strong demand for bitcoin and a global shortage in chips.
+
+The importance of Xinjiang to cryptocurrency rose steadily over the latest period for which Cambridge has data. The autonomous region in China’s northwest went from accounting for 14.4% of bitcoin mining in 2019 in China to its current share, followed by Sichuan, Inner Mongolia and Yunnan province, according to the index.
+
+The situation poses a serious reputational challenge for bitcoin, or probably any cryptocurrency trader and investor.
+
+An estimated 1 million Uyghur Muslims and other ethnic minorities have been held in China’s so-called re-education camps. First-person accounts from previous detainees and reports from human rights groups suggest that rape, torture, and forced sterilization have taken place in the facilities, leading to at least three countries declaring Beijing’s treatment of Uyghurs “genocide.”
+
+Outgoing US state secretary Mike Pompeo made such a declaration, while Canadian and Dutch lawmakers voted on motions this month to make the same finding.
+
+Beijing has rejected such accusations and describes the camps as vocational training centers that it says help the Uyghurs, who are largely Muslim, to eradicate extremist thoughts.
+
+In addition to the reputational fallout the cryptocurrency could bring, there are also regulatory concerns. The US government in January issued a sweeping ban on imports containing any cotton or tomato products originating in Xinjiang citing China’s use of forced labor there, a move that would force US fashion brands to find alternative sources for its $1.5 billion annual imports of garments containing materials from the region.
+
+In a similar vein companies like Tesla, which has already been heavily engaged with China, could also face similar regulatory challenges over its investment in the cryptocurrency. The company founded by Musk has made around $1 billion from its investments in bitcoin in paper profits, according to Wedbush Securities. Tesla didn’t immediately reply to a request for comment.
+
+Meanwhile, there are signs that crypto mining will become less reliant on China in time. Already, China’s overall share of hashrate has declined from as high as 76% in September 2019. Beijing has vowed to halt carbon emissions which come mostly from coal-fired plants (such as those generating electricity for bitcoin mining equipment), cement, and other heavy industries, and has stepped up efforts to urge provinces to reduce their energy consumption. Inner Mongolia, which accounted for 8.7% of bitcoin mining in China as of last April, is set to ban crypto mining by April this year to meet Beijing’s requirement. Some miners have also started to explore the use of alternative cheap energy like surplus natural gas, shifting their focus from China to countries like Iceland, Norway, and Canada.
+
+But its Xinjiang problem, which looks unlikely to be resolved in the short term, is a test for the bitcoin community’s conscience.

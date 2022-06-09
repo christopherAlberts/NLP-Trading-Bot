@@ -1,0 +1,19 @@
+There’s a case to be made that Dogecoin — a meme-based currency that relies on hype to increase its value — may be one of the most environmentally-friendly cryptocurrencies out there, according to a new report.
+
+The report TRG Datacenters reviewed each of the major cryptocurrencies to see how many kilowatt-hours were consumed per transaction. This is based on the energy needed to produce the algorithms that produce the cryptocurrency.
+
+Overall, the report found Dogecoin to be second on the list, only behind the cryptocurrency XRP.
+
+Some of the bigger ones — like Bitcoin and Ethereum — ranked high on the list. According to an email from TRG Datacenters, this is probably because of those coins “dominance and popularity within the market.”
+
+Here’s the breakdown in kilowatt-hours consumed per transaction
+
+XRP — 0.0079 Dogecoin — 0.12 Cardano — 0.5479 Litecoin — 18.522 Bitcoin Cash — 18.957 Ethereum — 62.56 Bitcoin — 707
+
+The process of creating a cryptocurrency is an exhaustive one. We’ve previously written an explainer on the process of mining it, which takes a lot of energy for computers to literally create the currency.
+
+One miner told the Deseret News that he could be burning 1,900 watts at any given time. His electricity bill jumped to $230 per month because of the process.
+
+Some miners spend time in China because energy is cheaper there, according to our explainer.
+
+To put it all in perspective, Bitcoin uses more energy in a year than the entire country of Argentina, according to BBC News.

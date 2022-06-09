@@ -1,0 +1,23 @@
+The quality of your coffee may soon be determined by a robot
+
+The days of experts gathering in a sealed-off room to sip coffee and grade beans on their color, aroma and taste may be numbered.
+
+An Israeli company has developed a handheld device that is able to scan beans to determine their quality. The machine, powered by artificial intelligence, will need a human to input the quality parameters first, but after that, it will be able to classify coffee before it’s even roasted. The company has completed a pilot program with Carcafe, the Colombian division of Volcafe, one of the world’s largest coffee traders.
+
+A shift to computers would upend the traditional way coffee has been graded by humans, known as cupping. The well-paid and trained examiners, or Q graders, at the ICE Futures U.S. exchange in New York conduct the laborious task of determining the quality and value of the coffee beans received by the bourse. Trading houses and roasters also usually have their own graders.
+
+Cupping is an involved process, not unlike that undertaken by wine sommeliers. Q graders weigh the coffee and grind it into a cup. They sniff the dry grounds, taking notes on the fragrance. Water heated to 200 degrees Fahrenheit (93 Celsius) is poured over the grounds and the graders smell the wet coffee. After 4 minutes, the crust that forms on top of the cup is broken and grounds and foam are removed. After waiting 15 minutes for the coffee to cool, and only then is the coffee slurped up in a spoon.
+
+“It’s the human that establishes the sensorial part,” said Oswaldo Aranha Neto, a coffee industry veteran who just joined Demetria as a board member. “You need to teach the robot what to do.”
+
+Demetria last month closed a US$3 million seed funding round led by Latin American-Israeli investor Celeritas and a group of private investors including Mercantil Colpatria, the investment branch of Colombia’s Grupo Colpatria.
+
+Volcafe, a unit of ED&F Man, is in the process of adopting the technology and rolling it out, seeking “to greatly increase the efficiency and effectiveness of our prospecting process at our purchase points and in the field,” said general manager Sebastian Pinzón.
+
+Aranha Neto expects the industry to adopt the system before it filters down the chain to growers, as roasters usually have set quality parameters they are looking for. Demetria’s Chief Executive Officer Felipe Ayerbe added the tool will also help growers generate coffee with the characteristics buyers want, possibly helping fetch better prices.
+
+The technology could also help the exchange, which struggled to grade beans during the pandemic due to social-distancing rules. It could also help resolve quality disputes in the market, Aranha Neto said. If adopted by the exchange, traders could also potentially use the device to scan their coffee before they ship it, reducing the risk beans will fail the bourse’s grading.
+
+Demetria is also working with the Colombian National Federation for Coffee Growers to develop a series of apps that help farmers control and track bean quality, and price it accordingly, they said.
+
+“The ‘wine-ification’ of coffee means that levels of discernment and premiums for the beverage have been increasing exponentially, yet the perception and treatment of coffee farmers differs vastly compared to that of vineyard owners,” said Eduardo Shoval, Demetria’s co-founder and executive chairman.

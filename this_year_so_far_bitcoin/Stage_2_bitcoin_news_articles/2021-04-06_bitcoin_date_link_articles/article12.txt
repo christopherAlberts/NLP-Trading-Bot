@@ -1,0 +1,51 @@
+TALLINN, Estonia, April 6, 2021 /PRNewswire/ -- NordikCoin, the Estonian cryptocurrency exchange, is launching full Bitcoin Lightning protocol support.
+
+The Lightning protocol is a second-layer payment protocol that enables peer-to-peer cryptocurrency transactions outside the main blockchain to make them more efficient and cost-effective. NordikCoin's implementation of the new technology is currently in the beta stage, with selected users being able to send Bitcoin via the Lightning Network.
+
+Crypto Exchange NordikCoin Launches Bitcoin Lightning Support
+
+Supporting the rising demand for Bitcoin
+
+Bitcoin has been on the rise for years, but the past several months have been the most exciting for Bitcoin enthusiasts. On March 14, 2021, Bitcoin hit a new record high of $60,743, suggesting that its value will keep increasing with rising demand.
+
+To support that demand, NordikCoin keeps expanding its services. It provides free Bitcoin wallets and enables users to buy Bitcoin in under five minutes by utilizing a fully automated, legally compliant KYC process. The company operates from Tallinn, Estonia, servicing customers all over the world. With its host of electronic ID solutions and cybersecurity practices in place, it ensures straightforward, safe, and secure Bitcoin transactions.
+
+Positioning itself as an innovative cryptocurrency exchange, NordikCoin is now launching full support for the Lightning Network protocol. It will enable its users to make fast off-chain Bitcoin transactions that will incur lower fees.
+
+How the Lightning protocol works
+
+The Lightning Network is built on a network of payment channels. A payment channel consists of funds divided between two parties, where one party can send part of the funds on their end over to the other end at any time, off-chain. A participant on the Lightning Network can send payments to any other participant by trustlessly sending their payment through a chain of payment channels across the network.
+
+A payment channel can be closed at any time by settling it as a single transaction on the blockchain. In the normal, cooperative case, the funds are available on-chain as quickly as any other on-chain transaction. In the case that one party does not cooperate, the funds are secured by a smart contract that ensures that each party can always close the channel to settle the funds on-chain.
+
+Key advantages of the Lightning protocol
+
+The Lightning protocol has numerous advantages over "regular" Bitcoin transactions. One of the most prominent among them is the extremely low fees. As Lightning transactions do not result in an on-chain transaction, there is no fee to pay for the use of the limited blockchain space.
+
+As NordikCoin will settle transactions on an innovative peer-to-peer network built atop the Bitcoin blockchain, it will enable near-zero transaction fees.
+
+Another benefit of the protocol is instant transfers for users. There's no need to wait for all the necessary confirmations to buy or sell Bitcoin since everything happens off-chain.
+
+But being off-chain doesn't mean less security — quite the contrary. While all funds are secured by a smart contract that can be settled on-chain at any time, the Lightning protocol offers more anonymity and increased privacy, as payments are only known to the sender, receiver and any intermediary nodes, with the full payment route known only to the sender.
+
+David De Marco, CEO of Omni Matrix Ltd, NordikCoin's parent company, shares his thoughts on the future of the Lightning protocol:
+
+"With the Lightning Network maturing, we should see increased adoption from both consumers and businesses. In the larger context, we may see a divergence in use cases for both Bitcoin and Lightning, in which Bitcoin transactions may be for large transfers of wealth and Lightning for more commercial activities. We see NordikCoin's implementation of the promising technology as yet another step toward its widespread adoption."
+
+More information
+
+David De Marco
+
+CEO of Omni Matrix Ltd., parent company of NordikCoin
+
+E-mail: [email protected]
+
+Related Images
+
+crypto-exchange-nordikcoin.jpg
+
+Crypto Exchange NordikCoin Launches Bitcoin Lightning Support
+
+Crypto Exchange NordikCoin Launches Bitcoin Lightning Support
+
+SOURCE NordikCoin.com

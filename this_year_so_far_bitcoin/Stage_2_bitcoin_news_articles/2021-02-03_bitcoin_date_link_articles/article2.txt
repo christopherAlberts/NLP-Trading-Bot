@@ -1,0 +1,65 @@
+Bitcoin’s Taproot upgrade is (basically) a shoe-in as Bitcoin stakeholders figure out the best way to bring it online.
+
+Digital signatures are created from the private keys that control bitcoin wallets and are required to approve transactions. Taproot addresses will use Schnorr signatures, rather than Bitcoin’s current signature algorithm, the elliptic curve digital signature algorithm, or ECDSA for short.
+
+In terms of data and processing, Schnorr signatures are smaller and faster than ECDSA signatures and also have the added benefit of being “linear,” which means Schnorr-based smart contracts can be optimized for functions that ECDSA signatures cannot.
+
+These differences have made Taproot a highly anticipated upgrade because it will give Bitcoin a boost to transaction privacy and allow for more lightweight and complex “smart contracts” (an encoded contract with self-executing rules).
+
+The tooling and coding improvements Taproot brings will be largely under the hood and will be a boon to developers. Regular Bitcoin users, however, will also benefit from usability, performance, and privacy improvements to multisignature (multisig) technology, privacy software and even scaling tech like the Lightning Network.
+
+Without Taproot, applying the following upgrades to these softwares would either not be possible or not be as viable.
+
+MuSig2: Boosting privacy and efficiency of multisig transactions
+
+Bitcoin development hub Blockstream is developing a new multisig software, MuSig2, which will make multisig transactions more efficient, cheaper and more private.
+
+Unlike usual Bitcoin wallets, which only require a single signature from a private key, multisig wallets require at least two or more signatures from different private keys to approve a transaction. The idea is to distribute the risk of a wallet among multiple keys and, if needed, multiple parties.
+
+Under the current design with ECDSA contracts, multisig transactions record the signature of each multisig participant individually. Schnorr signatures would allow each signature to be recorded as one signature on the blockchain, making the transactions more lightweight in data, and thus cheaper.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+“[Taproot] benefits multisig wallets such as Blockstream Green because using MuSig2 is cheaper and more private than current multisig setups,” Blockstream researcher and applied cryptographer Jonas Nick told CoinDesk.
+
+The Bitcoin upgrade will also raise the limit on signers a multisig wallet allows from 15 to a “much higher number,” said Bitcoin developer Chris Belcher.
+
+Schnorr-signature based transactions are more private because, thanks to so-called scriptless scripts, all Taproot transactions have the same digital footprint. That means a single signature transaction and a multisig transaction look the same on the blockchain under Taproot’s rules.
+
+This privacy improvement spills over into other areas of Bitcoin’s development, too.
+
+“MuSig2 also improves efficiency of multi-party contracts such as Lightning Channels, CoinSwaps or discrete log contracts, and improves the privacy of routing in the Lightning Network by enabling ‘scriptless scripts.’ This also means that the anonymity set of regular transactions would become larger because, for a blockchain observer, it could just as well be part of a multi-party contract or multisig wallet,” Nick said.
+
+CoinSwap: Disguising mixed coin transactions
+
+All of the softwares Nick referenced rely on multisig wallets to bind market participants in cryptographically reinforced rules of engagement called smart contracts.
+
+One of these, the privacy protocol CoinSwap, is widely considered to be the best successor to CoinJoin, currently the most popular software for “mixing” bitcoins to obscure their transaction history.
+
+One shortcoming of CoinSwap’s precursors including CoinJoin is such transactions show up as distinctly different from normal ones. This makes it easier for blockchain analysis to pinpoint CoinJoins on-chain, thwarting any privacy benefits.
+
+According to Belcher, Bitcoin’s Taproot upgrade will fix this problem.
+
+“A good benefit of Taproot is also that it allows scriptless scripts. As you may know, protocols like Lightning Network and CoinSwap depend on so-called hash time locked contracts. Currently these contracts are visible on the blockchain. The thing that scriptless scripts allows is for those contracts to also look exactly the same as a Taproot single-sig transaction.”
+
+Point Time Lock Contracts: Making Lightning More Private
+
+As Belcher points out, Bitcoin’s Lightning Network uses hash time locked contracts (HTLCs) to facilitate transactions. But Schnorr Signatures would pave the way for point time lock contracts (PTLCs), an improvement on HTLCs that allow for more private and efficient smart contracts for Lightning.
+
+The privacy gain comes from a modification to how Lightning Network nodes “route” transactions. Lightning transactions must be sent directly and peer-to-peer on what are called “payment channels.” Otherwise, lacking this direct connection, payments must be routed through peers to which both the sender and receiver are connected.
+
+Lightning Network nodes route transactions by passing on a hash of the payment to each node on that payment’s path. PTLCs alter this hash by adding random info at each hop to make the payment less traceable to any party conducting blockchain surveillance.
+
+Additionally, PTLCs will enable more complex smart contract logic to facilitate unprecedented blockchain escrow conditions and to improve oracles. (Since a blockchain can’t process data outside of its network, an oracle feeds this data to it.)
+
+“Technically, [PTLCs] could be done today with ECDSA but it doesn’t have the same proven security, and if it was implemented it would have to be redone once we get Taproot,” Ben Carman, a developer at Suredbits, told CoinDesk.
+
+Other Taproot improvements
+
+Carman and his colleagues at Suredbits have been working on discrete log contracts (DLCs), a fairly new smart contract logic for Bitcoin that, while working today, will be more flexible and easier to use when Bitcoin’s Taproot upgrade kicks in.
+
+Belcher told CoinDesk that Schnorr signatures will also enable “batched validation” wherein a Bitcoin full node could “validate 1,000 Taproot signatures in nearly the same time it takes to validate one [ECDSA] signature.” This scaling solution would significantly speed the time it takes a node to verify all signatures in a block.
+
+Additionally, Taproot could use “ring signatures” to give users the ability to prove they own certain coins without having to reveal the public key associated with those coins.
+
+“That means someone could prove that they own a certain coin without revealing which exact coin. For example, it would be possible to prove you own at least 1 BTC (or any amount) by doing a ring signature over all the Taproot [unspent transactions] worth more than 1 BTC, and yet it doesn’t actually reveal which is yours,” Belcher said.

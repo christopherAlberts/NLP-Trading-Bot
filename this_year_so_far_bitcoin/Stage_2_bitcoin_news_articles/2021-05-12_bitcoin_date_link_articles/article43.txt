@@ -1,0 +1,183 @@
+Crypto at a glance
+
+After a brief dip yesterday, Ethereum has come roaring back to another new all-time high of more than $4,300 this morning. It now has a market capitalisation of just below $500 billion, which makes it the 16th largest asset in the world. That puts it above JP Morgan and Visa and means the smart contracts giant is now bigger than any bank. How much further can it climb?
+
+Ethereum’s latest push puts its market dominance at over 20 per cent – the highest it’s been since February 2018. The swing away from Bitcoin comes as the leading cryptocurrency continues to trade sideways. It’s up three per cent over the last 24 hours to $57,000, remaining in that corridor between $50k-$60k where it’s spent much of the past three months.
+
+None of this is to say that things are quiet with Bitcoin at the moment, with institutions and the retail market alike continuing to pile in. It was reported yesterday that software giant Palantir is now accepting Bitcoin as payment and that investing in it as a treasury reserve asset is “definitely on the table”.
+
+A new NYDIG survey also found that roughly 17 per cent of the adult population in the US own at least some Bitcoin – about 46 million Americans. Has Bitcoin finally gone mainstream?
+
+The big gainer yesterday was eos (EOS), which is up 44 per cent at time of writing – an 83 per cent gain over the last seven days. Blockchain software firm Block.one has announced plans to launch a cryptocurrency exchange subsidiary — dubbed “Bullish Global” — will run on the EOS blockchain. The EOSIO developer revealed that it had raised capital to the tune of $10 billion for the crypto exchange.
+
+All feedback on Crypto AM Daily in association with Luno is welcome via email to James.Bowater@cityam.com 🙏🏻
+
+In the Markets
+
+The Bitcoin economy
+
+*Definitions and insights can be found at https://bytetree.com/insights/
+
+Total crypto market cap
+
+The total capitalisation of the entire cryptocurrency market at time of writing is currently $2,537,973,102,588, up from $2,413,548,767,170 yesterday.
+
+What Bitcoin did yesterday
+
+We closed yesterday, 11 May, 2021, at a price of $56,704.57, down from $55,859.80 the day before.
+
+The daily high yesterday was $56,872.54 and the daily low was $54,608.65.
+
+This time last year, the price of Bitcoin closed the day at $8,601.80. In 2019, it closed at $7,204.77.
+
+Bitcoin market capitalisation
+
+Bitcoin’s market capitalisation at time of writing is $1.07 trillion, down from $1.038 trillion yesterday. To put that into context, the market cap of gold is $11.646 trillion and Alphabet (Google) is $1.534 trillion.
+
+Bitcoin volume
+
+The total spot trading volume reported by all exchanges over the last 24 hours was $62,341,270,503, down from $74,229,970,352 yesterday. High volumes can indicate that a significant price movement has stronger support and is more likely to be sustained.
+
+Volatility
+
+The price volatility of Bitcoin over the last 30 days is 58.74%.
+
+Fear and Greed Index
+
+Market sentiment today is at 68, up from 61 yesterday.
+
+Bitcoin’s market dominance
+
+Bitcoin’s market dominance today is 43.98, down from 45.35 yesterday. Its lowest ever recorded dominance was 37.09 on January 8, 2018.
+
+Relative Strength Index (RSI)
+
+The daily RSI is currently 49.83, up from 46.17 yesterday. Values of 70 or above indicate that an asset is becoming overbought and may be primed for a trend reversal or experience a correction in price – an RSI reading of 30 or below indicates an oversold or undervalued condition.
+
+Convince your Nan: Soundbite of the day
+
+“Well, you probably don’t remember this joke, but five or six years ago, I said that that crypto was a solution in search of a problem. And that’s why I didn’t play crypto the first wave because we already have the dollar. What do we need to look for? Well, the problem has been clearly identified. It’s Jerome Powell and the rest of the world, central bankers. There’s a lack of trust. So sort of groping for an answer for a central case.” – Billionaire hedge fund manager Stanley Druckenmiller
+
+What they said yesterday
+
+He knows his onions…
+
+Palantir says it may add bitcoin to its balance sheethttps://t.co/Rh8HLtkt0t — Steve Kovach (@stevekovach) May 11, 2021
+
+Incoming…
+
+The finance industry is taking crypto mainstream by building #Bitcoin into their insurance, banking, & investment products. @Newsweek says 46 million Americans now own Bitcoin.https://t.co/Wj6Ymk0hYU — Michael Saylor (@michael_saylor) May 12, 2021
+
+It is indeed…
+
+What a great time to be alive…to be part of this!! #bitcoin https://t.co/DhnTnbsIbL — Caitlin Long 🔑 (@CaitlinLong_) May 12, 2021
+
+This tweet aged well…
+
+The grip centralized finance companies have on world’s population is waning
+
+
+
+Power being devolved to the people is evident in rise of Decentralized Finance
+
+
+
+Ethereum, the largest platform for DeFi, is worth more than every bank except JPMorgan
+
+
+
+May letter https://t.co/8JxNsXS04S pic.twitter.com/7e9VQ0ycut — Dan Morehead (@dan_pantera) May 10, 2021
+
+Crypto AM Editor writes
+
+Ethereum yet to take off and is on track for $5,200 soon say experts…
+
+Ethereum punches through $3,000 with market cap bigger than Bank of America…
+
+Ethereum closing in on $3,000 as Bitcoin eases off the throttle…
+
+Cardano teams up with Save the Children for humanitarian initiative…
+
+HMRC were not clamping down on crypto…
+
+Binance jumps on the NFT market…
+
+Ethiopia overhauls its educational system with IOHK blockchain partnership…
+
+Crypto AM: Longer Reads
+
+City AM Markets: What is Decentralised Finance (DeFi) by Aave
+
+Crypto AM: Conversation with James Bowater
+
+Crypto AM: Market View
+
+Crypto AM: Technically Speaking
+
+Crypto AM: A Trader’s View with TMG
+
+Crypto AM: Mixing in the Metaverse with Dr Chris Kacher
+
+Crypto AM: Talking Legal
+
+Crypto AM: Spotlight
+
+Crypto AM: Founders Series
+
+Crypto AM: Industry Voices
+
+Crypto AM: Tiptoe through the Crypto with Monty Munford
+
+Crypto AM: Definitively DeFi
+
+Crypto AM Parliamentary Special
+
+Part one of two – April 2021
+
+Part two of two – April 2021
+
+Five Part Series – March 2021
+
+Part one
+
+Part two
+
+Part three
+
+Part four
+
+Part five
+
+Crypto AM: Recommended Events
+
+Crypto AM DeFi & Digital Inclusion Online Summit powered by Cointelligence Fund
+
+May 20 2021
+
+AIBC World
+
+May 26 to 26 2021 – Dubai
+
+https://aibc.world/events/uae/general-info/
+
+Bitcoin 2021
+
+June 3 to 5 2021 – Miami
+
+https://b.tc/conference
+
+Crypto AM City of London Roundtable
+
+Crypto AM DeFi & Digital Inclusion Summit
+
+&
+
+Crypto AM Awards 2021
+
+September 29 and 30 2021
+
+Cautionary Notes
+
+It’s definitely tempting to get swept up in the excitement, but please heed these words of caution: Do your own research, only invest what you can afford, and make good decisions. The indicators contained in this article will hopefully help in this. Remember though, the content of this article is for information purposes only and is not investment advice or any form of recommendation or invitation. City AM, Crypto AM and Luno always advise you to obtain your own independent financial advice before investing or trading in cryptocurrency.
+
+All information is correct as of 08:30am GMT.

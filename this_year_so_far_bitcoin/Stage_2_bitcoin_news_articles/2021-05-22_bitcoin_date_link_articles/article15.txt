@@ -1,0 +1,49 @@
+Commentary: Critics have long chastised cryptocurrencies for inordinate waste. Jack Dorsey makes the argument that, in fact, Bitcoin could drive renewable energy.
+
+Image: Andriy Onufriyenko/Moment/Getty Images
+
+Despite dramatic swings in their value, bitcoin and other cryptocurrencies have never been more popular. That may not be a good thing. Or perhaps it might--it depends on who you believe.
+
+A recent Square white paper made the argument that Bitcoin, oft cast as a voracious consumer of coal-powered energy, might actually become the central driver of green energy sources like wind and solar. Jack Dorsey, CEO of Square and Twitter, seems to endorse that argument in his tweet on April 21, 2021 about that white paper: "#bitcoin incentivizes renewable energy."
+
+It's a bold argument, and one that Bitcoin critic David Gerard told the BBC amounts to a "cynical exercise in bitcoin greenwashing." If you're confused, you're not alone. Tesla founder Elon Musk has been a big proponent (and buyer) of Bitcoin, but reversed course in a tweet on May 13, 2021, calling the energy consumption "insane." Musk also suggested cryptocurrency "has a promising future, but this cannot come at great cost to the environment." So who is right: Dorsey or Musk? The answer, as ever, is "it depends."
+
+SEE: Cryptocurrency glossary: From Bitcoin and Dogecoin to hot wallets and whales (TechRepublic Premium)
+
+Money to burn
+
+In general, companies seem to be trying to minimize their impact on the environment. In tech, the clouds and others have plans in place to reduce carbon output while shifting to renewable energy sources. Outside of tech, the same is true of airlines like Delta, automotive manufacturers like Ford and food companies like Nestlé. Bitcoin, the most well-known of the cryptocurrencies, however, has traditionally gone the opposite direction. That is, to generate money in the land of bitcoin, you must employ more hardware to spin more CPUs, GPUs or ASICs.
+
+Just how much energy are we talking about? By some estimates, Bitcoin mining consumes 78 TWh (terrawatt hours) each year, which equates to the energy consumption of several million U.S. households. Or put another way, Bitcoin energy use in 2019 equaled the total energy output of Switzerland, as reported by the BBC. In that same article, PwC analyst Alex de Vries explained that despite its tremendous consumption of energy, Bitcoin processes fewer than 100 million financial transactions per year. If that sounds like a lot, it's not. The traditional financial services industry handles 500 billion transactions each year. In other words, this is a lot of energy to benefit relatively few people.
+
+Most of those transactions (75%, according to a new study published in Nature) happen in China, where two-thirds of energy is coal-powered. Unfortunately, the environmental problem with Bitcoin, Stephen Diehl wrote, is intrinsic:
+
+The underlying technology of bitcoin is based on the notion of "mining", a technical term for a process that keeps the network running and processing transactions….[T]he premise of bitcoin mining is to prove how much power you can waste, and the more power you can waste, the more tokens you can probabilistically secure in exchange for your energy waste. And so people have set up entire warehouses of computer hardware dedicated to run 24/7 consuming power and performing the trial computations required by the protocol. Globally this consumes nation state levels of energy to keep it all running.
+
+This paints a dire picture of the impact Bitcoin and other cryptocurrencies have on the planet, but it also assumes no changes in how they source energy. Yet the crypto crowd has been looking for other ways to power their mining. For example, Bitcoin sibling Ethereum has touted plans to cut energy costs, and miners have been looking to move to hydro/renewable power sources. This is where Dorsey and Musk get involved.
+
+SEE: There's more to cryptocurrency than Bitcoin: 5 other digital coins to consider (free PDF) (TechRepublic)
+
+Does Bitcoin incentivize renewable energy?
+
+While Diehl argued that bitcoin is inherently wasteful, Dorsey turned this argument on its head in his tweet that "#bitcoin incentivizes renewable energy." Not long after Dorsey's tweet about Square's paper on Bitcoin, Tesla CEO (and Bitcoin buyer) Elon Musk concurred with a one-word tweet: "True."
+
+True — Elon Musk (@elonmusk) April 22, 2021
+
+If this seems counterintuitive, let's start with the tl;dr offered by Phil Geiger in a January 2018 Medium post: "Mining is about maximizing the number of hashes (computations) per kW of electricity. Currently, the most efficient way to generate the highest hashes/k is through the use of solar energy and hydro-electric, because those are the cheapest ways to produce electricity."
+
+Of course, this isn't inherently true. Coal or other fossil fuel-based energy can become cheaper energy sources through the normal ebb and flow of supply and demand, and the Bitcoin miners would shift to those sources because, well, profit.
+
+According to the Square white paper, Bitcoin is perfectly suited to the characteristics of renewable energy like solar and wind, in part because of the nature of Bitcoin mining:
+
+Bitcoin miners are unique energy buyers in that they offer highly flexible and easily interruptible load, provide payout in a globally liquid cryptocurrency, and are completely location agnostic, requiring only an internet connection. These combined qualities constitute an extraordinary asset, an energy buyer of last resort that can be turned on or off at a moment's notice anywhere in the world.
+
+This flexibility is important because solar (creates energy during the day) and wind (creates energy mostly at night) doesn't match up to when people tend to consume the most energy (when they get home from work and before bed). While there are still energy storage and transmission issues to resolve, the fact that miners don't need to operate at a particular period during the day means they can more easily tap into these renewable energy sources.
+
+It's an interesting argument, and one that may (or may not) prove to be true in practice. But given that cryptocurrencies don't seem to be going away anytime soon, it's hopeful that Bitcoin and other cryptocurrencies will, in fact, find self-interest in burning relatively clean energy.
+
+Disclosure: I work for AWS, but the views expressed herein are mine.
+
+Tech News You Can Use Newsletter We deliver the top business tech news stories about the companies, the people, and the products revolutionizing the planet. Delivered Daily Sign up today
+
+Also see

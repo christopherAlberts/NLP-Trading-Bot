@@ -1,0 +1,71 @@
+A natural gas flare on an oil well pad burns as the sun sets outside Watford City, North Dakota January 21, 2016. REUTERS/Andrew Cullen
+
+On U.S. oil patches stretching along the Rockies and Great Plains, trailers hitched to trucks back up toward well pads to capture natural gas and convert it on the spot into electricity.
+
+The trailers - carrying pipes, generators and computers - are called “mining rigs.” But their owners aren’t there to drill for oil. They are using stray natural gas unwanted by oil companies to power their search for another treasure: cryptocurrencies like Bitcoin.
+
+Cryptocurrencies are virtual coins exchanged without middlemen, such as central banks, to purchase goods and services. Extracting the currency from cyberspace, however, requires vast amounts of often-expensive electricity. Supercomputers must run constantly in a race against other “miners” to solve complex math problems in order to unlock digital vaults holding the currency.
+
+Placed in mobile trailers, these supercomputers run as hot as 160 degrees Fahrenheit (71 degrees Celsius), and in the cold of western North Dakota, people stay warm just by sitting near them, cryptocurrency miners say.
+
+The miners are increasingly sending these rigs out to oil fields because it’s one of the cheapest ways to obtain the energy they need. Oil and natural gas come from the same wells, but at these sites, drillers are seeking crude oil and have no pipelines to get the gas to market. That typically forces them to burn it off in a process called flaring - creating carbon dioxide emissions - or to vent it into the atmosphere directly as methane.
+
+"The sweet spot for us is stranded, low volumes of gas that don't justify a pipeline," said Steve Degenfelder, land manager at Wyoming-based producer Kirkwood Oil and Gas LLC, which has formed an alliance with Bitcoin miners.
+
+Oil companies face pressure from investors and government officials to reduce emissions that lead to global warming. Sometimes they give the gas away for free to cryptocurrency miners; other times they sell it.
+
+"Oil and gas companies don't like to flare their gas - that's money that's burning away," said Degenfelder, which works with miners connected to EZ Blockchain, a Chicago-based energy and technology company, to cut flaring at some of its 600 oil wells across the Rocky Mountains.
+
+HIGHLY UNCERTAIN
+
+Some environmental advocates and investors say cryptocurrencies are not a long-term solution to unwanted natural gas emissions, both because the currency’s future is highly uncertain and because Bitcoin and other cryptocurrency companies produce their own emissions.
+
+The global Bitcoin industry’s overall C02 emissions have risen to 60 million tons, equal to the exhaust from about 9 million cars. That’s up from 20 million tons from two years ago, according to a March report by Bank of America analysts.
+
+Values of Bitcoin, the best known cryptocurrency, plunged from record highs after billionaire Elon Musk tweeted that his electric car company Tesla Inc would no longer take the virtual coins as payment, citing concerns over "rapidly increasing use of fossil fuels for Bitcoin mining and transactions.” The currency plunged in value over two weeks before starting to recover Thursday.
+
+Andrew Logan, senior director of oil and gas at Ceres, the Boston-based clean-energy investor group, said there are better ways to use stranded gas, including to power hospitals and schools. However, that would require building pipelines to carry the product out of the oil patch, he said.
+
+"I think we need much more durable and long-term solutions that really bring that gas to market and let it be used for whatever its highest purpose is," he said.
+
+Proponents say the new oil-cryptocurrency alliances in North America move mining for virtual coins away from Asia, home to more than 60% of such operations, which largely rely on coal-powered electricity. Coal combustion produces roughly twice as much C02 as natural gas.
+
+"It helps cut emissions at (an oil) producer level, but also globally by reducing mining in parts of the world where coal is likely the power source," said Mark Le Dain, vice president of strategy at oil and gas software company Validere Technologies Inc, which tracks energy molecules and their use.
+
+Environmental advocates and some investors note, however, that the harmful emissions don’t disappear - they are transferred from one industry to another.
+
+"It's not like you're eliminating the emissions, it's that you're turning them into this other thing, Bitcoin,” Logan said.
+
+CATCHING IMAGINATIONS
+
+The allure of Bitcoin remains for miners despite the challenges of cryptocurrency markets. Even after the recent price crash, a single Bitcoin was worth more than $40,000 on Thursday - almost 90 times its value five years ago, according to Refinitiv Eikon data.
+
+Some cryptocurrency mining companies say the mobility of their natural gas-fueled operations is key, giving them flexibility to draw natural gas from different sites as it becomes available.
+
+"The idea that you could plug in these (computers) and then take them somewhere else just really caught my imagination," said Haley Thomson, a former electricity trader and president of new cryptocurrency mining company Imperium Digital.
+
+A variety of business models have been born. In some cases, cryptocurrency miners pay the oil firms for their natural gas wholly or in part using the coins they mine. In the case of Kirkwood, EZ Blockchain uses stranded natural gas to make Bitcoin, giving it all to Kirkwood. EZ Blockchain makes money by supplying equipment and mining services for a fee.
+
+Industry experts and academics who study energy uses say there are fewer than 10 large-scale Bitcoin mining companies in North America that run on stranded natural gas. Many cryptocurrency miners run smaller operations in the United States and Canada - some fueled by a single well.
+
+But some major oil companies have signed on.
+
+In North Dakota, a top oil-producing state, Norway's Equinor ASA (EQNR.OL) and Canada's Enerplus Corp (ERF.TO) are among those that have used such mining to reduce flaring, company spokespeople confirmed to Reuters.
+
+Denver-based Crusoe Energy Systems Inc is one of the continent’s largest Bitcoin mining companies using otherwise stranded gas. It expects to double its current staff of 55 this year, said Cully Cavness, co-founder and a former oil and gas engineer.
+
+Crusoe has about 40 mobile containers in oil shale basins. It plans on increasing that number to 100 after receiving $128 million in financing last month from investors including Chicago-based firm Valor Equity Partners LP and Lowercarbon Capital.
+
+Crusoe’s partners have included Kraken Oil & Gas Partners LLC, which produces about 10,000 bpd of oil, making the company the largest oil producer in Montana.
+
+"We're going to need a lot more people," Cavness said.
+
+Meanwhile, government regulations and incentives are in the offing that could benefit oil and cryptocurrency companies.
+
+The U.S. Senate passed a measure in April to reverse former President Donald Trump's weakening of methane emission regulations. That could fuel the use of Bitcoin mining to cut flaring, academic experts said. Lawmakers in Texas and New Mexico also are looking to crack down on emissions.
+
+North Dakota and Wyoming this year passed laws that give tax breaks to oil producers that provide gas to cryptocurrency and other data miners that would otherwise have been flared.
+
+“I think it’s gonna be a big chunk at what we look at for the future in North Dakota,” said state Senator Dale Patten, who authored North Dakota’s bill.
+
+Our Standards: The Thomson Reuters Trust Principles.

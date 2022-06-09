@@ -1,0 +1,73 @@
+The founder of a failed B.C. cryptocurrency exchange has been ordered to pay $535,000 to a man who agreed to sell him 50 bitcoin in 2019 — despite the fact the missing commodity is now worth more than $3 million.
+
+According to a B.C. Supreme Court judgment, Michael Gokturk wrote to Scott Nelson in August 2019, two months after Nelson transferred bitcoin into Gokturk's digital wallet at an agreed price of $10,700 a piece.
+
+Within months, Gokturk's Einstein Exchange would shut its doors amid a B.C. Securities Commission investigation, a cloud of complaints, lawsuits and debts of $16 million owing to customers.
+
+"None of this is your problem and I owe you what I owe you," Gokturk wrote to Nelson, who was asking for the money he'd been promised.
+
+"Keep these text messages and email records as proof. I am sorry I have been avoiding you. This has been the absolute worst year of my entire existence. These are not excuses, I just don't know what to tell you besides the truth."
+
+'Wire is being set up right now'
+
+The details of the correspondence are contained in a B.C. Supreme ruling released this week.
+
+Nelson, a Vancouver technology entrepreneur, sued Gokturk for breach of contract in 2019, asking for either the amount the bitcoin was worth on the open market on Feb. 16, 2021 — $3,084,393 — or the amount Gokturk originally agreed to pay.
+
+The Einstein Exchange shut its doors in 2019 after a slew of complaints. An interim receiver found that the company had assets of $45,000 and debts of $16 million. (Yvette Brend/CBC)
+
+In coming to a decision, Justice Sheila Tucker found Gokturk had breached a contract that concluded on June 7, 2019, when he sent Nelson a text reading: "BTC received! Thank you. Wire is being set up right now. Will send you confirmation."
+
+Tucker said the law required her to award Nelson the amount lost at the time of the breach, not the amount his bitcoin would be worth in 2021, following recent astronomical gains.
+
+"Using the date of breach to assess the damages puts the defendant in the position he would have been had the contract been fulfilled, Tucker wrote.
+
+"The fact that [bitcoin] is worth more now than it was at the time of the contract does not result in an injustice."
+
+'No one will lose their money here'
+
+The judgment comes a year and a half after accountants estimated that the Einstein Exchange had "hard" assets of $30,000 in cash and less than $15,000 in cryptocurrency when the court appointed an interim receiver to take control of the company on Nov. 1, 2019.
+
+The same report noted that customers were owed around $16 million, noting Nelson's lawsuit and another call from a creditor who said they were owed $7 million but had not yet filed a claim with the court.
+
+A visual representation of the digital cryptocurrency, bitcoin. Bitcoin has seen a massive increase in value, which poses a question for judges trying to determine the value of the loss in a contract breach. (Dan Kitwood/Getty Images)
+
+Gokturk spoke to the CBC in January 2018 about a storm of online criticism that accompanied the opening of the exchange. Customers claimed that staff were slow to respond and expressed fear they might lose their money.
+
+At the time, Gokturk claimed his team was overwhelmed by the response and demand for digital currency and promised that "no one will lose their money here."
+
+Gokturk has filed responses to a number of B.C. Supreme Court claims in the months since the collapse of the Einstein Exchange, arguing that he was not personally liable for agreements made with the company.
+
+The responses claim the customers signed agreements acknowledging that "some digital currency exchanges had been the subject of cyberattacks that have resulted in the loss or theft of digital currencies to their users and there is a risk that a similar cyberattack could affect Einstein's services and result in the theft or loss of your digital currencies."
+
+According to Tucker's decision, Gokturk's counsel withdrew last November, after which he stopped responding to Nelson's lawyer and failed to attend an examination for discovery.
+
+He did not respond to a request for comment through LinkedIn.
+
+'Which date do you use?'
+
+Evan Thomas, a Toronto-based litigator with Osler who specializes in digital assets and blockchain, says Tucker's decision is notable because it's one of only a few in a growing body of Canadian law to deal with disputes involving cryptocurrency.
+
+He says it's interesting to see judges treat bitcoin as property in the same way as a physical asset like a gold bar.
+
+Thomas says courts have also had to grapple with the question of how to determine the value of a commodity that has seen such rapid shifts in worth in recent months.
+
+A B.C. Supreme Court judge has ruled that the founder of a collapsed bitcoin exchange must pay $535,000 for breaking a contract to purchase 50 bitcoin. (David Horemans/CBC)
+
+In the past year alone, bitcoin has risen from around $13,000 Cdn per unit to highs of nearly $80,000. One bitcoin was worth $68,000 Cdn Thursday.
+
+"This has come up before in cases about how do you value bitcoin, a cryptocurrency which is a bit unique in commodities in that the prices can change quite dramatically over relatively short periods of times," he said.
+
+"So, of course, there's an obvious question: which date do you use?"
+
+Thomas says it's well-settled law that breach of contract disputes assign value at the date the breach occurred — which in Gokturk and Nelson's agreement was June 2019, "when the buyer actually failed to pay the money for the bitcoin."
+
+The decision says Nelson doesn't know whether Gokturk sold the 50 bitcoin and if he still has any or all of it in his possession.
+
+Thomas says it's easy to see how Nelson might feel out of pocket by $2.5 million, even if Gokturk pays the court-ordered amount.
+
+But had bitcoin dropped in value instead of soaring in the interim, Thomas says Nelson likely would not have asked for 50 worthless bitcoin as compensation.
+
+"The law says it you're going to make that argument when the price goes down, you have to live by the same argument if the price goes up," Thomas said.
+
+"We can all disagree on whether that's fair or not, but that's just what the law is."

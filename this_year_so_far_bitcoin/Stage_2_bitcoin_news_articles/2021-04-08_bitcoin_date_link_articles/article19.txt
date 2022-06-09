@@ -1,0 +1,11 @@
+VideoCoin is integrating its decentralized video processing network with Filecoin to build the first platform specifically designed for creating and trading video NFTs.
+
+NFTs are revolutionizing the way digital collectibles are created and traded, while video-based NFTs specifically hold the potential to unleash original digital works from the world’s creative communities and create new revenue streams for owners of video catalogs (movies, TV shows, sporting events, etc.).
+
+Through its integration with Filecoin, VideoCoin is architecting a solution to reliably create, store and trade video-based NFTs that circumvents the inherent complexity and expense of storing actual data on Ethereum. The Video NFT platform will create and store a proof of ownership alongside the video NFT that solves a major pain point in today’s NFT landscape of not being able to prove ownership of, for example, a work of art. Proof of ownership on Filecoin will enable a whole new class of applications for NFTs alongside digital collectibles, including video origin verification.
+
+Filecoin is a large distributed blockchain storage network and ideally suited for the video NFT platform; the project recently announced it had exceeded 2.5 billion gigabytes of storage capacity through its global community. Such capacity is more than enough to, for example, store 725 million 1080p high resolution movie files.
+
+“Video NFTs are a natural evolution to the NFT movement we are seeing in Web3, especially given how entrenched video is in everyone’s lives. VideoCoin’s integration of IPFS & Filecoin is a new technology stack that could power the creation of permanent digital memories and collectibles,” said Colin Evran, the Filecoin team’s ecosystem lead.
+
+The Video NFT platform being developed with Filecoin represents the project’s largest initiative to bring content creators to the VideoCoin Network ecosystem and reflects how VideoCoin Network is redefining the future of video by creating a new means of ownership and video delivery.

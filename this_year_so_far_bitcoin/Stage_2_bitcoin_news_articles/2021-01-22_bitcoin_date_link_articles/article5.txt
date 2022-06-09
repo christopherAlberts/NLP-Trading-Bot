@@ -1,0 +1,67 @@
+Crypto markets have reversed course across the board and are flashing green Friday. Bitcoin crossed over $32,000 and ether is rallying hard in 2021 so far.
+
+Bitcoin (BTC) trading around $33,608 as of 21:00 UTC (4 p.m. ET). Gaining 5.3% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $28,845-$33,873 (CoinDesk 20)
+
+BTC above the 10-hour and the 50-hour moving averages on the hourly chart, a bullish signal for market technicians.
+
+Bitcoin trading on Bitstamp since Jan. 19. Source: TradingView
+
+Bitcoin’s price was on an uptrend Friday, a marked reversal from the past several days. The price per 1 BTC bottomed out at $28,845 around 01:00 UTC (8:00 p.m. ET Thursday) and since then the world’s oldest cryptocurrency has been on an upward run. It reached as high as $33,873, according to CoinDesk 20 data, an appreciation of over 17% in that time span. Price has since settled somewhat, at $33,608 as of press time.
+
+Guy Hirsch, U.S. managing director for multi-asset brokerage eToro, says one support level, where traders scoop up bitcoin to push the price back up, seems to have taken hold, leading to the reversal Friday. “There appears to be strong support around $30,000, as prices have rebounded to trade north of $32,000,” Hirsch told CoinDesk. This consolidation is likely the result of smart money continuing to buy bitcoin at a perceived discount.
+
+Historical bitcoin price over the past year. Source: CoinDesk 20
+
+Quantitative trading firm QCP Capital echoed a similar sentiment about the $30,000 level in its most recent investor letter published Friday. “In the near term, we’re expecting a key battle at the $30,000 spot level. This battle for the $30,000 weekly close will be key.”
+
+In the derivatives market, bitcoin funding rates for swaps continue heading towards zero, particularly on venue FTX, which currently has the lowest rate, at 0.0318%. This signals leveraged demand to go long is dissipating.
+
+Bitcoin perpetual swaps funding on major venues the past week. Source: Skew
+
+“We pay close attention to weekend price action and the leveraged [perpetual] funding rates to gauge retail interest,” QCP noted Friday.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Read More: Bitcoin Exchange LVL Launches Mastercard Debit Card
+
+In the futures market, total open interest (OI) on the eight exchanges monitored by the CoinDesk 20 was at $11 billion Thursday, down from Tuesday’s record high of $13 billion. That is a sign institutional investors are losing interest and may be unwinding some of their positions.
+
+Bitcoin futures on major venues the past six months. Source: Skew
+
+“After the BTC top two weeks ago, the strength in U.S. hours has lost momentum for the first time,” QCP also noted. “This is a clear sign of exhaustion in demand from the U.S. institutions and corporates [that] have been the primary drivers of this bull run.”
+
+Yet, macroeconomics may come into play, eToro’s Hirsch noted to CoinDesk. “With economic uncertainty continuing as the COVID-19 pandemic continues raging and central bank money printing continues unchecked, I’d expect more people to eventually rotate back into bitcoin in the not-too-distant future.”
+
+Ether blowing out bitcoin in 2021
+
+Ether (ETH), the second-largest cryptocurrency by market capitalization, was up Friday, trading around $1,253 and climbing 4% in 24 hours as of 21:00 UTC (4:00 p.m. ET).
+
+Read More: Mining Pools Threaten to Collude Against Contentious Ethereum Update
+
+While bitcoin has gained more than 15% thus far in 2021, ether is doing much better, up over 70% over the same time frame. “Ether appears to have finally broken its recent lockstep correlation with bitcoin, as evidenced by its more rapid recovery after a sell-off, which also appears to have been fueled by profit taking after the second-largest crypto asset hit an all-time high earlier this week,” noted eToro’s Guy Hirsch.
+
+Spot ether (blue) versus bitcoin (gold) on Bitstamp so far in 2021. Source: TradingView
+
+Jake Brukhman, chief executive officer of crypto investment firm CoinFund, told CoinDesk investors are taking profits made from bitcoin and trading into ether and other assets given the 2021 price performance and high profile of bitcoin.
+
+“I think the major assets are going through a dynamic of high hitting, consolidation and rotation,” Brukhman said. “Bitcoin hits [a] high, then consolidates and the money flows into ether. Then ether hits a high, then consolidates and the money flows into polkadot.”
+
+Other markets
+
+Digital assets on the CoinDesk 20 are mostly green Friday. Notable winners as of 21:00 UTC (4:00 p.m. ET):
+
+One notable loser:
+
+Equities:
+
+Commodities:
+
+Oil was down 1.8%. Price per barrel of West Texas Intermediate crude: $52.05.
+
+Gold was in the red 0.85% and at $1,853 as of press time.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield fell Friday to 1.084 and in the red 2.3%.

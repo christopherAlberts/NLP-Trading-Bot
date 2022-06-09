@@ -1,0 +1,93 @@
+It has been a low-volume Friday to cap an up-and-down week for cryptocurrencies. News out of China had traders hitting the sell button during a two-hour dump before the selling leveled off.
+
+Bitcoin (BTC) trading around $36,224 as of 21:00 UTC (4 p.m. ET). Losing 9.7% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $36,224-$42,163 (CoinDesk 20)
+
+Ether (ETH) trading around $2,363 as of 21:00 UTC (4 p.m. ET). In the red 15.5% over the previous 24 hours.
+
+Ether’s 24-hour range: $2,363-$2,929 (CoinDesk 20)
+
+Bitcoin slips as volume evaporates
+
+Bitcoin’s hourly price chart on Bitstamp since May 18. Source: TradingView
+
+Bitcoin, the world’s largest cryptocurrency by market capitalization, was down 9.7% as of press time Friday. BTC was below the 10-hour moving average and the 50-day, a bearish signal for market technicians.
+
+According to spot data from Bitstamp, BTC is headed for its second straight week declining 20% or more, on track for a 37% decline over the two-week period, on a par with March 2020’s market bloodbath.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+The main catalyst for the move down Friday was a statement from a China’s State Council on BTC: “We should crack down on bitcoin mining and trading activities and prevent individual risks from being passed to the whole society.”
+
+Within two hours, bitcoin fell from $41,454 around 14:15 UTC (10:15 a.m. ET) to as low as $36,880, an 11% decrease, based on CoinDesk 20 data. Bitcoin is still falling, at $36,224 as of press time.
+
+“I expect BTC/USD to range around $38,000 for a while,” said George Clayton, managing partner at investment firm Cryptanalysis Capital.
+
+After a 2021 record volume day for bitcoin on Wednesday, Friday is shaping up to be a downer heading into the weekend. At around $4 billion Friday, volume has decreased 75% decrease from $16 billion in volume on Wednesday, based on CoinDesk Research’s data on eight major spot bitcoin exchanges.
+
+Anticipating consolidation
+
+Bitcoin volumes on major venues the past month. Source: CryptoCompare
+
+Neil Van Huis, director of sales and institutional trading at crypto market maker Blockfills, says “consolidation,” a period of low volume and subsequent price discovery due to lack of liquidity, might be a market factor this weekend.
+
+“I’m anticipating some consolidation where markets may have previously broken out from,” said Van Huis. “I think the market appears to be digesting the move down in a very fair fashion and we will soon know what it wants to do next.”
+
+Bitcoin options traders don’t know what to do with $50K
+
+Bitcoin options open interest by strike. Source: Skew
+
+In the bitcoin derivatives market over 16,700 BTC is centered on a $50,000 strike price, the highest open interest. However, the split between puts and calls is almost even. A put is a right but not an obligation to sell an asset while a call is the right but not an obligation to buy an asset – both within a specific time frame, known as expiration.
+
+It’s an intriguing development because bitcoin has not been at the $50,000 price level in over a week and it’s possibly a sign smart options traders are taking both sides of the trade at that level.
+
+“The open interest doesn’t indicate directionality,” noted Vishal Shah, founder of crypto derivatives exchange Alpha5.
+
+ETH volatility up
+
+30-day volatility for ten major CoinDesk 20 assets. Source: CoinDesk Research
+
+Since the beginning of April, 30-day volatility for 10 brand-name crypto assets on the CoinDesk 20 have all climbed, including bitcoin. However, it is ethereum classic (ETC) and ether that are in the stratosphere of wild price gyrations. Both assets have over 30-day volatility at 250% as of closing data from Thursday.
+
+“The part that stands out the most is that volatility has exploded recently, with many assets experiencing over 200% realized, which is huge,” said Rich Rosenblum, president of crypto market maker GSR. “Then, at the same time, BTC volatility is elevated vs. its lull a few weeks ago, but certainly muted relative to the rest, staying at under 100%.”
+
+Deribit’s “DVOL” index for ether the past month. Source: Genesis Volatility
+
+Greg Magadini, chief executive officer, Genesis Volatility, noted that ETH’s “DVOL” metric, which is a volatility measure similar to traditional markets’ VIX and tracked by options exchange Deribit, is up to 180. It’s record high was Thursday, at 190. He says realized volatility, which is derived from analyzing historical returns, is now priced into the market.
+
+“Although we’ve come down from peak realized volatility seen in the past few days, over +300%, volatility is known to cluster,” said Magadini. “The options markets are pricing in over +100% implied volatility for all expirations and about 150% for near-dated options.”
+
+Ether dominance dumps
+
+Ether’s hourly price chart on Bitstamp since May 18. Source: TradingView
+
+Ether, the second-largest cryptocurrency by market capitalization, was trading around $2,363 as of 21:00 UTC (4:00 p.m. ET), slipping 15.5% over the prior 24 hours. The asset is below the 10-hour moving average as well as the 50-day, a bearish signal for market technicians.
+
+Ether dumped from $2,740 around 14:15 UTC (10:15 a.m. ET) to $2,426 by 16:15 UTC (12:15 p.m. ET), a $314 decrease based on CoinDesk 20 data. ETH is still slipping, at $2,363 as of press time.
+
+Nick Mancini, research analyst at crypto sentiment analytics platform Trade the Chain, says major blockchain assets like bitcoin and ether are still seen positively, despite recent price dumps and volatility jumps.
+
+“Going forward, long-term sentiment scores for most crypto, especially bitcoin and ether, are still high, in the 70s, despite all of the recent turmoil,” Mancini. “which means the bullish thesis remains intact.”
+
+The bullish thesis may be holding overall, but traders have clearly been losing some interest in ether versus other cryptocurrencies. Ether’s dominance, its share of the greater cryptocurrency market, has started to drop. After hitting a 2021 high of 20.61% May 15, ETH dominance has started to falter, below 18% share and down 2% the past 24 hours as of press time.
+
+Ether’s market dominance in 2021 so far. Source: TradingView
+
+Other markets
+
+Digital assets on the CoinDesk 20 are all red Friday. Notable losers as of 21:00 UTC (4:00 p.m. ET):
+
+Equities:
+
+Commodities:
+
+Oil was up 3.1%. Price per barrel of West Texas Intermediate crude: $63.85.
+
+Gold was in the green 0.13% and at $1,879 as of press time.
+
+Silver is falling, down 0.80% and changing hands at $27.53.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield fell Friday to 1.622 and in the red 0.42%.

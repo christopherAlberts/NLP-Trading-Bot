@@ -1,0 +1,21 @@
+Bit Digital will be colocating in Compute North facilities to leverage its renewable-energy-focused design for bitcoin mining.
+
+Bit Digital, one of the largest bitcoin mining companies in North America by hash rate, is expanding its operations by colocating in Compute North facilities, adding an additional 40 megawatts of hashing power with 13,000 new ASIC miners to its arsenal, according to a press release.
+
+Nasdaq-listed Bit Digital (BTBT), headquartered in New York, positioned the partnership as one that ups its ability to meet increasing demand from investors for sustainable bitcoin mining.
+
+“The move accelerates Bit Digital's expansion strategy in North America, and highlights its focus on sustainability,” per the release.
+
+Compute North, a data center and bitcoin mining giant headquartered in Minnesota, with operations in Texas, South Dakota, and Nebraska, recently expanded with the help of Foundry Digital. It uses a data center design that lets it throttle power demand at each of its facilities as needed so it can offer better stability as local power grids onboard more renewable energy sources.
+
+“Compute North serves an important role in providing low-cost computing for customers like Bit Digital, while filling an important need for our energy partners,” said Compute North founder and chairman PJ Lee in the release.
+
+Compute North’s (and now Bit Digital’s) approach is to establish a facility that serves as a counterpart to renewable energy use. If wind or solar are not available, the company can switch to other power sources.During the recent ice storms in Texas, for instance, some miners were able to send energy directly to the grid to compensate for damage to wind and solar installations.
+
+Bit Digital is seeing a sea change coming to the mining industry as investment firms set up committees to vet for sustainability and companies like Square promote and support miners in integrating green energy technologies.
+
+“On the energy supply side, we are evaluating new renewable sources to complement our existing renewables-based mining,” Bit Digital CEO Bryan Bullett said in the release. “On the demand side, we are embracing demand response programs like Compute North’s. We refer to this as ‘Mining 2.0’ – a multi-pronged strategy to activate our ability to dynamically manage power usage, both to manage costs, and to accelerate adoption of renewable energy sources for mining, and for the grid generally.”
+
+The amalgamation of Bit Digital and Compute North’s mining equipment is expected to be completed this summer.
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.

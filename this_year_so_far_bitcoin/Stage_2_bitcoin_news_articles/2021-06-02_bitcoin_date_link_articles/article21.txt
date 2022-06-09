@@ -1,0 +1,47 @@
+Bitcoin was first introduced in a 2009 white paper, Bitcoin: A Peer-to-Peer Electronic Cash System.[1] Since then, cryptocurrencies[2], also known as virtual or digital currencies, have exploded, with thousands of different types in circulation, achieving a $2T market cap in early 2021[3], and with the number of blockchain wallet users rising to more than 70 million as of May 2021.[4]
+
+However, the blockchain concept, which makes cryptocurrency possible, remains a mystery to most. For years, niche groups profited from this often-mysterious and confusing technology; however, as recently as 2014, well-known companies such as Overstock began making a foray into the cryptocurrency arena by accepting BTC (currently the market leading cryptocurrency) as payment for online purchases.[5] The financial industry later followed with JPMorgan launching a cryptocurrency exposure basket[6], and Goldman Sachs endorsing cryptocurrency as a new asset class.[7] While not all businesses have billions to invest in this new asset class, savvy industry leaders appear to be paying attention to these market makers’ moves as a sign of things to come.
+
+In 2020, many investors flocked to cryptocurrency as an inflation hedge[8], as the recent stimulus packages passed by Congress initiated the start of dramatic inflation which has yet to be fully realized.[9] Many businesses are already feeling such impacts, especially those in the construction industry where lumber and other material prices have increased significantly over the last year.[10]
+
+In January 2021, Tesla made news by announcing that it would buy $1.5B in Bitcoin and start accepting BTC as payment for its cars. However, this was short-lived. Despite touting cryptocurrency generally, in May, Elon Musk announced that Tesla would no longer accept BTC payments stating that it would resume doing so once “mining transitions to more sustainable energy”, noting that Tesla is seeking a cryptocurrency that uses significantly less energy per transaction than BTC[11], which is capped at approximately 7 transactions per second by its software regardless of processing power.[12] Shortly after these announcements, BTC’s price fell significantly, bringing the entire cryptocurrency market with it.
+
+For the uninitiated, cryptocurrency is a history of encrypted transactions, known as a blockchain, recorded on a distributed ledger, which is audited by a network of computers, commonly called “miners”, that confirm the legitimacy of transactions. In most cases, a distributed ledger is a public database that shows what amount of cryptocurrency is held in each wallet, when incremental amounts were received, and from where they came.[13] While wallet addresses are typically public, ownership of wallets is more difficult to determine as cryptocurrencies are decentralized, lending anonymity to the system.[14] Cryptocurrency decentralization means there is not a single governing body, but instead users and the software itself dictate transaction flows.
+
+Cryptocurrency features are built into the software at the beginning of a cryptocurrency’s life, and when the need for change arises, new cryptocurrencies are typically created through “forks”[15], rather than allowing changes to the software. Cryptocurrencies typically have a capped “token” supply or a set inflation rate for token generation. A token is a unit of ownership and can be backed by physical assets or by nothing at all. Often, a single token is denominated into one-hundred-millionths of a unit, often called “satoshis” or “sats” inspired by the pseudonym of the author for the 2009 white paper, Satoshi Nakamoto. Blockchain technology has many use cases. Some examples include smart contracts, which facilitate automatically executing multi-party transactions, while others include security features such as increased mining complexity and transaction confirmation requirements (which may one day replace paper stocks) tradeable in real-time, with the potential to function as cash replacements facilitating transactions efficient enough to buy a soda at a point of sale.
+
+Due to cryptocurrencies’ fixed or predictable supplies, some argue that widespread adoption of cryptocurrency permits businesses to peg future expenses to a non-inflationary or fixed-inflation asset, which can bring stability to strategic forecasting of future expenses along with many other benefits; though, others argue that the deflationary trends of most cryptocurrencies created by their fixed supplies will prevent their use as a global currency.[16] As indicated by Tesla’s actions, however, we still have much to learn before widespread adoption of virtual currency will occur. Our next article on cryptocurrency will examine the state of the legal framework surrounding the cryptocurrency industry.[17]
+
+[1] Satoshi Nakamoto, Bitcoin: A Peer-to-Peer Electronic Cash System, bitcoin.org, https://bitcoin.org/bitcoin.pdf (last visited May 26, 2021).
+
+[2] While Bitcoin (BTC) is the most well-known cryptocurrency, many others exist such as Ethereum (ETH), Monero (XMR), Solana (SOL), Bitcoin SV (BSV), and Ravencoin (RVN), which all have different use cases.
+
+[3] CoinMarketCap, https://coinmarketcap.com/ (last visited May 25, 2021).
+
+[4] Number of Blockchain wallet users worldwide from November 2011 to May 18, 2021, Statista, https://www.statista.com/statistics/647374/worldwide-blockchain-wallet-users/ (last visited May 26, 2021).
+
+[5] Rob Wile, Someone Already Bought A $2,700 13-Piece Patio Set On Overstock.com Using Bitcoin, Business Insider, (Jan. 9, 2014), https://www.businessinsider.com/overstockcom-is-now-officially-accepting-bitcoin-2014-1.
+
+[6] Insight Notes Linked to the J.P. Morgan Basket of Companies with Exposure to Cryptocurrency (Mar 2021) due May 5, 2022, U.S. Securities and Exchange Commission, https://www.sec.gov/Archives/edgar/data/0001665650/000121390021014247/s131027_424b2.htm (last visited May 26, 2021).
+
+[7] Crypto: A new asset class?, Goldman Sachs – Global Macro Research (May 21, 2021, 6:00pm) https://www.goldmansachs.com/insights/pages/crypto-a-new-asset-class-f/report.pdf.
+
+[8] Erik Schatzker, Paul Tudor Jones Buys Bitcoin as a Hedge Against Inflation, Bloomberg, (May 7, 2020, 3:46pm), https://www.bloomberg.com/news/articles/2020-05-07/paul-tudor-jones-buys-bitcoin-says-he-s-reminded-of-gold-in-70s.
+
+[9] William Watts, Hot inflation readings drive data surprises ‘almost off the chart’, MarketWatch (May 25, 2021 3:20pm), https://www.marketwatch.com/story/inflation-is-running-so-hot-that-data-surprises-are-almost-off-the-chart-11621966487.
+
+[10] Framing Lumber Prices, National Association of Home Builders, https://www.nahb.org/news-and-economics/housing-economics/national-statistics/framing-lumber-prices (last visited May 25, 2021).
+
+[11] @elonmusk, Twitter, (May 12, 2021, 6:06pm) https://twitter.com/elonmusk/status/1392602041025843203?s=20; see also New York Senate Bill S6486A https://www.nysenate.gov/legislation/bills/2021/s6486 (bill seeking to establish moratorium on operation of a cryptocurrency mining centers until completion of a full generic environmental impact statement review).
+
+[12] See Bitcoin scalability problem, Wikipedia, https://en.wikipedia.org/wiki/Bitcoin_scalability_problem (last visited May 26, 2021).
+
+[13] E.g., Bitcoin SV Explorer, Blockchair, https://blockchair.com/bitcoin-sv (last visited May 26, 2021).
+
+[14] Some cryptocurrencies, such as Monero (XMR), differentiate themselves with features that increase anonymity of transactions. One way this is done is by eliminating the public visibility element of the distributed ledger. See Monero, https://www.getmonero.org/ (last visited May 26, 2021). This makes XMR an favorable cryptocurrency for hackers seeking a ransom. See Tanzeel Akhtar, Acer reportedly hit with $50M crypto-ransomware demand, Coindesk (Mar. 22, 2021 2:27pm) https://www.coindesk.com/acer-reportedly-hit-with-50m-crypto-ransomware-demand.
+
+[15] What is a bitcoin fork?, Robinhood, (Dec. 29, 2020) https://learn.robinhood.com/articles/106Xi5TFQK4pAFB1jSaijz/what-is-a-bitcoin-fork/.
+
+[16] Frances Coppola, Is a Global Digital Reserve Currency on the Horizon?, American Express, https://www.americanexpress.com/us/foreign-exchange/articles/is-global-digital-reserve-currency-on-horizon/ (last visited May 26, 2021).
+
+[17] Link to full Disclaimer: Information on Vandeventer Black’s website is for informational purposes only; the information is general and may not reflect the current state of law. Contents are provided “as-is.” Information on this website should not be considered professional legal or financial advice and should not be acted on without consulting a qualified lawyer or other professional in the appropriate jurisdiction.

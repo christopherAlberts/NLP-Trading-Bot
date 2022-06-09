@@ -1,0 +1,45 @@
+New data from Pantera Capital, an investment firm and hedge fund, suggests that Bitcoin’s (BTC) current price action is closely following the stock-to-follow model’s trajectory and the firm’s analysts believe BTC will reach $115,212 by Aug. 1.
+
+Bitcoin’s parabolic rally may have placed the price a bit ahead of the model’s projection and this week’s 28% correction sent temporary shivers across the market but sharp corrections and short consolidation periods are characteristic of bull markets.
+
+Halving stock-to-flow projection. Source: Pantera Capital
+
+The model focuses on the price impact of Bitcoin halving events that cut the amount of Bitcoin minted every block in half every 4 years.
+
+According to the model, the impact of decreasing Bitcoin’s supply becomes present roughly 6 months after each halving. When Bitcoin price halved on May 11, 2020 the price was around $8,000 and 6 months later BTC was trading above $15,000 and on the verge of entering a parabolic rally to a new all-time high.
+
+Bitcoin price after halvings. Source: Halving Tracker
+
+The chart above shows the progress of Bitcoin’s price in the days after each halving. A similar pattern developed over the past two halvings, just with a differing time span. The current BTC performance appears to be in between the 2012 market 2016 cycles, which has the potential to lead to a price of Bitcoin between $300,000 and $400,000 around 450 days after the last halving, or roughly Aug. 4.
+
+Signs of a maturing market
+
+Another significant difference between this rally and 2017 has to do with the overall market composition and where value is located. A majority of the value of the current market is consolidated in Bitcoin and Ether (ETH) as institutional investors have thus far chosen the most established chains to gain exposure to the cryptocurrency sector.
+
+Andy Yee, a Public Policy Director for Visa in Greater China, pointed to this development in a Tweet response to Pantera’s report:
+
+“This rally is different. Massive shift from high-speculative, non-functioning tokens in 2017 to #Bitcoin and #Ethereum today, according to PanteraCapital.”
+
+Cryptocurrency market concentration. Source: Pantera Capital
+
+As shown in the chart above, Bitcoin and Ether have 86% of the value. The other 5,000 chains have 14%. While BTC was peaking late in 2017, the two top coins had a total of 52% of the value, indicating that BTC and ETH have consolidated their market share over the past three years.
+
+Possible reasons for this shift in funds include institutional money focusing on Bitcoin as an entry point into the cryptocurrency market due to its network security and vast mining infrastructure, and the burgeoning decentralized finance ecosystem which is predominantly built on the Ethereum network.
+
+As the DeFi ecosystem continues to grow it will also attract institutional attention, further boosting the price of Ether as it is required to interact with all smart contracts and DeFi platforms on the Ethereum network.
+
+Data from defipulse shows that the total value locked in DeFi now stands at $29.98 billion, near its all-time high of $23.116 billion.
+
+Total value locked in DeFi. Source: Defi Pulse
+
+As the TVL increases, so does the value of the top ecosystem coins including AAVE and Synthetix (SNX). Trading volume on the top decentralized exchanges, such as Uniswap and SushiSwap, continues to grow with data from Dune Analytics showing that the combined weekly DEX volume recently surpassed $13 billion.
+
+Weekly DEX Volume. Source: Dune Analytics
+
+Institutional inflow to Bitcoin may trigger a new altcoin season
+
+While Bitcoin and Ether currently hold 86% of the cryptocurrency market value, past market cycles would indicate the possible flow of funds out of the top cryptocurrencies and into promising new projects. This dynamic has led analysts like Raoul Pal to suggest that after Bitcoin and Ether’s stellar rally, the “next stop will be higher risk alts.”
+
+Media have also reported that Goldman Sachs is rumored to be preparing to offer custody services for cryptocurrencies could set the stage for the next hype cycle for Bitcoin. A sustained inflow of money from the institutional class could be the catalyst that lifts the price of Bitcoin and keeps it in line with the projections of the stock-to-flow model.
+
+The views and opinions expressed here are solely those of the author and do not necessarily reflect the views of Cointelegraph.com. Every investment and trading move involves risk, you should conduct your own research when making a decision.

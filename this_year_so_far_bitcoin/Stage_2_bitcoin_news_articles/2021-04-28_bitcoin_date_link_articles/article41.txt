@@ -1,0 +1,25 @@
+This post originally appeared on Medium as part of a three-part series on Bitcoin smart contracts, and we republished with permission from Xiaohui Liu. Read part 1 here.
+
+Fair coin toss without deposit
+
+In the previous article, we generalize Bitcoin smart contracts to include optional off-chain validation part, besides the conventional on-chain part consisting of Bitcoin Script. We applied the concept on a fully on-chain coin toss, by disincentivizing parties from aborting using deposit.
+
+In this article, we implement an alternative contract for achieving fair coin toss as developed in reference¹. It acts as another example of how to design such hybrid smart contracts with on-chain and off-chain parts. Smart contract is defined as a protocol where distrusting parties can transact per their mutual agreement securely, without a trusted third party. Security depends on the specific contract and can usually include properties such as: 1) honest parties who follow the contract/protocol should never lose their money; 2) dishonest parties who deviate must be detected and can optionally be penalized financially.
+
+Fair coin toss without deposit
+
+The new contract consists of the following lock steps:
+
+Alice and Bob exchanges public keys, locktime t and hash of secret numbers/nonces with each other. Bob creates Tx0. With txid of Tx0, he also creates Tx1. He gives it to Alice. He does not sign it yet, otherwise Alice would know his secret. Alice signs Tx1 and returns it to Bob. Bob signs and adds his secret. Now Tx1 is complete, he creates Tx3 and hands it to Alice. Alice signs it and returns to Bob, who broadcasts Tx0 and Tx1. Alice now knows Bob’s secret in Tx1. Alice sends her secret to Bob and whoever wins take the bet as in the original coin toss contract. If she does not share her secret before t, Bob can sign and broadcast Tx3 to take the bet.
+
+In each step after 2, each party validates transactions off-chain locally and aborts if validation fails. These validations include: signature, t, secret hash and txid match. The contract is secure because Bob must reveal his secret to create Tx1. Alice must also do so, otherwise Bob will win by broadcasting Tx3.
+
+The HashLock contract in Tx0 is shown below:
+
+The CoinToss contract in Tx1 is the same as before, except that a function forfeit() is added.
+
+***
+
+[1] Secure Multiparty Computations on Bitcoin · Marcin Andrychowicz, Stefan Dziembowski, L. Mazurek. 2014 IEEE Symposium on Security and Privacy
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

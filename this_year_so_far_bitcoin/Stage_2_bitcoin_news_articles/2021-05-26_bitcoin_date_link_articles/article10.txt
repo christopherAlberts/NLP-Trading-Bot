@@ -1,0 +1,35 @@
+“If users decide Bitcoin’s consensus, what is a Bitcoin user?”
+
+This was one of the principal questions that arose from the Bitcoin Core “Foundations” panel this Wednesday at Consensus 2021. Moderated by Bitcoin Magazine’s technical editor Aaron Van Wirdum, veteran Bitcoin developers Adam Back, Matt Corallo, Olaoluwa Osuntokun, Rusty Russell and Eric Voskuil discussed the best ways to introduce and implement upgrades into Bitcoin.
+
+The topic is particularly salient given that Taproot, Bitcoin’s biggest upgrade since SegWit, is in the middle of activating right now.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+As Van Wirdum put it on the livestream, “Taproot has broad consensus,” but there were months of controversy from Bitcoin stakeholders over how to bring the upgrade live. Unlike a centralized system, Bitcoin’s decentralized network requires communal cooperation to successfully activate an upgrade.
+
+An upgrade is essentially a rule change, so it’s important to make sure everyone running Bitcoin’s code is using the same rules or else there may be a “chain split” that produces two incompatible transaction histories.
+
+Bitcoin developers make upgrades “backwards compatible” to avoid this scenario (i.e., newer and older versions can still have enough of the same rules to not result in a split). Still, bitcoin is a roughly $1 trillion asset now, so Taproot’s activation discussion, which culminated in the Speedy Trial activation method underway now, was slow and steady.
+
+Square Crypto Bitcoin Engineer Matt Corallo explained that, generally, there are two paths to upgrades: enforcing rules through node operators or enforcing rules through hashrate via miners. (In the case of Taproot, Speedy Trial is a crack at the latter.) The disagreement over how to activate Taproot was fought over whether or not it should be up to users to dictate upgrades or whether it’s all right to default to miner activation.
+
+How do we define a Bitcoin user?
+
+This dichotomy is complicated by the fact that, as Bitcoin developer and “Cryptoeconomics: Fundamental Properties of Bitcoin” author Eric Voskuil put it, miners are users too.
+
+Lightning Labs CTO Osuntokun highlighted the vagaries of the term “user” when using it to define consensus of Bitcoin’s community. Are users holders, spenders, code users?
+
+“I think one critical thing is that people don’t really define what you mean by user,” he mused.
+
+Voskuil, Back and Russell all reinforced the points that, from a protocol consensus perspective, only those running and using a Bitcoin node to verify their economic activity are true users (so-called “economic nodes”), given that they can choose which ruleset they choose to enforce. This voting power was crucial in tipping the scales in favor of SegWit, panelists said.
+
+“It’s the people who are validating the bitcoin that they’re receiving who are actually enforcing the rules,” Voskuil said.
+
+Further, because it’s users who enforce the rules, miners don’t control Bitcoin, Back emphasized. “There’s quite a lot of confusion about miners deciding things and essentially miners have no say. They have a say in the sense of being a Bitcoin user or having usable Bitcoin protocols, but as a miner, they don’t have any special say,” Back said.
+
+As such, Russell noted, “Miners also users. Miners are also very economic actors. Miners can also be developers,” a reminder that identifiers like “user” and “miner” are limiting and can ignore that oftentimes Bitcoin’s network participants wear many hats.
+
+So it’s important to not paint “users” and “miners” with such a broad brush, Voskuil said at the end of the panel, less so to pit them against each other. After all, miners are often treated as having more authority than they do, while economic actors running nodes (those real “users” the panelists talked about) have more power than they are usually given credit for.
+
+“I call this the kind of David and Goliath fallacy, said Voskuil. “There are the users, or the little guy, and the miners are the big guy. I think it’s not a good precedent, and it’s not good thinking either. You’ve really got Goliath versus Goliath if you’re going to pair those two off against each other.”

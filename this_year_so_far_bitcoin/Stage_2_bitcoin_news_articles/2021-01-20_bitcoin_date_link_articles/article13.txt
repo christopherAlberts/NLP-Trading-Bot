@@ -1,0 +1,13 @@
+New data released by Trading Platforms indicates that it costs USD25.2 million per day in electricity to process bitcoin transactions. The consumption cost is based on bitcoin’s 30-day average transaction of 328,418 as of 17 January, 2021, and the energy footprint per 1 BTC transaction confirmation of 612 kWh equivalent to USD76.74.
+
+The data also overviews annualised bitcoin electricity consumption in TWh between October 2015 and January 2021. Under the theoretical upper bound, the consumption has grown by 7,717.85 per cent, while on the theoretical lower bound there is an increase of 10,867.4 per cent. Estimated electricity consumption has increased by about 10,201.1 per cent over the period.
+
+According to the research report:
+
+“The electricity used by bitcoin has resulted in apocalyptic and sensational views especially from critics of the digital currency. However, the outlook for bitcoin energy use remains largely uncertain. The future outlook will be influenced by efficiency improvements in hardware, bitcoin price trends, and regulatory restrictions on bitcoin mining. Additionally, most mining regions are expected to turn to renewable energy like solar and wind in the future. These factors combined might lower or increase the energy consumption for bitcoin transaction processing.”
+
+Additionally, Trading Platforms compared electricity consumption between bitcoin and the top ten countries where the digital asset accounted for 112 TWh.
+
+China is the leading electricity consumer with 6,510 TWh where bitcoin accounts for 1.72 per cent. bitcoin accounts for 2.89 per cent of the 3,865 TWh consumed in the United States, the second overall consumer. bitcoin’s consumption represents 9.1 per cent of India’s 1,230 TWh consumption. Russsian which ranks as the fourth at 922 TWh has bitcoin accounting for 12.14 per cent of the country’s consumption. The asset’s consumption represents 12.2 per cent of 918 TWh consumed in Japan. bitcoin represents 20.25 per cent of the 553 TWh consumed in South Korea while the consumption accounts for 20.62 per cent of 543 TWh used in Canada. Germany at 517 TWh makes bitcoin to account for 21.66 per cent.
+
+Like any other electricity-driven industry, consumption by bitcoin is leaving behind a noticeable carbon footprint. However, the number of bitcoin’s carbon footprint might significantly reduce once bitcoin mining regions adopt a wider use of renewable energy sources.

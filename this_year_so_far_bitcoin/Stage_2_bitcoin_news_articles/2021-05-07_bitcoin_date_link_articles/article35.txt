@@ -1,0 +1,29 @@
+When bitcoin was first launched in 2009, the cryptocurrency was designed as a means for users to exchange money with other parties on an independent, decentralized network with enhanced privacy and no need for a third party.
+
+However, thought of as an alternative to gold as a store of value, bitcoin instead gained mainstream traction and popularity as people began speculating on its future value. From the time of its inception in 2009, it took until Jan. 1, 2017, to cross the $1,000 threshold. By the end of 2017, bitcoin’s all-time high was almost $20,000. Although the price of bitcoin increased by 19x in 2017, the path was not a straight line. In fact, it could be more appropriately described as a rollercoaster.
+
+The history and subsequent widespread adoption of bitcoin (it makes up roughly 66% of the total crypto market) can help explain some of the growing interest since hitting the $20,000 mark.
+
+“Bitcoin has the brand name and has been around the longest,” Rene Van Kesteren, head of digital markets for Blockfi, told OpenMarkets in 2020 in explaining why it has gained more attention than other cryptos.
+
+Retail Vs. Institutional Investors
+
+Although institutional investors drive price in the open markets, the retail investor has become increasingly knowledgeable and savvy. Easy access to courses on trading stocks and futures, as well as social media and Reddit forums, have given confidence to more retail investors to enter the crypto market. In fact, according to JP Morgan, the first quarter of 2021 saw more retail trade in Bitcoin than institutional trade.
+
+Micro Bitcoin Futures
+
+Based on increasing client demand and robust growth in the bitcoin futures markets, especially from the retail trader, CME Group’s upcoming launch of Micro Bitcoin futures will add more granularity to trading and risk management strategies. One standard BTC future is equivalent to 5 BTC. However, the new Micro contract is equivalent to 1/50th the size of this contract. Identical to standard Bitcoin futures, the Micro futures have a cash settlement and do not involve the exchange of bitcoin; therefore, no digital wallet is necessary to trade them.
+
+The sheer amount of capital needed to access the futures market has significantly increased, pricing many participants out of the market. Given this dramatically reduced size, the initial margin requirements for a Micro Bitcoin contract – the minimum amount that a trader needs to post to buy or sell a contract – will drop by a factor of 50 and make Bitcoin futures trading available to accounts with a minimum of $5,000. Since much of the volume and liquidity has been traded by institutions, these new micro futures could potentially give way to a new demographic of active retail interest.
+
+Bullish Bitcoin Projections
+
+Interest from the financial industry looking at bitcoin as a long-term investment rather than a decentralized currency has been a primary driver in bitcoin’s recent robust price rise. Financial giants PayPal and Visa recently announced that they would begin allowing cryptocurrency payments on their platforms. Coinbase, the first major crypto business to go public in the U.S., began trading this month at greater than a $100 billion valuation.
+
+The increased interest from financial institutions has sparked a rally similar to the one seen in 2017, albeit with less volatility. In mid-April, Bitcoin was trading above $63,000, nearly double its price a year prior, before experiencing a slight weekend sell-off.
+
+The difference from the 2017 rally to now, as Jack Bourjoudjian told OpenMarkets earlier this year, is large buy-in from institutional firms and the presence of an established futures contract. Bullish bitcoin predictions range from $130,000 in the long term to $300,000 by the end of 2021. Bearish outcomes see a correction coming.
+
+Regardless of the future of Bitcoin and other cryptocurrencies, the ever-growing popularity is hard for institutions to ignore, and it is likely the cryptocurrency macro environment will continue to adapt as needed.
+
+Image Sourced from Pixabay

@@ -1,0 +1,31 @@
+Over 67,000 Fusions: Cashfusion Participants Have Fused Billions of Dollars in Bitcoin Cash
+
+While some crypto users have been leveraging privacy-centric digital assets like monero, others still use mixing protocols that shuffle unspent transaction outputs (UTXOs) from coins like bitcoin, ethereum, and bitcoin cash. Participants using the Bitcoin Cash network utilize applications like Cashshuffle and Cashfusion. Since Cashfusion was introduced in November 2019, there’s been 67,845 fusions or $5.9 billion worth of bitcoin cash that’s been fused.
+
+Cashshuffle Still Gets Use With 65K Shuffles Since 2019
+
+During the bull run of 2021, Bitcoin Cash network users are using Cashfusion and Cashshuffle a great deal these days. The elder and sister protocol of Cashfusion, Cashshuffle still gets used today and at the time of writing, there’s been 65,682 shuffles with 283,217 BCH shuffled in total since the protocol’s inception.
+
+Now, of course, the UTXOs were not shuffled at the current exchange rate, but that’s around $377 million in shuffled BCH using today’s exchange rates. People have been leveraging Cashshuffle with bitcoin cash (BCH) since March 27, 2019, according to stats.devzero.be/#/shuffle data.
+
+But since Cashshuffle was released in March 2019, months later at the end of November, developers introduced Cashfusion to the BCH community. Currently, people can leverage bitcoin (BTC) using the Wasabi Wallet or Samourai, and ethereum (ETH) users can utilize the tornado.cash app. However, shuffling coins with BTC and ETH is harder because of the current fees both networks impose and it’s a lot more costly to use these protocols.
+
+Stats from bitcoinfees.cash shows that BCH network fees are negligible and mixing UTXOs doesn’t cost a user a lot of money using the Bitcoin Cash network. At the time of writing, the next BCH block fee is $0.0067 per transaction and the current median fee is $0.0032.
+
+Cashfusion Users Fused $5.9 Billion Worth of Bitcoin Cash
+
+Cashfusion saw a successful security audit from Kudelski Security just like Cashshuffle did prior to the official Cashfusion launch. Fusion tiers were expanded from 0.82 BCH to 8.2 BCH, which made it so whales can fuse coins together.
+
+Bitcoin Cash users were also pleased when software engineer James Waugh tested Cashfusion with thousands of transactions and published a review. Waugh’s review highlighted that while combing through a large swathe of Cashfusion transaction inputs and outputs, the developer realized that it’s “not possible to establish a concrete link” between them.
+
+Fast forward to May 2021 as BCH has rides above the $1,400 zone, Cashfusion is still getting lots of use from network participants.
+
+Data from stats.devzero.be/#/fusion shows that Cashfusion has seen approximately 4,453,681 BCH worth of fusions since 2019. Using today’s BCH exchange rates shows that’s more than $5.9 billion worth of bitcoin cash stretched across 67,845 fusions.
+
+The number of fusions and shuffles since 2019 indicates that people using BCH enjoy privacy-enhancing techniques and these tools. The average fee per satoshi using Cashfusion with BCH is only 168 satoshis and users have spent 750,533,047 satoshis for fusing since the app was invoked.
+
+What do you think about Cashfusion and Cashshuffle users mixing billions of dollars in bitcoin cash UTXOs? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

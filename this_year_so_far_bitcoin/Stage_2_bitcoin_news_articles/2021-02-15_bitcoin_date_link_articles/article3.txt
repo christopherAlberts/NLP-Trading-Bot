@@ -1,0 +1,59 @@
+LONDON (Reuters) - As cryptocurrencies increasingly go mainstream, pressure is growing on the world’s biggest central banks to move forward with their plans to issue digital cash and fend off private sector threats to traditional money.
+
+FILE PHOTO: A representation of virtual currency Bitcoin is seen in front of a stock graph in this illustration taken January 8, 2021. REUTERS/Dado Ruvic/File Photo/File Photo
+
+The biggest cryptocurrency, bitcoin, has shifted from the fringes of finance towards embrace by major investors, companies and even cities. Tesla Inc’s $1.5 billion bet has sent bitcoin to record highs of almost $50,000 and the Facebook-backed digital currency Diem, formerly known as Libra, aims to launch this year.
+
+Central banks from the Group of Seven nations set out in October how a digital currency could function, though progress has been slow. The communique from last week’s G7 finance ministers’ meeting did not mention the nascent technology.
+
+Here’s the latest on central bank digital currencies (CBDC).
+
+WHAT ARE THEY?
+
+CBDCs are the electronic equivalent of cash.
+
+Like banknotes or coins, they would give holders a direct claim on the central bank, leapfrogging commercial banks. Backed by central banks, they would be as “risk-free” as traditional money, and let holders make online payments.
+
+Access to central bank money beyond physical cash has so far been restricted to financial institutions. Extending it to the broader public would have major economic and financial repercussions.
+
+WHY DO CENTRAL BANKS THINK WE NEED IT?
+
+Central banks fear losing control of the global payments system to cryptocurrencies, which are typically not controlled by any central body - or to private entities, such as in the case of Diem.
+
+That could weaken central banks’ grip on money supply, one of the main avenues for steering economies. And the threat has grown more real amid the snowballing mainstream embrace of digital currencies.
+
+Financial firms BNY Mellon and Mastercard said last week they would offer support for digital assets, while the city of Miami is seeking to allow the use of bitcoin for paying workers, and for fee and tax payments.
+
+As the use of physical cash declines, a CBDC would be a safer digital payments alternative to cryptocurrencies.
+
+WHAT WOULD A CBDC LOOK LIKE?
+
+Here’s where views differ.
+
+A CBDC could take the form of a token saved on a physical device, like a mobile phone or a pre-paid card, making it easier to transfer offline.
+
+Alternatively, it could exist in accounts managed by an intermediary like a bank, which would help authorities police it and potentially remunerate it with an interest rate.
+
+While the idea of a CBDC was born in part as a response to cryptocurrencies, there’s nothing to say it should use blockchain, the distributed ledger that powers these tokens.
+
+The People’s Bank of China said its digital yuan would not rely on blockchain.
+
+WHICH CENTRAL BANKS ARE LEADING?
+
+The People’s Bank of China aims to become the first major central bank to issue a CBDC, part of its push to internationalise the yuan and reduce dependence on the dollar-dominated payment system.
+
+State-run Chinese commercial banks are already testing a digital wallet application, local media reports said. E-commerce company JD.com Inc in December said it was China’s first virtual platform to accept the homegrown digital currency.
+
+The European Central Bank and the Bank of England have launched consultations, though ECB President Christine Lagarde said last month any digital euro would take years. The Bank of Japan and the U.S. Federal Reserve have taken a backseat.
+
+Sweden’s Riksbank has begun testing an e-krona, while the Bank of Canada has also accelerated work on its digital currency.
+
+Smaller nations are forging ahead, too: The Bahamas last year become the first nation to roll out a CBDC nationwide.
+
+WHAT ARE THE RISKS?
+
+Central banks fear any mass migration to CBDC would hollow out commercial banks, depriving them of a cheap and stable source of funding like retail deposits.
+
+In a crisis, this would make them vulnerable to a run on their coffers as clients would prefer the safety of an account guaranteed by the central bank.
+
+For this reason, most designs envision a cap on how much each consumer would be allowed to hold in CBDC. Remuneration rates might be lower to reduce the attraction.

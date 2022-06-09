@@ -1,0 +1,61 @@
+The Benefits of Coupling Ethereum With Bitcoin Cash: Smartbch Sidechain Testnet Is Now Public
+
+On Thursday, the Smart Bitcoin Cash team announced the launch of the Smartbch testnet explaining that developers and decentralized app makers can now experiment and develop with the high-performance, EVM-compatible Bitcoin Cash sidechain. Further, Bitcoin.com News spoke with Wang Kui the lead developer of the Smartbch project. The Smartbch tech lead told our newsdesk about the inner workings of the sidechain that can connect with the Ethereum network.
+
+Testnet for Smart Bitcoin Cash, a Bitcoin Cash Layer-2 Project Is Live
+
+During the last few weeks, the Smartbch project has been a topical conversation within the Bitcoin Cash (BCH) community. The reason for these conversations is because the Smartbch team has revealed a project that is EVM and Web3 compatible, but far cheaper in terms of transaction fees. This is because the Smartbch project is a sidechain built on Bitcoin Cash and it leverages the BCH chain’s lower transaction fees. Bitcoin.com has reported on the project on a few occasions since it was announced and on April 29, the team has revealed the Smartbch testnet is now live.
+
+The Smartbch testnet will allow decentralized application (dapp) creators and programmers the ability to test and deploy experimental projects using the testing framework. Developers should read the recently published Smartbch testnet documentation before getting started. The team’s testnet announcement notes that the BCH community has been waiting for this project to go live, and said the project Telegram channel has swelled with members.
+
+For instance, the Coinflex exchange has had its development team testing the testnet of Smartbch while it was still private. “Metamask is connecting without issue and solidity code is working well. We set up a DEX on our private testnet, created tokens…and it’s all going smoothly,” Mark Lamb, CEO of Coinflex said. The Smartbch team says the concept is the first-of-its-kind sidechain for Bitcoin Cash and there are many benefits BCH offers.
+
+“Bitcoin Cash itself is not specifically equipped for smart contracting functions, preferring use cases centered around peer-to-peer cash,” the Smartbch team said on Wednesday. “However, as a sidechain to Bitcoin Cash, Smartbch aims to build a new playground for the Bitcoin Cash ecosystem and enlarge the user base.” Wang Kui the lead developer of the Smartbch further discussed the protocol with Bitcoin.com News this week.
+
+Wang Kui stresses that the protocol provides an EVM and Web3 compatible sidechain for Bitcoin Cash, staking its hash power while utilizing BCH as the native gas-paying token. “What’s more, by incorporating hardware-friendly components, vastly increased scalability is unlocked,” Kui remarked. Moreover, the Smartbch tech lead discussed the project in great detail with Bitcoin.com News in an exclusive interview transcribed below.
+
+An In-Depth Interview With the Smart Bitcoin Cash Tech Lead Wang Kui
+
+Bitcoin.com News (BCN): What made you decide to start such a venture and why did you choose to leverage the Bitcoin Cash network?
+
+Wang Kui (WK): I have been talking about the project background, since the second half of 2018, I have been working on how to maximize TPS (Transactions Per Second). But the work has been on and off as I was assigned with other tasks. By the second half of 2020, I finally found a feasible way after many failures. After discussing the idea with industry leaders, we decided to deliver my research results by launching Smartbch.
+
+The main reason for choosing the Bitcoin Cash network is that it features big blocks. Based on my professional background and work experience, I think optimization measures should be taken to give full play to the ability of the computing system itself. You can call it ‘brute force.’ However, Ethereum prefers ‘subtle’ ways like sharding and layer2. The reason I choose to leverage the Bitcoin Cash protocol is because I’m a big supporter of Bitcoin Cash, and I think it is the most in line with the original vision of Satoshi, which is to “serve as many people as possible.
+
+BCN: Can you explain to our readers how Smartbch aims to enhance EVM throughput and Web3 apps?
+
+WK: First we abandoned the single-thread semantics defined in Ethereum’s yellow paper. Single-thread semantics is not a must to support EVM and Web3 and it blocks many optimizations. Second, we developed a lot of low-level libraries which support parallel execution of EVM transactions to exploit the potential of modern CPU and SSD. Last but not least, we optimized the EVM execution engine and storage engine, which makes each EVM instruction run faster.
+
+BCN: Have third-party BCH developers been looking into the SmartBCH protocol?
+
+WK: Yes, we will have several companies confirmed and will join our testnet and participate to be the validator. And we have several new applications developed and dedicated for Smartbch and several existing applications being ported to Smartbch.
+
+BCN: The throughput is quoted as being “one billion gas every 15 seconds.” Can you explain how that will work?
+
+WK: Ethereum’s consensus engine and execution engine must be run in serial and in the block interval the new block must be executed several times on different peer-to-peer nodes, because it uses the proof-of-work (PoW) consensus algorithm. By optimizing the consensus algorithm and allowing the consensus engine and execution engine to run concurrently, we must speed it by about five times.
+
+By executing the EVM transactions in parallel, we can speed up the execution by about ten times. And by reducing each EVM instruction’s time consumption, we can further speed it up by about two to three times. So overall we are confident to speed up ethereum by 100 times.
+
+BCN: How will Bitcoin Cash miners be affected by Smartbch?
+
+WK: Bitcoin Cash miners can vote for their validators on Smartbch and get gas fee rewards, such that they can benefit from decentralized finance (defi) applications on Smartbch.
+
+BCN: Would you say that Smartbch will be able to produce the same results as a myriad of the defi apps built on Ethereum? Like Stablecoins, AMMs, liquidity pools, decentralized exchanges (DEXs), and tools of that nature.
+
+WK: All the Ethereum defi apps can be ported to Smartbch with negligible efforts. Also, we are expecting new applications which require high-throughput and low-gas-price to run will emerge on Smartbch.
+
+BCN: When you say “Smart Bitcoin Cash’s innovation lies in libraries” what does that mean?
+
+WK: Instead of inventing fancy consensus and cryptographic algorithms, we decided to adopt another methodology: to develop low-level libraries with an aim to fully uncover the hardware’s potential, especially its inherent parallelism. Ordinary users and developers are provided with a compatibility layer supporting EVM and Web3, so the optimized low-level ‘close to the metal’ libraries themselves remain concealed by this layer of abstraction. During the implementation, we used the codename ‘Moeing,’ which is added to the libraries’ names as prefix.
+
+These libraries follow the UNIX philosophy: simple, short, clear, modular, and extensible. Other projects can reuse them and benefit from them.
+
+BCN: As far as cryptocurrency in general, do you envision the industry seeing exponential growth going forward as we have seen during the end of 2020 and into 2021?
+
+WK: I am not sure about what will happen in the near future. But in the long run, the population of the cryptocurrency community will surely grow exponentially. And Smartbch is getting ready for the next 100x growth of onchain users.
+
+What do you think about Smartbch launching its testnet this week and the interview with the project’s tech lead Wang Kui? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, Smartbch, Satoshi's Angels,
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

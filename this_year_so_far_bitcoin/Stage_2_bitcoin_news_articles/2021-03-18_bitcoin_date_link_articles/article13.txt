@@ -1,0 +1,53 @@
+The cryptocurrency crash has come in the backdrop of the Chinese regulators announcing a crackdown on cryptocurrencies Tuesday.(Representational)
+
+At a time when investors around the world are scrambling to follow the newest financial trend, that of Bitcoin which is currently worth around $1 trillion, very few are bothered about the carbon footprint that the cryptocurrency is leaving behind.
+
+The annual carbon footprint of Bitcoins is almost equivalent to that of Mumbai, or to put it to a global perspective, as high as the carbon footprint of Slovakia.
+
+Newsletter | Click to get the day’s best explainers in your inbox
+
+A recent study by Alex de Vries, a Dutch economist, has shown that Bitcoins leave behind a carbon footprint of 38.10 Mt a year. According to a study titled ‘CO2 Emissions from Fuel Combustion (Highlights) 2017’, Mumbai’s yearly carbon footprint stands at 32 Mt, while Bangalore’s is at 21.60 Mt.
+
+Vries has been able to create a Bitcoin Energy Consumption Index, one of the first systematic attempts to estimate the energy use of the bitcoin network. Recently, in an interview to The New York Times, Microsoft co-founder Bill Gates had said that “Bitcoin uses more electricity per transaction than any other method known to mankind”.
+
+Relation between creating bitcoins and electricity required
+
+Bitcoins are created by “mining” coins, for which high-tech computers are used for long hours to do complex calculations. The more coins there are in the market, the longer it takes to “mine” a new one and in the process, more electricity is consumed. As mining provides a solid source of revenue, people are willing to run power-hungry machines for hours to get a piece.
+
+In 2017, the Bitcoin network consumed 30 terawatt hours (TWh) of electricity a year. However now, according to de Vries’s estimates, the network currently uses more than twice as much energy: between 78TWh and 101TWh, or about the same as Norway. As such, each bitcoin transaction roughly requires an average 300kg of carbon dioxide – which is equivalent to the carbon footprint produced by 750,000 credit cards swiped.
+
+The energy consumed by Bitcoins annually compared to countries. (Source: Bitcoin Energy Consumption Index) The energy consumed by Bitcoins annually compared to countries. (Source: Bitcoin Energy Consumption Index)
+
+If Bitcoin were a country, it would consume more electricity than Austria or Bangladesh.
+
+Calculating the carbon footprint
+
+The major problem with mining Bitcoin is not its massive energy-consumption nature, it is the fact that most of the mining facilities are located in regions that rely heavily on coal-based power.
+
+Earlier, determining the carbon impact of the Bitcoin network was difficult as tracking down miners was never easy. However, in 2017, a study by Garrick Hileman and Michel Rauchs identified these facilities and calculated consumption of 232 megawatts a year. As per the estimates of De Vries, roughly 60% of the costs of bitcoin mining is the price of the electricity used. In January, the price of a Bitcoin stood at $42,000 and at this rate, miners would be earning around $15 billion annually.
+
+“With 60% of this income going to pay for electricity, at a price of $0.05 per kWh [kilowatt hour], the total network could consume up to 184TWh per year,” De Vries wrote in his study.
+
+The paper cites an assumption of 480-500g of carbon dioxide produced for every kWh consumed. That would mean a total energy consumption of 184TWh would result in a carbon footprint of 90.2 million metric tons of CO2, which is roughly comparable to the carbon emissions produced by London.
+
+Also Read | Explained: The rising popularity of Blockchain Art
+
+Other impacts of Bitcoin mining
+
+The effects of cryptocurrency mining often spill over to other parts of the economy. With miners using high-tech computers for hours to formulate new blockchains, these machines do not last long. Manufacturers of Bitcoin mining devices need a substantial number of chips to produce these machines and recently, during the Covid-19 crisis, the world had witnessed a shortage of these chips. This shortage, now, in turn started affecting the production of electric vehicles around the world.
+
+To produce 1 million such computers, the largest provider, Bitmain, would have to use a month’s capacity of one of only two chip fabricators in the world capable of producing such high-power silicon – potentially crowding out demand from other sectors such as Artificial Intelligence, transportation and home electronics.
+
+Besides this, countries like Iran are using cryptocurrency to circumvent economic sanctions that were imposed to prevent a nation from developing nuclear capabilities. De Vries writes that cheap energy has lured in many cryptocurrency miners and the mining activity in Iran now represents 8 per cent of the total computational power in Bitcoin’s network. The country is thus using Bitcoin to boost revenues while its oil exports suffer from international sanctions.
+
+What can be done to control the carbon footprint?
+
+Given the growing implications of the cryptocurrency mining industry, the Dutch economist asks policymakers to follow the path shown by Québec in Canada, where a moratorium on new mining operations has been imposed. Although Bitcoin might be a decentralised currency, many aspects of the ecosystem surrounding it are not. Large-scale miners can easily be targeted with higher electricity rates, moratoria, or, in the most extreme case, confiscation of the equipment used.
+
+Governments can also ban cryptocurrencies from digital asset marketplaces as it will affect the prices of a digital currency.
+
+India and the cryptocurrency
+
+The country, at present, has around 75 lakh cryptocurrency investors who have together pooled in over Rs 10,000 crore into Bitcoins and other such digital currencies. The prices have surged by over 900%, courtesy the worldwide boom – a single bitcoin that used to cost around Rs 4 lakh in 2020 now costs somewhere around Rs 41 lakh now.
+
+However, as per a recent Reuters report, government sources have said that the Narendra Modi-government plans to pass the pending cryptocurrency Bill that puts a complete ban on and criminalises possession of Bitcoins. Finance minister Nirmala Sitharaman, however, has said that the Centre will take a “calibrated approach” and leave a window open for experiments with blockchain technology.

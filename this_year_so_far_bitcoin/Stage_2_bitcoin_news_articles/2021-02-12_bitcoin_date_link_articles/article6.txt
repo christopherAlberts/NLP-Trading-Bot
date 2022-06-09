@@ -1,0 +1,17 @@
+Bitcoin’s price rally is proving a windfall for the miners of the world’s biggest blockchain.
+
+Miners collected a record single-hour revenue of $4.06 million during the 60 minutes to 17:00 UTC on Thursday, according to data provided by the blockchain analytics firm Glassnode. Transaction fees accounted for more than $47,000 of the record hourly revenue.
+
+Miners use powerful computers to solve complex mathematical problems to mine blocks and confirm transactions on the publicly distributed ledger. As a reward for their services, miners receive newly created bitcoins along with transaction processing fees.
+
+Currently, miners are paid 6.25 bitcoin (BTC) for every block mined. The number was reduced by 50% in May 2020 via a process called mining reward halving, which is repeated every four years.
+
+Bitcoin: hourly miner revenue Source: Glassnode
+
+While hourly income reached a lifetime high on Thursday, daily revenue hit a three-year high of $50.78 million earlier this week, marking at least a fivefold increase since mid-October, reflecting the rise in the price of BTC during that period.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Income earned through transaction fees has also increased substantially over the past few months, reaching a $9.14 million on Feb. 9.
+
+Turnovers have risen sharply, with bitcoin’s price rallying by nearly 400% to record levels above $48,000 in the past four months.

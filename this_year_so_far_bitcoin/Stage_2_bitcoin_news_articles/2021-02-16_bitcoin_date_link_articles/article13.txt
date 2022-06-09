@@ -1,0 +1,63 @@
+Bitcoin faced choppy markets for most of Tuesday after briefly trading above $50,000 for the first time during early U.S. trading hours. With some remaining bullish, other analysts and traders warned about near-term price correction.
+
+Bitcoin (BTC) trading around 48,810.95 as of 21:00 UTC (4 p.m. ET). Gaining 0.39% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $47,088.84-$50,584.85 (CoinDesk 20)
+
+BTC between its 10-hour and 50-hour averages on the hourly chart, a sideway signal for market technicians.
+
+Bitcoin trading on Bitstamp since Feb. 13. Source: TradingView
+
+Bitcoin volumes on major crypto exchanges since January. Source: CoinDesk, CryptoCompare
+
+Bitcoin’s trading volumes on the eight leading crypto exchanges tracked by the CoinDesk 20 remained flat on Tuesday, at roughly half of where it was on Monday on Feb. 8. Meanwhile, data from Glassnode shows that bitcoin’s balance on exchanges continues to drop, a bullish sign taken by some analysts.
+
+Bitcoin balance on all exchanges. Source: Glassnode
+
+“We are at all-time-highs territory [and] the market still has to make up its mind” about next resistance or supporting levels, Alessandro Andreotti, bitcoin over-the-counter broker, told CoinDesk. “My opinion is that new highs [are coming] in the short term.”
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+This is happening as retail investors are showing growing interest in the derivatives market.
+
+According to Arcane Research, March futures bitcoin contracts on the retail-focused platforms currently have an annualized premium rate averaging 44.16%. That outpaces those on the institution-driven CME, which shows an average of 24.39%.
+
+“There continues to be net inflows into crypto, particularly into futures,” Sam Bankman-Fried, CEO of crypto derivatives exchange FTX, told CoinDesk. “[And] people inside crypto continue to be particularly bullish.”
+
+Others, however, warn about near-term price correction, especially if there is a lack of fresh catalysts on top of Tesla’s $1.5 billion bitcoin purchase that was announced last week.
+
+“The market has gone parabolic since breaking through $20,000 and technical studies are warning of the need for a healthy pullback in the days and weeks ahead to allow for severely stretched readings to unwind and normalize,” said Joel Kruger, cryptocurrency strategist at institution-focused crypto exchange LMAX Digital.
+
+“The $50,000 price level is now relatively high for retail investors, and it is not easy for them to chase after,” Simons Chen, executive director of investment and trading at Hong Kong-based crypto lender Babel Finance, told CoinDesk. He added there was little chance retail investors will be able to push bitcoin’s price above the current record high price in the short-term period.
+
+On its Telegram channel, Singapore-based QCP Capital also expressed a tempered view on the short-term price movement, saying that, historically, bitcoin’s price trended lower in March due to seasonality.
+
+“The longer bitcoin stalls here without a fresh catalyst, the more we will be looking for a longer lasting downside into March. As we’ve highlighted before, the March downside seasonality followed by April upside seasonality is the strongest and most consistent seasonal pattern in bitcoin,” QCP Capital wrote. “It’s still too early now for us but into [the end of February,] if volumes drop further, we will be looking for some downside protection [at the end of March.]”
+
+One possible spur for the markets, as CoinDesk reported, is that business intelligence firm MicroStrategy is preparing to purchase more bitcoin. As well, Los Angeles-based privately held investment firm Wedbush Securities said that bitcoin could expect more corporate ownership and adoption after Tesla’s bitcoin investment, meaning that the “fresh catalyst” QCP mentioned could still be imminent.
+
+Ether moves little as DeFi sees small drop amid flash loan attacks
+
+The second-largest cryptocurrency by market capitalization, ether (ETH) was down Tuesday, trading around $1,754.31 and down 4.07% in 24 hours as of 21:00 UTC (4:00 p.m. ET).
+
+Ether’s price has mostly stuck below $1,800 on Tuesday. This has led ether futures traders to close their positions, as what gains they’re able to eke out were eaten by the funding cost they pay for their contract, according to Vishal Shah, an options trader and founder of derivatives exchange Alpha5.
+
+“People are now in the habit of expecting prices to climb as if it’s a foregone conclusion,” Shah said. At the same time, the decentralized finance (DeFi) sector, which is mostly based on the Ethereum blockchain, continues to grow. However, one wrinkle occurred over the past weekend when a flash loan exploit on Cream Finance and Alpha Finance caused a loss of funds totaling $37.6 million and resulting in a slight decline of the total value locked in DeFi.
+
+Other markets
+
+Digital assets on the CoinDesk 20 are mostly in red Tuesday. Notable winners as of 21:00 UTC (4:00 p.m. ET):
+
+Notable losers:
+
+Equities:
+
+Commodities:
+
+Oil was up 1.23%. Price per barrel of West Texas Intermediate crude: $60.20.
+
+Gold was in the red 1/27% and at $1794.97 as of press time.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield climbed Tuesday jumping to 1.294%.

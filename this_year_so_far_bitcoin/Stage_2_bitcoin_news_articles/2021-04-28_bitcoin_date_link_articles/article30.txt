@@ -1,0 +1,27 @@
+U.S. authorities have arrested the alleged mastermind behind a multi-million darknet-based BTC mixing service, Bitcoin Fog, after analyzing 10 years of blockchain data.
+
+Authorities have issued a chilling warning to other users of illegal blockchain services: Anything you do today may come back to haunt you as “this activity is on this ledger forever” and ever-more sophisticated analytics technology can track down crimes committed years earlier.
+
+For approximately a decade, Bitcoin Fog has enabled users to conceal the origin and destination of its users’ crypto assets. However, the Internal Revenue Service is charging Russian-Swedish citizen, Roman Sterlingov, with laundering more than 1.2 million Bitcoin worth $336 million while serving as the website’s administrator.
+
+Sterlingov was arrested on April 27 in Los Angeles, with the IRS estimating he received commissions of between 2% and 2.5% for mixing services at the time of each transaction — worth roughly $8 million then but exponentially more today.
+
+Authorities estimate at least 23% of the Bitcoin that flowed through the mixing service was transferred to darknet-based narcotics marketplaces such as Silk Road.
+
+Sterlingov’s arrest was the product of authorities fastidiously unpicking the web of BTC transactions associated with the mixer service dating back to 2011, using the Bitcoin blockchain to identify the site’s operator.
+
+Sterlingov founded the website in late 2011 under a Japanese pseudonym meaning “Happy New Year, '' spruiking Bitcoin Fog as eliminating any chance of authorities “finding your payments and making it impossible to prove any connection between a deposit and a withdraw inside our service."
+
+In 2019, undercover IRS agents engaged Sterlingov through the platform, claiming they wished to launder the profits from ecstasy sales. The transactions were processed without a reply.
+
+Law enforcement was able to identify that Sterlingov had paid for Bitcoin Fog’s server hosting expenses using the now-defunct digital currency Liberty Reserve, allowing them to trace when he bought the Liberty Reserve using Bitcoin transferred from the collapsed pioneer crypto exchange, Mt Gox.
+
+From there, the IRS was able to identify the home address and phone number that Sterlingov had registered to his account, and eventually a Google Drive account containing instructions outlining the steps he took to purchase his Liberty Reserve coins.
+
+“This is yet another example of how investigators with the right tools can leverage the transparency of cryptocurrency to follow the flow of illicit funds,” said Jonathan Levin, co-founder of blockchain forensics firm, Chainalysis.
+
+Computer scientist, Sarah Meiklejohn, stated:
+
+“With blockchain analytics, the thing we say over and over is that all this activity is on this ledger forever, and if you did something bad 10 years ago you can be caught and arrested for it today.”
+
+Despite Sterlingov’s detention Bitcoin Fog remains online, although it is unclear who is operating the site.

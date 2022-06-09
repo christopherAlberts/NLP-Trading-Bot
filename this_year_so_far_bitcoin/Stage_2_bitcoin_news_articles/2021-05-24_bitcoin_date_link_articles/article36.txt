@@ -1,0 +1,69 @@
+At the launch of bitcoin in 2009, the size of the potential of the underlying technology, the blockchain, was not fully appreciated.
+
+What has not been fully exploited is the unique features of blockchain technology that can improve the lives of people and businesses. These include the fact that it is an open-source software. This makes its source code legally and freely available to end-users who can use it to create new products and services. Another significant feature is that it is decentralized, democratizing the operation of the services built on it. Control of the services built on a blockchain isn’t in the hands of an individual or a single entity but involves all those connected to the network.
+
+In addition, it enables peer-to-peer interaction between those connected to the network. This is key, as it enables parties to transact directly without using intermediaries or third parties. Finally, it has in-built security. Data stored on it is immutable and cannot be changed easily. New data can be added only after it is verified by everyone in the network.
+
+Unfortunately, bitcoin, the project that introduced blockchain technology, has hogged the limelight, diverting attention from the technology’s underlying potential benefits.
+
+Bitcoin has been embroiled in massive controversies, attracting a host of criticisms. These include the fact that it’s speculative and volatile, and that it doesn’t provide any utility. Its price is driven largely by what investors think of it rather than any intrinsic value. This is unlike other asset classes from which value can be derived such as gold (jewelry), real estate (rent), stocks and bonds (interest).
+
+There is also an argument that it is bad for the environment because it uses so much electricity.
+
+In addition, developments and projects in the crypto-assets space since the launch of bitcoin have been largely driven by commercial interest and investment returns. Little attention has been given to its potential to contribute to the social and economic welfare of people.
+
+But this is slowly changing.
+
+Blockchain’s potential in Africa
+
+A few companies have begun showcasing blockchain capabilities to various African countries. Unlike most other cryptocurrency blockchains which focus on private sector use in developed regions like Europe and North America, their approach has been to target the governments and public institutions in the developing world.
+
+In April, the Ethiopian government confirmed that it had signed a deal to create a national database of student and teacher IDs using a decentralized digital identity solution. The deal involves providing IDs for 5 million students across 3,500 schools which will be used to store educational records.
+
+This is the largest blockchain deal ever to be signed by a government and has been making waves in the crypto-asset industry.
+
+I believe that the deal marks a watershed moment for the use of blockchain and the crypto-asset industry, and for African economies because it offers the promise of blockchain being used for real socioeconomic change. The deal means that blockchain technology will be used to provide digital identity to millions of Ethiopians. Digital identity—missing in most African countries—is the first step to real financial inclusion, which in turn has been shown to carry a host of benefits.
+
+What makes this promising is that it is the first main blockchain project focused on serving the African market, with goals that align with developmental agendas set out under the United Nations Sustainable Development Goals, as well as the African Union Agenda 2063 goals.
+
+The players
+
+There are three companies behind the deal.
+
+The first is Cardano, which has been at the forefront of showing how its core technology can be used to the benefit of governments. Cardano is technically owned by the Cardano Foundation, a Swiss non-profit organization.
+
+Cardano commissioned the software company IOHK and a Japanese software company, Emurgo, to develop and maintain the Cardano blockchain.
+
+Cardano isn’t alone in trying to power the future of finance by establishing a financial system characterized by peer-to-peer transactions. Ethereum, the second largest cryptocurrency by market capitalization after bitcoin, is also pursuing this path.
+
+Both projects have a shared history as their CEOs (Vitalik Buterin and Charles Hoskinson) were founders of Ethereum but went their separate ways due to a business disagreement.
+
+Cardano, IOHK, and Emurgo have been showcasing how Cardano blockchain and its core technology can be used to the benefit of African countries.
+
+In the case of the Ethiopian deal, a decentralized digital identity solution, Atala Prism, is being used. The project will build digital identity solutions on the Cardano blockchain. The idea is to start by granting primary, secondary, and university students a digital identity that can track their educational, career, and future progress.
+
+Bitcoin
+
+Since the launch of bitcoin, the crypto-asset industry has had an eventful history, with dramatic episodes.
+
+The exponential rise and drastic fall in the price of bitcoin, particularly from 2017, has also added to concerns about it.
+
+Then there was the proposed launch of private global stablecoins such as proposed by Facebook Libra, now called Diem. And fierce opposition of western governments for their fear of potential loss of monetary sovereignty. This resulted in a drive led by China to launch central bank digital currencies. Many countries are now exploring this option.
+
+More intriguing has been the growth in a decentralized finance industry. A full-blown financial system now appears to be running in the form of non-custodial finance as transactions happen on a peer-to-peer basis rather than through financial intermediaries like banks.
+
+But claims that a cryptocurrency could deliver financial inclusion (since it facilitates the peer-to-peer exchange of value) have not been met. This is because currencies like bitcoin are far less accessible to those who need financial inclusion the most—such as those located in very poor, and economically disadvantaged countries.
+
+The bitcoin network is not managed by any corporate entity because of its decentralized open source network and therefore doesn’t have a profit driven mission. Nevertheless the cryptocurrency is now mostly desirable for its ability to make people rich.
+
+The future
+
+Given the increasing doubts and concerns about the bitcoin network, surely the right approach would be to shift focus away from it and instead to put energy into blockchain projects promising real contributions to the world?
+
+It is clear that new technologies such as blockchains hold huge promises to help achieve inclusive growth in economies such as those in Africa. They could be used, for example, in facilitating the continent’s free trade agreement through the institution of regional digital currencies, powered by blockchain. These could promote intra-regional trade and could, indeed, be the answer to the currency inconvertibility problems—the inability to exchange one African currency for another—which has long plagued trade in the region.
+
+The Ethiopian deal should be one that African governments monitor closely.
+
+This article is republished from The Conversation under a Creative Commons license. Read the original article.
+
+Sign up to the Quartz Africa Weekly Brief here for news and analysis on African business, tech, and innovation in your inbox.

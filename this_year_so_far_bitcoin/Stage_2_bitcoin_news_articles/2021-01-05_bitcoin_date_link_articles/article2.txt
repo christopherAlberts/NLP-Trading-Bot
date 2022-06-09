@@ -1,0 +1,33 @@
+Bitcoin is trading higher on Tuesday, and the bull market is looking less overheated than it did a day ago.
+
+At press time, the top cryptocurrency by market value is changing hands near $31,590, representing a 5% gain on a 24-hour basis. Bitcoin had dipped by 15% to near $28,000 during Monday’s European trading hours.
+
+The sudden sell-off happened after the average perpetual funding rate (the cost of holding long positions) on major derivatives exchanges rose to an 11-month high of 0.137%, implying excess bullish leverage.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+“The bitcoin futures market was very over-leveraged and overcrowded before the drop,” analyst Joseph Young noted in a Substack post, adding the market now looks less overheated with funding rates having dropped.
+
+The average now stands at 0.039%, according to data provided by the blockchain intelligence firm Glassnode. Further, major exchanges liquidated $936 billion worth of long positions on Monday – the highest in at least eight months – wiping out excess leverage.
+
+Bitcoin liquidations Source: Coinalyze
+
+Sentiment remains bullish
+
+Bitcoin’s swift recovery from Monday’s low indicates dip demand, a sign of the bullish mood in the market.
+
+“The Coinbase premium reappeared as bitcoin began to recover, which is a good sign,” Young noted. “This means high-net-worth investors in the U.S. took advantage of the drop and bought bitcoin.”
+
+The options market continues to paint a bullish picture amid the high price volatility, with the one-, three-, and six-month put-call skews hovering well into the negative territory, according to data source Skew.
+
+Bitcoin put-call skews Source: Skew
+
+Put-call skews measure the cost of puts (bearish bets) relative to calls (bullish bets). Meanwhile, on-chain metrics show scope for a continued price rally.
+
+Bitcoin's MVRV Z-score Source: Glassnode
+
+While bitcoin’s market value to realized value (MVRV) Z-score has risen to a three-year high of 5.32, it remains well below the 7.0 level at which an asset is considered near a top, per Glassnode. Historically, above-7.0 readings have marked an end of bull markets.
+
+According to trader Alex Kruger, Monday’s low of $28,154 could turn out to be this week’s bottom, especially if the U.S. Democrats sweep Tuesday’s Georgia elections and gain control of the Senate.
+
+A Democrat-controlled Senate would pave the way for more significant fiscal stimulus, according to Goldman Sachs. Fiscal stimulus is inflationary in nature and would likely strengthen the long-term bull case of scarce assets such as gold and bitcoin.

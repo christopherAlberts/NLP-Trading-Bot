@@ -1,0 +1,33 @@
+The Canada Revenue Agency (CRA) is getting serious about taxing Bitcoin. Just recently, it reached a disclosure deal with Coinsquare that forced the company to hand over user information to CRA agents. Prior to that, it set up a “Cryptocurrency Section” of its audit department specifically to deal with crypto investors. Broadly, these actions suggest that the CRA is getting serious about taxing cryptocurrency. In this article, I’ll explore the ramifications of that fact for investors.
+
+Crypto gains treated like any other capital gain
+
+If you invest in cryptocurrency, you probably know by now that you have to pay taxes on realized gains. The question is how much tax you’ll have to pay. For a long time, that was a legal grey area. Canadian tax law wasn’t created in a world where cryptocurrency existed. Only recently has the agency weighed in. And its conclusion was very favourable to investors.
+
+Cryptocurrency is considered a digital asset in the CRA’s eyes. That means it is subject to capital gains tax, which has a much better tax treatment than income. When you realize a capital gain, only half of it is subject to taxation. That’s in contrast to employment and business income, which is 100% taxable. So, thanks to the CRA’s tax treatment of crypto gains, you will pay much less tax on such gains than you would on conventional income.
+
+The bad news
+
+The bad news is this: you will have to pay taxes on your crypto holdings when you sell them.
+
+And you won’t be able to hide your holdings. Part of the reason why Coinsquare agreed to fork over data to the CRA was because it was forced to by a court. So, there is now legal precedent for crypto exchanges having to hand over customer data. Sooner or later, other major exchanges will follow suit. As the courts have said, the CRA has the legal standing to demand it.
+
+A no-tax way to hold crypto
+
+If you’re worried about taxes eating up your crypto gains, there’s some good news and some bad news.
+
+The bad news is that any crypto you currently hold in a taxable environment is fully taxable. You do get the capital gains tax break, which is very generous, but there’s no way to avoid taxation on realized crypto gains.
+
+Story continues
+
+The good news is that you can hold Bitcoin in a TFSA. That is, through a crypto ETF like Purpose Bitcoin ETF (TSX:BTCC.B). While Canadian banks still don’t offer an easy way to hold Bitcoin in a conventional account, they do allow you to put ETFs like BTCC.B in a TFSA.
+
+BTCC.B is a crypto fund that holds 100% of its portfolio in Bitcoin. A pure play in Bitcoin, it’s almost the same as holding the coin itself. The only difference is that you pay a 1% fee on your holdings every year. When you hold, say, $50,000 worth of Bitcoin, $500 of it in a given year will go to the fund’s managers. That’s not nothing. But compared to having to pay taxes on Bitcoin? It’s very little. So, by holding BTCC.B in a TFSA, you skip all usual capital gains taxes in exchange for a 1% annual fee. That seems like a fair trade.
+
+The post Bitcoin Tax: The CRA Goes Hard After Crypto appeared first on The Motley Fool Canada.
+
+More reading
+
+Fool contributor Andrew Button has no position in any of the stocks mentioned.
+
+The Motley Fool’s purpose is to help the world invest, better. Click here now for your free subscription to Take Stock, The Motley Fool Canada’s free investing newsletter. Packed with stock ideas and investing advice, it is essential reading for anyone looking to build and grow their wealth in the years ahead. Motley Fool Canada 2021

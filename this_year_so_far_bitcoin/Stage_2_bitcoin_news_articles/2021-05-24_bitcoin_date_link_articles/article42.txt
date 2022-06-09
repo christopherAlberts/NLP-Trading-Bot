@@ -1,0 +1,27 @@
+Bitcoin is a digital currency that is growing at a burgeoning pace. If you are using bitcoins, you should store them safely as there is a massive risk of hacking. Bitcoins are kept in digital lockers named as bitcoin wallets. There are different types of bitcoin wallets, and some of them are listed in the following paragraphs.
+
+Web wallets
+
+Web bitcoin wallets are online wallets that are immensely easy to use and offers maximum convenience. It is a hot wallet that you can access over any browser connected to the Internet, such as Google Chrome, Internet Explorer, etc. Web wallet has a unique URL that you can enter in the URL box and access all the bitcoins stored in your wallet. Web wallets store the keys in your browser, which increases the risk of theft. When the keys are stored with the browser, there is a massive risk of DDOS attacks. Web wallet doesn’t offer you control over your private keys, which is the biggest issue with it.
+
+When you don’t have any control over the private keys, it is a bit risky as if the wallet gets hacked or shut down, you may lose bitcoins forever. One of the top benefits of using a web wallet is the excellent accessibility offered by it. You must try to use non-hosted wallets as they provide better control over the funds.
+
+Hardware wallet
+
+It is the most popular and highly recommended bitcoin wallet. It is a hardware USB device that is used to store private keys and public addresses. It is a USB device with a screen as well as some side buttons to access the features. A hardware wallet is considered to be the safest option when it comes to storing bitcoins as it is an offline wallet and is immune to all kinds of viruses and malware. So, you can connect it to any mobile device or computer without worrying if it has an antivirus or not, as your bitcoins will be safe even if it is an infected device.
+
+Hardware wallets are easily available in the market, but they are a bit expensive as they cost around $40 to $450, but if we have a look at the security features and convenience offered by it, the price is entirely worth it. There are numerous hardware wallets, and you can easily choose the one that fits your needs and requirements perfectly.
+
+Desktop wallets
+
+Bitcoin wallets are digital wallets, and some users who don’t have enough knowledge about technology finds it challenging to use advanced digital wallets. If you are looking for a bitcoin wallet that is easy to use, there is no better option than a desktop wallet. These wallets can be installed on your computer system like software, and you can use them to make bitcoin transactions. Desktop wallets are available for all OS like Windows, Linux, Mac, etc.
+
+If you are using a desktop bitcoin wallet, you must to be a bit cautious as being a hot wallet is exposed to some online risks. So, you must have a reliable and well-reputed antivirus installed along with an efficient firewall. Desktop wallet offers the perfect balance between ease to use and good security.
+
+Mobile bitcoin wallet
+
+A mobile bitcoin wallet is a wallet which can be accessed via mobile phone and do easy bitcoin transactions. Mobile wallets are immensely popular among the users as they offer great accessibility as anyone can access them anytime through their mobile phones. There are different types of mobile bitcoin wallets available in the market, and each one of them is compatible with a different operating system. So, you must be careful while choosing a wallet and make sure that it is fully compatible with the OS of your phone.
+
+Paper wallets
+
+At the beginning of bitcoins, the only wallet available was the paper wallet. It is a piece of paper that has a QR code on it. The code has all the details, such as private keys and public addresses. You can simply scan the code to make transactions using different platforms like bitcoin-revolution.software and access the fund stored in it.

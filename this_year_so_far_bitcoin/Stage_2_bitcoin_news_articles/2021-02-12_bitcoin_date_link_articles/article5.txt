@@ -1,0 +1,77 @@
+Editor’s Note: Welcome to the year of the Ox. Blockchain Bites will not publish on President’s Day, Monday, Feb. 15.
+
+Three stories
+
+Bull market buzz
+
+The first bitcoin exchange-traded fund in North America has been approved by Canada’s securities regulator, a move some commenters see as opening the door for the U.S. to follow. The U.S. government has been hesitant to approve a bitcoin ETF product, which tracks the price of bitcoin and is traded on a stock exchange, due to bitcoin’s supposedly shallow liquidity and risks the asset could be manipulated.
+
+Bitcoin miners earned a record $4.06 million in just 60 minutes yesterday, according to Glassnode data. The majority of those proceeds came from the bitcoin subsidy – 6.25 BTC issued roughly every 10 minutes – though some $47,000 was collected in network fees.
+
+Bitcoin options market sees a 12% probability of prices rising above $100,000 by the end of December, according to a mathematical metric called the Black Scholes formula. It looks at strike prices, call option prices, the actual asset and U.S. Treasurys to determine the fair price of an option’s contract.
+
+Everybody wants in?
+
+PayPal CEO Dan Schulman said the payments giant is looking to become a CBDC distributor, if a central bank digital currency ever launches. “You think about how many [digital wallets] we’re going to have in the next two, three or five years, and we’re a perfect complement to central banks and governments to distribute those digitized forms of currency,” Schulman said at the company’s investor day.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Wall Street suits are pressuring their employers to move into crypto, according to CNBC. In response to internal questions, JPMorgan Chase co-President Daniel Pinto reportedly said the bank would consider bitcoin trading if customer demand was “there,” which “I’m sure it will be at some point.”
+
+Miami Mayor Francis Suarez has floated everything from a bitcoin city treasury to paying employees in the crypto. Yesterday, however, city commissioners tapped the brakes on these ambitious plans to study their impact first. Commissioners did vote to launch education campaigns in English, Spanish and Creole to inform people about crypto.
+
+Figure Technologies, a blockchain lending startup, is moving to set up a special purpose acquisition company (SPAC), aka a “blank check” company. The firm, Figure Acquisition Corp. I, will raise $250 million to take a competitive startup public.
+
+Around the world
+
+Nigeria’s Securities and Exchange Commission (SEC) announced Thursday it has put plans to regulate cryptocurrencies on hold in light of the central bank’s decision to ban them, according to a report by the Guardian Nigeria. This follows a meeting yesterday where Nigeria’s Senate summoned the country’s top financial regulators to speak about the bill, which had received public pushback.
+
+India will give crypto holders a three-to-six month window to cash out, if a proposed ban on cryptocurrency goes through. The Cryptocurrency and Regulation of Official Digital Currency Bill, floated this year, seeks to limit private currencies in the country and set up a framework for a national digital currency.
+
+Twitter CEO Jack Dorsey announced Friday that he will partner with rapper Jay-Z and donate 500 bitcoin (~$23.6 million) to set up a new endowment trust supporting Africa and India. Separately, Dorsey donated $1 million to cryptocurrency policy think tank Coin Center, announced Wednesday.
+
+At stake
+
+Popping bubbles?
+
+Former CFTC Chairman Christopher Giancarlo cleared the record on the commodity regulator’s role in popping the 2017 bitcoin bull market this morning on CoinDesk TV.
+
+CoinDesk previously reported that the Trump administration acted to puncture the 2017 bubble by clearing the way for futures products.
+
+“We saw a bubble building and we thought the best way to address it was to allow the market to interact with it,” Giancarlo said in late 2019. He said the launch of bitcoin futures “would have the impact of popping the bitcoin bubble. And it worked.”
+
+These comments have led to a conspiracy that U.S. regulators are antagonistic to the growth of the cryptocurrency industry. Similar questions arised earlier this week, after the Chicago Mercantile Exchange launched the nation’s first regulated ether (ETH) futures.
+
+Giancarlo tempered these fears this morning. Adding that security and commodity regulators don’t have the authority, nor the ability, to have such a heavy hand in capital markets.
+
+The story is slightly more complicated. Derivatives, Giancarlo, argued are an essential part of any mature market.
+
+“The ability to short a market is an essential maturatization point in the development of any market,” he said, adding that the in most modern market asset prices are not set in spot markets, but in a higher order financial level. “The institutional role in bitcoin has made it into a truly investment grade asset.”
+
+To the extent that bitcoin futures did deflate the bubble, it was just a matter of good old capitalist price finding.
+
+“[Derivatives] brought the price of bitcoin back in correlation to its fundamental cost of production,” Giancarlo said. “In 2017, bitcoin had broken away from those fundamentals.”
+
+So what does Giancarlo think about today’s frothy markets? He didn’t address the question directly, but we can again turn to the market itself.
+
+As CoinDesk markets reporter Omkar Godbole noted, derivative traders see a low probability of the market to inflate past six figures by the end of the year.
+
+“With the extreme volatility of the past two months, the market isn’t showing a lot of conviction on how bitcoin will trade for the rest of the year,” Sui Chung, CEO of CF Benchmarks, told Godbole.
+
+Quick bites
+
+Grayscale may set up a Yearn Finance token trust, according to a new filing. (CoinDesk)
+
+Bitcoin Lightning is reinventing e-sports. (CoinDesk)
+
+Why DeFi Pulse hasn’t listed 1inch. (Decrypt)
+
+Crypto’s market cap is larger than some central banks. (Decrypt)
+
+Do exchange hacks affect crypto prices? An academic dives in. (Protos)
+
+“Investing as Entertainment” (helloshreyas)
+
+The forces that may push banks to build their own stablecoins. (CoinDesk Opinion)
+
+Who won Crypto Twitter?

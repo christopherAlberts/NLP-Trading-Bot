@@ -1,0 +1,73 @@
+The Bitcoin energy debate rumbles on, seemingly without end. Bitcoiners are rightfully frustrated at having to defend Bitcoin’s share of global energy production, given the lack of equivalent scrutiny applied to other apparently wasteful applications which consume similar amounts of energy. In a sense, arguing over minutiae like the energy mix of bitcoin miners, as I have done in the past, is to miss the point. The question ultimately boils down not to the particulars of mining but rather the societal merit of non-state money.
+
+CoinDesk columnist Nic Carter is partner at Castle Island Ventures, a public blockchain-focused venture fund based in Cambridge, Mass. He is also the co-founder of Coin Metrics, a blockchain analytics startup.
+
+You could say the energy debate has a normative and an objective track. The normative debate focuses on whether it’s legitimate to spend any of society’s energy resources on the production and maintenance of a non-state monetary system. This is the more important question, and it involves weighing the relative cost of energy externalities against the relative benefits of sound money and freeing individuals globally from tyrannical monetary regimes.
+
+Then you have the objective debate, which focuses on how much energy bitcoin consumes, which sources it draws from, and what the picture is likely to look like in the future. Getting trapped on this turf is unfortunate, as bitcoiners are forced to defend the costs of this industry while the critics enjoy an apparently conscience-free right to selectively question the energy uses of specific industries. How often do you hear about the societal merit of game consoles, clothes dryers or Christmas lights?
+
+Sometimes, however, an argument comes along that is so clearly built on mistaken assumptions that it’s worth straying from the normative debate and back into the world of facts. Indeed, arguments of this form have become disturbingly common:
+
+Bitcoin consumes a lot of energy Bitcoin settles~300,000 transactions per day If you combine 1. and 2., you can derive an eye-popping "energy cost per transaction" If you linearly extrapolate that analysis such that bitcoin satisfies the world’s transactions, bitcoin will use more energy than exists on Earth.
+
+This line of reasoning might sound persuasive to the uninitiated, but it is in fact completely flawed in an impressive number of ways. Yet, we see it all the time. Here’s a recent example, courtesy of Eric Holthaus, one of the top climate journalists in the U.S. and a published author on the topic:
+
+At its current consumption rates, Bitcoin could never replace the global financial system. Right now, with its high transaction fees, Bitcoin only can handle about 350,000 transactions a day. At that rate, Bitcoin would require 14x the world's total electricity just to process the 1 billion credit card transactions that take place every day. Bitcoin is not just inefficient, it's actively anti-efficient. It makes the world worse in exactly the opposite ways it’s trying to help.
+
+I’m going to be frank: This line of reasoning is deeply misinformed. Pundits repeating this chain of logic are ensnared in a number of misconceptions, mostly resulting from their unwillingness to engage with the subject matter itself.
+
+It’s possible they’re being deliberately provocative with these analyses, but their claims just aren’t grounded in reality. Here’s why.
+
+Energy consumption derives from coin issuance
+
+Today, bitcoin miners earn around $50 million/day, which annualizes to around $18.2 billion in miner revenue. Fully 85% of that revenue derives not from per-transaction fees, but from the issuance of new bitcoins. This issuance process is finite: in fact, it’s 88.7% done. The rate of new coin issuance halves every four years as it approaches that 21 million limit. (These are the “halvings” you have probably heard about. Bitcoiners really love them.)
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+So the issuance component of miner revenue is structurally decaying over time. Unless you believe that the price of bitcoin is going to literally double in real terms every four years until 2140, that expenditure (and hence energy usage) is going to decline.
+
+But why burn electricity to issue new coins?
+
+See also: Nic Carter – What Bloomberg Gets Wrong About Bitcoin’s Climate Footprint
+
+Put yourself in Satoshi’s shoes. You have just invented a new monetary system, which you (correctly) believe can become a global monetary standard of consequence. How do you distribute the coins? You could email them to your friends, but that would create a tiny group of privileged elites and compromise the credibility of the system. You could simply claim the coins for yourself, but most likely no one will adopt a monetary system where a single individual controls the vast majority of the wealth.
+
+Satoshi’s solution was to distribute the coins by creating a game in which miners surrender something valuable – energy – in exchange for the right to claim them. Because mining is a radically free market, miner margins are usually slim. This means that even though they are literally creating new units of money, that status doesn’t actually give them a huge advantage. Miners have to sell their coins on an ongoing basis to cover their costs – they are just an interface to the protocol itself. There’s a reason venture funds like mine typically don’t invest in miners. It’s a tough, thin-margin business and involves lots of capital expenditure.
+
+Incidentally, this mirrors the way gold mining works. Gold is a commodity sitting in ore underground, but it takes a huge amount of work to actually extract it from the earth. This is one of the features that makes gold an excellent monetary good – it’s hard to create and the miners don’t have a particularly big advantage in obtaining it. Similarly, bitcoin mining is a synthetic approximation of gold mining. Instead of sifting rock, you’re sifting through a mathematical space.
+
+With this in mind, you might begin to understand why issuance had to be done by burning energy provably: because Satoshi had no other way to fairly, and in a decentralized manner, issue units of digital value to the world. Other distribution methods have been flops: Airdrops were ignored, initial coin offerings allow big venture funds to own mammoth quantities of the supply and faucet models are gimmicky.
+
+(MineSpot)
+
+Satoshi has been absent for around a decade now, but the issuance still proceeds according to the initial design with no interruption – a highly competitive free market process. Unlike the insiders that monetize their proximity to the Federal Reserve and the printing press, the firms that create new units of bitcoin don’t gain much from their monetary proximity. They eke out a thin margin.
+
+So coin issuance had to be proof-of-work and, luckily enough, it’s almost completed. To ascertain the likely future energy outlay of the system, fees have to be considered instead.
+
+One transaction does not equal one payment
+
+I’ll keep this short: Bitcoin offers fast, high-assurance, final settlement. This means transactors can trust that value transfers are absolutely final within a short period of time. This permits Bitcoin to scale to enormous size – billion-dollar transactions are common and settle without incident. Can you do that with Visa? Bitcoin is therefore best understood as a high-integrity utility-scale settlement network, similar to Fedwire (but arguably more resilient, given Fedwire’s recent outages).
+
+No surprise that like other real-time gross settlement systems, Bitcoin is a suitable base upon which other payments networks can be built. These are numerous, but they include off-chain transactions at exchanges, near-chain solutions like Lightning, sidechains with new trust models like Liquid and Rootstock, and smart contract platforms like Blockstack that rely on Bitcoin’s security. Like Visa with Fedwire, all of these payment layers introduce new trust models and different settlement guarantees, but in exchange provide scalability and transactional creativity.
+
+If we return to Holthaus’ musing, we see just how many wrong turns he has taken.
+
+One Bitcoin transaction, therefore, can settle thousands of off-chain or near-chain transactions on any of these third-party networks. Exchanges and custodians could choose to settle up with each other once a day, batching hundreds of thousands of transactions into a single settlement. Lightning channels could settle literally millions of payments into a single bitcoin transaction with a channel closure.
+
+This isn’t just speculative. It’s happening today. As Fedwire’s 800,000 or so daily transactions reveal little about the total payments volume supported by the network, Bitcoin’s 300,000 daily transactions and 950,000 outputs do not tell the whole story.
+
+Bitcoin can be global money, without changes
+
+If you’ve read this far, you’ll have likely surmised that the extrapolations promoted by the critics are untethered from reality. Bitcoin’s base layer cannot, for good reasons, scale up to a global payments network, nor should it. The layered model – mimicking the way the traditional payments system developed – is what the community has wisely opted for. Bitcoin has a fundamental constraint in terms of the blockspace available which is a function of the cost to operate a node and be a peer on the network. Push too much data through Bitcoin’s pipes, and only individuals with large data centers will be able to validate the blockchain. The trustleness of the system evaporates in that scenario.
+
+Since Bitcoin developers are laser-focused on keeping the data overhead of the system down, you shouldn’t expect Bitcoin to scale up to tens of millions of transactions per day. While fees might increase, and cause miner revenue to rise commensurately, it’s worth thinking through where fees are likely to settle at equilibrium.
+
+Consider a toy model. It’s plausible that Bitcoin could, with efficiency savings, process 1.2 million transactions a day. Average fees recently spiked to $25 per transaction for a week long period. If Bitcoin were settling $100 billion/day, instead of $10 billion/day as it currently does, transactors might be willing to stomach $50 per-transaction fees.
+
+See also: Nic Carter – The Last Word on Bitcoin’s Energy Consumption
+
+In a post-subsidy world, even with those aggressive assumptions, you get a miner revenue of $21.9 billion. That’s not much more than the current annualized level of $19.7 billion. At a more conservative 350,000 transactions/day and $30 average fees, miner revenue would stand at a mere $3.8 billion.
+
+So if we return to Holthaus’ musing, we see just how many wrong turns he has taken.
+
+We know now that Bitcoin handles a relatively small number of final settlements, but this is in no way a constraint on the system. We don’t think of Fedwire or CHIPS as constrained due to their relatively small number of settlements. We know that most of bitcoin’s energy is due to initial coin issuance, which is declining with time. We’ve looked at some toy fee models to ascertain that the doomsday scenarios are exaggerated. We know that Bitcoin and Visa transactions aren’t comparable. And we know that scaling Bitcoin involves building out deferred-settlement payments systems on higher layers, which ultimately settle to a small number of payments on the base layer.

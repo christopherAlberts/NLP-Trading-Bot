@@ -1,0 +1,41 @@
+The investment community has been taken on one heck of a ride over the past year. The unprecedented coronavirus pandemic rocked equities over a five-week period, which has since been followed by one of the most ferocious bounce-back rallies on record.
+
+While tech stocks generally thrived amid the volatility, one "asset" really stood head-and-shoulders above everything. I'm talking about bitcoin.
+
+Bitcoin's unstoppable ascent above $40,000
+
+Since bottoming at close to $4,100 per token in March, the world's largest cryptocurrency by market cap has been virtually unstoppable. Last week, bitcoin eclipsed the $40,000 mark and was, at the time of this writing on Jan. 9, hovering slightly above a $750 billion market cap, based on the circulating supply of tokens.
+
+What's powering bitcoin higher depends on who you ask and what social media platform you prefer to get your ideas from. Some folks would suggest that bitcoin's scarcity is what's pushing it higher. With a token limit of 21 million, bitcoin avoids the deflationary aspect that has the potential to pulverize fiat currencies. The U.S. dollar, for example, has been pressured by a rapid increase in U.S. money supply. With the Federal Reserve's ongoing quantitative easing measures and the federal government's fiscal stimulus, the money supply should continue growing.
+
+Other folks point to bitcoin's growing utility as reason for its increasing token value. We're seeing more bitcoin ATM's placed throughout the world, and more than 15,100 businesses now accept bitcoin as payment globally, according to data by Fundera. In the minds of crypto enthusiasts, this demonstrates growing adoption.
+
+However, there's a fatal flaw in the valuation thesis behind bitcoin's meteoric ascent. When it comes to scarcity and utility, bitcoin can be perceived to have one, but not both -- and may not truly have either.
+
+The false perception of scarcity
+
+As noted, bitcoin's token limit is 21 million. As transactions are verified on its underlying digital ledger (blockchain) and block rewards are paid to those handling this verification process, new bitcoin tokens are minted. There are close to 18.6 million bitcoin in circulation today, and it'll take almost 120 years to fully mine the remaining 2.4 million tokens. Pretty cut-and-dried case of scarcity, right?
+
+Not so fast.
+
+There's a big difference between palpable scarcity and perceived scarcity. Take gold as the perfect example. Even though we may not know exactly how many ounces of gold there are on planet Earth, we can say without a doubt that no additional gold can be made. In other words, we can't use alchemy to create any more gold than what's been mined or what's yet to be mined. That's what we call a hard cap, and it represents a tangible/palpable level of scarcity. This is why gold has been referred to as a store-of-value for so long.
+
+On the other hand, bitcoin's scarcity is intangible and far from guaranteed. The 21 million token cap was effectively plucked from thin air, and community consensus has the potential to, at any point in the future, increase this token limit. With tangibly scarce resources like gold, there's no chance of increasing the lifetime supply. With bitcoin, that chance might be small, but it's unquestionably higher than 0%. It's this false perception of scarcity that keeps pushing bitcoin higher.
+
+Minimal utility, at best
+
+Bitcoin bulls also push the utility narrative. As noted, an increasing number of businesses in the U.S. and globally are now willing to accept bitcoin as a form of payment. However, any sort of broad-based adoption can be thrown out the window as long as bitcoin has its 21 million token cap in place.
+
+Fundera notes that over 2,300 U.S. businesses allow bitcoin as a form of payment. The problem is that there are 7.7 million businesses in the U.S. with at least one employee, and over 32 million if you count sole proprietors. That's not exactly what I'd call broad-based adoption.
+
+Even more concerning is the concentration in holdings by investors (the so-called HODL'ers). Back in December 2017, Bloomberg reported that 1,000 people owned approximately 40% of all circulating bitcoin. In November 2020, according to data from Flipside Crypto, Bloomberg notes that 2% of accountholders now control 95% of all bitcoin. While perhaps some of these tokens are making their way into every day transactions, this data would suggest that most tokens aren't in circulation. That leaves maybe $40 billion worth of bitcoin in circulation for payments, which won't go very far toward creating a true medium of exchange.
+
+What really drives bitcoin?
+
+The point is this: Bitcoin bulls would have you believe it's both scarce and growing in utility/adoption. The reality is that bitcoin's scarcity is questionable, at best, and it definitely, for the time being, lacks utility. Bitcoin enthusiasts can hope that the perception of scarcity continues, but will have to come to terms with the fact that it'll never be widely adopted or utilized. By comparison, if enthusiasts favor increased utility, they're going to have to accept the idea of community consensus increasing the token limit. Based on its existing setup, bitcoin cannot have both scarcity and utility.
+
+So, what's actually driving bitcoin higher? Blame inefficient markets, emotions, and technical analysis.
+
+If supposed bitcoin whales are holding onto most of the circulating supply, it suggests that program traders and small-time speculators are behind most of the day-to-day bitcoin movement. The problem with such thin trading is that it can cascade to the downside just as quickly as we've seen bitcoin surge to the upside.
+
+Earlier this month, I called bitcoin 2021's most dangerous investment. I stand by that claim and firmly believe bitcoin will come crashing back to Earth in a big way sooner than later.

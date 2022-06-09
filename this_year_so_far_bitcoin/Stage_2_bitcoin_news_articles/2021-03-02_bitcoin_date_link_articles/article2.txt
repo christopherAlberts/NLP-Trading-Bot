@@ -1,0 +1,29 @@
+Institutional traders look to be positioning for a bitcoin price rally to $75,000 and beyond in coming months, according to options market data.
+
+“On Monday, some block traders took bull call spreads at $75,000 and $100,000 strike call options expiring on May 28 via over-the-counter (OTC) trading and settlement desk Paradigm,” Swiss-based options analytics platform Laevitas told CoinDesk. “These could be institutions betting that bitcoin will hit at least $75,000 by summer.”
+
+A call option gives the holder the right but not the obligation to buy the underlying asset at a predetermined price on or before a specific date. A bull call spread involves buying call options at/below or above the spot market price and selling an equal number of calls with the same expiry at a higher strike price.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+For instance, at 20:23 UTC (5:23 p.m. ET) on Monday, a trading entity bought 100 contracts of the May 28 expiry call option at $75,000 strike and sold 100 contracts of the May 28 expiry call option at $100,000 strike. Bitcoin was trading at $48,721 when the call spread was bought.
+
+Institutions tend to trade through OTC desks to avoid influencing spot market prices. Trades facilitated by Paradigm are automatically executed, margined and cleared at Deribit, the world’s largest crypto options exchange by trading volume.
+
+Bitcoin bull call spreads Source: Laevitas, Paradigm, Deribit
+
+The trade cost 4.75 BTC, which is the maximum loss the institution would suffer if bitcoin ends at or below $75,000 on May 28.
+
+The initial cost would have been much higher if the trader had only bought $75,000 calls. “The purpose of the call spread is to have a bullish direction but offset the costs of merely buying calls,” Laevitas said.
+
+While selling $100,000 calls has bought down the cost, it also limits maximum return possible to 20.25 BTC. The strategy will earn a maximum profit if bitcoin settles at or above $100,000 on May 28. Several other call spreads were bought on Monday at strikes ranging from $52,000 to $100,000.
+
+The data shows institutions remain undeterred by the recent price pullback and foresee a continued rally over the next three months.
+
+View
+
+At press time, bitcoin is changing hands near $48,730, representing a 1.8% gain over 24 hours. The cryptocurrency was rejected above $50,000 during Asian hours, according to CoinDesk 20 data.
+
+While the cryptocurrency has bounced up from lows near $43,000 observed over the weekend, some analysts believe the pullback may not be over yet.
+
+“At the moment, we think the biggest risk to bitcoin is the short-term risk associated with a downturn in the U.S. and global equities,” said Joel Kruger, currency strategist at LMAX Digital. “We think there’s still room for more weakness ahead and would caution against expectations that the bottom is in.”

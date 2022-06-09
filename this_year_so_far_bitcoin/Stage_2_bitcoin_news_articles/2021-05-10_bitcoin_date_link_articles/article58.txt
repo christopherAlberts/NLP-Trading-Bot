@@ -1,0 +1,53 @@
+Digital asset firm Kraken recently published a report that explains how to safely and securely store your cryptocurrency holdings.
+
+Kraken notes in its report that if you’ve recently purchased some crypto-assets, then you might feel uneasy after hearing about the many horror stories of investors or traders losing fortunes “just by making mistakes as silly as losing the password to their crypto wallet.”
+
+Kraken also mentioned that it’s possible new crypto investors are unable to find reliable resources that clearly explain how to securely store their coins.
+
+According to Kraken, the truth of the matter is that the crypto space has changed quite a bit during the past few years and you need not “go down the same rabbit hole” that others had to when previously trying to store their digital assets.
+
+Kraken Intelligence and Kraken Security Labs revealed that they’ve partnered to offer you “simple, honest advice on how you might want to store your crypto.”
+
+As mentioned in the report, what may work for you might not work for someone else. That’s why it is important that users carefully weigh the advantages and disadvantages of how they decide to buy, store and transact with their cryptocurrency.
+
+Since crypto-assets are more “decentralized” than traditional assets, holders have to take “precautionary measures to protect against the risk of either loss or theft,” the Kraken team explained.
+
+They reminded users that once their crypto is lost, it’s “gone forever.”
+
+A few examples of how crypto has been lost or stolen:
+
+Human error (e.g., you “send your funds to the wrong wallet, you forget your password”)
+
+(e.g., you “send your funds to the wrong wallet, you forget your password”) Natural disaster (e.g., your house “burns down with your crypto wallet(s) stored inside it”)
+
+(e.g., your house “burns down with your crypto wallet(s) stored inside it”) Hardware malfunction/loss (e.g., your “computer hard drive holding your private keys is corrupted”)
+
+(e.g., your “computer hard drive holding your private keys is corrupted”) Theft Remote theft (e.g., you “fall victim to scams, an exchange hack, or a personal hack”) Physical robbery (e.g., “your backpack or purse is stolen with your private keys in it”) Government seizure (e.g., law enforcement “demands an exchange to freeze your account”)
+
+
+
+As explained in Kraken’s report, digital assets are kept in wallets, which are “computer programs that allow crypto to be sent or received.” The report from Kraken also noted that “depending on whether the wallet is connected to the internet, crypto wallets are bucketed into two categories: ‘hot’ (online) or ‘cold’ (offline).”
+
+Kraken’s report further noted that on most cryptocurrency networks, the public key serves as the “account number” while the private key is like the “password.” ”
+
+While there are may be certain exceptions, most digital currencies like Ethereum (ETH) work in “pretty much the same way,” the report noted.
+
+Kraken’s report recommends that:
+
+“Long-time holders looking to store generational wealth should custody their crypto-assets via more complex strategies, including running a full node to verify transactions, storing funds with a trusted custodian, utilizing multi-signature technology (multisig) to split private keys between trusted third parties, and/or splitting funds between multiple hardware wallets, among others.”
+
+The report adds that market participants that come under this tier should “consult a professional for an appropriate strategy relative to their financial situation.”
+
+As suggested by Kraken, a potential solution in this “realm” probably needs several different keys to unlock funds (i.e. multisig) in a wallet and could look like the following:
+
+Your own Rube Goldberg-esque system “with separate devices on different continents, custom-written applications and laser-etched backup plates buried under your home.”
+
+A professional company “storing your crypto (known as a custodian).”
+
+The middle-ground – “a company that helps you to self-custody your assets (e.g., Casa custody and Unchained Capital).”
+
+You can view the complete report here.
+
+Kraken offers access to 57 different virtual currencies spanning over 280 markets with sophisticated trading features, robust security, and “on-demand” client service.
+
+With its acquisition of Crypto Facilities, Kraken now provides “seamless” access to regulated derivatives on 5 digital currencies with as much as 50x leverage.

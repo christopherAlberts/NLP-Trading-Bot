@@ -1,0 +1,23 @@
+Bitcoin’s mining difficulty – a self-correcting score that determines the computational effort it takes to mine bitcoin – set a new all-time high Thursday.
+
+Bitcoin’s difficulty adjusted upward 21.53%, at 25.04 trillion, after dipping to 20.61 trillion in the last adjustment, according to this journalist’s Bitcoin node. This comes after Bitcoin’s hashrate, which is a measure of the combined computing power of Bitcoin’s miners, rose to an all-time high this week, per multiple sources.
+
+Bitcoin’s difficulty is an internal score that begins at 1 (the easiest level) and grows or shrinks exponentially depending on how many miners are competing on the network. Today’s adjustment was the largest in seven years.
+
+“Today’s difficulty increase of 21.53%, the largest percentage increase since 2014, and it’s also the largest absolute increase in history,” Compass Mining CBO Thomas Heller told CoinDesk.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+About a month ago, coal mining accidents shut down bitcoin miners in Xinjiang, China, clipping roughly 25% of bitcoin’s hashrate from the network. Heller commented that these miners have come back online recently, leading to the surge in hashrate and, by extension, difficulty. Some of these miners have begun migrating machines to Sichuan for its incipient rainy season, which will supply them with gushes of cheap hydroelectricity.
+
+On the other side of the world, North American pools are growing at a rapid clip and turning on more machines than ever before.
+
+Even as competition escalates to new heights, bitcoin miners are making more than they have in two years, according to Luxor Technology’s hashrate index.
+
+When Taproot?
+
+This difficulty adjustment also gives mining pools a fresh start to signal for Bitcoin’s Taproot update, an upgrade that outfits Bitcoin with new signature and scripting schemes that allow for cheaper, more flexible multi-signature transactions, among other things.
+
+Taproot will pave the way for improvements to outstanding technologies like Lightning, multi-signature wallets and Bitcoin-based “smart contracts” like discrete log contracts (DLCs).
+
+Per rules to coordinate the upgrade, at least 90% of mining pools within any given difficulty period must signal their support for the upgrade using a special identifier in the blocks they mine. These periods last 2,016 blocks (or roughly two weeks); miners now have five epochs left to signal if they want Taproot to activate in November.

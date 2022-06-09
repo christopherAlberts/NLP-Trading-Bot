@@ -1,0 +1,85 @@
+As we commemorate Earth Day this week, the spotlight intensifies on cryptocurrency mining and its energy consumption. How do we reconcile differing facts and perspectives?
+
+The facts and figures on crypto mining and sustainability depend on who you ask. The Cambridge Center of Alternative Finance finds that Bitcoin mining now uses 126 TWh of electricity a year, more than the country of Argentina at 125 TWh a year. But Digiconomist’s estimate of Bitcoin’s annual energy consumption is more modest, at 102 TWh.
+
+What’s not in doubt is that as Bitcoin and other cryptocurrency prices rose dramatically over the last six month, cresting again and again to new all-time highs, so has the enthusiasm of miners and the amount of electricity they use to mine crypto out of the digital ether.
+
+“It’s like rolling a dice hundreds of millions of times a second,” Joseph Wang, founder of Hong Kong-based Bitquant Digital Services, told Forkast.News. “You only win a certain percentage of the time, but every roll uses a little bit of electricity.”
+
+The total number of Bitcoin that will ever be mined is 21 million, about 18.7 million of which is already mined. However, the last Bitcoin to be mined will not be released until the year 2140.
+
+“It’s all baked into the system,” Wang said. “It halves every four years.”
+
+The large discrepancy between competing estimates of Bitcoin energy use is due to the fact that miners using older, less efficient equipment will use more power to mine the same Bitcoin, a factor that can only be estimated, not calculated.
+
+“You know the amount of computing power that is being used to mine Bitcoin, what you don’t know is how much electricity is being used to generate that computing power,” Wang said. “The latest hardware is super efficient, but not everybody is using that.”
+
+A Bitcoin farm is basically a collection of miner “boxes” that are plugged in and connected to the internet. Multiplied by hundreds of thousands.
+
+“It basically looks like a data center,” Wang said.
+
+But more than hardware efficiency, the source of the electricity that powers a Bitcoin farm is ultimately what is going to determine the negative environmental impact of cryptocurrency mining. There are Bitcoin mines out there that essentially have a carbon footprint of zero because they either rely only on clean energy — such as hydropower in Sichuan or wind power in Texas — or take advantage of excess power generation at off-peak hours.
+
+“The important thing to remember about power is it’s impossible to store a large amount of it, yet geothermal or hydroelectric power generation is constant,” Wang said. “If you don’t use that excess power, it’s just going to disappear.”
+
+The average Bitcoin did not come from clean energy
+
+Unfortunately, while it is possible to mine Bitcoins without damaging the environment, the average Bitcoin mined probably didn’t come from clean energy. The Cambridge Center for Alternative Finance analyzed global Bitcoin-creation activity, or “hashrates” to find out where Bitcoins were mined around the world. As of April 2020, 65.08% of Bitcoin mining in the world took place in China. Of that, more than a third was mined in Xinjiang, where the vast coal fields provided cheap electricity for aluminium smelting, polysilicon production, and Bitcoin mining.
+
+“Starting from around 2008, you had people firing up idling coal-powered plants in Inner Mongolia, they’d pay their friends under the table to get power at three cents per kilowatt hour rather than 20 and then split the Bitcoin profits,” said Wang, describing the practice as being of “questionable” legality.
+
+Until recently, China’s Inner Mongolia region was one of the world’s largest Bitcoin producers. But Inner Mongolia is now banning crypto mining for environmental reasons, and miners have until the end of this month to shut down or leave the region.
+
+Still, as the price of Bitcoin recently spiked to recent all-time high of US$64,804.72, notwithstanding the current crypto market correction, more miners are now out chasing the prize than ever. While there will be more nearly carbon-free mines in Scandinavia or Texas, there will also be more mines burning highly-polluting coal elsewhere. If high Bitcoin prices keep incentivizing Bitcoin mining, is there a theoretical limit to the total energy costs from mining?
+
+While a higher price has definitely increased the number of miners, Wang said there is a practical limit to how many more might be willing to get in the game.
+
+“Imagine a car race with no limit to the number of entrants, but only a certain number of podiums,” said Wang, “no matter how high the prize, at some point the uncompetitive drivers drop out because they are not going to podium.”
+
+Bitcoin is not the only energy-consuming crypto
+
+Bitcoin is also not the only cryptocurrency that is mined. According to Digiconomist, mining Ethereum’s coin Ether uses 36.8 TWh of energy a year, much less than Bitcoin but still more than the energy-consumption of the entire nation of Bulgaria. ETH’s energy consumption is also on a steep upward trend, tracking Ether’s sharp price rises this year.
+
+“This energy consumption is a terrible cost for the reliable, uncensorable open finance and nerdy fun that results,”said Jamie Pitts, who works in DevOps and is also a community organizer working with Ethereum based in San Mateo, California.
+
+However, unlike Bitcoin, Ethereum has an exit plan from mining. Ethereum 2.0 is going to go from the current energy-intensive “proof-of-work” consensus mechanism used by both Bitcoin and Ethereum to a “proof-of-stake” one that does not require mining.
+
+“It’s been a long and difficult road,” said Pitts, in an interview with Forkast.News. “The current idea is to carefully change Ethereum 1 so that it runs without a major disruption to users inside the emerging proof-of-stake Ethereum 2.”
+
+While proof of work is like a complicated and energetically taxing roll of the dice, proof of stake is like putting everybody’s names into a virtual fishbowl and drawing to see who wins the digital lottery, said Wang, who also does Ethereum programming.
+
+“It’s challenging because you can’t shut down the old system before introducing the new system,” Wang said. “It’s like trying to fix an engine while the car is running.”
+
+While the proof-of-stake system will still require electricity, it’s probably 1/100th the amount used for mining.
+
+“I doubt anyone will be mining Ethereum in five years, unlike Bitcoin,” Wang said.
+
+Alex Liu, founder of MaiCoin, a Taiwanese blockchain startup, acknowledges the cost of Bitcoin mining and expects it to continue to consume the electricity of “some mid-sized country” well into the future.
+
+“It’s an unregulated industry,” said Liu, in an interview with Forkast.News. “As a closet environmentalist, I hate to see it.”
+
+Is it fair to blame cryptocurrency miners?
+
+Miners take advantage of cheap electricity and displace the lowest margin value electricity use, which could be relatively benign or seriously polluting depending on the source of that electricity.
+
+“Bitcoin doesn’t care where the electricity comes from. There are hydroelectric dams in Sichuan where the electricity is pretty clean. But of course elsewhere, if it’s coal that’s burned, then it’s pretty bad,” Liu said. “The miner goes where the electricity is cheap, because that’s what makes or breaks their business.”
+
+But even as he acknowledges the ecological toll of mining, Liu says it is unfair to single out cryptocurrency for being polluting.
+
+“What about the rest of the financial industry? How much energy do brick-and-mortar banks use? The ATMs? The armored trucks?” Liu said. “Bitcoin provides some kind of alternative to that industry, some competition.”
+
+“A fair comparison would be to ask what is the carbon footprint of all the world’s leading commercial banks,” Liu added.
+
+Should there be a carbon tax on Bitcoin mining?
+
+In a withering opinion piece in the Financial Times, economist Nouriel Roubini suggested that the cryptocurrency industry be made to pay mining-related environmental impact.
+
+“[T]he fundamental value of Bitcoin is zero and would be negative if a proper carbon tax was applied to its massive polluting energy-hogging production,” Roubini wrote.
+
+But who would impose such a tax? A massive international effort would be necessary to create coordinated regulations, or else miners can simply move to an unregulated country.
+
+One country that stands out among the rest, of course, is China. Because so much of the world’s Bitcoins are mined there, it stands to reason that a serious crackdown on dirty-energy Bitcoin mining, as is happening now in Inner Mongolia, will have a significant effect. And while the totals are still quite high, the number of Bitcoin mines in China is on a downward trend.
+
+However, the real reason for the trend of Bitcoin miners exiting China may not be the government crackdowns, but the nation’s other economic needs as well as every company’s quest for greater profitability.
+
+“Because of economic growth, China now needs that power for other things,” said Wang, of Bitquant Digital Services. “Now there are a lot of new mines running off geothermal in Iceland or hydroelectric power in Northwest U.S.”

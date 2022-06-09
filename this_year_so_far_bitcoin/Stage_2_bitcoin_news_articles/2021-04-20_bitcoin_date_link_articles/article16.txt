@@ -1,0 +1,23 @@
+The Bitcoin price fell by approximately 18% over the weekend and one of the factors behind this drop was a power outage in China’s Xinjiang region that caused a 45% drop in the hash rate.
+
+The hash rate of Bitcoin measures the total combined computational power that is being used to mine and process the cryptocurrency.
+
+Another factor behind Bitcoin’s price dive was speculation that the U.S. Treasury would charge several financial institutions with money laundering using cryptocurrencies.
+
+Ran Neuner, co-founder of Crypto Banter, host of CNBC’s Crypto Trader and CEO of OnChain Capital called the power outage “a little bit scary” as it highlighted a major risk for Bitcoin investors.
+
+Speaking to Kitco’s editor-in-chief, Michelle Makori, Neuner said “what happened this weekend was a little bit scary because there was a power outage in one province in China. We didn’t know about the power outage but we saw that Bitcoin’s hash rate dropped by 45%.”
+
+Investors got worried about whether or not Bitcoin is really as decentralized as one may initially be led to believe, Neuner added.
+
+“What that means is that 45% of the miners have the computers, mining and creating Bitcoin or confirming the transactions, 45% of them dropped. We haven’t seen a drop like that since 2017,” he said. “That set some alarm bells going off. Why? Because if something is so truly decentralized, if 45% of the network is in one province in China, and we know that China has had conflicting views on Bitcoin…what happened there was people started selling off their Bitcoin because they started to look at Bitcoin and say hold on, maybe this decentralized currency isn’t that decentralized after all.”
+
+This fear contributed to what Neuner described as “the biggest liquidation in [Bitcoin’s] history.”
+
+The silver lining to this event is that now, as more Bitcoin investors are aware of the risks, there may be an effort to further decentralize the mining of Bitcoin away from China.
+
+“We’re glad that this concern finally got out there and we know, and now, there’s a challenge to get more mining done outside of China,” he said.
+
+The power outage in Xinjiang coincided with a change of attitude towards Bitcoin from the Chinese government, as Beijing called Bitcoin an “investment alternative” on Sunday, following years of a government crackdown on the cryptocurrency.
+
+“It’s a big turnaround indeed,” Neuner said. “To have them do an about turn and actually start saying that Bitcoin is an alternative investment, and other cryptocurrencies may also be considered, that’s a huge turn and that could bring China back into the market or specifically, the speculation market, which is super exciting for the industry.”

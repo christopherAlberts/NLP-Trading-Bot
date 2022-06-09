@@ -1,0 +1,119 @@
+Galaxy Digital's Mike Novogratz explains the outlook for crypto as Coinbase goes public.
+
+Video Transcript
+
+MARK DECAMBRE: Welcome. I'm Mark DeCambre, markets editor at MarketWatch. And I'm joined here by Mike Novogratz, founder and CEO of Galaxy Digital. That was a great session with [? Carlton ?] and Senator Lummis.
+
+Just before I get in, we don't have a lot of time, but I want to just address or remind folks that we encourage the audience to ask questions and put those questions in the chat box on the right side of your screen. And we'll get to those as soon as possible and get to as many as we can.
+
+But let me just jump in, Mike, Coinbase is a publicly traded company. It's on the NASDAQ. It's come a little bit off the boil. Give me the macro view of what you think of coin trading now. And what this means for the industry.
+
+MIKE NOVOGRATZ: So it's a monumental day for the industry. In a lot of way, this is the Netscape moment. And for those a lot younger than me, Netscape was the big IPO in 1995 that really ushered in the age of the internet.
+
+And Coinbase is direct listing today. First of all, it was the single largest transfer of value in one price, I think, of all time, like, $13 billion transferred, right? It is ushering in a new era, where the crypto economy is an asset class.
+
+And that's exciting for everyone who has toiled away in this space for the last seven, eight years. And so, or the last 12 years, quite frankly. And so big, big day for crypto.
+
+MARK DECAMBRE: You make anything of the share price, actually, coming a little bit off of its peak of the day?
+
+MIKE NOVOGRATZ: No. Listen, you know, when you have that kind of excitement, you had $13 billion in one print, people that have been at long Coinbase from $80 million, I tried to beg my way into that company at $80 million, and I wasn't able to get money in.
+
+But a billion, $2 billion, $5 billion, $10 billion, of course, they're going to take some profit today to balance out their portfolios, to ring the cash register. And so I'm sure there's going to be two-way volatility for the next few weeks.
+
+Story continues
+
+But I'm also sure that every big mutual fund, every big institution that plays in the equity space who needs crypto exposure now, is going to see Coinbase as part of that exposure. And it is the marquee name in our space right now. I'm hoping one day Galaxy sits right alongside it as the second marquee name. But there haven't been a lot of great crypto offerings.
+
+MARK DECAMBRE: Which is a good follow-on question. Galaxy Digital is public in Canada. Why did you go public there? And when are you going to list in the US? When and if are you going to list in the US?
+
+MIKE NOVOGRATZ: Yes. So I'm not allowed to talk about that for lots of legal reasons. At our last earnings, we said second half of the year is our idea.
+
+MARK DECAMBRE: All right. So let me ask you another question that you may not be able-- you may or may not be able to talk about. But from what we've seen in terms of reports, Galaxy Digital also filed with a bunch of the other wannabes out there who filed for a Bitcoin ETF application with the SEC. You know, how are you thinking about that?
+
+MIKE NOVOGRATZ: Listen.
+
+MARK DECAMBRE: And if you can't speak to that, can you speak broadly?
+
+MIKE NOVOGRATZ: Let me speak more broadly to the ETF. There are 13 companies that have filed, I think 13, to do, to have, an ETF this year. My sense is we will have an ETF by the end of the year. And when the SEC rules, everyone will get a fair shot to launch their ETF.
+
+I think they will do a blanket approval process I don't think they're going to pick one person versus the next. That's my sense. I don't know that as a fact, but it's a pretty strong sense.
+
+MARK DECAMBRE: So you think it will be a jump ball?
+
+MIKE NOVOGRATZ: Jump ball. So it's going to be, you know, who's charismatic in their orange jacket, who's got a big brand, who has great distribution, who connects to the investor base.
+
+MARK DECAMBRE: Yeah. I guess it's probably worth telling people you're wearing Bitcoin orange.
+
+MIKE NOVOGRATZ: This is Bitcoin orange in honor of Coinbase. You know Fred Ehrsam, Brian Armstrong deserve a big round of applause.
+
+MARK DECAMBRE: So in the backdrop of Coinbase going public, we just heard from Federal Reserve Chairman Jerome Powell who just described crypto as vehicles for speculation at the Economic Club of Washington. What do you say to that?
+
+MIKE NOVOGRATZ: Listen. I think sometimes, you can miss the point. You know, Coinbase isn't a fintech company. It's a crypto economy company, right? It's an ecosystem company. You see this rise in NFTs. We're using blockchain now for IP, blockchain for digital art, blockchain for music, opening up whole new ways that artists can connect.
+
+In the financial sector, Bitcoin has become digital gold. It is now 13%, 14% of gold. Today the chairman of Goldman Sachs, David Solomon, said he will be surprised if it doesn't surpass gold in market cap. And so that lane is an important lane, right? In some ways, it's a report card on how Chairman Powell and Janet Yellen are doing managing the economy.
+
+People are buying Bitcoin because fiat's being debased. But there's other parts of the crypto ecosystem that are exploding, right? The Ethereum Project, the Ethereum Network, everything is building-- being built on top of it. Central bank issued digital currencies including the US Digital currency, right? Facebook is coming out with DM very soon.
+
+We have USDC that Circle and Coinbase have done. That's going to be a big battle in payments. And it's an important one because the Chinese are doing this. And so we're going to have this kind of geopolitical war to see who becomes the global digital currency.
+
+And so when you put it all together, our ecosystem has an exploding TAM, right? What's the total addressable market? It's almost hard to identify because there are so many different ways. Blockchain, crypto, Bitcoin, put it all together, is going to impact our lives in the future.
+
+MARK DECAMBRE: So it is hard to envision what the future is going to look like. But we've got you know, I guess, news as well that Gary Gensler has been confirmed as the new SEC commissioner. Being a Goldman alum, I imagine you know a little bit about him. I've already worked with him in Hong Kong. What do you expect from him?
+
+MIKE NOVOGRATZ: I do know Gary. Gary is very smart. He loves crypto. He taught a class at MIT on blockchain, Bitcoin. I actually was a guest lecturer at his class. And so unlike Chairman Clayton who just didn't want to deal with that as part of his legacy, I am certain Gensler is going to tackle these issues and help get some clarity, a regulatory clarity, around what participants should be expecting.
+
+He's already said Bitcoin and Ethereum are not securities. And so that's great news. You know, he's a progressive at his core. And so I think if I'm a bank, and I'm a big rent-taker, I'm probably a little bit nervous. But the crypto ethos is to go after the rent-takers. And so quite, frankly crypto aligns with Gensler in a really straight way.
+
+MARK DECAMBRE: Now you know, I think we talked when we've had conversations in the past about this notion. You even touched on a little bit about crypto and blockchain eating-- eating the world. What do you mean by that?
+
+MIKE NOVOGRATZ: So listen. We're early stages. But a blockchain is a database. And it's a database that can be shared by lots of people and authenticated and never changed. And so you can take that technology to art. We're seeing that within NFTs now and say, hey, I can create digitally scarce art, and I know it's authentic. And so it's going to open up creativity.
+
+You can also take it to finance, right? There are companies like SushiSwap and Uniswap out there, which are exchanges. They're decentralized exchanges. And so I can envision a future where the NASDAQ and the CME and the New York Stock Exchange are less important because people want peer-to-peer exchange.
+
+And you cut out all the people, right? Think about a driverless bank or a driverless car or driverless exchange. There are still some regulatory hurdles to go over, some big ones. Right now, if I participate in a DeFi project on-- I'm buying or selling against the smart contract. Who's on the other side of that smart contract? Right now, people are very nervous that you need to KYC and AML the other side of the smart contract.
+
+But I would tell you that the smartest minds in this business are working on solving that. And once that little piece of the puzzle gets solved-- it's a hard thing to solve, but it will get solved-- all of a sudden we're going to see these DeFi companies, companies like Compound and the interest rate market explode.
+
+And we're investing in those. Because I see-- and that will be the threat to banks in finance companies. Bitcoin isn't the threat to JP Morgan. Bitcoin is a digital asset that they should have been trading and allowing their investors to participate in. And they will now.
+
+The real threat to Morgan and Goldman Sachs and the legacy financial institutions is when we start bringing blockchains to their products. And that's what DeFi is doing.
+
+MARK DECAMBRE: Now I know you're a big bull. But what would you say to folks as we look at Bitcoin hit a record near $65,000. What's the floor? I would think that, you know, skeptics would still say it can go to zero.
+
+MIKE NOVOGRATZ: It can't go to zero. Like going to 0 is like, oh, let's be sensationalistic. There are over 130 million people that own a piece of a Bitcoin. It's the single biggest distributed asset outside of the dollar in history.
+
+MARK DECAMBRE: Do you think this is something that--
+
+MIKE NOVOGRATZ: It's like six guys creating a Tupperware scheme. It's in every village, in every country in America. It is now in insurance companies, in hedge funds. There's not a macro hedge fund that I know of that doesn't own Bitcoin or have a position in Bitcoin. It's in insurance companies. It's in real money. Now it's going into the equity markets.
+
+And so in the last four months, if there is one message here loud and clear, is crypto is now an asset class. And it's all of $2 trillion. That's 1/2 of 1% of global wealth. If you don't think it's going to 2$, 3%, to 4% of global wealth in the next few years, you're not watching the trends.
+
+And so the momentum behind what's happening here is real. I've hired 75 people in the last six months not because I'm a lunatic. I'm hiring 75 unbelievably talented people because we see demand from customers of all sorts. And
+
+MARK DECAMBRE: And you're-- you're not alone, Mike. We heard from Tim Draper earlier who said you know, basically, all his money is in Bitcoin now. And he only uses Fiat for paying for services and paying people and whatnot. That might change.
+
+But just to hit upon the risk level again, this notion of a bubble and sort of the cyclical nature of Bitcoin, there's a note, a recent survey from Bank of America that says 75% of investment professionals think cryptocurrency is in a bubble. You agree with that notion?
+
+MIKE NOVOGRATZ: No, I don't. Listen, I will say two things. Bitcoin is 75 to 80 vol asset right now. So anyone who understands volatility means you're going to have big moves when you're 70, 85 vol asset.
+
+Over the next year, two, or three years, that volatility will come down with more institutional adoption. But you shouldn't put 50% of your net worth in unless your net worth is as big as Tim's because that volatility [? applied ?] will make you throw up all over your dinner table.
+
+MARK DECAMBRE: I have wondered whose net worth is bigger, you or Tim's. But I kind of [? cribbed ?] that question from James who [? sent ?] a bit of that question as a part of our audience. Here's another one I'll put you from Dale.
+
+Several smart people, including Bill Gates, feel that Bitcoin has negative implications for the climate. What are your thoughts on that? Obviously we've heard that quite a bit in terms of the energy expended to--
+
+MIKE NOVOGRATZ: You know, electric razors have a negative implication for the climate too because they use electricity. Listen, Bitcoin uses electricity because it fulfills a really important role, right? Protecting $1.3 trillion of worth is supposed to cost something. If it didn't cost something, I'd be nervous.
+
+Now the Bitcoin community gets that there's an environmental concern. More and more bitcoins being mined with green energy. I was on a call a week ago with some of the biggest leaders in the space on talking about going carbon neutral by 2040, 2050 like other industries are doing. We're looking at Bitcoin mines with clean nuclear power, with wind energy, with solar.
+
+And so because Bitcoin really acts as a battery. It stores excess electricity if you want to think about it. And lots of places where green energy is used. It's not a constant use case. And so Bitcoin really fits in well in those places.
+
+MARK DECAMBRE: I got-- I got to leave it that. But before we jet out, Mike, can you give me a quick Bitcoin near-term outlook and a five-year outlook, too?
+
+MIKE NOVOGRATZ: Yeah, sure. I will. I think we could end the year at $100,000 Bitcoin, $100,000 a Bitcoin. In the next week, certainly, we could have some volatility because of the excitement around Coinbase. I've seen a lot of weird coins like Doge coin and even XRP have huge retail spikes, which means there's a lot of frenzy right now. That never ends well. And so we'll probably have a washout at one point.
+
+But I think with all the institutional adoption, we could be at $100,000 at the end of the year, and $500,000 by 2024. That's when Bitcoin would eclipse gold. And so listen, things could change. Chairman Powell and Janet Yellen might find religion and all of a sudden, become fiscally conservative and stop printing money, and the deficit might collapse. And then all assets would have a harder time, right?
+
+Someone said, are we in a bubble? Well, stocks are going higher. Baseball cards are going higher. Assets are going higher because Fiat money is being debased. We are printing money like we've never done in our lifetimes. That's also what's driving all the assets higher.
+
+MARK DECAMBRE: That's great. So much food for thought. And I really appreciate you taking time out, Mike. I wish we had more time. So thanks so much.

@@ -1,0 +1,61 @@
+With leading tech companies such as PayPal and Tesla embracing bitcoin, industry observers are looking to Apple as the next major firm to step into crypto. Will it really add bitcoin to its balance sheet?
+
+Apple, the world’s largest company by market capitalization, has remained relatively neutral on bitcoin over the years, despite a growing number of its leading competitors making various forays into the cryptocurrency and blockchain space.
+
+Tesla CEO and self-proclaimed dogecoin fan, Elon Musk, recently showcased his support for bitcoin by purchasing $1.5 billion worth as part of a new investment policy for his electric car company. The announcement sent the crypto market skyrocketing by more than $90 billion and raised hopes that other companies, including Apple, might soon follow suit.
+
+Related: DeFi Divorce: Yearn Cancels Tie-Up With Cover Protocol
+
+Apple is one of the largest cash-holding companies in the United States. With over $195.57 billion in its coffers, a $1.5 billion investment in bitcoin would represent a 0.76% allocation.
+
+Former Goldman Sachs exec Raoul Pal said in a YouTube broadcast late last year, “I’d be surprised that if within five years time Apple, Microsoft and others don’t have cash in bitcoin.”
+
+Story continues
+
+On the other hand, cryptocurrency directly competes with fiat currency, and any move by Apple into the digital-asset space might undermine its huge cash position. Also, while Apple is lauded as an innovator in the tech space, its size and influence have made the company generally less risk averse.
+
+Apple’s history with bitcoin and crypto
+
+Apple first came under scrutiny from the crypto community in 2012 after two bitcoin apps were removed from the App Store on the grounds that “apps must comply with all legal requirements in any location where they are made available to users.” Despite arguments at the time that there were no legal requirements surrounding bitcoin and other digital assets, Apple remained steadfast in its decision.
+
+Related: Binance Pledges New Controls After 99% 'Flash Crash' in Polkadot Futures
+
+It wasn’t until much later, in 2014, that Apple reconsidered its stance on bitcoin and crypto apps. After a number of other crypto-centric apps, including Coinbase’s mobile app, were booted from the App Store, Apple announced plans to change its anti-crypto policy in June of that year during its annual Worldwide Developers Conference in San Francisco.
+
+“Apps may facilitate transmission of approved virtual currencies provided that they do so in compliance with all state and federal laws for the territories in which the app functions.”
+
+This reopened the door to bitcoin and crypto app developers and set Apple on a new path towards accepting cryptocurrencies.
+
+Apple shows interest in bitcoin and blockchain
+
+In 2019, Apple submitted a document with the U.S. Securities and Exchange Commission (SEC) that outlined the company’s role in establishing blockchain guidelines for the “Responsible Business Alliance’s Responsible Minerals Initiative” – a consortium of companies dedicated to improving welfare standards for the mineral miners in their supply chains.
+
+These newly created guidelines were described as the ”first industry effort to define a common set of principles, attributes and definitions for the application of blockchain technology to support mineral supply chain due diligence.” While nothing major for the crypto industry, the development showed Apple was taking an active role in shaping commercial blockchain applications.
+
+Seven months later, VP of Apple Pay Jennifer Bailey appeared in an interview on CNN’s “The Table” show and told host Christine Romans the company was beginning to open up to the crypto space.
+
+“We’re watching cryptocurrency … We think it’s interesting. We think it has interesting long-term potential.”
+
+Almost two years later, Apple Pay now supports bitcoin payments through BitPay integrated services.
+
+Bumps in the road
+
+In 2020, Coinbase CEO Brian Armstrong took to Twitter to speak out against Apple’s restrictive App Store policies after the platform’s app was met with fresh resistance.
+
+“Here is the issue. Apple has told us we cannot add the following functionality in our iOS apps: (1) the ability to earn money using cryptocurrency and (2) the ability to access decentralized finance apps (sometimes called DeFi apps or dapps).” He continued, “In addition to earning, they have told us that we cannot provide a list of decentralized apps (which are really just websites) to users on iOS.”
+
+Apple allegedly said the non-embedded software in Coinbase’s app that facilitated cryptocurrency transactions was “not appropriate for the App Store.”
+
+Armstrong replied, “Apple, it’s time to stop stifling innovation in cryptocurrency. We would like to work with you productively on this.”
+
+Apple encouraged to launch its own crypto exchange
+
+A recent report published by RBC Capital Markets brought Apple and bitcoin back into the limelight and catalyzed new conversations around the tech company entering the digital asset space.
+
+The report made a case for Apple leveraging its 507 million-strong Apple Pay user base to launch its own crypto exchange service, similar to PayPal’s closed crypto payment system.
+
+“If the firm decides to enter into the crypto exchange business, we think the firm could immediately gain market share and disrupt the industry,” adding, “Apple’s install base is 1.5 billion, and even if we assume only 200 million users would transact, this is 6.66x larger than Square … Therefore, the potential revenue opportunity would be in excess of $40 billion a year (15% incremental top-line opportunity).”
+
+While this hypothetical situation may hold some merit, it’s worth reiterating that Apple has not voiced any intention to launch a cryptocurrency exchange nor add any bitcoin to its balance sheet. For now, this is all just wishful thinking.
+
+Related Stories

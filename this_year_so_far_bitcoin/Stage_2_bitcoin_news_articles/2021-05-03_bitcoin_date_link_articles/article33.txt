@@ -1,0 +1,47 @@
+This post originally appeared on Bitpost, with permission from its author Joshua Henslee.
+
+I finally dove into sCrypt in April 2021 largely due to my obsession with the nLockTime feature on the Bitcoin protocol.
+
+I had been procrastinating using sCrypt because of the low-level and difficult to troubleshoot nature of Bitcoin Script, but after two days down the rabbit hole (mostly due to dealing with quirks like hex reversing, endianess, and bytes) I managed to create a script where one can lock Bitcoin or RUN tokens on-chain until a certain time.
+
+For example, I can provably lock up 100 BSV until block height 700,000, or lock 100,000 $SHUA tokens up until January 1st, 2025.
+
+The contract is deployed on-chain here:
+
+Source: RUN
+
+Example of locking 1 FireCoin token until Friday, April 23rd, 2021 14:42:49 UTC:
+
+I was only able to spend this token after that time:
+
+You do not necessarily need RUN to use this, simply send BSV or tokens from another UTXO-based token protocol to the script in the above link, replacing nLockTime with the block height or UNIX timestamp in the future and publicKey with one that you control.
+
+I chose classic, Satoshi-style P2PK over the frequently used P2PKH for simplicity.
+
+To be able to use scripts like these, I needed to leverage the OP_PUSH_TX technique developed by nChain and implemented by sCrypt. Shruggr from Kronoverse and I made pull requests to get a preimage function merged into the BSV 2 and BSV Legacy libraries respectively so that others can more easily implement the OP_PUSH_TX themselves.
+
+This technique is necessary because it pushes the details of the current transaction as part of the solution, so that the nLockTime of the current transaction can be validated against the value put on-chain in the previous transaction.
+
+What are the use cases?
+
+A big concern of anyone dealing with digital currency is how to secure their coins. Many by principle are opposed to using custodial services to secure their Bitcoin, for good reason. For those keeping their coins at some physical location, burglary is always a risk.
+
+Upon attempted theft, imagine being able to press a button or issue a voice command to time lock your stash for a couple of days—such that even you cannot access the coins despite controlling the private key!
+
+Another use case is to provably lock funds until a certain milestone date. For example, PlayWithHaste wanted to issue their $HST tokens on a distribution schedule. This script alone would not be sufficient for their requirements, but the approach of publicly demonstrating the inability to access by the issuers is a start.
+
+Source: HST Whitepaper
+
+This type of so-called ‘smart contracting’ was possible on Bitcoin since its launch in 2009, but only available on BSV since February 2020. The Bitcoin Core developers handicapped the scripting capability, then hard-forked the protocol, adding a custom opcode that implements a hack called CheckLockTimeVerify.
+
+Why could the ‘most talented development team in the world’ not figure out this was always possible on standard Bitcoin?
+
+I strongly encourage developers to look into sCrypt and learn how to build these types of scripts. As I mentioned in previous articles, the biggest impediment to development is believing that you cannot do it. Admittedly the experience was a rough two days but was truly worth it in the end.
+
+The tools are available for others to figure out how to lock and unlock these transactions.
+
+In case one wants to jump straight ahead to the answer, I have paywalled my code to lock and unlock these scripts (both using RUN tokens and BSV) in JavaScript on Bitpost.
+
+CAUTION: This is an experimental script with limited testing. Please use the BSV test net first and/or small amounts before production usage.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

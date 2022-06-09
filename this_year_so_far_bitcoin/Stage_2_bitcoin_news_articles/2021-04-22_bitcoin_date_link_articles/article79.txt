@@ -1,0 +1,79 @@
+Bitcoin Doesn’t Fix DeFi: It's DeFi That Fixes Bitcoin
+
+“Bitcoin fixes this.” I cringe every time I see this popular meme.
+
+I find it worse than nails on a chalkboard. Bitcoin and other cryptocurrency (crypto) supporters seem to wheel this tired trope out for every problem they see, particularly at economic ones. To their credit, they genuinely want to fix the financial system’s problems. I do too! However, crypto’s supporters have their subjects completely reversed.
+
+To be sure, our modern-day financial system has problems. It’s plagued by “Too Big to Fail”, embarrassingly slow innovation, poor user experiences, and recurrent cronyism (real and perceived). Like the crypto-crowd, I see centralization as the root cause. We agree: decentralization is the only cure. We need decentralize finance (DeFi).
+
+Yet, I see crypto as a sideshow. It’s a distraction from the main event—truly decentralizing the financial system. While these innovative tools are worthy of admiration, crypto simply doesn’t address the root causes; and quite frankly, it can’t. Thus, from an investment perspective I’m cautious when it comes to crypto (at least from a fundamental thesis). Crypto’s best chance for utility is in a decentralized financial system, not the other way around.
+
+Why Decentralization
+
+Decentralized systems are more stable than centralized ones. This broad principle applies to all situations from investment portfolios, to supply chains, to insect colonies. Decentralization ensures that risks don’t concentrate such that a single failure point can bring the whole system down. Centralization breeds instability and fragility. This is all too evident in our financial system.
+
+Unfortunately, there are several modern-day examples of centralized risks threatening entire economies. “Too Big to Fail” banks in 2008 and Long-Term Capital Management’s epic collapse in 1998 are notable ones. Here, the failure of, literally, a handful of institutions endangered the entire economy. How could this possibly be? The global economy is enormous. That we all were thrust into a no-win situation—to foot the bill for these actors’ mistakes or suffer hefty consequences by no fault of our own—is as astonishing as it is unjust. Yet it happened and centralization is to blame.
+
+Banking is Centralized
+
+Centralization in financial markets is extremely high, and for good reason: They are among the most heavily regulated industries. Whether we like it or not, laws, regulations, and mandates are centralizing forces in two ways. First, they limit competition by erecting barriers against new entrants. These can take the form of compliance requirements, licensing limitations, and other costs. More perniciously though, they create behavioral herding. Regulations coerce companies to act in similar ways; not because they (or their customers) necessarily want (them) to, but rather to satisfy some mandate. Quite simply, companies must optimize for the rules in order to compete.
+
+The Great Financial Crisis of 2008 (GFC) illustrated just this. Banks are subject to a myriad of regulatory capital requirements across the globe. These stringent rules dictate how much (and in what forms) companies must carry reserves to cover potential losses and liquidity needs (as if banks wouldn’t in their absence). They are codified formulas, literally, to which each company is subject. For better or worse, the ratings from nationally recognized statistical ratings organizations (NRSRO), such as Moody’s Investors Service and Standard & Poor’s, feature prominently in these calculations. Thus, their anointed opinions impact the actions of every bank. Preceding the GFC, only three NRSROs mattered, Moody’s Investors Service, Standard & Poor’s, and Fitch Ratings. Their wrong assessments of housing-related investments brought the world to its knees (in part).
+
+The way in which politicians write laws, regulators formulate rules, NRSROs assess risk, and lobbyists sway competitive dynamics are paramount to how banks manage their businesses. What choice do management teams really have but to comply? The alternative is not to operate. This is how a few favored groups without “skin in the game” can transform seemingly benign views, such as home prices never go down, into dangerous and systemic risk concentrations.
+
+Decentralized and “Free” Banking
+
+What if there were no banking laws? Would bankers ignore all risks and treat their capital like unconstrained madmen? Of course they wouldn’t. Those who did would not be in business for long (there are always outliers). History confirms this unpopular view.
+
+Freed from codified capital requirements, banks would create a whole host of different risk management strategies. They would because it’s a business necessity. There is no greater regulator than the market. To be sure, a range of efficacies would emerge with some banks proving safer than others. This diversity, though, would prove protective. It dampens the threat of systemic failure due to any one bank’s action. The wisdom of crowds protects us all by localizing the damage of mistakes.
+
+In my view, crypto’s biggest promise is to help decentralize financial services—a.k.a. DeFi. DeFi is the practical solution for the centralized financial system’s failures. However, we don’t need crypto to decentralize banking and finance. So-called “free banking” is hardly novel.
+
+Free banking existed to various degrees throughout history, most notably in Scotland, Canada, and the antebellum period in the U.S. During these periods, banks were lightly regulated and issued private notes that were convertible into gold. These notes widely circulated and acted as currency. While far from perfect, the financial system’s stability in these periods compares favorably to our current ones based on central banks. This is due to the decentralization.
+
+
+
+
+
+Source: Alt-m.org
+
+A tally of recessions, bank panics, and bank failures reveals that “[the] widespread belief among economists, historians, and journalists that the Federal Reserve [created in 1914] was an essential, major improvement appears to be no more than unreflective faith in government economic management, with little foundation in the historical evidence.”
+
+Before Crypto, There Were Shadow Banks
+
+The financial system’s fragility is an unnecessary and terrifying risk, in my view. Thus, I absolutely love that crypto’s mission is DeFi. Bitcoin and other cryptocurrencies are essentially workarounds to archaic laws and financial regulations that prevent innovation, competition, and, ultimately, concentrate systemic risks. However, in these regards, crypto is not unique.
+
+There is already a large and burgeoning industry busy at working around regulations to increase efficiency in finance. It’s callously known as the shadow banking or Eurodollar system. The shadow banking system is a network of interconnected financial services companies spanning the globe. It operates in the “shadows” (i.e. favorable offshore jurisdictions) to escape regulatory scrutiny and oversight; hence its moniker. In essence, shadow banking is an attempt at DeFi. While it gets a bad rap, particularly due to its role in the GFC, the shadow banks have been quite effective at improving the industry’s performance.
+
+Note though, that when the shadow banking system failed in the GFC it was around common points of centralization. Capital efficiency is the name of the game when it comes to financial services. However, there’s only so much wiggle room to circumvent capital requirement rules. Thus, the shadow banks naturally piled into similar assets as they sought to optimize for these regulatory constraints. Unfortunately, the regulations proved dangerous. The NSROs were very wrong about home prices and the safety of the assets they backed. The result was system collapse around this common vulnerability that regulations created.
+
+While, the shadow banking system is crafty, it is not perfect. In my view, it wouldn’t exist in a lightly regulated regime. Maintaining this complex patchwork of interconnected entities around the globe requires lots of expertise and skill. Said differently, it’s expensive. Simplifying the landscape removes the need for these workarounds that only add complexity, opacity, and cost to an already intricate industry. Thus, liberalizing banking is the only way to eliminate the shadow banks; it’s the only way to remove their utility. It’s also the only way to create DeFi.
+
+In my view, it’s folly to think crypto is a DeFi gamechanger. Rather, I see it as merely an evolution in the perpetual “cat and mouse game” played between productive financiers and overbearing regulators. Is there really a fundamental difference between shadow banks and decentralized tokens? Both exist to evade jurisdictional roadblocks to efficiency, innovation, and progress. Instead, crypto seems like a new tool to be used towards DeFi’s end.
+
+Crypto Requires Proper Growing Conditions
+
+To be sure, crypto may be able to exist on the fringe, even in a hostile political environment. Its decentralized nature makes it hard to regulate by design. However, we—the users—do not live like this. Humans can only be in one place at a time. We live centralized existences with homes, families, bank accounts, etc., that fall within specific jurisdictions. Our lives, to certain extents, are regulatable.
+
+Cannabis is good analogy. Despite being illegal, you can find it almost everywhere. However, it’s a significantly smaller industry than it would be otherwise. Institutions (i.e. companies and capital) can’t touch it due to its legal status. Only when this changes can the cannabis industry thrive. We’re beginning to see this now.
+
+In order for crypto to thrive we need DeFi first. While it can help, crypto is powerless to address the root cause of centralization. The problem is the design of the financial system itself. DeFi is more meta than crypto. It requires a complete change of our views of finance. We need to reorient them and free financiers from their bureaucratic overlords. These are political issues.
+
+Crypto is like a seed struggling to sprout. It requires proper soil conditions to bloom. You can’t grow a sequoia tree in sand no matter how promising the seedling. The same goes for crypto. Fix the soil and only then can crypto thrive. This why I remain skeptical of crypto from an investment perspective.
+
+Putting the Horse Before the Cart
+
+To be sure, today’s financial system has problems. It’s an overall poor user experience with an outsized influence on our lives. While many look to bureaucrats for solutions, this is counterproductive. The cause is the industry’s centralization which laws and regulations largely create.
+
+Others rightfully see DeFi as the answer and are increasingly turning to crypto for help. While admirable, crypto cannot bring forth DeFi. DeFi can only result from liberating the financial services industry from its onerous legal and regulatory frameworks that create the (dangerous) centralization. While the shadow banking system is working hard to debottleneck these regulatory-induced inefficiencies, it can only do so much and has its own shortcomings.
+
+To be sure, crypto may be part of the DeFi future. But its supporters have it backwards. DeFi is the prerequisite, not the result. It’s the enabling condition and unlocks crypto’s promising utility. DeFi is not a matter of technology; it’s a matter of political philosophy.
+
+No, Bitcoin doesn’t fix this (i.e. enables DeFi). This (DeFi) is what fixes Bitcoin.
+
+About the Author
+
+Seth Levine is a professional, institutional investor focused on selecting high yield bond positions for a financial services company. He is also the creator of The Integrating Investor where he blogs about macroeconomic and investment strategy related themes. Seth holds a Bachelor of Science degree in Mechanical Engineering from Cornell University and is a CFA charterholder. You can learn more about Seth at www.integratinginvestor.com and follow him on Twitter at @SethLevine2. Please note that any opinions and views he expresses are solely his own and do not reflect those of his current or former employers.
+
+A version of this article first appeared on the Integrating Investor.

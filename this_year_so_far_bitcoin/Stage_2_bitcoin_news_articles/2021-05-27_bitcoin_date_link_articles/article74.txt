@@ -1,0 +1,31 @@
+More and more institutional investors have been piling into Bitcoin (CRYPTO:BTC), sending the price through the roof. Some are now turning their attention to Ethereum (CRYPTO:ETC) as the next cryptocurrency worth investing in. In its first-quarter review of the cryptocurrency market, CoinDesk said ether is starting to attract even more attention among institutional investors.
+
+More Institutions Turn To Ether
+
+Several ether investment products launched during the first quarter and applications for the first ETH exchange-traded funds were filed. Additionally, the ETH market continued to mature with the launch of ether futures on the CME and growing market volumes and liquidity.
+
+CoinDesk also said Ethereum's technology continued to progress, and support for Ethereum 2.0 is seen in the strong value growth on the Beacon Chain. Ethereum currently runs on a proof-of-work blockchain. The community is working on moving to a proof-of-stake blockchain called the Beacon Chain to improve scalability and efficiency. The staking protocol has accumulated more than 3.5 million ETH worth about $6.8 billion. The more ETH staked, the more secure the network will be.
+
+Soaring Ether Prices
+
+Ether's market capitalization more than doubled during the first quarter, surpassing $200 billion from time to time. Its market cap is more than 13 times where it was a year ago. CoinDesk noted that ether saw three consecutive months with positive returns during the first quarter, making it the first all-positive first quarter since 2017.
+
+It also demonstrated the generally bullish sentiment in the market. The cryptocurrency's monthly returns in January and March were the highest since 2016 and 2017, respectively. The 162% return for the quarter wasn't a record high, but it was the highest since 2017.
+
+Further, activity on decentralized applications surged, and the hype around non-fungible tokens also provided a strong boost to ETH activity and awareness.
+
+Rising ETH Futures
+
+CoinDesk pointed out that ether's derivatives markets are younger and thinner than bitcoins, but they saw a similar surge in trading volumes and open interest during the first quarter. In February, open interest in ETH futures hit a record high of over $7 billion, nearly four times the level seen when the quarter began. Trading volumes also reached record highs during the quarter as all exchanges saw strong growth.
+
+The ratio of ETH spot market volumes compared to ETH futures also jumped early in the first quarter. That reflected growing institutional and long-term interest, as such investors usually favor spot markets rather than short-term futures positions. Like with bitcoin, the ratio started to decline toward the end of the quarter as retail traders kept the momentum going.
+
+CME, the largest derivatives exchange in the world, launched its first ether futures product on February 8. That marked a major milestone for the crypto markets because institutional and accredited investors in the U.S. had more opportunities to make leveraged bets and hedge against spot market positions. Trading reached a daily high of $164 million on February 23, and at the end of the first quarter, open interest was about $150 million.
+
+Growing Interest In Options
+
+Although the ether options market is less mature than bitcoin's options market, interest in ether options has grown fast on non-U.S. regulated exchanges since the second half of last year. During the first quarter, aggregate open interest for ETH options hit record highs of $3 billion, compared to just $27 million at the end of last year's first quarter. Daily options trading volume also hit a record high of over $400 million during the first quarter.
+
+CoinDesk said options markets tend to develop after the maturation of futures markets, so market watchers should keep an eye on them to gauge the level of sophistication. The publication also said the growth of ether options volumes relative to the spot and futures markets demonstrates the cryptocurrency's relative immaturity compared to bitcoin.
+
+The options market suggests ether prices will decline from current levels. The market assigned just a 40% chance of breaking its February record high of over $2,000 by June. However, the market assigned a 70% probability of the ether price falling to about $1,400, the support level reached in early March before the current rally.

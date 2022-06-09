@@ -1,0 +1,43 @@
+This week, two developments point toward continued interest in bitcoin as a medium of exchange, the reason the “commerce on the internet” meme may be more accurate than the “digital gold” narrative.
+
+One of the developments is the debut of a service allowing use of Lightning – a protocol built to scale transactions on the Bitcoin blockchain – for payments with online merchants that use the Visa network. The company behind the service is called Moon, and it uses a similar mechanism to that used by other bitcoin commerce startups, such as Fold.
+
+The other is PayPal’s announcement that it acquired Curv, an Israeli startup developing crypto asset custody technology. The PayPal announcement, which confirmed a CoinDesk scoop, may be more about PayPal’s support of bitcoin as an investment, but it’s impossible to separate what PayPal does from commerce, which is the backbone of that company.
+
+Related: Canaan Creative Sees Miner Sales Rise Amid Soaring Bitcoin Prices
+
+In this article, I’ll take a look at two data points: one is a metric worth watching as a bellwether for bitcoin’s use in commerce. The other is a macroeconomic indicator that can be instructive for those who are confused about whether bitcoin is money or not, and highlights one of the ways in which bitcoin is nothing like gold, despite the strength of bitcoin’s “digital gold” meme.
+
+LISTEN: Digital Gold: How Should Financial Advisors Be Thinking About Bitcoin?
+
+Lightning Network is a Layer 2 protocol that sits atop Bitcoin, allowing for faster and cheaper transactions. The overall capacity of Lightning – the bitcoin available for use on the protocol – is a good proxy for interest in using bitcoin for everyday commerce.
+
+Unfortunately for bitcoin’s use in commerce on the internet, this metric remains stuck at a ceiling set in 2019.
+
+Related: Investor Discovers Beeple NFT Purchased for $969 Now Worth $300K
+
+Story continues
+
+The chart shows that as bitcoin has appreciated, more dollars are available for Lightning transactions. But in bitcoin terms, capacity is at a ceiling. It remains stuck at about 0.008% of bitcoin’s free-float supply (a Coin Metrics measure that counts bitcoin held by addresses active within the past five years), a high first reached in March 2019.
+
+This is fodder for cryptocurrency critics like U.S. Treasury Secretary Janet Yellen, whose remarks on bitcoin last month gained attention for their focus on crime, but were really a slap at bitcoin’s negligible use in commerce. “I don’t think that bitcoin … is widely used as a transaction mechanism,” she said. “To the extent it is used I fear it’s often for illicit finance.”
+
+Read more: Money Reimagined: Bitcoin’s Road to Gold
+
+The $100 bill is not used widely in commerce, either. The estimated lifespan of the average C-note is 22.9 years, nearly three times the life of a $20. “Larger denominations such as $100 notes are often used as a store of value, which means they pass between users less frequently than lower denominations,” the Federal Reserve notes.
+
+The $100 bill also gets little use in commerce
+
+Denomination Estimated lifespan $1 6.6 years $5 4.7 years $10 5.3 years $20 7.8 years $50 12.2 years $100 22.9 years
+
+Source: U.S. Federal Reserve
+
+Nonetheless, the $100 bill in the past 20 years has become the U.S. Federal Reserve’s most popular paper product. As the chart below shows, its popularity has grown. In 1999, the circulating value of the $100 bill was $390 billion, about 3.4 times that of the $20 bill. Twenty years later, the Fed estimates $1.42 trillion worth of $100 bills in circulation, more than seven times that of the commerce-friendly $20 bill.
+
+The Fed’s most popular product
+
+Bitcoin skeptics who point to its lack of use in commerce are making a mistake comparing bitcoin to the dollar. Bitcoin is not like the $5 bill or the $20. It’s like the $100. Essentially, investors are speculating that, in the future, bitcoin will become like the $100, an asset held as a bearer instrument and a store of value.
+
+In this way, bitcoin’s usefulness for “commerce on the internet” remains crucial to its value. Like the $100 note, bitcoin isn’t valuable necessarily because it is spent, but because it could be spent. In this way, it is unlike gold. And, in this way, Lightning’s capacity, though limited, remains an important data point for bitcoin.
+
+Related Stories

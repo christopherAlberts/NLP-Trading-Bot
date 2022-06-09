@@ -1,0 +1,27 @@
+ZUG, Switzerland, April 12, 2021 /PRNewswire/ -- Bitcoin Association, the Switzerland-based global industry organisation that works to advance business with the Bitcoin SV blockchain, today announces that Bitcoin SV DevCon 2021 – a two-day virtual conference centred on developing applications and services for the Bitcoin SV network – will be held over the weekend of May 15-16 in partnership with WeAreDevelopers and nChain.
+
+The weekend-long virtual event is free to attend and will feature leaders from across the Bitcoin SV ecosystem teaching sessions that have been designed to educate and upskill developers interested in working with the Bitcoin SV blockchain and data network. The DevCon sessions will cover a variety of topics that will provide both a foundational knowledge of the Bitcoin network and its programming language Bitcoin Script, as well as practical guidance for building powerful applications on the Bitcoin blockchain, including the use of the latest third-party tools and software development kits. Developers will also learn techniques to build applications that leverage the unique features of the Bitcoin SV blockchain, including its massive scaling power, ability to process high volumes of both data and payment transactions, as well as its nanopayment capabilities.
+
+Bitcoin SV DevCon 2021 follows on from the success of the inaugural Bitcoin SV DevCons in 2020, with an English-language edition hosted July 18-19, 2020 and a Chinese-language version on August 29-30, 2020. The two events in 2020 welcomed a combined 11,000 unique guests from more than 80 countries, the majority of whom were new to blockchain development.
+
+Bitcoin Association will once again work with leading external partners to deliver this iteration of Bitcoin SV DevCon, with the event set to be powered by WeAreDevelopers, a leading online community platform for developers with a track record of producing best-in-class educational resources and events, as well as nChain, the global leader in research and development of enterprise-grade blockchain solutions.
+
+To register to attend Bitcoin SV DevCon 2021 on May 15-16, visit wearedevelopers.com/event/bsv-devcon-2021. A full agenda, including speaker line-up, is available at bsvdevcon.net
+
+Speaking on today's announcement, Bitcoin Association Founding President Jimmy Nguyen, said:
+
+"Following the success of our inaugural Bitcoin SV DevCon events in 2020, I'm delighted to announce that next month over the weekend of May 15-16, Bitcoin Association will be hosting Bitcoin SV DevCon 2021 - once again completely virtually. Last year's events demonstrated the great interest from all corners of the globe in learning how to develop enterprise-grade blockchain applications – interest that we expect to build on with this year's editions - as we help more developers to understand the power of the only blockchain with the ability to scale unbounded and provide a truly open platform for innovation and development, Bitcoin SV."
+
+Also commenting, Steve Shadders, CTO of nChain and Technical Director of the Bitcoin SV Infrastructure Team, said:
+
+"Bitcoin SV DevCon was one of my true highlights of 2020, with thousands of developers from all over the world joining in to learn, share and collaborate about building with Bitcoin SV. As we see more and more professional opportunities opening up for developers in the blockchain space – including quickly growing demand for Bitcoin engineers - I expect an even bigger and better event this time around."
+
+About Bitcoin Association
+
+Bitcoin Association is the Switzerland-based global industry organization that works to advance business on the Bitcoin SV blockchain. It brings together essential components of the Bitcoin SV ecosystem – enterprises, start-up ventures, developers, merchants, exchanges, service providers, blockchain transaction processors (miners), and others – working alongside them, as well as in a representative capacity, to drive further use of the Bitcoin SV blockchain and uptake of the BSV digital currency.
+
+The Association works to build a regulation-friendly ecosystem that fosters lawful conduct while facilitating innovation using all aspects of Bitcoin technology. More than a digital currency and blockchain, Bitcoin is also a network protocol; just like Internet protocol, it is the foundational rule set for an entire data network. The Association supports use of the original Bitcoin protocol to operate the world's single blockchain on Bitcoin SV.
+
+Logo: https://mma.prnewswire.com/media/1218683/Bitcoin_Association_Logo.jpg
+
+SOURCE Bitcoin Association

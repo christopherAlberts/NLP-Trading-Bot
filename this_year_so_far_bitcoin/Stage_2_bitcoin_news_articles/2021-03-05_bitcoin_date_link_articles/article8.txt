@@ -1,0 +1,29 @@
+At least a couple of technology companies have invested in Bitcoin to widespread wonder. Last year, MicroStrategy adopted Bitcoin as its primary treasury reserve, buying 38,250 in Bitcoin for $425 million between August and September 2020. Digital payments company Square, which supports Bitcoin buying and selling via its Cash App, purchased $50 million worth of Bitcoin in October 2020. (Technology wunderkind Jack Dorsey, CEO of Square and Twitter, believes Bitcoin has the potential to become the native currency of the internet: “The world ultimately will have a single currency, the internet will have a single currency. I believe that it will be Bitcoin.”)
+
+Despite these outliers, though, companies in the main are shying away from cryptocurrency investments — for now.
+
+There are circumstances in which corporations will hold Bitcoin in the ordinary course of business, says Steve Patrick, managing director of consultancy Endurance Advisory Partners. Examples include Paypal and Square that provide nonbank financial services like payment processing, including payments denominated in Bitcoin.
+
+“Those businesses expect ongoing cash inflows and outflows in Bitcoin, so it makes sense for them to hold a little excess Bitcoin to smooth the payment process. For them, holding Bitcoin is like a jeweler holding gold,” Patrick points out.
+
+In specific industries, like financial services, corporate treasurers are responsible for managing a non-cash investment portfolio. Bitcoin and other digital investments are likely to be included in more and more portfolios, often as a hedge, Patrick says, because Bitcoin’s value is not correlated to price changes of other assets like stocks and bonds.
+
+A client survey by Goldman Sachs (which is relaunching its cryptocurrency trading desk) released on Friday shows that 40% of the respondents have exposure to cryptocurrencies and 61% expect their digital asset holdings to increase in the next 12 to 24 months.
+
+One roadblock to the broader adoption of cryptocurrencies is the lack of widely accepted accounting principles.
+
+“While [Bitcoin’s] price has gone up substantially, we have also seen significant drops that can produce quite a bit of losses.” — Marwan Forzley, CEO of digital payments vendor Veem
+
+“Every firm that holds Bitcoin or any other digital asset on its balance sheet has to record its value at cost,” explains Nauman Anees, CEO of ThinkMarkets, an online brokerage firm. “If the value of the asset declines, the company has to restate it by the corresponding amount. It can’t, however, adjust the value of the asset upward unless it sells it.”
+
+Ownership of cryptocurrencies, therefore, “may be considered by shareholders, investors, and creditors as an additional risk that could affect a company’s valuation or access to credit,” says Anees.
+
+Companies (particularly in those highly regulated industries) must also consider Bitcoin’s general lack of price stability. “While its price has gone up substantially, we have also seen significant drops that can produce quite a bit of losses,” says Marwan Forzley, CEO of digital payments vendor Veem. “When weighing investing in Bitcoin, it is important to research and analyze the various legal, regulatory, tax, accounting, and risk management aspects.
+
+Indeed, 34% of the respondents to the Goldman Sachs survey said regulation is one of the highest hurdles to allocating funds to digital assets. Investment mandate permissions were also high on the list.
+
+Most CFOs and treasurers follow cash investment mandates that have prioritized capital preservation and liquidity for years. Yield has been much farther down the list, even as excess corporate cash parked in short-term maturity vehicles has produced little to no return.
+
+“Accounting treatments, custodial agreements, and tax law will all need to be further developed to ensure that this emerging asset can work as a treasury tool, says Larry Pruss, senior vice president of product management for banking consultancy Strategic Resource Management.
+
+Still, digital currency brokers are preparing for treasurers who want to test the waters. Michael Moro, CEO of Genesis, says the firm recently launched a corporate treasury arm. Most corporate treasuries that are getting “into crypto” are starting with an investment of 1% or less, Moro points out, a much more modest allocation than MicroStrategy’s or Square’s.

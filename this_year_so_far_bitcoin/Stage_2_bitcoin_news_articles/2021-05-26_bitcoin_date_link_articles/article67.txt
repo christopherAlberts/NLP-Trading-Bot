@@ -1,0 +1,22 @@
+Flexa introduces "Pay with Flexa" button for instant online and fuel pump acceptance of bitcoin and digital currencies Tweet this
+
+"Since launching Flexa just over two years ago as the first ever digital currency payment option for brick-and-mortar retail, we've scaled to support more than 41,000 merchant locations across the US. With Flexa, anyone has been able to use digital currencies—including cryptocurrencies and other forms of digital tokens—for a variety of everyday purchases, including everything from coffee to beauty and from pet supplies to apparel and more," said Tyler Spalding, co-founder and CEO of Flexa. "And now today, we've dramatically expanded the reach of Flexa-powered payments, enabling instant, affordable payment acceptance for virtually any merchant with an online storefront."
+
+The Pay with Flexa experience preserves the security and privacy of digital currency payments by leveraging the existing verification systems of the underlying blockchains (e.g., proof-of-work consensus) in tandem with Flexa's proprietary collateralization platform, powered by Amp. In this way, consumers are able to spend the asset of their choice while merchants receive payouts in the currency of their choice, all without the risk or delay associated with prolonged confirmation times and checkout countdown timers.
+
+In addition to launching support for the Pay with Flexa button online via eight new Flexa Connect plug-ins, Flexa is also announcing support for two more merchant-friendly payment paradigms, including instant digital currency payments at the fuel pump through its existing relationship with NCR, and instant digital currency payments in restaurants and bars through a new relationship with Rooam.
+
+"Our new online payments capabilities are part of our mission to help consumers spend their digital currency quickly, easily, and in as many real-life settings as possible—whether that's in stores, online, at the pump, or at the table," said Eric Thiegs, Head of Strategic Partnerships at Flexa. "We look forward to helping unlock value in whatever form it takes for many more merchants in the weeks and years to come."
+
+Merchants who are interested in enabling their online stores to support Flexa-powered digital currency payments can explore Flexa's integration offerings for more details and to get started.
+
+About Flexa
+
+Flexa is the global leader in pure-digital payments, providing merchants and developers with simple integrations for digital currency acceptance that are fast, affordable, and completely fraud-proof. Founded in 2018, Flexa's mission is to make payments more efficient and accessible for people all over the world. Learn more at flexa.network.
+
+SOURCE Flexa
+
+Related Links
+
+https://flexa.network
+

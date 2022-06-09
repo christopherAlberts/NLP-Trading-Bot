@@ -1,0 +1,39 @@
+On June 4, a total of 15,530 Bitcoin (BTC) options are set to expire, which represents $575 million in open interest. At the moment, bulls are still heavily impacted by May's 37% BTC price correction, and this has led most call (buy) options to be underwater.
+
+Despite the crash, Bitcoin's active supply reached a five-month low, as 45% of the coins have not been moved over the past two years. This indicator shows that investors who purchased up until the 2019 bull run are unwilling to sell at the current prices.
+
+Miners are also avoiding sales below $40,000, as their outflows recently reached a seven-month low relative to the historical average.
+
+In the meantime, technical analysts pointed to the 50-week exponential moving average as a strong support level close to $34,000. Still, the price chart has been forming a pattern of sideways trading that is culminating in a narrowing wedge and breakout — known as "compression" — and indicating higher volatility toward the end of the week.
+
+What is clear is that the market is a mixed bag right now, and everyone is grasping at various signals as an attempt to pinpoint the direction of the next trending move.
+
+Bears could have dominated as markets tanked
+
+While bears could have easily dominated Friday's expiry, it seems they became overconfident by focusing primarily on sub-$32,000 put (sell) options.
+
+Aggregate Bitcoin options open interest. Source: Bybt
+
+The initial picture favors bears, as the call-to-put ratio stands at 0.84, although this indicator values every option the same. However, the right to acquire Bitcoin at $46,000 in less than 42 hours is currently worthless, so this call option is trading below $20 each.
+
+A similar effect is in place for the neutral-to-bearish put options at $28,000 and lower. Holders have no benefit in rolling it over for the upcoming weeks, as these contracts also became worthless. Therefore, to better assess how traders are positioned for Friday's options expiry, one needs to concentrate on the $32,000–$42,000 range.
+
+The neutral-to-bull call options up to $42,000 amount to 3,080 Bitcoin contracts, representing $114 million in open interest. On the other hand, put (sell) options down to $32,000 encompass 4,680 Bitcoin contracts, currently worth $173 million.
+
+As expected, the $60 million difference favoring bears is not enough to cause any disturbance. This situation was caused by excessively bearish bets that did not pay off, potentially leading to the first balanced options expiry in three weeks.
+
+Market makers are leaning bearish
+
+The 25% delta skew provides a reliable, instant "fear and greed" analysis. This indicator compares similar call (buy) and put (sell) options side by side and will turn positive when the neutral-to-bearish put options premium is higher than similar-risk call options. This situation is usually considered a "fear" scenario, although it's frequent after solid rallies.
+
+On the other hand, a negative skew translates to a higher cost of upside protection and points toward bullishness.
+
+Bitcoin 30-day options 25% delta skew. Source: Laevitas
+
+Since May 17, the indicator has flipped to the "fear" range on multiple occasions and peaked at 20%, signaling a lack of interest to offer protective puts.
+
+There is no doubt that bulls are frightened, but historically, those are the best opportunities to buy the dip.
+
+At least for the June 4 options expiry, bears no longer dominate the trade. Huobi, OKEx and Deribit expiries take place on June 4 at 8:00 am UTC.
+
+The views and opinions expressed here are solely those of the author and do not necessarily reflect the views of Cointelegraph. Every investment and trading move involves risk. You should conduct your own research when making a decision.

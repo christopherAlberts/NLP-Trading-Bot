@@ -1,0 +1,83 @@
+TBILISI (Thomson Reuters Foundation) - As bitcoin surged to record highs last month, Inal’s heart sank.
+
+The unemployed 30-year-old had spent his savings setting up a system to generate the cryptocurrency last summer, but rolling blackouts and a police crackdown in his native Abkhazia forced him to pull the plug early, missing out on a potential fortune.
+
+“I am looking at bitcoin prices now and I want to cry,” said Inal, who asked not to use his real name to protect his identity, in a phone interview.
+
+Inal is one of an estimated hundreds of Abkhaz who joined a cryptocurrency craze that swept the Black Sea territory last year, sparking an energy crisis that local authorities are struggling to grapple with.
+
+The power cuts have highlighted the energy cost of cryptocurrencies at a time when global interest in virtual cash is booming and bitcoin, the original and most popular virtual currency, is gaining acceptance among mainstream investors.
+
+Bitcoins are generated in a process called “mining”, in which a global network of computers competes to solve complex algorithms.
+
+These computers require a vast amount of energy to run, with climate experts voicing concerns about cryptocurrencies’ potential to derail efforts to tackle global warming.
+
+The issue of high energy consumption has recently come to the fore in Abkhazia, a lush strip of land once the playground of the Soviet elite, that broke away from Georgia in the early 1990s, after the collapse of the Soviet Union.
+
+“They really have had a sort of electricity crunch because of the amount of crypto mining that is going on,” said Maximilian Hess, a research fellow at the Foreign Policy Research Institute, a U.S. think tank.
+
+With a population of about 240,000, Abkhazia has seen at least 625 crypto farms set up in just the past few years, according to estimates from its economy ministry.
+
+Yet locals believe the number to be much higher, with many families running small-scale operations that are hard to track.
+
+The government first tried to rein in the activity in 2018, but a ban failed to have much effect as importing the hardware used for crypto mining remained legal, economy minister Christina Ozgan said in a statement in September.
+
+‘PROFITABLE BUSINESS’
+
+Abkhazia’s crypto boom, which started in 2016, is rooted in its particular geopolitical situation, according to Hess.
+
+The territory is recognised as an independent state only by Russia, which has a military presence there, and a handful of other nations. The rest of the world still considers it part of Georgia.
+
+This has left it largely isolated and underdeveloped, said Hess.
+
+“Abkhazia faces substantial issues at attracting any kind of foreign investment or growing its local economy,” he told the Thomson Reuters Foundation.
+
+As a result, cryptocurrencies, which operate outside the traditional banking system, have become “highly popular”, spurred on by the Abkhazia’s extremely low energy prices, said Hess.
+
+The cost of one kilowatt-hour (kWh) in Abkhazia, which gets most of its power from a massive Soviet-era dam it shares with Tbilisi, is about $0.005, more than 10 times cheaper than in Georgia and 20 times less than the U.S. average.
+
+“Mining, it’s a very profitable business,” said Inal, who noted his mining venture brought in almost $5,000 a month while it was running.
+
+“There is no alternative to earning this (kind of) money in Abkhazia.”
+
+BLACKOUT
+
+Inal had been out of a job for more than two years when, in August 2020, he pulled together $20,000 with two friends to buy 50 computer processors and set up shop in an abandoned house near Sukhumi.
+
+The government lifted its ban on cryptocurrency mining in September, asking miners to register and pay higher electricity fees instead - something that, along with rising bitcoin prices, pushed many others to join the crypto gold rush, Inal said.
+
+By November, Inal and his partners had covered about 80% of their investment.
+
+Then things took a dark turn - literally.
+
+In mid-November, Abkhazia’s energy company Chernomorenergo was forced to introduce rolling blackouts to avoid what its chief engineer described as an “energy collapse”.
+
+Government figures show that energy consumption had gone up an estimated 20% in 2020 on the previous year, adding to a 30% increase already registered since 2016.
+
+As winter approached, electricity lines got so overloaded that some power stations caught fire - in one case leaving large parts of Sukhumi in the dark for more than a day, according to Chernomorenergo.
+
+“It was the most challenging period for all of us,” said Dimitry, a Sukhumi resident who asked not to give his full name. “Sometimes we would have electricity for one hour and then there would be no light for (another) four hours.”
+
+In December, with the dam that provides the territory most of its power scheduled to close for repairs, the government made a second U-turn, banning cryptocurrency mining again.
+
+Law enforcement agencies went on the hunt for crypto farms, raiding homes, attics, shuttered factories, garages and even restaurants, and cutting the power cables to mining processors they found, according to the interior ministry.
+
+HOPES DASHED
+
+Inal said he and his partners pulled the plug ahead of the crackdown, in late November, as public anger grew over the continuous power cuts.
+
+That left them a few thousand dollars short of breaking even on their investment. Others are facing even more dire losses, he said.
+
+“Some people spent a lot of money to buy (processors) when the business was legalised in September. Some sold their cars, others made debts they can’t repay. It’s a really big problem,” he said.
+
+While law enforcement raids brought some relief, lowering energy demand in January, consumption has been rising again, President Aslan Bzhania told a cabinet meeting in February.
+
+“Nobody has the right to relax. We have a duty to rectify the situation,” he said in a statement on the presidency’s website.
+
+Some miners simply reconnected their farms to the grid after being raided by the police, since currently there are no penalties for mining illegally, Inal said.
+
+The local parliament is discussing a new law that would allow police to seize cryptocurrency mining equipment, impose hefty fines on anyone who flouts the ban and slap criminal charges on those consuming more than 1 megawatt of energy.
+
+Meanwhile, bitcoin rose above $50,000 to a new record high last month- about three times the value it had when Inal stopped his mining operation.
+
+“First (the government) legalised the business and now they want to make people who mine criminals,” he said. “It’s unfair, it’s very unfair.”

@@ -1,0 +1,57 @@
+BUSINESS
+
+Jack Dorsey, Cathie Wood and Elon Musk are promoting the idea that bitcoin mining could be good for the planet. This is not exactly true.
+
+The basis of the idea is that mining cryptocurrencies uses a lot of power and can be deployed at any time.
+
+That could help a developer make money mining coin at a time when there’s lots of wind or sunshine, but not much electricity demand.
+
+Making better use of wind and solar power, where electricity generation can be intermittent, increases efficiency, lowers prices and helps encourage the green transition.
+
+The theory is based on trends that are already happening, regardless of cryptocurrencies. The cost of renewable power is plummeting and an increasing share of energy is being supplied by renewable electricity.
+
+There are so many existing incentives that the International Energy Agency expects wind and solar to account for about 12% of electricity demand by 2030, up from 5% in 2019.
+
+Wood says new research ideas – published in a paper by her Ark Investment Management and Dorsey’s Square Inc – “debunk the myth” that bitcoin mining is damaging the environment.
+
+READ: Taxman has an eye on your crypto profits
+
+On Twitter, Dorsey said bitcoin “incentivises renewable energy”. Musk responded: “True.”
+
+But there’s still the fact that the mining devours massive amounts of power. Bitcoin mining now uses 66 times more electricity than it did in 2015, Citigroup said in a recent report.
+
+The Centre for Alternative Finance at the University of Cambridge in the UK estimates that mining bitcoin uses more electricity than the Netherlands does in a year.
+
+I don’t know how you’d assess the risk profile of a bitcoin mining operation. Albert Cheung, head of analysis at Bloomberg New Energy Finance
+
+To further incentivise renewables, crypto miners could sign long-term agreements to buy green electricity. That’s what major companies like Amazon do to help cut their carbon footprint.
+
+It has helped fuel a boom in renewable power assets in the US.
+
+In their research, Ark and Square proposed that a renewable power project could be built without a grid connection just to power a bitcoin operation.
+
+That would speed up development, but would also make the project riskier in the eyes of a lender as the grid connection might never materialise, making a development completely dependent on mining.
+
+But part of the rapid decline in the price of renewables has also been thanks to cheap financing. A bank would probably want to charge a higher interest rate on a project that plans to sell power to a bitcoin miner than it would if the customer were Google.
+
+Albert Cheung, head of analysis at Bloomberg New Energy Finance, said: “I don’t know how you’d assess the risk profile of a bitcoin mining operation. You want your offtaker to be around for 20 years, or at least 10.”
+
+For now, lots of bitcoin are being produced by the most polluting source of electricity.
+
+Research from the Centre for Alternative Finance shows that bitcoin mining is dominated by China, a country currently driving the boom in new coal power plants.
+
+In the second quarter of last year (the latest data available), the world’s biggest polluter mined as much as 65% of the currency.
+
+READ: How social media networks are used to lure people into investment fraud
+
+By comparison, Iceland and other Nordic nations, once seen as a green haven for bitcoin, were producing less than 1% of the currency each.
+
+Their traditional surplus of geothermal, hydro and wind power is rapidly shrinking. Iceland’s biggest utility said that no one would build more power capacity just to feed bitcoin mining.
+
+Pollution from mining bitcoin in China is expected to peak in 2024, releasing as much carbon dioxide as all of Italy, according to a study published this month in open access journal Nature Communications. And by using coal to generate most of its power, harmful carbon emissions keep going up.
+
+There may also be better uses for renewable power than making bitcoin, including decarbonising existing energy demand that relies on burning fossil fuels.
+
+As Teslas and other electric vehicles replace petrol and diesel cars, they will need a lot more electricity.
+
+Other major polluting industries such as steelmaking, chemical production and aviation could also potentially use the cheap green power to make hydrogen. – Bloomberg

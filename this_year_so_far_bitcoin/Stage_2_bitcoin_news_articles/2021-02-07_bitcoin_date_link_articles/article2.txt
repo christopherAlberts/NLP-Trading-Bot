@@ -1,0 +1,71 @@
+It’s staggering to think that $100 invested in Apple in 2004 is worth $52,000 today. That’s a return of 44% per annum.
+
+As eye-watering as these returns may be, they are dwarfed by the returns on investments in cryptocurrencies — $100 worth of Bitcoin invested 10 years ago has grown to $12 million, or 222% per annum.
+
+So, what is it about Bitcoin’s value that has led to this astonishing increase in its price?
+
+Apple generates value by designing and manufacturing its products and services such as laptops, phones and streaming services.
+
+Bitcoin, on the other hand, is a decentralised cryptocurrency that aims to serve as ‘money’. The function of money includes serving as unit of account (allowing the valuation of goods in the same unit such as the Australian dollar), as a medium of exchange (one can buy and sell goods using the currency), and as a store of value (one can keep the currency for future use).
+
+The value of money to its users depends on how well it serves these functions. It could be argued that at present, Bitcoin serves none of these functions.
+
+One key issue with Bitcoin has been the high volatility of its price. In the last five years, there were more than 100 days where the price of Bitcoin fluctuated by 5% or more.
+
+This makes Bitcoin unattractive as a store of value. A certain amount of Bitcoin might buy you cappuccino today, but the same amount might only buy you a babyccino (or around half a coffee) the next day.
+
+No one with an interest in storing value would want to hold Bitcoin for any period of time as a result.
+
+The same issue makes Vitcoin unattractive as a medium of exchange. Imagine a farmer who sold her produce in exchange for Bitcoin because of the high uncertainty about how valuable Bitcoin will be the next day when she needs to pay for her own expenses.
+
+Currently, only a handful of merchants accept Bitcoin as mode of payment in Australia.
+
+In addition to buying coffee at a few select places, you can pay bills at Australia Post using Bitcoins (albeit at a very high transaction fee of about 7%).
+
+A key factor underpinning a currency’s adoption as money is the trust that society places in it.
+
+Trust in modern-day currencies (such as the Australian dollar) is largely based on people’s trust in the government that issues the currency. The Australian government, through the Reserve Bank, controls the supply of money and guarantees its stability.
+
+The Australian dollar is also legal tender in Australia, which means that an Australian store cannot refuse to accept Australian dollars as a mode of payment.
+
+The question then is why Bitcoin’s value has increased so much?
+
+One possible explanation is that its investors expect Bitcoin to offer value in the future (even if its current adoption is sparse). There has been recent interest from financial institutions in Bitcoin, and this could have raised the expectation of it being a serious player in the currency space.
+
+Another point is that the technologies on which Bitcoin is based, in particular the blockchain, do provide value.
+
+Blockchain (in its various flavours) has been adopted to solve fundamental problems in various domains, such as transport and securities trading — this is the space that one should watch closely.
+
+Bitcoin, in the end, is just one of the applications of blockchain.
+
+So, trust in Bitcoin is based on trust in its underlying blockchain technology.
+
+Bitcoin’s blockchain is a publicly available distributed database of all historical transactions. These transactions are verified by so-called miners who are incentivised (by means of rewarding them with Bitcoins) to include only legal Bitcoin transactions in the blockchain.
+
+Bitcoin’s code is administered by a handful of people and no known accountable entity.
+
+The fact that trust emanates from the crowd (decentralisation) means that, to predict how trust in Bitcoin may evolve, we need to understand how crowds behave.
+
+Unfortunately, the science on that is not optimistic.
+
+Crowds may be trusted for a long time, but are easily affected by free riding, and certainly don’t make rational decisions even if populated by rational agents, outlined in Arrow’s Theorem. This has implications for the process of deciding on rules that govern cryptocurrencies.
+
+For example, a major risk with Bitcoin is that a group could create its own variant, effectively creating its own new currency. If the new currency gains widespread adoption then the old currency may devalue, potentially wiping out the value of people’s holdings.
+
+But there’s another issue that casts doubt on the future of Bitcoin as money.
+
+Central banking theory and history tell us that it is difficult to have two or more parallel currencies. In order to be effective, the monetary policy tools used by central banks require strong control over the local currency.
+
+Governments, like ours in Australia, are unlikely to give up control over their own currency anytime soon.
+
+So, should we expect society to ever adopt Bitcoin as money?
+
+At present, it looks unlikely. But there are special cases where use of Bitcoin does provide value as money.
+
+One example is a situation where the value of a local currency in a country fluctuates more than the value of Bitcoin. In this case, people may prefer to use Bitcoin — and we’re already seeing an example of that in Venezuela.
+
+Alternatively, the fact that Bitcoin is decentralised and, as a result, beyond the power of any government, may facilitate international transfers aimed to bypass sanctions.
+
+For most other purposes like buying a coffee or paying bills, cryptocurrencies — at least right now — provide a fun factor but not much utility.
+
+This article was first published on Pursuit. Read the original article.

@@ -1,0 +1,25 @@
+Despite a 2020 that saw the price of bitcoin rise to all-time highs and set new records for stability, it isn’t too difficult to find Bitcoin FUD being spread. But recently released blockchain analysis demonstrates that the “bitcoin is for criminals” narrative is weaker than ever.
+
+The FUD Keeps Coming
+
+Yesterday, Janet Yellen, the incoming nominee for U.S. treasury secretary, highlighted a common narrative that many believe shines an unfair light on the original cryptocurrency, suggesting that the government will try and regulate its use.
+
+“I think many [cryptocurrencies] are used — at least in a transaction sense — mainly for illicit financing,” Yellen said. “And I think we really need to examine ways in which we can curtail their use and make sure that money laundering doesn’t occur through those channels.”
+
+Last week, European Central Bank President Christine Lagarde said that bitcoin is a “highly speculative asset which has conducted some funny business and some interesting and totally reprehensible money laundering activity.”
+
+Even some industry-focused publications have been spreading the “bitcoin is for criminals” FUD, without acknowledging the facts that criminals have been using fiat cash for much longer, that supposedly regulated financial institutions frequently facilitate major crimes, that anonymous cryptocurrencies would be much more useful for criminals than bitcoin or that there are many other arguments that suggest this narrative is unfair.
+
+Cryptocurrency Is Leaving Criminals Behind
+
+According to a summary of blockchain analysis firm Chainalysis’ “2021 Crypto Crime Report,” the proportion of cryptocurrency-related crime fell significantly last year.
+
+“In 2019, criminal activity represented 2.1 percent of all cryptocurrency transaction volume, or roughly $21.4 billion worth of transfers,” the firm found. “In 2020, the criminal share of all cryptocurrency activity fell to just 0.34 percent, or $10.0 billion in transaction volume.”
+
+To put it another way: Cryptocurrency transaction volume that Chainalysis could identify as “criminal” accounted for just 2.1 percent of all transactions in 2019 (though Yellen seems confident in saying that the technology is “mainly for illicit financing”), by far the highest proportion that Chainalysis has found since 2017. Across 2020, that figure was down to less than half of 1 percent, fueled in no small part by a sharp rise in overall economic activity.
+
+Chainalysis did note that cryptocurrency-fueled ransomware activity grew 311 percent in 2020, compared to 2019, and that even this figure is probably low due to underreporting. But this still represented only 7 percent of the total funds received by criminal cryptocurrency addresses, which itself is a very small proportion of all cryptocurrency transactions across the year. Funds received through scams and darknet marketplaces were by far the leading categories for criminal transactions in 2020.
+
+It may be unlikely that the picture painted by this report will significantly alter regulators’ opinions of Bitcoin, or eliminate the appeal of FUD-focused headlines and media coverage. But there is a clear story being told by Bitcoin’s 2020, even if it’s not the narrative everyone will adopt: BTC’s journey to global reserve currency status will always outpace its use on the fringes of the dark web.
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.

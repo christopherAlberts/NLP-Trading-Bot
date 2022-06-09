@@ -1,0 +1,51 @@
+DeFi Yield Protocol (DYP) Launches DYP Earn Vault
+
+sponsored
+
+Leading yield farming platform DeFi Yield Protocol has launched its highly anticipated DYP Earn Vault. The Vault is an automated yield farming contract fully integrated with Compound Protocol and supports five markets, including ETH, WBTC, USDC, USDT, and DAI.
+
+Earn Rewards on DYP Earn Vaults
+
+Users can provide an asset to the DYP Earn Vault and begin earning impressive yields on their assets. One of the unique features of the Vault is the integration with Compound protocol. When users deposit funds into the Vault, the funds are forwarded to Compound protocol in exchange for respective cTokens held within the smart contract. Interests generated from Compound is then distributed to investors.
+
+DYP Earn Vault offers investors different lockup durations for each of the supported markets. Users can lock their tokens for 3,30,60 and 90 days, with the average interest increasing with the length of the lock period.
+
+Apart from interest generated from Compound Protocol, the DYP Earn Vault also integrates unique strategies to increase the APY for each market.
+
+A withdrawal fee of 0.3% with 75% of the fee distributed among active vault users, with the remainder 25% used to buy back DYP from Uniswap and burn it.
+
+Fixed APY between 2.5% and 18% depending on the lock period and the price of DYP on Uniswap
+
+ETH fee equivalent to 400k gas at current Gwei price for deposits and withdrawal with 75% distributed among active vault users and the remainder used to buy back DYP from Uniswap and burn it
+
+Investors can reinvest the DYP rewards into fixed staking with a 35% APR for a 4 months Lock Time
+
+DYP transaction fees are higher than similar protocols due to the smart contract complexity within the protocol as it looks for the best possible earning opportunity for users. However DYP compensates by offering some of the best APY in the market.
+
+For example using Compound protocol would give you an APY of 0.12% for their ETH Vault with cheaper transaction fees. DYP Vault offers way higher with users getting a maximum of 13% APY on their investments. This is increased to 35% APR for DYP rewards if users choose to reinvest their interests on the platform.
+
+So you may be paying slightly higher fees than other protocols but you earn up to 1000% higher in rewards making DYP a better yield farming platform than its competitors. DYP Earn Vault makes it easier for investors to access these opportunities within a single user friendly platform. You get the very best value staking your tokens on DYP Earn Vault.
+
+Start Providing Liquidity on DYP Earn Vault
+
+To begin providing liquidity and earning on the DYP Earn Vault, you have to visit the Vault App. Once you get to the Vault App, you will be required to connect a wallet, preferable MetaMask wallet, to the Vault. You can then choose from the five vault markets (WETH, WBTC, USDT, USDC, DAI).
+
+Each market has the four staking option duration (3,30,60 and 90 days) as well as APY of (3%,8%.11%, and 13%). Users can then choose the amount of tokens to be locked and confirm the transaction.
+
+Users can rest easy with DYP Earn Vault as funds are kept secured using the latest security mechanisms. For more details on how to use the DYP Earn Vault, click here.
+
+More Developments in the DYP Ecosystem
+
+DYP continues to stand out as one of the best yield farming protocols in the market. It recently expanded its repertoire by launching its token on the Binance Smart Chain, thus offering yield farming opportunities to users of the fast-growing blockchain network.
+
+DeFi users can also take advantage of the DYP Bridge that enables swaps between the Ethereum and Binance Smart Chain networks. The swap bridge, one of the first within the DeFi ecosystem, continues DYP’s quest to become a major player in the crypto space.
+
+Notable is that in just 4 months, liquidity providers have earned a total of 7,892 ETH and 1,858 BNB worth $22,950,768 from DYP farming tools on the Ethereum and BSC blockchains.
+
+The launch of the DYP Earn Vault follows the roadmap of the DeFi protocol with the highly awaited DYP tools, the next product set to be launched in Q2 2021. DYP Tools is a dashboard that will enable traders and DeFi users to access tools to ensure informed investments.
+
+This is a sponsored post. Learn how to reach our audience here. Read disclaimer below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

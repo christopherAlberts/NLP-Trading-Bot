@@ -1,0 +1,55 @@
+If you want a bitcoin, you have three ways to acquire it: You can buy it, you can receive it as payment, or you can -- well, just go get it.
+
+The first two methods are self-explanatory, and they're the usual subjects of the debate around bitcoin: its value as an investment and as a currency. As for the third method, bitcoins are created through a process called mining, in which computer power (hashing power) is used to solve a puzzle in pursuit of a number called a nonce. In theory, these puzzles could be done with a pen and paper. They aren't mathematically challenging, they just require a lot of number-crunching and guesswork.
+
+So why buy a bitcoin for Monday morning's price of roughly $43,000 when you can just solve one of these puzzles and get one on your own? To answer that question, it helps to think of the traits bitcoin shares not with other currencies or investments, but with something else -- commodities.
+
+Not your typical commodity
+
+The U.S. Commodity Futures Trading Commission characterizes bitcoin as a commodity so that derivative contracts like futures and options can be traded based on its underlying value. This makes a certain amount of sense. What's considered a commodity has changed over time, but from goats to gold, commodities all have something in common: They're fungible, meaning interchangeable. There may be different types of tea and grades of motor oil. But a gallon of unleaded gasoline is more or less the same no matter where you get it.
+
+In most commodity-dependent industries, when the price of the underlying commodity goes up, supply starts to increase, as well. When prices of gold or copper go up, miners respond by ramping up production. It's the same with oil. Higher supply eventually causes prices to go down, and the cycle repeats. But something strange is happening with bitcoin: Its price is near its all-time high, but supply is increasing at its slowest pace ever. There are several reasons for this.
+
+In the early days, the puzzles that bitcoin miners had to solve were relatively easy and didn't require a lot of hashing power. A dusty old central processing unit (CPU) would do the trick. But the puzzles have gotten exponentially harder over time. This is because bitcoin's founders decided each block of bitcoin should take about 10 minutes to mine, in an effort to keep a lid on supply. As computing power surged, so did the difficulty. The difficulty is adjusted every 2,016 blocks -- which is roughly every two weeks if it takes 10 minutes to mine a block. In theory, you could take the average hash rate and the time per block of the prior 2,016 blocks to estimate what the next difficulty number will be. But it's not a perfect science (since sometimes a block is mined in far less than 10 minutes by pure luck).
+
+In January of 2009, the difficultly was 1.0 and the network's hash rate was 4.21 million hashes per second. Today, the network's difficulty is closing in on 20 trillion, and the hash rate is around 150 million terra hashes per second (TH/s), with a terra hash equalling 1 trillion hashes. This is one reason behind the surging demand for NVIDIA's (NASDAQ:NVDA) top-of-the-line graphics processing units (GPUs).
+
+So there's one part of our answer: the computing power required to mine one block of bitcoin is exponentially higher now than it was 12 years ago, even if the time it takes to mine one block is still around 10 minutes.
+
+Supply limits
+
+If the time to mine a block is relatively constant over time, why is bitcoin supply increasing at a slowing rate? The answer is due to bitcoin "halvings."
+
+The first bitcoin block, known as the "genesis block," yielded 50 bitcoin. But after every 210,000 blocks are mined (about every four years), the reward is cut in half. The first halving occurred on Nov. 28, 2012. The second was on July 9, 2016. And the third was on May 11, 2020. Today, each block yields just 6.25 bitcoin.
+
+The maximum bitcoin supply that can ever be mined is 21 million. This means that half of the total potential supply was generated within the first four years after bitcoin's launch. And 93.75% of the total supply will be mined before the next halving in 2024. This table shows the pattern well.
+
+Halving Bitcoin Per Block Mined In Period Cumulative % of Total Supply Mined Launch 50 10,500,000 50% 1 25 5,250,000 75% 2 12.5 2,625,000 87.5% 3 6.25 1,312,500 93.75%
+
+The effect of these halvings on supply may surprise you. By 2044, 99.9% of all bitcoin will be in circulation, leaving just 20,508 left to be mined. Just 40 bitcoin will be mined in the four years starting in 2080. And before the century ends, less than one bitcoin will be mined per year. Eventually, the last bitcoin will be mined in 2140.
+
+So although bitcoin is near a record high price, and the computing power being used to mine bitcoin is also at a record high, bitcoin supply is increasing at its slowest rate in history for two reasons:
+
+The bitcoin protocol has successfully adjusted the difficulty to mine a block of bitcoin, which has kept an average pace of one block mined per 10 minutes despite exponentially higher computing power. The bitcoin reward per block is halved every 210,000 blocks.
+
+And now is really when we see commodity dynamics at work.
+
+Profitability
+
+To be more successful, miners join what are called pools, where they combine their computing power and then split the prize from successfully mined blocks. The best bitcoin mining rigs can cost upwards of $3,000, while the older models can be purchased for a few hundred dollars. The Whatsminer M30S++ has a hash rate of 112 trillion per second. Assuming a conservative electricity cost of $0.07 per kWh, it can break even at a bitcoin price of $7,420. This looks like a sweet deal now, but keep in mind that bitcoin was less than $7,000 just last April.
+
+Older models like the Antminer S9, which has a hash rate of just 13.5 trillion per second, can break even at $24,730 bitcoin. This hash rate was more than acceptable when bitcoin mining took less computing power and each block yielded 50 bitcoin. And it's been profitable recently. But it could be a money-losing endeavor if computing power floods the market and the difficulty increases at a faster pace than bitcoin's price. This has happened several times before, when bitcoin's price crashes or the difficulty level rises to the point where once profitable rigs become unprofitable.
+
+In the oil industry, new wells won't be drilled if the breakeven price per well is too close to the current price of oil. This is why many oil majors have divested away from plays that were profitable at $55 oil or higher. And it's also why drilling ground to a halt when oil crashed and stayed below $40 from March through November of last year.
+
+Bitcoin is similar. New rigs won't be bought and miners won't mine if the breakeven is too close to the current price. Even the best rigs out there earn just $17.50 or so per day at $30,000 bitcoin (assuming $0.07/kWh electricity costs). At a sticker price of $3,000 per rig, it would take 170 days to break even. If bitcoin crashes to $15,000, it would take a year. And if the network is flooded with computing power and the difficulty goes up, you could be out of luck entirely.
+
+When the party ends
+
+The common theme behind all commodities is that they have tangible use in everyday life. Therefore, prices spike if production goes down. Electricity prices go up during a power outage. Water prices go up if a water main bursts.
+
+These tangible effects can also offer opportunity. When oil topped $100 per barrel in 2008, it was because the world was consuming more oil and thought it would run out. But new technologies like horizontal drilling and hydraulic fracturing unlocked previously unprofitable reserves. And today, many companies can turn a profit at $40 oil.
+
+Unlike oil, bitcoin isn't tangible and doesn't have practical use in the physical world. It has a limited supply. And the bitcoin protocol ensures that new bitcoins are produced at a consistent (though dwindling) rate independent of computing power. In this way, bitcoin's relationship with supply, production, and price is completely different from traditional commodities. That makes sense, because it was, after all, originally intended to be something else -- currency.
+
+The power of halving is truly incredible, considering that by 2060 the annual bitcoin supply will be increasing by hundreds, not millions, per year. Once that additional supply becomes negligible, we could see bitcoin's price volatility go way down. And only then, perhaps, will bitcoin stop reminding us of commodities and investments and truly become what it was intended to be.

@@ -1,0 +1,27 @@
+In late March, Visa announced that it would begin accepting payments in the cryptocurrency USD Coin directly. Visa's press release came on the heels of Mastercard's recent announcement that it would soon begin facilitating crypto transactions.
+
+Key Takeaways Visa is now directly accepting payments in USD Coin, a cryptocurrency.
+
+USD Coin is a stablecoin tied to the U.S. dollar, with 1 USD Coin worth $1.
+
+Visa's Crypto.com debit cards previously required conversion from digital currencies to a conventional currency that Visa accepts.
+
+Visa says it plans to support new central digital bank currencies as they become available in the future.
+
+How Visa Came to Accept USD Coin
+
+For several years, Visa has partnered on a crypto-based rewards debit card with Crypto.com, which operates its business in digital currencies. But as Visa settled transactions each day on those cards, it required Crypto.com to convert the digital currencies transacted into fiat currencies, such as the U.S. dollar.
+
+This process was costly, complex, and time-consuming. So in 2019, Visa proposed to allow settlements in a digital currency over a public blockchain through its partner Anchorage, the first federally chartered digital asset bank.
+
+After two years of upgrading its infrastructure, Visa decided to pilot the new program using USD Coin. USD Coin is a stablecoin, which means that while it's powered by Ethereum, it pegs its market value to the U.S. dollar, giving it more price stability.
+
+Additionally, USD Coin has a clear set of compliance and regulatory protocols in place, providing more confidence than traditional cryptocurrencies, which are decentralized and unregulated.
+
+Visa's Plans for the Future
+
+Visa says it doesn't intend to stop at USD Coin but intends to add more stablecoins to its settlement platform. More specifically, the company plans to support central bank digital currencies (CBDC) as they become available. CBDCs are digital currencies issued by a country's central bank directly to its citizens.
+
+Several countries are well along in their development of a CBDC framework, but most are still exploring the concept. Bank for International Settlements found that roughly 80% of countries' central banks were engaged in some sort of CBDC work in 2019.
+
+Experts say that while cryptocurrencies like bitcoin started the crypto conversation, stablecoins like USD Coin will likely lead the way toward mainstream adoption and usage.

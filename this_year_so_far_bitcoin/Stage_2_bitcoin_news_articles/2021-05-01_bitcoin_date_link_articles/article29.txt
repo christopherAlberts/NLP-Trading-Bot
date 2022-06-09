@@ -1,0 +1,97 @@
+Cryptocurrency Mining. Andia/Getty Images
+
+A new green cryptocurrency called Chia (XCH) is set to start trading on Monday, May 3.
+
+Chia uses "proof of space" and "proof of time" instead of bitcoin's "proof of work" to mint new coins.
+
+The rise of Chia is already causing shortages and price increases at hard drive and SSD manufacturers.
+
+Sign up here for our daily newsletter, 10 Things Before the Opening Bell.
+
+A new "green" cryptocurrency called Chia is set to start trading next week. It was created by Bram Cohen, the inventor of BitTorrent, and uses what's called "proofs of space and time" to "farm" rather than "mine" new coins.
+
+The model is a less energy-intensive method of producing digital assets compared to bitcoin's "proof of work" concept, which has led that currency to be criticized for using as much energy as some entire nations.
+
+Chia and the company behind it, Chia Network, have already attracted significant attention from investors.
+
+Chia Network boasts big-name backing from the likes of Andreessen Horowitz, Naval Ravikant, and Cypherpunk Holdings, according to data from Crunchbase.
+
+The company also has attracted publicly traded crypto mining companies like iMD Companies.
+
+"We're going all-in on Chia," Rick Wilson, iMD CEO, said in a recent press release. "With our extensive research, we believe that Chia is here to stay and will be utilized on a global financial level. We believe our early decision to farm Chia will result in increased revenues for iMD."
+
+Chia Network released a Business Whitepaper describing its new cryptocurrency (XCH) on February 9 and launched "farming rewards" on March 19.
+
+Chia will begin transactions and trading on May 3.
+
+Here are six things to know about the new cryptocurrency before it starts trading.
+
+The 'proofs of space and time' model
+
+The "proofs of space and time" model is central to Chia's value proposition. The idea is that users, called "farmers," will "seed" their hard drives or solid-state drives (SSDs) with software that puts cryptographic numbers into specific "plots."
+
+These "plots" are then awarded with blocks from the blockchain based on the percentage of total space a farmer has compared to the entire network. Then a VDF server, known as a "Timelord," verifies that block, allowing the chain to move forward and awarding XCH to the farmer.
+
+Chia Network says the system will provide better security than Ethereum and reduce the energy expenditure costs required by bitcoin's "proof of work" model.
+
+Read more: A 29-year-old self-made billionaire breaks down how he achieved daily returns of 10% on million-dollar crypto trades, and shares how to find the best opportunities
+
+Hard drive and SSD shortages and price increases
+
+Chia's "proofs of space and time" model may be an energy saver, but the method is already creating issues for hard drive and SSD suppliers.
+
+A recent report from DigiTimes revealed the Taiwanese memory and storage manufacturer Adata has seen a 500% increase in SSD orders since the start of April.
+
+The South China Morning Post also reported that Chinese e-commerce platforms, including Alibaba's Taobao and JD.com, have seen multiple models of enterprise-grade hard drives with large capacities selling out.
+
+"Many people have inquired about large hard drives for Chia mining in the past few days," one customer service agent at a Taobao online told the South China Morning Post.
+
+The rise in hard drive and SSD sales is a result of the new requirements for storage to "farm" Chia.
+
+If the cryptocurrency ends up being anywhere near as popular as other altcoins, the business model could put real pressure on memory and storage manufacturers' supplies and pricing moving forward.
+
+A new transaction programming language
+
+Chialisp is Chia Network's new smart transaction programming language.
+
+The company says its language combines the best aspects of bitcoin's "UTXO model" and Ethereum's "Solidity model" to allow for more secure, less energy-intensive functionality.
+
+To learn more about Chialisp, check out Chia Network's introduction to the language posted by Bram Cohen back in 2019.
+
+No hard cap, and a strategic reserve to reduce volatility
+
+Chia Network doesn't have a hard cap on the total number Chia coins on its blockchain like bitcoin does. Instead, the company prefers a predictable, continuous form of inflation.
+
+"Being able to directly calculate a shared expectation of the total supply at any given time gives much the same financial and peace of mind benefit," the company's white paper notes.
+
+Chia Network also holds a strategic reserve of 21 million XCH, in a nod to bitcoin, that it will use to reduce the volatility of its coin and mitigate any potential crashes.
+
+Read more: A crypto technical analyst breaks down why ethereum is set to rise to $3,000 and is a better investment than bitcoin right now - and explains how he analyzes when to buy a cryptocurrency
+
+Going public and embracing regulation
+
+Unlike many other cryptocurrency offerings, Chia has a formal company behind it, and they intend to go public.
+
+"We hope to file and list our equity in the next six to 12 months," Gene Hoffman, the CEO and President of Chia Network told Decrypt.
+
+Not only that, but Chia Network has also said it will embrace regulation because management has seen "scams and farces" in the space hurt investors.
+
+"It should not be controversial that investors deserve protection through public disclosure and certainly the public shouldn't be sold investments without that legally required transparency," the company's whitepaper states.
+
+An at-home farming push
+
+Bitcoin mining has become increasingly difficult for at-home miners due to the expansion of publicly-traded mining companies like Riot Blockchain and Marathon Digital Holdings. These companies use ASIC miners that have greater computing power than the average at-home miner could afford.
+
+This has made it so the rewards for mining bitcoin at home no longer make financial sense for many miners, especially when energy costs are considered.
+
+With Chia, that could change. At-home users will have the capability to compete to earn XCH by "seeding" their SSDs or hard drives and, at least for now, the lack of competition should allow for a more profitable experience.
+
+Chia is also a very accessible cryptocurrency. Gene Hoffman, the CEO and President of Chia Network, says it was designed that way on purpose.
+
+"It is super simple. Just download the Mac or Windows version and double click," Hoffman told CoinDesk. "I'm pretty sure this will be the easiest cryptocurrency to validate for normal people ever."
+
+New cryptocurrencies are a dime a dozen, but it's rare to see big-name investors in the crypto space come together with top developers to address a common criticism of crypto, rising energy consumption.
+
+While no one can say whether or not Chia will be a success, it's clear the cryptocurrency is offering something that most new altcoins don't with its "proofs of space and time" model.
+
+To learn more about Chia, check out the company's business white paper zoom meeting from February 11.

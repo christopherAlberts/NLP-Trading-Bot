@@ -1,0 +1,69 @@
+According to philosopher Craig Warmke, Bitcoin is basically Batman.
+
+Well, I may be taking a bit of liberty with Warmke’s argument.
+
+This article is excerpted from The Node, CoinDesk's daily roundup of the most pivotal stories in blockchain and crypto news. You can subscribe to get the full newsletter here.
+
+The assistant professor of philosophy at Northern Illinois University and a member of the crypto-oriented research collective Resistance Money has a forthcoming paper that contends Bitcoin is a collective story that all participants in the network participate in writing.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+We all endlessly discuss “What Is Bitcoin,” and it doesn’t appear that even the maximalists have settled on a consensus answer.
+
+Warmke’s conception of Bitcoin as a collective fiction is, if nothing else, novel in the corpus of explanations.
+
+Note that the argument here isn’t saying Bitcoin is like a story.
+
+He’s saying it is a story, one that happens to also have value in the real world. This isn’t so hard to understand, as we’ll see.
+
+Bitcoin is a story and bitcoin is the story’s main subject. As stories go, it’s pretty boring. It’s the story of new bitcoin getting issued and then moving from one wallet to another – forever. The plot is: Bitcoin moves around within Bitcoin. Scintillating!
+
+The Bitcoin network uses writing (code) to describe something with no external correspondence, and yet it has value. That’s fiction. As Warmke puts it toward the end of the paper, “If the chunk of code in the Bitcoin blockchain that describes a movement of bitcoin is not itself that movement, where does the movement, the transaction, take place? Nowhere – or everywhere, depending on how you think of it… Bitcoin is a fictional substance.”
+
+In his conception, miners are publishers and nodes are referees. Wallet owners have the right to write but only so long as they have some fictional bitcoin to compose a sentence about, and the only thing that sentence can say is how much bitcoin is going to a certain wallet.
+
+But … fiction?
+
+So let me give you my way of thinking about Warmke’s paper by way of the Caped Crusader: It helps to explain why Bitcoin is like Batman™. Batman is also a fictional object within a story. It is an extremely valuable story, in fact. The 1989 “Batman” sparked a global pop culture sensation and netted over $400 million at the box office. The “Dark Knight” film trilogy was worth $2.5 billion in revenue to Warner Bros. at the box office alone, and that’s just recent proceeds, just from the films.
+
+The Caped Crusader has been printing money for its owners across books, toys and other media since 1939. Beat that, Satoshi!
+
+What non-comic book fans may not realize is that Batman’s value has persisted in part because his story keeps growing (much like Bitcoin’s).
+
+The Batman story continues each month, all over the pages of DC Comics where he appears an impossible number of times in numerous titles, new bits of story coming out every week.
+
+Bob Kane and Bill Finger are credited with inventing Batman, but his legend has grown as countless writers, artists and editors add to the massive Batman mythology.
+
+Each Batman story effectively becomes a bit of “real” history. In fact, every single thing that happens in any DC comic book is part of the history of the world that Batman lives in, and those histories frequently bleed into each other.
+
+Once a DC superhero comic book is published, it becomes canon and any other writer can pick up where that story left off, even if done in the pages of a whole other title. The term-of-art in comics for this is “continuity.” It’s another way of saying “history of a fictional world.”
+
+We like a story in which a character surprises us, but only if it surprises us in a way that still feels right.
+
+In other words, writers and artists have something like writing rights in the collective story of a comic book universe but, also like in Bitcoin, there are limitations.
+
+Writers and artists are like the wallets in Warmke’s conception, adding sentences to the Batman ledger.
+
+But editors are like bitcoin nodes. Their job is, in part, to guard against continuity errors in Batman’s history (making sure a new story doesn’t contradict an old one, for example) and to make sure consensus gets maintained around Batman.
+
+There are an infinite number of Batman stories, but that infinite set is not unbounded.
+
+If a writer came in one day with a script where Bruce Wayne decided to open a flower shop rather than fight crime, I would expect the editor would reject that story.
+
+Such a story, one might say, would break consensus about the character of Batman. We like a story in which a character surprises us, but only if it surprises us in a way that still feels right. That’s the consensus part. “Batman: Caped Chrysanthemum Curator” would surprise readers in a bad way.
+
+Furthering Warmke’s framework here, obviously, DC Comics is Batman’s publisher, his equivalent of a mining network (much more centralized). Diamond Comics Distributors is his internet, the Batman distribution network.
+
+Both very valuable
+
+This network keeps the thing that is Batman™ moving forward, a story that keeps growing. It’s a much more interesting story than reading the Bitcoin ledger.
+
+And for different reasons, those stories have real value in the real world. But they are still stories.
+
+At the end of the day, this is an ontological argument about what it means for something to exist, and Warmke has constructed a thought-provoking model here that might drive consensus around that “is” question about Bitcoin.
+
+The next time people ask you: “What Is Bitcoin?” you can tell them: “It’s a story that’s written collectively by all the bitcoin holders. It gets more valuable the more people know about it, help write it and the longer the story goes on.”
+
+Inevitably, they will counter: “How does that make sense?”
+
+To which, we are currently prone to saying something like: “Look, money is a collective fiction, too.” That’s usually taken as sort of a college sophomore level cliché – it rings hollow every time.

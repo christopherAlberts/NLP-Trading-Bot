@@ -1,0 +1,27 @@
+Enterprises today are striving to become data-driven, which requires strengthening the connection between data and business decisions. The degree to which an organization is data driven depends on many factors — including leadership buy in and user analytics adoption. However, the foundation of any data strategy is always the underlying technology powering those analytics applications users will eventually use to ask questions and explore answers.
+
+What many “everyday” users do not see is the fundamental business intelligence (BI) and analytics architecture, which operates behind the scenes but powers the analytics tools that in turn inform business decisions.
+
+Here are some of the key elements of BI architecture to consider when implementing BI tech.
+
+Cloud Scale
+
+The ability to spin up, compute and access storage when and or where needed provide considerable agility, This can be in the form of a cloud data warehouse like Snowflake or a cloud data lake such as Databricks The key is to prepare the foundation — the data stores — for the needs of today as well as those of the future.
+
+Data Governance Controls
+
+Another component of architecture involves managing the storage and usage of company data — balancing the need for users to access relevant insight with the need to protect sensitive data.
+
+Governance is also a key pillar of trust, as how data is governed at an enterprise level affects how well people are able to trace insights back to source data and trust them in decision-making. In this way, BI architecture is integral in supporting a single, centralized version of the truth users can both access and rely upon when making decisions.
+
+Front-End Analytical Tools
+
+Where most stakeholders inside and outside a given enterprise ecosystem have experience with analytics is the front-end, self-service analytical tools they can use to query data.
+
+The most effective tools on the market today aim to offer a user-friendly experience akin to any online search engine, in which users — regardless of experience level with technical data processes — can ask questions in everyday language. What the “average” user may not know, of course, is how heavily these tools draw on the data warehouse and governance to function well.
+
+Data warehousing affects not only which data sources business users are able to access through an analytics system, but how well formatted the data is — and how fast they are able to get insights. Effective cleaning and storage before the fact facilitates smoother front-end analysis.
+
+Meanwhile, governance ensures users have the access permissions they need to glean key insights as well as the ability to trace these insights back to their source to verify and understand them. Moreover, security is backed in at every level. This is critical as it must to be core to the BI experience in the same way governance and usable analytics are.
+
+Strong, organized BI architecture sets up enterprise data analytics strategies for success by supporting the tools necessary to connect users with useful insights.

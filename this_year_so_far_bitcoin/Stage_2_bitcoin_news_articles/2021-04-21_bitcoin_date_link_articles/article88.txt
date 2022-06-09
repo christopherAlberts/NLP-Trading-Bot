@@ -1,0 +1,29 @@
+Weekly Decentralized Exchange Volumes Near $20B, Uniswap Captures Lion's Share, Pancakeswap Trading Climbs
+
+On Tuesday, the founder of the decentralized exchange (dex) Uniswap tweeted about the trading platform passing $10 billion in weekly trade volume for the first time. Decentralized trading volumes have grown massively, as dex platforms built on Ethereum have seen more than $18 billion in volume during the last week. Meanwhile, the dex Pancakeswap, an app that uses the Binance Smart Chain, has seen trade volumes skyrocket.
+
+Uniswap’s 7-Day Stats Capture $10 Billion in Global Trade Volume
+
+Decentralized finance (defi) has exploded during the last 12 months, as $58 billion in total value locked (TVL) is held in defi applications today. A great deal of this money is held on the Ethereum (ETH) blockchain, but a number of other blockchains are eating into this market.
+
+While liquidity pools are growing larger, dex volumes have grown immensely during the last few weeks as well. Hayden Adams, the founder of Uniswap, tweeted about a milestone for the dex he invoked as it recently captured $10 billion in seven-day trade volume.
+
+“Uniswap weekly trading volume just passed $10b for the first time,” Adams wrote. “$10b/week is over $0.5 trillion per year,” he added. In terms of dominance using defipulse.com stats, Uni holds the third position in terms of TVL.
+
+Stats from Dune Analytics does not show Uniswap tapping the $10 billion mark, but awfully close at $9.7 billion. Dune Analytics has recorded $18 billion in dex-based swaps during the last week via 13 different dex applications. This includes Uniswap, Sushiswap ($3B), Curve ($2.1B), and 0x Native ($1.1B) respectively.
+
+Alternative Chains See Demand
+
+However, these days a dex called Pancakeswap, a platform that uses the Binance Smart Chain is pulling in significant trade volumes. It is becoming well known that the fees on Binance’s sidechain network are far less than Ethereum’s fees which have spiked considerably in recent times.
+
+Pancakeswap has seen over $4 billion in global swap volume during the last seven days and volumes have been increasing a great deal week over week. Pancakeswap’s biggest pairs this week include wrapped BNB/BUSD, safemoon/WBNB, and CAKE/WBNB.
+
+Moreover, there are other projects seeing increased interest some of which are being constructed like Smartbch on BCH, others that have matured like Switcheo’s Demex, and projects just getting started such as Thorchain. Further, blockchains like Tezos, Polkadot, Cardano, and a number of others want a piece of the defi pie as well.
+
+Additionally, the popular dex Uniswap has plans to launch version three (V3) during the first week of May. Uniswap V3 is expected to see a number of newly added features that could increase Uniswap’s volumes more so. Meanwhile, centralized exchanges (cex) platforms continue to face stronger competition from dex platforms coming from all sides.
+
+What do you think about dex applications gathering major traction and significant trade volume during the past few weeks? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, Hayden Adams Twitter, Dune Analytics, Coingecko,
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

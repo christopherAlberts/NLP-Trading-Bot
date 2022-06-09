@@ -1,0 +1,27 @@
+Players, observers, lobbyists and the lobbied alike consider this a critical moment for crypto and its influencers. Succeeding or failing to persuade officials now will determine whether regulation allows the digital gold rush to accelerate or slows it to a sputter.
+
+What’s at stake?
+
+Here are four of the big issues keeping crypto lobbyists busy:
+
+Reputation. The impression that crypto facilitates crime is voiced with some frequency by lawmakers and regulators, and it remains a significant hurdle to legitimacy. The Crypto Council’s first commissioned publication is an analysis of Bitcoin’s illicit use, and it concludes that concerns are “significantly overstated” and that blockchain technology could be better used by law enforcement to stop crime and collect intelligence.
+
+Reporting requirements. New anti-money-laundering rules passed this year will significantly expand disclosures for digital currencies. The Treasury has also proposed rules that would require detailed reporting for transactions over $3,000 involving “unhosted wallets,” or digital wallets that are not associated with a third-party financial institution, and require institutions handling cryptocurrencies to process more data. The Financial Action Task Force, an intergovernmental watchdog and standards body, recently provided draft guidance on virtual assets that would require service providers to hand over further information.
+
+Securities insecurities. When is a digital asset a security and when is it a commodity? Not technically a riddle, this question has puzzled regulators and innovators for some time. Bitcoin and other cryptocurrencies that are released via a decentralized network generally qualify as commodities and are less heavily regulated than securities, which represent a stake in a venture. Tokens released by people and companies are more likely to be characterized as securities because they more often represent a stake in the issuer’s project.
+
+The Securities and Exchange Commission sued Ripple Labs in December, accusing it of selling unregistered securities in the form of a token called XRP. Ripple insists that XRP is a commodity. A decision in this case may prove to be a watershed for determining how to properly characterize cryptocurrencies in the future.
+
+This week, an S.E.C. commissioner, Hester Peirce, published an updated “safe harbor” proposal that would give developers a grace period to issue a token without fear of mischaracterization and to keep regulators informed. “The idea is to give people a three-year runway,” Ms. Peirce said.
+
+Catching up with China. The Chinese government is already experimenting with a central bank digital currency, a digital yuan. China would be the first country to create a virtual currency, but many are considering it. Some crypto advocates worry that China’s alacrity in the space threatens the dollar, national security and American competitiveness.
+
+For more, see our previous weekend edition about the future of crypto regulation.
+
+Meet me in the lobby
+
+“With any new industry, figuring out Washington isn’t easy,” said Ms. Peirce, the S.E.C. commissioner. Entering a heavily regulated industry like finance and talking about technology that few officials understand only compound the difficulty for the crypto crowd.
+
+Since joining the S.E.C. in 2018, Ms. Peirce has been a vocal supporter of blockchain both in the halls of power and in crypto insider circles, sharing her thoughts on hot topics like when there will finally be a Bitcoin exchange-traded fund in the United States. (Not soon enough, in her view, but perhaps soonish.)
+
+As the sector matures, some things will get easier even while the landscape of players gets more complex. Blockchain businesses will increasingly speak to regulators who understand their language, Ms. Peirce said, like the new S.E.C. chair, Gary Gensler, a former M.I.T. professor who taught crypto classes and was coincidentally confirmed on the day that Coinbase listed.

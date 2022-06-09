@@ -1,0 +1,23 @@
+Microsoft Corporation’s (NASDAQ: MSFT) decentralized identity platform ION is now live on the Bitcoin blockchain.
+
+What Happened: After four years in the making, the layer two network was successfully deployed on the Bitcoin mainnet, according to the company's recent announcement.
+
+“We have deployed an ION node to our production infrastructure and are working together with other companies and organizations to do so as well,” said Daniel Buchner of Microsoft’s Decentralized Identity team.
+
+The project is also completely open-source, meaning it has been designed for any individual user to run their own node. “In fact, the more nodes in operation, the stronger the network becomes,” noted Buchner.
+
+Why It Matters: The ION Decentralized Identifier (DID) will utilize the Bitcoin blockchain to authenticate online IDs.
+
+Essentially, ION will use the same logic as Bitcoin’s transaction layers to validate a user’s identity. According to ION, all the IDs will be tied to Bitcoin’s blockchain using the InterPlanetary File System (IPFS) protocol, and nodes will be able to process 10,000 ID requests in a single transaction.
+
+Logging into a variety of online platforms, including social media, or even buying tickets online, could be made simpler by the verification provided by a users’ DID.
+
+Users can also use a DID as digital proof to represent any verifiable assertion, ranging from diplomas to membership cards.
+
+However, unlike traditional usernames and email addresses, DIDs will be owned and controlled by the users themselves, existing independently of an external organization or third party.
+
+“For us, Bitcoin was a necessary condition for success,” said Buchner to Bitcoin Magazine, adding, “When we started crunching the numbers, we realized that Bitcoin was the only chain that would probably be too costly to attack.”
+
+See more from Benzinga
+
+© 2021 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.

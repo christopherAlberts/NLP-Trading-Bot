@@ -1,0 +1,13 @@
+Bitcoin data provider Coin Metrics raised $15 million in an investment round led by financial institution Goldman Sachs.
+
+According to Bloomberg, Goldman Sachs led a $15 million investment round in Coin Metrics, a bitcoin data provider for institutional investors. Goldman’s global head of digital assets, Mathew McDermott, will also join the analytics firm’s board of directors.
+
+Coin Metrics, founded in 2017 as an open-source project to determine the economic significance of public blockchains, provides clients a variety of Bitcoin data, including information on historical datasets, market research on liquidity and transaction costs, futures contracts, open interest and liquidations.
+
+With the proceeds of the investment round, Coin Metrics plans “to grow in Europe and Asia, create new products and expand current offerings,” the firm’s CEO Tim Rice told Bloomberg. He reportedly declined to give a valuation for the company based on the latest investment.
+
+According to Rice, traditional banks have recently been demonstrating interest in the cryptocurrency market due to customer demand after remaining on the sidelines for so long.
+
+Goldman Sachs in particular has been showing growing interest in Bitcoin this year. In mid-March, the financial institution filed with the U.S. Securities and Exchange Commission regarding a note tied to an exchange-traded fund (ETF) capable of investing in bitcoin and bitcoin-adjacent technology. And, later that month, the leader of the bank’s private wealth management division declared that it would soon offer clients bitcoin investment vehicles.
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.

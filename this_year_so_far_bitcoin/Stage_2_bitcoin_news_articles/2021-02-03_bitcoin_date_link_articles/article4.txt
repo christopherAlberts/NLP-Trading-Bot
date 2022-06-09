@@ -1,0 +1,37 @@
+Bitcoin SV's (BSV) Scaling Test Network (STN) hit a new record last week. The network processed over 9,000 transactions per second (tps) at one point on Jan. 26, beating its previous record of approximately 6,500tps in December 2019.
+
+Blockchain explained in plain english Understanding how blockchain works and identifying myths about its powers are the first steps to developing blockchain technologies Read More
+
+The STN is a project by the Bitcoin Association, which is operated by nChain, and is aimed at enterprise scalability. The project uses STN nodes, in two ways: For mining, and listening around the globe.
+
+It does this to match real-world operations as closely as possible to ensure that the transaction numbers seen are from a globally distributed network.
+
+This STN is purely a testing network. It allows anyone who wishes to build a solution to test it using Bitcoin SV to see how the solution can scale, or test it at levels expected to be seen on the mainnet in the future.
+
+The mainnet is the production blockchain network that is used for projects to run on after they have completed testing on the test network.
+
+The goal of the STN is to reflect the mainnet as closely as possible, on a larger scale. The mainnet already has this capacity, but currently does not have the transaction volume demand.
+
+The recent beta and upcoming full release of Bitcoin SV node software 1.0.7 have had a lot of development work to allow long chains.
+
+Long chains -- the most requested limit removal -- have the greatest proof of work invested in them, and generally, mining nodes will always adopt a longer chain over a shorter one.
+
+The work done improving the software has, in internal testing, shown large improvements to the handling time of long-chained transactions
+
+Bitcounscaling.io
+
+STN Operations Manager Brad Kristensen told CoinGeek that his team thinks that over 2,000tps is sustainable on the STN. Recently, the team observed an average of around 1.9ktps ( 1,900tps) over an eight-hour period.
+
+STN statistics can be monitored by anyone at this site, and the numbers achieved by the STN certainly do look impressive.
+
+Currently, the BTC (Bitcoin Core) network limits its block sizes to 1-4MB, which results in a maximum of seven transactions per second. It can cost over $10 to send a single BTC transaction of any amount.
+
+The STN is still early into testing version 1.0.7 with respect to chain lengths, so expectations are still being formed. But the work so far indicates that there are definitely raw performance improvements.
+
+The current peak record was set with very few chained transactions in the blocks which formed the record.
+
+The sustained tps record breaks were achieved with chain lengths between 2 and 12, which appears to show the long-term endurance of the network under load. The next round of tests will start with chains of 25 increasing as the days roll on.
+
+It does seem likely that this potential for transaction scalability will become very attractive for enterprises wishing to process large data throughput -- without transaction bottlenecks and delays.
+
+If Bitcoin SV can continue to offer micropayments for transactions, and increase the length of chains, then the sky certainly seems to be the limit for performance and scale -- across the BSV mainnet.

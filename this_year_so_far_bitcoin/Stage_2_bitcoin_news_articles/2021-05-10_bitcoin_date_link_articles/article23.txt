@@ -1,0 +1,19 @@
+Few bitcoin projects illustrate the cryptocurrency’s enormous climate impact better than the Greenidge power plant in upstate New York. The once-abandoned power plant was bought by private equity firm Atlas Holdings and retasked. A significant portion of Greenidge's electricity no longer powers nearby homes or businesses; rather, the plant's smokestacks are increasingly pouring pollutants into the atmosphere in the service of mining bitcoin.
+
+Now, Greenidge is on the verge of ramping up its bitcoin ambitions. By the end of this year, it plans to have 18,000 specialized machines mining bitcoin, and with the recent approval of its data center expansion plans, it will add 10,500 more. When the project is complete, the miners will be using 79 percent of the power plant’s capacity, or 85 MW.
+
+“No direct competitor currently owns and operates its own power plant for the purpose of bitcoin mining,” the company wrote in its recent S-4 filing with the SEC. “No other bitcoin-mining operation of this scale in the United States currently uses power generated from its own power plant.” The filings came as a result of Greenidge's recent merger with Support.com.
+
+Many nearby residents are not pleased. At a planning board meeting last month in the town of Torrey, New York, a crowd of around 50 people were split in their opinion of Greenidge’s expansion plans. The additional four data center buildings would provide 12 long-term jobs, but the mining operations would significantly contribute to air pollution in the area and discharge hot water into a nearby trout stream that empties into Seneca Lake.
+
+Advertisement
+
+Environmental groups are concerned about the plant’s footprint. Dozens of local residents, along with the Sierra Club and others, have filed a lawsuit to halt the expansion, claiming it would violate New York law by discharging high-temperature water into the stream and lake and that those discharges would increase the likelihood of harmful algae blooms. Toxins produced by such blooms cannot be stripped from the water, and several petitioners draw their homes’ drinking water directly from the lake.
+
+Part of the controversy stems from the fact that Greenidge was once destined for the scrap heap. Its owner had gone bankrupt a decade ago, and the coal-fired power plant was retired and its operating permits abandoned. But then Atlas Holdings bought the plant in 2014 and spent $65 million to convert it to natural gas and get it running again. Greenidge restarted in 2017 and spent the next two years testing its bitcoin-mining strategy. Over time, it sold less electricity to the grid, devoting more and more power to its mining operations.
+
+The plant’s shift to bitcoin-only operation comes at a time when New York state is fighting to keep cryptocurrency miners from taking advantage of the state’s cheap power. In 2018, the Public Service Commission gave municipal power companies the ability to raise rates on cryptocurrency customers.
+
+Greenidge’s operations aren’t affected by PSC decisions, though. Their mining happens “behind the meter,” meaning it's not affected by grid-level prices. And those operations appear to be fantastically profitable. Between February 2020 and February 2021, the company mined nearly 1,186 bitcoin at a cost of $2,869 per bitcoin. Today, one bitcoin is trading at $57,475.
+
+In the company’s SEC filings, Greenidge says it will use expertise developed at its current power plant to expand to at least 500 MW of mining capacity by 2025.

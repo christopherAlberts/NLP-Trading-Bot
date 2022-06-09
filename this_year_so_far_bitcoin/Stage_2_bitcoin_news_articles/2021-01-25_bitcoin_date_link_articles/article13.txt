@@ -1,0 +1,21 @@
+width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen">
+
+“The Bitcoin Bridge“, CoinGeek’s weekly show covering Bitcoin stories in the Asia-Pacific (APAC) region, heads to Australia this week. January 26th is Australia Day, so Dean Little and Nick Carton from BitPing join in to talk about whether being a dev in Australia is different to the rest of the world, why there’s a higher level of interest in BSV in that country than most others, and of course about BitPing.
+
+BitPing won the first-ever Bitcoin Association Hackathon in 2019. Back then it was known as UptimeSV, so the guys talk about how it evolved from that original hackathon idea into a company that’s actually making money.
+
+BitPing is a “distributed network intelligence” service that monitors the health of websites and online apps. Rather than performing all the network tests itself, it delegates those to a network of almost 400 “nodes” in 69 countries. The nodes run network health checks in the background, earning BSV micropayments for doing so.
+
+One advantage of this is that a distributed network of nodes can perform those tasks far better than a centralized service in one location. Plus, anyone with an internet connection and a browser can be a node operator, earning money automatically. How does it work? What services does BitPing offer and what new features do they plan on rolling out in 2021? You’ll have to watch the interview to find out.
+
+BitPing is one of the more successful startups in the Bitcoin BSV industry, so we talk about how the team went about achieving its goals—as well as their advice for anyone interested in starting out.
+
+We also talk about the Bitcoin BSV community in Australia—in particular, whether there actually is one and what impacts factors like distance, population, and COVID-19 restrictions have had on getting the work done.
+
+Does the level of interest in Bitcoin BSV in Australia have anything to do with Dr. Craig Wright? Dean and Nick offer their thoughts on that question, and whether it’s true that Australians can relate to Wright’s personality better than people in most other countries.
+
+Find out more about BitPing in this latest episode, and find out how much you actually know about Australia. Next week we’ll head off to another part of APAC, probably something much different—stay tuned.
+
+Watch previous episodes of The Bitcoin Bridge with Brendan Lee, Jack Liu, and Calvin Ayre.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

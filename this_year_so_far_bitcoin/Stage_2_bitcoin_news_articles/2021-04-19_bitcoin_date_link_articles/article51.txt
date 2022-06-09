@@ -1,0 +1,73 @@
+There are now two different Taproot activation paths embedded in Bitcoin software clients. Here’s what this could mean for the Bitcoin protocol.
+
+Taproot, the proposed Bitcoin protocol upgrade for compact and privacy-preserving smart contracts, is getting closer to activation. The Taproot code itself had already been included in the most recent major Bitcoin Core release (Bitcoin Core 0.21.0), which is currently the de-facto reference implementation for the Bitcoin protocol. The next step was to deploy activation code for the upgrade to go live across the Bitcoin network.
+
+But due to technical and philosophical disagreements on how the Bitcoin protocol should be upgraded, discussion about Taproot activation turned out to be a long and sometimes heated debate. Now, it has resulted in two different Taproot activation paths, embedded in two main software clients that could in some scenarios even become incompatible with one another.
+
+This is the story of these main two Taproot activation clients, the difference between them and some possible scenarios going forward.
+
+Background
+
+Taproot activation has been the subject of discussion since early 2020. Over the course of more than a year of discourse across the Bitcoin development mailing list, a dedicated IRC channel and other discussion forums, a rough consensus appeared to have formed around using the Bitcoin Improvement Proposal 8 (BIP 8) protocol to activate the soft fork. This would let miners activate the soft fork by signaling readiness, until a timeout is reached.
+
+The final point of contention was around what should happen if not enough miners had signaled readiness when that timeout was reached, reflected in the Lock-in On Timeout (LOT) parameter. If LOT is set to ”false” (LOT=false), the upgrade simply expires at timeout, and a new activation mechanism can be considered. If LOT is set to “true” (LOT=true), however, nodes will from that point on only accept signaling blocks, and reject any non-signaling blocks. Assuming that enough signaling blocks are mined in the first place, this guarantees activation.
+
+Without getting into all of the arguments on both sides of the LOT debate (these are summarized here), the disagreement appeared to be heading toward a deadlock. To avoid this, other proposals were considered, like a flag day activation without hash power signaling. But perhaps more importantly, some LOT=true proponents decided to launch a LOT=true client: a software fork of Bitcoin Core 0.21.0 that would activate Taproot using LOT=true regardless of what the Bitcoin Core project would do (if anything).
+
+But in a bit of a last-minute twist, something of a compromise between different factions was found in a proposal called “Speedy Trial.” Speedy Trial would offer a quick, three-month window for miners to signal readiness for the upgrade. If miners would indeed signal readiness, Taproot would activate later in the year; some delay was built in to allow users enough time to upgrade as well.
+
+LOT=true proponents essentially accepted Speedy Trial because it was quick enough not to get in the way of their planned LOT=true activation, while LOT=false proponents accepted Speedy Trial because it essentially is a LOT=false implementation, just on a shorter timeline. The solution wasn’t really what most on either side of the debate had hoped for, but it was at least more broadly acceptable than anything else.
+
+That is, until the specifics around Speedy Trial were being finalized, and both sides still ended up disagreeing on implementation details that would make Speedy Trial more, or less compatible with the LOT=true client.
+
+The original philosophical divide between LOT=true and LOT=false as well as the disagreement on Speedy Trial's implementation details have now resulted in two different Taproot activation clients: Bitcoin Core 0.21.1 and the LOT=true client, named Bitcoin Core 0.21.0-based Taproot Client 0.1.
+
+Bitcoin Core 0.21.1
+
+Bitcoin Core 0.21.1, for the remainder of this article sometimes also simply referred to as “Bitcoin Core,” is an upcoming minor release of the Bitcoin Core software client. It is developed and endorsed by most of the regular Bitcoin Core contributors. (A Bitcoin Core 0.21.1 release candidate was published today, which could soon be confirmed as the official release. Either way, an official release will follow shortly.)
+
+Bitcoin Core uses the final implementation of Speedy Trial for Taproot activation. This means that the hash power signaling period will start at the first two-week difficulty period after April 23, which is currently estimated to begin on May 2. The signaling period will timeout by the end of the last two-week difficulty period before August 11.
+
+If at least 90 percent of miners signal readiness for the upgrade within any of the two-week difficulty periods between those two dates, Taproot will activate on Bitcoin block 709632, which is estimated to be mined this upcoming November.
+
+If miners haven’t activated Taproot by the end of the signaling period, the upgrade will expire. Bitcoin Core developers will then re-assess and presumably follow up with different activation code in a future Bitcoin Core release. It hasn’t been decided what this (presumed) second activation solution will be, however.
+
+Bitcoin Core 0.21.0-based Taproot Client 0.1
+
+Bitcoin Core 0.21.0-based Taproot Client 0.1, for the remainder of this article simply referred to as “Bitcoin Taproot,” is the LOT=true client. Bitcoin Taproot is a software fork of Bitcoin Core 0.21.0, the last major Bitcoin Core release, but with BIP 8 LOT=true activation code added for Taproot. The project is maintained by the pseudonymous community members Bitcoin Mechanic and Shinobi, with Bitcoin Core developer and Bitcoin Knots lead maintainer Luke Dashjr as the project’s most notable and most experienced contributor. (Although “Bitcoin Core” is referenced in the name of the client, most regular Bitcoin Core contributors do not endorse this specific client.)
+
+Bitcoin Taproot has a signaling period that will start at Bitcoin block 681408, which is estimated to be mined on May 2: it’s (almost certainly) the same block that will mark the start of the Speedy Trial signaling period. Bitcoin Taproot’s signaling period will end at Bitcoin block 760032, however, which is estimated to be mined in October of next year, 2022.
+
+If at least 90 percent of miners signal readiness for Taproot throughout any of the two-week difficulty periods between those two blocks, the upgrade will activate at Bitcoin block 709632 or, if it’s already past that block, two weeks after the signaling threshold is met. In other words, Taproot would activate in November of this year at the earliest (the same as Bitcoin Core with Speedy Trial), but could still activate until a year later, November 2022.
+
+In addition, and most importantly, Bitcoin Taproot uses LOT=true. Where Bitcoin Core’s Speedy Trial would just expire if not enough miners signal readiness, Bitcoin Taproot clients will eventually end up requiring blocks to signal readiness, meaning that blocks that don’t signal readiness will be rejected (if any). This means that the signaling threshold will definitely be met (assuming enough signaling blocks are mined), and Taproot is guaranteed to activate.
+
+Differences
+
+As such, there are three differences between Bitcoin Core and Bitcoin Taproot.
+
+The first difference is (arguably) a minor one. Bitcoin Core uses dates and times to mark when its signaling period can start and end, while Bitcoin Taproot uses only block heights. Most Bitcoin Core developers consider this a small or even trivial difference; so trivial that some figured it could be decided through a “coin flip,” but they eventually settled on using dates and times. Dashjr, the most notable Bitcoin Taproot contributor, has a strong preference for using block heights, however.
+
+In short, the arguments for using block height are that it eradicates edge case scenarios where a difficulty period ends right around the end of the signaling window, while it precludes timewarp attacks (where miners collude to fake block times), and it’s more consistent: the upgrade definitely starts being enforced at a specific block height regardless of date and time. Dashjr also believes that the Bitcoin community had already settled on using block height for activation before Speedy Trial was even in the picture.
+
+The arguments for using block time are that it allows humans to schedule around the dates a bit easier, it requires fewer code changes compared to previous soft fork activations and it’s in some cases more convenient to run simulations on certain test networks.
+
+The second, bigger, difference, is that Bitcoin Core’s Speedy Trial signaling period only lasts for about three months, while Bitcoin Taproot’s signaling period lasts for about 18 months. While the signaling periods for Bitcoin Core and Bitcoin Taproot are practically guaranteed to start at the same time, Bitcoin Taproot’s signaling period will last for up to 15 months longer.
+
+The third and biggest difference is that Bitcoin Core’s Speedy Trial signaling period will just expire if miners haven’t signaled readiness before the end of the three-month period (at which point a different activation strategy can be considered), while Bitcoin Taproot uses LOT=true to eventually only accept signaling blocks, and thus guarantees Taproot activation.
+
+Incompatibilities
+
+Bitcoin Core and Bitcoin Taproot are starting out as compatible with one another. They coexist on the same Bitcoin network, accept (and reject) the same Bitcoin blocks and generate the same Bitcoin blockchain from these blocks.
+
+This will remain the case if miners activate Taproot before the Speedy Trial deadline. In that case, Bitcoin Core and Bitcoin Taproot nodes will both start enforcing the Taproot upgrade on Bitcoin block 709632 (November).
+
+But if miners don’t signal readiness before the Speedy Trial deadline, Bitcoin Core and Bitcoin Taproot could become incompatible. There are two main scenarios in which this could happen.
+
+Most obviously, if a majority of miners fail to signal support before the end of the Bitcoin Taproot signaling period (October 2022), Bitcoin Taproot nodes will start to reject non-signaling blocks, which Bitcoin Core nodes will still accept. In other words, the blockchain would split between Bitcoin Taproot nodes and Bitcoin Core nodes. The split could potentially last, meaning there would be two blockchains and two different coins as a result; a “coin split.”
+
+Less obviously, a majority of miners could at any time after the Speedy Trial signaling period, but before the end of the Bitcoin Taproot signaling period, “false signal”: they could signal readiness without actually planning to enforce the Taproot rules. This wouldn’t in itself make Bitcoin Taproot and Bitcoin Core nodes incompatible. But they would have a different interpretation of the Bitcoin protocol: Bitcoin Taproot would enforce Taproot rules while Bitcoin Core would not.
+
+This could in turn split the network if an invalid Taproot transaction is mined. Bitcoin Taproot nodes would reject the block that includes this transaction, while Bitcoin Core nodes would accept it just fine: they wouldn’t be enforcing the Taproot rules. If a majority of miners would continue to build on the invalid Taproot block, it would also result in a coin split.
+
+None of this is about to take place any time soon. The very earliest that a coin split could happen is in November of this year, while the Speedy Trial signaling period would end in August. This would leave at least three months for either Bitcoin Taproot or Bitcoin Core to resolve the incompatibility, if they’d want to do so — or for Bitcoin users and miners to act accordingly.

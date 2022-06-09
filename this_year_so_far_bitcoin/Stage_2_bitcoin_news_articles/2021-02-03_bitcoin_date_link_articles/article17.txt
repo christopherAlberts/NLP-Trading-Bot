@@ -1,0 +1,23 @@
+One of the most difficult problems in finance right now is figuring out the fundamental economic value of cryptocurrencies. And the past week has complicated this further.
+
+For many cryptocurrency investors, the value of Bitcoin is based on the fact it is artificially scarce. A hard cap on “minting” new coins means there will only ever be 21 million Bitcoin in existence. And unlike national currencies such as the Australian dollar, the rate of release for new Bitcoin is slowing down over time.
+
+Dogecoin, a cryptocurrency that takes its name and logo from a Shiba Inu meme that was popular several years ago, doesn’t have a cap. Launched in 2013, there are now 100 billion Dogecoin in existence, with as many as five billion new coins minted each year.
+
+But how can a currency with a seemingly unlimited supply have any value at all? And why did Dogecoin’s price suddenly surge more than 800% in 24 hours on January 29?
+
+At the time of publication, the “memecoin” was worth about A$5.6 billion on the stockmarket.
+
+A long-running joke brought to life
+
+Dogecoin is one of the original “altcoins”: cryptocurrencies released in the few years after the pseudonymous Satoshi Nakamoto first released Bitcoin into the wild.
+
+From a technical perspective, Dogecoin isn’t very innovative. Like many early altcoins, it’s based on the original source code of Bitcoin.
+
+Or more technically, it’s based on Litecoin, which in turn was based on Bitcoin — but with some small modifications such as faster transactions and the removal of the supply cap. But Dogecoin is much more interesting when seen through a cultural lens.
+
+The cryptocurrency was created by software engineers Billy Markus and Jackson Palmer — although Palmer, an Australian, has since walked away from the project. They branded it with the Doge meme partly to be funny, but also to distance it from Bitcoin’s then questionable reputation as a currency for illicit transactions.
+
+Now, Dogecoin has outlasted almost all the early derivative altcoins and has a thriving community of investors. In 2014, Dogecoin holders sponsored the Jamaican Bobsled Team. Soon after, they sponsored a NASCAR driver.
+
+Elon Musk, the world’s richest man, is among the cryptocurrency’s high-profile advocates. In December last year, a tweet from Musk sent Dogecoin’s price soaring.

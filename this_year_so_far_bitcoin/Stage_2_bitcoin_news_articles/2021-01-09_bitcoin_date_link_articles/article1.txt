@@ -1,0 +1,55 @@
+For all the talk about bitcoin (and broadly crypto) being easier to buy than ever before, Friday morning, as bitcoin was topping $41,000 per coin, I spent hours trying to make a small $100 purchase.
+
+According to some, the latest rally was initiated by institutional investors looking for a hedge against fiat inflation and the U.S. dollar’s decline in foreign exchange markets, and they seem to be having no problem buying – the price has shot up $20,000 in less than a month.
+
+But if my experience is an example of what other retail investors are dealing with, there’s still plenty of frustration to be had with the crypto markets. And think how much higher the price could be if all these newbie investors could get their hands on some of that sweet, sweet digital gold.
+
+Transaction declined
+
+This maddening adventure into purchasing more bitcoin to hodl started not as panic that I was going to miss out; no, I’ve been in the space since late 2012 and have seen the majority of the bull runs and bear markets. I am in no hurry to buy at the top.
+
+But I was using this revival as a time to set up recurring purchases with these mainstream mobile apps that are touting easy crypto buying as the technology matures.
+
+I started with Square’s Cash App, an application I’ve used plenty, loading money into my account to then take advantage of the boosts, like $1 off any coffee-shop purchase. But when trying to set up a bi-weekly purchase of bitcoin, I got the “something went wrong” error message. What, though!? What the hell went wrong!? (Stock purchases were also declined.)
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+OK, no problem, I’ve had a Coinbase account for many years and have purchased crypto with that account, so that should be an easy buy. Except that it wasn’t. After updating my card details from an old debit card, I put in a buy order that was promptly declined.
+
+For f**k’s sake.
+
+Next, I tried Blockchain.com, what was probably my first bitcoin wallet ever, besides a paper wallet. That transaction was denied based on my residence being in New York where they don’t operate (thanks a lot, BitLicense).
+
+How about Gemini, then, where just a couple weeks ago, I purchased some DeFi tokens? On the first try, the purchase was declined because the market moved, so the displayed price had changed. I tried again – begrudgingly, because the fees on a $100 transaction were nearly $6.50 – and a couple seconds later received an email, “Success! Your buy order is complete.”
+
+Finally! Except, wait, nope, 30 minutes later I received another email stating the transfer failed and the buy order was not completed.
+
+Failed buy order + frustration. (Bailey Reutzel)
+
+Maybe all these services are overwhelmed by demand? Both Coinbase and Kraken suffered outages this week during the run.
+
+Robinhood was next. I was instructed to deposit money into my account before I could buy, but after putting my routing and account number in the app stated my financial institution is not supported (Robinhood seems to be using Plaid for connecting bank accounts).
+
+Binance.US? Didn’t work, either, again on the basis of not doing business with customers residing in New York. I tried inputting my parent’s address in the Midwest, which allowed me a first level of verification, but to buy bitcoin you need to go through the advanced verification, requiring a picture of a bank statement or utility bill. My driver’s license still shows my former Midwest address, but that wasn’t a sufficient form of verification at this stage.
+
+Lastly, it dawned on me that PayPal just began allowing crypto purchases, so I logged into my account. While a button on the homepage said “Discover Bitcoin,” when I clicked it, it took me to my dashboard, which had no clear way to buy bitcoin. By this time, I was fuming and called a friend to have him check his ability to purchase. He was able to buy in seconds.
+
+So now, I’m thinking that I’m on some kind of blacklist; maybe harping on how banks suck and crypto companies that play by traditional finance’s rules are selling out has finally caught up with me.
+
+But after some troubleshooting, I realized it was because my PayPal account is a business account (pretty arbitrarily really), so I went through the process of setting up a separate individual account, which I had to link to a random, burner email account. From that individual account dashboard, the “buy bitcoin” button was right up front and so I put through an order and received a note that my transaction had gone through.
+
+But for anyone not interested in carrying out all these different setups for the story, this kind of process is infuriating, and I’d assume any novice crypto buyer would have given up after the second rejection.
+
+The main problem
+
+Which brings me to what appears to be the real issue – my traditional financial institution.
+
+I bank with a state credit union in Colorado. After trying these various routes to “financial freedom,” I called its customer service line. I’ve had to call it before to open up payments applications, such as Zelle, so I figured I’d just need to tell it to take the blocks off my account (I’ve bought crypto in the past using this bank-branded debit card).
+
+But after being on hold, the customer service agent told me all crypto transactions are “considered very high risk” and declines them, no matter whether I assure them it’s a transaction I want to make or not.
+
+She told me to contact each of the companies directly and see if there was another way to make a purchase – for instance, I could maybe pay directly out of my checking account – but when trying to input my account details before, the credit union didn’t seem to be supported.
+
+This new risk aversion to anything crypto-related is strange. The bitcoin industry has matured substantially and, in many enthusiasts’ eyes, running towards $50,000 per coin means the incumbents, the status quo, the powers that be, have no choice but to take us seriously now.
+
+That doesn’t appear to be the case.

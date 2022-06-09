@@ -1,0 +1,89 @@
+Source: Adobe/Kokhanchikov
+
+Decentralized finance (DeFi) applications, specifically on Ethereum (ETH), have exploded in popularity over the past couple of years. While bitcoin appears to be here to stay as a global, apolitical store of value, the basic idea behind DeFi is to go beyond the creation of a new, base monetary asset and bring a greater degree of decentralization to other areas of finance (or at least the appearance of decentralization).
+
+While bitcoin’s key value proposition is built around the removal of trusted third parties in the realm of digital money, it is much more difficult to completely remove counterparty risk in other areas of the traditional financial system.
+
+Sure, some people are making fortunes by earning yields on the speculative tokens found in the DeFi ecosystem, but with greater yield comes greater risk.
+
+It’s vital for anyone involved in the cryptoasset market to understand that Bitcoin and DeFi are not at all the same when it comes to risk profiles.
+
+Bitcoin is a savings technology
+
+Bitcoin is often referred to as a speculative investment, but the reality is it is a new type of savings technology. A key difference between savings and investment is that savings does not generate yield and should not involve potential downside risk. Savings is simply the money from an individual’s generated income during a particular period of time that is not spent. It’s the cash being held on hand that is not put at risk in any sort of investment.
+
+The key selling point of bitcoin as a savings technology is that it is deflationary, which is in stark contrast to the inflationary standard found in government-issued fiat currencies. In other words, bitcoin should appreciate in value over time, while fiat currencies tend to lose value over time.
+
+A key reason government-issued currencies tend to be inflationary is that it stimulates investment and spending over the short term, and politicians tend to think and act on short timeframes. Additionally, it is extremely advantageous for governments to be able to create new currency out of thin air rather than being forced to collect it from the general public through taxation.
+
+A side effect of an inflationary monetary policy is that it pushes individuals out of their savings (as to avoid devaluation) and into more speculative investments. With bitcoin’s deflationary monetary policy, individuals are able to simply hold bitcoin and allow it to appreciate over the long term rather than worrying about what is going on in the stock market or outsourcing that task to a third party.
+
+Bitcoin’s killer app is savings. — Pierre Rochard (@pierre_rochard)
+
+Of course, the introduction of bitcoin’s apolitical monetary policy that was “set in stone” with the launch of the Bitcoin network back in 2009 means that governments no longer operate without competition from a free market money for savings.
+
+Yes, gold exists as well, but the precious metal is poorly suited for the digital world. Since gold is a physical object in the real world, there is no way to use it via the internet without the introduction of counterparty risk. Gold’s failures in terms of ease-of-use are what led to the creation of paper money in the first place.
+
+With bitcoin, it is easier to become completely sovereign and protect one’s savings against theft and devaluation without outsourcing the job to a bank or some other custodian.
+
+DeFi brings greater yield with much greater risk
+
+So, we’ve established that the key selling point of bitcoin is that it allows its users to preserve the value of their savings without introducing counterparty risk or moving funds into riskier investments. Now, what has the DeFi phenomenon done up to this point? Mostly reintroduce that very problem Bitcoin was created to solve, including a heavy reliance on inflationary, fiat-pegged stablecoins.
+
+Today, the DeFi space is made up of a variety of applications around financial services such as trading, borrowing, lending, and derivatives. While these DeFi apps are often marketed as decentralized, trustless, and just like Bitcoin, they are actually far from it. After all, many DeFi users are generating high yields on their crypto assets via these applications, and that could not be the case without the introduction of some sort of risk factor.
+
+There are an incredible number of risk factors piled up on top of each other in the world of DeFi apps. These apps are crudely glued together based on potentially-faulty smart contract code, trusted oracles, developer-controlled backdoors, volatile underlying network tokens (e.g. ETH, BNB), centralized stablecoins with plenty of counterparty risk, yields denominated in Ponzi-esque crypto tokens with unclear utility, and other problematic building blocks.
+
+DeFi applications are also closely intertwined with each other, which means a problem with one app can affect others. It’s basically all one big house of cards that can fall apart as quickly as it has risen in prominence.
+
+DeFi is often referred to as a system of money Legos, but it’s much more like money Jenga right now.
+
+money legos? more like money jenga — Georgios Konstantopoulos (@gakonst)
+
+Put simply, bitcoin is intended to be the most secure, sovereign option for savings that the world has ever seen, while DeFi is so far into the realm of “investment” that it can more properly be referred to as outright gambling. There’s nothing wrong with gambling, but the extreme contrasts between the safety and security of Bitcoin and DeFi are almost always completely ignored, even by some of the most well-known entities in the space.
+
+Does saying the $USDC stablecoin enables "all the benefits of cryptocurrency" cross the line from marketing to just… https://t.co/eExVevDvyD — Kyle Torpey (@kyletorpey)
+
+It’s worth noting that risks also exist with regulated, centralized financial institutions that use bitcoin; however, a critical difference there is that users have someone to turn to for help or blame in a situation where something goes wrong. With DeFi, the user takes all of the risk upon themselves and has no safety net for their investments that go awry. DeFi apps can eventually become more trustworthy and decentralized over time, but we’re clearly not there yet, which leaves many people preferring to move bitcoin into the traditional financial system for now.
+
+DeFi will improve with time
+
+The early DeFi projects of today are of the “move fast and break things” variety, but more reliable and secure applications are bound to develop over time. It is possible to have extremely low trust DeFi applications built on top of Bitcoin, and the Lightning Network is the best example of such a financial service innovation. In the case of the Lightning Network, you get payments that are much faster and less costly than transactions made on the base blockchain layer without having to make large tradeoffs in terms of trust or counterparty risk. That said, Lightning Network still comes with a bit of smart contract complexity risk (though not as much as a random DeFi app), as it is still early days for this layer-two Bitcoin network.
+
+There are also the Liquid and RSK sidechains that allow for greater levels of experimentation; however, these networks currently rely on federations of trusted entities rather than the proof-of-work consensus algorithm, which means they are less resistant to large scale attacks by governments or other entities. On Liquid, low-trust borrowing and lending collateralized with bitcoin is possible via Hodl Hodl’s Lend, while Sovryn is bringing many of the DeFi applications from Ethereum over to RSK, which is compatible with the Ethereum Virtual Machine (EVM).
+
+Longer-term, a programming language called Simplicity, which is seen as more reliable than Ethereum’s Solidity, is expected to be added to Liquid and could eventually find its way into Bitcoin itself. This would provide for better assurances regarding the underlying code backing more complex DeFi applications.
+
+While the safety of DeFi can definitely be improved upon, investment does imply risk at the end of the day. All developers can do is minimize the risks at a technical level, and users will still be free to make bad bets. Still then, lingering issues like the oracle problem, which is critical to many DeFi applications, could persist.
+
+There’s obviously nothing wrong with taking the basic idea behind Bitcoin and trying to apply it to other financial applications, but the differences between using bitcoin for savings and putting it at risk in any sort of investment need to be well understood. Additionally, DeFi proponents need to be honest about these newly-introduced risks.
+
+There has been some growth in the combination of bitcoin with the DeFi phenomenon, namely via Badger DAO and Sovryn, and it will be interesting to see if this overlap between conservative bitcoin holders and much riskier financial applications continues to gain traction. Despite all of the risks associated with DeFi today, this trend has the potential to at least lead to a decentralization of many bitcoin applications that are completely centralized as of today.
+
+_____
+
+Learn more:
+
+- DeFi On Bitcoin To Grow In The Shadow Of Ethereum
+
+- WBTC: Where Bitcoin Meets DeFi
+
+- Bitcoin Pioneer LN Markets Raising Capital, Building 'Liquidation Killer'
+
+- Bitcoin DeFi Startup Atomic Loans to Launch Lending
+
+- Decentralized Exchanges Set To Accelerate in 2021
+
+- DeFi 'Genie Is Out' and Is Set For Growth in 2021
+
+- Yield Farming-boosted DeFi Set For New Fields With Old Challenges in 2021
+
+- If Traditional Finance Moves to CBDCs, 2 Scenarios Open for DeFi - INDX CEO
+
+- DeFi Industry Ponders Strategy as Regulators Begin to Circle
+
+- Crypto Security in 2021: More Threats Against DeFi and Individual Users
+
+- Top 4 Risks DeFi Investors Face
+
+- ‘If DeFi Collapsed, Bitcoin Would Still Be Bitcoin’

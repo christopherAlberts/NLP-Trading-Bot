@@ -1,0 +1,105 @@
+Source: Adobe/Kevin McGovern
+
+Privacy is a bit of a complicated topic in Bitcoin (BTC). While the mainstream media have often referred to the cryptoasset as a form of anonymous currency for the internet, the reality is that every Bitcoin transaction made on the base blockchain layer is completely public and stored on thousands of computers around the world.
+
+While there are no real-world identities that must be tied to the pseudonymous addresses used in the Bitcoin system, the reality is that blockchain analysis firms like Chainalysis are able to figure out most of the identities behind Bitcoin transactions through on-chain analysis and collaborations with various crypto custodians. This ability for surveillance companies to figure out what’s really happening on the Bitcoin blockchain is an indication that there is still plenty of work to do when it comes to improving user privacy in the system.
+
+That said, there have been a number of different privacy improvements made to Bitcoin over the years, and more are on the way in 2021. While Wasabi Wallet and Samourai Wallet are well-known options for using the Bitcoin network in a more privacy-conscious manner through the use of their CoinJoin implementations, there are also new innovations like Taproot, CoinSwap, and a variety of layer-two protocols that could offer improvements over the popular CoinJoin model.
+
+Let’s take a closer look at the state of Bitcoin privacy in 2021 and where things are headed.
+
+A better foundation with Taproot
+
+Of course, the biggest story for Bitcoin in 2021 at a technical level is the Taproot soft fork. This Bitcoin improvement is actually a combination of three Bitcoin Improvement Proposals (BIPs) in the form of Taproot, Tapscript, and Schnorr signatures. These technical changes contain a number of benefits for Bitcoin, most notably in the areas of privacy and smart contracts.
+
+In terms of privacy, a key benefit of Schnorr signatures is that it enables the aggregation of signatures used on multi-signature transactions. Instead of multiple signatures being added to the blockchain whenever a transaction is sent from a multisig address, all of the associated signatures are aggregated into one. This means that multisig transactions, whether they be a 2-of-3 multisig spend or the opening of a Lightning Network channel, can be made to look no different than a simple, single-signature Bitcoin transaction. It should be noted that the average Bitcoin user with a single-signature address also benefits from this setup, as it’s now unclear if their transactions are simple Bitcoin spends or something much more complex.
+
+In the long run, it will be beneficial to move all of the different types of on-chain Bitcoin transactions to a single anonymity set; however, it should be noted that, at least over the near term, Taproot may actually reduce privacy, as it is creating a new transaction type that will further split the anonymity sets found with Bitcoin transactions on the blockchain.
+
+While Taproot is seen as a positive development for Bitcoin privacy overall, it doesn’t have many implications for the CoinJoin-focused software that is widely deployed and used today.
+
+According to Bitcoin Teleport and JoinMarket developer Chris Belcher, there aren’t any benefits of Taproot to CoinJoin-enabled Bitcoin software like Samourai Wallet, Wasabi Wallet, and JoinMarket outside of lowering the overall load on the network via faster transaction verification. However, Taproot is a bit more helpful for a specific Bitcoin privacy protocol that has been implemented in JoinMarket, known as SNICKER.
+
+Taproot is also not much of a priority for the developers behind Samourai Wallet and Wasabi Wallet. According to pseudonymous Samourai Wallet developer TDevD, Whirlpool continues to be the main focus, and the CoinJoin implementation was recently opened up to denominations of 100,000 satoshis (USD 39). On top of that, Samourai Wallet is working on improvements to their Cahoots-style transactions and the integration of an upgraded version of reusable payments codes.
+
+According to Wasabi Wallet inventor Adam Fiscor, Taproot is not especially useful for that piece of software, so it isn’t a focus right now. Instead, the wallet is focused on the transition from version 1.0 to version 2.0. Fiscor outlined the differences between these two versions of Wasabi Wallet in a tweet thread back in March. In summary, the intent with Wasabi Wallet 2.0 is to make the software faster and cheaper with a better user interface.
+
+It should be remembered that Taproot can also be seen as a building block for a future improvement that would be beneficial for CoinJoin in the form of cross-input key aggregation. This would allow for all of the inputs in a CoinJoin transaction to be aggregated into a single signature, thus lowering the overall cost of a CoinJoin transaction for all users involved in them. In fact, a Bitcoin user’s involvement in a collaborative CoinJoin transaction would have a lower cost than an on-chain, single-signature transaction in a situation where cross-input signature aggregation were enabled on the network.
+
+Although Taproot isn’t immediately relevant to the commonly-used Bitcoin privacy wallets of today, it’s still a foundational change to the Bitcoin network that can be helpful with privacy overall and enable further improvements in the future.
+
+While it’s important to remember that this change has not yet been locked in on the Bitcoin network, indications are that more than the necessary 90% of the network hashrate is ready to activate the change later this year.
+
+CoinSwap
+
+While CoinJoin is still the standard option for pushing back against adversaries tracking the movement of funds across the Bitcoin network, Belcher has moved on to an alternative method for improving Bitcoin privacy in the form of CoinSwap, which was originally described by former Blockstream Chief Technology Officer Greg Maxwell in a 2013 Bitcointalk post. Belcher’s work in this area has been funded by two separate grants from Square Crypto and the Human Rights Foundation.
+
+A key issue with CoinJoin transactions today is that they stand out like a sore thumb to anyone who is looking at the Bitcoin blockchain. This issue is not theoretical, as some bitcoin custodians, such as BlockFi, have already implemented policies that are unkind to CoinJoin users. It’s also possible that CoinJoin transactions could be censored by miners on the Bitcoin network itself.
+
+For example, Marathon Digital Holdings is a new mining pool that is intended to be fully compliant with US financial regulations and has already censored some transactions. Of course, these transactions are only censored in blocks mined by Marathon Digital Holdings. Other miners are still free to include the transactions in their blocks, and it would take the cooperation of 51% of the miners to censor Bitcoin transactions at the network level.
+
+The major innovation with CoinSwap is that it breaks the assumption that a blockchain observer can track the movement of coins simply by looking at the blockchain.
+
+When constructed properly, multiple Bitcoin users are effectively able to atomically swap the transaction histories of their coins via a CoinSwap. Additionally, a blockchain observer cannot tell the difference between a normal Bitcoin transaction and a CoinSwap. This means that normal users who are not even interested in doing a CoinSwap also benefit, as it’s possible that their normal-looking transaction is actually a CoinSwap.
+
+According to Belcher, the other advantage of CoinSwap over CoinJoin is that the former uses less block space. While the current, work-in-progress implementation of CoinSwap, known as Bitcoin Teleport, does not use Taproot, there are also a few slightly beneficial changes that can be made to the system once that improvement has been activated on the Bitcoin network. In Belcher’s opinion, users of JoinMarket (and other CoinJoin projects) will move over to Bitcoin Teleport once the software is further developed, but he also admits that it will ultimately be up to the market to decide what’s most useful. Specifically, Belcher said that some users may prefer to use CoinJoin in situations where it is desirable to publicly prove that a UTXO’s (unspent transaction output’s) transaction history has been broken.
+
+For Samourai Wallet, CoinSwap is viewed more as an additional feature rather than a replacement for CoinJoin.
+
+“We have tested CoinSwap and have concluded that its use with unmixed UTXOs is of little interest,” TDevD told Cryptonews.com. “In fact, it presents some real risks for the user being handed a UTXO resulting from what might be considered a problematic history. As such, CoinSwap is more suited to post-mix spending and will find a place along side our other post-mix spending tools.”
+
+Although there have been plenty of flame wars between the Samourai and Wasabi camps on social media, it appears they mostly agree when it comes to combining CoinJoin and CoinSwap together.
+
+“CoinSwaps can provide better privacy after widespread Taproot adoption, but CoinJoins are cheaper and faster,” said Fiscor. “I'd speculate the privacy Wasabi CoinJoins can provide is more than sufficient for anybody, but it's also possible that there's a strong market niche for CoinSwaps. The combination seems to be more interesting though: CoinSwaps to and from CoinJoins, which could make low anonymity set CoinJoins getting as much privacy as a CoinSwapper would.”
+
+Mercury Wallet
+
+CommerceBlock’s Mercury Wallet is a new bitcoin wallet offering that combines the concept of CoinSwap with a layer-two Bitcoin technology known as Statechains. The idea behind Statechains is that users are able to transfer ownership of UTXOs without touching the base Bitcoin blockchain. This enables the instant, free transfer of UTXOs on a layer above the base Bitcoin network. Additionally, the statecoins, which are one-to-one pegged with bitcoin, issued on a Statechain can be swapped between users to improve privacy. This is the specific functionality that has been built into Mercury Wallet.
+
+While a key downside of Statechains is that users must transfer full UTXOs and cannot split them into smaller amounts, this issue may be less relevant to those who just want to mix their coins. The idea with Mercury Wallet is that users can swap their coins in an off-chain environment, which means the fees on these swaps can be effectively zero and could lead to much larger anonymity sets than what is found with a single on-chain CoinJoin today. However, since only full UTXOs can be swapped via this method, it means real-world transactions are likely to be made via a different mechanism.
+
+“I think Statechains aren’t that useful because they lose the divisibility of the coin,” said Belcher. “Divisibility is a very important property of money just like fungibility. But maybe the tradeoff will be worth it in the end, I don’t know.”
+
+According to CommerceBlock CEO Nicholas Gregory, Schnorr signatures would be helpful for Mercury Wallet’s implementation of Statechains. “The Schnorr implementation that comes with Taproot would help us a lot because we are able to add more Statechain entity signing keys, [which is] something we can't do with ECDSA. Schnorr scales very well here.”
+
+In other words, Schnorr signatures improve the security of Statechains because they effectively enable a multisig setup for the entity behind a Statechain, which could be split up into multiple keys to improve security or federate control over the platform.
+
+Bitcoin’s Layer-2 vs Monero
+
+Of course, Mercury Wallet’s Statechain implementation is just one example of a secondary-layer Bitcoin technology. Other examples include the Lightning Network, Liquid, and RSK. These additional layers built on top of the base Bitcoin blockchain come with different tradeoffs in terms of features and trust. For example, Fiscor and TDevD have both criticized the federated setup found in the Liquid sidechain.
+
+While the security models of sidechains and other upper-layer Bitcoin networks can be debated, it’s worth mentioning that these other networks can be a method of enabling more private BTC activity. The Lightning Network has obvious privacy benefits, as transactions are processed by fewer parties (as low as two when directly connected) rather than via the public blockchain. Liquid already has Confidential Transactions, which would be even more powerful when combined with a compatible CoinJoin implementation. That said, these systems would also benefit from privacy improvements made at Bitcoin’s base layer, as they still use the blockchain for final settlement.
+
+In addition to various other layers built on top of the Bitcoin network, there are also a number of privacy-focused altcoins that exist, and for Samourai Wallet, one of these altcoins, Monero (XMR), is preferable to building on Bitcoin’s secondary layers.
+
+“Lightning [Network] privacy, or the lack thereof, is now better understood and Liquid's custodial tradeoffs and weak Confidential Transactions implementation are non-starters for use as a privacy layer,” TDevD told Cryptonews.com.
+
+“Given their tradeoffs, existing L2 services will not be considered by Samourai Wallet for providing serious privacy enhancements. This is why we prefer to leverage the base protocol of Monero and explore how it can be used as a privacy L2 for certain Bitcoin applications. XMR-BTC atomic swaps are non-custodial, censorship resistant, permissionless and respond to specific needs on both chains. We have identified specific applications for adoption of XMR-BTC atomic swaps and are prioritizing their development.”
+
+Monero is perhaps the only altcoin that is sometimes given a pass by some of the more adamant Bitcoin maximalists who do not see a need for additional cryptocurrencies outside of bitcoin, and Samourai Wallet is taking this acceptance of Monero to another level. The bitcoin wallet provider recently made a financial contribution to Haveno, which is a Monero-integrated fork of decentralized bitcoin exchange Bisq. However, according to TDevD, Samourai Wallet itself will remain a BTC-only wallet solution, and users will need to use a separate wallet for handling Monero.
+
+“Blind maximalism has bet the farm on NgU [Number Go Up] and thrown privacy under the bus,” said TDevD. “We will continue to work on identifying and solving problems for Bitcoin users who need to transact privately on-chain without shortcuts that are not so much tradeoffs as unacceptable compromises.”
+
+Of course, an obvious downside of using Monero rather than a second-layer Bitcoin protocol is that users are subject to the increased volatility of the XMR cryptocurrency as long as they are using it as a mechanism to improve financial privacy.
+
+Whether it’s improvements to privacy at the base blockchain layer, new possibilities on layer-two networks, or tighter integrations with Monero, it’s clear there is plenty of work being done on improving privacy for all Bitcoin users. The exact way in which Bitcoin will become more private is still a bit unclear, but there are a large number of different building blocks currently in development that can be combined together in a way that limits the amount of information available for the entire world to track and analyze on the public blockchain.
+
+____
+
+Learn more:
+
+- As Bitcoin's Taproot Nears, Ex-CIA Director's Paper Raises Privacy Concerns
+
+- Don't Take Your Privacy For Granted As Regulators Get Anxious About Crypto
+
+- MIT Bitcoin Expo 2021: Security and Privacy
+
+- If a CBDC Is an ‘Instrument of Control,’ It’ll Fail – Expert
+
+- Dutch Central Bank Forced To Scrap Crypto Wallet Verification Requirement
+
+- Argentina Central Bank Tells Banks: Give Us Data on Crypto Transactions
+
+- Cashless Payment Is Booming. So Is Financial Surveillance
+
+- As 'Apathy Towards Privacy' Prevails, This Firm Says It Can Track Monero

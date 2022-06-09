@@ -1,0 +1,23 @@
+In a new white paper, financial services company Square outlines the opportunity presented by Bitcoin to spur more use of renewable energy.
+
+In a white paper released today, financial services company Square outlines the opportunity that Bitcoin presents to facilitate a transition to a cleaner and more resilient electricity grid.
+
+The research report, titled “Bitcoin Is Key To An Abundant, Clean Energy Future,” was released as part of Square’s Bitcoin Clean Energy Initiative, an ongoing effort to support companies working to integrate green energy technologies within bitcoin mining. Square also supports Bitcoin projects financially through its Square Crypto arm and offers BTC for sale through its payments app Cash App.
+
+The research paper highlighted the opportunity that Bitcoin presents to accelerate a global transition to renewable energy sources, as Bitcoin miners are uniquely positioned to capitalize and make the most of these sources.
+
+“Bitcoin miners are unique energy buyers in that they offer highly flexible and easily interruptible load, provide payout in a globally liquid cryptocurrency, and are completely location agnostic, requiring only an internet connection,” per the report.
+
+It also noted that, by certain measures, solar and wind energy are the least expensive sources of power on the planet, though they have been difficult for operations to leverage due to their intermittent availability. Square sees an opportunity in combining renewables, steadily improving energy storage technologies and bitcoin mining.
+
+“By combining miners with renewables and storage projects, we believe it could improve the returns for project investors and developers, moving more solar and wind projects into profitable territory,” according to the white paper. “[And] allow for the construction of solar and wind projects even before lengthy grid interconnection studies are completed… [and] provide the grid with readily available ‘excess’ energy for increasingly common black swan events like excessively hot or cold days when demand spikes.”
+
+The white paper also included a brief section contributed by Bitcoin-focused investment management firm Ark Invest. It outlined its belief that bitcoin mining could spur investment into solar power systems that raise the overall proportion of grid power that’s driven by renewables. It included the illustration of a model indicating that without bitcoin mining, renewables can satisfy only 40% of the grid’s needs, but that with bitcoin mining, solar energy and batteries, it can satisfy 99% of its needs.
+
+“Our model demonstrates that integrated bitcoin mining could transfigure intermittent power resources into baseload-capable generation stations,” the section reads. “All else equal, with bitcoin mining, renewable energy could provision a large percentage of any locality’s power economically.”
+
+The white paper concludes with suggested next steps to catalyze significant transition to clean energy through bitcoin mining. Square would like to see energy management companies develop software capable of determining the best use of newly captured energy — whether it should be used, stored or mined. It would like to see managed marketplaces emerge that connect project developers with bitcoin miners and financiers. And it would like more chip foundries established to meet the growing demand for ASICs capable of effectively mining bitcoin.
+
+“The bitcoin and energy markets are converging and we believe the energy asset owners of today will likely become the miners of tomorrow,” the paper concludes. “Utility executives, sustainable infrastructure funds, and grid-scale storage developers are well-positioned to expedite this future by aligning their strategic roadmap and deploying large scale investments into the emerging synergy between bitcoin mining and clean energy production.”
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.

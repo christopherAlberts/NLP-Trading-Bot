@@ -1,0 +1,111 @@
+In four minutes, cyber looters pilfered $34,123 worth of virtual currency from a Virginia resident's Coinbase (COIN) account, the 38-year-old told Yahoo Finance.
+
+The man, Ben, says it’s still missing despite his appeals to Coinbase, the FBI, the Securities and Exchange Commission (SEC), the Consumer Financial Protection Bureau (CFPB), the Financial Crimes Enforcement Network (FinCEN), lawmakers, and the Better Business Bureau (BBB). In order for Ben to comply with a policy of his employer, we have not used his full name to protect his anonymity.
+
+Ben's loss is one of dozens reported over the past five years concerning breached accounts on the popular trading platform, which started trading publicly on Wednesday, April 14, and has become the world's most popular exchange for buying and selling digital currencies. While its popularity may make it a target, Coinbase is not the only cryptocurrency trading platform with consumer accounts that have been hacked.
+
+For its part, Coinbase emphasizes the trading platform itself has never sustained a breach by hackers. Moreover, Coinbase says, unauthorized transactions are rare. In 2020, just 0.004% of customers experienced transactions where their email accounts were taken over, SIM swaps attacks occurred on their cellphones, or other personal information unrelated to Coinbase was breached, according to Coinbase.
+
+"It has become harder and harder for people to protect their online accounts, given the amount of personal information that has become available to bad actors," Coinbase chief information security officer Philip Martin acknowledged in a recent interview with Yahoo Finance.
+
+He added, "Coinbase acknowledges that these are terrible crimes that can have a significant impact on consumers and believes more awareness and education on how to protect online accounts is critical."
+
+Victims knock on 'every possible door'
+
+Still, two legal experts say the U.S. legal and regulatory system does little to compel Coinbase as well as other exchanges to adopt even stronger safeguards for consumer accounts or to refund stolen account assets. These practices stem from “absolutely horrible” laws, arbitration clauses, and virtually zero law enforcement, according to Max Dilendorf, a lawyer who represents cryptocurrency investors.
+
+Story continues
+
+“They don't work. It's just so frustrating,” he said. “I see cases where people lost life savings, then they knock on every possible door."
+
+Coinbase Founder and CEO Brian Armstrong attends Consensus 2019 at the Hilton Midtown on May 15, 2019 in New York City. (Photo by Steven Ferdman/Getty Images)
+
+Ben is still knocking, and like many cryptocurrency investors, to no avail. In an interview with Yahoo Finance, he described scrambling to deactivate his account following what he thought was a typical sign-in using two-factor email authentication generated from Coinbase’s email address.
+
+“I watched in real time as my portfolio went down and down in value,” Ben said. "From the time I logged in, to the time I deactivated, it was nine minutes. And in those nine minutes, there were four minutes with 18 separate transactions.”
+
+The rapid-fire transactions in Ben's case consolidated all of his virtual currencies — including bitcoin (BTC), ethereum (ETH-USD), litecoin (LTC-USD), zcash (ZEC-USD), augur (REP-USD), stellar (XLM-USD), dai (DAI), and chainlink (LINK-USD) — into bitcoin cash (BCH-USD), then exported the funds to an external account, he said.
+
+Ben notified Coinbase, which he said prompted a series of frustrating reply emails that appeared to have the hallmarks of bot, rather than human communications. Then came the devastating news: Coinbase said it was unable to reverse the transactions, attributed the loss to a “remote takeover” of his desktop computer, and advised him to report the matter to law enforcement.
+
+He said Coinbase’s explanation that his funds were taken during a remote takeover of his computer seem puzzling because he used two-factor authentication to access his account, while running antivirus software on his desktop. Another scan immediately following the unauthorized withdrawals also uncovered no threats, he said.
+
+“I went through all of the protocols they have in place,” he said.
+
+Ben’s complaint isn’t unique. In 2018, through a FOIA request, Mashable obtained 134 pages of fraud complaints, ranging from wire and cryptocurrency transfers that never showed up, to the inability to access locked accounts. The complaints, filed by Coinbase users alerting the SEC and the California Department of Business Oversight to the financial losses, shared another common gripe — that Coinbase offers no way for customers to talk with a live customer service agent. Customers have continued to express concern over the level of customer service to the CFPB.
+
+"They have absolutely zero live support in a market that is 24/7," Ben said.
+
+A warning to that effect on Coinbase's website is realized too late for some customers. The warning notes, in bold letters, "Please be aware that we currently do not offer any phone support with a live agent."
+
+Dilendorf, the lawyer for cryptocurrency investors, described the shortcoming as unacceptable. "A billion dollar company can can afford to have a small calling center," he said.
+
+Coinbase had approximately 56 million registered users as of April 15 and processed trades of approximately $335 billion, per quarter, according to Backlinko, a company focused on SEO practices.
+
+Unclear which regulations apply to crypto
+
+Under current laws and regulations, platforms like Coinbase can afford to go only so far as the law demands, Texas A&M University School of Law professor William J. Magnuson told Yahoo Finance.
+
+"There's all these regulations governing the financial industry, but most of them weren't written with the idea that digital currencies existed," Magnuson said.
+
+People watch as the logo for Coinbase Global Inc, the biggest U.S. cryptocurrency exchange, is displayed on the Nasdaq MarketSite jumbotron at Times Square in New York, U.S., April 14, 2021. REUTERS/Shannon Stapleton
+
+To be sure, regulators have enacted some rules applicable to cryptocurrencies. Magnunson said FinCEN, the CFPB, the SEC, the Commodities Futures Trading Commission (CFTC), and the Office of the Comptroller of the Currency (OCC), have all asserted some level of authority over crypto assets, and states have additional regulations requiring platforms to obtain a license.
+
+FinCEN, for example, requires cryptocurrency ecosystems to comply with anti-money-laundering and Know-Your-Customer rules for "money services businesses" under the Bank Secrecy Act (BSA). However, Magnuson said, the anonymous nature of cryptocurrency transactions can undermine the regulations' effectiveness to address stolen funds. Platforms are technically compliant so long as they know the identity of their own customer, but they're not required to know where funds end up in the event of a breach.
+
+Candice Basso of FinCEN's office of strategic communications described the agency as a global leader in both regulating convertible virtual currency (CVC) activity and taking action against its illicit use. In October, Basso said, FinCEN assessed a $60 million civil money penalty against the founder and administrator of a convertible virtual currency "mixer."
+
+Still, Magnuson said, another example of why today's regulations don't fully address consumers targeted with fraud is that it's unclear whether certain rules apply to crypto assets. Federal Regulation E, he explained, requires traditional banks to refund money taken via unauthorized transactions — but it's not clear whether that applies to crypto transactions.
+
+"The rights available to crypto consumers is not the same as to people with banks," Magnuson said, which puts people who don't read the fine print at a disadvantage. "In their terms of service, they explicitly say we have no responsibility to you if you have a loss that was due to a compromise of your login credentials."
+
+Crypto consumer rights unlike bank consumer rights
+
+Brooklyn resident Michael Pierre tested the requirements in a lawsuit against Coinbase filed in January. According to his complaint, Pierre lost his life savings, worth $400,000 in cryptocurrency at the time of the filing, as the result of a Coinbase account hack. He accused the company of employing inadequate security measures in violation of anti-money-laundering and the Know Your Customer (KYC) procedures, and ignoring a duty to investigate suspicious activities under state and federal rules.
+
+According to Pierre, despite his use of Duo's two-factor authentication, Coinbase permitted three fraudulent password reset requests from a foreign web-enabled device, with an IP address Pierre had never used, and allowed transfers into foreign wallets never before associated with Pierre.
+
+The case went nowhere. In a victory for Coinbase, the New York state court judge granted the company's request to remove it from the legal system, based on its user agreement mandating arbitration as the forum for customer disputes.
+
+Hacks do not appear a systematic problem
+
+The California Department of Financial Oversight said since Jan. 1, 2016 it had received 106 reports from Coinbase customers complaining of unauthorized transactions. The agency received 829 such reports concerning Square and Square's Cash App, 56 for Venmo, 12 for Google Pay, 3 for Apple Pay and 0 for Zelle, which is operated by a consortium of traditional banks.
+
+CFPB records show 3,814 complaints concerning Coinbase since 2016, with the majority involving money transfer, virtual currency, or money service issues.
+
+The SEC declined to comment on the number of reports of unauthorized transactions it has received over the past five years.
+
+App security expert and Denim Group Chief Technology Officer Dan Cornell told Yahoo Finance that Coinbase account breaches do not appear to be a systemic problem. Still, he said, more detail from Coinbase and other payment platforms could help ensure they become less frequent.
+
+“It seems like there would be a lot more transparency about the mechanics of these attacks. That would be helpful in understanding the risk associated with them,” Cornell said. “Is this a technical flaw in payment platforms...or is this a more human factor?”
+
+Coinbase does offer physical USB security key capability for added account security, but the measure requires users to acquire additional hardware. Security experts say physical USB security keys would protect users from becoming victims of account hacks that occur through SIM swaps, which are occurring with increasing frequency.
+
+"Coinbase performs a lot of work on its back end systems in order to detect SIM swaps that occur in close proximity to account login attempts, although not all mobile carriers provide access to this data," Martin, the Coinbase CTO, said. In addition, he said, Coinbase analyzes and evaluates risk levels for outbound transactions — sometimes delaying a transaction and requiring additional security measures, such as an account-holder's upload of an ID confirmation and "selfie."
+
+Coinbase also offers customers accounts with higher default security settings than the industry average, with options to increase protection levels, according to Martin.
+
+Every customer is required to enroll in SMS-based 2-factor authentication on signup, and it gives everyone the option to "uplevel" their 2-factor authenticator to TOTP or a YubiKey. When asked why the YubiKeys aren't required for all customers, Martin said that the company endeavors to keep the platform available to users who can't access or afford a physical security token.
+
+Coinbase CEO Brian Armstrong told CNBC last week that he’s open to additional regulations imposed on cryptocurrency exchanges but warned that regulation and cybersecurity presented existential threats to his industry. He said he wants platforms to be treated on a “level playing field” with traditional banks.
+
+An April 14, 2021 notice from Coinbase.com's customer support page, warning of customers of anticipated service delays.
+
+In December, FinCEN proposed regulations that would increase record-keeping requirements for money services businesses including cryptocurrency exchanges when transactions exceed certain thresholds and involve "unhosted wallets." Under the proposed scheme, exchanges would need to record the name and physical address for counterparties to transactions above $3,000, and for more than $10,000 in transactions within 24 hours.
+
+Still, customers may be wary of trading on cryptocurrency exchanges if they know adequate regulations aren't in place. Ft. Lauderdale resident, Carlos Orozco, 44, had his Coinbase account breached by hackers who gained access to both his email and his mobile device using a SIM card swap. Spared the loss of his account funds, he said he's nonetheless nervous about trading on the platform.
+
+"I'm so paranoid now," Orozco said.
+
+While Coinbase has pledged to improve, on just April 14 it warned customers of support delays in a page that appears to have been taken down. "There may be a delay in responses from Coinbase Support," the page said, later adding, "We appreciate your patience during this exciting time for the cryptoeconomy."
+
+In the above sentence concerning the difficulty that consumers face in protecting their accounts, the word "your" was replaced with "people" to ensure that the difficulty is referenced to consumers.
+
+Read more:
+
+Square’s Cash App vulnerable to hackers, customers claim: 'They're completely ghosting you'
+
+Alexis Keenan is a legal reporter for Yahoo Finance and former litigation attorney. Follow Alexis Keenan on Twitter @alexiskweed.
+
+Follow Yahoo Finance on Twitter, Facebook, Instagram, Flipboard, LinkedIn, YouTube, and reddit.

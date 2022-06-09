@@ -1,0 +1,65 @@
+After a record day in spot volume, bitcoin’s price went up, down and back up. Meanwhile, most ether options traders are bearish, some are paying up in case it gets close to record highs.
+
+Bitcoin (BTC) trading around $34,278 as of 21:00 UTC (4 p.m. ET). Gaining 3% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $32,528-$36,605 (CoinDesk 20)
+
+BTC below the 10-hour and 50-hour moving averages on the hourly chart, a bearish signal for market technicians.
+
+Bitcoin trading on Bitstamp since Jan. 9. Source: TradingView
+
+Bitcoin’s price had an up-and-down day, going as high as $36,605 at around 08:00 UTC (3 a.m. ET), falling to $32,528 at around 14:30 UTC (9 a.m. ET) and then going back up to $34,278 as of press time.
+
+Andrew Tu, an executive for quant trading firm Efficient Frontier, sees the $36,000 price level as “resistance,” an area where bearish traders seem primed to hit the sell button on bitcoin. “Right now bulls are challenging the $36,000 resistance. It failed to get past $36,600 earlier during the afternoon Asia hours,” Tu told CoinDesk. “When the U.S. East Coast woke up, the market started bidding the price upwards again.”
+
+Monday’s bitcoin spot volumes were the highest ever seen since CoinDesk 20 data on eight major spot exchanges began being recorded. An astounding $13.3 billion in volume was traded Monday, the highest since Dec. 22, 2017, when volumes hit $9.7 billion.
+
+Bitcoin volumes on eight major spot exchanges the past five years. (Shuai Hao/CoinDesk Research) Source: CryptoCompare
+
+Yet, spot volumes were much lower Tuesday, at $5.1 billion as of press time.
+
+Bitcoin volumes on eight major spot exchanges the past month. (Shuai Hao/CoinDesk Research) Source: CryptoCompare
+
+“There will likely be a battle to bring this past that $36,000-$36,600 range,” said Efficient Frontier’s Andrew Tu.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Volume will likely play a factor in that battle given the blockbuster spot exchange activity at the week’s open. However, that was due to large amounts of selling, which caused the world’s oldest cryptocurrency to dump 20% within 24 hours.
+
+“Bitcoin peaked at $42,000 immediately before a weekend,” said David Russell, vice president of market intelligence at trading technology firm TradeStation. “Volume dries up when institutional investors are away and other markets are closed. That left bitcoin hanging out in the middle of thin air, with no buyers to support it.”
+
+In the bitcoin options market, traders seem to like their chances of a $30,000 price per 1 BTC at Jan. 21 expiration. The probabilities based on the market have a 62% chance of bitcoin over $30,000 by that date, a 55% chance of $32,000 and a 47% expect the world’s oldest cryptocurrency to be $34,000 closer to the end of the month.
+
+Probability of bitcoin spot price based on the options market at Jan. 21 expiration. Source: Skew
+
+“Bitcoin is a volatile asset,” said TradeStation’s Russell. “You cannot expect anything to double in a few weeks and not pull back.”
+
+Michael Gord, chief executive officer of trading firm Global Digital Asset, said he expects institutions to continue scooping up bitcoin, which might help support the asset at a $30,000 price point and above. “I think we’re going to see a huge resurgence as big brands start to collateralize their treasury on the blockchain.” he said.
+
+Bets are being placed on potential ether FOMO
+
+Ether (ETH), the second-largest cryptocurrency by market capitalization, was up Tuesday, trading around $1,085 and climbing 6% in 24 hours as of 21:00 UTC (4:00 p.m. ET).
+
+On Monday, the amount of premium traded on Deribit’s ether options market heavily favored calls, which give owners the right, but not not the obligation, to buy an asset at a particular price. Ether’s all-time spot price high sits at $1,448, according to CoinDesk 20 data.
+
+Premiums traded on Deribit’s ether options market Monday. Source: Genesis Volatility
+
+While the ether options market heavily favors strikes below the $800 spot ETH price point, 68% of call premiums paid Monday are apparently from traders looking to hedge out any risk of another parabolic rise in ether, according to data aggregator Genesis Volatility’s Tuesday investor note.
+
+“Option traders are willing to pay up much more for ETH upside option exposure than they are for downside exposure,” Genesis wrote. “This activity indicates traders see an asymmetry in price action volatility, also known as ‘crash up risk’ and FOMO sentiment.”
+
+Other markets
+
+Digital assets on the CoinDesk 20 are all green Tuesday. Notable winners as of 21:00 UTC (4:00 p.m. ET):
+
+Equities:
+
+Commodities:
+
+Oil was up 1.8%. Price per barrel of West Texas Intermediate crude: $53.14.
+
+Gold was in the green 0.73% and at $1,856 as of press time.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield fell Tuesday dipping to 1.134 and in the red 1.3%.

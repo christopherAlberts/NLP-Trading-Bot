@@ -1,0 +1,29 @@
+Bitcoin vs. Ethereum Getty Images AsiaPac
+
+The transaction fees for bitcoin and ether dropped to a six-month low, Cointelegraph reported.
+
+The decline comes as activity in the cryptocurrency market dwindled following the massive May selloff.
+
+The average price of a bitcoin transaction has dropped to $7.20 while ethereum's tumbled to $4.80.
+
+Sign up here for our daily newsletter, 10 Things Before the Opening Bell.
+
+Transaction fees for bitcoin and ether dropped to a six-month low as activity in the cryptocurrency market dwindled following the massive May selloff that had at one point in the month wiped out nearly half the valuation of the total sector.
+
+The average price of a bitcoin transaction dropped to $7.20 from April's all-time high of $62.77, plunging by 88% in just six weeks according to data from BitInfoCharts cited by CoinTelegraph.
+
+Ethereum transaction fees, meanwhile, tumbled to $4.80 from an all-time high in May of $72.21 according to YCharts, plummeting 93% in less than two weeks.
+
+A cryptocurrency transaction fee is the payment give to miners for using their computing power to verify transactions and uphold the security of the blockchain network.
+
+For every cryptocurrency sent from one address to another, a network transaction fee is incurred. This fee is added on top of the cryptocurrency value sent. It varies depending on the network and cryptocurrency.
+
+Transaction fees fluctuate based on market demand.
+
+The recent slump in the fees for the two largest cryptocurrencies by market valuation points to weaker demand for bitcoin and ether after they skyrocketed to all-time highs earlier this year only to crash in May.
+
+Bitcoin is down by around 2% on Tuesday, trading at $36,283. Ether is down 2%, to $2,575.
+
+Earlier this year, ether fees were pushed higher thanks to a surge in demand for NFTs and the growth of decentralized finance, both powered by the ethereum blockchain.
+
+Looking ahead, ethereum developers are preparing for a major overhaul to the fees system in the upcoming London upgrade.

@@ -1,0 +1,19 @@
+When you look at fiat currencies, like the U.S. dollar, governments can print out as many dollars as they want. The same cannot be said for cryptocurrencies. Most tokens have a hard cap to the number of coins that could be issued (or mined, as it’s called in the crypto world). For Bitcoin (BTC), there’s a hard cap of 21 million tokens that can be mined. Once this happens, there’s going to be no more new Bitcoin.
+
+While most people think that’s still a ways away, we’re actually getting rather close to hitting that number. Most of that 21 million Bitcoin has already been mined by now, with only a fraction of that initial pool remaining. Here’s what happens when every single Bitcoin gets mined and when that will happen.
+
+Once the last Bitcoin is finally mined, these miners won’t be able to make an income from lending their computational power in this manner. Of course, there will be other cryptocurrencies to mine, but Bitcoin will effectively be “mined out.” However, according to estimates, that isn’t going to happen until sometime around 2140, so not in most of our lifetimes.
+
+Every ten minutes, Bitcoin miners “discover” a new block, which involves solving a mathematical puzzle that allows the miner to add this block to the blockchain. In return, the miner that “discovers” this answer earns a certain number of Bitcoin as a reward. Realistically, it’s impossible for a single computer to do so, especially nowadays, so miners combine their computational power together into “mining pools,” which split up their Bitcoin rewards among all their respective members.
+
+Out of the 21 million hard cap on Bitcoin, we’ve already mined around 18.5 million. That means there’s less than 2.5 million new Bitcoin remaining to be “mined” by miners. While that might not seem like much, the fewer Bitcoin that remain, the harder it becomes for computers to mine these remaining tokens.
+
+What does this mean for investors?
+
+Whether Bitcoin runs out of supply or not actually doesn’t impact most investors that much. The ones that will be most impacted are those making money from mining Bitcoin. Besides them, Bitcoin will still operate the same way that it does now, as a form of e-cash that can be traded back and forth among other people.
+
+Source: Pixabay
+
+Article continues below advertisement
+
+For miners, the story is a little different. Though they won't be able to earn from mining, they still will be able to lend their computational power to process transactions on the network. In turn, they could make money through transaction fees. Miners that verify blocks on the Bitcoin blockchain are entitled to the transaction fees. While these fees represent only a tiny portion of most miners’ revenues right now, that will change dramatically around the year 2140, when all remaining Bitcoin is mined up.

@@ -1,0 +1,45 @@
+Tesla — a top 10 company in the Fortune 100 that is run by one of the world’s wealthiest people, Elon Musk — transferred $1.5 billion of its treasury cash into Bitcoin (BTC) in early February. Musk’s Bitcoin purchase startled traditional investors, who now had to understand how their investment in Tesla would relate to Bitcoin.
+
+Currently, much of Tesla’s revenue comes from selling surplus renewable energy credits, or RECs, which will dry up in the next several years as competing automakers produce their own zero-emissions vehicles and build up RECs with states that require them.
+
+In Tesla’s filing with the United States Securities and Exchange Commission, the company stated that it updated its investment policy to be more flexible in diversifying and maximizing returns on idle cash. As part of this plan, Tesla said it would invest in certain “alternative reserve assets including digital assets, gold bullion, [and] gold exchange-traded funds.” The statement continues:
+
+“Thereafter, we invested an aggregate $1.50 billion in Bitcoin under this policy and may acquire and hold digital assets from time to time or long-term. Moreover, we expect to begin accepting Bitcoin as a form of payment for our products in the near future, subject to applicable laws and initially on a limited basis, which we may or may not liquidate upon receipt.”
+
+The Bitcoin market has seen Tesla’s recognition and advancement into the crypto industry as institutional validation for Bitcoin’s use as a store of value.
+
+Related: Tesla, Bitcoin and the crypto space: The show Musk go on? Experts answer
+
+Using decentralized micro-energy sources for Bitcoin mining
+
+Tesla's other businesses produce and sell solar panels, solar roofs and batteries. The batteries are used in its cars and provide power storage for residential solar systems.
+
+Residential solar systems can feed surplus energy into the grid. The local power company will prorate a customer’s electric bill based on the amount of power drawn from the system.
+
+Tesla Powerwalls can store that surplus energy and power various things in your home, including air conditioners, and charge your Tesla electric vehicle.
+
+The excess energy from Tesla’s micro-energy sources can be rerouted to run crypto mining operations. Without crypto mining, the surplus energy is either wasted or stored and sold for pennies on the dollar. Now, Tesla and other energy companies can turn excess power into a digital asset, like Bitcoin, that is instantly bankable.
+
+Related: From mom’s house to warehouse: Bitcoin mining is going industrial
+
+How SpaceX fits in
+
+Many speculate that Tesla’s investment in and acceptance of Bitcoin as payment is a significant signal of the company’s direction. As we know, Musk is also the CEO of SpaceX, the company intending to set up a colony on Mars in the coming decade. However, U.S. dollars fundamentally won’t work on Mars. The extended communication time between Earth servers and Mars servers poses a lot of problems. There will still need to be a verifiable, trusted way to transfer value between the planets’ economies.
+
+Bitcoin offers a better solution for securely transferring value between planets on a trusted network where the 10-minute block times end up being advantageous instead of a hassle. SpaceX’s colony can trade locally using a convenient local medium of exchange and securely transfer that value back home to Earth without any middlemen or concerns about inflationary monetary policies on Earth. Bitcoin offers people a more seamless way to integrate economies between planets. Therefore, colonies on Mars will likely be running Bitcoin nodes making use of SpaceX’s Starlink satellite constellation.
+
+Decentralized server architecture to establish the internet of value
+
+The transition from the analog world to a digitally native society requires programmable money. The current fiat banking system is archaic, inefficient and unable to meet a technologically advanced society’s needs.
+
+Bitcoin mining is the backbone of this evolution. Bitcoin is the most recognized digital currency in the newly forming decentralized economy. Bitcoin has reached critical network effects and is the logical choice for a digitally native global reserve currency. The internet of value — where value is transmitted as efficiently, cheaply and reliably as data is now — is free from any individual government or entity’s control. Bitcoin serves this purpose because of the decentralized architecture built into the Bitcoin protocol.
+
+Critics attack Bitcoin for having too much of its processing power housed in mainland China. Meanwhile, the decentralization of Bitcoin’s computing power will continue to improve as more energy producers recognize the benefits of converting excess energy into digital assets through Bitcoin mining.
+
+Related: Is Bitcoin a waste of energy? Pros and cons of Bitcoin mining
+
+Bitcoin mining is necessary to establish layer-one security for the decentralized economy, a function that central banks now provide for the fiat-centric global economy. The decentralized economy is becoming more efficient and multilayered. Bitcoin’s strength is that it has the world’s most powerful computing network with which to secure the decentralized economy’s base layer, upon which all other value transmission solutions are being built. We are witnessing the development of a new, decentralized financial ecosystem. One day, you may be able to send $20 to your buddies on Mars without thinking twice about what it took to get it there.
+
+This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision.
+
+The views, thoughts and opinions expressed here are the author’s alone and do not necessarily reflect or represent the views and opinions of Cointelegraph.

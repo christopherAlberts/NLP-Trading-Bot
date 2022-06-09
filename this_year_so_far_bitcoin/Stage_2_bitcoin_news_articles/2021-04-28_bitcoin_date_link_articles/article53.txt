@@ -1,0 +1,59 @@
+The Bitcoin Optech newsletter provides readers with a top-level summary of the most important technical news happening in Bitcoin, along with resources that help them learn more. To help our readers stay up-to-date with Bitcoin, we're republishing the latest issue of this newsletter below. Remember to subscribe to receive this content straight to your inbox.
+
+This week’s newsletter describes a draft specification for LN splicing, announces a workshop about transaction relay security, announces the addition of ECDSA signature adaptor support to libsecp256k1-zkp, and links to proposals to change the BIPs process. Also included are our regular sections with summaries of popular questions and answers from the Bitcoin StackExchange, announcements of software releases and release candidates, and descriptions of notable changes to popular Bitcoin infrastructure software.
+
+News
+
+Draft specification for LN splicing: Rusty Russell opened a PR to the Lightning Specifications repository (“BOLTs”) proposing the protocol changes necessary to accommodate splicing. He also posted a link for the PR to the Lightning-Dev mailing list. Splicing will allow transferring funds from onchain outputs into an existing payment channel, or from an existing payment channel to independent onchain outputs, without the channel participants having to wait for a confirmation delay to spend the channel’s other funds. This helps wallets hide from their users the technical details of managing balances. For example, Alice’s wallet can automatically pay Bob offchain or onchain from the same payment channel—offchain using LN through that payment channel or onchain using a splice out (withdrawal) from that payment channel.
+
+Russell previously proposed a draft specification for splicing in 2018 (see Newsletter #17) but this new draft has the advantage of being able to use the interactive funding protocol that’s included as part of C-Lightning’s experimental support for dual funding.
+
+Russell previously proposed a draft specification for splicing in 2018 (see Newsletter #17) but this new draft has the advantage of being able to use the interactive funding protocol that’s included as part of C-Lightning’s experimental support for dual funding. Call for topics in layer-crossing workshop: Antoine Riard posted to both the Bitcoin-Dev and Lightning-Dev mailing lists about an upcoming IRC-based workshop he plans to host to discuss challenges with onchain transaction relay that affect layer-two protocols such as LN. The goal is to build technical consensus among the participants about which proposals are especially worth perusing so that developers and reviewers can focus on those proposals in the short term.
+
+The post proposes an agenda that includes package relay, fee sponsorship (see Newsletter #116), moving from BIP125 opt-in Replace By Fee (RBF) to full RBF, improving coordination of security response between primarily onchain projects such as full nodes and primarily offchain projects like LN nodes, and defining what mempool and relay policies can be reasonably depended upon by layer two protocols. Riard also asks for additional topic suggestions from anyone planning to attend, with May 7th being the deadline for submissions. The workshop will likely be held mid June.
+
+The post proposes an agenda that includes package relay, fee sponsorship (see Newsletter #116), moving from BIP125 opt-in Replace By Fee (RBF) to full RBF, improving coordination of security response between primarily onchain projects such as full nodes and primarily offchain projects like LN nodes, and defining what mempool and relay policies can be reasonably depended upon by layer two protocols. Riard also asks for additional topic suggestions from anyone planning to attend, with May 7th being the deadline for submissions. The workshop will likely be held mid June. Support for ECDSA signature adaptors added to libsecp256k1-zkp: signature adaptors were originally described for Bitcoin by Andrew Poelstra using schnorr-based multisignatures. This allows a single signature to do up to three things at once: (1) prove its creator had access to a certain private key, (2) prove knowledge of an encryption key pre-selected by another party, (3) reveal a pre-selected encryption key to another party. This allows a signature alone to do many of the things we currently do with Bitcoin scripts, suggesting adaptor signatures could be used to create “scriptless scripts”.
+
+Accomplishing the same on ECDSA is not as easy. However, Lloyd Fournier suggested it would be relatively simple if we separated goal #1 (proof of private key) from goals #2 and #3 (proving and revealing encryption keys, AKA adaptors). This requires using one signature object as just a signature and another signature object for the adaptors, so it uses OP_CHECKMULTISIG and is not quite as scriptless as before. The separated construction also requires a security warning related to reusing some of the involved keys with Elliptic Curve Diffie Hellman (ECDH) key exchange and ElGamal encryption. Beyond that, this technique makes signature adaptors entirely usable on Bitcoin today, and it’s what various DLC projects have been using.
+
+In April 2020, Jonas Nick implemented support for these simplified ECDSA signature adaptors in a draft PR (see Newsletter #92). Jesse Posner ported and extended the PR to libsecp256k1-zkp, a fork of libsecp256k1 that supports more advanced cryptographic protocols. This updated PR has now been merged after a detailed review process that involved several conversations that may be of interest to anyone seeking to better understand the security of signature adaptors.
+
+Accomplishing the same on ECDSA is not as easy. However, Lloyd Fournier suggested it would be relatively simple if we separated goal #1 (proof of private key) from goals #2 and #3 (proving and revealing encryption keys, AKA adaptors). This requires using one signature object as just a signature and another signature object for the adaptors, so it uses OP_CHECKMULTISIG and is not quite as scriptless as before. The separated construction also requires a security warning related to reusing some of the involved keys with Elliptic Curve Diffie Hellman (ECDH) key exchange and ElGamal encryption. Beyond that, this technique makes signature adaptors entirely usable on Bitcoin today, and it’s what various DLC projects have been using. In April 2020, Jonas Nick implemented support for these simplified ECDSA signature adaptors in a draft PR (see Newsletter #92). Jesse Posner ported and extended the PR to libsecp256k1-zkp, a fork of libsecp256k1 that supports more advanced cryptographic protocols. This updated PR has now been merged after a detailed review process that involved several conversations that may be of interest to anyone seeking to better understand the security of signature adaptors. Problems with the BIPs process: after some drama on the BIPs repository (and perhaps some previous pent-up frustrations), several discussions were started on the mailing list about adding a new BIPs editor, using a bot to merge BIPs PRs, or abandoning the centralized BIPs repository altogether.
+
+Selected Q&A from Bitcoin StackExchange
+
+Bitcoin StackExchange is one of the first places Optech contributors look for answers to their questions—or when we have a few spare moments to help curious or confused users. In this monthly feature, we highlight some of the top-voted questions and answers posted since our last update.
+
+What are the different contexts where MTP is used in Bitcoin? David A. Harding defines Median Time Past (MTP) and outlines how MTP is used to:
+
+determine the validity of a block using its nTime field, controlling difficulty adjustment period times ensure that time only moves forward, simplifying state transitions in BIP9 eliminate the incentive for individual miners to confirm transactions with locktimes up to two hours in the future by lying about the current time, as fixed in BIP113
+
+Why does the mined block differ so much from the block template? User Andy asks why block 680175 differs from what his getblocktemplate RPC had output around the same time that block was mined. Andrew Chow and Murch point out Asicboost as the reason the version field is different, while node-independent mempools and node uptime are considerations of the block’s transaction discrepancies.
+
+Isn’t Bitcoin’s hash target supposed to be a power of 2? Andrew Chow explains the ‘leading zeros’ explanation of difficulty targeting is an oversimplification and chytrik gives an example of a valid and invalid hash with the same number of leading zeros.
+
+Releases and release candidates
+
+New releases and release candidates for popular Bitcoin infrastructure projects. Please consider upgrading to new releases or helping to test release candidates.
+
+Bitcoin Core 0.21.1rc1 is a release candidate for a version of Bitcoin Core that contains activation logic for the proposed taproot soft fork. Taproot uses schnorr signatures and allows the use of tapscript. These are, respectively, specified by BIPs 341, 340, and 342. Also included is the ability to pay bech32m addresses specified by BIP350, although bitcoins spent to such addresses on mainnet will not be secure until activation of a soft fork using such addresses, such as taproot. The release additionally includes bug fixes and minor improvements.
+
+Notable code and documentation changes
+
+Notable changes this week in Bitcoin Core, C-Lightning, Eclair, LND, Rust-Lightning, libsecp256k1, Hardware Wallet Interface (HWI), Rust Bitcoin, BTCPay Server, Bitcoin Improvement Proposals (BIPs), and Lightning BOLTs.
+
+Bitcoin Core #21595 adds a new addrinfo command to the bitcoin-cli executable. Running bitcoin-cli -addrinfo returns a count of the network addresses of potential peers known to the node, split by network type. Sample output:
+
+
+
+$ bitcoin-cli -addrinfo { "addresses_known": { "ipv4": 14406, "ipv6": 2511, "torv2": 5563, "torv3": 2842, "i2p": 8, "total": 25330 } }
+
+Rust-Lightning #844 adds support for message signing, signature verification, and public key recovery using a scheme compatible with those of LND, C-Lightning, and Eclair.
+
+BTCPay Server #2356 adds support for multifactor authentication using the WebAuthN/FIDO2 protocols. Existing multifactor authentication in BTCPay using U2F continues to work.
+
+Libsecp256k1 #906 reduces the number of iterations needed to compute modular inverses from 724 to 590 when using a constant-time algorithm that should be more resistant to side-channel attacks than a variable-time algorithm. The correctness of the algorithm was checked using the Coq proof assistant, with the most strict verification taking approximately 66 days of runtime. See Newsletter #136 for more information about the algorithmic advance that led to this improvement.
+
+Find the original post here.
+
+Please subscribe to the Bitcoin Optech newsletter directly to receive this content straight to your inbox every month.

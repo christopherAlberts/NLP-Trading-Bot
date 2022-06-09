@@ -1,0 +1,61 @@
+For the past 10.5 months, Wall Street has been enjoying an incredible rally. For instance, the benchmark S&P 500, which tumbled 34% in less than five weeks during the first quarter of 2020, ended the year higher by more than 16%. That's nearly double its average annual return over the past 40 years. The tech-heavy Nasdaq Composite performed even better.
+
+But neither index has been able to hold a candle to the returns offered by the largest cryptocurrency in the world by market cap, Bitcoin (CRYPTO:BTC).
+
+Bitcoin may be soaring, but it's a flawed investment
+
+Over the trailing year (through Feb. 9), Bitcoin is up 371%. Back out a bit further and you'll see Bitcoin has delivered gains of approximately 12,100% over the trailing five years. Put into another context, if you had invested $8,200 into Bitcoin on Feb. 9, 2016, you'd have more than $1 million as of Feb. 9, 2021.
+
+This rally has predominantly been based on the premise that Bitcoin challenges traditional monetary theory. Specifically, optimists point to its 21 million token limit, its increasing utility among merchants as an accepted form of payment, and its superior blockchain, which can expedite the settlement of payments (especially cross-border payments), as reasons for the rise.
+
+Bitcoin has also received plenty of attention following big buys from Elon Musk's Tesla Motors and Michael Saylor's MicroStrategy. Tesla invested $1.5 billion into Bitcoin this past week, with MicroStrategy buying more than $1.1 billion worth of tokens in recent months.
+
+While there's no denying that Bitcoin has plenty of near-term momentum, it's an asset that appears to be filled with flaws and misconceptions. In no particular order:
+
+Bitcoin's scarcity is held together by loose promises of community consensus that its token count won't rise, which is hardly concrete.
+
+There are virtually no barriers to entry in developing blockchain or tethering a digital token to an underlying ledger.
+
+Bitcoin lacks game-changing utility. Though a few big names (Tesla) may choose to accept tokens as a form of payment, more than 99.99% of U.S. businesses with at least one employee don't currently accept Bitcoin.
+
+It's my belief that emotions and technical analysis (i.e., pretty charts) are all that keep the bitcoin train going. In other words, there's nothing tangible, sustainable, or investable about this rally.
+
+This trio of unstoppable stocks are much better buys
+
+Rather than investing in Bitcoin, my suggestion would be to take your money and put it to work in the following trio of unstoppable stocks, all of which offer tangible competitive advantages and sustainable growth prospects.
+
+Square
+
+The irony is that one of the most unstoppable stocks investors can buy right now, Square (NYSE:SQ), is a company that's been somewhat benefiting from Bitcoin's popularity. But before diving into that connection, let's first look at Square's most mature operating segment: the seller ecosystem.
+
+Chances are that you've come across a Square point-of-sale device at some point over the past nine years. The company primarily provides its payment processing devices and analytics tools to small businesses and has seen the gross payment volume (GPV) traversing its network catapult from $6.5 billion in 2012 to $106.2 billion in 2019.
+
+An interesting development in recent quarters with the seller ecosystem is that larger merchants (as measured by annualized GPV) are hopping onboard in increasing numbers. In the September-ended quarter, nearly 31% of GPV came from merchants with at least $500,000 in annualized GPV, up from 24% in the third quarter of 2018. Since this is a merchant fee-based operating segment, greater adoption by bigger merchants would further boost growth and gross profit.
+
+Arguably even more exciting is Square's other operating segment, Cash App. This digital peer-to-peer payment platform grew its monthly active user count from 7 million to 30 million between the end of 2017 and mid-2020. What's more, daily active users were up 8 percentage points to 23% in the September-ended quarter from Q3 2018.
+
+What's makes Cash App tick is the ability to make purchases -- Cash Card acts like a traditional debit card that tethers to a users' Cash App account -- and invest. In particular, Cash App has been popular for buying and selling Bitcoin. The beauty here is that it doesn't matter how well or poorly Bitcoin performs. As long as users keep trading, Cash App's gross profit will continue soaring.
+
+Teladoc Health
+
+Another unstoppable stock with the potential to run circles around Bitcoin over the long run is telehealth provider Teladoc Health (NYSE:TDOC).
+
+To get the obvious out of the way, Teladoc Health was an unquestioned beneficiary of the coronavirus disease 2019 (COVID-19) pandemic. With physicians aiming to keep COVID-19-infected and high-risk patients out of their offices, demand shifted in a big way to virtual visits. After logging 4.1 million virtual visits in 2019, Teladoc estimates that 10.6 million visits occurred in 2020.
+
+But keep in mind that Teladoc's growth isn't entirely due to the COVID-19 pandemic. It was already growing its sales at an annualized pace of 75% between 2013 and 2019, and was having little issue landing Fortune 500 companies and health systems as clients. Since telemedicine is a win for all parties involved, especially insurers, which face smaller bills compared to office visits, it's expected to grow into a larger share of the personalized treatment space.
+
+Teladoc has also made waves on the acquisition front. It acquired leading applied health signals company Livongo Health in early November in a cash-and-stock deal. Livongo collects copious amounts of patient data and leans on artificial intelligence to send its members tips and nudges that help them lead healthier lives. As of the third quarter, Teladoc notes that Livongo was serving more than 540,000 patients with chronic illnesses.
+
+What's noteworthy is that Livongo is still just scratching the surface. With a focus on diabetes and hypertension, Livongo's potential patient pool is 70 million Americans. As of Q3 2020, it's enrolled just over 540,000 as members, yet was already profitable before the buyout. Look for Livongo and Teladoc to leverage their networks to cross-sell and more effectively market their products.
+
+Amazon
+
+Even as the third-largest publicly traded stock in the U.S. by market cap, e-commerce giant Amazon (NASDAQ:AMZN) has all the tools needed as an unstoppable stock to run circles around Bitcoin over the long run.
+
+Although market share estimates vary, one thing that's crystal clear about Amazon is that it's the most dominant force in the online retail space. According to eMarketer, it's on track to control 39.7% of all U.S. online sales in 2021. Meanwhile, analysts at Bank of America/Merrill Lynch estimate it's responsible for 44% of U.S. e-commerce. At worst, Amazon's U.S. online retail share is 33 percentage points higher than the next-closest online retail stock.
+
+Admittedly, retail margins aren't anything to write home about. Then again, Amazon has been able to use the lure of its marketplace to sign up more than 150 million people worldwide to Prime. The fees Amazon collects from Prime members helps the company undercut brick-and-mortar retailers on price. Furthermore, the membership model makes it likelier that these 150 million-plus people stay within the Amazon ecosystem of content, services, and products.
+
+Over the longer-term, it's Amazon's cloud infrastructure services that offers the more compelling growth story. Amazon Web Services (AWS) finished one of the most challenging decades in years with 30% sales growth and an annual revenue run-rate of $51 billion. Since cloud margins are many multiples higher than retail margins, AWS is Amazon's ticket to potentially tripling its operating cash flow by 2023 or 2024.
+
+Nothing is standing in the way of Amazon becoming the world's largest publicly traded company.

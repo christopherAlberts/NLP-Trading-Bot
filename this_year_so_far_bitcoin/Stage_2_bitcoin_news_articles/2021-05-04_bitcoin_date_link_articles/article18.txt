@@ -1,0 +1,23 @@
+S&P Dow Jones Indices launched its first three crypto indexes on Monday, according to a report from CoinDesk.
+
+What Happened: The three indexes will measure the performance of digital assets listed on registered open exchanges.
+
+The S&P Bitcoin Index tracks the performance of the leading digital asset Bitcoin, while the S&P Ethereum Index tracks the performance of the second-largest cryptocurrency by market cap, Ethereum.
+
+S&P also included a third crypto index, the S&P Crypto Mega Cap Index, which tracks the performance of both Bitcoin and Ethereum together.
+
+New York-based cryptocurrency data firm Lukka provided the “world’s first fair market value-focused” pricing methodology to price the S&P indexes.
+
+This method of valuation is designed to align the crypto ecosystem to GAAP and IFRS guidelines, according to the indexes’ methodology document.
+
+Why It Matters: Since the indexes measure price appreciation and not the current price of the underlying asset, comparing the two indices helps traders make an easy assessment of the better-performing asset over time.
+
+For instance, at the time of writing the index showed that Bitcoin’s return over a one-year period was 558% as opposed to Ethereum’s one-year return, which was 1,477%.
+
+“With digital assets such as cryptocurrencies becoming a rapidly emerging asset class, the time is right for independent, reliable, and user-friendly benchmarks. We’re excited to work with Lukka, who has been at the forefront of digital asset data services, to promote more transparency in this nascent sector,” said Peter Roffman, global head of innovation and strategy at S&P Dow Jones Indices.
+
+S&P’s crypto index comes in addition to the existing digital asset indexes launched nearly three years ago by Bloomberg and Galaxy Digital Capital Management.
+
+This story originally appeared on Benzinga. © 2021 Benzinga.com.
+
+Benzinga does not provide investment advice. All rights reserved.

@@ -1,0 +1,93 @@
+Bitcoin has enjoyed a blistering rally since last fall, but that ascent has also renewed attention on environmental, social and governance concerns surrounding the world’s most popular cryptocurrency.
+
+Bitcoin’s latest rally to another all-time high north of $60,000 may have lost some steam this week, but its blistering ascent since last year has reignited concerns about the toll Bitcoin is taking on people and the planet.
+
+In the United States, President Joe Biden’s administration has voiced concerns over Bitcoin’s role in money laundering, the potential fallout of financial speculation, and Bitcoin’s environmental impact.
+
+In China, where more than half of new Bitcoins are mined, the vast amounts of energy required to do that are at odds with Beijing’s climate goals, prompting a crackdown by authorities.
+
+Unlike fiat currencies (such as US dollars, euros or yen), Bitcoin is not controlled by a government or central bank, nor does it require a middleman to verify transactions. It is, by design, decentralised.
+
+Instead of a bank, transactions made with Bitcoins are verified by a global, decentralised network of computers (aka mining rigs) that race to verify blocks of transactions to add to Bitcoin’s blockchain – a public ledger. The winner is rewarded with new Bitcoins.
+
+Mining rigs are composed of very powerful computers, sometimes thousands of them, labouring in unison to solve complex math problems. That requires a lot of energy.
+
+Bitcoin proponents argue that it is being held to an unfair standard, arguing that the vast financial systems that undergird fiat currencies consume far more resources than cryptocurrencies do.
+
+But that has not stopped some governments from taking action to rein in Bitcoin’s carbon footprint.
+
+A coal-burning power plant can be seen behind a factory in the city of Baotou, in China’s Inner Mongolia Autonomous Region [File: David Gray/Reuters]
+
+China cracks down
+
+As a part of the 2015 Paris Agreement to stem global warming, China aims to become carbon-neutral by 2060 and reach peak emissions by 2030 – targets that are increasingly butting up against Bitcoin.
+
+China accounts for some 65 percent of global Bitcoin mining, according to the Cambridge Centre for Alternative Finance.
+
+The Inner Mongolia region — with its cheap energy — accounts for just more than 8 percent of Bitcoin production. By comparison, the US as a whole only produces and processes approximately 7 percent of global Bitcoin.
+
+Earlier this month, the regional government of Inner Mongolia announced plans to halt all new cryptocurrency mining and close down existing operations in an effort to limit emissions from coal-fired power plants there.
+
+The massive autonomous area adjacent to the nation of Mongolia fell short of the central government’s emissions targets in 2019, prompting the region’s development commission to put the kibosh on crypto-mining by the end of April 2021. The move has reportedly driven miners to relocate their farms elsewhere in China where climate-friendly hydropower often dominates.
+
+Meanwhile, Chinese Bitcoin miners have been seeking lower power costs and regulatory burdens, moving even further afield to places like Russia, Kazakhstan, Malaysia and Iran — which are the biggest Bitcoin mining countries after China and the US. Forkast, an Asian tech news site, reports that the websites of several major Chinese mining pools list farms in those countries.
+
+Crypto-mining rigs consume vast amounts of energy [File: Andrey Rudakov/Bloomberg]
+
+‘Undesirable activity’
+
+Though Beijing’s official attitude towards the country’s Bitcoin dominance is somewhat ambivalent, in recent years, it has intermittently cracked down on initial coin offerings for cryptocurrencies and on the exchanges that trade in them.
+
+One activity officials are trying to rein in is capital flight. China has strict capital controls, but unregulated capital flight out of China via digital assets reached $17.5bn last year, according to blockchain security firm PeckShield.
+
+Last August, research by Chainalysis suggested that about $50bn in crypto assets had left China during the prior year, $18bn of which was the relatively stable cryptocurrency Tether.
+
+Stephen Diehl, a United Kingdom-based software engineer who researches Bitcoin, told Al Jazeera that people in China — whether engaged in gang-related laundering of illegally earned money or simply seeking to dodge the limit of 80,000 renminbi ($12,258) on currency outflows — can also get around the restrictions by converting cryptocurrencies into UK pounds or Japanese yen that they can then freely take abroad.
+
+“Beijing has declared a lot of this as ‘undesirable activity’ and ‘unharmonious money’ in their official statements,” said Diehl of enforcement that combines anti-money laundering rules with general financial restrictions. “And it’s really not in their geopolitical interest to let nationals move that much BTC [Bitcoin] out of the country.”
+
+“It’s just kind of now reaching the price value where it’s becoming a bit of a thorn in their side,” Diehl added. “Thus the crackdown in [Inner] Mongolia.”
+
+Chinese cryptocurrency exchanges such as Binance, Huobi and MXC are often the provinces of money launderers, according to a July 2020 report by the Financial Action Task Force (FATF) – an intergovernmental body that works to promote standards against organised crime, corruption and “terrorism”.
+
+FATF helps to address the increasing risks posed by virtual assets, which can include regulatory, climate and reputational threats.
+
+Nearly 36 percent of Bitcoin mining globally is done in China’s Xinjiang region, according to the Cambridge Centre for Alternative Finance [File: Murad Sezer/Reuters]
+
+Other ESG concerns
+
+Nearly 36 percent of Bitcoin mining globally is done in China’s Xinjiang region, according to the Cambridge Centre for Alternative Finance.
+
+Xinjiang is where the United Nations and other rights groups say more than one million minority Uighur Muslims have been held in internment camps. The US and other governments have labelled China’s treatment of Uighurs a genocide – a charge Beijing denies, claiming that the internment camps are vocational training centres to fight “extremism”.
+
+Tim Swanson, head of market intelligence for Clearmatics, a firm that designs protocols for decentralised finance, points to another negative: the amount of carbon produced by China’s crypto-mining operations relative to the amount of economic growth they generate.
+
+“Coin miners have basically added a province’s worth of electricity consumption without adding a province’s worth of economic output, so Bitcoin mining is actually a net drag on the economy as a whole,” Swanson told Al Jazeera. “And the profits of mining probably only accrue to a couple thousand people, such as mining manufacturers, mining farm operators, and their stakeholders.”
+
+Swanson sees no benefits for China or other countries to incentivise any type of proof-of-work mining — the form of digital currency creation that provides blockchain network security but requires huge energy inputs for the distributed consensus-based community.
+
+A leading alternative to proof of work (PoW) mining is called “proof of stake” (PoS), which has been successfully implemented in dozens of other blockchains.
+
+“There is no need to burn or consume energy at the size or scale that proof-of-work blockchains such as Bitcoin do,” said Swanson. “Ethereum is trying to make that transition from PoW to PoS this year.”
+
+‘Orders of magnitude better’
+
+With a market capitalisation north of $200bn, Ethereum is the second-largest cryptocurrency. Nano, a much smaller cryptocurrency with a market cap of roughly $660m, already uses PoS and relies on an algorithm named Open Representative Voting.
+
+Nano’s backers argue that it is better for the environment and more ethically sound than Bitcoin. Many of Nano’s investors originally bought into Bitcoin but were turned off by the high energy use, pollution problems and moral quandary in China and other non-democracies.
+
+“Centralisation in any geographic or political region is a concern,” Colin LeMahieu, Nano’s founder, told Al Jazeera. “For a currency to be truly global, no particular region should have control over it.”
+
+Nano hopes to supplant Bitcoin as a more sustainable cryptocurrency through legislation, regulation and climate advocacy. But Nano fans also know that mining cartels in China are wary of threats to Bitcoin’s dominance.
+
+Srikar Srinivasula is one such entrepreneur and decentralised money enthusiast in Vijayawada, India. He wrote on Twitter earlier this month: “Of course #Bitcoin is impressive, Bitcoin is a freaking revolution, no one is arguing that but it has flaws that need to be addressed, and it looks like it can’t solve its issues, $NANO solves it, so I like this new form of #Bitcoin more.”
+
+Ofcourse #Bitcoin is impressive, Bitcoin is a freaking revolution, no one is arguing that but it has flaws that need to be addressed, and it looks like it can't solve its issues, $NANO solves it, so I like this new form of #Bitcoin more… — Srikar Srinivasula (@srikar_tech) March 1, 2021
+
+One Nano booster, Patrick Luberus, counters that his preferred altcoin is the “fastest cryptocurrency” and uses just one-10,000th of a kilowatt-hour per transaction, as compared with the 600kWh per Bitcoin transaction.
+
+“I am very interested in the qualities that Bitcoin has: decentralisation, self-sovereignty, limited inflation, censorship resistance, peer-to-peer payments without middlemen,” Luberus told Al Jazeera. “That is one of the reasons I started looking for alternatives that share, and improve Bitcoin’s core properties but without the massive energy footprint.”
+
+“We already have Bitcoin alternatives that are orders of magnitudes better in almost every way,” he added. “But many people don’t know about them.”
+
+China, for its part, wants to focus on the roll-out of its central bank digital currency, the eCNY, which would give Beijing more control over financial transactions, fiscal taxation and political dissent. Meanwhile, the US is nowhere close to issuing its own fiat digital currency but is keen to stop crypto from becoming a haven for money launderers.

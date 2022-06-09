@@ -1,0 +1,59 @@
+Despite a tumultuous 2020, the stock market ended the year substantially higher. The benchmark S&P 500 finished up by 16%, which is nearly double the index's average annual return over the past 40 years. But this gain pales in comparison to what bitcoin has been able to deliver for its investors.
+
+Last year, the world's largest cryptocurrency by market cap more than quadrupled. Meanwhile, over the trailing five-year period, it's gained better than 8,200%. Investors would struggle to find a public company with more robust returns over the past half-decade.
+
+There are smart ways to play the bitcoin craze
+
+Investors' love for bitcoin has also spilled over into equities. There are more than a dozen publicly traded stocks that are in some way affiliated with bitcoin -- and some of these businesses look downright intriguing.
+
+For example, payments platform Square (NYSE:SQ) has received a healthy revenue boost thanks to bitcoin exchange and investment via Cash App. This peer-to-peer payment platform has seen its monthly active user count more than quadruple since the end of 2017, and it's proven especially popular with millennials and Generation Z. Square has placed about 1% of its total assets ($50 million, at the time) into bitcoin tokens.
+
+Tech stock NVIDIA (NASDAQ:NVDA) has also been a clear winner from bitcoin euphoria. Among its many products, NVIDIA sells graphics processing units used by cryptocurrency miners. These miners use high-powered computers to solve complex mathematical equations that validate the accuracy of transactions on bitcoin's blockchain network.
+
+The most dangerous bitcoin stocks
+
+But there are also more than a handful of bitcoin stocks that look downright dangerous. Investors would be wise to avoid these cryptocurrency stocks like the plague.
+
+Grayscale Bitcoin Trust
+
+The fact is that not everyone who wants to buy bitcoin feels comfortable doing so from a cryptocurrency exchange. Further, the Securities and Exchange Commission hasn't given the green light for the creation of bitcoin exchange-traded funds. Thus, one of the few ways to gain bitcoin exposure without directly buying bitcoin is with the Grayscale Bitcoin Trust (OTC:GBTC).
+
+In easy-to-understand terms, the Grayscale Bitcoin Trust purchases and holds bitcoin tokens. It updates its token count pretty regularly, making it easy for current and prospective investors to calculate an accurate net asset value (NAV) for what's on the books, so to speak. Unfortunately, the Grayscale Bitcoin Trust has two key drawbacks.
+
+First of all, it typically trades at a substantial premium to its NAV. As of Jan. 26, it held 647,288 bitcoin tokens. Based on a valuation of $32,175 per bitcoin, this is a NAV of $20.83 billion. However, the Grayscale Bitcoin Trust closed on Jan. 26 with a value of $21.48 billion. Believe it or not, this is actually one of the smallest premiums I've seen in the years I've followed this bitcoin basket-holding security. It's not uncommon for it to be valued between 20% and 40% above its NAV, which is highly dangerous for unsuspecting investors.
+
+The second issue is that the Grayscale Bitcoin Trust charges a ridiculously high 2% management fee for doing close to nothing. Its management team acquires bitcoin tokens from time to time and cold-stores them with Coinbase. How that necessitates to a 2% fee is beyond me.
+
+Riot Blockchain
+
+While having a stake in the companies that sell bitcoin mining equipment is a potentially smart way to play the bitcoin craze, owning stocks that actually do bitcoin mining is not. That's why small-cap highflier Riot Blockchain (NASDAQ:RIOT) is such a dangerous investment.
+
+One of the prime concerns with mining companies is that they're almost entirely reliant on the performance of bitcoin, rather than on innovation. Since bitcoin miners receive block rewards of 6.25 tokens (worth about $201,000) for validating transactions, they need a continually euphoric bitcoin market to make this highly capital-intensive operating model worthwhile. It also doesn't help that halving events every few years reduce the amount of reward paid out per block. It's a highly competitive and decreasing return game that produces few winners.
+
+How has Riot Blockchain done, you ask? Although its stock has catapulted higher by more than 1,500%, the company has only managed $6.7 million in revenue through the first nine months of 2020. It's also lost $16.6 million through the first nine months of back-to-back years (2019 and 2020). That's a $1.3 billion valuation for a company that may not even reach $10 million in annual sales and doesn't look to be anywhere near recurring profitability.
+
+Long story short, Riot Blockchain is an awful bitcoin stock to buy.
+
+MicroStrategy
+
+Another bad-news bitcoin stock that's been caught in the euphoria is enterprise analytics company MicroStrategy (NASDAQ:MSTR).
+
+The reason MicroStrategy has created so much buzz is because it's piled all of its unneeded balance sheet cash into bitcoin. In fact, the company issued $650 million in debt just so it could acquire additional bitcoin. This greater than $1.1 billion investment yielded 70,470 tokens at an average price of $15,964. Sort of like Grayscale, buying MicroStrategy gives investors a way to ride bitcoin's ebbs and flows without actually having to buy the token.
+
+What makes MicroStrategy such a dangerous investment is threefold. First, bitcoin is itself a highly volatile and dangerous investment. As I've previously argued, it lacks true scarcity, has minimal utility, and could be easily replaced. It also has a penchant for entering long bear markets after parabolic moves higher. It doesn't seem like a prudent asset for a public company to store their cash.
+
+Secondly, MicroStrategy borrowed money to buy bitcoin, which is twice as egregious as simply putting its existing cash in a highly volatile asset. Though this strategy has paid off momentarily, it's far from certain that this'll be a wise move.
+
+Third, MicroStrategy's actual business operations aren't that exciting. Its sales through three-quarters of 2020 are down 1%, and its operating loss widened by $3.4 million from the prior-year nine-month period to $14 million. Rather than focusing on the company's operations, CEO Michael Saylor looks to be crossing his fingers and hoping for the best with an investment that's out of his control.
+
+Bit Digital
+
+Have I mentioned that buying bitcoin mining stocks isn't a good idea? If you happened to have skimmed past the section on Riot Blockchain, here's a potentially even more dangerous mining stock: Bit Digital (NASDAQ:BTBT).
+
+Over the trailing year, Bit Digital is the top-performing equity listed on the major U.S. exchanges. It's gained just a hair over 3,500%, even after being halved following its intraday high of $33 in early January. You'd think a company that's up 3,500% over the past year would have a compelling investment story, but this just isn't the case.
+
+Like Riot Blockchain, the downside for a mining company like Bit Digital is that it's almost entirely reliant on bitcoin tokens outperforming. It's pricey to buy and operate crypto mining equipment. If bitcoin were to enter a sustained bear market, which it's done multiple times over the past decade, Bit Digital could struggle.
+
+What makes Bit Digital even scarier than Riot is the fact that it's a foreign issuer. As noted in the company's response to fraud accusations two weeks ago, "[T]he Company as a foreign issuer is not required under home country practice to publicly announce its quarterly results." I don't know about you, but this is a gigantic red flag. Even though Bit Digital did share its three- and nine-month results, there's no guarantee that it's going to continue to do so.
+
+Plus, for what it's worth, the company lost nearly $4.6 million over the first nine months of 2020, and even with bitcoin soaring in the latest quarter managed a profit of only $54. That's not millions or thousands, by the way. That's $54 -- like the change in your wallet. How this company is worth close to $850 million is mind-boggling.

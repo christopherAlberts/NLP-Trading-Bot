@@ -1,0 +1,33 @@
+Bitcoin-focused developer group Satoshi.radio.br want to make the coin's blockchain available as a free worldwide public service that works offline thanks to dedicated space-based radio stations.
+
+As part of the development, the team used the moon to transmit a Bitcoin (CRYPTO: BTC) transaction and added a message that reads, "'Elon, we did it first!."
+
+It was done "to show that you don't have to be some eccentric billionaire to push the boundaries of the earth in search of freedom," the team clarified.
+
+What Happened: According to the project's website, it aims to make Bitcoin available offline because of the "dictatorial control of governments, bigtechs and Internet surveillance" that "undermines basic constitutional principles and injures individual freedoms."
+
+While the developers admit that "several successful attempts have already been made" to send Bitcoin transactions via radio, what is new about what they are trying to do is that they want to make it achievable without costly or limited equipment.
+
+"Imagine that you are without an Internet connection, in an isolated region and without communication. A small HT radio, a cell phone, or notebook with a bitcoin wallet, and a few meters of copper wire to mount a dipole antenna is what you will need to trade your coins freely, across the planet," according to the website.
+
+Satoshi Radio plans to use radio amateur radio satellites to listen to Bitcoin transactions broadcasted this way and replicate them on the network.
+
+The project also aims to organize "many listeners and broadcasters around the world as contributors, so that anyone in any part of the globe can send a transaction" via radio.
+
+The service will be provided "automatically and for free" and will enhance the user's anonymity by avoiding attributing an IP address to the transactions.
+
+"Although the internet can and is being controlled and censored, it is not the only tool to be employed in sending Bitcoin transactions and communications from one side of the globe to another on the planet," the team explains.
+
+Bitcoin Sent To The Moon
+
+In one experiment described by the group, Márcio Gandra, Rafael Silveira, Narcélio Filho, André Alvarenga, and Paulo Jr. transmitted a Bitcoin transaction that requires approval by two wallets with the first signature applied to the moon to have the radio waves bounce back to earth where the second wallet-holder was able to receive and co-sign it and send it to the blockchain.
+
+"Rafael Silveira and Paulo Jr. were 600km away, making direct transmission in a straight line impossible with the equipment used, but totally possible if they had the lunar star as a 'mirror,'" according to the report.
+
+This experiment signaled the founding of the project, and the audio files of the transmission will be minted as a non-fungible token (NFT) to finance the acquisition of larger and more powerful equipment for the initiative.
+
+The next planned experiment will make use of amateur radio satellites to transmit a Bitcoin transaction to be made through the Lightning Network scalability solution.
+
+Lightning Network is a network that runs on top of Bitcoin's blockchain and allows for instant and near-free transactions.
+
+Image: Courtesy of Satoshi.radio.br

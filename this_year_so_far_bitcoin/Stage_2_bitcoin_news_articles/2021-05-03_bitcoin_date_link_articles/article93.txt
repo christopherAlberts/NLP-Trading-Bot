@@ -1,0 +1,19 @@
+RSK Network, a smart contract platform secured by Bitcoin, announced today it has surpassed Lighting Network (LN) total value locked (TVL) in Bitcoin (BTC), and now stands at 1,445 BTC locked.
+
+This achievement is key for the RIF (RSK Infrastructure Framework) economy as RSK and Bitcoin are its foundation. RIF’s suite of open and decentralized infrastructure protocols enables faster, easier and scalable development of distributed applications within a unified environment. The surge of BTC locked on RSK paves the way for accelerating RIF economy growth.
+
+Sovryn Pushes DeFi Adoption on RSK
+
+One of the main factors driving the rise of user interest and TVL on RSK is the successful launch of Sovryn, the Anthony “Pomp” Pompliano backed Bitcoin-based decentralized trading and lending platform. Sovryn (SOV) trading commenced on April 13th, the same day Sovryn announced a $9 million investment.
+
+Built on RSK, Sovryn provides native/non-custodial trading and lending of BTC
+
+Users can trade long or short with up to 5x leverage, it enables holders of BTC, USDT and the Dollar on Chain (DOC) stablecoin to earn interest by lending their assets. They can also take advantage of low-cost, low slippage swaps between BTC, USDT, and DOC using the Sovryn DEX with automated market-makers.
+
+“The launch of Sovryn, which provides native and noncustodial trading and lending of BTC, represents a major step forward for DeFi projects built on the Bitcoin blockchain. It has driven amazing growth on the RSK blockchain. We are very excited about the future of the platform which has proven to fulfill a need in the Defi space. Bitcoin is the center of gravity for the entire crypto economy. Layer-2 innovations will only increase its reach. When people think of Bitcoin layer-2, most think of Lightning Network. Sidechains are a powerful complement to Lightning and are gaining remarkable user traction.”
+
+– Sovryn Co-Founder, Edan Yago
+
+Features of Sovryn
+
+Sovryn is a Bitcoin-native financial operating system that allows people to utilize their Bitcoin in decentralized applications; without having to part ways with it, without having to touch a centralized entity, and without giving up financial privacy and sovereignty. The Sovryn protocol provides an infrastructure using layer-2 technologies for DeFi with the reserve asset as Bitcoin. Further, Bitcoin-backed stablecoins and sidechain technologies provide low fees and secure scalability

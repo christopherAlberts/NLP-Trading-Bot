@@ -1,0 +1,35 @@
+Earlier this week, bitcoiners found themselves on a wild single-day ride.
+
+On May 19, after China announced a crackdown on cryptocurrencies, bitcoin’s price dropped off a cliff, falling 30% at one point before partially recovering—seemingly because of an encouraging tweet from Elon Musk.
+
+On social media, bitcoin believers immediately shared their opinions about what was happening and began trying to persuade others to “hodl” on. For some, the crisis was an opportunity to further forge the social identity of the group with self-flattering, even romantic memes about a bitcoiner’s unflappability in the face of possible losses. The message: Cool cats don’t sell.
+
+But, as during past downturns, many traders also tried to trigger regret aversion or anticipated regret: They highlighted the extreme pain fellow bitcoin owners would feel if they sold to stem their losses and missed out on what diehards saw as the inevitable rebound on the horizon.
+
+They had reason to worry about traders who had only recently purchased bitcoin: Over the past year, the value of one bitcoin has risen from just under $10,000 to a high near $65,000 in mid-April. It was trading sideways between $55,000 and $60,000 just last week before hitting $30,000 on Wednesday. The drastic plunge was unsettling even for those used to bitcoin’s volatility, but it was a completely new experience for latecomers.
+
+Anticipated regret may be boosting vaccine uptake
+
+Evoking the threat of future regret is not an especially original strategy. Behavioral scientists have studied anticipated regret as an influence on decision-making for decades, noticing how fear of the shame, guilt, and self-reproach that can accompany the recognition that you made a wrong turn can take over thought calculations. When it comes to financial decisions, anticipated regret can inspire poor choices, but it has also been studied as a useful intervention to boost a person’s intentions to save more for retirement or exercise regularly.
+
+Anticipated regret is also at play in Ohio’s Covid-19 vaccination program, as Kevin Volpp, director of the Center for Health Incentives and Behavioral Economics at the University of Pennsylvania, explained in the Washington Post. To win over people who are hesitant to get vaccinated, or haven’t yet made it a priority, the state has chosen to draw names for $1 million prizes once a week, for five weeks, with the stipulation that only vaccinated people can claim the reward if their name is drawn.
+
+The success of this controversial program partly counts on people overestimating their chances of winning, a common mistake attributed to the overconfidence effect. However, as Volpp writes, health officials will also benefit from the effects of anticipated regret. “People who have failed to get vaccinated will feel a rueful twinge when they see the winners announced,” he writes. “Ohio is ramping up this effect by drawing their winners not from a list of vaccinated people but from the state’s voter registration database: Ideally, there would be a drawing and people would be notified if they would have won had they been vaccinated, but had to be passed over.” (Emphasis his.)
+
+A recent multi-country study in Europe also found that increased willingness to get the Covid-19 vaccine correlated with anticipated regret of not getting the shot. Why? Sarah Jones, a researcher at Imperial’s Institute of Global Health Innovation, told The Guardian that it was plausible that “the objects of our potential regret are becoming more salient to us: might I regret missing another birthday party, another funeral, another hug?”
+
+What is the difference between FOMO and anticipated regret?
+
+Bitcoin’s sudden drop this week also sparked feelings of FOMO, or fear of missing out, a more commonly discussed emotional reaction that people may experience as they scroll through other people’s sunny Instagram posts or read about a promising IPO. Anticipated regret is similar to FOMO, but there is a subtle difference, says Brooke Struck, research director at The Decision Lab, a consulting firm specializing in behavioral science. FOMO affects those who are not yet involved in an opportunity, so people who do not own bitcoin and predict it will return to previous highs are at risk of succumbing to FOMO’s grip this week. (Watching bitcoin’s price drop, Struck felt a bit of FOMO himself, he admits.)
+
+However, in this case, people who already owned bitcoin grappled with the possible regret of selling at the wrong time. Interestingly, since they did not have to take any action in order to appease anticipated regrets about not enjoying the rebound, and because humans also exhibit a status quo bias, it’s more likely that anticipated regret played a bigger overall role than FOMO. So, at least in theory, bitcoiners were likely more compelled to hold than non-bitcoiners to buy, Struck says.
+
+Stay aware of emotional manipulation
+
+Though both the Ohio vaccine lottery and many bitcoiners are trying to capitalize on people’s fear of leaving money on the table and regretting it, the details of each situation make the ethics very different. The lottery organizers are looking after the public good, and they’re dangling the slim chance of winning actual cash as the prize. Bitcoiners, on the other hand, stand to personally gain if people listen to them. What’s more, while they may have great faith in bitcoin’s future, their prize is not yet uniformly recognized as a legitimate form of money.
+
+Even if they’re not intentionally trying to manipulate the market, they could have that effect anyway. Although anticipated regret is a byproduct of taking personal responsibility, it could theoretically have an aggregated impact when it prompts enough people to behave the same way.
+
+That bitcoiners turn to such emotional arguments is also further proof, if it was required, that buying cryptocurrency is still a relatively irrational act. Arguably, buyers are still essentially gambling. A few institutional investors have joined the fray, but their arrival has not made the market less volatile or unpredictable. In short, bitcoiners weighing their next move should at least be aware of how regret aversion can influence their decisions.
+
+They should also know that if they do sell and the rebound is “epic”, they may indeed feel some remorse, but it may not be as painful as they imagine. Years ago, a study led by Harvard psychologist Daniel Gilbert found that people consistently expect to feel more regret than they actually do, even when they were very close to “winning.” The psychologists asked participants how much regret they thought they would feel if they lost a contest or missed a train, and later measured whether the depth of woes experienced by people matched their expectations. Fortunately, they found that we are also very good at avoiding self-blame.

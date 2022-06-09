@@ -1,0 +1,91 @@
+There are few things more emotional, contentious and misunderstood than the concept of freedom. It means different things to different people and spans a wide ideological spectrum from fundamental human right to hard-won privilege, with some darker tones of “threat” adding nuance to the discourse.
+
+Bitcoin, fiercely embraced by libertarians, has been hailed as the key to financial freedom. Decentralized innovation on borderless computing platforms has given rise to new paradigms of thought and creativity, and the global collaboration has both lowered financial boundaries and supported individual opportunity.
+
+You’re reading Crypto Long & Short, a newsletter that looks closely at the forces driving cryptocurrency markets. Authored by CoinDesk’s head of research, Noelle Acheson, it goes out every Sunday and offers a recap of the week – with insights and analysis – from a professional investor’s point of view. You can subscribe here.
+
+We all know that, in order to live peacefully with each other, some freedoms need to be curtailed. The progress of civilization has revolved around finding the balance between too little and too much, with the pendulum swinging from one extreme to the other and knocking things over in the process.
+
+Nowhere is this more public than in the evolution of capital markets. The “free market” that we hold up as the ideal of capitalism is anything but. Excesses that damage vested interests are stamped out with more rules and regulations, and protection increasingly trumps opportunity.
+
+This is not necessarily a bad thing. Retail investors should be protected from scams and fraud – the human cost of not doing so would be more than most of us could bear. And financial market participants need to adhere to disclosure and reserve requirements to avoid potentially catastrophic systemic risk.
+
+Volatility as a badge
+
+Rules have also evolved to dampen volatility, because of the damage wild swings can do to portfolios and livelihoods. You may remember during the GameStop fluctuations that trading on the stock was frequently suspended because of strong market moves. The New York Stock Exchange, to pick one example, has market-wide circuit breaker procedures in place to either halt certain stocks temporarily or to close the entire market if established thresholds are crossed. Investors are powerless to do anything about this.
+
+These rules evolved because volatility is seen to be bad. We see this anti-volatility bias throughout the mainstream coverage of this week’s crypto market rout and recovery.
+
+But for crypto investors who have been in the market a while, volatility is not a bug – it is a feature, and not just because of the potential of outsized returns. It is also a feature because it highlights the market’s relatively unique freedom. Crypto markets are volatile because there’s no central authority to stop them from being so. Crypto asset prices, therefore, can be assumed to represent investor sentiment more fairly. This hints at what a “pure” market could look like.
+
+Structural issues
+
+Not all of the swings this week were the unfettered expressions of market opinion. Much of the volatility came from the forced closing out of long and short positions in crypto derivatives. Leverage had been building up on offshore crypto derivatives exchanges, and the market swings were exacerbated by harsh liquidations as margin limits were breached again and again.
+
+But these liquidations, messy as they may have been, also represent market freedom. Digital assets and their related derivatives trade on many different platforms in many different jurisdictions – this limits the power of gatekeepers to control investors’ behavior. But crypto derivatives exchanges are an intriguing arena in which to see how most investors are capable of self-regulation: Many exchanges offer extremely high leverage, some over 100x, but few investors take advantage of that irresponsible option. Most of the damage done this week was to 25x positions.
+
+I’m not suggesting we let all markets follow the crypto market example and self-regulate – there have been far too many schemes and scams for that to be a politically digestible solution. Crypto markets, like all markets, should have rules to ensure fair trading and sufficient risk disclosure. The U.S. boasts the largest financial market in the world in part because investors feel comfortable with its protection. Greater oversight in the crypto market will bring in larger investors, and the corresponding funding and liquidity.
+
+But market freedom in the more regulated jurisdictions is skewed in favor of the wealthy, with retail investors shut out of opportunities “for their own good.” They are also priced out of deep information access.
+
+More information, please
+
+Here, too, crypto markets hint at a new path.
+
+Investor protection rules tend to focus on fair access to information and disclosure of risk. Market participants should know what they’re getting into, and should have the tools they need to assess investments according to their risk tolerance. However, traditional markets are not known for their transparency, with gated data and relatively infrequent corporate communication.
+
+There is no market more transparent than the crypto market. At affordable prices compared to traditional services, crypto data aggregators give real-time insight into transaction volumes, basis curves and market bullishness, to name just a few available metrics. And crypto assets move on transparent and open-access blockchains, where anyone can see the state of the network at any time.
+
+Most of us need help interpreting this data, but it can offer insight into investor sentiment by showing us, for example, how long positions have been held, at what price they were acquired and how often a particular address transacts. Imagine having that level of information on traditional assets.
+
+Crypto markets run on the premise that information should be free, while interpretation is worth paying for. This approach embodies choice and freedom: the more information investors have, the more freedom they have to make informed choices.
+
+Always a story
+
+And finally, we come to narratives.
+
+Mainstream commentary this week has reminded us that of course bitcoin is volatile, as it has no “intrinsic value.” That is, it cannot be quantified through established valuation methods such as discounted cash flows. Those who see this as an investment barrier tend to have a rules-based mentality and assume that you can lower risk by sticking to formulas.
+
+But one thing the past year has taught us is that traditional valuation methods no longer have much influence. A new investment paradigm is taking over, one based on sentiment and narrative.
+
+This paradigm is harder for investors to navigate, as intangibles do not behave well in financial models. It does, however, represent a new type of freedom, from the “tyranny” of comforting fundamentals.
+
+When fundamentals such as cash flows and interest rates no longer explain market moves, narratives can flourish, giving investors more opportunity to get involved with stories and theories they care about.
+
+Communication technologies support this. While communities used to be based on geography, now they are based on beliefs as like-minded people easily find one another, reinforcing narratives as well as investment theories and habits.
+
+Here again, crypto markets lead the way. What the world witnessed earlier this year with the GameStop saga was already familiar to members of the crypto community, who for years have been hanging out on Twitter, Discord, Telegram and Reddit to support and argue with one another.
+
+This freedom to communicate and to invest according to beliefs, long a feature of crypto markets, is starting to change traditional investing. While for now this new environment is mainly populated by young retail investors, institutional money is starting to follow their conversations in order to get ahead of their collective influence. Even “smart” money is starting to embrace the relative freedom of narrative-based investing.
+
+Yet this week we saw how fast sentiment can turn and what that can do to prices. Any market that runs on narrative will be volatile, and the fact that bitcoin’s volatility is pretty much the same today as it was five years ago in spite of orders of magnitude more liquidity is a sign that high volatility is likely to be a permanent feature.
+
+Source: Coin Metrics
+
+But rather than criticizing bitcoin for this volatility, it should be understood and planned for. What’s more, it should be appreciated.
+
+With freedom comes risk, always. Some protections can be put in place, and legal assurances need to be upheld. But wishing away the volatility of crypto assets is to misunderstand the fundamental premise of the concept.
+
+Crypto markets are volatile because they are free. Can you think of a more powerful narrative than that?
+
+Chain Links
+
+A Bank of America survey of 194 fund managers with almost $600 billion in AUM identified “long bitcoin” as the most crowded trade in financial markets. TAKEAWAY: The “most crowded” designation often marks relative market tops for the asset group in question, but not historically when it comes to bitcoin. That could just be because bitcoin is relatively new on the scene, however, and is not yet present in most fund portfolios.
+
+This week’s sharp market correction triggered technical difficulties such as “degraded performance,” connectivity issues and withdrawal suspension in several large platforms, including Coinbase, Gemini, and Kraken. TAKEAWAY: That even the largest exchanges have issues during periods of high volume is a loud reminder that the industry is still young and still evolving.
+
+And this week’s market slump provided an informative stress test for crypto lenders, which had been preparing for such an eventuality by asking clients to top up accounts in case of margin calls. TAKEAWAY: Each such stress test strengthens the crypto lending industry as a whole, not only by deepening and reinforcing insight into market behavior in volatile times but also by shaking out excess market leverage overall.
+
+Michael Hsu, the new acting head of the U.S. Office of the Comptroller of the Currency, has requested a review of the federal bank regulator’s interpretive letters and guidance, including those which authorized U.S. banks to custody crypto assets. TAKEAWAY: It is not clear that a review will unwind the statements made under Brian Brooks’ tenure, but the uncertainty could derail the behind-the-scenes work going on in several large financial institutions and could delay or even shelve plans to roll out crypto asset services to their clients.
+
+Rep. Tom Emmer (R-Minn.) reintroduced the Safe Harbor for Taxpayers with Forked Assets Act, to protect taxpayers from penalties due to blockchain splits that result in new native assets “gifted” to holders of assets on the original blockchain. TAKEAWAY: Insight into how much progress is still needed on regulatory clarity around crypto assets, and how hard it is given the novelty of some of the potential actions and consequences. Getting forked assets isn’t like getting dividends – it’s an entirely new asset, probably with new functionalities, risks and potential. And you can get taxed on it, even if you didn’t want it in the first place.
+
+Nebraska’s unicameral state legislature has passed a bill that would create a state bank charter for digital asset depository institutions. This is similar to Wyoming’s Special Purpose Deposit Institution charter, except Nebraska digital banks won’t be able to accept fiat deposits. TAKEAWAY: Regulatory support for digital asset service providers is slowly emerging on a state-by-state basis. This may seem painstakingly slow, but it is making progress at a time when the federal level guidance in support of digital asset custody from the Office of the Comptroller of the Currency is “under review.”
+
+Temenos, a financial software company that supports the technology infrastructure of over 3,000 banks, will include access to crypto asset services in its suite of products. TAKEAWAY: The easier it is for banks to start offering crypto asset services to their clients, the more of them will do it. This brings a strong dose of legitimacy to the crypto industry. It also provides easier onramps for crypto investors, which in turn is likely to bring in more funds and liquidity.
+
+Wells Fargo’s wealth and investment management division is developing an actively managed crypto investment strategy for qualified investors. TAKEAWAY: Yet another legacy institution acknowledges that crypto investments have a role in portfolios. And yet again we see evidence that investors are increasingly asking for this – a conservative institution such as Wells Fargo wouldn’t be risking resources and reputation on this market without the certainty that there is demand.
+
+Riot Blockchain (NASDAQ: RIOT) reported mining revenue of $23.2 million during the first quarter, up over 880% versus the same period last year. Margins from its bitcoin mining operations were 67.5%, versus 40.4% in Q1 2020; net income was $7.5 million versus a net loss of $4.3 million in Q1 2020. TAKEAWAY: This kind of growth and margin will no doubt encourage other companies considering investment in the crypto mining industry. This in turn will deepen the geographic distribution of crypto miners, which will hopefully help to disperse some of the unfounded “Bitcoin is controlled by China” critiques.
+
+And speaking of Riot Blockchain, my colleague Shuai Hao pulled the data to compare the price performance of bitcoin over the past two weeks with some stocks with high crypto exposure:

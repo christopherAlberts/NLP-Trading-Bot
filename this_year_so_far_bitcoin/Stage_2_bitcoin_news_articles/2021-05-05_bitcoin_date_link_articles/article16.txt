@@ -1,0 +1,39 @@
+Does bitcoin squander energy? No – it actually consumes wasted power that is often green, finance specialist Pascal Huegli writes for finews.com.
+
+Undeniable. Bitcoin uses tons of energy, but this shouldn’t be taken as a point of contention. We need to ask whether there is any point in using so much of it for bitcoin. And look at where it comes from.
+
+Pascal Huegli, finance expert and lecturer at the University of Applied Sciences in Business Administration Zurich
+
+Those who don’t see a point to bitcoin easily call the power it consumes a waste. But when you take the other side, are there any arguments for bitcoin? Any that justify the energy expenditure?
+
+The idea of linking money with energy is nothing new. Many smart people have tried before bitcoin was around. Henry Ford, at the start of the 20th century, argued for an energy currency. He believed that such a currency couldn’t be as easily controlled as gold then was. Every country would issue currency based on their natural resources.
+
+The American architect and inventor R. Buckminster Fuller also took up the argument when he defined wealth as energy. He even forecast that there would be a scientific accounting system (blockchain perhaps?) that would keep the books on the wealth created.
+
+Bitcoin Converts Power Safely
+
+The energy currency they imagined has existed since 2009. Bitcoin exactly fulfils Henry Ford’s definition. He envisaged a currency based on kilowatt hours (kWh) – which is what bitcoin does. The cryptocurrency is covered by a so-called proof-of-work. New bitcoins are issued against work performed from mining.
+
+When miners make greater efforts then it becomes harder and more expensive for the individual miner to get new bitcoins. At least according to bitcoin protocols. The network really follows a simple equation: the more energy bitcoin absorbs, the more secure and dependable it is.
+
+But it is possible for bitcoin to become too secure and consume more energy than necessary. The cryptocurrency is still in its early stages and new miners are still attracted because of the benefits they see. In the long term, energy consumption is likely to be based more on transaction volumes and the cost effectiveness of bitcoin’s security and energy consumption relative to market capitalization should increase.
+
+Cheaper Electricity
+
+Bitcoin’s decentralized character is a large advantage. Miners can operate anywhere, and they don’t depend on specific buyers or sellers. They are in a highly competitive environment and it is likely that they are on the hunt for cheaper sources of energy. Often, they consume stranded assets that can’t find any takers.
+
+The bitcoin miners come into play in taking the energy that no one or very few people want. Mostly in China. And mainly in the Xinjiang, Inner Mongolia, Sichuan, and Yunnan provinces. The first two are rich in coal while the last ones have giant hydroelectric dams. All have relatively low population densities and large energy resources.
+
+Miners Don’t Take Anything
+
+There are no exact numbers, but it is likely that bitcoin used up energy in these provinces that would either be wasted or not generated at all. It is disingenuous to say that bitcoin steals large amounts of electricity from other uses.
+
+Miners also look for cheap sources of energy outside China. In the U.S., there are companies that trap surplus natural gas for bitcoin mining. In that way, methane is captured and used to generate electricity, and not released into the atmosphere as waste. It doesn’t compete with households and industries for resources.
+
+Incentivized Miners
+
+Without bitcoin the energy would never be monetized, trapped, or utilized. Instead, methane – a gas that is more damaging than CO2 to the environment – would simply be released into the atmosphere.
+
+Estimates show that several hundred-terawatt hours of energy are not produced because there is no demand. In future, bitcoin may consume more of this kind of energy because of the incentives that drive miners – together with the economics of stranded energy resources.
+
+Pascal Huegli is head of research for Schlossberg&Co Wealth and a lecturer at the University of Applied Sciences in Business Administration in Zurich. He is also the author of «Insight DeFi», a German-language newsletter on bitcoin and cryptocurrency news, events, and opportunities.

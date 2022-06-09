@@ -1,0 +1,39 @@
+2020 was a huge year for tech stocks. Some high-growth names doubled, tripled, or more in size. So far, 2021 hasn't been nearly as kind as expectations for many of these companies realign with reality.
+
+Nevertheless, that doesn't mean the growth story is over. A new digital-first era is emerging, and some stocks could double again in 2021. Three that have that kind of potential are Square (NYSE:SQ), Applied Materials (NASDAQ:AMAT), and Lam Research (NASDAQ:LRCX).
+
+Forget the crypto boom and bust cycle, digital payments are a growth industry
+
+Nicholas Rossolillo (Square): Square has gotten a lot of attention because of its sizable Bitcoin holdings on its balance sheet and skyrocketing Bitcoin revenue from trading on Cash App (a Square subsidiary). Even after falling some 40% from all-time highs, Bitcoin is still up nearly 450% since the start of 2020. No wonder Square stock has gained about 250% in that same span of time.
+
+But Square is far more than a bet on the cryptocurrency craze. Square is cleverly using Cash App's Bitcoin trading capability to onboard a massive number of new users cheaply. Once they're in its ecosystem, it can cross-sell other functionality like digital payments and peer-to-peer money movement, a debit card linked to a Cash App account, a newly acquired tax prep service, or integration with Square's extensive merchant network.
+
+Square is still getting a big boost from Cash App's year-over-year lapping of pre-pandemic financial results. Cash App revenue (excluding Bitcoin-related income) was up 201% to $529 million in the first quarter of 2021. That incredible pace will no doubt slow as 2021 progresses. But another catalyst is set to take over: the Square seller ecosystem, which was deeply impacted by pandemic lockdowns last year when many merchants that use Square were forced to temporarily close. The seller ecosystem segment grew 19% year over year to $1.02 billion in Q1, but will likely accelerate in the next couple quarters.
+
+On a free-cash-flow basis, Square isn't profitable -- at least not yet. It's spending heavily right now to maximize its expansion in the digital payments and financial technology space. Free cash flow was a meager $16.2 million on revenue of $13.2 billion over the last 12 months. But Square will be highly profitable eventually. Gross profit margin was 57% in Q1 when excluding Bitcoin effects, a huge increase from 49% a year ago as it acquired plenty of new users. Growing both the top and bottom lines at a fast rate, it wouldn't be unthinkable for Square to double in value again this year from its current market cap of $101 billion.
+
+"Early innings" of decade-long growth trends
+
+Anders Bylund (Applied Materials): Semiconductor equipment and materials supplier Applied Materials has gained more than 150% over the last 52 weeks, boosted by a global shortage of chip-making capacity. Faced with limited manufacturing options, many microchip designers are paying top dollar for the materials and processes they can get their hands on today. Applied Materials' sales grew 41% year over year in last week's second-quarter report and profit margins are on the rise. And that's just the beginning of a long-term growth trend, according to CEO Gary Dickerson.
+
+"We're still in the early innings of major secular trends that will play out over the next decade and drive the semiconductor and semi-equipment markets structurally higher," Dickerson said on the earnings call. "For the first time, customers are providing capital spending guidance for multiple years into the future, which is a new leading indicator for demand sustainability."
+
+Applied Materials' stock returns are supported by fantastic business results. The stock doesn't look expensive after that massive 52-week rush, trading at a modest 19 times forward earnings and seven times trailing sales. This company enjoys both an artificial short-term boost from the semiconductor shortage situation and a healthy long-term growth market. I would not be surprised to see Applied Materials shares doubling again before the end of the year, and it's also a solid stock to own for the long haul.
+
+This stock enables the big data era
+
+Billy Duberstein (Lam Research): Semiconductor equipment leader Lam Research is up 132% over the past year, but I wouldn't be surprised to see its stock double again. Ceck out these recent quarterly numbers: In Q1, revenue rocketed 53.7% year over year, while earnings per share grew an even higher 90.1%. Not only that, but management also guided for strong sequential growth for the current quarter.
+
+Despite these blockbuster results, Lam Research only trades at roughly 19 times forward earnings estimates. That's cheaper than all of the FAANG stocks and the overall market, despite Lam posting superior growth metrics. I also think the average earnings estimate may be conservative.
+
+It's true that Lam has been a somewhat cyclical business in the past, and in weak years, revenue can flatten out or even decline with the semi cycle. Yet the long-term trend in both revenue and profits is clearly up:
+
+With the massive demand we're currently seeing due to the semiconductor shortage, some might think these results are as good as things are going to get. And yet, there's a good possibility the strong growth for Lam will continue for the next few years.
+
+The pandemic has accelerated digitization trends that were already going on across the industry. And with next-generation tech like 5G, AI, wearables, and the Internet of Things, semiconductor growth is likely to strongly outpace overall economic growth for the foreseeable future. Add in the fact that advanced nations all wish to now have some extra semiconductor capacity on their own shores, and it looks like nothing but good news for the semi-cap industry for the foreseeable future.
+
+In addition, advanced semiconductors are running up against the limits of physics, so producing smaller, more advanced chips is becoming more capital-intensive with each generation. For instance, when NAND flash modules hit their limits in terms of two-dimensional shrink, Lam's etch and deposition machines became crucial for stacking NAND layers in 3D structures -- a trend that continues today. Over the next few years, more 3D architectures are likely to be implemented in logic chips and perhaps even DRAM. Lam is a leader in these machines and has taken market share in recent years, so I'd expect that high performance to continue.
+
+Finally, strong systems sales today are paving the way for strong services growth in the future, spanning upgrades, spare parts, and high-margin services, which help optimize production and maximize yields for customers. Lam's services revenue, which makes up about one-third of overall revenue, is more tied to its installed base, and should grow even if machine sales hit a soft patch.
+
+With Lam earning an outstanding 70% on invested capital, growing over 50%, and trading at a cheaper valuation than the broader market, I'd expect Lam to outperform, and possibly double, over the next year.

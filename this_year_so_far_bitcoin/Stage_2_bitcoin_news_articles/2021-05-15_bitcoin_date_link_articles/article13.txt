@@ -1,0 +1,53 @@
+Historically, activity surrounding the Bitcoin (BTC) monthly futures and options expiry has been blamed for weakening bullish momentum. A few studies from 2019 found a 2.3% average drop in BTC price 40 hours before the CME futures settlement date.
+
+However, as Cointelegraph reported in June 2020, the effect faded away. While 2020 seems to have rejected the potential negative impact of CME expiries, so far, the current year appears to validate the theory. Bitcoin’s price has been suppressed ahead of futures and options expiry in the first three months of 2021.
+
+Bitcoin performance before and after CME expiry, USD. Source: TradingView
+
+Some investors and traders have pointed out that Bitcoin’s incredible rally after the recent futures and options expiry dates has become a trend.
+
+$BTC options expiry in about 8 hours...
+
+
+
+Last Friday of every month has been a pretty good entry point for past 8 months ...
+
+
+
+Past 3 months price has been hammered in the hours / days leading up to expiry
+
+
+
+Observation not advice. Let's see if the pattern holds. pic.twitter.com/3CJqI6m6jl — 阿龍 (@KnutsonJesse) April 23, 2021
+
+BTC has effectively rallied in the days following the expiry, but expanding this analysis uncovers a less-than-satisfactory trend.
+
+Three consecutive events don’t prove a trend
+
+The past 13 months have been nothing short of spectacular for Bitcoin, as the cryptocurrency posted 788% gains. August 2020 turned out to be the worst month, as BTC presented a 7.5% negative performance. Thus, choosing random starting points within the month will likely show a similar positive trend.
+
+For example, if one uses the “last quarter” moon phase as a proxy, the odds that a rally takes place after each event are very high.
+
+Bitcoin performance after “Last Quarter” moon, USD. Source: TradingView
+
+As depicted above, indeed, Bitcoin rallied after five out of the last six instances. The only conclusion might be that positive trends are the norm rather than the exception during bull runs.
+
+Although there might be some explanation to the reason behind Bitcoin’s end-of-the-month underperformance, these are only hypotheses.
+
+While market makers and arbitrage desks could benefit from suppressing the price after a rally, other forces, including leverage futures longs and call option holders, would balance that out.
+
+Bitcoin price did not drop in three of the last seven expiries
+
+Therefore, it makes sense to analyze the potential price suppression ahead of the expiry instead of looking for explanations for a rally during a bull market.
+
+Bitcoin performance before and after CME expiry in 2020, USD. Source: TradingView
+
+Both October and December 2020 expiries failed to present any negative pressure ahead of such dates. Meanwhile, the 12% positive performance on the five days that preceded the most recent April 30 expiry also puts a big question mark on how meaningful the CME event really is.
+
+Considering there hasn’t been a price decrease ahead of monthly futures and options expiries in three of the last seven instances, this evidence should put a nail in the coffin of the unfounded myth.
+
+As mentioned earlier, trying to develop theories on why sellers acted more aggressively on specific dates is unlikely to yield results.
+
+As shown above, Bitcoin’s price failed to underperform in three out of the last seven expiries. A 57% success rate should not define a trend when a positive performance after a specific date has been proven common during a bull run.
+
+The views and opinions expressed here are solely those of the author and do not necessarily reflect the views of Cointelegraph. Every investment and trading move involves risk. You should conduct your own research when making a decision.

@@ -1,0 +1,67 @@
+Spot prices in bitcoin are sliding as investors get distracted by other market opportunities. Those include in the decentralized finance (DeFi) ecosystem, which hit a record level of value locked on Tuesday.
+
+Bitcoin (BTC) trading around $31,600 as of 21:00 UTC (4 p.m. ET). Slipping 1.2% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $29,298-$32,939 (CoinDesk 20)
+
+BTC above the 10-hour but below the 50-hour moving averages on the hourly chart, a sideways signal for market technicians.
+
+Bitcoin trading on Bitstamp since Jan. 24. Source: TradingView
+
+The price of bitcoin lost ground for the second straight day Wednesday. The world’s oldest cryptocurrency fell to as low as $29,298 around 15:00 UTC (10 a.m. ET), according to CoinDesk 20 data.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+It was the first time bitcoin traded below $30,000 since Jan. 21. On that day, prices went as low as $28,845 before picking up and staying in a $30,000-$35,000 range until Wednesday.
+
+“Technically, BTC is still in a descending triangle, which is a continuation pattern, showing lower highs and lower lows with currently a floor price at $29,000,” Cindy Leow, portfolio manager of multi-strategy trading firm 256 Capital Partners, told CoinDesk. “But if we close daily below [$29,000], could see another sweep of the mid-$20,000s.”
+
+Traders appear to be distracted by other opportunities such as GameStop (NYSE: GME) and fiat currencies in the foreign exchange market, noted Jason Lau, chief operating officer for San Francisco-based exchange OKCoin. “Attention is likely elsewhere, especifically the GME drama and dollar strength,” Lau said.
+
+The U.S. dollar index, or DXY, a measure of the greenback versus a basket of other government currencies, is in the green 0.52% at press time after a volatile day and an over 7.3% total decline over the past year.
+
+The four-hour chart of the DXY over the past year. Source: TradingView
+
+“The short U.S. dollar trade has been working since the start of the pandemic and is one of the more crowded trades out there,” said Chad Steinglass, head of trading at digital assets firm Crosstower. “I think that some of this jockeying for position is putting pressure on both BTC and ETH, though the effects are felt more acutely in BTC, which has shown relative weakness compared to its little brother in recent weeks.”
+
+On the institutional side, notional activity on LMAX, known for spot trading by larger-order players, has declined since BTC’s last $30,000 price point crossover on Jan. 20. However, it was on an uptrend according to Tuesday’s closing data from CoinDesk subsidiary TradeBlock. It’s worth noting that over the past month, notional value, which represents the total value of positions, seems to spike nicely with price gains.
+
+Notional trading value on LMAX spot market the past month. Source: TradeBlock
+
+“Bitcoin’s held up so far, but a decided break might trigger further price declines,” said Denis Vinokourov, head of research at digital assets prime broker Bequant. “This is despite bullish momentum from institutional investors including the likes of BlackRock [BLK], publicly listed Marathon [MARA] and university endowment funds.”
+
+After dropping to a one-year low of 0.55 on Jan 4., the 90-day correlation coefficient between bitcoin and ether is picking back up, to 0.65 as of Tuesday’s close data.
+
+Bitcoin and ether 90-day correlation the past year. Source: Shuai Hao/CoinDesk Research
+
+Peter Chan, lead trader at OneBit Quant, expects long-term BTC and ETH correlation to head closer to 1, which is the strongest correlation number between assets. “There’s always been a strong correlation between BTC and ETH on the macro view,” Chan said. “In this case there’s mean reversion opportunity – for example, short ETH and long BTC.”
+
+Value locked in DeFi increases over 2,900% in past year
+
+The second-largest cryptocurrency by market capitalization, ether (ETH), was down Wednesday, trading around $1,288 and slipping 3.9% in 24 hours as of 21:00 UTC (4:00 p.m. ET).
+
+The total value locked in decentralized finance (DeFi), which is primarily run on the Ethereum network, crossed $26 billion for the first time Tuesday. It’s a 30-fold leap over the past year, as on Jan. 27, 2020, the amount “locked” in DeFi was at a minuscule-by-comparison $850 million.
+
+Crypto value, in USD terms, locked in DeFi the past year. Source: DeFi Pulse
+
+256 Capital’s Leow points to an overheated market for the reason why DeFi value locked is hitting fresh highs as traders rotate into lesser-known tokens.
+
+“Traders are already highly levered in DeFi perpetuals, fueled by immense upside volatility earlier this month,” Leow noted. “DeFi/alts have been holding up okay against BTC for now, but we could easily see a reversal. The trend is already showing potential downside ahead.”
+
+Other markets
+
+Digital assets on the CoinDesk 20 are mostly red Wednesday. Notable winners as of 21:00 UTC (4:00 p.m. ET):
+
+Notable losers:
+
+Equities:
+
+Commodities:
+
+Oil was down 0.18%. Price per barrel of West Texas Intermediate crude: $52.64.
+
+Gold was in the red 0.46% and at $1,841 as of press time.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield fell Wednesday to 1.014 and in the red 2.3%.

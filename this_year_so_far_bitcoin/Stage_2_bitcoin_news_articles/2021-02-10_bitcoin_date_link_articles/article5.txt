@@ -1,0 +1,67 @@
+Three stories
+
+1. Tesla caught a lucky break in announcing its $1.5 billion bitcoin purchase when it did. The auto giant is reportedly being investigated by Chinese authorities over safety and quality concerns, news that came to light the same day headlines were dominated by Tesla’s treasury, according to CoinDesk markets reporter Muyao Shen.
+
+Media gadflies, like NYU economics professor Nouriel Roubini, have criticized Tesla and bitcoin. Speaking on CoinDesk TV this morning, “Dr. Doom” raised questions about “market manipulation” – including CEO Elon Musk’s public comments on crypto and that a particular wallet “sucks” – and Tesla’s “failing” business model, which, he says, is now being masked by an asset with “no intrinsic value.”
+
+Still, it’s an open question as to whether other corporations will follow Tesla, Square and MicroStrategy’s lead in chipping into dollar reserves with bitcoin. JPMorgan thinks the strategy is an anomaly, due to the crypto’s volatility, while CNBC screaming head Jim Cramer said it’s “almost irresponsible” to not have the asset on a corporate balance sheet. Twitter is reportedly considering it.
+
+2. Decentralized finance is heating up. Most notably, Amazon’s AWS Marketplace is offering Origin Protocol’s decentralized e-commerce platform Dshop to software-as-a-service customers (SaaS), as part of its partner network.
+
+Never mind bitcoin on the balance sheet, a subsidiary of Europe’s biggest telco is taking a stake in DeFi heavyweight Flow Network, a proof-of-stake blockchain, and becoming a data provider to the Chainlink oracle network. (CoinDesk’s Ian Allison reports out what this might say about the future of enterprise blockchain.)
+
+Meanwhile, a version of Curve Finance’s automated market maker is being built on Polkadot, a proof-of-stake chain that offers an alternative to Ethereum. Separately a piece of digital land sold for a record 888 ETH.
+
+3. A U.S. citizen is suing the Internal Revenue Service, which could have wide implications for all cryptocurrency holders and privacy rights. CoinDesk privacy reporter Ben Powers gives a rundown of James Harper v. Charles P. Rettig, in which the plaintiff argues the IRS had violated Coinbase users’ constitutional rights by sending 10,000 letters warning they may not have paid taxes properly.
+
+The suit centers around how the government requests and comes into possession of personal data, and whether individuals have lost their right to privacy by dealing with “third parties” like Coinbase. In an increasingly web-mediated world, more and more behavior is based on network technologies – meaning, theoretically, more private information may be subpoenaed by the government.
+
+Nigerian citizens are rejecting governmental overreach in banning cryptocurrencies by turning to peer-to-peer exchanges. “Decentralized systems are hard to ban,” one user told CoinDesk contributor Alyssa Hertig.
+
+At stake
+
+Bitcoin ban?
+
+With bitcoin going parabolic and maverick boosters like MicroStrategy CEO Michael Saylor earning ears to the thesis that the dollar is a “melting ice cube,” concerns that the U.S. government could outright ban the cryptocurrency are surfacing.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+“If you think the U.S. Treasury and the U.S. government will let this thing get out of hand where literally corporates are starting to replace dollars…” Dan Nathan, founder and principal of Risk Reversal Advisors, said on CNBC yesterday.
+
+Well, as the segment host asked: “What can they do?”
+
+“They can regulate the hell out of it,” the reply went. Indeed, governments across the world are shifting their weight around on crypto. India has floated a ban on “private currencies.” The U.K. recently squashed crypto derivative products and regimes in China and Nigeria have long-standing restrictions on crypto trading.
+
+But whether the U.S. government could interfere with the nascent digital economy is another question. This is the land of the free, after all, and what’s more sovereign than bitcoin? More to the point:
+
+Bitcoin has a $647.2 billion market cap, and much of the infrastructure is being laid down in the U.S. Multi-billion dollar companies like Coinbase are gearing up to go public, while INX is already selling shares on the Ethereum blockchain. Surveys reveal that anywhere from one-tenth to half of the U.S. population owns cryptocurrency.
+
+It’s for these reasons that industry watchers like Wall Street Journal MoneyBeat reporter Paul Vigna think “the ship has sailed” on a full-throttle ban, as he said yesterday afternoon on All About Bitcoin, a new CoinDesk TV show.
+
+This morning on First Mover, Blockchain Association Executive Director Kristin Smith gave a sobering appraisal of the current prospects for crypto regulation: More is coming, but it’s more likely to be informed and beneficial.
+
+Under the Trump administration, regulators like former acting head of the OCC Brian Brooks laid the foundation for “banks and institutions” to grow into their role with cryptocurrencies, Smith argued. This happened despite Brooks’ bosses Treasury Secretary Steven Mnuchin and Donald Trump thinking little of the industry.
+
+“With the Biden administration, we’re going to see a much more thoughtful, measured approach [to crypto policy],” Smith argued. This is a particularly insightful comment considering the 11th hour legislative attempt to limit on-chain privacy with FinCEN’s “unhosted wallet rule.” (More on the status of that here.)
+
+“They [Mnunchin’s admin] had written something that was so crazy, without understanding how these networks work that we were able to threaten to sue based on process,” Smith said.
+
+While she predicts Biden appointees to be more open to civil discussion, Smith notes that regulators that know how the snaking process of rule-making works could be dangerous. “It’s a risk that you run when you have someone who knows what they’re doing… They have the ability to inflict an incredible amount of damage,” she said.
+
+Has the ship sailed? It’s hard to say – but commenters aren’t speaking from the dock, waving their hats in farewell. Everyone, regulators, bulls and reporters are all on deck bracing against turbulent waters. Who knows, maybe Roubini is right, maybe it’s a ship of fools.
+
+Quick bites
+
+On the Bitcoin energy debate: Does a greener world need fewer greenbacks? (Reuters)
+
+Billionaire Tilman Feritta sold cars for bitcoin in 2017 (beating Elon to the punch?) (CNBC)
+
+QuadrigaCX is back from the dead – sorta. An imitator is using the defunct exchange’s URL, likely to scam unsuspecting users or even those spurned by the original, which went down after the mysterious death of its founder. (CoinDesk)
+
+Legacy exchanges are more than pulling their weight in crypto adoption, argues Kaiko’s head of research. (CoinDesk Opinion)
+
+Rumors that WallStreetBets had an early bead on Tesla’s BTC buy were started by a high German politics student. (NY Post)
+
+Intangible qualities like brand and community give Bitcoin and Ethereum an edge in the world of open-source development. (CoinDesk Opinion)
+
+Who won the meme war?

@@ -1,0 +1,37 @@
+Bitcoin fell sharply early on Monday, having failed to establish a foothold above $40,000 over the weekend.
+
+Over the last 24 hours, the cryptocurrency declined by more than $8,000 to $32,400, an over-20% fall from levels over $40,800 late on Sunday (UTC). The cryptocurrency was last seen changing hands up slightly near $35,380 – still down 13.6% on a 24-hour basis.
+
+Prices reached a record high of $41,962 on Jan. 8 and ended the last week with 15% gains, its fourth-consecutive double-digit weekly gain, according to CoinDesk 20 data.
+
+Related: Bitcoin's Active Addresses, Trading Volumes Now at All-Time Highs
+
+“Hefty spot selling against an over-levered market caused the price drop,” trader and analyst Alex Kruger told CoinDesk, adding that it is unclear whether it was miner selling or macro traders liquidating positions.
+
+Data provided by South Korea-based analytics firm CryptoQuant suggests miner selling did contribute to the price drop.
+
+The 30-day average of Miner’s Position Index (MPI) – the ratio of total miners’ outflows in U.S. dollar terms divided by the 365-day moving average of the outflows in dollar terms – rose to 2.20 on Sunday, the highest level since July 2019. A reading above 2.00 indicates miners are selling.
+
+“Miner Position Index looks enough to make a local top. They’re selling bitcoin,” CryptoQuant’s CEO Ki Young Ju tweeted Sunday.
+
+Related: Market Wrap: Bitcoin Plunges to $30.3K as Options Traders Bet on Sub-$800 Ether
+
+Some panic selling was seen on the U.S.-based crypto exchange Coinbase. A sell order for 180 bitcoin on Coinbase quickly brought the price down by $1,200, as noted by trader @lightcrypto.
+
+Adding fuel to the fire, a comment by Guggenheim Partners CIO Scott Minerd that bitcoin’s sharp rise is “unsustainable” may have injected fear into the market and caused an exaggerated pullback, according to Matthew Dibb, co-founder, and COO of Stack Funds.
+
+Story continues
+
+Most observers believe the price dip is healthy amid the overheated market.
+
+“The derivatives market can relax a bit, with the perptuals funding rate or cost of holding longs declining and futures premium falling,” Patrick Heusser, head of trading at Zurich-based Crypto Broker AG, told CoinDesk, also noting heavy selling in the spot market and long liquidations worth nearly $1 billion.
+
+Also read: Why Joe Biden’s $3T Stimulus Package Could Add Fuel to Bitcoin’s Rally
+
+Joel Kruger, a currency strategist at LMAX Digital, said the market was severely overbought and in need of a healthy correction. Indeed, the 14-day Relative Strength Index (RSI) on the daily chart had jumped well above 70.00, implying overbought conditions last week.
+
+“The outlook remains highly constructive, but we wouldn’t rule out the potential for a pullback to the former hurdle-turned-support of $20,000,” Kruger added.
+
+Bitcoin is still up over 20% on a year-to-date basis and 78% higher than the December 2017 peak of $19,783.
+
+Related Stories

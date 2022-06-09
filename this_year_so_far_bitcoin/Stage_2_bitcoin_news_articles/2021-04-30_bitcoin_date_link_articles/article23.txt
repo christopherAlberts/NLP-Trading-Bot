@@ -1,0 +1,177 @@
+Crypto at a glance
+
+Bitcoin continues to take a back seat as other cryptocurrencies have their moment in the spotlight. Its market dominance is down again to just 49 per cent today, having slipped from around 76 per cent at the start of the year.
+
+It’s lowest ever market dominance was around 37 per cent, which was at the peak of the last bull run in 2018. Will it again regain its supremacy or is this the start of a new era that could see rivals challenge for its crown?
+
+The Bitcoin price has now held at the $54-55k level for the last three days, though a minor scare yesterday saw it take a sharp tumble down to $52,000 before quickly recovering. It’s certainly making itself at home and getting its feet under the table, but can it continue to hold that level or is it preparing for a more decisive move?
+
+Elsewhere, Ethereum continues to look strong and again pushed to new all-time highs yesterday. The second-largest cryptocurrency by market capitalisation was trading for just shy of $1,800 yesterday, spurred by talk of impending upgrades including the widely-anticipated introduction of EIP 1559.
+
+It’s hoped EIP 1559 will decrease uncertainty around Gas fees, while also introducing a fee burn model for transactions that adds a deflationary element to the ETH currency. Will this further boost give its credentials as a safe haven too?
+
+There are a number of big movers today, with BNB flying past $600 again. It’s now up eight per cent over the past 24 hours. XRP is also roaring, up over 10 per cent to $1.55, although Cardano (ADA) has slipped off the pace slightly since yesterday and is down two per cent, despite several announcements surrounding initiatives in Africa.
+
+The cryptocurrency is investing heavily with World Mobile Group in bringing decentralised infrastructure to the region, growing into one of the largest decentralised donations platforms in the world. For a full breakdown read the following article James Bowater in conversation with Charles Hoskinson
+
+All feedback on Crypto AM Daily in association with Luno is welcome via email to James.Bowater@cityam.com 🙏🏻
+
+In the markets
+
+The Bitcoin economy
+
+*Definitions and insights can be found at https://bytetree.com/insights/
+
+Total crypto market cap
+
+The total capitalisation of the entire cryptocurrency market at time of writing is currently $2,118,653,457,368, up from $2,088,399,935,373 yesterday.
+
+What Bitcoin did yesterday
+
+We closed yesterday, April 29 2021, at a price of $53,555.11 – down from $54,824.70 the day before.
+
+The daily high yesterday was $55,115.84 and the daily low was $52,418.03.
+
+This time last year, the price of Bitcoin closed the day at $8,801.04. In 2019, it closed at $5,247.35.
+
+Bitcoin market capitalisation
+
+Bitcoin’s market capitalisation at time of writing is $1.016 trillion, the same as yesterday. To put that into context, the market cap of gold is $11.24 trillion and Alphabet (Google) is $1.599 trillion.
+
+Bitcoin volume
+
+The total spot trading volume reported by all exchanges over the last 24 hours was $47,387,799,991, up from $44,359,198,005 yesterday. High volumes can indicate that a significant price movement has stronger support and is more likely to be sustained.
+
+Volatility
+
+The price volatility of Bitcoin over the last 30 days is 53.01%.
+
+Fear and Greed Index
+
+Market sentiment is up to 51.
+
+Bitcoin’s market dominance
+
+Bitcoin’s market dominance today is 49.18, down from 49.85 yesterday. Its lowest ever recorded dominance was 37.09 on January 8 2018.
+
+Relative Strength Index (RSI)
+
+The daily RSI is currently 46.39, up from 45.59 yesterday. Values of 70 or above indicate that an asset is becoming overbought and may be primed for a trend reversal or experience a correction in price – an RSI reading of 30 or below indicates an oversold or undervalued condition.
+
+Convince your Nan: Soundbite of the day
+
+“Cryptocurrencies [in some form] are here to stay.” – Christian Nolting, chief investment officer at Deutsche Bank
+
+What they said yesterday:
+
+Thirsty work…
+
+Explaining #bitcoin to people is hard work. 😂 — CZ 🔶 Binance (@cz_binance) April 28, 2021
+
+Though this is also true…
+
+#Bitcoin is easier to understand than banking. — Gabor Gurbacs (@gaborgurbacs) April 29, 2021
+
+More success from MicroStrategy…
+
+In the first quarter, $MSTR had one of the strongest operational quarters in our software business in years, highlighted by 10% revenue growth and continued improvement in non-GAAP profitability. We continue to #hodl all 91,579 of our #bitcoin.https://t.co/Yrz8DGZkVV — Michael Saylor (@michael_saylor) April 29, 2021
+
+Nobody wins unless everybody wins…
+
+$BTC is closer to $100k than to $0.$ETH is closer to $5000 than to $0.$BNB is closer to $1000 than to $0.$ADA is closer to $2 than to $0.$LINK is closer to $50 than to $0.$VET is closer to $0.30 than to $0.
+
+
+
+In few months these numbers will look pathetic. — Simon Dedic (@scoinaldo) April 29, 2021
+
+Crypto AM editor writes:
+
+Cardano teams up with Save the Children for humanitarian initiative…
+
+HMRC were not clamping down on crypto…
+
+Facebook posts massive $26 billion revenue but not a Bitcoin in sight…
+
+Binance jumps on the NFT market…
+
+Ethiopia overhauls its educational system with IOHK blockchain partnership…
+
+John McAfee on life in prison and the price of Dogecoin…
+
+Crypto AM: Longer Reads
+
+City AM Markets: What is Decentralised Finance (DeFi) by Aave…
+
+Crypto AM: Conversation with James Bowater
+
+Crypto AM: Market View
+
+Crypto AM: Technically Speaking
+
+Crypto AM: A Trader’s View with TMG
+
+Crypto AM: Mixing in the Metaverse with Dr Chris Kacher
+
+Crypto AM: Talking Legal
+
+Crypto AM: Spotlight
+
+Crypto AM: Founders Series
+
+Crypto AM: Industry Voices
+
+Crypto AM: Tiptoe through the Crypto with Monty Munford
+
+Crypto AM: Definitively DeFi
+
+Crypto AM Parliamentary Special
+
+Part one of two – April 2021
+
+Part two of two – April 2021
+
+Five Part Series – March 2021
+
+Part one…
+
+Part two…
+
+Part three…
+
+Part four…
+
+Part five…
+
+Crypto AM: Recommended Events
+
+Crypto AM DeFi & Digital Inclusion Online Summit
+
+May 20 2021
+
+AIBC World
+
+May 25 to 26 2021 – Dubai
+
+https://aibc.world/events/uae/general-info/
+
+Bitcoin 2021 – Miami
+
+June 3 to 5 2021
+
+https://b.tc/conference
+
+Crypto AM City of London Roundtable
+
+Crypto AM DeFi & Digital Inclusion Summit
+
+&
+
+Crypto AM Awards 2021
+
+September 29 and 30 2021
+
+Cautionary Notes
+
+It’s definitely tempting to get swept up in the excitement, but please heed these words of caution: Do your own research, only invest what you can afford, and make good decisions. The indicators contained in this article will hopefully help in this. Remember though, the content of this article is for information purposes only and is not investment advice or any form of recommendation or invitation. City AM, Crypto AM and Luno always advise you to obtain your own independent financial advice before investing or trading in cryptocurrency.
+
+All information is correct as of 08:30am GMT.

@@ -1,0 +1,25 @@
+Ciphertrace Report Shows Crypto Crime Moving to Defi
+
+Ciphertrace, a blockchain analytics company, has announced that crypto-related crimes have moved to the realm of decentralized finance (defi) apps and protocols. Now, the impact these hacks and exploits represent is way bigger than the one classic hacks to centralized exchanges and other scams do, according to their latest “Cryptocurrency Crime and Anti-Money Laundering Report.”
+
+Ciphertrace: Crime Moves to Defi
+
+Ciphertrace, one of the biggest cryptocurrency crime and blockchain analytics companies, has found that most of the crypto-related crimes have now moved to decentralized finance (defi) protocols. The information, that comes from its latest “Cryptocurrency Crime and Anti-Money Laundering Report,” examines data from the first four months of the year and exposes an interesting picture of how crypto-related crimes have evolved compared to last year.
+
+The company found that, on the whole, the cryptocurrency sector has become a lot more secure, with only $432 million being stolen as a result of illegal activities in the space. In fact, the projection is way lower than the $1.9 billion Ciphertrace found were taken during 2020. In contrast, these attacks are now pivoting to a sector that is easier to tackle: decentralized finance.
+
+The scams and exploits in the defi sector pulled $156 million in the period studied by the report, already surpassing the number that was taken during 2020. This increase is related to the rise of defi, which is now gobbling more than a third of the whole Ethereum activity. Scammers also find end-users more vulnerable to their influence, due to the exploitability of smart contracts, and the execution of the now common rug pulls in these platforms.
+
+Grand Theft Defi
+
+Ciphertrace also provided a list of the biggest scams and exploits that happened in the period. The biggest defi-related scam was the exploit of PAID network, which allowed hackers to mint $150 million worth of the currency. The project acknowledged the scam and pulled liquidity to mint another currency, but PAID lost more than 85% of its value, affecting all holders.
+
+Easyfi, a Polygon-based defi protocol, lost $80 million due to a security vulnerability that allowed hackers to steal the private keys of the wallet from the computer of a member of its team. Another significant hack (suspected to be a rug pull) was the one concerning Meerkat Finance, which took $31 million worth of BNB after the team modified the logic of its smart contract.
+
+These hacks and exploits will likely keep happening even at a higher scale due to the defi sector acquiring more and more relevance in the crypto industry in the future.
+
+What do you think about Ciphertrace’s last cryptocurrency report? Tell us in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

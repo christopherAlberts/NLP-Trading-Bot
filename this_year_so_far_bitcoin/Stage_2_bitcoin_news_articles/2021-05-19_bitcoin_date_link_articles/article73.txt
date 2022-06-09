@@ -1,0 +1,29 @@
+Myles Udland, Brian Sozzi, and Julie Hyman discuss the falling pricing of bitcoin and the factors fueling its decline as volatility continues in the cryptocurrency market.
+
+Video Transcript
+
+[MUSIC PLAYING]
+
+MYLES UDLAND: But let's begin this morning with what we are seeing in the crypto space. The moves are just enormous. We see here on the Yahoo Finance Heat Map, Bitcoin right now off some 21%. Of course, Ether off some 34%. We see Cardano ADA off some 38%. Doge, you can see there, is off about 41%. Ripple XRP off about 37%. Should note here, Yahoo Finance uses a composite quote for these cryptocurrencies, which brings in, I believe, it's 100 different exchange quoted prices. So this is a composite number. Likely to see pretty wide spreads across the crypto complex this morning.
+
+But Julie, I think what's so instructive for investors today is the question that is always asked as a theoretical-- does crypto, would crypto matter to the broader financial markets in a time of stress like we are seeing this morning? The answer is yes. And I guess, it's not a huge surprise, right, given the [AUDIO OUT] dollars, the notional dollar amount that is assigned to these cryptocurrencies. It's not a huge surprise that when tens of billions of dollars in value disappear overnight, we see some spread out into US financial markets.
+
+JULIE HYMAN: Yeah, I mean, we keep hearing from the crypto bulls that part of their bull thesis lately has to do with their buzzword adoption, right? That we are seeing adoption on the part of companies, we're seeing adoption on the part of institutional investors, and basically, that means more people buying more cryptocurrencies. So if that is indeed the case that more people are investing in it, it makes sense that when it goes down, you see a ripple effect through the market.
+
+Maybe people are selling elsewhere to meet margin calls that are related to their crypto assets. Maybe it's just a general unease and taking profits through the market when they see a tumble of these kinds of magnitudes. You know, you do tend to see these cycles in cryptocurrencies. And as more people are invested in these, it stands to reason that it would become more painful when you see this type of magnitude.
+
+Story continues
+
+And to just get our arms around just how painful, we were looking at some of the stats here that we got from various places. Bloomberg citing some numbers from Coin Gecko that the value of the crypto market has shrunk by more than $600 billion in the past week alone. Earlier in April, just a few weeks ago, we had seen the value of cryptocurrencies exceed $2 trillion. What's also notable, by the way, the tokens tracked by Coin Gecko number 7,000. Now most of them are not very large, Brian Sozzi, but it speaks to the enthusiasm in this market that new tokens are popping up all of the time and that someone out there is buying them.
+
+BRIAN SOZZI: Someone somewhere, Julie and Myles. But I think it's very important to break down what is triggering the selling. You have a lot of folks that have traded crypto for a year or have just gotten into it recently, and they're getting absolutely clobbered here on this sell-off. And a good note out this morning from the folks at JPMorgan, they're usually always tracking the moves in crypto. They're saying they're seeing a lot of institutional selling. So big investors are now selling into the selling pressure we are, in fact, seeing.
+
+So what are those institutional investors doing with those gains or that raised capital? JP Morgan noting those institutional investors are now rotating from crypto into gold, rotating into gold likely because of inflation fears. And I'm just looking at the move here on gold, guys. Gold prices over the past 30 days up 91%, which is interesting compared to what you're seeing in crypto, which is getting absolutely battered here.
+
+MYLES UDLAND: Yeah, I mean, I think the other thing to remember at this point in the sell-off is that you are going to, we are going to, we're already seeing from the crypto evangelists commentary to the effect of crypto is a highly volatile asset. There will be many cycles like this. And we are always prepared for the price of Bitcoin, Ether, or any other major coin to fall in excess of 50%. You know, the note from the team over at Bespoke looking at drawdowns for Bitcoin over time. The average decline from a high over the last 10 years has been 48%. Right now, we're off about 40% from our highs. So we're going to hear that commentary. But that doesn't make it any easier. And that doesn't make it any more fun.
+
+And Sozzi, as you mentioned, there are always-- I mean, this is in Coinbase's documents as they came public. There have been, over time, more people getting into cryptocurrency during these bull waves, which everyone in the space agrees are a feature, not a bug, of the market. A feature of the market is that we have these mega price cycles up, and they come down. But if more people come in with each subsequent up wave, there are many people who thus feel more direct pain on the way down than did in the prior cycle.
+
+So, again, there is likely more folks more underwater depending on how far this goes than there were in '17 and '18. And I think that has a different psychological effect on investors as well. And so I think, again, Julie, the maturation of the space makes each time different, even though for a 10-year-old market, we hear a lot of comments that, oh, no, no, no, we've seen this before. It's no big deal.
+
+JULIE HYMAN: Well, and of course, it depends. We're going to see varying exposure compared relative to who has that exposure, right? In other words, will a large institutional investor have a better hedge for this than a small guy who was just trading in his Robinhood account and trading on margin, you know? So I guess, we'll have to wait and see if there are any sort of bigger blowups related to this latest leg down.

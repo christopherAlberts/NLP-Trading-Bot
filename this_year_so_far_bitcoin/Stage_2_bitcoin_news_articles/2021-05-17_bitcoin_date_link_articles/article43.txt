@@ -1,0 +1,9 @@
+According to a report from Market Research Telecast, Japanese video game giant Sony Interactive Entertainment has recently published a patent filed in 2019 for an esports betting platform that would accept bitcoin wagers.
+
+“Wagers may be pecuniary, e.g., money or bitcoin, or may be non-pecuniary, e.g. game assets, digital rights, and virtual currency,” per the patent.
+
+“The patent itself suggests a system in which viewers of live-streamed esports events, such as fighting game tournaments, could bet on the outcome of the matches while watching the action in real time,” Market Research Telecast reported. “The system would work through a user interface overlay that could appear in the broadcast so that the user can place their bets.”
+
+It is unclear if or when this patent filing will lead to a live platform that allows users to wage on esports using bitcoin. But it is notable that even in 2019, before the most recent bitcoin price rally, Sony saw potential in allowing users to use BTC as a medium of exchange in this way.
+
+Bitcoin and the video game industry have had a long, synergistic relationship. For instance, last month video game publisher Nexon announced it had purchased 1,717 bitcoin for its corporate treasury. And the video game sector continues to be one of the most popular applications for Bitcoin’s Lightning Network layer.

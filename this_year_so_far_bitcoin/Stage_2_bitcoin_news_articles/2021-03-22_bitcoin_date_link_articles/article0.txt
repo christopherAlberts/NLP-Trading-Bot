@@ -1,0 +1,29 @@
+The energy used by the network of computers that power the digital coin is comparable to that of many developed countries and rivals the emissions from major fossil-fuel users and producers such as American Airlines Group Inc and ConocoPhillips, according to a new report by Bank of America Corp.
+
+Bitcoin’s massive rally over the past year means it’s only getting worse for the environment.
+
+The energy used by the network of computers that power the digital coin is comparable to that of many developed countries and rivals the emissions from major fossil-fuel users and producers such as American Airlines Group Inc. and ConocoPhillips, according to a report by Bank of America Corp. The level of emissions, which have risen alongside a spike in Bitcoin’s price, have grown by more than 40 million tons in the past two years. And when the digital asset is trading around $50,000 — which it’s done for much of this year — it uses about 0.4% of global energy consumption.
+
+More worrisome, according to the report titled “Bitcoin’s dirty little secrets,” is that rising prices may mean Bitcoin’s energy consumption will soon rival that of some of the largest countries in the world.
+
+“What I’m concerned about is the pace of growth in the demand for energy,” Francisco Blanch, head of commodities and derivatives research at Bank of America and lead author of the report, said in an interview. “The rate of change is enormous — nothing is growing at this pace in the energy world.”
+
+Bitcoin has skyrocketed into the limelight during the Covid-19 pandemic amid unprecedented fiscal and monetary stimulus that’s been a boon to more-speculative parts of the financial markets. The world’s largest cryptocurrency surged almost 10-fold in the past year. That’s meant greater energy use, too.
+
+Because the coin’s supply is limited, any excess demand could push prices even higher. Rising prices encourage more so-called mining activity and may consequently push CO2 emissions up even more, according to Bank of America.
+
+Bitcoin transactions are processed by miners — crypto slang for companies that operate a vast array of computers. Miners compete to confirm transactions and get new coins awarded in return — but they require huge amounts of energy to run. Buoyed by increased competition, only a handful of such firms — most China-based — controlled about 50% of all the computing power on the network, Bloomberg News reported last year.
+
+According to Bank of America, it’s since become even more concentrated, with roughly three-quarters of so-called hash power now concentrated in the country. That, too, is worrying to Blanch, as almost 60% of Chinese electrical generation is derived from coal-fired plants.
+
+“Right now, this thing is taking a lot of energy and it’s possible that if everyone comes in and prices go higher, then it’s going to be way more energy,” he said.
+
+But crypto fans argue Bitcoin’s energy use is immaterial when placed within a larger context. Many say, for instance, that its carbon footprint is pretty negligible, compared with that of cars, power plants and factories. And even as its price surges, it’s hardly made a ripple in power markets, according to analysts at BloombergNEF.
+
+“Bitcoin miners use whatever power is available and the focus is absolutely on the lowest-cost power possible,” Jaime Leverton, chief executive officer at Hut 8 Mining Corp., said in an interview with Bloomberg Television.
+
+Her firm’s mining operations are located in Alberta, Canada, where natural gas and wind are among the predominant energy sources. “It’s a conversation that certainly needs to evolve over time and doesn’t accurately reflect how we talk about energy in other tech sectors,” she said.
+
+Nic Carter, a partner at crypto-focused venture firm Castle Island Ventures, said he expects Bitcoin’s energy use in the long run to come almost exclusively from sources — including hydro and flared gas — that otherwise would go to waste.
+
+Still, “there’s a moral case to be made for Bitcoin, even in the presence of a carbon outlay, which is it’s so useful for society,” said Carter by phone. “The focus should be on making the grid greener in the aggregate, not trying to take a line-item veto and say this specific usage of society’s energy is illegitimate.”

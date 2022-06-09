@@ -1,0 +1,35 @@
+Which of the following two statements bests describes bitcoin mining in China:
+
+My question goes to the heart of one of bitcoin’s BTCUSD, -0.10% fundamental weaknesses. As you can see from the chart below, two-thirds of the world’s bitcoin mining power is based in China, which is a huge potential vulnerability for the cryptocurrency.
+
+That’s because China potentially could mount what’s known as a majority attack, or a 51% attack, which would sabotage bitcoin’s integrity and possibly cause its price to plunge. As acknowledged on the bitcoin Wiki: “Bitcoin’s security model relies on no single coalition of miners controlling more than half the mining power.”
+
+While Bitcoin has not suffered a 51% attack, that doesn’t mean it couldn’t happen. Such attacks have not infrequently taken place with other cryptocurrencies, according to the MIT Media Lab’s Digital Currency Initiative. One of the biggest occurred in May 2018 with a cryptocurrency known as bitcoin gold, in which $72 million was stolen.
+
+The standard comeback is that bitcoin is so large that a 51% attack would be prohibitively expensive. But, according to Eric Budish, a professor of economics at the University of Chicago, state actors could have a geopolitical or financial terrorism incentive to sabotage bitcoin — in which case the cost of an attack might be acceptable.
+
+A matter of trust
+
+In truth, no one knows whether China could sabotage the bitcoin blockchain. Bitcoin holders just have to trust that they couldn’t or they wouldn’t. There is much irony in this, since bitcoin supporters rally around the cryptocurrency’s alleged foundation on anonymous and decentralized trust. How is believing that China couldn’t or wouldn’t sabotage bitcoin different from trusting the Federal Reserve not to debase the U.S. dollar DXY, +0.01% ?
+
+It hardly seems as though bitcoin has really solved the trust problem that fiat currencies infamously face. Trust in China is but one of the ways in which bitcoin’s champions haven’t really sidestepped the trust problem plaguing fiat currencies.
+
+Most bitcoin transactions occur through exchanges, such as Binance, Huobi Global and Coinbase Global COIN, +6.78% . Such trading inherently relies on trusting those exchanges to do what they say they will. How is that different from trading with Bank of America or Goldman Sachs?
+
+Many, perhaps a majority, of those who trade bitcoin don’t truly understand the technical details of how it operates. They therefore are relying on little more than blind trust that bitcoin will work as advertised.
+
+Don’t be too sure that you are one of the few who understands bitcoin’s inner workings. I was quite taken in this regard by a comment made earlier this week by Joachim Klement, a trustee of the CFA Institute Research Foundation and the former head of the UBS Wealth Management Strategic Research team and head of equity strategy for UBS Wealth Management.
+
+Klement has degrees in theoretical and particle physics, mathematics, economics and finance. And yet, he wrote to clients, “Whenever I try to understand cryptocurrencies I am at a loss. Either, I manage to translate the jargon into something in plain English at which point I often end up with trivial conclusions, or I am unable to translate the jargon and technical terms into something that makes sense.”
+
+Claude Erb, a former commodities portfolio manager at TCW Group, draws a parallel between religious conviction and the trust and faith of bitcoin’s devotees. After all, he pointed out in an interview, no one has actually seen the bitcoin blockchain, and yet we have faith that it is all-knowing and benevolent. “Is that all that different from a belief in a ‘crypto God,'” he asks? “There are many leaps of faith required.” Erb likens bitcoin’s huge popularity to an “explosion in trust in a financial God, who may just be the man behind the curtain.”
+
+Pointing out bitcoin user’s reliance on trust doesn’t mean that fiat currencies don’t also suffer from profound flaws. They do. Similarly, there are huge trust issues with banks and other financial institutions, as we abundantly saw in the Great Financial Crisis.
+
+My point instead is that trust is required whether you use the traditional financial system or cryptocurrency. Be my guest if you want to use bitcoin. But please don’t claim that it doesn’t require as much blind trust as using the U.S. dollar, a bank or an investment firm.
+
+Mark Hulbert is a regular contributor to MarketWatch. His Hulbert Ratings tracks investment newsletters that pay a flat fee to be audited. He can be reached at mark@hulbertratings.com
+
+Also read: Should you buy Coinbase? The valuation is ridiculous, based on this math
+
+Plus: Bitcoin, GameStop and NIO bets turned this flight attendant into a millionaire: Now he’s wagering it all in one final push to $3 million

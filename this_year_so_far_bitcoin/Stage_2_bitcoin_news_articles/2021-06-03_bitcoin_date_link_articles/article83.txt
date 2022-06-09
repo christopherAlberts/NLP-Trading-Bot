@@ -1,0 +1,33 @@
+ECB: Digital Euro to Boost Global Appeal of European Money, Fight ‘Artificial Currencies’
+
+The digitization of traditional currencies like the euro has the potential to increase their international appeal, the European Central Bank says in a new report. A failure to offer a digital currency would endanger financial stability, ECB warns. The regulator is concerned about the prospect of tech giants dominating payments through their “artificial currencies.”
+
+Eurozone’s Central Bank Reviews Role of Euro in Light of CBDC Project
+
+The global appeal of fiat currencies depends on economic fundamentals, but some characteristics of digital money could promote their adoption beyond the issuing jurisdiction, the European Central Bank (ECB) has noted in a recent review of the international role of the euro. Specific design features can also incentivize non-residents to use a digital euro as a means of payment, unit of account and store of value, the regulator says.
+
+Safety is a key feature, the bank points out, as a central bank digital currency (CBDC) would be a claim on the balance sheet of the issuer and could mitigate the risks associated with traditional cross-border transactions that involve correspondent banking.
+
+A CBDC would also bring lower transaction costs, expanding access to payment services and lowering mark-ups of intermediaries. Remittance transfers, for example, could become more efficient.
+
+The central bank of the Eurozone believes that a CBDC could also partially or fully act as a substitute for unstable national currencies in countries with weak economies, becoming a local means of payment, a savings vehicle, and ultimately the unit of account. A digital currency would facilitate the use of electronic invoices, receipts, identities, and signatures. End-users could benefit from access to products competing with those offered by big tech companies.
+
+ECB Worried About Foreign Tech Giants Dominating Payments
+
+The European Central Bank emphasizes that a CBDC would help to maintain the autonomy of domestic payment systems. A failure on the part of a central bank to offer a digital currency, on the other hand, would entail risks to the stability of the financial system. The authors of the CBDC section of the report, Massimo Ferrari and Arnaud Mehl, warn:
+
+One concern could be a situation in which domestic and cross-border payments are dominated by non-domestic providers, including foreign tech giants potentially offering artificial currencies in the future.
+
+Companies like the global social media platform Facebook have been working to develop their own native currencies, the popularity of which could quickly increase due to their large customer base. According to the economists, “Not only could this threaten the stability of the financial system, but individuals and merchants alike would be vulnerable to a small number of dominant providers with strong market power.” Ferrari and Mehl think that the “ability of central banks to fulfill their monetary policy mandate and role as lender of last resort would be affected.”
+
+The study, which was published Wednesday, also explores alternative design choices for a digital currency, noting that specific features would determine the global outreach and the international role of the currency in which a CBDC is denominated. Among these features are interoperability with non-domestic payment systems, restrictions on use by non-residents, user anonymity, and the underlying mechanism for online as well as offline transfers and settlements.
+
+“A digital euro could contribute to strengthening the global appeal of the euro, but would not change the fundamental forces that define international currency status” such as stable fundamentals, size of the issuing economy, and liquidity of financial markets, the report concludes, noting the importance of cooperation with other central banks in the G20 format.
+
+The ECB is yet to initiate a digital euro project. Officials have previously indicated that the Governing Council’s decision is to be expected around mid-2021. Dozens of nations are already working to issue CBDCs, including China, the U.S. and Russia.
+
+What’s your opinion about central bank digital currencies? Share your thoughts on the subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

@@ -1,0 +1,57 @@
+Although they may seem threatening, bans on Bitcoin have never worked and will continue to be circumvented by the network.
+
+Worried About A Ban? Then You Need Bitcoin More Than You Think
+
+Skeptics often argue that governments will ban Bitcoin when it becomes too important and threatens national sovereignty. At least these critics understand Bitcoin’s importance and the power that state currency monopolies exert over us. What they fail to understand is the power of distributed open-source technologies and the game theory faced by governments when making these decisions. TLDR: Bans are ineffective—they merely cede global technological power to peers. Authoritarian governments are more inclined to attempt regressive regulations. If you live under that type of regime, you need Bitcoin more than you think.
+
+You Cannot Ban Bitcoin—You Can Only Ban Yourself From Bitcoin
+
+Self-regulation is the most important component of distributed open-source technologies like Bitcoin. The bitcoin supply is preprogrammed with a hard limit of 21 million units, blocks are mined every 10 minutes on average, miners are rewarded with new bitcoin, supply growth halves every 4 years, anyone can view and validate transactions by running a node, and no one can be censored from the network if they have internet access and abide by the consensus rules. These principles remain intact no matter what you, I or regulators think. A government can attempt to ban its citizens from using the network, but Bitcoin will continue to run on the internet. The Securities Exchange Commission’s Hester Peirce made this point recently when she concluded that “governments would be foolish to ban Bitcoin.”
+
+Bans Are Ineffective And Potentially Impossible
+
+Even if a government were to ban bitcoin, it would be ineffective. The U.S. government banned alcohol under Prohibition, but liquor was widely available during that time. Bitcoin is not even a physical entity, so how do governments intend to seize it? It is excruciatingly difficult to ban people from using code on the internet. Ask China—they tried to ban Facebook, but Chinese still access Facebook via VPNs. There are even question marks about the legality of any potential Bitcoin ban in the U.S. because bitcoin is ultimately code, which could be a protected category of free speech under the First Amendment.
+
+Global Regulatory Competition Raises The Stakes
+
+A Bitcoin ban would be foolish and ineffective, but governments could certainly increase the barriers to entry and increase friction. Regulators can implement know-your-customer and anti-money laundering requirements or raise taxes, which would likely slow adoption. However, it is difficult to believe that governments could execute remarkably stricter policies on Bitcoin relative to other financial assets. Although governments have previously overstepped the boundaries with , there is little precedent for being able to do so, nor incentive, with bitcoin. Furthermore, if they did, would they be willing to bear the consequences? Do the world’s leading powers want to turn away from this powerful technology when others embrace it? Republican policymaker Kevin McCarthy commented on this geopolitical tradeoff in a recent interview:
+
+U.S. policymakers are concerned about the possibility of ceding the initiative to China. This type of regulatory competition has pushed Miami Mayor Francis Suarez to embrace bitcoin as he encourages tech-savvy capital to his city.
+
+Perhaps positive bitcoin regulation is just as likely as negative regulation?
+
+Coordination Is Unlikely In A Multipolar World
+
+A ban would be more impactful if all countries were to coordinate and implement it simultaneously. However, what is the probability of global coordination in the fractious world of geopolitics? The U.K. is too busy arguing with the EU and the U.S. bickering with China for them all to clamp down simultaneously on bitcoin. Marko Papic’s multipolar worldview that he outlined in his recent book “Geopolitical Alpha” strengthened my conviction that the geopolitical conditions that would be necessary for a globally coordinated clampdown on Bitcoin do not exist.
+
+Regulators Are Warming To The Tech
+
+Turning from macro to micro factors, are governments willing to destroy Bitcoin companies within their own borders? If we think about the jobs at Coinbase, Gemini and other companies, we realize that Bitcoin is becoming entrenched, particularly in the world’s largest economy. Exchanges exist in most countries worldwide, corporations hold bitcoin on their balance sheets, the Chicago Mercantile Exchange offers bitcoin futures, and people in the U.S. Congress are outright supporters of BTC. In recent weeks, ex-U.S. regulators have joined both Binance and BlockFi, which highlights a growing relationship between Bitcoin-related businesses and the government. There is a high probability that many politicians hold Bitcoin themselves.
+
+I suspect that bitcoin holders have a stronger, more organized and vocal lobbying group than their opponents.
+
+Millennials Might Demand Financial Empowerment
+
+Most countries have adopted a wait-and-see approach because they do not know exactly how to approach Bitcoin technology. They hope that innovation, jobs, and economic growth will emerge, and they argue that the industry is too small to present a real threat. But the longer they wait, the more entrenched the industry becomes, and the less likely negative regulation is. This factor becomes more meaningful if one considers millennials’ rise to economic and political prominence.
+
+The Fall 2020 BlockChain Capital survey reveals 55% of Millennials will likely purchase bitcoin in the next 5 years vs. only 19% for the 55-64 age category. Millennialsare three times more likely to hold cryptocurrency than their parents because they are more familiar with new technologies, and are comfortable with intangible assets and probably view the asset as their opportunity to create a sounder financial future. With each passing year, this generation moves closer to the seat of political power. At the very least, they become a consideration of vote-hungry politicians.
+
+BlockChain Capital
+
+Perhaps You Need Bitcoin More Than You Think?
+
+Ineffective, yes; unlikely, yes; however, a bitcoin ban is still possible.
+
+Governments that ban new technologies tend to take on a certain character though. Such governments aretend to be more authoritarian and less supportive of individual liberties, like those of China and Venezuela. It is in these countries where people need Bitcoin the most. Venezuelans do not care what the government says—they need bitcoin to protect themselves from hyperinflation. Afghanis and Belarusians need access to digital bank accounts to liberate themselves from their oppressive governments. Turkey and Nigeria are both great recent examples of places where Bitcoin becomes a need and a must. In the past month, Erdogan’s Turkish government announced measures to stop merchants from accepting bitcoin, and Nigeria clamped down on exchanges. In response, interest in Bitcoin has shot through the roof in both countries.
+
+Turkey and Nigeria were already bitcoin hotspots because people in those countries know that their government does not protect the value of currency (the U.S. dollar has gained 450% and 170% against the Turkish lira and Nigerian naira, respectively, since 2010). It is telling that these government measures to control bitcoin have not dampened interest in it.
+
+
+
+
+
+The moral of the story is that if you think your government is going to ban bitcoin, then you need it more than you think.
+
+At some point, governments might become threatened by the Bitcoin ecosystem. It is understandable that the possibility of looming regulation is a barrier for potential investors. However, if we dig into the potential scenarios, we figure out that the government’s, and your, most effective responses to Bitcoin are the same: to embrace it. In this scenario, the governments can at least attempttry to extract as much tax revenue from the burgeoning industry as possible. Unless governments can muster renewed global coordination, bans are foolish. Only the most regressive governments will prevent their citizens from interacting with this powerful technology, and people’s need for Bitcoin is the strongest in those countries. Each individual needs to decide where they sit on this spectrum, but do not take too long to make your decision. The stakes are too high and the opportunity too great to allow the regulatory threat to prevent action altogether.
+
+This is a guest post by Rob Price. Opinions expressed are entirely their own and do not necessarily reflect those of BTC, Inc. or Bitcoin Magazine.

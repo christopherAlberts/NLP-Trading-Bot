@@ -1,0 +1,87 @@
+A bearish tweet from Elon Musk wiped out some long positions, providing some market uncertainty on direction heading into the weekend.
+
+Bitcoin (BTC) trading around $36,826 as of 21:00 UTC (4 p.m. ET). Losing 4.4% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $35,814-$39,211 (CoinDesk 20)
+
+Ether (ETH) trading around $2,684 as of 21:00 UTC (4 p.m. ET). In the red 3.8% over the previous 24 hours.
+
+Ether’s 24-hour range: $2,566-$2,866 (CoinDesk 20)
+
+Bitcoin affected by Musk, again
+
+Bitcoin’s hourly price chart on Bitstamp since June 1. Source: TradingView
+
+Bitcoin, the world’s largest cryptocurrency by market capitalization, was down Friday by 4.4% as of press time. It was near the 10-hour moving average and below the 50-hour, a sideways-to-bearish signal for market technicians.
+
+BTC’s price plunged from $39,211 at 00:00 UTC (8:00 p.m. ET Thursday) to $35,814 by 15:15 UTC (8:15 a.m. ET) Friday, an 8.6% dump based on CoinDesk 20 data. Bitcoin then recovered somewhat, at $36,826 as of press time.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Tesla CEO and amatuer crypto commentator Elon Musk once again was a catalyst for BTC’s market fall after he tweeted a perplexing meme suggesting some sort of breakup with the cryptocurrency.
+
+“The market movement post-Musk’s tweets continues to show how nascent this asset class is,” said Kevin Kang, co-founder of crypto hedge fund BKCoin Capital. “A lot of new retail investors tend to panic-sell post-Musk tweets.”
+
+It’s hard to predict where the market will go into the weekend, according to Andrew Tu, an executive at quant trading fund Efficient Frontier.
+
+“Hard to say where we go – fundamentally there are tons of funds and interest from traditional finance in crypto now,” Tu said. “At the same time a lot of this is still retail speculation, and there definitely is still a bubble that hasn’t popped yet.”
+
+Read More: Jack Dorsey Says Square Considering Developing a Bitcoin Hardware Wallet
+
+Leverage plays role in bitcoin price plunge
+
+Bitcoin liquidations, in aggregate, the past week. Source: Skew
+
+As the price of BTC was falling the past 24 hours, leveraged traders going long were wiped out, causing the price dump to exacerbate. At 00:00 UTC (8:00 p.m. ET Thursday), as crypto started seeing heavy selling, leveraged bulls saw their positions liquidated, the blockchain equivalent of a margin call. This included over $66 million in liquidations from 04:00-07:59 UTC (12:00-3:59 a.m. ET), a week-high.
+
+“We’ve seen today that investors are willing to leverage their positions,” said Elie Le Rest, partner at quant fund ExoAlpha.
+
+BKCoin Capital’s Kang appears hopeful that as more big-time investors enter the space, a tweet from Musk might some day not mean a cascading crypto fall.
+
+“As more institutional investors come into the space, we expect Musk’s tweets to affect the market less and less, but we are far from that point at the moment,” said Kang.
+
+Ether and bitcoin correlation holding
+
+Ether’s hourly price chart on Bitstamp since June 1. Source: TradingView
+
+The second-largest cryptocurrency by market capitalization, ether, was trading around $2,684 as of 21:00 UTC (4:00 p.m. ET), slipping 3.8% over the prior 24 hours. The asset is above the 10-hour moving average but below the 50-hour a sideways signal for market technicians.
+
+Ether fell from $2,866 at 01:45 UTC (7:45 p.m. ET Thursday) to $2,566 by 15:30 UTC (8:30 a.m. ET) Friday, a 10.4% slide based on CoinDesk 20 data. ETH has regained some of that, at $2,684 as of press time.
+
+Over the past month, ether’s 90-day correlation with bitcoin has been above 0.70; the rate has held remarkably steady, hovering around that level and at 0.76 as of press time. A correlation coefficient of 1.0 means assets are working perfectly in tandem, while 0 means not at all.
+
+Bitcoin and ether’s 90-day correlation the past month. Source: CoinDesk Indexes
+
+It is common for cryptocurrencies to move in tandem during less-than-bullish conditions, noted Efficient Frontier’s Tu. “Most of crypto has become correlated,” he told CoinDesk.
+
+ETH’s big differentiator – its role in decentralized finance (DeFi) – has deflated somewhat, said Jean-Marc Bonnefous, managing partner of investment fund Tellurian Capital.
+
+“I guess we are now in a lower volatility phase after the doge-like buying frenzy and also after the recent wave of liquidations and margin calls on ERC-20 collateral last month,” Bonnefous said.
+
+Ether gas prices rising again
+
+Costs for various transactions on Ethereum. Source: Dune Analytics
+
+After median gas prices on Ethereum dropped to a three-month low of 24 gwei May 30, the rate has been rebounding. According to data aggregator Dune Analytics, gas, which is required to conduct transactions, is now at a median of 29 gwei as of press time. Gwei is the smallest unit of account on Ethereum, worth 0.000000001 ETH.
+
+“The cost of gas fluctuates with the supply and demand for processing power,” noted Constantin Kogan, a crypto investor and co-founder at BullPerks. “Right now, with a short dip, activity on the network declined hence the fees went down.”
+
+Rich Rosenblum, co-founder of crypto market maker GSR, told CoinDesk the lack of market opportunities in DeFi is what’s causing network activity on Ethereum to fall.
+
+“DeFi is less profitable when governance tokens aren’t rallying,” Rosenblum said.
+
+Other markets
+
+Digital assets on the CoinDesk 20 are mostly red Friday. Notable winners as of 21:00 UTC (4:00 p.m. ET):
+
+Notable losers:
+
+Equities:
+
+The S&P 500 in the United States gained 0.90% as investors exuded confidence in the economy based on a positive jobs report released Thursday.
+
+Commodities:
+
+Gold was in the green 1.1% and at $1,891 as of press time.
+
+Treasurys:

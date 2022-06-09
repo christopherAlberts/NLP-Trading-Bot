@@ -1,0 +1,115 @@
+If you bought a single bitcoin for $1,000 in February 2017 and sold it four years later, you’d pocket around $50,000.
+
+But, if you lived in Hawai‘i, you probably didn’t buy Bitcoin after February 2017. That month, the digital currency exchange Coinbase ceased operations in Hawai‘i, blaming over-regulation. Local residents were given 30 days to transfer or sell their digital currency and close their accounts.
+
+Since then, digital currency exchanges have struggled to operate in Hawai‘i, but a pilot program started in 2020 opened the door for their return. The Digital Currency Innovation Lab, a joint project of the Hawai‘i Division of Financial Institutions and the Hawaii Technology Development Corp., is a novel approach to regulation. It’s a “regulatory sandbox,” with state regulators working closely with a select group of companies and gathering data to inform decisions about how to regulate the industry moving forward.
+
+This is a story about how a single state worker helped pave the way for innovation in the face of legislative inaction – and about the potential future of digital currency and blockchain technology in the Islands.
+
+Coinbase Leave Just Before the Surge
+
+Juan Suarez, a member of Coinbase’s legal team, says the company’s operations were hamstrung by the Hawai‘i Division of Financial Institutions, which required Coinbase “to maintain cash reserves (or similar liquid assets referred to as ‘permissible investments’) in an amount equal to the aggregate face value of digital currency funds held on behalf of customers.”
+
+Suarez didn’t mince words in a February 2017 statement, claiming that the 2021 dollar-collateral policy would do nothing to protect customer funds. Instead, he claimed, “compliance with this policy would siphon millions of dollars away from critical operations, recruitment and retention of expert staff, and constant reinvestment in the business necessary to guarantee the security of customer digital currency.”
+
+The price of a single Bitcoin surged in 2017, peaking at $19,000 in December. Since then, the price has dramatically fallen and risen many times, with a huge rally in late 2020, as mainstream businesses and financial institutions invested in the currency and began accepting it as tender. PayPal announced a new service enabling users to buy, hold and sell cryptocurrency, with Hawai‘i the only state excluded from this service. The price peaked at $61,080 on March 13, 2021, but is a few thousand dollars below that at this writing.
+
+Coinbase remains one of the largest digital currency exchanges in the U.S. by trading volume, and some analysts expect a near-$100 billion valuation when the company goes public. Coinbase still doesn’t operate in Hawai‘i, though regulators in the Islands are slowly opening the door for digital currency exchanges to operate here.
+
+The Crypto Czar
+
+Today, the fate of cryptocurrency in Hawai‘i depends on one woman. As commissioner of financial institutions in the Department of Commerce and Consumer Affairs, Iris Ikeda has considerable authority over the regulation of digital currency exchanges. In part, this is because there are no state laws designed to govern the exchanges, which proliferated following the invention of Bitcoin in 2008.
+
+Ikeda was appointed to her position by then-Gov. Neil Abercrombie in 2011. Immediately prior to her appointment, she was associate counsel for American Savings Bank, and had previously worked for Finance Factors and Ohana Pacific Bank. Ikeda says that when she was appointed, she was the first commissioner with a banking background in over 20 years. Her appointment pleased bankers, she says, because she understands bank-ing and the challenges that banks face.
+
+She was also no stranger to government. Her resume included stints as a researcher for then-Lt. Gov. Mazie Hirono and as a senior aide to Honolulu City Council member Andy Mirikitani. She also had held temporary positions for the state Department of Labor and Industrial Relations and the state Department of Commerce and Consumer Affairs. And she even served one term in the state House of Representatives, representing District 47 (Kane‘ohe to Kah-alu‘u) from 1998 to 2000 after beating Charles Djou by 190 votes. In the 2000 election, Djou defeated Ikeda.
+
+Ikeda says her primary aim as com-missioner has been to modernize the way the state interacts with financial institutions. She spent her first two years moving the Division of Financial Institutions from paper-based application processing to electronic processing, equipping her staff with laptops and Wi-Fi to increase mobility. Now, DFI uses artificial intelligence to help process licensing applications. And before COVID-19, DFI was already meeting with licensees using web conferencing services such as Zoom and Microsoft Teams. Many financial institutions are based on the Mainland, and Ikeda says that by handling meetings and examinations online, she is able to reduce expenses and save them time.
+
+In February 2014, Abercrombie, then-DCCA chief Keali‘i Lopez and Ikeda issued a press release following the collapse of Mt. Gox, a Tokyo-based cryptocurrency exchange. Mt. Gox filed for bankruptcy protection after losing $450 million in Bitcoin: It remains uncertain how much was stolen by hackers and how much was lost due to poor accounting. The press release warned that “no company is licensed to transmit bitcoin in Hawai‘i” and that losses related to cryptocurrency are not insured by the FDIC. Ikeda says this was the first time the state took a public position on digital currency exchanges.
+
+The decision to regulate digital currency exchanges as money transmitters required their compliance with the cash reserve requirements that eventually pushed Coinbase out of the state. The departure of major exchanges left Hawai‘i residents with limited options for investing in cryptocurrency, and it discouraged blockchain and digital currency companies from operating in the state.
+
+Ikeda’s End Run
+
+“Since about 2017, I’ve been ideas at the Legislature to supervise or not supervise digital currency transactions under our money transmission statutes,” says Ikeda. There are two paths, she says. One is to pass a law exempting digital currency exchanges from the provisions that govern money transmitters. This would make her job a lot easier, Ikeda says. Another path is to define exactly how digital currency exchanges should be regulated, a more complex undertaking.
+
+In the 2017 state legislative session, then-Rep. Chris Lee introduced House Bill 1481, a proposal to establish a Blockchain Technology and Digital Currency Working Group. His bill was the only measure related to digital currency introduced that session. The bill suggested that “highly innovative technologies such as blockchain require an educated and measured approach so that regulations do not stymie innovation and growth.” The bill crossed over to the Senate and was referred to the Ways and Means Committee, where it died.
+
+The 2018 legislative session was the 2021 high-water mark for efforts to regulate digital currency. House Bill 1481 was carried over to the 2018 session, but it died in Ways and Means again. Companion bills were submitted in the House and Senate, and they survived crossover but died in conference committee. Two other pieces of cryptocurrency legislation didn’t survive either.
+
+Three measures were introduced in 2019, but none received committee hearings. When the Legislature failed to pursue either of the paths Ikeda had laid out, she set out on her own in 2019 to study whether and how to regulate digital currency exchanges.
+
+“Using 489D, the money transmitter statutes, and Chapter 412, the banking statutes, I was able to convince the attorney general’s office that I had enough authority to do this pilot program,” says Ikeda. “Then I had to look for a partner.”
+
+The Digital Currency Innovation Lab
+
+Ikeda reached out to Mike McCartney director of the Department of Business, Economic Development & Tourism. McCartney introduced Ikeda to Len Higashi, acting director of the Hawaii Technology Development Corp. Higashi says he immediately saw a parallel between the Entrepreneurs Sandbox that HTDC runs in Kaka‘ako and the regulatory sandbox that Ikeda was proposing.
+
+“In software terms, a sandbox is a place where you do your trial experiments. It’s OK if you mess up because it’s not live yet,” he says. “We were blown away that this type of innovative thinking would come out of the regulatory body of the state because the state has a bad reputation of moving real slow.”
+
+The HTDC board agreed to partner with DFI in 2019, and together they began planning the Digital Currency Innovation Lab. Participating companies would complete an application similar to the one for money transmitters, and DFI would vet them. In exchange for the companies providing data to DFI and complying with the terms of the program, DFI would “allow the admitted digital currency issuers to conduct business in Hawai‘i without first obtaining a state money transmitter license.” Basically, DFI agreed to take “no action” in enforcing the existing statutes, specifically relaxing the “permissible investments” requirement for cohort participants.
+
+The program was announced in March 2020, and the first cohort of 12 participating companies was announced in August 2020: Apex Crypto, bitFlyer USA, BlockFi Trading, CEX.IO, Cloud Nalu, Coinme, ErisX, Flexa Network, Gemini Trust Co., Novi Financial, River Financial and Robinhood Crypto.
+
+Of the twelve companies in the first cohort, one was not listed among those which completed the program: Robinhood Crypto. In our interview, Ikeda would not refer to Robinhood Crypto by name. Instead, she said that participating companies agreed to report certain data. Companies that did not send the required reports were removed from the program, she said, but only after multiple warnings and opportunities to comply with the reporting requirements.
+
+Applications for the second cohort of the Digital Currency Innovation Lab opened in January 2021, and the structure of the program remains the same, with DFI issuing a “no action message” and agreeing to “not take any action against these companies.” The new cohort will be able “to conduct business in Hawai‘i without the need to obtain a state money transmitter license through June 30, 2022,” just shy of the election to replace Gov. David Ige, who is limited to two four-year terms.
+
+The commissioner of financial institutions is appointed by the governor, and a future governor could replace Ikeda or ask her to stop the pilot program. I asked Ikeda whether it’s accurate to say that the governor and DFI commissioner control the future of digital currency in Hawai‘i. “Right,” she says, but “not by choice. That’s why we’re doing this pilot program.”
+
+Ikeda says she’s trying to gather information for the Legislature, so next year, legislators can make informed decisions about whether and how to regulate digital currency companies.
+
+“I see my role as an innovator, trying to get in front of or at least alongside of the different innovations,” says Ikeda. In the Division of Financial Institutions, she says, “We act like a business. If we think that something is not right, we try to work and fix it.”
+
+In March 2021, after our interview with Ikeda, state Rep. Patrick Branco of District 50 (Kailua to Kāne‘ohe Bay), introduced a resolution (HR94) requesting that DCCA reconsider the asset reserve requirements for digital currency companies after the Digital Currency Innovation Lab concludes its study. The resolution was adopted in the state House and, as of this writing, was being considered in the state Senate (HCR118).
+
+Government by Blockchain
+
+Lee now serves in the state senate and is still concerned with the questions that motivated him to propose the Blockchain Technology and Digital Currency Working Group four years ago as a member of the state House of Representatives.
+
+“How can we as a state and a society really empower folks in the private sector to make use of this in a way that’s meaningful and safe?” he asks.
+
+Lee sees blockchain technology as playing a crucial role in the provision of government services. The ability to secure transactions through blockchain has obvious applications in voting, land transactions and banking, he says. The question is how to update our state’s regulatory framework to allow for the adoption and use of blockchain and digital currency.
+
+Hawai‘i is in a position to learn from national and international leaders in regulation, says Lee. He participates in a group of legislators from all 50 states that discusses these issues online. Lee observes that in some cases, legislatures have had to update laws regulating digital currency every legislative session. “Because state legislatures typically meet once a year, (lawmaking is) just not an effective tool to keep up the pace with something that is evolving on a month to month, weekly or even daily basis.
+
+“We want to set up a basic legal framework that ensures protections for local residents so that the investments and the transactions they make have a sound basis,” he says. “Beyond that, we want our departments and private sector to be able to move far more rapidly.
+
+“We don’t have the statutory framework that we need,” Lee admits. “We’re still trying to figure out what that’s going to look like.”
+
+Globally, Lee says, Estonia is held up as an example of how government can provide online digital services secured by blockchain. In that small European nation, blockchain is used to secure the country’s health care registry, property registry, business registry, succession registry, digital court system and state gazette. Each citizen has a state-issued digital identity that allows them to access government services. Advocates for digital government services say blockchain security reduces personnel costs, improves reliability and increases efficiency.
+
+“People (in Estonia) have greater faith in government and better quality of life,” Lee says. And he predicts that, within five to 10 years, blockchain technology will radically improve the way that public services are provided in Hawai‘i.“This is part of our future whether we want to acknowledge that or not,” he says. “We’re all better off acknowledging it, preparing for it and making sure that everybody else is aware of what’s going on and can take advantage as well.”
+
+Crypto’s Promise
+
+Efforts are ongoing to educate the public on the promise of blockchain and digital currency. Though Bitcoin and NFTs (see sidebar) have made headlines recently, the potential of blockchain remains untapped.
+
+“We understand fiat currency very well,” says Ellen Ng, an economic development specialist with the HTDC, referring to government-issued currencies like the U.S. dollar, Japanese yen and British pound. “But we don’t really understand what cryptocurrency is capable of.”
+
+Ng says that HTDC is trying to educate consumers with the goal of demystifying cryptocurrency and showing its practical applications.
+
+She says that participants in the Digital Currency Innovation Lab have told her that they haven’t heard of many other state agencies being willing to partner with them in the way that DFI and HTDC have. “I think we’re pretty far out in terms of being innovative in this space,” she says.
+
+Higashi concurs, noting that despite Hawai‘i’s late start with digital currency, we have the opportunity to become a leader. “We started this knowing we have to crawl before we walk,” he says. “We’re trying to jump from behind to the front, and I think that with the lab, we’re able to do that.”
+
+Blockchain’s Many Uses
+
+A blockchain is a decentralized digital ledger. Each new ledger entry is a “block” added to the end of the chain which records previous entries.
+
+In the case of Bitcoin, a decentralized network of blockchain “miners” validates new blocks. When a user wants to send bitcoin, their request is broadcast to the network of miners. Miners compete for the right to record the transaction in a new block, using high-powered computers to solve a complex math problem. (This video offers an explanation: tinyurl.com/bcexplain.) The first miner to solve the problem earns the right to add a block to the chain and is paid in Bitcoin for their effort. The remaining miners verify that the first miner’s answer is correct and update their copies of the blockchain accordingly.
+
+The blockchain technology that underpins Bitcoin has many applications. Here are a few:
+
+Transferring currency: The most widely known application of blockchain is to secure electronic payment systems without a financial institution serving as a trusted third party. Bitcoin, for example, uses cryptographic proof in place of trust between parties or a trusted intermediary. Digital currency transfer fees can be less expensive than those of traditional money transmitters like Western Union, and transfers are instantaneous. Currency can be accessed by anyone with an internet connection, which is useful for the 1.7 billion “unbanked” people worldwide (but also for criminals).
+
+Smart (or self-executing) contracts: Legal contracts can be converted to code and embedded within the blockchain, allowing transactions without a middleman. This is one of the key features of Ethereum, a cryptocurrency released in 2015.
+
+Decentralized autonomous organizations (DAQs): An organization can be run according to rules encoded in the blockchain. Theoretically, an organization could be run without human managers and without interacting with any physical-space financial institutions.
+
+Initial coin offering (ICO): Companies can offer blockchain-secured digital tokens to investors for fundraising purposes. Tokens can be redeemed for dividends or other services. ICO serves as an alternative to initial public offerings or secondary market offerings.
+
+Non-fungible tokens (NFTs): By linking a unique token to a digital artifact, NFTs allow for the creation of digital collectibles. Though digital collectibles can be copied, the blockchain permits only one person to hold the token that signals legitimate ownership. CryptoKitties, a game that allows users to buy and sell cartoon cats, was an early demonstration. A one-of-a-kind cat called “Dragon” was sold for 600 ETH (about $170,000) in September 2018. In March 2021, Twitter CEO Jack Dorsey auctioned off the first tweet, with bids quickly rising to $2.5 million. A video clip of LeBron James dunking a basketball was auctioned for more than $200,000 that same month. Though anyone can watch the dunk on YouTube, only its owner can prove ownership.
+
+Government services: In Estonia, blockchain is used to secure the country’s health care registry, property registry, business registry, succession registry, digital court system and state gazette. Each citizen has a state-issued digital identity that allows them to access government services.

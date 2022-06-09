@@ -1,0 +1,69 @@
+Bitcoin has made a lot of headlines recently.
+
+Its price hit an all-time high in early January, settling around $35,000 as of this writing. The same month, the New York Times reported that about $140 billion worth of Bitcoin may be permanently stuck in the locked digital wallets of ultra-rich investors who can’t remember their passwords.
+
+These events highlight the nature, and volatility, of the cryptocurrency market.
+
+Bitcoin is most frequently purchased on a cryptocurrency exchange like Coinbase, and can be used to pay for everything from futons on Overstock.com to hotel stays on Expedia.com, or traded it in for U.S. dollars or other cryptos.
+
+But unlike traditional currencies like the U.S. dollar, Bitcoin isn’t backed by the government. Experts link its value to short-term drivers like demand and how willing investors are to take a risk.
+
+“It’s popular because it’s gone up, and people have made money,” says John Griffin, professor of finance at the University of Texas McCombs School of Business. “Anytime something increases in value, it gains friends.”
+
+Still, experts like Griffin say, there’s a laundry list of questions investors should look into before shelling out for bitcoin. Here are the big ones.
+
+Is buying Bitcoin safe?
+
+Cryptocurrency is a highly speculative investment. And while Bitcoin is one of the more stable options, it’s still much more volatile than equities and mutual funds.
+
+“If you buy any type of cryptocurrency, you need to be prepared to lose your shirt,” says Ari Juels, professor at Cornell Tech and co-director of the Initiative for CryptoCurrencies and Contracts.
+
+Buying from well-established, reputable exchanges like Coinbase, Gemini and Robinhood is the safest bet. But each has its own sets of rules and limitations, says Mike Dudas, founder of the cryptocurrency media and research site The Block. With Robinhood, you can only buy or sell bitcoins — you can’t transfer it to another person, or use it to pay for items on websites that accept bitcoin. Cash App, on the other hand, lets you buy, sell, trade, and spend bitcoins at your discretion.
+
+Once you own bitcoins, you can also hold onto it indefinitely in the bitcoin exchange you purchased it on, which Dudas says is what many beginners do — though that’s not the safest option. Bitcoin that sits just sits in a digital wallet could be vulnerable to cybertheft, or lost if the exchange ever gets shut down.
+
+One option is a self-custody wallet, where investors hold a private “key,” or secret passcode that allows them to access their bitcoins securely. But Juels says this system requires vigilance and some technical know-how. And if you lose your key, he says, you lose your investment.
+
+Is Bitcoin safe from hackers?
+
+Bitcoin isn’t hack-proof. In 2019, Binance, one of the largest cryptocurrency exchanges in the world, was attacked by cybercriminals who stole $40 million worth of bitcoin. Other high-profile hacking incidents have plagued Liquid, KuCoin and other exchanges.
+
+Your bitcoin stash may be especially vulnerable to a hack if you leave it sitting in a digital wallet, Dudas says. Self-custody can help here, too, whether that’s a hardware storage drive or an offline software program (AKA, a “paper wallet”). Institutional investment companies like Goldman Sachs, Citi and JPMorgan Chase are looking into offering digital asset custody services as an alternative.
+
+Another Bitcoin threat lies in its connection to criminal activity — which has given rise to a surge in ransomware; a type of malicious software hackers use to block access to systems or data until a ransom is paid. (In this case, the ransom requested is usually in bitcoins).
+
+“The vast majority of Bitcoin use is not criminal in nature,” Cornell’s Juels says. “But Bitcoin has really fueled the rise of ransomware.”
+
+Is Coinbase safe?
+
+Coinbase is the most widely used cryptocurrency exchange in the U.S. According to the company, it has more than 43 million users worldwide, who have traded more than $455 billion on the platform.
+
+Like other exchanges, Coinbase users have been victims of hacking.
+
+Since cryptocurrencies are still so new for most people, Juels urges caution and vigilance. To stave off fraudsters, protect your Coinbase password with two-factor authentication, he says.
+
+Ads by Money. We may be compensated if you click this ad. Ad It’s difficult to monitor if someone gets hold of your personal information - Identity Guard can make the process easier. Identity Guard offers a variety of plan options for individual and family protection. Begin protecting your identity today! Protect My Identity
+
+Is Bitcoin a good investment?
+
+Buying bitcoins more closely resembles gambling than investing, according to the University of Texas’ Griffin. (In 2020, he co-authored research published in the Journal of Finance that linked cryptocurrency to a price manipulation “bubble” similar to the 2008 financial crisis.)
+
+“Since the big players are the ones manipulating prices, the small guys get hurt,” he says. “Your odds are probably better in Vegas.”
+
+It is possible to see a hefty return on a cryptocurrency investment. Bitcoin can also be sold off quickly, and at any time — while the U.S. stock market, on the other hand, only operates during weekday working hours.
+
+Still, it’s far riskier than most investment vehicles.
+
+Cornell’s Juels recommends investing only what you’re willing to lose and taking the time to learn all you can about cryptos before taking the plunge.
+
+“If you enjoy roller-coasters, you’ll get a similar set of thrills from investing in cryptocurrency,” he says. “I would say that’s a pro or a con, depending on your temperament.”
+
+Resources Download Money’s 21 Smartest Money Moves for 2021 Fine tune your financial life this year with Money’s expert advice on investing, retirement, building credit, and more. It even comes with a handy checklist. Best of all? It costs you nothing. Get Money’s Toolkit Download Money’s 21 Smartest Money Moves for 2021 Fine tune your financial life this year with Money’s expert advice on investing, retirement, building credit, and more. It even comes with a handy checklist. Best of all? It costs you nothing. Get Money’s Toolkit By clicking "Get Money's Toolkit," I would like to receive relevant marketing communications from Money and selected partners. I understand I can opt-out by clicking unsubscribe in any email. I have read Money's Privacy Notice and consent to the processing of my personal information. Success! Check your inbox or begin downloading your 2021 Toolkit now be selecting the button below. Download now
+
+More from Money:
+
+If You’re Not Shredding All Your Mail, You’re Making a Big Mistake
+
+Robinhood for Beginners: A Complete Guide to Investing With the Controversial Stocks App
+
+Renter, Beware: Fake Apartment Listings Are All Over the Internet

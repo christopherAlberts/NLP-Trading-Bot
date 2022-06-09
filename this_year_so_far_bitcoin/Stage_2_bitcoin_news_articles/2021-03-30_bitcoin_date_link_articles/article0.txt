@@ -1,0 +1,45 @@
+Greater adoption of crypto assets by payments companies recently may be helping to support a surge in bitcoin prices toward an all-time high.
+
+At last check, the world’s most popular crypto was changing hands at around $58,868 on CoinDesk, up by about 2%. So far this year, bitoin BTCUSD, +1.35% has risen over a 100% and has gained over 27% in March. By comparison, the Dow Jones Industrial Average DJIA, -0.25% is up 7% and the S&P 500 SPX, +0.18% has gained 4% in the month to date.
+
+“Bitcoin has had a stellar year and things only look like getting better for the world’s largest cryptocurrency following these latest corporate announcements,” wrote Samuel Indyk, senior analyst at Investing.com, in a Tuesday note via email.
+
+“In fact, it would not come as a surprise to see Bitcoin reach $100,000 by the end of the year as cryptocurrencies garner further corporate interest and attention from institutional and retail investors,” the analyst added.
+
+PayPal
+
+The rise of the blockchain-powered asset on Tuesday comes as PayPal Holdings Inc. PYPL, +1.28% said it would start letting its U.S. customers purchase items with crypto, a move that is regarded as the latest embrace of digital assets by a traditional payments player.
+
+In reality, the move is part of gradual but steady integration of crypto in PayPal’s payment infrastructure and had been widely expected after the company, back in October, allowed PayPal users the ability to buy bitcoin, ethereum ETHUSD, Bitcoin Cash BCHUSD and Litecoin LTCUSD through its platform.
+
+Visa adopts USD Coin
+
+PayPal’s deepening moves in the virtual asset world come as Visa Inc. V, -0.37% recently announced a pilot program allowing crypto platforms to settle transactions made with their issued Visa cards in USD Coin without converting funds to fiat currency, marking the first major payments network to use the so-called stablecoin.
+
+Back in January, the Office of the Comptroller of the Currency Cryptocurrency said in an interpretive letter that U.S. financial institutions are allowed to use stablecoins for payment activities, and can participate as nodes in a blockchain.
+
+Stablecoins—digital currencies that are pegged to an asset like gold GC00, +0.16% , the U.S. dollar DXY, -0.13% or the euro EURUSD, +0.18% , usually in equal proportion—are viewed as a bridge between highly volatile assets like bitcoin and ether tokens and traditional assets.
+
+Bitcoin futures
+
+Separately, the CME Group CME, +1.04% announced the rollout of micro bitcoin futures. The CME, which began offering bitcoin futures back in 2017, said the micro futures are sized at one-tenth of one bitcoin and will be available on May 3.
+
+Bitcoin futures are mostly used by institutions to hedge their positions and some investors said the introduction of the smaller version of bitcoin contracts was likely to help with liquidity in the broader futures and underlying spot market for the digital asset.
+
+Read: A bitcoin revolution is underway and MarketWatch is gathering a cast of crypto experts to explain what it all means. Sign up!
+
+“The recent appreciation in Bitcoin that has vaulted the price to $60k has made the CME Bitcoin Futures contract difficult to trade, from a notional perspective, because it is a five coin contract,” wrote Steven McClurg, chief investment officer at Valkyrie Investments. That is one whole contract in bitcoin would be about $290,000 defined by the CME’s CF Bitcoin Reference Rate.
+
+“Micro contracts will allow more active traders to trade, hedge, and speculate by decreasing the notional value to 1/10 the size of the current offering,” McClurg said.
+
+Increased speculation isn’t, of course, inherently a good thing, but CME offering the product underscores the growing interest in bitcoin among institutional-grade investors.
+
+Dapper
+
+Meanwhile, privately held Canadian blockchain technology company Dapper Labs Inc., the startup behind virtual trading-card platform NBA Top Shot, said Tuesday it raised $305 million from investors including the NBA legends Michael Jordan and Kevin Durant and other athletes and celebrities such as Stefon Diggs, Ashton Kutcher, Shawn Mendes and Will Smith. The deal, led by Coatue Management LLC, values the company at $2.6 billion, according to people familiar with the matter.
+
+The sums reflect the exploding interest in nonfungible tokens, or NFTs, which use the blockchain technology behind cryptocurrencies to authenticate unique digital assets such as art, music or video of basketball highlights.
+
+Read: ‘Obviously, we had no idea it was going to get here,’ say the guys who made the first NFT
+
+Want to understand the future of cryptos and NFTs? Register for MarketWatch’s free live event: https://events.marketwatch.com/crypto/home

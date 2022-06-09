@@ -1,0 +1,67 @@
+Mike Colyer leads one of North America’s biggest crypto mining companies, Foundry. Owned by Digital Currency Group (CoinDesk’s parent company), the startup emerged in 2019 and has quickly come to exemplify a trend: the comeback of U.S. crypto mining after years of living in the shadows of China’s greater hash power.
+
+We caught up with Colyer for a preview of his thoughts on the China vs. U.S. rivalry in bitcoin mining, institutional adoption and the controversial concept of “clean bitcoin.”
+
+Consensus 2021: Mike Colyer will appear at this year’s CoinDesk’s Consensus conference on Monday, May 24, in a track entitled “Big Capital: How North America is Finding Its Spot in the Global Hashrate Race.” Register here.
+
+Related: Dave Portnoy Just Wants to Have Fun
+
+The following has been edited lightly for brevity and clarity.
+
+
+
+CoinDesk: Foundry is aimed at institutional clients. Why should they start mining bitcoin and other assets? What’s wrong with just holding?
+
+Decentralized infrastructure means anybody in the world can participate in these networks. It opens up an incredible opportunity. With mining, these computers are basically securing the Bitcoin network and you get paid to secure the Bitcoin network. It’s an incredible concept and we’re seeing more institutional players recognize it.
+
+
+
+In the early days, bitcoin, you could mine it on your PC. Then it moved from CPU to GPU mining for basic mining. And then it became more about who’s got the capital to deploy large amounts of these computers. In the last bull run, every once in a while you’d get somebody who would deploy, say, $1 million worth of machines. Today, people are making $10, $20, $30 million purchases of equipment. And it’s scaling. It’s not a question of ‘are the institutions going to get into this game?’ They’re already here, and they’re doing it.
+
+Story continues
+
+Can China control the Bitcoin network? It really can’t. But for the uneducated, there’s a perception it could, and therefore they don’t get involved.
+
+Related: Research Shows How SEC Actions Move Markets
+
+In the next phase, we’re going to see energy companies realize they can combine bitcoin mining to make their energy projects more cost effective. They’re already experimenting with this and we’re going to see them deploy significant amounts of money in the space. After that, the next wave will be nation-states having a strategy around bitcoin mining, just like they have a strategy around gold mining or any natural resources.
+
+You definitely have to bet counter-cyclical if you want to make the big returns. But if you’re in it for the long term, I think, you can see a good, steady return on your investment over time. If bitcoin were to crash, the network is going to adjust the difficulty over time and you can still make money in the downside cycle of the industry. So it kind of protects the downside. And if you’re investing longer term, there’s an additional premium over the value of bitcoin.
+
+In the long term, bitcoin mining is going to be more like a utility. You buy a utility stock because it’s stable and it’s gonna produce a dividend over time. And I think the same thing is true for bitcoin mining. We’re just in the early stages where it’s a little more volatile.
+
+Does the U.S. need a national mining strategy?
+
+We put a big focus on helping decentralize the Bitcoin network, so we wanted to get more hashrate into North America. The U.S. was behind the game early on, and China got out to a fast start on bitcoin mining. But what we’ve seen over the last three years is bigger institutional players got into the game and they started building out large data centers.
+
+Last year, we saw they were short on cash to buy the next-generation machines. And that’s why we decided to launch Foundry. We launched an equipment financing business to help get them the cash to buy these machines, so they could get more hash power into North America. A significant amount of the equipment is now being purchased by North American miners. And we’re seeing a lot of hashrates start to come to the U.S.
+
+It’s very important long term for the U.S. to have a proactive strategy around bitcoin mining. I think it’s done differently in the U.S. in the sense that we’re capitalists, we’re a democracy, we’re a capitalist society. So I think it’s around creating a regulatory environment. And today it’s very friendly for it to just flourish. We’re seeing this with the different states.
+
+Kentucky is passing laws to entice miners to come there. The governor of Texas is tweeting on how great Texas is for mining. Of course, though, New York just continues to make announcements on how it wants to kill business in New York.
+
+I’m glad the internet was essentially created and funded out of the United States. And I’m glad Google calls the U.S. home. Because I think that does provide a different online experience because of that. We want to have a strong footprint in blockchain technology so we can help guide where this thing goes over time and a big part of it starts with the infrastructure.
+
+China still dominates hash power. Should we worry about it taking over somehow?
+
+We feel like there’s a certain percentage of people who are not investing in bitcoin because of this narrative that China controls the mining space, or bitcoin is controlled by China. We feel very strongly about killing that narrative so more people [can] feel comfortable getting involved with bitcoin.
+
+The reality is, yes, China does have a lot of the hashrate; yes, it does have a monopoly right now on the pools or it did have a monopoly on the pools. But there really is not much it could do to attack Bitcoin or control Bitcoin, right? If all of a sudden China says we now control 60% of the Bitcoin network and we’re going to 51% attack it, naturally we’re going to see a fork in Bitcoin. There’s going to be a China version and there’s going to be a rest-of-the-world version.
+
+If you go back in time it actually played out that way in 2017, with the big block-small block war. Bitcoin did fork and we had Bitcoin Cash. And where’s that today? It’s essentially irrelevant.
+
+So can China control the Bitcoin network? It really can’t. But for the uninformed, there’s a perception it could and therefore they don’t get involved. And that’s why it’s been really important for us to kind of rebalance it from a perception perspective.
+
+Sometimes we’re talking about a national competition between these two countries. But when you peel it back and you look at U.S. citizens and Chinese citizens, we’re trying to do the same thing. We’re trying to build and strengthen the Bitcoin network. So we all have a bigger goal in mind. That’s why I’m involved in Bitcoin. I think we’re building out a solution to the world’s problems. And it is a totally unifying technology. We’re not really competing with each other. We’re trying to build something much greater than any one of us. And that’s really gratifying.
+
+Is there much demand from your clients for so-called “clean bitcoin?”
+
+I’ve been in the mining space for four years. In that time everyone has talked about a premium for virgin coins or newly minted coins. But I have yet to find anybody anywhere who has been willing to pay a premium for those coins.
+
+So, in my mind, it’s more of a marketing kind of gimmick.
+
+The idea that there’s like a special claim on certain coins just doesn’t make any sense to me. They’re fungible. But if somebody does want to pay extra for a newly minted bitcoin, I have lots available and I’m more than willing to sell those at a premium. Give me a call! We can definitely help you.
+
+But we haven’t found anybody who’s actually willing to pay a premium. So, in my mind, it’s more of a marketing kind of gimmick. And, you know, when you start peeling it back, the concept doesn’t even really make a lot of sense. Because, you know, every time you mine a block, you’re adding it to the last block, and you’re basically validating all transactions that ever existed on the Bitcoin network and you strengthen that network. Also 18.6 million bitcoin have already been mined and are in existence. There’s only 2.5 million bitcoin left. Are those all going to be special coins? I don’t think so. Doesn’t make sense.
+
+Related Stories

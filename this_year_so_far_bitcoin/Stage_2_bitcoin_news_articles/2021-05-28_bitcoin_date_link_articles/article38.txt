@@ -1,0 +1,65 @@
+Despite recent moves by bitcoin into mainstream media, concerns continue to mount over bitcoin’s impact on the environment.
+
+This year has seen a significant rise in celebrities, investors, and major organizations speaking out against bitcoin. Some even completely dropped the payment option from their platforms.
+
+Bitcoin environmental backlash
+
+Bitcoin mining energy consumption is a hot topic among the media, developers, and investors in the space.
+
+In a recent comment to the Financial Times, Professor Brian Lucey from Trinity College Dublin called bitcoin a “dirty currency.” Lucey stated that the cryptocurrency “alone consumes as much electricity as a medium-sized European country.”
+
+A recent Cambridge study shows the annual electricity consumption of bitcoin to rank #33 globally. However, these are still best-guess statistics.
+
+It is often difficult to determine where the energy used to power bitcoin mining facilities comes from. In China, it is common for mining operations’ energy to be fueled by coal and fossil fuel consumption.
+
+The country leads the world in both electricity consumption and bitcoin mining. Up to 70% of all mining operations globally take place in China.
+
+The United States increasingly finds itself in the middle of the environment vs. crypto conversation. Most recently, with reports about the Greenidge power plant surfacing.
+
+Atlas Holdings recently purchased the power plant, once abandoned and criticized for its energy inefficiency, for bitcoin mining. Some view it as a step toward American bitcoin mining dominance, lessening the so-called Chinese monopoly on the industry.
+
+However, it is vehemently scrutinized by local environmental activists. Legal action against the company is already on the table from these local groups.
+
+Major brands drop Bitcoin
+
+Furthermore, some of the more noteworthy backlashes come from big names and brands who once stood in favor of the cryptocurrency.
+
+Story continues
+
+Previously proud to accept donations in bitcoin, Greenpeace, a leading global voice in environmental activism, halted the option to donate using the digital currency.
+
+The reason falls in line with increasing concerns over sustainability. Greenpeace told the Financial Times, “as the amount of energy needed to run bitcoin became clearer, this policy became no longer tenable.” Before halting payments, the organization accepted BTC donations since 2014.
+
+Another huge blow was Tesla’s pause on bitcoin payments, again due to fossil fuel consumption. Not only is this another trending name brand to validate the growing concerns, but it comes as Musk’s influence over the crypto market is at an all-time high.
+
+Some analysts in the space link the move to the subsequent BTC crash. In Musk’s statement on Twitter, he clarified that he believes crypto has a future but not at the risk of the environment.
+
+Kevin O’Leary, the Shark Tank investor, also holds a strong stance to not accept any “blood bitcoin” from China that burns coal to power mining operations.
+
+Others more native to the crypto community also expressed concern over the sustainability of the current system. Ripple CEO Chris Larsen said proof of work (POW) is outdated and concerning in today’s environmentally-conscious climate.
+
+He advocates for a system migration to alternatives such as proof of stake (POS). POS requires considerably less energy and offers more use cases for tokens.
+
+Green crypto innovation steps up
+
+Along with Larsen, the crypto space is rife with innovators eager to tackle the issue.
+
+In a recent conversation with Yahoo News on Twitter, Cardano and IOHK founder Charles Hoskinson remarked on the trend of institutional money from POW coins to more “sustainable” options. Some credit Cardano’s pioneering use of POS as the reason behind the recent ADA price hike.
+
+Another green development is the launch of the EEE (Energy Efficient Ethereum) token to improve Ethereum’s energy output.
+
+It utilizes the Ethereum 2.0 protocol, designed with user efficiency in mind. It is the first asset debuted on the Crypto Climate Exchange (CCE). CCE aims to be the world’s first exchange to fund dedicated to supporting climate action initiatives in the space.
+
+The Chia Network secured $61 million in their latest funding round, as investors follow trends towards green-crypto projects.
+
+The network hopes to be a leader in the space with its energy-efficient blockchain and native green currency, Chia (XCH). At the center of the endeavor is to make mining both more accessible and less damaging to the environment.
+
+Traditional mining gets creative
+
+In addition to the up-and-coming eco-friendly innovators in the space, others are choosing to approach traditional methods with solutions.
+
+Argo Blockchain Solutions teamed up with DMG Blockchain Solutions to create the first bitcoin mining pool that runs entirely off clean energy. The initiative uses hydroelectric power to mine and therefore creates a “green bitcoin.”
+
+Another collaboration was agreed upon between Wesco Operating Inc and EZ Blockchain. They’ve created a way to capture energy from gas flares to power mining. Mining operations moved onsite thanks to EZ Smartgrid technology and used the electricity converted from flared gas.
+
+The future of bitcoin relies on adoption, and environmental concerns could harm this going forward. How the community shifts will be key to determining bitcoins future.

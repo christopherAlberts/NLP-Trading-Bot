@@ -1,0 +1,27 @@
+Get daily crypto briefings and weekly Bitcoin market reports delivered right to your inbox.
+
+Share this article
+
+Ren has integrated Polygon.
+
+Ren Unveils Polygon Bridge
+
+Ren has launched a bridge to Polygon.
+
+The project announced the expansion Thursday, noting that Polygon is home to “a burgeoning DeFi ecosystem with obvious benefits for users.” Polygon, which acts as an Ethereum commit-chain, offers a similar experience to DeFi on Ethereum at a fraction of the cost. It’s integrated several Ethereum staples including Aave, Curve, and SushiSwap, and in recent weeks has become a hit with yield farmers looking to deploy their capital.
+
+Ren, also known as RenVM, is a network that allows for cross-chain interoperability. So far it’s been popular for bringing Bitcoin onto DeFi on Ethereum, but it offers compatibility with many other chains.
+
+The Polygon x RenVM Bridge will initially allow DeFi users to move four assets directly onto Polygon without interacting with Ethereum. Those assets are Ren-based versions of Bitcoin, Bitcoin Cash, Dogecoin, and Zcash. After they’ve been added, DigitByte, Filecoin, and Terra will follow.
+
+Once added to Polygon via the bridge, the assets will be available through apps like QuickSwap, Curve, and BadgerDAO. That means DeFi users will be able to earn yield with their assets on the Proof-of-Stake network.
+
+In the blog post announcing the update, Ren COO Michael Burgess said:
+
+“The addition of Polygon support to RenVM will greatly benefit all stakeholders, providing more utility to Polygon and even more velocity through RenVM.”
+
+Polygon has been a busy few months, most recently announcing its long-awaited SDK update. The network will now allow developers to launch their own EMV-compatible chains. Polygon’s co-founder Sandeep Nailwal said that the upgrade marked a step towards a “multi-chain future.”
+
+Disclosure: At the time of writing, the author of this feature owned ETH, ETH2X-FLI, AAVE, CRV, and several other cryptocurrencies. They also had exposure to REN and SUSHI in a cryptocurrency index.
+
+Share this article

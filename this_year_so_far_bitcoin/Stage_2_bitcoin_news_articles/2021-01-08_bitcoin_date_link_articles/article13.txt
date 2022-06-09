@@ -1,0 +1,25 @@
+Square Crypto’s latest grant will fund a Bitcoin developer’s work on software that could improve how mining collectives pool hash power.
+
+Pseudonymous developer Fi3 (@piccioneLibero2 on Twitter, or “free pigeon”) will receive an undisclosed sum to work on an implementation of Stratum V2, the next iteration of a Bitcoin mining protocol software developed by Braiins.
+
+“Square Crypto is excited to support the development of a high quality open-source implementation of Stratum v2,” Square Crypto lead Steve Lee said to CoinDesk. “This software benefits miners by maximizing their revenue and providing more freedom and security.”
+
+'Personal freedom' to pursue Bitcoin development
+
+“I wanted to work on something related to Bitcoin,” Fi3 told CoinDesk. The Bitcoin developer has previous experience working with Bitcoin’s mining industry via a collaboration with Italian mining company Bitminer Factory. Fi3 is proficient in the Rust programming language, which will be used to code the upgrade, so once they saw the opportunity they “caught it.”
+
+“I also like the personal freedom that this kind of grant gives you,” Fi3 continued.
+
+The co-author of the proposal, Jan Kvapil, will begin work on the implementation in February, Fi3 said.
+
+Stratum V2: Giving Bitcoin mining a boost
+
+A mining pool is a collective of miners – from big industrial players to hobbyists farming in their basements – who combine their hash power to increase their collective chance of mining a block.
+
+The Stratum software coordinates this pooled mining. The new edition, V2, will patch a handful of security flaws present in its 2012 predecessor, while improving connection speeds between miners in the pool. It will also give individual Bitcoin miners a say in which transactions they want to include in the blocks that the pools mine, allowing individual miners a bit more freedom in the process.
+
+Fi3’s goal is to develop and create a Bitcoin Improvement Proposal (or BIP, code that alters some aspect of the Bitcoin network or protocol) that paves a clear path to activating the upgrade. Stratum V2 has been in the works for some time, but the grant will fund the changes that should finally push the project to fruition.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Toward this end they will consult with Braiins co-founder Jan Čapek and former Bitcoin Core developer Matt Corallo, who now works full-time for Square Crypto as a developer on open-source projects.

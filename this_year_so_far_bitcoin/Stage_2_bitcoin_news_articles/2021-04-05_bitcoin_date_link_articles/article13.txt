@@ -1,0 +1,39 @@
+Blockchain is a distributed ledger that allows for more transparent and verifiable record keeping.
+
+Although associated mostly with money and finance, it can be used widely.
+
+There are still many barriers to its widespread adoption, including confidence and regulation.
+
+Every time you make an electronic payment, whether from your mobile, online, or with a card, that transaction passes through multiple systems. Each of them plays a role in processing that payment and forms part of the sequence of checks and balances that exist between payer and payee.
+
+It can be a long, complex and costly chain of connections, with each taking a small fee from every transaction. Typically, it involves a series of banks or other large payment processing businesses who keep track of the money on its journey from A to B. Identities are verified, creditworthiness is established and sums of money are accurately reconciled between accounts.
+
+Without such processes, how could trusted payments take place? Enter blockchain, which has the potential to disrupt that process completely. And not just for payments, but other forms of transaction including the flow of goods and information around the world.
+
+Blockchain can seem complicated and a little impenetrable, which is ironic as one of the core tenets of this technology is its openness and transparency.
+
+How does blockchain work?
+
+Blockchain allows consumers and suppliers to connect directly, removing the need for a third party such as a bank.
+
+There are some fundamentals to understanding blockchain, including the notion of a distributed ledger. Using cryptography to keep exchanges secure, blockchain provides a decentralized database, or “digital ledger”, of transactions that everyone on the network can see. This network is essentially a chain of computers that must all approve an exchange before it can be verified and recorded.
+
+Consulting firm Deloitte explains it as follows: “You (a ‘node’) have a file of transactions on your computer (a ‘ledger’). Two government accountants (let's call them ‘miners’) have the same file on theirs (so it’s ‘distributed’). As you make a transaction, your computer sends an email to each accountant to inform them … the first to check and validate hits REPLY ALL, attaching their logic for verifying the transaction (‘proof of work’). If the other accountant agrees, everyone updates their file.”
+
+In theory, it could be completely open on the public internet, or blockchain can be used within defined networks - there are different configurations for different use cases. In the latter configuration, the data pertaining to a transaction will be stored, simultaneously on the dozens, or hundreds, or thousands of computers within that defined network. That data will update in close to real time, so that anyone on the network can see everyone else’s entries.
+
+Instead of having to outsource the idea of being able to trust in a transaction to banks and other intermediaries, blockchain puts trust out in the open by making everything visible. And because it is open and distributed, no single party on the network can exert undue control or influence on the ledger – or anyone attached to it.
+
+It has a long way to go, though, before it really becomes part of the mainstream. Concerns around trust and regulatory compliance are among the top reasons for its slow adoption, according to the data journalism organization, Statista.
+
+The barriers to blockchain. Image: Statista
+
+More than money and bitcoins
+
+Although cryptocurrencies depend on blockchain and are frequently cited as how blockchain works, they are far from being its only application.
+
+It can be used to record and track the ownership of a photographic image or a piece of music or a patent for a new gadget. It can even be used to track the provenance of food – from farm to plate – and medical supplies, including vaccines.
+
+IBM describes blockchain as: “A shared, immutable ledger that facilitates the process of recording transactions and tracking assets in a business network. An asset can be tangible (a house, car, cash, land) or intangible (intellectual property, patents, copyrights, branding). Virtually anything of value can be tracked and traded on a blockchain network, reducing risk and cutting costs for all involved.”
+
+Through its Food Trust network, IBM is working with businesses from the length of the food supply chain, including Carrefour, Nestlé and others. On the Food Network website, Chris Tyas, Global Head of Supply Chain for Nestlé, says: “People want to know, quite rightly, where ingredients they give to their baby have come from. We wanted a product in which trust meant something.”

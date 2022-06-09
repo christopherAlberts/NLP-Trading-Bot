@@ -1,0 +1,75 @@
+The bitcoin market takes a breather, ether flashes green and recent data suggests joke cryptocurrency dogecoin is more volatile than most major altcoins.
+
+Bitcoin (BTC) trading around $56,665 as of 21:00 UTC (4 p.m. ET). Gaining 1.6% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $53,780-$56,574 (CoinDesk 20)
+
+BTC close to the 10-hour and 50-hour moving average on the hourly chart, a sideways but rising and trending bullish signal for market technicians.
+
+Bitcoin trading on Bitstamp since April 17.
+
+Despite going as high as $56,574 to as low as $53,780 over the past 24 hours, bitcoin’s price is relatively sideways since 0:00 UTC on Tuesday (8 p.m. ET Monday). It’s a respite for a market that saw a deep dive during the weekend as record-high action in the derivatives market saw the price of the world’s oldest cryptocurrency drop to $53,787 according to CoinDesk 20 data.
+
+Katie Stockon, a technical analyst for research firm Fairlead Strategies, noted in her weekly outlook that the bitcoin market is in a “risk-off” mode, meaning investors could be pushing the sell button to move into other assets such as cash.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+“There are indications that this week will see downturns in our short-term gauges,” Stockton noted. “For one, risk-off positioning has become evident on the sector front in assets like gold and bitcoin.”
+
+Bitcoin futures funding the past month with spot price superimposed in grey. Source: Glassnode
+
+In the derivatives market, bitcoin funding rates, reflecting what traders pay for leverage on positions, slid to 14 basis points on Monday. That’s the lowest in almost a month, according to data aggregator Glassnode.
+
+That means market interest in bull-oriented leveraged plays has evaporated. The lowest in the past month was 5 basis points March 26. Traders are waiting to see if the figure will get to that point.
+
+Neil Van Huis, head of institutional trading for liquidity provider Blockfills, says last week’s excitement from the bellwether exchange Coinbase’s Nasdaq direct listing has subsided. He worries about downside risk, despite holding on to his bullish stance.
+
+“Still looks bullish to me – breaking $38,000 or so would make me a bit more nervous,” Van Huis told CoinDesk.
+
+Ether making moves in price, dominance
+
+Ether (ETH), the second-largest cryptocurrency by market capitalization, was up Tuesday, trading around $2,313 and climbing 6.3% in 24 hours as of 21:00 UTC (4:00 p.m. ET).
+
+Read More: Introducing CoinDesk Indexes
+
+Darius Sit, chief investment officer for quantitative trading firm QCP Capital, doesn’t see any fundamental reasons why ether’s performance was much higher on Tuesday when bitcoin traded relatively sideways. “Don’t see anything material,” he told CoinDesk.
+
+Ether dominance since the start of 2021. Source: TradingView
+
+It is clear, however, that traders are rotating out of other crypto assets and into ETH.
+
+Ether’s market dominance Tuesday, a measure of its share of the larger crypto ecosystem, was up 3.6% today as of press time and at 13.1% overall according to charting provider TradingView.
+
+Dogecoin Doesn’t Bite on 'Dogeday'
+
+Historical dogecoin price over the past week. Source: CoinDesk 20
+
+After jumping over 19% Monday, the canine-oriented meme cryptocurrency dogecoin (DOGE) was in the red 16.2% as of press time, according to CoinDesk 20 data. Enthusiasts were expected to rally the price Tuesday for “Dogeday”. However, dogecoin’s cryptocurrency’s volatility is more of a story than its price Tuesday, according to Greg Magadini, CEO of derivatives data provider Genesis Volatility.
+
+Magadini’s firm, which tracks volatility metrics for 90 different altercoin’s, pegs dogecoin as the third-highest volatile digital asset it tracks on Tuesday, trailing only ziliqua (ZIL) and voyager token (VGX).
+
+However, dogecoin is significantly more liquid than those two assets, Magadini noted, meaning there are a lot more traders and investors betting on DOGE’s spot price.
+
+“The difference with dogecoin and these other [altcoins] is DOGE actually has a sizable market cap, so this volatility is much more significant,” Magadini told CoinDesk.
+
+Dogecoin’s market capitalization ranks sixth overall among cryptocurrencies at around $46 billion, according to data aggregator CoinGecko. ZIL and VGX combined only make up about $3 billion.
+
+“Right now, the way DOGE is moving risk is greatly increasing,” Magadini said.
+
+Digital assets on the CoinDesk 20 are mostly red Monday. Notable winners as of 21:00 UTC (4:00 p.m. ET):
+
+Notable losers:
+
+Equities:
+
+Commodities:
+
+Oil was down 1.4%. Price per barrel of West Texas Intermediate crude: $62.59.
+
+Gold was in the green 0.46% and at $1,778 as of press time.
+
+Silver is flat, up just 0.05% and changing hands at $25.82.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield fell Tuesday to 1.562 and in the red 2.7%.

@@ -1,0 +1,37 @@
+As Bitcoin (BTC) lost the $52,000 support on April 22, the futures contracts funding rate entered negative terrain. This uncommon situation causes the shorts, investors betting on price downside, to pay fees every eight hours.
+
+While the rate itself is mildly damaging, this situation creates incentives for arbitrage desks and market makers to buy perpetual contracts (inverse swaps) while simultaneously selling the future monthly contracts. The cheaper it is for long-term leverage, the higher the incentives for bulls to open positions, creating a perfect "bear trap."
+
+BTC-margined perpetual futures 8-hour funding rate. Source: Bybt
+
+The above chart shows how unusual a negative funding rate is, and typically it doesn't last for long. As the recent April 18 data shows, this indicator should not be used to predict market bottoms, at least not in isolation.
+
+Monthly futures contracts are better suited for longer-term strategies
+
+Futures contracts tend to trade at a premium — at least they do in neutral-to-bullish markets u2014 and this happens for every asset, including commodities, equities, indexes and currencies.
+
+However, cryptocurrencies have recently experienced a 60% annualized premium (basis), which is considered highly optimistic.
+
+Unlike the perpetual contract (inverse swap), the monthly futures do not have a funding rate. As a consequence, their price will vastly differ from regular spot exchanges. These fixed-calendar contracts eliminate the fluctuation seen in funding rates and make the the best instrument for longer-term strategies.
+
+Bitcoin 1-month OKEx futures annualized premium (basis). Source: Skew
+
+As shown in the chart above, notice how the 1-month futures premium (basis) entered dangerously overleveraged levels, which exhausts the possibilities for bullish strategies.
+
+Even those that previously bought futures in expectation of a further rally above the $64,900 all-time high had incentives to cut their positions.
+
+The lower cost for bullish strategies could set bear traps
+
+While a 30% or higher cost to open long positions is prohibitive for most bullish strategies, as the basis rate slips below 18%, it usually becomes cheaper to long futures than buy call options. This $11 billion derivatives market is traditionally very costly for bulls, mainly due to BTC's characteristic high volatility.
+
+Bitcoin call option contracts for June 25. Source: Deribit
+
+For example, buying upside protection using a $60,000 call option for June 25 currently costs $4,362. This means the price needs to rise to $64,362 for its buyer to profit — a 19.7% increase from $50,423 in two months.
+
+While the call option contract gives one infinite leverage over a small upfront position, it makes less sense for bulls than the 3% June futures premium. A 5x-leveraged long position will return 120% gains if BTC happens to reach the same $64,362. Meanwhile, the $60,000 call option buyer would require Bitcoin's price to rise to $77,750 for the same profit.
+
+Therefore, while investors have no reason to celebrate the 27% correction occurring over the past nine days, investors might interpret the move as a "glass half full."
+
+The lower the costs for bullish strategies, the higher the incentives for bulls to set up a perfect "bear trap," fueling Bitcoin to a more comfortable $55,000 support.
+
+The views and opinions expressed here are solely those of the author and do not necessarily reflect the views of Cointelegraph. Every investment and trading move involves risk. You should conduct your own research when making a decision.

@@ -1,0 +1,25 @@
+Although the majority of Bitcoin (BTC) mining is still based in China, there are signs it is beginning to shift elsewhere.
+
+Chun Wang, the co-founder of one of Bitcoin’s largest mining pools, F2Pool, reported that China represented less than half of Bitcoin’s hash rate during April 2020. Wang noted it was the first time the pool had seen Chinese miners represent a minority of the hash rate in its eight years of operation. “The shifting is real,” he said.
+
+Here at @f2pool_official, in April 2021, the first month in our 8 years of operation, we have seen more $BTC hashrate coming from outside of China than from the inside. The shifting is real. https://t.co/nf2gBy62re — Chun @ dogecoin.org (@BocaChicaDoge) May 3, 2021
+
+Wang reposted data published April 22 by Digital Currency Group’s Barry Silbert, which revealed that United States-based Bitcoin mining pool Foundry had climbed to rank among the top five pools globally during April, commanding a 7.6% share of the hash rate.
+
+“Bitcoin hashrate is quickly shifting from China to North America,” Silbert claimed. The leading pool remains AntPool, which is operated by Chinese mining hardware manufacturer Bitmain, with an 18.6% share of the total hash rate.
+
+The University of Cambridge calculated that China’s mining dominance was around 65% in April 2020. Noting those figures in January 2021, BTC mining publication Miner Daily estimated China’s share had fallen to 55% of BTC hashing power by the start of this year, with the U.S. accounting for 11%.
+
+On April 30, Cointelegraph reported that China’s crypto mining operations may be set for stricter regulations in the future, which could further fuel the country’s hash rate exodus. China has also recently been examining miners’ power usage in light of its own carbon commitments.
+
+In late February, it was reported that authorities of the Chinese autonomous region of Inner Mongolia proposed closing down all local mining facilities to reduce energy consumption in the region. The region accounts for as much as 8% of the global hash rate.
+
+In an article on Wednesday, Bitcoin podcast host Marty Bent said that the F2Pool findings are a confirmation of a trend in the mining world of hash rate production becoming more geographically distributed.
+
+He added that this would help dissipate some of the “China controls mining” FUD surrounding the potential for the country’s central government to attack the network.
+
+“It is great to have some data coming from Chinese pools that proves the percentage of overall hashrate production is being reduced within China’s borders.”
+
+The FUD surrounding Bitcoin’s energy consumption and environmental impact may also reduce as more mining operations switch to renewable energy, especially in the U.S., which has tighter regulations.
+
+According to a Nasdaq report on Tuesday, Texas has become a mecca for Bitcoin mining farms due to its low energy costs and the fact that the majority comes from renewables, such as wind and solar.

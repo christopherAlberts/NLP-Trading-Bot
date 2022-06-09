@@ -1,0 +1,67 @@
+The Bitcoin Optech newsletter provides readers with a top-level summary of the most important technical news happening in Bitcoin, along with resources that help them learn more. To help our readers stay up-to-date with Bitcoin, we're republishing the latest issue of this newsletter below. Remember to subscribe to receive this content straight to your inbox.
+
+This week’s newsletter announces a change of networks for several IRC channels and celebrates Optech’s 150th newsletter. Also included are our regular sections with popular questions and answers from the Bitcoin Stack Exchange, new software releases and release candidates, and notable changes to popular Bitcoin infrastructure projects.
+
+News
+
+IRC channels moving to Libera.Chat: in the weekly Bitcoin Core developer meeting, it was decided that the meeting on Thursday, May 27th, will be the last meeting held on the Freenode network. Bots, logging, other infrastructure, future meetings, and general discussion will be moved to #bitcoin-core-dev on the Libera.Chat network. Actions by the Freenode administrators occurring shortly before publication of this newsletter seem to have forced the move to occur early Wednesday morning (UTC). Several other channels related to Bitcoin and LN are also moving. For help finding the current network for various channels, see the Bitcoin Wiki’s list of IRC channels. If you operate a channel that’s moving and don’t have a Wiki account to update that list yourself, please let the editors know in #bitcoin-wiki on Libera.
+
+Celebrating Optech Newsletter #150
+
+by John Newbery, Founder, Optech
+
+This is the 150th regular Optech weekly newsletter that we’ve written for the Bitcoin technical community. Pausing only for short breaks around the Christmas holidays, we’ve published digests of the most important events in Bitcoin and Lightning development every week since June 2018.
+
+Optech was started with some very simple goals: to help Bitcoin businesses adopt technologies that allow Bitcoin to scale, and to highlight the amazing technical work happening in the open source Bitcoin community. Although we couldn’t foresee exactly what form that would take three years ago, it’s a mission that we continue to believe in, and that guides all the work we do. Since June 2018, we’ve:
+
+Published 150 newsletters, numerous blog posts and field reports, a special series on bech32, and an interactive taproot workshop. In total, we’ve published around 250,000 words – enough to fill around 700 printed pages.
+
+Reached 4,100 email subscribers and almost 11,000 twitter followers.
+
+Started seeing some of our newsletters translated into Japanese and Spanish by members of the community.
+
+Produced and maintained a topics index – a single location where readers can track the evolution of Bitcoin and Lightning proposals and improvements.
+
+The newsletters are the work of many contributors. Foremost amongst them is Dave Harding, who writes the majority of our content. To say that Dave is prolific is an understatement – week after week, he produces concise, clear summaries of the enormously varied research and development happening across the Bitcoin ecosystem. We’re lucky to have someone of his breadth of knowledge, dedication and humility documenting Bitcoin. The extensive body of work that he’s produced for Optech and other projects is a huge asset for all present and future Bitcoiners.
+
+The supporting roles are filled by other Optechers. Mike Schmidt writes our regular sections on Stack Exchange Q&As and Notable Changes to Bitcoin Software and Infrastructure, and makes sure that the newsletter arrives in everyone’s inbox on time. Jon Atack contributes our regular summary of Bitcoin Core PR Review Club. As well as Mike and Jon, Carl Dong, Adam Jonas, Mark Erhardt and I contribute occasional PR summaries and review each week’s newsletter to try to ensure the content we produce is accurate and clear.
+
+Special thanks to Shigeyuki Azuchi, who translates our newsletters into Japanese, and Akio Nakamura who has also translated and reviewed our Japanese material.
+
+Thanks to all the members of the Bitcoin community – too numerous to name individually – who have reviewed our newsletters, helped us understand concepts, and opened issues and PRs when we’ve made mistakes.
+
+All of this work is made possible by our generous supporters, primarily our founding sponsors - Wences Casares, John Pfeffer and Alex Morcos.
+
+Finally, thank you, our readers. We love being part of this community and contributing to this ecosystem. Knowing how valuable this resource is to so many people, and hearing feedback from our readers is hugely rewarding for us. If you want to contribute, or have suggestions for how we can improve, please don’t hesitate to contact us at info@bitcoinops.org.
+
+Selected Q&A from Bitcoin Stack Exchange
+
+Bitcoin Stack Exchange is one of the first places Optech contributors look for answers to their questions—or when we have a few spare moments to help curious or confused users. In this monthly feature, we highlight some of the top-voted questions and answers posted since our last update.
+
+Releases and release candidates
+
+New releases and release candidates for popular Bitcoin infrastructure projects. Please consider upgrading to new releases or helping to test release candidates.
+
+Eclair 0.6.0 is a new release that with several improvements that enhance user security and privacy. It also provides compatibility with future software that may use taproot addresses.
+
+LND 0.13.0-beta.rc3 is a release candidate that adds support for using a pruned Bitcoin full node, allows receiving and sending payments using Atomic MultiPath (AMP), and increases its PSBT capabilities, among other improvements and bug fixes.
+
+Notable code and documentation changes
+
+Notable changes this week in Bitcoin Core, C-Lightning, Eclair, LND, Rust-Lightning, libsecp256k1, Hardware Wallet Interface (HWI), Rust Bitcoin, BTCPay Server, Bitcoin Improvement Proposals (BIPs), and Lightning BOLTs.
+
+Bitcoin Core #21843 adds a network argument to the getnodeaddresses RPC. When getnodeaddresses is called with this argument set to a supported network type (ipv4, ipv6, onion or i2p), it will only return known addresses on the specified network. When called without the network argument, getnodeaddresses will return known addresses from all networks.
+
+Eclair #1810 makes it mandatory for peers to signal and comply with the payment_secret feature bit. The payment secrets feature thwarts a recipient de-anonymization attack and provides additional protection against improper image revelation. The feature is supported across all major implementations and is mandatory for payments to LND and Rust-Lightning.
+
+Eclair #1774 extends Java’s built-in SecureRandom() CSPRNG function with a secondary source of weaker randomness. The weaker randomness is hashed and the hash digest xored with the primary randomness so that, even if SecureRandom() produces predictable results due to some bug discovered in the future, there’s a chance Eclair will continue to have enough entropy so that its cryptographic operations remain unexploitable.
+
+BIPs #1089 assigns BIP87 to a proposal previously discussed on the mailing list for creating a standardized set of BIP32 paths for multisig wallets regardless of their multisig parameters, what address type they use, or other script-level details. Instead, users of the proposed standard store those details in an output script descriptor. This eliminates the need for wallets to implement multiple different standards for slight variations on multisig (e.g. BIP45 and the m/48' standard) or create new standards for things that can be handled by descriptors. Although using a descriptor rather than a standardized script does mean more data needs to be backed up, the actual difference is small—most of the data in a typical multisig descriptor will be the extended public keys (xpubs) that need to be backed up by each party to a multisig anyway, so the additional information about the script template and the descriptor’s checksum only add a small amount of overhead by comparison.
+
+BIPs #1025 assigns BIP88 to the standardized format described in Newsletter #105 for describing what BIP32 key derivation paths a wallet should support. Path templates provide a compact way for the user to specify which paths they want to use. The compactness of path templates makes it easy to back up the template along with the seed, helping prevent users from losing funds. An additional feature of the proposed path templates is the ability to describe derivation limits (e.g. that a wallet should derive no more than 50,000 keys in a particular path), which can make it practical for a recovery procedure to scan for bitcoins received to all possible wallet keys, eliminating concerns about gap limits in HD wallets.
+
+BIPs #1097 assigns BIP129 to the Bitcoin Secure Multisig Setup (BSMS) described in Newsletter #136, which explains how wallets, particularly hardware signing devices, can securely exchange the information necessary to become signers for a multisig wallet. The information that needs to be exchanged includes the script template to use (e.g. P2WSH with 2-of-3 keys required to sign) and each signer’s BIP32 extended public key (xpub) at the key path it plans to use for signing. The protocol uses a coordinator to collect the required information and create an output script descriptor, which the individual signers then verify to ensure it properly includes their key.
+
+Find the original post here.
+
+Please subscribe to the Bitcoin Optech newsletter directly to receive this content straight to your inbox every month.

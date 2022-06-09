@@ -1,0 +1,81 @@
+Editorial Independence We want to help you make more informed decisions. Some links on this page — clearly marked — may take you to a partner website and may result in us earning a referral commission. For more information, see How We Make Money.
+
+For all you’ve probably heard about Bitcoin, Dogecoin, and other cryptocurrencies lately, many financial experts say it’s the technology behind crypto you should really be paying attention to.
+
+“The underlying technology that most cryptocurrencies rely on — which is blockchain — is a transformative technology,” says Lule Demmissie, president of Ally Invest. “And cryptocurrency just happens to be one of those transformations.”
+
+Some believe blockchain technology has the potential to change nearly every facet of our lives, far beyond crypto’s impact on our financial portfolios. Dr. Richard Smith, executive director of the Foundation for the Study of Cycles, a nonprofit organization dedicated to studying recurring patterns throughout economies and cultures, calls it a “revolution.”
+
+Even crypto skeptics see the value in blockchain technology. The real jewel is blockchain, says Chris Chen, CFP of Insight Financial Strategists in Newton, Massachusetts. He believes blockchain is likely to have a lot more staying power than popular cryptocurrencies like Bitcoin, which he calls a flash in the pan. “Blockchain will continue to change the way that we do things.”
+
+That all sounds great, but what exactly does it mean? Here’s what you need to know about blockchain, and what a blockchain revolution might look like.
+
+What Is Blockchain?
+
+Think of a blockchain as a novel, digital form of record-keeping.
+
+Blockchain is the underlying technology that many cryptocurrencies — like Bitcoin and Ethereum — operate on, but its unique way of securely recording and transferring information has broader applications outside of cryptocurrency.
+
+A blockchain is a type of distributed ledger. Distributed ledger technology (DLT) allows record keeping across multiple computers, known as “nodes.” Any user of the blockchain can be a node, but it takes a lot of computer power to operate. Nodes verify, approve, and store data within the ledger. This is different from traditional record-keeping methods which store data in a central place, such as a computer server.
+
+A blockchain organizes information added to the ledger into blocks, or groups of data. Each block can only hold a certain amount of information, so new blocks are continually added to the ledger, forming a chain.
+
+Each block has its own unique identifier, a cryptographic “hash.” The hash not only protects the information within the block from anyone without the required code, but also protects the block’s place along the chain by identifying the block that came before it.
+
+The cryptographic hash is “a set of numbers and letters that can be up to 64 digits long,” says Vikas Agarwal, a partner in PwC’s Financial Services Advisory Practice. “That’s the unique code that allows the puzzle pieces to fit together.”
+
+Once information is added to the blockchain and encrypted with a hash, it’s permanent and unchangeable. Each node has its own record of the full timeline of data along the blockchain, going back to its start. If someone tampered with or hacked into one computer and manipulated the data for their own gain, it wouldn’t alter the information stored by other nodes. The altered record can be easily distinguished and corrected, since it doesn’t match the majority.
+
+“The way that the system works, it’s almost impossible for someone to replicate the computing power that happens on the back end to reverse engineer it, and somehow figure out what all those hashes are,” Agarwal says.
+
+How it Works
+
+Here’s an example of how blockchain is used to verify and record Bitcoin transactions.
+
+A consumer buys Bitcoin.
+
+The transaction data is sent across Bitcoin’s decentralized network of nodes.
+
+Nodes validate the transaction.
+
+After approval, the transaction is grouped with other transactions to form a block, which is added to an ever-growing chain of transactions.
+
+The completed block is encrypted, and the transaction record is permanent; it cannot be removed or altered on the blockchain.
+
+Bitcoin’s blockchain is public, which means anyone who owns Bitcoin can view the transaction record. While it can be difficult to trace the identity behind an account, the record shows which accounts are transacting on the blockchain. Public blockchains also allow any user with the required computer power to participate in approving and recording transactions onto the blockchain as a node.
+
+But not all blockchains are public. Blockchains can be designed as private ledgers, so an owner is able to limit who can make changes or additions to the blockchain. While the pool of participants may be smaller on a private blockchain, it’s still decentralized among those who participate. Private blockchains maintain the security of any data stored within the database using the same encryption methods.
+
+The idea of a secure, decentralized permanent record of information has drawn interest across a number of industries, and potentially holds solutions for many security concerns, record-keeping processes, and data ownership issues we face today.
+
+A Blockchain-Based Future
+
+Blockchain gives us the technology to move information securely, Agarwal says, and have nearly complete certainty in knowing the authenticity of any piece of information you want to protect.
+
+Consider, for example, stories that have circulated in recent weeks of meme subjects and celebrities who cashed in on digital property by selling NFTs (non-fungible tokens).
+
+Because the underlying blockchain record is immutable, NFTs allow sellers to verify a digital asset’s authenticity. When you buy an NFT, that transaction is added to the blockchain ledger, and becomes a verifiable record of ownership. For those who want the ability to verify a digital work’s authenticity, blockchain helps value digital art and collectibles similarly to their physical counterparts. In theory, this leads to creators maintaining value through things earning royalties on copies made of digital art.
+
+“That might seem confusing to the rest of us who don’t value those things,” Smith says. “But what it’s really demonstrating is that you can have a digital economy with digital property rights.” It gives you the ability to uniquely say ‘I own and control this piece of the digital economy,’ he says.
+
+For many of us, one of the most impactful use-cases of blockchain technology may be protecting and securely transferring personal data.
+
+Imagine if your banking information was stored on a blockchain. When you open an account with a new financial institution, or transfer information between institutions, a blockchain ledger could help quickly and securely ensure the transfer or new account is accurate and legitimate using your already-stored information. “That has the ability to reduce a lot of costs, a lot of overhead, and also become a good way to reduce fraud,” Agarwal says.
+
+He predicts blockchain technology has potential across nearly every industry, “because every industry has some type of information that they’re trying to exchange in a very secure way.” An election run on blockchain technology could benefit from a voting record that gets locked in and cannot be altered after the fact. Businesses could maintain more accurate inventory records using blockchain. Blockchain could even help consumers make more informed purchasing decisions with better transparency around product supply chains. The technology may help food suppliers more efficiently trace recalled products, or allow consumers to avoid goods created using exploited labor practices.
+
+Uses like this illustrate blockchain’s appeal not only for security, but also what Chen calls the integrity of information. “Blockchain has the potential to give people more security and assurance around that,” Agarwal says.
+
+Investing in the Future
+
+Businesses and governments around the world are continuing to test and implement blockchain technology, but none of this will happen overnight. If we ever reach a point where government currency is blockchain-based or medical records are converted to a blockchain, it won’t be anytime soon.
+
+In the meantime, you can bet on the power of blockchain by adding a blockchain-based cryptocurrency like Bitcoin to your portfolio, though that’s not the only way to put your dollars behind the technology.
+
+You can also adjust more traditional investments so they’re blockchain-forward. For example, look into whether your ETFs or mutual funds include companies that are developing blockchain technologies or beginning to use blockchain in their business operations.
+
+There are even ETFs wholly made up of these types of companies, known as blockchain ETFs. One example, launched in 2018, is the Siren Nasdaq Blockchain Economy Index (BLCN), which has outpaced the S&P 500’s overall return both year-over-year and on a three-year average. These funds don’t put any of your money in crypto specifically; instead, they invest in select company stocks — ranging from long-established businesses like IBM to lesser-known startups like Galaxy Digital.
+
+While it still doesn’t guarantee a return, this can be a more conservative alternative to putting your money into the notoriously volatile cryptocurrency market directly.
+
+Chen compares the difference between speculating in cryptocurrencies directly and investing in blockchain companies to the California gold rush of two centuries ago. “Lots of people rushed in there to dig for gold, and most of them never made any money,” he says. “The folks who made the money are those who sold the shovels. The companies that are supporting the development of blockchain are the shovel sellers.”

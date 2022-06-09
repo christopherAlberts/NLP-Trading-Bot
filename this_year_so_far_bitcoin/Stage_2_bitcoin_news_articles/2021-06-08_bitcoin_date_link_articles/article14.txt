@@ -1,0 +1,37 @@
+The practice of buying bitcoin (BTC) as collateral to sell at a higher price in the future may be nearing an end as the crypto’s price declines, marking a shift in investor sentiment to bearish from bullish.
+
+“Futures traders have started to price bitcoin contracts that expire in three months almost equally as the current spot price,” the Norwegian cryptocurrency analysis firm Arcane Research wrote Tuesday in a report.
+
+The declining futures premium indicates uncertainty about the future direction of bitcoin following a 35% correction in May and another 12% drop already this month.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+“This indicates a more bearish sentiment among futures traders,” according to Arcane.
+
+A sentiment shift is especially important in crypto futures markets, which tend to be driven by behavioral dynamics, according to Max Boonen, director and founder at B2C2, a London-based cryptocurrency market maker.
+
+“That’s unlike conventional markets such as [foreign exchange], where spot and forward prices are closely linked through levels determined by central banks,” wrote Boonen in an email to CoinDesk.
+
+The bitcoin carry trade unwinds
+
+“Many investors have been playing the cash and carry trade – that is, shorting futures and long spot to profit from a tightening of the basis,” David Grider, strategist at FundStrat, told CoinDesk in an email.
+
+The arbitrage trade has become less attractive as the bitcoin futures curve flattened over the past few months.
+
+Contango, a term used to describe the bullish arbitrage, occurs when the bitcoin futures price is higher than the spot price. Since April, bitcoin’s contango has narrowed as bullish sentiment waned.
+
+Chart shows the BTC futures three-month basis across exchanges, which represents the relative difference between the price of the futures contract and the spot rate on an annual timeframe. Source: Arcane Research
+
+The one-month bitcoin futures contract has already moved into backwardation, which means the futures price is lower than the spot price. That’s another bearish signal.
+
+Bitcoin funding rate turns negative
+
+Arcane Research also pointed to the negative funding rate on bitcoin perpetual swaps as a sign that short traders are in control.
+
+Perpetual swaps are a type of derivative in cryptocurrency markets used to bet on future prices, similar to futures contracts in traditional commodities markets. A negative funding rate means traders who are short – betting on further price declines – are paying traders who are long, or positioned bullish, for leverage.
+
+Chart shows the bitcoin funding rate, which flipped negative, indicating shorts are paying longs to establish positions. Source: Arcane Research
+
+“Long story short: The bulls got spooked, and diamond hands turned out to be made of coal,” Nathan Cox, chief investment officer at Two Prime, a digital-asset investment manager, wrote in an email to CoinDesk.
+
+However, a negative funding rate can be a contrarian signal.

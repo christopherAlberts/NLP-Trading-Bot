@@ -1,0 +1,45 @@
+As Bitcoin (BTC) tested the $43,000 support for the third consecutive day, whales bought the dip on derivatives exchanges. While there has been no significant price change, the Bitcoin futures premium reached its lowest level in six months. This indicator matches Dec. 11, 2020, when Bitcoin hit a $17,600 low just 10 days after making an all-time high at $19,915.
+
+Bitcoin/USD price on Coinbase, December 2020. Source: TradingView
+
+In December 2020, derivatives action triggered a 95% rally in 23 days, taking Bitcoin to a new high at $42,000. In addition to the futures premium bottoming, rumors of potentially harmful United States regulation played a central-stage role in the market downturn in both instances.
+
+Regulatory uncertainties are back to the spotlight
+
+This time around, U.S. Treasury Secretary Janet Yellen stated at the Washington Square Journal CEO Council Summit on May 4 that:
+
+"There are issues around money laundering, Bank Secrecy Act, use of digital currencies for illicit payments, consumer protection and the like."
+
+On May 6, U.S. Securities and Exchange Commission chair Gary Gensler punted to Congress the idea of providing more regulatory oversight to the crypto space. Gensler said:
+
+"Right now, there's not a market regulator around these crypto exchanges, and thus there's really no protection against fraud or manipulation."
+
+Adding to the regulatory haze, on May 11, the U.S. Securities and Exchange Commission issued an investor warning pointing out risks of mutual funds that have exposure to Bitcoin futures.
+
+OKEx Bitcoin 3-month futures annualized premium, December 2020. Source: Skew
+
+As Bitcoin reached a $19,915 all-time high on Dec. 1 and the futures premium spiked above 15%, the premium reacted to the price correction. Although the 8% low seems near the previous month’s average, it is very modest considering Bitcoin had rallied 90% in two months.
+
+Notice that as soon as the $17,600 level proved its strength, the futures premium spiked to 15%, indicating optimism.
+
+OKEx Bitcoin 3-month futures annualized premium, May 2021. Source: Skew
+
+The current situation began differently, as the market has been excessively optimistic from the start. However, the situation drastically changed over the past week as Bitcoin dropped 26%. This move caused the futures premium to reach its lowest level in six months at 8%.
+
+Whales aggressively bought below $43,000
+
+However, the bearish sentiment on May 17 lasted for a very short period, as whales finally decided it was time to buy the dip.
+
+The top traders' long-to-short indicator is calculated using clients' consolidated positions, including margin, perpetual and futures contracts. This metric provides a broader view of the professional traders' effective net position by gathering data from multiple markets.
+
+Top traders Bitcoin long-to-short ratio at OKEx. Source: Bybt
+
+Top traders on OKEx moved from a 1.62 long-to-short ratio on May 16 to a 2.74 peak as Bitcoin tested the $43,000 support in the early hours of May 17. This data indicates that whales and market makers had long positions almost three times larger than shorts, which is very uncommon.
+
+While their bullish bet remains, it signals a complete pattern from the previous week. Business intelligence firm MicroStrategy also scooped up another $10 million worth of Bitcoin at an average price of $43,663.
+
+Although it might be too soon to declare that the correction phase has ended, there seems to be enough evidence regarding the futures premium bottoming and whales' intense buying activity below $43,000.
+
+If history repeats and a 95% rally follows suit, Bitcoin could reach $83,000 in mid-June.
+
+The views and opinions expressed here are solely those of the author and do not necessarily reflect the views of Cointelegraph. Every investment and trading move involves risk. You should conduct your own research when making a decision.

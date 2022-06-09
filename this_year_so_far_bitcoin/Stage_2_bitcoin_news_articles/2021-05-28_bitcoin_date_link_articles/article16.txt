@@ -1,0 +1,25 @@
+SHERIDAN, Wyo., May 28, 2021 /PRNewswire/ -- COMIT Network, an Australian research and development workgroup, have announced that trustless atomic swaps between Monero and Bitcoin are now live on mainnet. This allows users to trade XMR for BTC without needing to trust an intermediary or the trading counterparty. Users can more easily trade worldwide without using a regulated financial institution.
+
+The Monero cryptocurrency is best-known for its private and fungible properties. Unlike other cryptocurrencies, Monero hides the sender, receiver, and amount for all transactions. This allows its privacy protections to grow to cover more transactions than are involved in Bitcoin mixing, Ethereum mixing, and all other "privacy coins" combined. Monero is the recognized global standard in private digital payments.
+
+Though COMIT Network's atomic swaps are available today, other similar projects are in development by other teams. The Farcaster project raised 2727 XMR (worth $650,000 today) to build out a similar trustless atomic swaps implementation. Haveno, a Monero-focused fork of Bisq, is implementing atomic swaps for their XMR/BTC trading pair. Relatedly, cross-chain bridges (with varying degrees of distributed trust) have been announced for Secret Network and Thorchain, which will allow for easy trading with Ethereum and Binance Smart Chain tokens.
+
+Limited trading venues despite surging retail user demand for private and fungible money have created a strong demand for these decentralized exchanges. There are more than double as many average daily Monero transactions than there were a year ago.
+
+"The decentralized Monero exchange technology is here, so now it's a race for wallets to provide the best user experience," says Justin Ehrenhofer, an organizer of Monero Space. "With such high user demand for easy and private peer-to-peer exchanges, it's only a matter of time before wallets widely implement them."
+
+Popular Bitcoin and Monero wallets expressed their interest in supporting atomic swaps. Samourai Wallet and Monerujo performed a test swap earlier this month. Cake Wallet expressed interest in supporting atomic swaps. Decentralized exchange volume exceeded $9 billion today across all cryptocurrencies according to CoinGecko, up significantly since last year.
+
+Press Contacts
+
+On Monero generally: [email protected]
+
+On COMIT technical specs: [email protected]
+
+About Monero Space
+
+Monero Space is an open workgroup that provides services for the decentralized Monero ecosystem.
+
+https://monero.space
+
+SOURCE Monero Space LLC

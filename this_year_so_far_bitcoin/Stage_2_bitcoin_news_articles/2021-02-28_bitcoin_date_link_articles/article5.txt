@@ -1,0 +1,37 @@
+20 Bitcoin Block Rewards from 2010 Moved Today, Mystery Miner Spent $400 Million in BTC Since Black Thursday
+
+On Saturday, February 27, 2021, news.Bitcoin.com reported on the great number of 2010 and 2011 block rewards being spent this year. In that report, it was said that the mysterious whale entity we’ve been hunting “did not move a major string of bitcoin’s” since January 25. Following the publishing of that study, on Sunday, the old-school whale miner moved another 20 block rewards from 2010, as 1,000 bitcoins that sat idle for well over a decade were spent.
+
+9,000 Decade-Old Bitcoins Spent Since March 11, 2020
+
+Since mid-March, news.Bitcoin.com has been on the trail for an old-school bitcoin (BTC) miner that has been spending large strings of 2010 block rewards. A block reward is an incentive a bitcoin miner gets for finding a block on the Bitcoin blockchain and before 2012, all rewards were 50 BTC per block. Further, the technical term “spend” or “spent,” simply means the owner moved the coins, but it doesn’t necessarily mean the bitcoins were “sold” to another owner.
+
+Our report on Saturday, had shown that there were 80 block rewards from 2010 that were spent this year. Interestingly, 40 block rewards from the 2011 days also got spent in 2021 as well. On Sunday, February 28, 2021, following our last report, the whale miner once again spent another 20 block rewards from 2010 at block height 672,501. It’s assumed the mystery miner is seeking attention.
+
+Our last study also mentioned the mega-whale or group of whales that have been spending these 2010 blocks in strings of 20 blocks per transfer since mid-March. Our team alongside researchers from Btcparser.com and the Russian blockchain researcher, Issak Shvarts, have discovered a total of 9 spending strings from 2010.
+
+All of the strings use the same exact pattern of spending in concessions of 20 consecutive decade-old blocks. 20 block reward string spends from 2010 happened on March 11, 2020, October 11, November 7, November 8, December 27, January 3, 2021 (Bitcoin’s anniversary), January 10, January 25, and today (Sunday, February 28, 2021) as well.
+
+That’s a total of 180 block rewards and each and every one of them contained 50 BTC per block. The person(s) always consolidates the bitcoins into a single BTC address and then the coins are dispersed thereafter in fractions. Usually, all the strings of spent blocks stem from July 2010 up until November 2010, and the coinbase dates are always the same months.
+
+The block explorer oxt.me also shows the 2010 whale’s pattern of spending habits are always the same. One researcher discussing the subject with our newsdesk yesterday said: “Maybe they have some special application, a script, which is not really flexible and may get only 20 private keys at a time, but a list of receiving addresses.”
+
+Either Spending Solutions Are Not Flexible or the Whale Is Flexing and Wants Attention
+
+Blockchair’s privacy-o-meter shows the mystery miner’s first spends are always susceptible to heuristics and transaction tracing tools. The 2010 string spends always have a “rare fingerprint,” “co-spending,” “same address in inputs,” and “sweep” techniques.
+
+After the first consolidation, the transactions ‘go dark’ from here, and privacy is increased from 0 to 100 points according to Blockchair stats. Issak Shvarts believes that numerous 2010 strings that have followed this exact same spending pattern have likely been sold to the San Francisco-based exchange Coinbase.
+
+Moreover, except for the one specific mid-March 2020 decade-old string spend, the mysterious miner or miners always spend the corresponding bitcoin cash (BCH) as well. Furthermore, the mining entity never moves the corresponding bitcoinsv (BSV), except for the one time on March 11.
+
+Whatever the case may be, the old-school whale or whales spending the strings of 2010 block rewards seem to want attention. Unless the whale is forced to use a non-flexible spending script or weird spending habit, our deduction so far is that the whale is a show-off and definitely wants the public’s attention.
+
+It is quite a coincidence that after our newsdesk writes: “So far, this particular entity or entities have not moved a major string of bitcoins since then” yesterday, and then the whale spends another string of 20 block rewards from 2010 (1,000 BTC). We also know on October 11, the entity or entities did send 9.99999943 BTC ($114k worth at the time) to the Free Software Foundation and another 9.999 BTC to the American Institute for Economic Research (AIER).
+
+The whale has spent roughly 180 decade-old block rewards to-date, adding up to approximately 9,000 BTC. That’s over $400 million worth of bitcoin using exchange rates on Sunday, February 28, 2021.
+
+What do you think about the 9,000 bitcoins from 2010 spent since March 11, 2020? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, theholyroger.com/satoshi-bags-tracker, Btcparser.com,
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

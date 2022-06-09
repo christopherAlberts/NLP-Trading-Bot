@@ -1,0 +1,51 @@
+For the purposes of historical comparison, it’s also worth noting that the pattern of the dominance chart currently looks much like it did during the earlier part of 2017.
+
+As the markets have gone into meltdown since May 12, Bitcoin (BTC) dominance has fluctuated dramatically, bucking 2021’s prevailing trend. Before the sell-off started in earnest, BTC dominance had been falling pretty steadily from around 70% in January to a low of under 40% by the time the crash was underway. At that point, BTC dominance was at its lowest since the summer of 2018. It has since recovered to above 43%.
+
+If the same pattern is underway this time around, then the market is likely to be at the equivalent of summer 2017 when the alt season was just ramping up, and still some months away from Bitcoin’s price peak of around $20,000 in December 2017.
+
+Of course, while the patterns draw some interesting parallels, BTC dominance doesn’t necessarily tell that much about price. But it does offer insights into how the flagship asset is performing in relation to the rest of the markets, underpinning certain trends. So, what are the likely scenarios for BTC dominance, and what would it mean for the markets?
+
+Follow the money flow
+
+The money flow model is one potential predictor of where the markets could go. The model states that money flows from fiat into Bitcoin, and then down from large caps, through mid-caps to small-cap altcoins before redirecting back to BTC and, ultimately, back to fiat.
+
+This model is interesting because it pretty much sums up what happened in 2017, except that the cycle played out twice as BTC surged toward the end of the year. So, if the 2017 scenario repeats itself, BTC dominance could continue to rise until the flagship asset sees another price peak, then fall as alt season accelerates once again.
+
+Along with the eerie similarities of the dominance charts, the behavior of the alt markets also offers some indication that they could be performing according to historical cycles. In early May, Cointelegraph reported that altcoins had flipped their previous cycle high to support — a move that last happened in 2017.
+
+If the cycle repeats, it could still launch the alt markets to stratospheric new heights in 2021. While the performance observed during May may not offer much reassurance in this regard, there’s also nothing yet to indicate that BTC and the broader markets won’t perform according to long-term trends. Sam Bankman-Fried, CEO of exchange FTX and Alameda Research, told Cointelegraph:
+
+“If we enter a prolonged bear market, I would expect BTC dominance to rise, as it did in 2018–2019; but the correction we’ve seen so far isn’t enough to trigger that.”
+
+But wait...
+
+For individual investors looking to follow the money flow, there is one big consideration. Speaking to Cointelegraph, Robert W. Wood, managing partner at Wood LLP, warned: “The elephant in the room for diversification is taxes.” He added: “Up until 2018, many investors could claim that a swap of one crypto for another was nontaxable under section 1031 of the tax code. But the law was changed at the end of 2017.”
+
+Indeed, Omri Marian, director of the Graduate Tax Program at University of California, Irvine School of Law, confirmed that crypto-to-crypto transactions are likely to trigger tax obligations, explaining to Cointelegraph:
+
+“Any reading of one crypto asset for another is a taxable event. So whatever the profit motivation is, a cryptoassets investor must account for the fact that rebalancing of the portfolio may have a tax cost.”
+
+Shane Brunette, CEO of CryptoTaxCalculator, put it into practical terms, telling Cointelegraph: “If an investor switches between BTC and altcoins, the capital gain/loss would be realized in this financial year, regardless of whether or not they’ve ‘cashed out’ to fiat.” Furthermore, he clarified that “The activity would reset the length of time the investor has been holding the asset which would impact the eligibility to claim a long-term capital gains discount.”
+
+So, be mindful that following the money flow may come with its own set of costs, and as a result, there are no guarantees that the pattern may repeat, as new variables may have an effect.
+
+The unknown quantity
+
+The most critical difference between 2017 and now is the presence of institutions in the markets. At least, that’s true for Bitcoin and, to some extent, large-cap altcoins such as Ether (ETH). Large swathes of the alt markets, including almost all low-cap coins and memecoins like Dogecoin (DOGE), are dominated by retail traders and investors.
+
+Examining the dominance charts, BTC seemed to get a boost at the end of 2020 as institutional interest in cryptocurrencies started to pique. Its dominance continued to rise until around January.
+
+But there’s some evidence that institutions could be behind the recent boost to BTC dominance. On May 21, it emerged that whales had bought $5.5 billion worth of BTC while prices were below $36,000; two days later, crypto hedge funds MVPQ Capital, ByteTree Asset Management and Three Arrows Capital all confirmed they were dip buyers.
+
+So, there’s a chance that Bitcoin’s sudden dominance recovery may not come down to regular market cycles but instead be influenced by institutional whales scooping up discounted BTC.
+
+Risk-off, but how far?
+
+The question is: To what extent will the involvement of institutions make a difference to BTC dominance patterns compared with what was seen in 2017? Perhaps the most critical difference between institutions and retail investors is that institutions are far more likely to follow prevailing market conditions and go risk-off accordingly. Therefore, BTC dominance is rising as investors choose to step away from risk-on alts.
+
+Related: For the long haul? When Bitcoin nosedived, institutions held fast
+
+However, based on the “buying the dip” reports, it seems there’s no reason to assume that investors are going as far as going risk-off from crypto itself — at least for now. Furthermore, bullish sentiments continue to swirl around, undeterred by the market chaos of recent weeks as seen by the reports that interest in BTC appears to still be on the rise.
+
+Therefore, there’s still every chance that if interest in BTC continues to hold, and no major bad news comes in to destroy the sentiment around crypto, the money flow model may still play out once again. For now, if history holds firm, some further increases in BTC dominance will take place before investors once again start to expand into large-cap altcoins.

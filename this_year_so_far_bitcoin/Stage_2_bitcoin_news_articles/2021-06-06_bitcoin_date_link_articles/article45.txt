@@ -1,0 +1,53 @@
+While writing the world's most famous white paper, Satoshi Nakamoto defined the Bitcoin (BTC) mining process. It was established that the minting of new coins would take place through proof-of-work. To carry out this verification and to be able to mine the cryptocurrency, computers would need to solve complex mathematical calculations.
+
+In the beginning, there were not many miners. However, that changed before the first Bitcoin bull run. Mining competition skyrocketed, causing a sharp increase in the cost of machines capable of competing. Even more importantly, energy demand exploded with the new machines — which needed energy mainly for processing and cooling.
+
+After eight years, the energy demand for mining Bitcoin has grown — and today has reached 116.71 terawatt-hours per year, according to data from the Cambridge Bitcoin Electricity Consumption Index, or CBECI. At first glance, this seems like a lot, right? But let's take a closer look at the data to gain a better understanding of the real impact that Bitcoin mining has on the environment.
+
+Related: Ignore the headlines — Bitcoin mining is already greener than you think
+
+The use of energy in Bitcoin mining
+
+Some influencers have recently appeared on social media and are associating Bitcoin with an alleged increase in the use of fossil fuel energy, especially coal. In fact, some countries — such as China — use coal as an important source of energy. But is that the main fuel for the energy used?
+
+According to a study published by the University of Cambridge in September:
+
+“Hydropower is listed as the number one source of energy, with 62% of surveyed hashers indicating that their mining operations are powered by hydroelectric energy. Other types of clean energies (e.g. wind and solar) rank further down, behind coal and natural gas, which respectively account for 38% and 36% of respondents’ power sources.”
+
+Also, according to the CBECI, 25,082 TWh of energy is produced in the world yearly. Only 20,863 TWh is consumed, meaning 16.82% is wasted. Bitcoin represents an energy expenditure of 0.47% of the total energy produced and only 0.54% of total electricity consumption worldwide.
+
+Another survey recently released by Galaxy Digital compares Bitcoin's use of energy to the use of banks and gold mining. According to the document, the gold industry uses 240.61 TWh per year, while the banking system uses 263.72 TWh.
+
+Even more alarming is what the CBECI points out regarding unused electronic devices. In the United States alone, with the electricity spent in one year by connected devices that are not in use, it would be possible to feed the Bitcoin network for almost two years.
+
+Therefore, it is clear that Bitcoin's energy consumption is not as relevant as it's said to be, when compared with global energy production and waste. Not to mention that this consumption of roughly 116 TWh is responsible for providing security and access to a dignified life for millions of people around the world.
+
+What we really should be aware of when talking about Bitcoin being green is its carbon footprint.
+
+Related: Is Bitcoin a waste of energy? Pros and cons of Bitcoin mining
+
+Bitcoin's carbon footprint
+
+Unfortunately, much of the energy currently generated results in a high carbon rate, and that should be the main concern and focal point when discussing Bitcoin's environmental impact.
+
+According to data released in 2019 by the scientific journal Joule, Bitcoin's carbon footprint is between 22 and 22.9 metric tons of CO2. It is indeed a relevant amount that is comparable to Jordan or Sri Lanka’s emission rates. However, it is considerably less, for example, than the energy expenditure by the American military force, which according to data compiled by Statista emits 59 Mt CO2.
+
+Fortunately, there are simple ways to offset the carbon footprint left by Bitcoin. With the tokenization of assets, some companies have chosen to tokenize carbon credits, making it easier for miners and all those involved in some way with the cryptocurrency industry to lessen the impact caused by the generation of electrical energy used in mining machines.
+
+Looking ahead, our attention should be on the reduction of the use of fossil fuels, with the aim to diminish the remaining carbon footprint.
+
+It is worth noting that the environmental problem will not be solved only by reducing the use of fossil fuels. It is even more important to optimize the use of the generated energy while focusing on reducing any waste and unnecessary carbon emissions in the process.
+
+Related: The pandemic year ends with a tokenized carbon cap-and-trade solution
+
+Developing a green Bitcoin
+
+It is not expected that energy consumption by mining will increase a lot in the coming years, as it is more associated with computing power than the adoption of Bitcoin itself. Therefore, the 116.71 TWh should remain stable for some time.
+
+To achieve the goal of a green Bitcoin network, crypto mining companies can do their part by buying carbon credit tokens and pushing for production with less use of fossil fuels. It is unfair — to say the least — to accuse Bitcoin or miners of degrading the environment while turning a blind eye to the other 99.54% of the energy generated.
+
+Bitcoin is open and can go to the ends of the Earth, regardless of limitations or prohibitions imposed by third parties. It is important to remember that this cryptocurrency was created to provide a dignified life to ordinary and underprivileged individuals, to prevent the depreciation of money, to guarantee purchasing power and to improve the quality of life.
+
+This article does not contain investment advice or recommendations. Every investment and trading move involves risk, readers should conduct their own research when making a decision.
+
+The views, thoughts and opinions expressed here are the author’s alone and do not necessarily reflect or represent the views and opinions of Cointelegraph.

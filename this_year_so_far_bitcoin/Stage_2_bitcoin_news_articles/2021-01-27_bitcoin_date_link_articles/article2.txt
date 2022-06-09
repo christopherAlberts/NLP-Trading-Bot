@@ -1,0 +1,39 @@
+Note to readers: Bitcoin is becoming popular by the day. It has captured the imagination of many young investors and millennials. But keeping aside its meteoric rise, what is Bitcoin really? And why is the Reserve Bank of India worried? Moneycontrol’s two-part series demystifies Bitcoin and how they work. Today’s story talks about Bitcoin as an investment option.
+
+In 2017, Delhi-based Rahul Mishra, 34, invested in the Bitcoin after seeing his office colleagues do so. And like many others, he understood precious little of this new animal back then. The Bitcoin’s price had already surged to Rs 3.61 lakh, up from Rs 65,000 at the start of that year. Every month, he kept investing Rs 25,000; he had diverted his on-going mutual fund systematic investment plans to the Bitcoin.
+
+Just six months later, he got a rude shock. The Reserve Bank of India (RBI) issued a circular banning cryptocurrency trading in India. It directed all legal entities regulated by the RBI to not deal in virtual currencies or provide services to any individuals or businesses dealing in cryptocurrencies. Investors panicked, Bitcoin’s price in India crashed. In a matter of seven days, its price fell from a high of Rs 5.2 lakh per Bitcoin to Rs 3.07 lakh. His own investment in Bitcoin worth Rs 1.50 lakh before the ban, fell to Rs 30,000.
+
+Also read: Explained | RBI’s proposed cryptocurrency project and what it means for you
+
+The meteoric rise of Bitcoin
+
+One main reason behind the surge of the Bitcoin was the Supreme Court’s ruling that came last year. Already, Bitcoin is legal in the US and UK. “Most central banks have managed to tide over the COVID-19 pandemic situation by injecting excess liquidity into the system. So, part of it is getting invested in bitcoins,” says Ashvin Parekh, Managing Partner at Ashvin Parekh Advisory Services LLP. Beyond the SC relief order, there has been no news from the government’s side on the legality of the Bitcoin. For instance, you cannot use Bitcoins in India to buy goods and services. You can, however, buy and sell Bitcoins itself now. But the sheer hope of Bitcoin being acceptable as a currency causes the price to increase.
+
+The other reason is that some large institutions have begun to back Bitcoin. PayPal, a US-based online wallets firm, now allows its users to buy and sell Bitcoins. It also allows its customers to buy items from its network of 26 million sellers, by paying in Bitcoins. “Institutional support from payment giants such as PayPal and MasterCard integrating cryptocurrencies into their services, among others, have been major drivers of prices. The earlier scepticism has now given way to wide-spread acceptance,” says Sumit Gupta, Co-founder and CEO of CoinDCX.
+
+“Basic economics suggests that efficient markets discover price based on demand and supply. Given that the only 900 new Bitcoins are minted every day at present, the interest from new buyers is increasing demand disproportionately. Naturally, the price is increasing, and will increase as long as this imbalance of demand-supply exists,” says Ajeet Khurana, a cryptocurrency expert and founder of Genezis Network.
+
+How legal is Bitcoin really in India?
+
+After the SC’s judgement last year, a few crypto exchanges claimed that some public and private banks now allow customers to link their bank accounts for trading in cryptocurrency. Moneycontrol reached out to State Bank of India, ICICI Bank, Kotak Mahindra Bank, Axis Bank, IDFC First Bank, Canara Bank and Federal Bank. None of them responded.
+
+“At present, there is no law that either ratifies or prohibits trading in Bitcoin and other cryptos. We do not encourage our customers to invest in any cryptos by linking the bank accounts to cryptocurrency exchanges,” says a retail banker requesting anonymity.
+
+The challenge is about Bitcoin being recognised as a currency in a tightly-regulated currency market. Till that happens, Bitcoin will mostly likely be recognised only as an investment option.
+
+Due to lack of clarity, Bitcoin is treated as an asset, much like gold or real estate. Under the Income-Tax laws, tax experts classify Bitcoin as ‘Income from other assets’. If you sell it after three years, you pay 20 percent long-term capital gains tax with indexation benefits. Short-term gains are taxed at your personal slab.
+
+The flipside of anonymity
+
+Bitcoin’s anonymity can also work against you. Transactions, once done, cannot be reversed. Since Bitcoin is not regulated, there is no grievance settlement mechanism. All bitcoin transactions are irreversible. But most importantly, you’ve got to remember the password to your Bitcoin wallet. If you forget your Bitcoin password, there is no way to recover it. Your Bitcoin value is lost forever. Here’s how it works.
+
+All Bitcoin owners get a public key. Due to its democratic and anonymous nature, Bitcoin buyers and sellers don’t get to know each other’s identity. You are, instead, assigned a public key. That is your public identity that you use to receive the Bitcoin. Conversely, if you wish to send a Bitcoin to someone, you need the receiver’s public key. Think of it like a username. “To access your Bitcoin, however, you need to remember a private key; think of it as your password. But the keys are a set of alphanumeric characters. If you lose your keys, you lose your Bitcoin forever,” says Nischal Shetty, Founder & CEO of WazirX, crytpcurrency exchange.
+
+Should you invest in Bitcoin?
+
+Retail investors must avoid Bitcoin. Mrin Agarwal, financial educator and founder of Finsafe India, equates investing in Bitcoin to gambling. She adds, “There is no underlying asset, it’s un-regulated. Price discovery is unpredictable. Stay away.”
+
+“Investing in any asset without understanding it is akin to gambling. First time investors should spend time and effort understanding more about Bitcoin before investing. If they choose to invest they should put in small amounts, as low as Rs. 100, to try it out. And if they intend to invest significant amounts, they should use averaging strategies as no one can time the market,” suggested Ajeet Khurana.
+
+Nobody knows when the Bitcoin would become a globally-acceptable currency. “You shouldn’t bet your entire savings on Bitcoin just because of its past returns. The Bitcoin is meant only for those who can take high volatility and losses,” says Mukul Shrivastava, Partner, Forensic and Integrity Services, EY.

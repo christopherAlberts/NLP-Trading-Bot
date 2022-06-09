@@ -1,0 +1,79 @@
+Bitcoin trading on Coinbase Source: TradingView
+
+Bitcoin (BTC) was trading around $58,246.41 as of 20:00 UTC (4 p.m. ET). Slipping 1.31% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $57,421.85-$59,484.20 (CoinDesk 20)
+
+BTC trades below its 10-hour and 50-hour averages on the hourly chart, a bearish signal for market technicians.
+
+Bitcoin's futures premium creeps back up
+
+Source: Skew
+
+Recently, bitcoin’s price movements have been less exciting than the triple- and sometimes quadruple-digit-percentage gains witnessed in alternative cryptocurrencies, or “altcoins.”
+
+The No. 1 cryptocurrency has traded in a narrow range between $56,552 and $60,102 over the past week, while ether, the native token of the Ethereum blockchain, has climbed more than 20% to a new all-time high over $2,100.
+
+But in the past couple of weeks, traders in bitcoin derivative markets have been ratcheting up their bets on future gains.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+The annualized futures premium rate – a gauge of bullish bets – has averaged 22% to 25% on retail-focused derivatives exchanges like FTX, BitMEX, Deribit and Binance. That compares with about 13% on the Chicago-based CME exchange, which tends to be more focused on institutional investors.
+
+An increased futures premium – the spread between futures prices and spot-market prices – indicates that more retail traders are looking at upside exposure of the market despite bitcoin’s relatively flat performance lately.
+
+“Traders are expecting higher prices and taking on long positions,” Bendik Norheim Schei, head of research at Arcane Research, told CoinDesk.
+
+But with the increasing bullishness comes a higher risk of a snapback: The bitcoin market experienced a total $27.5 billion worth of long position liquidation during the first quarter of 2021, reflecting the huge amount of leverage in the markets built up as the largest cryptocurrency rallied into the new year, as noted by Arcane Research in its weekly newsletter on April 6.
+
+“It is always concerning when these futures premiums climb too high, indicating an overly confident and leveraged market,” according to Arcane. “This usually leads to rounds of liquidations and sharp pullbacks, so traders should consider de-risking in this current environment.”
+
+Source: Arcane Research, Bybt
+
+Ether and altcoins
+
+Ether trading on Kraken. Source: TradingView
+
+Ether (ETH) trading around $2,114.60 as of 20:00 UTC (4 p.m. ET). Climbing 0.44% over the previous 24 hours.
+
+Ether’s 24-hour range: $2,045.40-$2,151.25 (CoinDesk 20)
+
+Ether trades above its 10-hour and 50-hour averages on the hourly chart, a bullish signal for market technicians.
+
+Ether and other altcoins continue to outperform bitcoin. The No. 2 cryptocurrency by market capitalization has traded above $2,000 since it claimed a new all-time high a day ago.
+
+Ether’s latest rally “follows Visa’s announcement that transactions can be settled using USD coin (USDC), a stablecoin powered by the Ethereum blockchain,” Simon Peters, crypto analyst at eToro, wrote in an email.
+
+“Meanwhile, large volumes of ether are increasingly being locked into [decentralized finance] projects and the ETH 2.0 deposit contract,” Peters added. “This reduces the supply in circulation while announcements like Visa’s increase demand, thereby pushing prices higher.”
+
+As of April 6, more than 10 million ether are locked in decentralized finance, up from about 7 million 90 days ago, according to DeFi Pulse:
+
+Source: Defi Pulse
+
+At the same time, blockchain data site Glassnode shows that nearly 4 million ether has staked on Eth 2.0:
+
+Total ether staked on Eth 2.0 Source: Glassnode
+
+Other digital assets on the CoinDesk 20 are mostly higher Tuesday. Notable winners as of 20:00 UTC (4:00 p.m. ET):
+
+Notable losers:
+
+Other markets
+
+Equities:
+
+Asia’s Nikkei 225 closed down 1.3%.
+
+The FTSE 100 in Europe was up by 1.28%.
+
+The S&P 500 in the United States closed nearly flat, down 0.097%.
+
+Commodities:
+
+Oil was up 1.19%. Price per barrel of West Texas Intermediate crude: $59.35.
+
+Gold was in the green 0.81% and at $1742.24 as of press time.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield fell Tuesday, dipping to 1.654%.

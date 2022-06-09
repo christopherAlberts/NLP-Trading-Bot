@@ -1,0 +1,21 @@
+A 21st century version of Texas wildcatting is happening in the Permian Basin, and a Frisco company is leading the way. Silver Energy has devised a way to use natural gas byproduct from oil wells to power computers that mine for Bitcoin. If that sentence is confusing to you (How in the world does anyone “mine” a digital resource?) just know this: The company is taking a natural resource that would otherwise be burned off as waste and turning it into cheap energy. That’s enough for us to applaud the company’s innovative approach and encourage others to join it.
+
+“Mining” Bitcoin is a complex computational process that requires enormous amounts of electricity. This isn’t like plugging in a few laptops to a surge protector. Miners need terawatts. The Harvard Business Review estimates that Bitcoin mining consumes as much energy globally every year as Sweden.
+
+In search of that energy, miners have created mobile rigs to draw power from off-the-grid sources.
+
+In some parts of China, the rainy season leaves huge quantities of hydroelectric power stranded, attracting enterprising miners. Sichuan and Yunnan provinces account for 50% of global Bitcoin mining during the wet season, according to HBR.
+
+In West Texas, wasted or stranded energy is to be found at oil wells that produce natural gas as a byproduct. Often, this gas is simply burned up, a practice called flaring which we have puzzled over before. Even worse than flaring, some producers simply release the gas into the atmosphere, which is called venting.
+
+What Silver has done is to create a way to capture that gas and convert it to electricity to power a movable data center. Silver CEO Joel Gordon told us these are basically shipping containers packed with computing equipment. Silver runs them on a natural gas-powered generator. Gordon admits that it’s still burning natural gas, so there is still some environmental concern. But at least that burned resource is powering something, which is the trade-off we all make each time we crank up our gasoline-powered cars.
+
+What gets Gordon especially excited is the possibility of more applications beyond cryptocurrency.
+
+“The big story is the regionalization of electricity production,” Gordon said. “This is not a Bitcoin story, it’s a regionalization-of-power-generation story. Bitcoin is just the opportunistic front end of that.”
+
+In fact, Gordon said, the price of Bitcoin mining is rising so quickly that he expects returns to start diminishing soon. But even if Bitcoin recedes, those companies that can use stranded energy to power nearby towns or mobile data centers will be ahead of the game.
+
+Silver has few competitors in this space right now. Gordon said it’s a fairly open niche between traditional oil and gas companies that don’t want to invest in infrastructure to capture stranded gas and renewable energy companies that are reluctant to use fossil fuels.
+
+There are, of course, problems with cryptocurrency. It seems faddish and it is too often connected to darker digital enterprises. But if more companies push forward new ways to use stranded energy, that could be positive for the environment as well as the economy. For now, we’re happy to praise a Frisco company for embracing the Texas spirit. Modern-day wildcatters may be taking a risk on digital gold instead of black gold, but from where we sit, the pioneering ethos looks the same.

@@ -1,0 +1,33 @@
+Publicly traded bitcoin mining company Bitfarms (TSXV:BITF, OTC:BFARF) has signed an agreement under which it can draw up to 210 megawatts of electricity for its planned mining facility in Argentina.
+
+The initial term of the contract with a private Argentinian power producer is eight years, the company said in an announcement Monday, with an effective cost of $0.022 per kilowatt-hour for the electricity for the first four years.
+
+In October, Bitfarms had agreed to develop a 60 MW bitcoin mining operation in Argentina, noting a “favorable year-round climate” for the facility, which the company said will be a “significant contributor” to its target of 8.0 exahash/second by the end of 2022 and “provide geographic production diversification to reduce risk.”
+
+Related: Meltem Demirors at Consensus: Distributed
+
+“Our planned expansion in Argentina is a continuation of our experience and our desire to deliver value to shareholders,” said Bitfarms President Geoffrey Morphy. “The strategic expansion provides the scale and efficiency that we were seeking.”
+
+“With considerable low-cost power available to us over many years, we can enhance our margin performance in the short term and ensure we have a viable operation on which we can count through and after the next halving event in 2024,” Morphy said.
+
+According to Bitfarms’ announcement, the “210 MW is sufficient to support approximately 55,000 new-generation miners, which could generate approximately $650 million of revenues or 11,774 BTC, based on current difficulty levels and a bitcoin price of $55,000.”
+
+Bitfarms now has five industrial-scale hydroelectric facilities in Québec, Canada, with a combined capacity of 69 MW. The company is also preparing for a Nasdaq listing in a U.S. push.
+
+Bitcoin mining expansion in the Americas
+
+Related: Meghnad Desai at Consensus: Distributed
+
+In recent months, Bitfarms has purchased tens of thousands of bitcoin mining machines as part of its wider expansion efforts. In early March, it disclosed plans to buy 48,000 MicroBT mining machines. A “substantial portion” of those miners are destined for the Argentinian facility, Bitfarms said Monday.
+
+Story continues
+
+Bitfarms also announced Friday that it had purchased an additional 1,996 new MicroBT mining machines, which will be installed through August and will provide an extra 160 petahash per second.
+
+According to Ben Gagnon, director of mining operations at Bitfarms, there has never been as much capital ready to be used in North American markets as there is right now as a result of coronavirus lockdowns.
+
+“How do you invest capital in a market like this? Bitcoin mining is the perfect candidate,” he told CoinDesk “It has quick ROIs (return on investments), is capitally intense, can utilize turn-key infrastructure and produce an asset that requires no customers and is appreciating in value faster than anything else they can produce.”
+
+The company isn’t alone in its moves toward increasing the mining footprint of North American firms. Other industrial-scale miners such as Marathon, Riot and Blockcap have purchased tens of thousands of machines in recent weeks. On Monday, DMG Blockchain Solutions, another publicly traded Canadian bitcoin mining company, purchased 3,600 application specific integrated circuit (ASIC) machines.
+
+Related Stories

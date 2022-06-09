@@ -1,0 +1,27 @@
+Bitcoin’s hashrate – a way to measure the total power consumption and mining output of the network – has topped a new all-time high.
+
+The current mean hashrate of the Bitcoin network is 179.4 exahashes per second, according to data from Coin Metrics.
+
+Ethan Vera, the CTO of North American mining firm Luxor, told CoinDesk the all-time high comes during a scramble for the semiconductor chips that power ASICs, along with a scramble for the machines themselves.
+
+Related: South African Cryptocurrency Exchange iCE3 Goes Into Liquidation
+
+“The run up in bitcoin price paired with a shortage on ASIC chips has caused mining economics to turn favorably to miners, with many miners running at 85%+ mining margins,” he said.
+
+“Miners are trying to get their hands on every machine possible, and even ASICs launched in 2014 are profitable. All of Luxor’s clients have all of their rigs plugged in and hashing including their oldest machines. There is little to no idle hashrate out there.”
+
+Building on Vera’s comments, the all-time high is partly driven by previously backordered ASIC shipments finally reaching their North American buyers. Bitcoin’s mining industry has enjoyed surging growth over the past year, as big players continue to finance bulk orders of ASIC miners to the tune of the tens of thousands of units.
+
+This all-time high is partly driven by previously backordered ASIC shipments finally reaching their North American buyers. Bitcoin’s mining industry has enjoyed surging growth over the past year, as big players continue to finance bulk orders of ASIC miners to the tune of the tens of thousands of units.
+
+Related: Ripple CTO on XRP, Crypto Pullback, Buying Real Estate with BTC
+
+The hashrate high also comes in spite of the Bitcoin network’s recent 6% upwards difficulty adjustment (mining “difficulty” is a self-referencing score wherein 1 indicates the easiest mining conditions; Bitcoin’s current difficulty is 23.1 trillion).
+
+Story continues
+
+The price of bitcoin has fallen roughly 2% Tuesday to just above $58,000.
+
+Updated Tuesday, April 6, 2021, 21:05 UTC: Added a graph with information on Bitcoin’s hashrate.
+
+Related Stories

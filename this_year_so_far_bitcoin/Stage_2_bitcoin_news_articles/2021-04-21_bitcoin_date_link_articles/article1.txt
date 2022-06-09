@@ -1,0 +1,21 @@
+Bitcoin’s average transaction fees have well surpassed all-time highs as miner outages in China have slowed block production at a time when demand for block space has never been greater.
+
+Per multiple sources, the average fee is roughly $59. In 2017, during the peak of bitcoin’s (BTC) last bull market, average transaction fees just tapped $50.
+
+Bitcoin's average transaction fees have never been higher. (Bitinfo Charts)
+
+These high transaction fees coincide with a series of accidents at Chinese coal mines which have taken mining farms in the coal-rich regions of China offline. Bitcoin’s hashrate has fallen some 25% to 125 exahashes a second, according to mining pool-reported data.
+
+“This is a combination of ASIC shortages, huge price increases of BTC outpacing difficulty and the sudden hashrate drop, resulting in slower block times, backlog of transactions and extra fees per block,” Compass Mining Chief Business Officer Thomas Heller told CoinDesk.
+
+The effect of hashrate on Bitcoin transactions
+
+With as much as a quarter or more of bitcoin’s hashrate reduced and Bitcoin’s mining difficulty at an all-time high, blocks are coming in at a slow and scattered pace, with multiple blocks taking an hour or more to be mined. (One block took two hours, an incredibly rare occurrence).
+
+At this rate, Bitcoin’s mining difficulty will probably adjust in the first few days of May. This self-correcting score manages how hard or easy it is for miners to find the next block in Bitcoin’s blockchain, and it typically changes every two weeks (or more accurately, after every 2,016 blocks).
+
+Bitcoin can only adjust its difficulty by 25% each retargeting period, but estimates suggest Bitcoin is due for a 30% adjustment to correct for the drop in hashrate (which would imply more than one downward adjustment ahead, assuming more hashrate doesn’t come online). If the affected miners come online before the next difficulty adjustment, the correction wouldn’t be as severe.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+“We are expecting to hear more information in the coming days in regards to the timelines for coming back online. If things progress smoothly then it’s possible the machines could be online by the weekend,” Heller said. But “most Xinjiang miners are waiting it out,” he continued, to migrate their machines to Sichuan in anticipation of China’s rainy season.

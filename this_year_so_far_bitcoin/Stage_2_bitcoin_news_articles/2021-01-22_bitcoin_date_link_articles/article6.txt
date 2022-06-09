@@ -1,0 +1,27 @@
+Bitcoin’s price has been on a roller coaster this week, erasing almost all of its 2021’s gains on Thursday. Yet, according to on-chain data, institutions have continued their purchases of bitcoin despite the volatility and near-term bearish market sentiment.
+
+Data from on-chain data site Glassnode shows the number of addresses with 1,000 or more bitcoin (often called “whales”) continued to increase this week while bitcoin’s price dropped, dipping below $30,000 on Thursday. The count of such addresses dropped in late December and has spiked again since the beginning of 2021.
+
+The number of bitcoin addresses with more than 1,000 bitcoin in balance. Source: Glassnode
+
+As well, the number of the total bitcoin transactions on the network remains high, according to data from South-Korea based blockchain analytics firm CryptoQuant. However, the ratio of bitcoin transfers involving all exchanges to all bitcoins transfers network-wide has not gone up, indicating that most transactions were done through over-the-counter (OTC) deals, a preferred approach by institutional investors.
+
+Source: CryptoQuant
+
+One example of a large buyer during a dip occurred early Friday, when MicroStrategy announced that it bought 314 more bitcoin for $10 million during the latest market sell-off.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+“Only 7% of network transactions are used for exchange deposits and withdrawals,” Ki Young Jun, chief executive at CryptoQuant, said, adding that “93% of transactions in the Bitcoin network is used for non-exchange transactions like OTC deals.”
+
+This “buying-the-dip” behavior by institutions such as MicroStrategy isn’t something new. A fourth-quarter market report from OKEx Insights, the research arm of crypto derivatives exchange OKEx, shows that institutional investors did not take “the-wait-and-see” approach when prices were experiencing high volatility last year.
+
+The percentage of large on-chain bitcoin transactions spiked considerably in the second half of 2020 and remained high until the end of the year. Source: OKEx Insights, Catallact
+
+The percentage of on-chain transactions over 1,000 bitcoin spiked to over 45% in September and remains relatively high from just above 5% in late June last year, according to the OKEx Insights report.
+
+“Institutional investors really piled into the bitcoin space after Paul Tudor Jones announced his entrance, and they didn’t stop as 2020 came to a close,” the report read. “Additionally, we can assume that institutions were on the bidding end of the spectrum and buying large amounts of BTC – as opposed to selling – since the price of the leading cryptocurrency rose in a parabolic fashion throughout Q4 2020.”
+
+The recent price volatility is due to “over-leveraged” speculative traders and retail investors who found themselves “weak-handed,” according to OKEx Insights Senior Editor Adam James.
+
+“There is little reason to assume institutional interest in the bitcoin space will suddenly disappear in 2021,” James said, noting MicroStrategy’s new bitcoin purchase and BlackRock’s interest in bitcoin futures. “Because institutional investors tend to have longer time frames in mind when investing, they are unlikely to be phased by January’s price decrease and potentially happy to make investments at lower prices.”

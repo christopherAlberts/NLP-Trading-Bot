@@ -1,0 +1,23 @@
+
+
+
+
+Gamers looking to purchase a current-generation graphics card from NVIDIA or AMD at MSRP have found the task damn near impossible. There are several reasons for this phenomenon, including the immense performance that these graphics cards provide in games; the resulting demand from gamers eager to get their hands on one; and the meteoric rise in the value of cryptocurrencies.
+
+One cryptocurrency that has been on an incredible run during 2021 is Ethereum, which is at an all-time high. Ethereum is currently sitting at just over $2,900 in value, a nearly 4x increase since the start of 2021. Bitcoin sharply increased its value over the past four months as well. The dominant cryptocurrency entered 2021 valued at $29,333, and is currently sitting at $56,635.
+
+Ethereum currently has a market cap of nearly $340 billion compared to $1.1 trillion for Bitcoin. According to Trading View, if we gather all the available cryptocurrencies together, their collective market cap is $2.156 trillion. Exclude Bitcoin, and that figure drops to $1.099 trillion.
+
+Given these values, it's understandable why crypto miners are willing to employ every tactic in the book to get their hands on high-end graphics cards. They often use highly efficient shopping bots to grab the cards before the general populous on retail websites, while some crypto miners have gone so far as to use gaming laptops with GeForce RTX GPUs for their mining farms.
+
+And it's not just GeForce RTX 30 Series and Radeon RX 6000 Series graphics cards that have been sought after by miners. Even previous generation GeForce RTX 20 Series and Radeon RX 5000 Series SKUs are in short supply, with astronomical prices (both new and used) on third-party marketplaces. For example, the Radeon RX 5700 XT, which is very popular with Ethereum miners, sells for around $1,000 -- USED -- on eBay. This a card that initially retailed for $399 when it launched in July 2019.
+
+
+
+
+
+
+
+
+
+Ethereum monsters like the GeForce RTX 3070 and GeForce RTX 3080 are also in short supply, commanding street prices of $1,500 and $2,300 compared to their MSRPs of $499 and $899, respectively. Companies like NVIDIA are trying to limit the appeal of their latest graphics cards with upgraded Ethereum hash rate limiters, but it's only a matter of time before they're broken (again).

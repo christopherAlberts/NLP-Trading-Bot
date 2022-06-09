@@ -1,0 +1,73 @@
+Bitcoin’s (BTC) price was higher, though staying in a range over the past week of between roughly $30,000 and $34,000.
+
+“Signs of market exhaustion from the bulls are becoming more prevalent,” said Lennard Neo, head of research for the cryptocurrency-focused Stack Funds.
+
+And in what appears to be a crypto segue from the GameStop episode that has riveted global financial markets, CoinDesk’s Tanzeel Akhtar reported Thursday that prices for the digital token dogecoin (DOGE) more than doubled after the Twitter account @WSBChairman posted the following: “A lot of you are talking about dogecoin. What’s that? A meme crypto?”
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+(EDITOR’S NOTE: Dogecoin is a cryptocurrency that, unlike most of the biggest blockchain projects, doesn’t really have any serious technologists or programmers backing it, but it’s often symbolized by the face of a cute dog, which has won praise from fans ranging from Tesla CEO Elon Musk to the adult-film star Angela White. It now has a market value of $1.7 billion.)
+
+In traditional markets, European shares fell and U.S. stocks wobbled. Gold weakened 0.2% to $1,841 an ounce.
+
+Market moves
+
+For cryptocurrency traders and analysts, one of the things that’s so surreal about the GameStop saga is that it all seems so familiar.
+
+Whether illegal or perfectly legit, so many of the hallmarks of the upstart trade, bred in a social-media den as a way of challenging mighty Wall Street’s privileged position in finance, bear more than a passing resemblance to the kind of activity that takes place daily in digital markets.
+
+Not that anyone in crypto’s really bragging – just saying: The episode might serve as another example of how different markets might look and behave in a technology-enabled, decentralized future where the balance of power isn’t so concentrated among the always-winners.
+
+In search of takeaways, First Mover reached out to the financial historian Niall Ferguson, former Morgan Stanley-banker-turned-crypto-banker Caitlin Long, Themys.io CEO Jonathan Mohan and Quantum Economics founder Mati Greenspan. Here’s what they said:
+
+1) The GameStop coterie isn’t the only crowd taking on big finance. Just like the retail-trading raiders in the Reddit forum Wall Street Bets who took on short-selling hedge funds with billions of dollars of capital, the cryptocurrency industry was born as a way to fight back against concentration of power and wealth. The Bitcoin blockchain was invented as a peer-to-peer electronic payment system, designed to be free from the influence or control (or rent-seeking tendency) of banks. “In the plague year, a lot of people have started to experiment with investing in things they hadn’t really touched before,” Ferguson said in a Zoom interview. “The barbarians [at] the gates 30 years ago are the establishment now, and there are new barbarians at the gates.”
+
+2) Percentage moves, in the hundreds, are something to expect, even accept. As reported Wednesday by CoinDesk’s Zack Voell, GameStop (GME) saw its stock price surge nearly 900% in five days. That’s not unprecedented in digital markets. Sure, bitcoin’s price quadrupled last year. Ether (ETH), the native cryptocurrency of the Ethereum blockchain, rose fivefold. But, according to the website CoinMarketCap, there are at least 8,350 cryptocurrencies in existence, many of which nobody has ever heard of, and many of whose prices go up and down by ridiculous amounts nearly every day (see table below). The whole thing can sometimes resemble pink-sheet markets where hard-luck penny-stock traders sometimes finds good luck. But it’s also apparently what happens when entrepreneurs and speculators get together in a lightly policed market environment. “There are certainly within the crypto markets a lot of scams and pump and dumps, but you gotta take the bad with good,” Greenspan said in an audio interview over Telegram. “Overall, what we’re talking about is the democratization and freedom of financial markets.”
+
+Digital tokens whose prices have increased by multiples just over the past seven days. (EDITOR'S NOTE: We've never heard of any of these.) Source: Messari
+
+3) Bookkeeping-by-blockchain might be more efficient than Wall Street’s ledger systems. According to the firm S3 Partners, some 139% of GameStop’s available shares were borrowed to “sell short” – meaning the traders sold the borrowed shares in a bet that the stock price would go down; the idea is they’ll buy the shares back to repay the stock loan after the price falls. Long, whose firm Avanti won a special-purpose banking charter in October from the state of Wyoming, says GameStop’s ratio shows some big investors might have sold shares that they hadn’t already borrowed, a practice known as “naked short-selling” that is generally prohibited but loosely enforced. It happens because of Wall Street’s impossibility of instantaneously coordinating multiple ledgers of who owns what and when. With blockchain networks, the information is always being synchronized. “Bitcoin really does fix this, because Bitcoin is an honest ledger,” Long said in a phone interview. “The reason why the crypto market is so riled up about GameStop is because the crypto market has known about the inaccuracies in Wall Street’s bookkeeping for years. This is just another in a long list of examples.”
+
+4) Many new investors appear to be in it not just for the money, but the fun, the entertainment, the joke, the thrill. GameStop as a franchise is a sort of punchline. Not only are almost all games sold online, but people certainly aren’t flocking to the stores these days. Even the brand looks worn. “Some people are saying that the fundamentals are broken and that they don’t understand what happened with GameStop, and that it’s some kind of meme or a joke,” Mohan said in a phone interview. “In cryptocurrency we call that dogecoin. It’s a well-understood phenomenon. Sometimes retail investors can aggregate demand, over a joke, to the tune of hundreds of millions of dollars. That spirit and that essence is sort of bubbling out into the traditional equities market.”
+
+– Bradley Keoun
+
+What's hot
+
+Guggenheim CIO Minerd, who has predicted a bitcoin price of $400K, tells Bloomberg TV the base of institutional buyers is “just not there” to push bitcoin’s price above $35,000 (CoinDesk)
+
+Blockstream buys $25M of bitcoin mining machines from MicroBT (CoinDesk)
+
+Grayscale eyes DeFi with new trust filings (CoinDesk) (EDITOR’S NOTE: Grayscale is owned by Digital Currency Group, which also owns CoinDesk.)
+
+Crypto’s young believers stoke craze for penny stocks in companies with exposure to bitcoin (Bloomberg)
+
+Riding on the coattails of crypto’s bull run, DeFi token UNI from Uniswap breaks $15 on Coinbase exchange, has nearly doubled in past seven days (CoinDesk)
+
+GameStop backlash could lead to curbs on “memetic disturbances,” or even “the squeezening,” Preston Byrne writes in op-ed (CoinDesk Opinion)
+
+Analogs
+
+The latest on the economy and traditional finance
+
+Market chaos fueled by bands of retail traders reportedly leads to counter-measures from Wall Street firms TD Ameritrade and Wells Fargo, as a spokeswoman for U.S. President Joe Biden says the new administration is “monitoring” the GameStop situation (CoinDesk)
+
+U.S. Securities and Exchange Commission “actively monitoring the ongoing market volatility in the options and equities markets” (SEC)
+
+“What seems to be unfolding here is a crypto-esque farce combining volatile trading and chatroom-driven tips reminiscent of cryptocurrencies like bitcoin and penny stocks, all in a market juiced by pandemic stimulus,” Lionel Laurent writes in column (Bloomberg Opinion)
+
+In 11 hours of pure mania, 100% stock gains propped up everywhere (Bloomberg)
+
+“Gotta admit it’s really something to see Wall Streeters with a long history of treating our economy as a casino complain about a message board of posters also treating the market as a casino. Anyways, Tax the Rich,” U.S. Representative Alexandria Ocasio-Cortez writes (Twitter)
+
+Goldman Sachs strategist joins chorus saying “buy the dip” in stocks (Bloomberg)
+
+Federal Reserve Chair Powell says, “We’d welcome higher inflation” (CoinDesk)
+
+Bank of America banker revolt spurs retreat on bonus plan for veteran staff (Bloomberg)
+
+Amid protests at home, Russia’s Putin warns of global tensions similar to 1930s in Davos speech (Bloomberg)
+
+Samsung looking at “meaningful” M&A deals over next three years (Nikkei Asia Review)
+
+Tweet of the day

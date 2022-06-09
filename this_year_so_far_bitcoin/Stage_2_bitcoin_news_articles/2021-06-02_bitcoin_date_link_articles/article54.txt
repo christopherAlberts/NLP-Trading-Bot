@@ -1,0 +1,263 @@
+In this issue
+
+Is India’s central bank greenlighting crypto? Thailand’s SEC tries to rein in DeFi with new rules Bitcoin transaction fees plummet to new lows Cardano rolls out Alonzo upgrade in prep for DeFi Will China’s future digital yuan offer smart contracts?
+
+From the Editor’s Desk
+
+
+
+Dear Reader,
+
+
+
+In Asia, “face” — maintaining one’s outward dignity — counts for a lot. And this week, many faces were on display.
+
+
+
+At India’s central bank, red faces might have been the order of the day. On Monday, the Reserve Bank of India was busy trying to keep face while covering the opposite part of its anatomy. The RBI appeared finally to have been compelled to admit that its crypto banking ban, imposed back in 2018, was no longer the law of the land. It issued a circular conceding — 14 months after the Supreme Court struck it down — that the ban was “no longer valid.”
+
+
+
+The central bank’s volte-face appeared to have been prompted by a backlash among commercial bank customers angered by warnings not to trade cryptocurrencies, in some cases accompanied by threats to suspend or close customers’ accounts.
+
+
+
+As the RBI stopped the banks’ embrace of its earlier stance on crypto, it nonetheless managed a parting shot, reminding lenders to pay careful attention to due diligence — presumably lest the crypto community get the impression that they had chalked up a victory.
+
+
+
+Who says there’s no grace — or face — in defeat?
+
+
+
+Face of a different sort has been on display elsewhere in Asia in the past week.
+
+
+
+In China, former central bank director Yao Qian addressed comments by U.S. Federal Reserve Chairman Jerome Powell, who said the country’s prototype digital currency was another means by which Beijing would surveil its own population.
+
+
+
+In a brave-faced response strong on defense but perhaps ironic, Yao noted that Chinese authorities could snoop on individuals’ financial affairs already, courtesy of the ubiquitous use of payment platforms such as Alipay and WeChat Pay.
+
+
+
+And in Thailand, the securities regulator put on its game face as it limbered up to bring order to the field of decentralized finance.
+
+
+
+Although Thailand’s Securities and Exchange Commission may share a name with its U.S. counterpart, that may be as far as comparisons go, given the respective institutional muscle of the two regulators. It’s even been suggested that the Thai watchdog may have bitten off more than it can chew as it tries to regulate DeFi — a sector already notorious for its amorphous qualities.
+
+
+
+Thailand’s “land of smiles” visage may slip once its SEC begins to grapple with a sector that can’t always be taken at face value.
+
+
+
+Until the next time,
+
+
+
+Angie Lau,
+
+Founder and Editor-in-Chief
+
+Forkast.News
+
+1. Is India’s central bank greenlighting crypto?
+
+India’s central bank is now telling the public that its 2018 crypto banking ban is no longer valid. Image: Envato Elements
+
+By the numbers: RBI crypto — over 5,000% increase in Google search volume.
+
+Just recently, Indian banks were refusing to service crypto-related transactions, citing a crypto banking ban imposed by the nation’s central bank back in 2018. But the Reserve Bank of India — which has long been perceived as being anti-crypto — unequivocally reminded banks this week that the nation’s highest court had struck down the crypto banking ban more than a year ago.
+
+The notice from the RBI also said that banks may continue to take necessary action to ensure that transactions complied with regulatory guidelines such as know-your-customer, anti-money laundering and combating of financing of terroristm.
+
+The Indian Parliament has yet to make a decision on proposed legislation that would virtually ban cryptocurrencies in the nation. But Finance Minister Nirmala Sitharaman has hinted that India would not be shutting down crypto transactions and that it’s leaning towards regulation.
+
+Forkast.Insights | What does it mean?
+
+
+
+India has a checkered history with cryptocurrency, New Delhi having oscillated between either banning or regulating virtual currencies such as Bitcoin. Although the latest development in the Indian cryptocurrency market is being celebrated, it may be necessary to take a step back and examine what actually happened and perhaps put the champagne back on ice.
+
+
+
+Just after several major Indian banks — including the State Bank of India and HDFC Bank — issued warnings to customers against using their services to trade cryptocurrency, the RBI stepped in to clarify that financial institutions could not cite a legally defunct circular it had issued in 2018 for such communications.
+
+
+
+Did the RBI act because it’s now endorsing cryptocurrency trading? No. It did so because the circular in question — which prohibited India’s banks from providing services to crypto exchanges and businesses dealing with digital assets — was ruled invalid by the country’s Supreme Court in March 2020.
+
+
+
+The RBI has in fact not taken any position indicating that it recognizes the legality of cryptocurrency transactions in India. In this instance, it’s important to understand that when the Supreme Court threw out the crypto banking ban in 2020, the opponent in the case was the central bank itself, and that the RBI’s clarification to Indian banks on May 31 may simply be a way of ensuring it avoids legal hazard.
+
+
+
+If the central bank were to remain silent as SBI and HDFC Bank leveraged an invalid circular it issued in 2018, it could court renewed attention from the Supreme Court and perhaps spur further judicial action. The RBI is merely safeguarding its position by issuing the clarification, most likely on the advice of its legal counsel.
+
+
+
+So, has the RBI given the green light to cryptocurrency in India? Not at all. It is likely just protecting itself.
+
+2. Thailand’s SEC tries to rein in DeFi with new rules
+
+Thailand’s securities watchdog is taking a shot at regulating DeFi. Image: Envato Elements
+
+By the numbers: TukTuk finance — over 5,000% increase in Google search volume.
+
+Thailand’s Securities and Exchange Commission is making an attempt to regulate the Wild East’s decentralized finance (DeFi) sector following the launch of decentralized exchange TukTuk Finance on Thailand-based blockchain Bitkub Chain. The launch saw the protocol’s native crypto, TUK, surge to a valuation of hundreds of U.S. dollars before tanking to US$1 in a matter of a few minutes.
+
+The SEC issued a statement to DeFi developers in Thailand, requesting that those issuing DeFi tokens obtain licenses. Failure to do so, the SEC warned, would result in punishment under the country’s Digital Assets Act.
+
+TukTuk Finance has more than US$15 million of value locked in its platform, and TUK is currently trading at around US$1. The liquidity pool of TUK to KUB — Bitkub’s cryptocurrency — had an APR upwards of 1,300% as of press time.
+
+Forkast.Insights | What does it mean?
+
+
+
+The decentralized finance ecosystem has enjoyed a phenomenal rise over the past year, building on the momentum of cryptocurrencies such as Bitcoin and Ethereum, with the blockchain technology that supported them decentralizing the computing work needed to support their networks. These blockchain networks have allowed users to transact on a peer-to-peer basis, supporting smart-contract functionality that has eliminated the need for central intermediaries. However, the boom in cryptocurrency trading still requires centralized exchanges such as Coinbase and Binance, which allow users to trade crypto using fiat onramps, and, as such, these exchanges can be subject to regulation because fiat deposits and withdrawals require the use of credit cards and bank accounts.
+
+
+
+Global regulators are having a difficult time imposing legal frameworks and parameters on new forms of financial technology such as Bitcoin and the exchanges that intermediate them, but Thailand’s SEC is now attempting to confront DeFi — a sector that takes decentralization to an entirely new level.
+
+
+
+DeFi services go beyond the work begun by cryptocurrencies. Decentralized exchanges are faceless protocols that leverage smart contracts to recreate traditional financial instruments and generate new ones. They promise a dynamic, disintermediating revolution in finance, replacing exchanges, market-makers, asset managers and financial institutions such as banks and lenders with software. And because they employ decentralized, permissionless blockchains as their settlement layer, DeFi platforms are open to anyone, anywhere, who can gain access to cryptocurrencies.
+
+
+
+To the tech savvy crypto faithful, DeFi represents new and innovative democratized access to financial products, easier access to liquidity, improved market efficiency, and enhanced financial privacy. But, as seen far too often over the past year with DeFi, the ecosystem can also be seriously risky for its users.
+
+
+
+A far too common occurrence in DeFi is the “rug pull” — a malicious tactic of bad actors in the crypto industry in which crypto developers abandon a project and simply run away with investors’ funds, hidden in the anonymity of cyberspace.
+
+
+
+The reality is that when it comes to DeFi, the ecosystem’s observers are split on regulation. Although many believe that regulation could greatly boost the industry, others believe it simply cannot be put in place without crippling it.
+
+
+
+In essence, all financial regulation must assume the presence of intermediaries, and regulatory frameworks are imposed on these intermediaries, such as is currently occurring with crypto exchanges like Coinbase and Binance. But the question remains for Thailand’s SEC: How can it possibly find a way to regulate decentralized financial markets and related activities? Its route, at least according to its statement, appears to be pushing the task onto the traders who dabble in DeFi. But Thai regulators and policymakers may find DeFi carries them into uncharted waters that they may lack the means to navigate.
+
+3. Bitcoin transaction fees plummet
+
+Bitcoin prices have been dropping markedly, and so have BTC transaction fees. Image: Envato Elements
+
+By the numbers: Bitcoin — 1,150% increase in Google search volume.
+
+Bitcoin transaction fees have fallen to their lowest level since January. The current average transaction fee is US$7.30, while BTC was trading at US$37,154, with a market capitalization of US$695.7 billion, as of press time.
+
+BTC transaction fees are coming down from an all-time high of an average around US$63 per transaction.
+
+Bitcoin is also under scrutiny for the colossal amount of electricity used to mine it. Its carbon footprint has played a key role in a ban on mining activities in parts of China, which has led to the closure or migration of some miners. Argentina, on the other hand, is experiencing a crypto mining boom, thanks to its subsidized electricity.
+
+Forkast.Insights | What does it mean?
+
+
+
+Bitcoin’s transaction fees have fallen to six-month lows as the markets continue to cool off following an overheated run during the first half of the year.
+
+
+
+In February, it was revealed that electric carmaker Tesla had purchased US$1.5 billion of Bitcoin as a long-term investment, bringing in a surge of retail demand and fear of missing out. Bitcoin would continue to rise to an all-time high of US$64,787.65 on April 14, further buoyed by the largest U.S. cryptocurrency exchange Coinbase going public in a direct listing on Nasdaq.
+
+
+
+According to BitInfoCharts, as BTC’s price hit an all-time high, so too did the average price of performing a transaction using the coin, which also rose to an all-time high of US$62.77.
+
+
+
+Then its momentum faltered, and BTC’s price took a massive hit in mid-May when Tesla founder Elon Musk announced that the carmaker would no longer accept it as payment due to concerns over its environmental impact. The original cryptocurrency’s price was pushed further down as China announced restrictions on cryptocurrency mining — the country is currently responsible for 65% of Bitcoin’s hash rate. China went further, and is cracking down on crypto use by banks and other businesses in the finance sector, sending shockwaves through the industry and depressing prices further.
+
+
+
+Bitcoin dropped 37.5% in May alone, hitting a low of US$34,195 yesterday, making the month’s losses the second-largest single-month drop on record after it fell 40% in September 2011. With the price correction, Bitcoin transaction fees have fallen, and are now at around US$7 per transaction, down 88% since Elon Musk began spreading Bitcoin fear, uncertainty and doubt six weeks ago.
+
+
+
+Although the Bitcoin bull run might have been a lot of fun for some investors, the reversal has been an expensive lesson for others who failed to keep their heads in an extremely volatile market. But it could also be an opportunity to re-enter the Bitcoin market at a more reasonable price, and a chance to perform peer-to-peer transactions for reasonable fees. Bitcoin may be down, but if we observe the lessons of the past, it is most definitely not out.
+
+4. Alonzo sets Cardano up for DeFi
+
+Cardano has launched its Alonzo testnet for smart-contract functionality. Image: Envato Elements
+
+By the numbers: Cardano — over 5,000% increase in Google search volume.
+
+Cardano has launched the first testnet for its Alonzo upgrade, which will introduce much-anticipated smart-contract functionalities to the blockchain and allow ADA holders to join the world of decentralized finance. ADA was trading at US$1.76 as of publishing time.
+
+Alonzo will be rolled out over 90 days, and smart-contract capability is expected on the Cardano blockchain by the end of August.
+
+Cardano has recently partnered with the government of Ethiopia to provide local students with decentralized IDs on the Cardano blockchain.
+
+IOHK aims to bring DeFi capabilities to the unbanked region in Africa to persuade Fortune 500 companies to join Cardano’s ventures.
+
+Forkast.Insights | What does it mean?
+
+
+
+Cardano’s ADA has been one of the fastest-growing cryptocurrencies of the crypto bull run over the past year — and in the next 90 days, the project’s believers may be able to justify its current position as the fourth-largest cryptocurrency, with a market cap of US$56 billion.
+
+
+
+Input Output Hong Kong, the company behind the Cardano blockchain, has started rolling out the infrastructure required to finally introduce smart contracts and compete in the decentralized finance space, which is currently dominated by Ethereum.
+
+
+
+The Alonzo blue testnet is the first stage in a series of upgrades to the Cardano blockchain that will introduce full smart-contract functionality by the end of August, according to founder Charles Hoskinson.
+
+
+
+Alonzo is described as the ultimate phase in the network’s “Goguen” era by Hoskison, and will be rolled out in three stages — blue, white and purple, leading up to a hard fork expected in August.
+
+
+
+In a YouTube broadcast on May 24, Hoskinson explained to the Cardano faithful that Alonzo represents “the most critical engineering path, integration path, coordination path, and community path … for the next 90 days.”
+
+
+
+Cardano has received both criticism and praise for its incredibly slow development since inception, with developers taking a rigorous, research-based approach to the blockchain. This has allowed Ethereum to continue to dominate most of the DeFi space and extend its lead in enterprise adoption. However, Ethereum has also faced many hiccups, and is currently hampered by an obvious lack of scalability and high network fees, allowing rivals such as Binance Smart Chain, Polkadot and Solana to grab a piece of the action.
+
+
+
+Admirably, Cardano hasn’t been discouraged by the newcomers, and has continued its slow and steady path with no noticeable focus on speeding up development. Its native cryptocurrency, ADA, has also not suffered in the slightest — reaching an all-time high of US$2.47 on May 16 before dropping amid an overall market correction a few days later to a low of US$1.06. The launch of the Alonzo testnet has given traders further confidence, and ADA has bounced back nearly 70% to the US$1.70 mark.
+
+5. Will China’s future digital currency offer smart-contract capability?
+
+A former People’s Bank of China Digital Currency Research Lab director has hinted at interoperability and Ethereum support for China’s CBDC. Image: Envato Elements
+
+China’s digital yuan — still commonly known by its original project name, DCEP (Digital Currency, Electronic Payment) but now officially named e-CNY — should be equipped with a smart contract function, according to Yao Qian, formerly of the People’s Bank of China. Yao made the remarks at the International Financial Forum, a high-level finance meeting in Beijing on May 30.
+
+Yao, a former director of the Chinese central Bank’s Digital Currency Research Lab, which has been developing the e-CNY for the past seven years — said that digital currencies should not be a simple simulation of cash, but needed to make full use of its “digital” characteristics and that ”the future of digital currency will definitely go to smart currency.”
+
+Yao also said he noticed that many system disasters had been caused by security breaches involving smart contracts, indicating that the technology still required improvement. He said that China’s e- CNY should start from a simple smart contract based on full considerations of security and that it should expand that function in the future.
+
+Forkast.Insights | What does it mean?
+
+
+
+The e-CNY was initially conceived as merely a digital version of the yuan, but Yao said in his speech that China’s central bank digital currency “will definitely” aim to incorporate smart contract functionality.
+
+
+
+Yao, who is now the director of the Science and Technology Supervision Bureau at the China Securities Regulatory Commission, was responding to comments made by U.S. Federal Reserve Chairman Jerome Powell on the digital yuan. Answering a reporter’s question on April 28, Powell said the digital yuan’s real use was to allow “the [Chinese] government to see every payment that’s used — for which it is used in real time.”
+
+
+
+Yao dismissed Powell’s comments, and said tracking real-time payments was “not the motivation for the Chinese central bank’s digital currency experiment.” He further explained that in China, because most people already use third-party non-cash payment methods such as Alipay and WeChat Pay, the central bank had already possessed the legal and technical capability to access all real-time transactions for some time.
+
+
+
+As Yao understands it, the e-CNY is set to adopt smart-contract functionality and will be able to leverage public blockchain networks such as Ethereum and even Facebook-backed Diem (formerly known as Libra), potentially fostering greater financial inclusion.
+
+
+
+Using a two-tier design, China could use public blockchains to allow central banks to provide the digital yuan directly to users without requiring intermediaries.
+
+
+
+“Layered operations can enable the central bank’s digital currency to better benefit groups without bank accounts and achieve financial inclusion,” Yao said.

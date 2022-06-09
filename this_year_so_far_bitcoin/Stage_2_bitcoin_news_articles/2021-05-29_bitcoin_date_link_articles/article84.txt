@@ -1,0 +1,49 @@
+Bank regulators are rushing to come up with cryptocurrency rules, according to the Federal Reserve official overseeing financial regulation, but many fear the rule-making comes too late, and the unregulated bonanza may already be on the cusp of crashing and causing a broader recession that would hurt the poor most intensely.
+
+Fed Vice Chair of Supervision Randal Quarles said on May 25 that his agency and two others — the Office of the Comptroller of the Currency (OCC) and the Federal Deposit Insurance Corporation (FDIC) — are taking the lead in what appears to be a scramble to act amid a period of instability with the potential to do serious damage to the rest of the economy. About 1 in 5 financial industry professionals believe that a cryptocurrency downturn could deliver a “salient shock to financial stability” over the next 12 to 18 months, according to a Fed survey conducted between February and April.
+
+Though the rich might lose substantial sums in economic downturns, working-class people invariably suffer the most. The last four recessions and the ongoing COVID-19 recession sent millions of people on the margins into poverty, with people of color hit the hardest.
+
+“We along with the OCC and the FDIC are engaged right now in what we are calling a ‘sprint,’” Quarles said at a hearing before the Senate Banking Committee. The OCC is the primary regulator of federally chartered banks, and the FDIC is the agency that guarantees customer savings and oversees state-chartered banks. The Fed oversees bank holding companies and non-bank financial firms, and regulates the stability of the financial system as a whole.
+
+Quarles said the three agencies have been working “over a relatively concentrated period of time, to pull together all of our work in digital assets, and to have a joint view, a joint framework for their regulation and supervision practices with regard to them.”
+
+“It would be premature for me to tell you where that’s going to turn out,” he added, “but this is something that is a high priority not only as a matter of importance, but as a matter of chronology. And we expect to be able to give at least some results from that soon.”
+
+The sudden “sprint” by regulators to examine cryptocurrencies might come too late, with the entire market on the brink of collapse. A sell-off earlier this month saw cryptocurrencies lose some $1 trillion in value in a week, from a peak global market cap of $2.5 trillion on May 11.
+
+Volatility has been fueled by the structure of cryptocurrency markets. Traders can borrow 50-125 times the amount of cryptocurrency that they purchase on popular exchanges. Ownership of cryptocurrencies is highly concentrated in the hands of a relatively small number of owners, with some 42 percent of all Bitcoin owned by 2,155 unique purchasers. The value of cryptocurrencies has also fluctuated wildly in recent weeks in response to restrictions imposed by the Chinese government, and tweets from billionaire Elon Musk.
+
+With no cryptocurrency reporting requirements whatsoever for hedge fund or private equity funds, the regulators are in the dark.
+
+“While it’s welcome that the Fed, OCC and FDIC are going to be examining regulatory gaps when it comes to crypto, it’s crucial that they also examine any implications for systemic risk,” said Alexis Goldstein, a senior policy analyst at Americans for Financial Reform and a Truthout contributor. “With no cryptocurrency reporting requirements whatsoever for hedge fund or private equity funds, the regulators are in the dark.”
+
+Regulatory agencies had an opportunity to act two and a half years ago, after a previous cryptocurrency crash. Since then, the global market has grown significantly, making the negative consequences of a downturn more severe. The value of the cryptocurrency market’s most recent peak, at $2.5 trillion, was three times the size of its previous peak of $815 billion in January 2018. The most recent market boom has also come at a time of great uncertainty and hardship for many throughout the world amid the COVID-19 pandemic, suggesting that the growth might be driven by irrational optimism.
+
+By comparison, there was roughly $1.3 trillion in outstanding subprime mortgage debt in March 2007 amid the housing market meltdown that caused the Great Recession. Banks might now be engaged in safer consumer lending practices than they were during the subprime mortgage crisis, but corporations have borrowed heavily in recent years, racking up some $10.5 trillion in debt under relaxed lending standards. Fed Governor Lael Brainard warned on May 6 that inflated stock prices and “very high levels of corporate indebtedness bear watching because of the potential to amplify the effects of a re-pricing event.”
+
+Cryptocurrencies have recovered somewhat since shedding $1 trillion in value earlier this month, but numerous analysts have said the market resembles a bubble. This cohort of skeptics includes Vitalik Buterin, the 27-year-old who co-founded Ethereum, one of the more popular cryptocurrencies. “It could have ended already. It could end months from now,” Buterin told CNN.
+
+Nouriel Roubini, an economist who became famous in 2008 for predicting the subprime mortgage crisis and the Great Recession, also believes that a cryptocurrency bubble is bursting. Unlike Buterin, he questions whether cryptocurrency has any use-value at all.
+
+“A bubble occurs when the price of something is way above its fundamental value. But we can’t even determine the fundamental value of these cryptocurrencies, and yet their prices have run up dramatically,” Roubini said on May 21. “In that sense, this looks like a bubble to me.”
+
+Despite Quarles’s promise of a “sprint,” recent remarks made by one of his colleagues failed to convey the same sense of urgency. FDIC Chair Jelena McWilliams said on May 11, at the height of the market, that her priorities in examining cryptocurrencies were to “allow entrepreneurship to flourish in the United States,” and that she would be consulting with the banking industry to see “what (if anything) the FDIC should be doing.”
+
+McWilliams made the remarks in a speech to the Federalist Society, a highly ideological right-wing organization known for its embrace of laissez-faire dogma, and for handpicking judicial nominees for the Republican Party. The FDIC issued a request for information on digital assets the week after giving her speech.
+
+Both McWilliams and Quarles are Republicans who were appointed to their current positions by former President Donald Trump. Quarles’s term as a top Fed official is set to expire in October. McWilliams’s FDIC Chairmanship won’t expire until 2023.
+
+Quarles, in particular, has a reputation for having a rosy view of what will happen if banks are left to do whatever they want. In June 2006, while serving as under-secretary of the Treasury, he reacted to predictions of a housing market downturn by remarking: “I have to say that I do not think this is a likely scenario.” About two years later, the collapse of the U.S. housing market brought down the entire global financial system.
+
+The Fed vice chair was criticized at the May 25 Senate Banking Committee hearing for more recent laxness by Democratic Sen. Elizabeth Warren of Massachusetts. Warren berated Quarles for the Fed’s decision to relax its supervision of Credit Suisse before the bank lost $4.7 billion in late March after the collapse of the family fund Archegos — a firm run by Bill Hwang, a man who had been previously banned by U.S. regulators from managing public money after pleading guilty in 2012 to insider trading and wire fraud charges.
+
+Warren ripped Quarles and the Fed for their decision last year to absolve Credit Suisse and other foreign banks from answering to an oversight board called the Large Institution Supervision Coordinating Committee. She noted that prior to this decision, Credit Suisse had failed a Fed stress test in 2019 because its models were unrealistic. “Your term as chair is up in five months, and our financial system will be safer when you are gone,” Warren told Quarles.
+
+Though the Credit Suisse debacle involved more conventional forms of assets, there are lessons for those concerned about digital asset markets, Goldstein told Truthout. She noted that family funds like Archegos Capital Management aren’t subject to disclosure requirements like other asset management firms.
+
+It would be one thing if rich asset managers were only harming themselves. But by recklessly playing with huge sums of money, they risk spreading calamity throughout the economy. The Great Recession was caused by predatory lending and complex derivatives leading to systemic failure that spread misery among the working class, starting with the collapse of the investment bank Lehman Brothers in 2008. In the ensuing recession, neighborhoods with more than 40 percent of inhabitants below the poverty line increased their population by 5 million between 2010-2014. A recession could similarly spread should the market for cryptocurrency plummet even further.
+
+“There may be multiple Archegos-sized crypto whales in the shadows,” Goldstein said. “If so, they’d all be invisible to regulators because of the total lack of reporting requirements for cryptocurrency.”
+
+Copyright © Truthout. May not be reprinted without permission.

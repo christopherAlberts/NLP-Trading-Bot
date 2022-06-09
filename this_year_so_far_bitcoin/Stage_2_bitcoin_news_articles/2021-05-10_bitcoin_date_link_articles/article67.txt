@@ -1,0 +1,23 @@
+There will never be “artificial intelligence”… ever. Whatever you automate and record with Bitcoin, there will always be another party involved somewhere. And Bitcoin’s role isn’t to secure against wrongdoing, it’s to leave a clear evidence trail when wrongdoing occurs. Those are some of the main takeaways from this week’s episode of “Bitcoin Class with Satoshi,” a series of video masterclasses between teacher Dr. Craig S. Wright and student Xiaohui Liu.
+
+The episode’s title is “DFAs and Financial Contracts.” DFA are “deterministic finite automata,” and Dr. Wright says “I’ve put out some papers on this in the past… also got some patents on it.” It’s all about automating certain processes and, building on previous episodes, ways in which a programmer might use provable results from one event to feed into Bitcoin transaction inputs to produce another result later.
+
+DFAs are also a kind of smart contract, though Dr. Wright dislikes this term, calling it “misleading at best, coming close to fraudulent at worst.” A smart contract, he said, cannot be called “smart.” “A mechanical elevator button from 100 years ago is as ‘smart’ as any blockchain,” he says. Xiaohui likens them to a form of vending machine program.
+
+Contracts themselves, however, are an important part of doing business and several of their functions can be automated using Bitcoin Script and third-party systems to perform additional calculations that might be necessary (but don’t need to be calculated on-chain).
+
+Dr. Wright reminds us that electronic data interchange (EDI) has been around, and an important business function, for decades now. Bitcoin is basically a much better and more complex form of EDI; more automatable and with a permanent proof trail.
+
+Keeping awareness of the human factor, and keeping humans central to technological development, are key aspects of Dr. Wright’s philosophy. There is no such thing as artificial intelligence, he says—not only that, but there never will be—not in our lifetimes, not in our children’s or grandchildren’s lifetimes. A machine’s job is to act on the instructions it is given, and even if it appears to be “thinking” for itself, it’s still simply acting on the algorithms and processes it was originally given. Even a so-called self-driving car is “really fly-by-wire drone technology,” he says, predicting that particular technology will never fulfill its promises.
+
+Partial automation is entirely possible, though the Bitcoin blockchain itself is simply the ledger of what has occurred. You take the “smart” part of smart contracts and perform those computations off-chain—the important part is that parties have agreed to those rules and those rules can be digitally signed and locked in place to produce results later.
+
+But if some computation is performed off-chain, how do you know someone has/hasn’t cheated? There are several ways, using (as Bitcoin does) a combination of programmable processes and some very-human economic or social incentives to do the right thing. You can watch the full episode to hear all the technical detail, but solutions could involve automated or trusted third-party escrow services, deposits, keys and hash puzzles, timelocked transactions and timed checks, and even human arbitrators.
+
+There’s also a discussion of scenarios where all this might be needed, from horse races to promises to swap coins using processes on other blockchains outside Bitcoin, depending on price. Revisiting some of last week’s episode, Dr. Wright also explains how you could automatically generate new public keys without any party knowing the private keys, and use them for future transactions.
+
+The mixture of how humans interact, or should interact, with the technology they use is an interesting feature of this Class. As always, even if the technical details are out of one’s grasp, there are important conceptual discussions that anyone familiar with Bitcoin and blockchain should be able to follow.
+
+To watch previous episodes of the Theory of Bitcoin and Bitcoin Class with Satoshi, check out the Theory of Bitcoin YouTube channel here and the Bitcoin Class with Satoshi YouTube channel here.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

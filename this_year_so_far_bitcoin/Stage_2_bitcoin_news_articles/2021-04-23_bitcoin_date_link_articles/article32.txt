@@ -1,0 +1,45 @@
+What seemed unthinkable a year ago, Bitcoin (BTC) has found its way onto corporate balance sheets. Square, Tesla, and MicroStrategy have all made significant investments in Bitcoin (BTC) in recent months. And as the price of BTC soared to an all-time high of over $58k in late February, those decisions were rewarded. Even when it proceeded to plunge by 25% to $43k a week later, its volatility hasn’t dissuaded controversial discussions happening on Corporate Finance and Treasury Zoom calls throughout the world: “Can we allocate some of our excess cash to BTC? Would the Board approve an allocation of our excess cash into BTC within our corporate treasury policy? How do I buy it? How do I track and manage it?” With all of these questions exploding onto the scene, it’s clear that Bitcoin has finally gone mainstream with major institutional adoption.
+
+So first off, why would this even make sense? Generally, managing excess corporate cash is all about weighing the tradeoff between yield and risk while optimizing liquidity. In other words, the primary job in Corporate Finance & Treasury is to ensure cash is always readily available. A simple solution is to invest in safe overnight funds to generate enough interest to beat inflation. The common debate around this strategy is whether it is worth the risk to gain, as an example, an extra 30-40 bps, while tying up cash for 3 to 6 months with access to it only at the cost of incurring penalties? Most of the time it is not, and Corporate Treasurers keep excess cash in low-yield money market funds and move on.
+
+However, since COVID-19 shutdowns started in March 2020, the federal funds rate –the rate that U.S. banks charge each other for overnight lending– has ranged between 0% to 0.25% while inflation was 1.4% in 2020. This translates to what is effectively a negative interest rate of -1% on corporate cash. With U.S. corporates holding a record $2.5 trillion at the end of 2020 without any accretive short-term alternatives to earn on that cash, you can see why allocating 5-10% to BTC after the 10 fold increase in the last year doesn’t seem that crazy anymore. And with blue-sky BTC price targets hovering around $100k+ (JPM Link), the goal posts keep shifting daily.
+
+Given the circumstances, should corporates invest in BTC as a hedge against inflation and store of value in 2021? Institutional buying is starting to ramp with more pathways open to corporates. With inflation projected to climb even higher to 2.2% in 2021 and the Fed continuing to print money, many corporate treasurers are starting to think seriously about taking a ‘digital gold’ position this year. In looking at investing in Bitcoin, the following are a few things to consider:
+
+o Full alignment internally (obviously).
+
+Despite its rise and somewhat improved stability, Bitcoin remains volatile. The stock of companies that have taken significant BTC stakes have followed suit to some degree, such as Microstrategy and Square. As a result, make sure BTC is thoroughly discussed and your leadership team and Board are fully bought-in before moving forward.
+
+o Treasury policy.
+
+Treasury policies generally won’t allow you to purchase Bitcoin. You will need to make changes to your policy to accommodate any BTC investments. Any treasury policy changes have to be approved by the Board. This will require you to explain your rationale fully to the Board and gain formal approval before you take any action on the investment side.
+
+For instance in a recent public filing from MicroStrategy, their treasury policy now reads: “Treasury reserve assets will consist of (i) cash, cash equivalents, and short-term investments (“Cash Assets”) held by the Company that exceed working capital needs and (ii) Bitcoin held by the Company, with Bitcoin serving as the primary treasury reserve asset on an ongoing basis, subject to market conditions and anticipated needs of the business for Cash Assets, including future potential share repurchase activity.”
+
+o Find the right partner.
+
+There are now several institutional funds or asset managers coming into focus. Pick the right partner for your business, such as Fidelity, Grayscale, Stone Ridge, NYDIG, or Ark Invest. Many more are coming online this year. Be sure to align yourself with the right partner who will help you navigate the landscape as you take on the added risk. There are several angles to play here. You can invest in a fund that holds BTC where you don’t hold the underlying cryptocurrency, work with an asset manager or advisor, and/or purchase BTC directly yourself.
+
+o Reporting.
+
+Currently, the options for monitoring and reporting on Bitcoin are limited. Traditional Enterprise Resource Planning (ERP) systems and legacy Treasury Management Systems (TMS) lack the data architecture, user interfaces, or the APIs capable of reporting and tracking Bitcoin that can give critical account information in real time. And when the price of Bitcoin can change +/- 10% in a day vs. fiat currencies, it’s extremely important that your team stay on top of and report timely data to track and communicate exposures.
+
+Given the volatility, make sure you investigate and look for cloud-based solutions to keep you apprised of any changes to Bitcoin and how it affects your cash positions, accounting for taxes, and accounting for both realized and unrealized gains and losses. One such company Trovata, which is used by Square’s corporate treasury team, can connect directly to banks and automates cash reporting as a big data platform with natural language search, cash flow analysis, and cash forecasting.
+
+o How can treasury teams prepare for the scrutiny associated with the decision to pursue Bitcoin investments?
+
+In advance of moving forward, create a document that addresses potential questions to have on hand, including but not limited to:
+
+▪ Can the Treasury Policy be changed?
+
+▪ What is the sentiment of your Board?
+
+▪ What’s your tolerance for risk given Bitcoin’s volatility? It is worth considering now, especially with Bitcoin at all-time highs due to an unprecedented set of events around the world.
+
+▪ How will Bitcoin and potentially other cryptocurrencies affect your balance sheet? There are major tax implications regarding a less highly regulated digital currency like Bitcoin. Also, Bitcoin can take more time to settle if you use it for cross-border payments. Be ready to anticipate, defend, and rectify possible challenges BTC would likely have on your company's balance sheet and the volatility it could cause to your company's stock.
+
+Bitcoin as part of your corporate cash position.
+
+While Bitcoin is a hot topic now, with some pioneering publicly traded corporations like Square already aggregating cash positions with BTC as it continues to flourish in this volatile market, it is worth considering as a small and measured allocation of excess cash holdings as a store of value to counter the current ultra low interest rate environment and guard against a higher rate of inflation. And though it appears the investment these companies are making into Bitcoin look large, in reality they make up a small portion on their balance sheets.
+
+If you do decide to invest in Bitcoin for your corporate treasury, be sure to err on over communicating every step in your journey to ensure full alignment internally given the risks and uncertainty that it brings. Ensure you have a strong cash management partner to help collect and analyze all company financial data, including Bitcoin investments, in real time. Having a real time, clear, and comprehensive view of your current cash positions, cash flows, and cash forecasts will help you identify exposures quickly and minimize risk in an accelerating world where staying aware and ahead of volatility is critical.

@@ -1,0 +1,61 @@
+Online Sleuths Believe Satoshi Nakamoto’s Bitcoin Stash Is a Blockchain Treasure Hunt Meant to Be Found
+
+Over the last twelve years, the cryptocurrency community has always been intrigued by Bitcoin’s inventor Satoshi Nakamoto. For over a decade, armchair sleuths and journalists have tried to uncover the creator’s identity and information on the whereabouts of all the bitcoins the enigma mined when the network was still in its infancy. Now a few individuals believe Satoshi’s coins may be the greatest prize competition ever and the private keys are somehow hidden within the blockchain.
+
+Maybe Satoshi Nakamoto Left a Message?
+
+Just recently, some members of the forum bitcointalk.org have been discussing a new theory surrounding the infamous Satoshi Nakamoto. For years now, the hunt for Nakamoto has been quite the quest and so far, no one has been able to uncover the creator’s identity or find the inventor’s stash of BTC.
+
+It is well known that Nakamoto mined bitcoin and it is estimated that the cryptocurrency creator may have acquired roughly 750,000 BTC to 1.1 million BTC. News.Bitcoin.com has written about Satoshi’s stash on a myriad of occasions including on April 17, 2019. In that particular article, it was reported that RSK Labs chief scientist, Sergio Demián Lerner, had published a new report concerning Satoshi’s alleged holdings.
+
+The RSK chief scientist has uncovered a lot in regard to the thousands of blocks Satoshi may have mined. Lerner also published a blog post in 2013 called “A new mystery about Satoshi hidden in the Bitcoin block-chain,” which discusses an interesting nonce field found in the blocks he called the ‘Patoshi’ pattern.
+
+Basically a “nonce” or “number only used once” in Bitcoin terminology is a 32-bit (4-byte) field or a non-repeating value that is included in a mined block. When miners mine bitcoin blocks the goal is to find a hash below or equal to the network’s current target. Lerner’s mystery talks about the distribution of the nonce’s least significant byte (LSB).
+
+What Lerner had found was that the LSB in Satoshi’s alleged blocks were not distributed uniformly and the researcher’s blockchain analysis came to a few conclusions.
+
+At first, he thought that it could be his blockchain parser not working correctly. Or it could mean that Satoshi was mining bitcoins with something “very different from a PC,” Lerner said. “But if this is true, then it has far-reaching consequences: Satoshi foresaw the advantage of FPGA/ASIC much sooner than everybody else,” the researcher added.
+
+Then Lerner thought of a third reason, and that it could mean Satoshi discovered a flaw in SHA-2. But the RSK chief scientist said that “this is highly improbable.” But lastly, Lerner thought that maybe Satoshi left a message fingerprinted in the nonces.
+
+“A Message for us to see in a distant future,” Lerner wrote at the time. “The number of nonces that fall into each byte value or histogram,” he added.
+
+Armchair Detectives Hope to Solve the ‘Greatest Prize Competition’
+
+This mystery has led the group of theorists over at bitcointalk.org to believe that maybe Satoshi’s early mined coins are actually an extremely valuable treasure hunt. A forum account dubbed ‘Old gold digger’ believes that the existence of so many distinguishers says that whoever mined these bitcoin blocks “wanted his/her blocks to be identified.”
+
+There have been others who have alluded to this theory in the past on the forum. “Satoshi left a message fingerprinted in the nonces,” Old gold digger wrote. “A Message for us to see in a distant future.”
+
+The individual added:
+
+Maybe Satoshi created the greatest prize competition and the private keys are somehow within the blockchain.
+
+There are many others who have been interested in Old gold digger’s theory and a number of people have responded to the forum thread.
+
+“This reminds me of the ‘Ready player one’ plot presented in the first book, where Haliday is the equivalent of Satoshi now,” an individual said in response to the post. “If indeed there is an encrypted treasure hidden that would be exciting,” he added. Meanwhile, others left a few links to possible clues about the possibility that a message was fingerprinted in the nonces.
+
+“Would love to know the answer,” Old gold digger said in the thread. “Do you think it’s a bit odd that he used a proprietary Base58 for the address encoding and just happens that you’re seeing the spike between values 0-57?” he asked others. “I know it’s probably just coincidence but it would be amazing if there was a secret message in the LSB to explain this,” Old gold digger emphasized.
+
+Moreover, back in June 2019, an account called ‘Threadsupport’ published an open letter to Satoshi asking the inventor straight up if there was “a bitcoin prize competition.”
+
+“We think that you have created a bitcoin prize competition and that the private keys are somehow within the blockchain,” Threadsupport wrote at the time. “We are trying to solve it and will move the rewarding coins. If you want to add something to that statement, please don’t hesitate,” the forum user added. Further, if Nakamoto actually did mine 1 million BTC, then all the coins could be located in 20,000 separate addresses with 50 coins each.
+
+‘Lost Coins Only Make Everyone Else’s Coins Worth Slightly More- Think of It as a Donation to Everyone’
+
+There have always been discussions about the fact that someday, Satoshi Nakamoto could end up being the richest person in the world. But that’s assuming the inventor is keeping them all to himself/herself and the creator will always be in possession of these coins. As the armchair sleuths on bitcointalk.org have been discussing, it is possible they were left for us to find.
+
+The sleuths have also alluded to an article dubbed “The Mysterious 19,” which leverages Lerner’s ‘Patoshi pattern,’ but also said Lerner’s “second finding about the anomaly in the Least-Significant-Byte (LSB) of the nonce field of block headers really got his attention.”
+
+The author of the research adds:
+
+So maybe this weird behavior of LSB value of 19 is telling me to start looking at this whole thing in a different way.
+
+Lastly, the online detectives also discussed Satoshi’s famous lost coins quote: “Lost coins only make everyone else’s coins worth slightly more. Think of it as a donation to everyone.” Maybe, Satoshi wasn’t talking about coins lost over time, but the creator’s stash hidden inside the blockchain via text or a myriad of messages.
+
+“Whoever is able to solve it, is the chosen person that Satoshi expects to succeed,” an individual wrote in the bitcointalk.org conversation. “It’s like a place to determine Satoshi’s legacy for us in the future. Is this a contest? A pirate treasure?” he asked.
+
+What do you think about the possibility that Satoshi Nakamoto’s bitcoins could be a prize or a treasure hunt to find? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, Techmix, bitslog.com, Sergio Demián Lerner, Bitcointalk.org,
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

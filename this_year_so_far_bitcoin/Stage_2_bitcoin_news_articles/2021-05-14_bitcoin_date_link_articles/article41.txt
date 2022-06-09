@@ -1,0 +1,325 @@
+The first chapter of Jordan Peterson’s “12 Rules For Life” relates to Bitcoin socially, evolutionarily, economically and psychologically.
+
+12 Rules For Life Series, Essay One
+
+This article was previously published on Medium.
+
+Foreword
+
+I’ve been an avid reader and student of philosophy, psychology and other related topics since my early teens.
+
+My uncle first influenced and introduced me to thinkers like Aristotle, Alexander the Great, Plato and Socrates, and as I grew older, I discovered many others.
+
+Some helped me understand the world and human beings better (Robbins, Taleb, Bruce Lee, Watts, Clare Graves, Frankl, Sowell, Rand, Hoppe, Rothbard, etc.), while others helped reinforce the formers’ ideas by either consistently contradicting themselves, introducing ridiculous ideas of their own or just regurgitating things others have said but completely out of context, thus exhibiting no understanding at all. Some examples include the likes of Marx, Sam Harris, Derrida, Harari, Piketty, Kelton and Keynes.
+
+Either way, they all helped me sharpen and hone my own viewpoints, so for that, I’m thankful even for the dumb texts I’ve read.
+
+In the last five years, I’ve come to really enjoy and align with the philosophies of a particular individual, whom by now you’ve surely guessed is Jordan Peterson.
+
+While I believe the most profound modern philosopher is likely Murray Rothbard, I believe Peterson is the most articulate and, for me, (personally) one of the most authentic and courageous people alive today.
+
+So today… as an homage to Jordan’s work, and as an attempt to introduce him and his audience to Bitcoin, I’ve decided to write a series of articles that examine Bitcoin through a Jordan B. Peterson lens.
+
+I’m going to use his most popular book, “12 Rules For Life” as the framework. While I’ll follow the structure of the book because each of the chapters is quite dense, I will look to glean a number of lessons along the way with my interpretation of the essence of each.
+
+I hope you find value in this series of essays, and if you’re a Bitcoiner who has friends that you’ve not yet been able to orange pill, but are aligned with Jordan’s ideas and philosophy, I hope this becomes a useful resource.
+
+Lesson One: Bitcoin, Hierarchy And Territory
+
+Jordan’s first rule in the book is “stand up straight, with your shoulders back.”
+
+He explores how the individual’s position in the social hierarchy impacts their hormonal (serotonin) and dopaminergic systems, and vice versa, hence making it a feedback loop.
+
+More importantly, though, the essence of the lesson is how by owning oneself and taking responsibility (standing up straight), you can influence these systems to either cease a downward spiral or commence an upward journey in life.
+
+“The part of our brain that keeps track of our position in the dominance hierarchy is therefore exceptionally ancient and fundamental. It is a master control system, modulating our perceptions, values, emotions, thoughts and actions. It powerfully affects every aspect of our Being, conscious and unconscious alike.” - Peterson, “12 Rules For Life”
+
+
+
+This chapter is extraordinarily dense, with so much to unpack and relate to Bitcoin. It was hard for me to choose a single angle, so I’ve explored multiple sections and how they each relate; socially, evolutionarily, economically and psychologically.
+
+Territory And Private Property
+
+Note: I will use the words “territory” and “private property” interchangeably.
+
+We live in a world with finite territory, and much like any other species, including the now-famous lobsters, our ability to subsist relies on how well we select, protect and handle our territory (aka; private property in a more anthropomorphic sense).
+
+Territory matters. A few truths we must come to terms with are:
+
+Your territory is that which you’re able to successfully defend
+
+Territory is scarce (particularly the best locales and goods)
+
+Humanity has, over the millennia, developed methods of protecting territory because it is fundamental to our survival as a species. We are collaborative by nature, and the means through which we collaborate is the exchange of private property. This private property (or territory) starts with you and extends to anything you mix your time and energy with on a voluntary basis without having taken it by force from another, although the latter does (and has) happened throughout history, hence the critical need for defence.
+
+Examples of mechanisms for defence include anything from:
+
+Walls and fences (land as territory)
+
+Knives and guns (yourself as private property)
+
+Vaults and banks (your wealth as property)
+
+Churches, governments and constitutions (your thoughts, beliefs, rights as territory)
+
+The math and cryptography embodied in Bitcoin which defends private property via the information asymmetry and law of large numbers
+
+What’s important to note here is that without a mechanism for the protection of private property, society collapses. We are all individuals, who are inherently diverse and value everything subjectively. We cannot all own a portion of each other, nor own a part of everything. It’s a physical and social impossibility.
+
+Territory is not a “social construct.” It’s a biological imperative.
+
+It’s the mechanism that’s evolved through which nature achieves balance and equilibrium. It’s an emergent, bottom-up phenomenon, not a top-down decree like pseudo scientists would have you believe.
+
+Peterson’s overview on territory is brilliant, but I would recommend the incredible work by Robert Ardrey (“The Territorial Imperative”), or you can wait for a piece I’ll be writing in the future entitled: “Private Property As A Biological Imperative,” in which I’ll dig deeper into the above.
+
+So… if territory and private property are central to existence, then how do we value, order and select it, knowing that we are all subjective beings and that all property is scarce?
+
+Hierarchy
+
+Pecking orders are natural phenomena, and found across all living systems. Hierarchies have to develop because life cannot exist without some form of selection, and this cannot exist without prioritization.
+
+This is not to say that there is “one” right way. Life is not so simplistic. We exist in a complex world where hierarchies and methods for prioritization emerge across multiple dimensions (remember the subjective nature of humans and what they value).
+
+In other words, hierarchies will always form, so the question is not whether they should exist or not (that’s like arguing about the existence of gravity), but “in what form are hierarchies most conducive to life”?
+
+As with most things, it’s a spectrum.
+
+On one side, we have hierarchies by fiat. These are unnatural and abhorrent. They exist by decree and because there is little to no skin in the game for some, they form at the expense and the exclusion of many.
+
+On the other hand, we have those which are natural and emergent. These are best classified as hierarchies of competence. They are ergodic and dynamic by nature because participants have skin in the game.
+
+Then, of course, we have everything in between. Reality is such that things are messy, and the extremes are rare.
+
+If modernity has shown us anything, it’s that institutions that may have initially arisen due to competence and a desire for order, but cemented themselves by fiat and thus have become monopolies, will not only begin to decay, but as described by the cobra effect, they will pose a greater danger to existence than the original chaos they set out to manage.
+
+The most prone to such degeneration (enhanced and accelerated by the moral hazard of having no skin in the game) are state monopolies on money, violence, morality and ethics (i.e., law). Why?
+
+Because they are the levers of society. They’re the glue which binds us. And because of this, they seem to incentivize two key reactions:
+
+The need to “control” or at the very least “manage” the spontaneous emergence of order for quality control purposes. The intent here may be (initially at least) positive, but like any complex system, misguided because centrally managing a process that occurs at the edge is hard enough for a community, let alone a city. It is not functional at scale, and in our bid to do so, we do more damage. Related to the Nietzschean will to power; those who want it at the expense of everything else and those who may find they’re unable to adequately climb a hierarchy of competence become consumed by envy and want to acquire power, self-worth, validation and meaning through the acquisition of position by fiat. This is a big reason why politics and the public sector is so poisonous. The kinds of people it attracts are either naively optimistic (in the better scenario) or are, more often than not, envious wolves in sheep’s clothing looking to win popularity contests on their quest to amass power by fiat.
+
+This edifice becomes more dangerous and fragile the larger it grows, and like the proverbial “beast” that must continually be fed, it continues to consume all in its path until it starves and collapses.
+
+All hierarchies are dynamic, and even natural hierarchies tend to adjust, evolve, deconstruct and re-emerge, but fiat hierarchies, in particular, are prone to catastrophic collapse because, through monopolization and the incessant need to control and manage, they deviate further from natural order and become increasingly fragile.
+
+I wrote about fiat versus natural authority at greater length here:
+
+“Resistance Is NOT Futile (1/2)”
+
+Pareto’s Law And Distribution
+
+Inequality is one of the most “pushed” subjects today and one which is deeply misunderstood.
+
+Many who know my work will know my position on inequality. I believe there is nothing more natural than inequality, and in fact, it is the basis of all diversity, nuance and life itself.
+
+Nature is perfect in its imperfection and the result is a naturally unequal distribution of everything from skills, to values, to likes, dislikes, shapes, sizes, interests, resources, effort and everything else one can perceive.
+
+The only thing that should be equal in the world is equality in probability. This means the game we’re all playing remains dynamic, because we all have skin in the game.
+
+This is by and large how hierarchies naturally emerge, grow, correct and persist, unless of course there is a mechanism via which those at the top can remove their skin from the game, and thus remove the natural equality in probability inherent to stable, emergent systems (after which they decay and collapse).
+
+People are not really angry about inequality, but unfairness. When the opportunity to move up exists and the risk to fall remains, the game is fair and the results are dynamic. If not, the game is rigged.
+
+Read more here:
+
+“Utopian Dystopias”
+
+And here.
+
+The Pareto principle is a perfectly natural power law distribution most commonly known as the 80/20 rule and best documented by Italian economist Vilfredo Pareto.
+
+The Pareto principle states that for many outcomes roughly 80% of consequences come from 20% of the causes.
+
+You know this not only in your own life (i.e., a smaller number of the things you do produce most of the results), but can see it all around the world and can even deduce it using some simple logic.
+
+You know full well that a few of the songs by a band are their best. That a few players in any sport are disproportionately more impactful than the rest. That a few actors produce most of the hits. That a few hard and smart employees at work produce most of the output.
+
+At a macro level, this manifests itself as uneven Pareto-type wealth distribution.
+
+Think of the following example:
+
+Two people start out working. One does the average nine to five, while the other decides to work two jobs, and save every penny of the second.
+
+As they progress, the saver builds up a small capital base which he decides to use as his investment capital. The other person just continues working the nine to five and hangs out with friends afterwards.
+
+Fast forward a few years, and the saver managed to grow his total wealth through some intelligent investments. He now has a greater capital base from which to invest and further compound that wealth, i.e., earning 5% a few years ago on a $1,000 investment may have yielded $50, but now that same 5% yields $500 per month because he’s got $10,000 invested (for example).
+
+Their proportionate wealth will start to look very much like an 80/20 distribution.
+
+Now here’s the beautiful part.
+
+The saver, turned investor, gets addicted to his strategy and gets super greedy in the process, so he decides to take some silly risks to yield 50% on investment. He puts up a large chunk of his capital for it and then loses it because he was wrong about his investment.
+
+He’s now back to square one and needs to practically start all over again.
+
+This is the dynamic nature of life and how excessive risk can (and does) lead to natural rebalancing in any system.
+
+Now… let’s look at the situation in an alternate universe. Saver never gets greedy but gets extremely risk averse. Instead of investing any more of his capital, he just decides to put it all where it’s safe and he no longer cares about growth.
+
+In this scenario, the original spender who has seen his friend get ahead decides that he wants to catch up. Well, he begins to work harder, save and put those savings toward investments or activities that can yield a higher return. He’s got less to lose, he’s younger and, as such, is willing to take more risk.
+
+Over time, he begins to catch up because the original saver is content where he is.
+
+Once again, the system rebalances. All distribution is dynamic and can either compound or erode. It does not standstill. There is no such thing as a static system. That’s exactly why equality can never exist. It’s a static, imaginary, utopian (dystopian) dead state.
+
+Inequality, Price’s law and the Pareto distribution are all perfectly normal.
+
+Unfairness is the real problem. When the game is rigged, people get pissed off.
+
+Unfortunately, via the monopolization of violence, ethics, morality and most importantly, the production of the most important human technology (money), the state has managed to rig the game.
+
+On a short enough timescale (which is long by individual standards), they are no longer subject to the downside. Neither are any of the organizations, institutions and representatives that can get close to any of the key monopolies of the state.
+
+The result is unnatural distributions, and instead of the system re-balancing via natural correction, we get these 99/1 or even 99.9/01 type distributions of wealth.
+
+Why?
+
+Because: “heads they win, tails you lose.”
+
+It’s like playing a game of monopoly with one person keeping their hand in the box of money, so they can’t lose. Or better yet, playing a game of poker where the initial leader of the game knows the dealer, makes a deal, and as such, any time he loses on the river, he gets bailed out from the chips that are in every other player’s stack.
+
+If that’s how the game is played, the rest of the players will soon leave. And that’s exactly what’s happening now, with Bitcoin.
+
+Poker is actually a great analogy because it incorporates not only skill but luck. Prudent early play can get you ahead. You have to take risks sometimes, you have to bluff, sometimes you’ll have to fold. If you play well, you can amass enough chips to begin to play harder and more rough, but, the chance to lose it all always exists, and thus, keeps the game fair.
+
+Modernity is a rigged poker game and Bitcoin fixes it by tearing money out of the hands of any one player and thus reintroducing skin in the game for all.
+
+Fitness And Selection
+
+Changing tack a little here is the evolutionary idea of fitness and selection.
+
+As Jordan writes:
+
+“The idea of selects contains implicitly nested within it the idea of fitness. It is fitness that is selected. The fit in fitness is the matching of organismal attributes to environmental demand.”
+
+Fitness is that which is ever more accurately approximated across time, and it’s important to note that it’s neither a linear process nor one that is always trending toward more fitness.
+
+It’s like a dance. There is a direction across time, but much like two dancers, it moves, sways and swings as it hones and adapts toward ever more fitness.
+
+Bitcoin’s proof-of-work network is much the same. The difficulty adjustment, incentive mechanism and the work required to participate make Bitcoin an organism that one can argue are alive.
+
+Brilliant minds like Gigi’s have done this topic far more justice than I can here, so I suggest a review of the following:
+
+“Proof Of Life”
+
+Furthermore, there is the natural selection process we as individuals make in our pursuit of economic survival. I’ve called it “Economic Darwinism” and it’s related to Gresham’s law (i.e., good money pushes out bad money).
+
+We select the money that best performs the three key functions of money:
+
+Store of value (as close to fixed in supply as possible to map to time and energy)
+
+Medium of exchange (must be uncensorable. Bearer asset is best)
+
+Unit of account (measure all other goods with it and have a way to measure against all else)
+
+Making the wrong selection relegates us to poverty and diminishes our capacity to cooperate, collaborate and interact with the rest of society.
+
+As such, we are incentivized to converge and select the fittest mechanism via which the product of our labor can be stored, exchanged and measured.
+
+This fittest medium is unequivocally Bitcoin, and the self-reinforcing, convergent nature of the “network effect of money” will only continue to accelerate this realization as it spreads globally.
+
+This then brings me to the idea of:
+
+Status
+
+Status is the metaphysical relationship between us and the rest of the world.
+
+It’s our relationship to not only the dynamic distribution of all the resources, wealth, skills, shapes, sizes, etc., in the world, but our position in the multitude of hierarchies across every dimension and category one comes into contact with.
+
+This is where the rubber meets the road and why our systems are hormonally, neurologically and biologically wired the way they are.
+
+“The part of our brain that regulates where we sit in the dominance hierarchy is as old as life.” -Peterson
+
+Serotonin is one of the master control hormones and seems to have emerged to help us understand, manage and influence our relative position in hierarchies and across the spectrum of different distributions.
+
+It helps us get a sense of what is top and what is bottom.
+
+Its effect on the system seems also to be reflexive, or self-reinforcing:
+
+The lower you are on the hierarchy, the lower you’re prone to fall.
+
+The higher you are, the further up you’re likely to come.
+
+This is because decision making changes depending on where you are (or are perceived by yourself or others to be). It can have significant ramifications and is why it’s so important that the game is not rigged in such a way that creates barriers to mobility for an individual’s status.
+
+The bottom:
+
+Heightens your time preference
+
+You then spend your resources for the crises of the present
+
+You are in constant preparedness for the next emergency
+
+These are de-evolutionary in nature.
+
+The top:
+
+Lowers your time preference
+
+You plan for the long term
+
+You can further delay gratification
+
+You can invest resources for the future, while having some for the next emergency
+
+You can work to secure your position
+
+These are evolutionary in nature.
+
+Each have a symbiotic relationship with your production of serotonin and are thus self reinforcing.
+
+Individuals have the capacity to voluntarily and wilfully “stand up straight with their shoulders back” in order to influence these processes, and therefore what matters in a system, or a society, is enabling mobility. In other words the freedom for the individual to take such actions.
+
+To stand up straight with your shoulders back is to accept the terrible responsibility of life, with eyes wide open. It means deciding to voluntarily transform the chaos of potential into the realities of habitable order. It means adopting the burden of self-conscious vulnerability, and accepting the end of the unconscious paradise of childhood, where finitude and mortality are only dimly comprehended. It means willingly undertaking the sacrifices necessary to generate a productive and meaningful reality.
+
+Bitcoin Fixes This
+
+With Bitcoin, humans can truly stand up straight with their shoulders back because:
+
+Private property is not only recognized, but integral to the system
+
+It is unable to be co-opted by any individual, organization or institution and is thus able to naturally correct should hierarchies become deformed by fiat or by decree
+
+In using math as its form of protection/guarantee/security, it lowers the cost of defense, increases the cost of attack and therefore tilts the inherent incentives of human interaction toward more voluntary cooperation instead of coercive dominion
+
+The above enable organic, ergodic and most importantly naturally dynamic hierarchies of competence to form, which are more robust, antifragile and more immune to corruption by fiat
+
+It allows for natural Pareto distributions to re-emerge, and to normalize because of innovation and the competitive nature of markets in which monopolies cannot subsist (because a focal monopoly on money is non-existent)
+
+Unnatural distributions begin to break down because skin in the game is reintroduced and economic bailouts wherein one group pays for the mistakes of another cease to exist
+
+Fitness and selection (i.e., innovation) is once again honed in and more generally focused toward real problems and real needs because the deployment of capital once again has a realistic opportunity cost
+
+Status becomes mobile once again and tied to competence, skill, talent, effort, passion and input, instead of fiat. The relatively static nature of status that we see today begins to dissolve because downside risk is reintroduced and upside potential is once again accessible by those who want it — no matter who or where they are
+
+Conclusion
+
+Jordan’s opening chapter is a treasure trove of information that one could write an entire book about. In fact, I could probably write a book just on its relationship to Bitcoin. Hint, hint.
+
+For now, I’d like to wrap this up by thanking Jordan for his insightful work and noting my hope that he has a chance to view Bitcoin through its lens.
+
+The framing of order and chaos, yin and yang, duality or whatever name that simple yet profound principle has donned throughout the ages is something that resonates with me. I view Bitcoin as something which truly embodies it, not only in its operation (it is right between entropy and order) but in its impact on the world.
+
+The more we allow natural order to emerge from chaos without trying to grasp and stifle it out of an insecure need to make it static, the more we’ll see the dynamic selection process that is nature do its thing, forming Lindy-compatible structures and hierarchies.
+
+Can we stop these hierarchies from succumbing to concentration of power or fiat decay?
+
+Not entirely, because we must allow things to grow and die.
+
+But, we can create an environment where the corrective nature of the system allows it to rebalance and adapt before it crumbles.
+
+Catastrophic collapse is far less possible in a decentralized, localized system where monopolies are inhibited via competition, and this matters whether the system is social, cultural, biological, legal or economic.
+
+It’s not who’s driving the train, but how the tracks are laid that really matters.
+
+Bitcoin is the new train track.
+
+With it, we can continue to manifest the promise of not just the West but the wisdom of nature and existence.
+
+See you in the next chapter…
+
+This is part one of a 12-part series in which we will explore Bitcoin through the lens of Peterson’s “12 Rules For Life” work.
+
+Each section will be released with Bitcoin Magazine as a free long form article.
+
+This is a guest post by Aleks Svetski. Opinions expressed are entirely their own and do not necessarily reflect those of BTC Inc or Bitcoin Magazine.

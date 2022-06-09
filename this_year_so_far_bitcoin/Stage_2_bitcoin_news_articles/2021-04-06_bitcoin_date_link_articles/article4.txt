@@ -1,0 +1,42 @@
+If you dabble in bitcoin or other cryptocurrencies, then you may be able to get away with storing your private keys in a software wallet. But if you are serious about crypto, are mining your own bitcoins, or have serious cash invested in crypto, then a hardware wallet is something that you need to seriously consider.
+
+Trezor Model T A cutting-edge hardware wallet Here we have a compact hardware wallet that not only holds your cryptocurrency private keys but can also a device that can be used to store passwords and even be used as a U2F hardware token. The Trezor Model T is easy to use thanks to its touchscreen display. Another nice feature of the Model T is that it is quick and easy to set up; you can be up and running after going through three simple setup steps. $179 at Amazon
+
+Ledger Nano S Everything is protected by a PIN code This is a hardware bitcoin wallet that looks like a USB flash drive. The Ledger Nano S supports more than 30 different cryptocurrencies (including Bitcoin, Ethereum, XRP, Bitcoin Cash, EOS, Stellar, Dogecoin, and many more), and all ERC20 tokens, and everything is protected by an 8-digit PIN code. $51 at Amazon
+
+Coinkite ColdCard For those who want high security This is the hardware wallet for those who are ultra-paranoid or who want high security. The ColdCard Mk3 device is a high-security device that is built around high-security hardware and open-source software. It also features a brilliant OLED display and a full-sized numeric keypad. You can augment the ColdCard with a range of accessories, including an adapter that allows you to power the ColdCard from a 9V PP3 battery, protecting you from attacks that might make use of a compromised USB charger. $120 at Coinkite
+
+Billfold Steel Bitcoin Wallet Fireproof, waterproof, shockproof, and hacker-proof Made from indestructible 316-marine grade stainless steel, this is a cold storage cryptocurrency wallet that's designed and built to be fireproof, waterproof, shockproof, and hacker-proof. This is the perfect tool for keeping your seed phrases secure, which would allow you to recover your private keys in the event that you lose or break your electronic hardware wallet. $106 at Amazon
+
+What is a bitcoin wallet? A bitcoin wallet is a device that stores and manages the private keys you hold for your cryptocurrency. They act much like how you keep money in your wallet or purse, or how your bank details are stored on your credit or debit cards.
+
+What are the different kinds of cryptocurrency wallets? There are two kinds of wallets: Hardware and software. A software wallet is an app that lives on your computer or smartphone, or even on the web, while a hardware wallet is a separate physical device (much like a wallet or purse). This hardware wallet is connected to a PC or mobile device to carry out transactions. Software wallets range in price from free to, well, not free, so they are great for those starting out. Since hardware wallets cost you money, there's a financial investment that you have to make right from the beginning.
+
+Why do you need a hardware wallet? It's important to note that you don't need a hardware wallet to buy, store, or send bitcoins or any other cryptocurrency. Some people hold many thousands of dollars in bitcoin or other cryptocurrencies and don't use a hardware wallet. However, where hardware wallets shine is the improved security that they offer compared to an app that lives on a smartphone, computer, or in the cloud. Having a device that puts an air gap between your private keys and other apps, the internet, and the bad guys offers vastly improved security from hackers and viruses. Hardware bitcoin wallets put you in complete and total control over your private keys.
+
+What are the pros and cons of hardware crypto wallets? Pros Improved security: Total air gap between your private keys and everything else.
+
+Better control: You hold your keys and can keep them separate from all your other devices.
+
+Easy transportation: Bitcoin hardware wallets are small and easily transported. But they can also be stored securely in a safe or safety deposit box.
+
+No reliance on a third-party app or web service: Apps and services come and go. Cons Cost: Hardware bitcoin wallet solutions aren't free.
+
+Extra complexity: There's always a learning curve with hardware, and some bitcoin wallets have quite advanced features that will have you reaching for the manual.
+
+Loss, destruction, theft: Hardware can break, be lost, be stolen, become obsolete, or succumb to all sorts of mishaps.
+
+Another thing to take care of: If you need to make a transaction, you'll need your wallet!
+
+What should you consider when buying a cryptocurrency hardware wallet? Yes, a hardware bitcoin wallet offers greater security, but you still need to make sure that you are buying a decent device from a reputable source. You also need to decide how much security you need. For some, having the air gap of a separate wallet is good enough, while others will feel the need to beef up security, and have a device that offers higher levels of security, biometrics, and even isolating the device from possible sources of attack, such as USB chargers. You also need a backup, just in case. Maybe this is another hardware wallet, or maybe you're going to go for a "cold storage" solution that might include having your private keys printed on paper, or even engraved, stamped, or etched into metal. Another consideration is price. Unless you're planning to hold huge cryptocurrency investments, then it might sting a bit to spend over $100 on a wallet.
+
+How did we choose these cryptocurrency hardware wallets? There are a number of factors to consider here. Price : Not everyone wants to spend $200 on a wallet.
+
+: Not everyone wants to spend $200 on a wallet. Durability : A broken hardware wallet can leave you hating life (not to mention down the cost of the hardware), so choosing something that will last is a good investment.
+
+: A broken hardware wallet can leave you hating life (not to mention down the cost of the hardware), so choosing something that will last is a good investment. Reputable manufacturer : You could be trusting thousands of dollars of cryptocurrency to a hardware wallet, so you want to know that your wallet has been made by a reputable company with a track record in delivering secure and reliable products.
+
+: You could be trusting thousands of dollars of cryptocurrency to a hardware wallet, so you want to know that your wallet has been made by a reputable company with a track record in delivering secure and reliable products. Ease of use: Setting up a hardware wallet can be daunting enough, but it can be made all the more difficult if the documentation is poor (or non-existent) or the device itself is quirky and unpredictable.
+
+
+

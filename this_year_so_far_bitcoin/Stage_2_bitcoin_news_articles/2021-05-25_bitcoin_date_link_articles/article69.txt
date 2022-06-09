@@ -1,0 +1,25 @@
+Tuesday, May 25, 2021
+
+The Federal Deposit Insurance Corporation (FDIC) has issued a “Request for Information and Comment on Digital Assets” (RFI) to learn more about the “novel and unique considerations related to digital assets….[g]iven that banks are increasingly exploring the emerging digital asset ecosystem.” A key theme of the RFI is the development of a framework to promote “responsible innovation.” Comments are due by July 16, 2021.
+
+The RFI identifies at least five categories of digital asset use cases for insured depository institutions (IDIs) and their affiliates:
+
+Technology Solutions: Closed and open payment systems, token-based lending systems, and serving as network nodes;
+
+Asset-based Activities: Investments, collateral, margin lending, and liquidity facilities;
+
+Liability-based Activities: Receiving deposits of digital asset companies or reserves of digital assets;
+
+Custody: Safekeeping, secondary lending, and qualified custodian services; and
+
+Other: Market-making and decentralized finance.
+
+To better understand these use cases and others, the RFI solicits input on four broad categories of questions:
+
+Current and Potential Use Cases Risk and Compliance Management Supervision and Activities Deposit Insurance and Resolution.
+
+Among other topics, the FDIC is particularly interested in understanding the demand for bank services in the digital asset marketplace and “who are the largest drivers for such services,” as well as the risk management procedures IDIs are implementing. For instance, the FDIC asks whether “some use cases result in IDIs’ developing entirely new or materially different risk and compliance management frameworks.”
+
+The RFI also touches on the challenges of custodying digital assets; “potential benefits and any unique risks” of any given digit asset service or product; whether additional clarity regarding IDIs’ investment authority is necessary; whether the FDIC should “ensure” customers understand that digital asset products are not insured; and the similarities and distinctions between stored value products and fiat-backed stablecoins for which pass-through deposit insurance is available for the reserve funds, among other topics.
+
+The FDIC’s issuance of the RFI is another indication of increased regulatory and legislative interest in cryptocurrencies and digital assets. Because such an RFI often presages future regulation, industry members are advised to take advantage of this opportunity to ensure their voices are heard.

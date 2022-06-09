@@ -1,0 +1,35 @@
+Bitcoin (CRYPTO:BTC) and other cryptocurrencies have fallen sharply in price from the highs they reached just a few weeks ago. Bitcoin reached an all-time high near $65,000 in mid-April. On Friday morning, the world's largest digital currency was worth about $38,000, a steep decline of more than 41% in just five weeks.
+
+For Bitcoin newcomers, this crypto crash is probably pretty scary. However, this drop isn't surprising to those who know Bitcoin's history. Here are a couple things you need to know to put the current crash into perspective.
+
+1. Bitcoin has crashed before
+
+Today's crypto crash is nothing new. Bitcoin has crashed 80% or more three different times since 2012, according to Visual Capitalist. With this context, we see that the current 41% drop is rather mild by comparison.
+
+For the record, it can be problematic to study stocks based on their chart patterns (known as technical analysis). After all, shares represent small ownership stakes in real-world businesses. Over time, businesses grow, mature, and evolve. Sometimes they even fail. For these reasons and more, stocks don't always behave predictably.
+
+By contrast, cryptocurrencies aren't businesses. Yes, blockchain networks -- the digital ledger technology on which cryptocurrencies are based -- can be adopted for real-world applications. But blockchains differ from one another. And even when blockchain technologies gain wider acceptance, this doesn't always guarantee their associated digital currencies will increase in value.
+
+Rather, cryptocurrencies are a simple case of supply and demand, in my opinion. If demand for coins outpaces supply, prices go up. Therefore, I believe looking at the historical pattern from Bitcoin's chart may be helpful.
+
+With Bitcoin, demand is hard to predict. But past crashes occurred when long-term utility was called into question. For example, Bitcoin had a sharp pullback when China first announced restrictions for cryptocurrencies in 2017. Similarly, the current crash is being helped along by new clarifications from China -- its citizens now can't use it as a form of payment. From time to time, other countries propose similar limitations for cryptocurrencies as well.
+
+Whenever something puts Bitcoin's long-term future in doubt, demand is temporarily stifled and a crash ensues. And if the current crash follows the historical pattern -- a drop of 80% or more -- Bitcoin still has a long way to fall from where it is right now. From its previous high, an 80% drop would take Bitcoin down to around $13,000.
+
+2. Bitcoin has always bounced back
+
+According to its protocol, Bitcoin's supply is fixed at 21 million coins. There are currently around 18.5 million in existence. But new Bitcoins are "mined" and put in circulation on a continual basis. Right now, there are about 900 new Bitcoins released every day as new blocks are mined.
+
+However, about every four years, the Bitcoin reward for mining is cut in half. This is called a "halving event." At launch, miners were awarded 50 Bitcoins with each new block. But there have now been three halving events, taking the current reward down to 6.25 Bitcoin per block. Previous halving events occurred on Nov. 28, 2012; July 9, 2016; and May 11, 2020.
+
+Going into 2020, many Bitcoin holders were expecting big gains from cryptocurrencies. Looking at the past, some of the best years for Bitcoin were 2013 and 2017, immediately following the halving event. This held true in 2020 and it makes sense. Assuming demand is ongoing, the new limits on supply drive the price higher. But eventually, prices spike high enough to limit demand and the price falls again.
+
+No one knows the future, so no one can say whether Bitcoin is going up or down in the near term. However, I would say the odds are high that the price of Bitcoin will be higher following the next halving event, which is expected in 2024. Halvings have tended to be catalysts in the past.
+
+A final warning
+
+Unfortunately, most people aren't thinking so long-term when it comes to Bitcoin. As reported by CoinDesk, the recent crash caused $8 billion in forced liquidations on May 19 alone because investors had purchased Bitcoin using margin.
+
+Paying for any investment with borrowed money is a bad idea -- especially one with a history of wild volatility. If it goes up, margin can admittedly compound your gains. But the opposite is true as well.
+
+If Bitcoin's history teaches us anything, it's to expect the unexpected. If you're willing to hold a small position for the long term as part of a diversified portfolio, then I would say buy some Bitcoin. But don't buy today hoping to get rich quick. History shows there'll be sharp and lengthy setbacks along the way.

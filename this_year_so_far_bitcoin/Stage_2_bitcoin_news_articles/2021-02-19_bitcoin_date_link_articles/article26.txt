@@ -1,0 +1,43 @@
+The year was 2017, the month, June, day 12. In an astounding ICO, Bancor raised 390,000 ETH ($153 million at the time), dethroning the previous ICO-record holder — The DAO.
+
+The hype surrounding the project was immense. It was to be the first decentralized exchange based on the automated market maker (AMM) protocol; no more order books, no more liquidity problems. Bancor was going to give rise to the era of the DEX, and it did so by showing the feasibility of AMM.
+
+However, it soon fell into an economic stagnation. The team was working on the platform, consistently improving it, but, for whatever reason, it never took off as Uniswap and SushiSwap later did. Back then yield farming was not a thing and the hurdle of requiring each project to buy and stake BNT in order to set up a pool were problems that barred the exchange from competing with other DeFi platforms.
+
+Advertisement
+
+It was in 2020 when Bancor entered its renaissance period. Through the introduction of several smart features and innovations, the exchange grew from a measly $10 million TVL to today’s $700 million (and growing). In this article I will explore exactly what Bancor did to regain momentum.
+
+Bancor total value locked from 21 February 2020 to 18 February 2021, which grew from $10 million to over $700 million. DeFi Pulse
+
+In October 2020, Bancor released V2.1, which came with a breakthrough innovation — the main reason, I would argue, that the platform is on the rise — single-sided exposure. Standard liquidity pools on Uniswap and SushiSwap work in the familiar fashion – two assets are bundled together while liquidity providers provide, well, liquidity. By itself not very lucrative, these pools became gold mines when liquidity mining was introduced, i.e., rewards in protocol tokens began being paid out to liquidity providers. For instance, SushiSwap rewards their liquidity providers with SUSHI tokens; the more a liquidity provider has invested, the more SUSHI they earn.
+
+However, there’s one big issue with liquidity pools, and AMM in general, and that is impermanent loss. We won’t delve into the specifics of IL, but let’s just say that it’s sometimes sub-optimal to keep assets in a liquidity pool when compared to simply holding them in your wallet. Liquidity mining programs aimed to balance that equation, but they didn’t solve the issue, the issue being that you have to supply equal parts of the two assets in a pool, thus becoming exposed to two volatility factors.
+
+Long story short, Bancor’s single-sided exposure feature solves the IL problem. It does so by allowing investors to stake only one of the assets in a pool. Here’s how it works. Let’s say that I want to join the DAI/BNT pool on Bancor. Before V2.1, I would have to buy equal parts in BNT and DAI. Nowadays, however, I can buy only DAI. DAI, being a stablecoin, will always preserve its value thanks to the impermanent loss protection, allowing me to stay in the pool without worrying about the market performance of BNT.
+
+The Bancor liquidity pool impermanent loss protection lifecycle. Bancor
+
+As you can see from the image above, Bancor co-stakes the required BNT from their own protocol, and then covers up any impermanent losses with the swap fees it has collected on its stake. The co-staked BNT and the remainder of the collected fees (after covering up any IL) is burned to keep the overall supply of BNT in check. There’s one key factor though: when a liquidity provider joins a pool they’re not protected instantly but rather, their assets receive 1% coverage per day, thus a 100% IL protection is reached after staying 100 days in a pool. Self-evidently, this feature both allows time for enough fees to accrue to cover for any impermanent loss and forces liquidity providers to stay put.
+
+Sounding too good to be true when I first got wind of this, I decided to test it out. It turns out that it works — you really do stake only one asset. Better yet, the APY on the stablecoin pools is currently more than 100%, which, in conjunction with the IL protection, is simply unheard of.
+
+The Bancor data page, showing all the major pools and their APYs from 19 February 2021. Bancor
+
+Moreover, since there’s a specific amount of BNT allocated to each pool, there is a cap on the amount of the other asset. For example, at the time of writing, the DAI/BNT pool has a slot of just about 3,000 DAI. This limited availability makes these pools very lucrative, but also allows for a more resistant APY.
+
+“The protocol invests BNT into whitelisted pools to support single-sided, non-BNT deposits (e.g., $100K LINK triggers $100K BNT minted by the protocol into the LINK pool). Protocol-supplied BNT generally remains in the pool earning fees for the protocol until the BNT and its accrued fees are burned. Each pool has a limit on the amount of BNT that can be provided by the protocol for this purpose (“co-investment limit”). When this limit is reached, BNT must be provided by users in order for the pool to expand, or governance can vote to increase the limit,” the company stated in one of their latest announcements.
+
+In terms of transaction fees, Bancor tends to be on the expensive side compared to Uniswap and SushiSwap, however, for example, you only need to perform two transactions to start yield farming on Bancor (approval and staking), compared to three on Uniswap and SushiSwap (approval, providing liquidity, and then staking pool tokens). Moreover, a new “top secret pool design”, as per this Bancor announcement from 11 February, is in the “final stages of research” and is intended to reduce gas costs for transactions on the platform.
+
+The project has also deployed a demo of its platform on Offchain Labs’s layer-2 solution — Arbitrum Rollup. As per the latest news, they are waiting for Arbitrum’s mainnet launch, after which it is expected that Bancor will be integrated to work on a rollup. For those unaware, this means instant transaction confirmations and negligible transaction fees.
+
+Moving on, let’s talk user interface. I have used Bancor a couple of years back, and I did like the UI. It was simple and intuitive. They have kept their style over the years. The new design is even better, upgraded to match the new features that have been introduced over the course of the last few years. Joining a liquidity pool requires only a handful of clicks, and the portfolio management page is neat. It makes it very easy to withdraw the BNT that are available to be claimed, or to stake them in another pool to farm even more BNT.
+
+An example of a Bancor portfolio page.
+
+In fact, Bancor prides itself on being the home of yield farmers that don’t rush to dump their rewards, but rather, re-invest them back into the platform — in the announcement from 11 February, the team stated that more than 85% of the BNT rewards are re-staked.
+
+More recently, on 17 February, Bancor launched Vortex, their leveraged liquidity service. It allows investors to sell vBNT (the token received when BNT is staked in a pool) on Bancor and do whatever they wish with the borrowed assets. Essentially, it allows for leveraged liquidity mining, which is becoming very popular thanks to platforms like Alpha Homora.
+
+In response to the sudden rise in popularity of Bancor, the BNT token has almost tripled in value — going from a little over a dollar at the start of the year to close to six nowadays.

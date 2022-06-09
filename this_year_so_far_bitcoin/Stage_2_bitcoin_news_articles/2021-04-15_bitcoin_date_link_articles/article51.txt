@@ -1,0 +1,19 @@
+The U.S. Treasury Department is sanctioning a Pakistan-based organization it claims was paid in digital currencies to create false identities for members of the Internet Research Agency (IRA), a Russian organization accused of election interference and other cyberattacks.
+
+Part of a sweeping set of actions taken by the U.S. government to address alleged Russian government interference in its elections on Thursday, the Treasury Department announced it would identify digital currency addresses used by Second Eye Solution (SES), otherwise known as Forwarderz, which allegedly received some $2.5 million across nearly 27,000 transactions between 2013 and March 2021.
+
+“As part of today’s listing of SES on OFAC’s Specially Designated Nationals and Blocked Persons List (SDN List), OFAC is also identifying digital currency addresses used by SES to fulfill customer orders in order to help assist financial institutions, and their third-party identity verification services, in identifying customers on their platforms who have purchased fraudulent identity documents,” Treasury’s press release said.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Following the publication of this article, the Office of Foreign Assets Control (OFAC) published a list of addresses and entities accused of participating in the scheme. Addresses include bitcoin, bitcoin cash, litecoin, ether, zcash, dash and verge, with 28 total addresses on the list.
+
+In addition to SES, addresses are tied to the Association for Free Research and International Cooperation (linked to Russian national Yevgeniy Prigozhin, the alleged financier of the IRA) and Southfront, which is tied to the Russian Federal Security Service.
+
+The U.S. has accused Russian government officials of meddling with its election before, and Thursday’s actions formally include allegations that the Russian Foreign Intelligence Service was behind the massive SolarWinds cyberattack.
+
+An executive order signed by President Joe Biden also mentions cryptocurrencies as a tool that may be used to bypass U.S. sanctions. The executive order states that any individual who uses “deceptive or structured transactions or dealings to circumvent any United States sanctions, including through the use of digital currencies or assets or the use of physical assets” should be blocked from transacting with or being paid by any U.S. person (meaning U.S. citizens or individuals residing on U.S. soil).
+
+The U.S. has sanctioned crypto addresses on a handful of occasions before, including previously adding digital currency addresses and individuals accused of interfering with U.S. elections on behalf of the Russian government.
+
+Other additions to the Specially Designated Nationals (SDN) list include alleged drug traffickers and money launderers tied to cyberattacks.

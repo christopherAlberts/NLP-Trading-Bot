@@ -1,0 +1,31 @@
+The price of Bitcoin
+
+Ever since I started writing articles about Bitcoin for CityAM, the price of Bitcoin has gone up over 100% exactly as expected. However, over the past 72 hours, the price of Bitcoin has retraced 23%. There are a few reasons for this and I will detail them in this article. I will also detail what I expect is the net result of all of this recent news and let you know what I think is coming next for bitcoin and cryptocurrencies.
+
+So kicking things off we have a 23% drop in 72 hours. On the surface, not a good thing at all! In normal markets you would put this down to a sudden loss of confidence, but in crypto things are a little different. There are people that bought bitcoin for $3 and they are still holding; there are people that have huge mining farms that have to sell large quantities to fund operations. A combination of these 2 things is what makes bitcoin insanely volatile.
+
+As the world slowly adopts bitcoin, the amount of individuals holding large amounts of Bitcoin reduces as they sell to take perceived profit into FIAT currency or perhaps they realise their profit in a different cryptocurrency. When these large holding individuals sell Bitcoin it can trigger a loss of confidence among the community so you end up with a cascading sell-off. However that is not what happened here.
+
+F2 Pool sells out
+
+In the case of why Bitcoin fell 23%, this can be put down to two primary reasons. F2Pool Bitcoin mining pool sent 3633 Bitcoin in a single transaction out of their bitcoin mining wallet and right onto the exchanges. They then proceeded to dump all of this bitcoin in a very short period of time. It is unknown if F2pool were also shorting Bitcoin to capitalise on the price falling. As the price of Bitcoin fell, there are so many new people in the market and new money is easily panicked so they then start selling for a loss and so you end up with huge amounts of Bitcoin flooding towards exchanges. This then snowballs into a catastrophic market move triggered by just one Bitcoin miner.
+
+So if Bitcoin cant cope with one small group of individuals selling, is it any good? Well the simple answer is Bitcoin is small. It is not very liquid compared to institutional markets because Bitcoin is not a share in an asset, Bitcoin is the asset. It’s kind of like if a property developer listed 1000 properties for sale, you would expect prices to come down until demand reaches supply, and because a lot of Bitcoins are in the hands of people not institutions the markets tend to be rather irrational. It is not a problem at all because in the long term as Bitcoin grows these large holders redistribute their wealth or become more professional in their operation and over the span of 10 years the market will even out. Bitcoin will stabilise much like gold has after it rallied for 11 years barely pausing to take a breath.
+
+The theory
+
+The story of F2Pool dumping might not be one, however, of unsophisticated investors selling bitcoin to pay their bills. I believe it is more likely that F2Pool have been dumping Bitcoin in order to stop the price of Bitcoin going euphoric and ending the bullrun. Every time Bitcoin has turned euphoric on the NUPL (Net Unrealised Profit & Loss) indicator, a bear market has followed shortly after, so this is something to consider. The recent drop in Bitcoin price may actually be intended to delay market euphoria and extend the bullrun.
+
+This theory actually lines up very well with what is going on in the market because on the cards at the moment Michael Saylor is about to buy $1 billion of Bitcoin over the next few days. Of course if he were to buy when Bitcoin was peaking at $58,000 then he would send the bull market into a euphoria, but with F2Pool crushing the spirit of crypto investors, his buy order will be easy to fill and when he sends out confirmation of its completion, investors in crypto have historically reacted very positively to such news.
+
+Tether and the New York Attorney General
+
+The final thing worth mentioning today would be the news coming from the New York Attorney General (NYAG). The NYAG has suspended any further proceedings on Tether and forced Tether to pay an $18.5m fine while banning them from New York. The reputation of Tether is something that has been called into question many times and yet again under scrutiny they passed and did not get found guilty of anything. This is amazing news for Bitcoin because it means that all Tether in circulation at the moment can be considered equal to the dollar and thus by extension it solidifies Bitcoin’s price meaning there will be no rush to exit all crypto should Tether collapse.
+
+A combination of all of these factors I believe is occurring and I believe the next move for Bitcoin will be a small period of consolidation followed by Micheal Saylor triggering the next round of institutional investment into Bitcoin. I expect Bitcoin to hit $100,000 in 2021, I don’t expect it to get there in a straight line but I expect it will get there and all of the things happening at the moment seem to be lining up to create the perfect storm.
+
+TMG ‘That Martini Guy’ is a British Cryptocurrency Trader & YouTuber that publishes daily Bitcoin & Crypto videos on youtube. In the Crypto Space since 2013 he has vast experience in both Cryptocurrency bull and bear markets having experienced nearly every single one in the history of Bitcoin!
+
+Twitter: https://twitter.com/MartiniGuyYT
+
+YouTube: https://www.youtube.com/c/ThatMartiniGuy?sub_confirmation=1

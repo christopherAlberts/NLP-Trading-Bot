@@ -1,0 +1,59 @@
+Advertising Read more
+
+Washington (AFP)
+
+As the value of bitcoin soars and concerns rise about the energy-intensive process needed to obtain it, cryptocurrency entrepreneurs in the United States believe they have found a solution in flared natural gas.
+
+Profitably creating, or mining, bitcoin and other cryptocurrencies requires masses of computers dedicated to solving deliberately complicated equations -- an endeavor that globally consumes more electricity than entire nations, but for which these start-ups say the jets of flaming gas placed next to oil wells are perfect power sources.
+
+"I think the market is enormous," said Sergii Gerasymovych, CEO of EZ Blockchain, which has six different data centers powered off natural gas in the US states of Utah and New Mexico, as well as in Canada.
+
+Across the country, companies like EZ Blockchain are setting up shipping containers where racks containing hundreds of computers mine cryptocurrency, fueled by natural gas from oil wells that otherwise would be burned in the open.
+
+Interest in their work has grown over the past year. Bitcoin and other cryptocurrencies like ethereum and dogecoin have seen meteoric price spikes since the Covid-19 pandemic turned the global economy on its head and mainstream companies began to embrace the technology.
+
+But a backlash has formed against the digital assets' energy usage, fueled by concerns it relies on carbon-emitting power sources that contribute to climate change.
+
+This week, Tesla boss Elon Musk criticized bitcoin's power consumption, particularly of energy produced from coal, and said he would no longer accept the cryptocurrency as payment for his electric cars.
+
+While entrepreneurs in the fledgling industry say using natural gas that is otherwise wasted represents a solution to these concerns, its ability to actually cut emissions remains to be seen, said Tony Scott, managing director of analysis at oil and gas research firm BTU Analytics.
+
+"In the grand scheme of things and relative to other load, yes, it's small," Scott said. "They are creating economic value (but) they're not necessarily significantly changing the emissions profiles."
+
+- Burning energy away -
+
+Huge numbers of processors worldwide are dedicated to the task of mining bitcoin. The activity uses 149.6 terawatt-hours per year, according to the Cambridge Bitcoin Energy Consumption Index (CBECI). That is slightly less than all the electricity consumed by Egypt.
+
+As the most popular cryptocurrency, bitcoin is undoubtedly valuable, trading at around $50,000 in mid-May from less than $10,000 a year ago, giving miners incentive to find the cheapest source of power to increase their margins.
+
+Enter flared natural gas.
+
+Oil producers flare natural gas if they can't find a way to process it, which, with prices low and pipelines complicated to build, can be the case worldwide.
+
+"Miners tend to be based around areas where there tends to be surplus power. What is new... is this whole concept of taking gas flaring," said Jason Deane, bitcoin analyst at Quantum Economics.
+
+Flaring combusts many of the greenhouse gases in natural gas, but the International Energy Agency said the approximately 150 billion cubic meters of natural gas flared worldwide in 2019 put out about the same amount of carbon dioxide as Italy.
+
+Using flared gas to power the application-specific integrated circuits that mine bitcoin does not end emissions entirely, but is more efficient than flaring it and puts energy that is otherwise wasted to use.
+
+"We come in, they're making zero for their gas, we say, hey, we'll come in (and) take the gas off your hands, give you a little something," said Matt Lohstroh, co-founder of Giga Energy Solutions.
+
+"We'll be able to reduce your emissions you're putting out, combust it, create economic value on our end."
+
+- Cheaper power -
+
+Natural gas's edge is in the cost of power. CBECI estimates the average global power cost for bitcoin mining is about $0.05 per kilowatt hour. Lohstroh said natural gas power can bring the kilowatt hour cost to below $0.018.
+
+Interest has grown in diverting flared gas to cryptocurrency mining, and not just because the digital assets are growing in value.
+
+"There's more scrutiny on issuing new flare permits and I think these producers are realizing that," said Britt Swann, who is leading holding company Ecoark's expansion into cryptocurrency mining.
+
+"They are willing to play ball and figure out a way to use that gas without necessarily wanting any value for it."
+
+Where companies differ is over what to do with bitcoin and other digital assets once they get it.
+
+Ecoark intends to convert it into dollars, but Lohstroh plans to hold the bitcoin he mines, which he believes will one day underpin a new global financial system.
+
+"No need to sell the most valuable asset in the world that's underpriced," he said.
+
+© 2021 AFP

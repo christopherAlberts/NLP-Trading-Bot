@@ -1,0 +1,103 @@
+As the ongoing digital assets boom continues to throw up myriad investment opportunities for asset managers and investors alike, London-based Nickel Digital Asset Management aims to bridge the gap between traditional finance and the cryptocurrency market, offering a diverse range of investment strategies across the hedge fund, multi-strategy and long-only spectrum.
+
+Launched in early 2019 with its flagship Digital Asset Arbitrage Fund, Nickel Digital has since widened its scope, capitalising on the expanding opportunity set with a slew of new strategies tailored towards the growing global investor interest in digital assets.
+
+The firm is led by three founding partners: CEO Anatoly Crachilov, CIO Michael Hall, and senior portfolio manager Alek Kloda. Before switching focus to crypto assets, CEO Crachilov – an investment professional with more than 25 years’ experience - was at Goldman Sachs, where he focused on portfolio construction for ultra-high net worth and family office clients. Earlier, he had stints at JPMorgan and HSBC.
+
+CIO Michael Hall began his career with Bankers Trust in 1992. Before focusing on directional and market neutral crypto arbitrage investing, he spent over 25 years trading macro, commodity and fixed income relative value for a number of hedge fund firms. Prior to Nickel, portfolio manager Alek Kloda worked for Macrosynergy Partners, Toscafund and Liongate.
+
+From those initial three founding partners, Nickel Digital has expanded to a headcount of 23, with wider senior management team bringing decades of experience from Morgan Stanley, Merrill Lynch, UBS, Rothschild, and Bank of America. Earlier this month, the firm hired a senior option trader, with multi-year experience gained at DE Shaw, BNP Paribas, and Credit Suisse.
+
+Conservative approach
+
+Having launched just over two years ago, Nickel Digital today manages around USD200 million across four funds. Its original flagship Digital Asset Arbitrage Fund is a systematic market-neutral arbitrage hedge fund, which utilises an array of trading strategies and approaches – including basis trades, triangular arbitrage, volatility arbitrage and calendar spreads - to profit from mispricing in bitcoin and other digital currencies.
+
+“Our Arbitrage Fund is a fully systematic fund, which applies well-tested techniques brought from traditional finance into crypto markets, extracting value from this notoriously volatile space,” CEO Anatoly Crachilov tells Hedgeweek. “This strategy does not express a view on the market directionality. Instead, it exploits volatility swings, price dislocations, and the continued inefficiencies of this nascent market.”
+
+The USD80 million fund has built a solid 22-month track record, generating more than 21 per cent net return since inception, without experiencing a single down month. It has demonstrated even stronger performance this year, advancing around 6 per cent in the first three months of 2021.
+
+“This performance is ahead of our target, which is 8-10 per cent annualised on the net basis, regardless of the price action of the underlying market,” Crachilov says of the performance.
+
+“This strategy is not designed to compete with bitcoin. If bitcoin repeats last year’s rally of 300 per cent – this strategy will not outperform this. It will be aiming to achieve 8 to 10 per cent. However, should bitcoin go down 70 per cent, this strategy should still be able to deliver 8-10 per cent returns in a very sustainable manner, irrespective of what happens in the market.”
+
+He says the fund – which is built around several trading strategies - tends to maintain an “extremely conservative” approach in a market known for its often-volatile movements, a stance which he believes has proved pivotal in its consistent track record.
+
+“We know we can extract higher returns from this market, but we are consciously leaving some opportunities on the table for the sake of capital preservation.”
+
+Confluence of opportunities
+
+One of the main trading strategies within the flagship fund takes advantage of the volatility of the futures basis in this space.
+
+In contrast from its equivalent in traditional fixed income, where minimal spreads can be levered tens of times in order to generate yield, in crypto, basis is “volatile enough as it is” and optimal yield comes from risk management and optimising the trading paths, with small amounts of leverage only, he explains.
+
+Triangular arbitrage, another sub-strategy, borrows from traditional FX markets in which profits are generated from temporary mispricing across currency pairs. In the cryptocurrency world, Nickel Digital looks to profit from mispricing in bitcoin and a range of other digital currencies across 17 exchange venues.
+
+“This is a low-latency strategy, which involves simultaneous trades of multiple currency pairs across a range of trading venues, where triangulation can happen between San Francisco, London, and Tokyo in timeframes measured in milliseconds.”
+
+Another sub-strategy in the flagship fund is volatility arbitrage. “If your implied volatility went into a massive dislocation to realised volatility, the manager can take a view that this spike will mean revert to its more stable value. Realised volatility in this space is typically around 70 per cent, so if your implied vol went to 100 or 120 or, as in the case of March 2020, spiked all the way to 160 per cent – you may take a view that it is unsustainable and short implied vol at these levels.”
+
+Calendar spreads, meanwhile, involve taking a view on, for instance, three-month futures and six-month futures. “You have the same strikes, just different settlement dates, so if there is a dislocation in fair value, you can deploy capital to take advantage of this spread.”
+
+Reflecting on its performance, he continues: “We are converting the extremely high volatility in bitcoin, which runs at 75 per cent, into 2.5 per cent volatility of returns at the fund level. That, coupled with no drawdown months, has resulted in a Sharpe ratio of over 4 since inception.
+
+“From my old days at Goldman, whenever you see a manager running a Sharpe of 2 or 3, you’re naturally suspicious of them. However, here we are delivering a Sharpe of 4 in a very consistent manner, which is really a confluence of opportunities offered by the crypto market and our very conservative approach to risk management.”
+
+Building credibility
+
+The original fund’s strong showing in what is often an unpredictable sector ultimately helped Nickel Digital build credibility in the eyes of the market - paving the way for Crachilov and his team to develop additional products to delve further into the broadening investor interest in digital assets.
+
+“We wanted to cater to incoming demand from the traditional asset allocators, and offer a range of solutions, depending on investors’ particular risk/return profile,” Crachilov says.
+
+“While the most conservative offering was the original market neutral arbitrage strategy, which does not take directional bets on cryptocurrencies, with our other funds we can take more directional positions.”
+
+The firm’s largest strategy is the Digital Gold Fund, a long-only, buy-and-hold, directional bitcoin-focused product, currently managing USD100 million.
+
+The third fund, the Nickel Digital Factors Fund, is a multi-strategy fund launched in February, which some investors referred to as “Millennium of crypto”, in a nod to Israel Englander long-running hedge fund behemoth which consists of individual pods operating different strategies under a single fund umbrella. The Digital Factors Fund has outperformed its 18 per cent annual return target so far, delivering over 30 per cent annualised gain in its first two months of operation.
+
+“The idea here is that you diversify your exposure across 10-15 idiosyncratic uncorrelated strategies, converging into a consistent return at the fund’s level,” he says. “We look for talent who manage niche, but high return strategies. We provide the trading infrastructure, risk management framework and access to capital, while carefully selecting strategies that can deliver high quality, consistent returns.”
+
+He adds: “We now have 12 diversified strategy pods in this fund. Real-time 24/7 risk management system is the core of this model, allowing Nickel to dynamically allocate capital, as well as proactively withdraw the capital from individual strategies should they breach risk limits – even if this were to happen at 2am on Sunday night.”
+
+The most recent launch is Digital Leaders Fund, an altcoin strategy which takes a view on a broader range of protocols outside of bitcoin aiming to capture the growth of the emerging smart contract ecosystem, Crachilov says. Described as an actively managed research-driven strategy, the strategy is designed to capture early winners of what he calls a “highly innovative” area.
+
+The firm is also in the process of finalizing the launch of a defensive bitcoin fund, with managed volatility profile.
+
+Allocator appetite
+
+Today, the firm has around 40 investors, the majority of which are family offices. While many are large, sophisticated billion-dollar allocators, for around 80 per cent of them, Nickel Digital became their first-ever exposure to the cryptocurrency market.
+
+From Nickel’s experience, allocators who are willing to explore the space, but are naturally concerned by volatility and downside risks of this asset class, see the flagship market neutral fund as the most suitable entry point.
+
+“It’s fair to say that our market neutral arbitrage fund is the one that clicks immediately in any initial conversation,” he observes. “Indeed, it gets exposure to this market without taking directionality bets, instead exploiting inefficiencies and volatility embedded in this market.”
+
+The natural evolution from there is a move towards with long biased exposure to baskets of cryptocurrencies, which Crachilov says complements the arbitrage strategy.
+
+“In a portfolio, you can have both, and it makes perfect sense,” he continues.
+
+“Within a well-diversified portfolio you typically have the core allocation to less volatile strategies, designed to provide capital preservation, while up to 20 per cent is typically allocated to alternatives, which would include hedge funds, private equity, and VC exposure. From a portfolio construction point of view, arbitrage fits into core capital preservation bucket, while directional exposure to crypto should be viewed as a VC allocation – it’s a bet on a powerful new technology, which allows for instantaneous borderless value transfer, converting internet-of-information into internet-of-value.”
+
+Assymetric asset
+
+With bitcoin having gone mainstream, and the entire scope of the digital assets ecosystem registering on a rapidly-expanding number of radars, talk turns to how the sector will continue to fare in an ever-shifting market landscape.
+
+In an inflationary environment, bitcoin offers a “completely different, transparent, and immutable” monetary policy in which there is a predictable supply of coins, Crachilov observes. This stands in contrast with the traditional fiat system of dollars or euros, where central banks have the sole discretion to inflate the number of units in the economy.
+
+“Bitcoin is an anti-inflationary instrument, like gold and real estate,” he says. “Gold’s value is dictated by its scarcity. Similarly, bitcoin’s scarcity defines its value - its completely inelastic supply model results in an upward price volatility and structural increase of demand leads to price appreciation.”
+
+It is also an asymmetric asset, he observes.
+
+“Assuming you’re making a 2 per cent allocation to bitcoin within your broader portfolio, your downside risk is rather limited. At the same time, the upside of this allocation can be disproportionally large – indeed, since genesis in 2009, its annual growth of bitcoin price averaged at 200 per cent. Even with all attributed volatility, bitcoin has become the best performing asset of the last decade, which makes bitcoin a financially appealing allocation to contemplate, as long as it’s a controlled single digit exposure.”
+
+Price journey
+
+This is forming the basis of many asset managers approach to crypto, which has only intensified and accelerated during the coronavirus pandemic, driving bitcoin – the world’s foremost digital currency – to new record highs of more than USD60,000.
+
+Reflecting on bitcoin’s price journey, which has seen the currency spike some 500 per cent over the past year, he continues: “Our analysis reveals, that an allocation of mere 2 per cent over last eight years - which encompasses two major cycles - would have resulted in a strong contribution to the portfolio performance, while not negatively impacting a portfolio’s risk profile.”
+
+This, again, demonstrates the uncorrelated nature of bitcoin with other asset classes, he adds, underlying its diversifier status in an institutional portfolio.
+
+Meanwhile, macroeconomic backdrop remains positive for digital assets, as are the opportunities in both directional and arbitrage space, Crachilov observes.
+
+“What is critical in our business are robust risk management systems. As the underlying market operates 24/7, so do the trading systems, which never shut overnight or for weekends,” he explains. “The risk management system is designed to withstand vast market moves, even if a selloff of 40 per cent were to take place at 3am on Sunday morning.”
+
+He adds: “There will be price swings, and continued volatility. Our two years’ experience makes us well positioned to exploit these opportunities to extract returns from the market. As with any new technology in its early stage of adoption curve, its price action will remain volatile, and price discovery will be anything but a straight line. Yet the direction of travel is clear and this new technology offers a great set of investment opportunities.”

@@ -1,0 +1,63 @@
+Bitcoin’s plunge to as low as $30,305 was intensified from leveraged long derivative liquidations; options traders are totally bearish on ether, the native asset of Ethereum.
+
+Bitcoin (BTC) trading around $33,277 as of 21:00 UTC (4 p.m. ET). Slipping 10.9% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $30,305-$38,947 (CoinDesk 20)
+
+BTC above the 10-hour but well below the 50-hour moving averages on the hourly chart, a sideways-to-bearish signal for market technicians.
+
+Bitcoin trading on Bitstamp since Jan. 8. Source: TradingView
+
+Bitcoin’s price crumbled over the past 24 hours, going from $38,947 at 22:00 UTC (5 p.m. ET) Sunday to as low as $30,305 by 17:00 UTC (12 p.m) Monday, according to CoinDesk 20 data. In a span of 19 hours, the world’s oldest cryptocurrency fell by $8,642, a loss of over 22%. Since then the price has risen slightly but not by much, at $33,277 as of press time.
+
+“Bitcoin is seeing a retracement of its steep move up, something that I am sure some traders welcome, having felt they missed the opportunity to add into weakness,” noted Katie Stockton, and analyst for Fairlead Strategies.
+
+Historical bitcoin price the past week. Source: CoinDesk 20
+
+Stockton still stands by her prediction last week that bitcoin’s “support” level is somewhere below $25,000, where she expects traders to flood the market with buy orders and prop up the price. “It is difficult to discern where support will ultimately be discovered with several levels of importance starting with $25,000, but it is not likely to happen immediately given still-overbought conditions.”
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+The derivatives market exacerbated bitcoin’s tumble, according to Jason Lau, chief operating officer for San Francisco-based cryptocurrency exchange OKCoin. “The overall market correction was perpetuated by a long squeeze on highly leveraged derivatives positions,” Lau told CoinDesk.
+
+According to data aggregator Bybt, Sunday was by far the largest liquidation day in three months, with Binance alone processing over $500 million in long liquidations, the cryptocurrency version of a margin call.
+
+Total bitcoin liquidations on major venues the past month. Green lines are long liquidations, red are sells, orange line is BTC spot price. Source: Bybt
+
+Yet, bitcoin’s sell-off is not necessarily a bad thing for the cryptocurrency, according to some market observers.
+
+“Today’s drop should be seen as a healthy correction by smart institutions [that] bought BTC from $20,000 on the way up to $30,000,” noted David Lifchitz, chief investment officer of quant firm ExoAlpha. ”One worrying sign that we have discussed with our investors was not that bitcoin price was rising but its velocity, the speed at which it did move and the amplitude of the daily moves.”
+
+Indeed, as bitcoin makes huge price gains and subsequent losses as happened on Monday, the volatility factor in the market is magnified. This has led to the world’s oldest cryptocurrency’s 30-day volatility metric pushed to 71.9%, a level not seen since June 5, 2020.
+
+Bitcoin’s 30-day volatility the past year. (Shuai Hao/CoinDesk Research) Source: CoinDesk Research
+
+Despite the decline, Rupert Douglas, head of Institutional sales at crypto custody provider Koine remains steadfastly bullish. “The market doubled from its previous high in a couple of weeks,” Douglas said. “It is highly unusual for a market to behave the way it is doing (but) I think we are going much higher, over $500,000 by 2023.”
+
+While that’s a pretty mega-bullish proclamation of bitcoin’s future price, Douglas also noted bitcoin’s notorious volatility. “There will be sharp reversals along the road so buy dips, not rallies.”
+
+Ether option strikes orienting below $1,000
+
+The second-largest cryptocurrency by market capitalization, ether (ETH), was down Monday, trading around $1,018 and slipping 19% in 24 hours as of 21:00 UTC (4:00 p.m. ET).
+
+Ether options traders appear to be hovering, like crows looking for shiny things, over the possibility of the asset dunking even further. The largest open interest strike on the ether options market Sunday was $400, followed by $480 and then $800, according to data analytics firm Skew.
+
+Ether options open interest by strike Sunday. Source: Skew
+
+Denis Vinokourov, head of research at crypto brokerage Bequant, also noted traders are likely hedging on these bets at least with some open interest in calls, which give the buyer the right, but not the obligation, to buy at $1,920. “The January 29 $1,920 call strike is particularly active today, when compared against other options. This suggests another round of strong dip buying for the second-largest crypto asset.”
+
+Other markets
+
+Digital assets on the CoinDesk 20 are all red Monday. Notable losers as of 21:00 UTC (4:00 p.m. ET):
+
+Equities:
+
+Commodities:
+
+Oil was down 1%. Price per barrel of West Texas Intermediate crude: $52.08.
+
+Gold was in the red 0.20% and at $1,844 as of press time.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield climbed Monday jumping to 1.138 and in the green 1.4%.

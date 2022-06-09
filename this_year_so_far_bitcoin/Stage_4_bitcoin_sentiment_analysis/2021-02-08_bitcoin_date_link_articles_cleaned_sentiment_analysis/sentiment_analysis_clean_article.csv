@@ -1,0 +1,17 @@
+,name,neg,neu,pos,compound
+0,clean_article0,0.0,0.968,0.032,0.1779
+1,clean_article1,0.039,0.872,0.089,0.992
+2,clean_article10,0.021,0.911,0.068,0.9817
+3,clean_article11,0.075,0.834,0.091,0.9779
+4,clean_article12,0.0,0.821,0.179,0.9982
+5,clean_article13,0.026,0.844,0.13,0.9954
+6,clean_article14,0.015,0.905,0.08,0.99
+7,clean_article15,0.0,0.816,0.184,0.717
+8,clean_article2,0.0,0.641,0.359,0.8122
+9,clean_article3,0.0,0.641,0.359,0.8122
+10,clean_article4,0.01,0.91,0.08,0.9538
+11,clean_article5,0.013,0.904,0.083,0.9655
+12,clean_article6,0.04,0.863,0.097,0.9984
+13,clean_article7,0.036,0.896,0.067,0.7269
+14,clean_article8,0.0,0.816,0.184,0.717
+15,clean_article9,0.033,0.865,0.102,0.9967

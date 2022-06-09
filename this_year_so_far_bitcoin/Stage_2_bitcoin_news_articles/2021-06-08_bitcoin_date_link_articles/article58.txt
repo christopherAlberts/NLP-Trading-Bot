@@ -1,0 +1,39 @@
+State Senator Kevin S. Parker, (D) New York joins the Yahoo Finance Live panel to discuss the bill that he introduced to halt bitcoin mining in NY.
+
+Video Transcript
+
+AKIKO FUJITA: Climate concerns have accelerated the closures of coal-fired power plants. But some are finding new life in Bitcoin mining. That's only added to concerns about the environmental impact the industry is having. One state senator in New York introducing a bill calling for a full review of the industry's impact on the environment.
+
+Let's bring in that senator. State Senator Kevin Parker joining us today. Senator, it's good to talk to you today. I guess it's important to provide some context on this, because there is one specific power plant, Greenwich Generation in the Finger Lakes region, that's been converted into a Bitcoin mining facility. It used to be a coal-powered plant. Now they've said they use natural gas. How much of the bill that you've introduced is to target specifically that project or to try and halt the other projects that could come?
+
+KEVIN PARKER: None of what we've actually put forward is about targeting any particular plan. But the real context is that we have a climate change crisis, not just in the state of New York or the country but in the world. And the state of New York has actually passed the most audacious climate change goals literally in the country, trying to reduce our carbon footprint by 40% by 2030 and by 85% by 2050. And so the CLCPA, the Climate Leadership and Community Protection Act, is really the context in which all of us operate in. And what crypto mining is doing now really runs in violation of that.
+
+AKIKO FUJITA: So the bill may not be targeting a specific project. But there is an interesting dynamic at play here, because a lot of these coal-fired power plants have been threatened-- a lot of them have been forced to close and are now looking at a new way to continue operating. How much of that is picking up steam beyond this specific project we're talking about? Are you seeing more and more of these power plants trying to get into mining?
+
+Story continues
+
+KEVIN PARKER: Well, people are focusing on the moratorium part of this legislation. And although that's important, the real critical part of the legislation I'm putting forward with assembly member Anna Kelles is really a bill that provides a study around how crypto mining can be done within the context of our climate leadership goals.
+
+And so we're not saying that we're against crypto mining. We would like to have crypto mining in the state of New York. But it needs to happen in a way that's environmentally friendly and goes-- and operates in conjunction with our climate goals and our environmental aims for the state.
+
+ZACK GUZMAN: Well, with all due respect, I mean, it does kind of sound like you are against it if you want to put a moratorium on it while the research is done there. Because it does sound like-- I mean, the pushback that you hear from Bitcoin miners all the time is that it matters what energy source is being used. And if it is natural gas, obviously the emissions is far better than coal there. Obviously, it'd be even better if it was solar or renewable powered energy.
+
+KEVIN PARKER: That's right.
+
+ZACK GUZMAN: Then why put the moratorium on ahead of the research there, since it seems like it matters more about the energy source that's being used rather than it being Bitcoin mining?
+
+KEVIN PARKER: Because it's not about the energy source. This is really more about carbon. And certain energy sources produce more carbon. And we know that fossil fuels are dirtying our planet, dirtying our atmosphere, and creating a dynamic in which the planet is going to be uninhabitable.
+
+And so what we're saying is, let's take a little time. Let's not manage anymore of these facilities operating on, you know, fossil fuels-- again, which is in direct contravention of what we're trying to do in terms of our climate change goals. And let's look at, you know, how we can do more solar. How do we do more wind turbines? How do we do tidal power? How do we do co-generation? And use other means that are cleaner in order to do this important work.
+
+AKIKO FUJITA: There's a number of estimates that are out there in terms of the energy that is consumed in Bitcoin mining. You had numbers out from the University of Cambridge that said, essentially, when you look at the global mining number, the energy usage has surpassed the usage in a country like Sweden. When you look specifically in New York, how significant is that carbon footprint right now? Do you have a number?
+
+KEVIN PARKER: Again, like what you're seeing globally, we're seeing different sets of numbers. But we certainly all agree that the numbers are astronomical. And it also is saying-- it also raising the level and the price of energy in those areas. But I think that those kind of pricing issues we can kind of figure out more easily than the long-term impact of producing this level of carbon.
+
+These crypto miners have come in and taken over dirty peaker plants. And these are plants that sometimes will be running for a couple of hours over the course of a month and are now running them 24 hours a day, 7 days a week-- and not just dirtying the air, but using the water in the Great Lakes to cool the plants and then pouring that water back into the lakes at over 100 degrees. And so we certainly can't continue to allow this ecological disaster to befall the state of New York, endanger our Great Lakes, and endanger everybody in the state.
+
+AKIKO FUJITA: I want to follow up on the question that Zack asked about what the energy source should be. And I realize this bill is about conducting the study first. When you look at what the climate goals of the state are, do you see a scenario where Bitcoin mining can continue to run on natural gas? Or does it have to be all renewable energy? Because at the end of the day, natural gas may be cleaner. But there's still emissions.
+
+KEVIN PARKER: Yeah. Look, as the chair of the energy and telecommunications committee in New York State Senate, I certainly see natural gas as a bridge fuel to how we get to all 2030 and 2050 goals. And so I think in the meantime, there can be some limited natural gas done. But we certainly want a long-term solution. And we certainly want these plants that come in with long-term plans to have as sustainable energy sources as possible. And again, battery storage, solar, wind, water are all great alternatives. And we want to work with these crypto miners to do what is right both for their business, but also for the people the great state of New York.
+
+AKIKO FUJITA: State Senator Kevin Parker, appreciate you joining us today.

@@ -1,0 +1,23 @@
+Aaron Russell had been working as a software engineer for years before dedicating himself to making it easier for other developers to build on Bitcoin. Once he found Bitcoin SV, which allows developers to build scalable and efficient applications, he knew he was home. Since then, he has built tools targeting developers and in a recent interview with Bitcoin Association, Russell recounted his journey in Bitcoin and his plans for the future.
+
+Russell was inspired by the potential applications of software running on a public ledger, he revealed. The ability to build a network of interoperable applications on a single source of truth—the blockchain—creates a universe of endless possibilities, he added.
+
+“One of the things that interests me a lot is the notion of building interoperable applications and services where you have the blockchain as this single source of truth, and data that lives on the blockchain can be shared in creative ways between different applications,” Russell said.
+
+Russell is behind some of the handiest tools for developers building on Bitcoin. Through his company Chronos Labs, he developed PayPresto, a toolkit that allows web wallets to interface with complex Bitcoin transactions. This, in turn, allows developers to integrate smart contracts into their Bitcoin applications. Russell also built TXforge, an open-source transactions builder that developers rely on to create complex and customizable blockchain transactions.
+
+He said, “What I’m trying to do is build tools that are accessible and promote pragmatic ways of building applications by making the process easier.”
+
+For Russell, choosing Bitcoin SV was an easy decision as it is the only blockchain network that scales unbounded, has very low transactions and has a stable protocol.
+
+“For me, it’s always been painfully obvious that the blockchain must scale – that’s always been crystal clear to me,” Russell pointed out.
+
+The software developer is aware that his role in the ecosystem is critical. By making it very easy to build on Bitcoin, Russell is allowing developers, even those who don’t have advanced skills, to build their applications on Bitcoin. He hopes that this can attract a pool of new talent to the space in due time.
+
+He concluded by calling on developers to try their hand in building on Bitcoin.
+
+“If you are looking to get into Bitcoin development, definitely make use of the tools that are out there – there are lots of great starter tools. You can start building really simple applications in a day if you’re already familiar with the basics of JavaScript.”
+
+Watch Aaron Russell talk about Operate SV and the Chronos Labs suite at Bitcoin SV DevCon 2021.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

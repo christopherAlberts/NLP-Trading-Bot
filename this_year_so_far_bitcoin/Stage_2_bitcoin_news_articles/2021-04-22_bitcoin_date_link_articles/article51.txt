@@ -1,0 +1,37 @@
+The price of Bitcoin (BTC) is still stuck in what traders hope will be a short-term downtrend as the impact of the April 18 rumors of a crackdown on “unnamed financial institutions” for facilitating money laundering using cryptocurrencies has yet to be shaken off.
+
+Data from Cointelegraph Markets and TradingView shows that since being pummeled below the $51,000 level on April 18, the price of BTC has been trading in a range between $52,500 and $57,500 and establishing a descending pattern of lower highs and lower lows.
+
+While regulatory concerns may have played some role in the current drawdown, there have been several other significant developments that have affected BTC's recovery.
+
+According to Micah Spruill, managing partner and chief investment officer at S2F Capital, a 20% to 25% drop in the Bitcoin hash rate caused by mandatory power blackouts in the Xinjiang region of China over the weekend "forced approximately 80% of the miners in that area offline.”
+
+Spruill sees this drop in hash rate, combined with an all-time high in the Bitcoin futures open interest rate as the catalyst for “the perfect scenario for a major over-leverage washout.”
+
+In terms of what comes next for Bitcoin, Spruill pointed to an increase in bullish sentiment among analysts and traders “after much of the over-speculation in the market this month was tempered by the price pullback.”
+
+Spruill said:
+
+“Currently, the on-chain metrics are looking incredibly healthy with accelerating growth of new entities joining the network, increased user signups on major exchanges like Binance, and continued bullish net exchange outflows in both Bitcoin and Ethereum.”
+
+Bitcoin's current trading range may be dominated by bots
+
+David Lifchitz, chief investment officer of ExoAlpha, echoed Spruill's perspectives, also pointing to regulatory concerns in the United States and the announced ban on cryptocurrencies in Turkey as “the match that lit the fire of an overleveraged trading environment” based on the perpetual swaps funding rate before and after the plunge.
+
+According to Lifchitz, Bitcoin is now back in the “$50,000 – $60,000 twilight zone,” which is characterized by institutional dip-buyers with orders at the $50,000 level, retail FOMO — the fear of missing out — above $60,000, and “trading bots playing ping-pong in the range in between.”
+
+Since the drawdown, Lifchitz has identified a temporary support for BTC in the middle of the range, around $54,000 to $55,000, but still considers it “too early to say if the dip is over.”
+
+Lifchitz said:
+
+“Without any strong catalyst, breaking above $60k looks difficult at this time, and a break below $50k may drive Bitcoin down to $30k. Traditional markets showing signs of exhaustion may also put a dent on the crypto markets recovery.”
+
+Ethereum price hits a new high
+
+Bitcoin’s current downtrend has opened the door for Ether (ETH) to step into the limelight, with the top-ranked altcoin by market capitalization hitting a new all-time high at $2,644 on the back of $47.3 billion in trading volume.
+
+Ether’s rally was accompanied by a 25% rally in the price of Maker's MKR, one of the oldest decentralized finance projects on the Ethereum network, which reached a new all-time high of $4,980.
+
+Solana's SOL has also been a strong performer as of late, surging 26% overnight to reach a new record high at $39.72.
+
+The overall cryptocurrency market cap now stands at $2.02 trillion, and Bitcoin’s dominance rate is 49.6%.

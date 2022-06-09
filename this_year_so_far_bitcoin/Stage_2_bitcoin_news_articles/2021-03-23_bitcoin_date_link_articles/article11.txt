@@ -1,0 +1,87 @@
+We can apply Maslow’s hierarchy of needs to Bitcoin to find out what needs it must obtain and maintain to succeed.
+
+In order for Bitcoin to achieve hyperbitcoinization, it has to fulfill certain network and monetary needs. Without obtaining and, more importantly, maintaining these needs, Bitcoin can not succeed. If Bitcoin can obtain and maintain these needs, then there is nothing that can stop it.
+
+This article is a play off of Maslow’s hierarchy of needs; the idea that people have to go through certain levels of life to eventually reach happiness and live to their full potential. This theory can be applied to Bitcoin.
+
+Image via @Nikcantmine
+
+This is the game plan; this is how Bitcoin achieves world reserve currency status.
+
+Network Needs:
+
+Base Layer: Fair Launch
+
+No currency has a shot at mass adoption or a chance at being the global reserve currency if it’s been cheated from the start.
+
+One of the many things that separates bitcoin from the thousands of other cryptocurrencies was the fair launch on January 3rd, 2009, over two months after Satoshi Nakamoto released the Bitcoin white paper on October 31, 2008. Not to mention the reason why Bitcoin was created in the first place, which was a direct result of the 2007 to 2008 financial crash, fiat currency and central banking. It was made as a solution to a problem. All other coins came after seeing bitcoin’s success, tried to copy it, and failed.
+
+Satoshi didn’t create Bitcoin in the hopes of scamming others, he did it to provide anyone an inclusive monetary system that was fair. Not only was there no premine, where a founder allocates a large portion of the coins to themselves, Satoshi also made sure to give potential participants advanced warning before launch. It appears that it was important to Satoshi for Bitcoin to be perceived as not having been created for any one individual's gain at the expense of others.
+
+Satoshi programmed the first block to be locked in, resulting in the first block reward of 50 BTC being unattainable. Neither Satoshi, nor anyone else could grab those bitcoin, and now there are 50 fewer BTC out of the approximately 21 million total supply available. If the creator would have just taken the BTC, it would not have been fair. After that first block was in place, miners could then start hashing away and building the chain.
+
+Minting new currency onto the blockchain must be fair, with no one entity having an advantage over others. This system needs to be inclusive, where anyone has the ability to run the numbers and verify for themselves that everything is correct, honest participants are rewarded and bad actors face consequences. Whatever system is used to create more currency must absolutely come at a cost to protect against any monopolies arising from gaming the system.
+
+Bitcoin solved this with distributed proof of work (PoW).
+
+Second Layer: Distributed Network
+
+Since Bitcoin was fairly launched with no malicious intent, we can be confident in building and expanding the network. If Bitcoin really is going to succeed, then it cannot be centralized like gold, fiat and altcoins.
+
+Bitcoin is robust because of two reasons. One, the creator vanished long ago, never to be seen again. There is no central authority to arrest or have them use their influence to destroy the project. Two, the global distribution of the developers, economic nodes and miners. These three sets of stakeholders provide a check and balance against each other so no single party has control.
+
+Der Gigi makes a fantastic analogy when he says Bitcoin is like ants. You can step on ants and kill their hill in one area, but you’ll never ever be able to kill all of the ants in the world, because of their massive numbers and distribution.
+
+Bitcoin developers are the ones who work day and night to advance Bitcoin forward. These developers must build things that are in demand by the users, or else no one will use their software. It is not in developers’ best interests to attack the network because everything is out in the open; there is no way to sneakily attack Bitcoin because of how long the process takes. If a developer does try to attack Bitcoin, his or her reputation flies out the window and no one will use their software anymore. Their proposals to change the network are intensively reviewed by other devs during the process of submitting Bitcoin Improvement Proposals (BIPs). Anyone can become a Bitcoin developer, and there are developers spread all around the world.
+
+Neither the miners or nodes have complete control of the network. The miners slowly write transactions into the ledger and mint new currency. Nodes verify the transactions on the blockchain quickly and efficiently, but cannot issue new currency. Miners have to follow the rules that the nodes set forth which may only change if individual node operators choose to run new software.
+
+Network participants must prioritize keeping Bitcoin decentralized. The more distributed it is, the more censorship resistant it is. The more censorship resistant it is, the better it can defend itself from nation states and others from controlling the network. Good news for Bitcoin, the network is growing strong. In January of this year, the amount of full nodes hit a new all time high of 11,558 according to bitnodes.io.
+
+To whoever’s thinking “Bitcoin will fail when governments 51 percent attack the blockchain,” I could write about this, but for the sake of both my time and yours, here’s a quick two-minute video explaining it:
+
+Monetary Needs:
+
+Third Layer: Store of Value
+
+Bitcoin’s distributed network needed to be in place before everyone could start safely and securely storing their wealth. At the time of writing, this is the point of the pyramid I believe we are in.
+
+Bitcoin is currently thriving in this aspect after recently reaching a total market cap of over $1 trillion, with trillions more poised to enter the market. Today, the world has a store of value crisis. There is about $80 trillion in cash around the world just sitting there, waiting to be put into an actual store of value. There is about $100 trillion globally in stocks that are owned by people who would rather save than take on the risk of investing. There is over $281 trillion in real estate but this has many flaws, such as the fact that it’s easy to tax, not portable and not liquid. Gold is an approximately $11 trillion dollar market cap, and all it is is a shiny rock. About $253 trillion exists in global debt. Bitcoin is only going to continue eating most, if not all, of this.
+
+Twelve-plus years ago, Bitcoin introduced itself as a new competitor on the market. Ever since then, Bitcoin has been going through price discovery to figure out where it fits on the monetary food chain. Bitcoin has proven to be a fantastic store of value not just because it embraces all of the qualities that good money typically has (durability, portability, divisibility, uniformity, scarcity, acceptability and verifiability) but because it is the most liquid money, and has amassed powerful network effects. That is what makes it dominant.
+
+Retail investors have used bitcoin as a savings technology for a long time, but in the past year institutions have joined us as well. The flow of institutions truly started last summer when MicroStrategy bought 0.1 percent of the total supply of bitcoin. Since then, we’ve seen MassMutual buy $100 million worth of bitcoin this past december, Marathon Patent Group buy $150 million worth of bitcoin in January, and even Tesla buy $1.5 billion worth of bitcoin in February. Institutions are gobbling up more and more bitcoin as they understand the benefits of adopting a Bitcoin standard.
+
+Every single person in the world needs to be able to store their value in something that won’t leak their monetary energy over time. People in developed countries are forced to invest their fiat earnings into investments in hopes to keep/increase their purchasing power. People in developing countries don’t have that privilege, and are forced to store their wealth in USD to escape their faster-collapsing home national currency.
+
+Bitcoin makes saving possible again. People can actually save their wealth and let it grow, without risk of devaluation over time via inflation. The 21 million hard cap with growing user adoption cements this. Everyone can now build and correctly allocate wealth to improve their quality of life.
+
+Fourth Layer: Medium of Exchange
+
+After Bitcoin has sucked in trillions upon trillions of dollars, the next level for Bitcoin to conquer would be to become convenient enough to use and pay for goods and services in your everyday life.
+
+It is important to realize that the Bitcoin blockchain should be considered a settlement layer rather than a payment layer itself. In comparison to how slow the legacy financial system is at processing payments, Bitcoin’s main layer is a significant improvement. Transactions involving fiat are unacceptably slow. ACH transfers take about two to three days. Checks, debit cards and credit cards take up to 30 days to clear. Remember, when transacting in fiat, final settlement cannot even be performed since it is always exposed to counterparty risk of the issuer. So, sending large amounts of BTC for it to reach final settlement in 30 minutes or less is a huge upgrade in comparison. But we can scale higher on Bitcoin through the use of additional payment layers.
+
+The good thing about Bitcoin is, since it’s an open-source protocol, we can build solutions on top of it. A similar comparison can be made to the base layer of the legacy financial system, which couldn’t scale globally, so they added layers on top such as Square, Visa and Mastercard to help facilitate transactions. This made the network scalable for quick and cheap transactions. A similar idea has been brought to Bitcoin with the Lightning Network.
+
+“The point is, seven transactions a second is fine. Because what it’s gonna be is, is it’s going to be Square cash, moving $182 million worth of bitcoin once per day. And then they’re going to do that settlement and they’re going to provide 37 million people with a Square cash account, and they’re gonna do 187 million transactions a day on their network. They’re like a second-level solution. They’re gonna do 180 million transactions a day for 37 million people and settle it with one transaction against the blockchain, and it’s gonna scale just fine. Bitcoin wins, Square wins, the customers win.” - Michael Saylor
+
+A great analogy for this is when Saylor was discussing George Lucas’s superhero stories. A superhero can have many exciting powers such as shooting lasers out of their eyes, flying, teleporting, super speed and more. But they all have one downfall; they’re easy to kill.
+
+Now imagine a superhero that has no fancy powers like lasers or teleporting, but is unkillable. Slow and boring, nothing flashy. The unkillable superhero could pick up a gun and kill all of the other fancy superheroes while fending off attacks with ease. The unkillable superhero that can pick up new weapons resembles Bitcoin, and the flashy superhero that dies resembles altcoins.
+
+In this analogy, what is Bitcoin’s gun? The gun is the layered solutions being built on top of Bitcoin, such as the Lightning Network. This results in a decentralized and unbreakable foundation on top of which scaling solutions can be built, making Bitcoin the most unstoppable monetary force the world has ever seen.
+
+Scaling solutions such as Lightning will be the tool that allows Bitcoin to surpass this level of becoming a means of exchange. One could argue that transactions on the Lightning Network are final settlement, though others would argue it technically is not until you’ve confirmed it on the main chain. But Bitcoiners who use and build on Lightning increasingly talk about it as a final settlement.
+
+Top Layer: Unit Of Account — Hyperbitcoinization
+
+Once more and more individuals use BTC to save their wealth, merchants accept bitcoin, and institutions adopt it as their treasury reserve asset, we’re in the end game.
+
+This is when everything in the world has been repriced in bitcoin in replacement of the U.S. dollar. This is a long-term process completed via price discovery, which has started since day one of Bitcoin’s existence, as mentioned earlier. In complete hyperbitcoinization, I highly doubt we’ll be referring to everyday items in their BTC terms (example: 0.00345727 BTC). Instead, we’ll just use satoshis to price things.
+
+As the bitcoin black hole continues to suck in more wealth and more merchants start to accept bitcoin as payments for their goods and services, hyperbitcoinization is just around the corner.
+
+Humans tend to converge on monetary media to save, invest and perform economic calculation. There only needs to be one, as using multiple currencies complicates economic calculation and delays the development toward a unified monetary system. Bitcoin achieves the unit of account (UoA) status for everyone globally while simultaneously becoming the most desirable asset to own. Which only encourages more people to continue using it as their store of value (Sov) and medium of exchange (MoE).
+
+All five levels of this pyramid create a positive feedback loop that strengthens Bitcoin in every aspect.

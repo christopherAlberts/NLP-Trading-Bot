@@ -1,0 +1,11 @@
+BNY Mellon, the nation's oldest banking institution, founded in 1784, released a March 2021 report today covering various valuations frameworks for bitcoin. This came on the heels of the bank’s early February announcement that it plans to create a digital assets unit. The report, titled “Blending Art & Science: Bitcoin Valuations'' compared the attributes of bitcoin to other currencies and monetary assets, offering new insight into how one of the country’s oldest legacy financial institutions views the cutting-edge of money.
+
+“How do we place value on an underlying unit of measure? In today’s environment, where the intrinsic value of fiat currencies is increasingly being questioned, it is important to consider the value of alternative currencies such as Bitcoin. We believe there is demand for Bitcoin/crypto currency. While we do not attempt to derive a price target or formalize a valuation mode, we instead explore different analogies and dissimilarities that can be applied to Bitcoin and potentially other areas of crypto.”
+
+The report cited popular models such as Plan B’s stock-to-flow cross asset model (S2FX), and also explored Bitcoin’s evolving narratives over time, a concept originally explored by Nic Carter in a piece titled “Visions Of Bitcoin.”
+
+“According to the S2FX model, Bitcoin is currently in cluster 4 (red dot cluster in chart below). The implication from this model is that as Bitcoin gains more mainstream momentum and is viewed more like gold, the scarcity value (as measured by S2F) and subsequent halving will ultimately drive prices to the gold dot cluster and implied total market value. However, while each cluster/phase evolution drives pricing progressively higher, the price range within a cluster is quite wide. For example, the May 2020 halving implied Bitcoin pricing in the $50,000 range versus the current $10,000 range.”
+
+“The creator of S2FX frameworks notes the financial milestones and phases passed by Bitcoin. Each phase is marked by an abrupt phase transition in how Bitcoin is viewed and utilized and also a cluster of higher prices. In the table below, we summarize each phase.”
+
+While the report did not give any definitive price targets or expectations for the future trajectory of bitcoin, it was yet another positive endorsement coming from Wall Street, from the nation’s longest-standing banking entity.

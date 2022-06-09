@@ -1,0 +1,49 @@
+As published in The Sunday Times, 24 January 2021.
+
+Article by Graeme Lennox.
+
+As the value of the world's most famous digital currency soars amid economic uncertainty, Graeme Lennox asks if now is a good time to invest in cryptocurrencies. Featuring head of our cryptocurrency and blockchain group, Andrew Tzialli.
+
+It has been called "digital gold" and has been most synonymous with drug dealing, ransomware and inept criminals, as well as innocent investors losing fortunes in lost hard drives. Whether bitcoin is the best get-rich-quick scheme in town or the next financial bubble waiting to burst, is usually just a matter of opinion - but either way, investors have been on one hell of a rollercoaster ride this past fortnight.
+
+Values of the world's most famous digital currency have risen by more than 700% during the pandemic, as economic uncertainty spreads. Bitcoin prices exploded at the end of 2020, doubling in less than a month before reaching a peak of $42,000 on January 8. Values have since fallen back amid fears the newly inaugurated US president Joe Biden will seek tighter regulation, but remain at about ?26,000 a coin.
+
+For every story of life-changing fortune, though, there is also a tale of heartbreak. In 2013, Welsh IT worker James Howells accidentally threw out a hard drive containing the keys to 7,500 bitcoins. At the time, they were worth around $5m. Now, they would be worth more than $250m.
+
+Meanwhile, San Francisco-based programmer Stefan Thomas received more than 7,000 bitcoins as payment for making a video on how cryptocurrency works. They cost between $2 and $6 at the time, but could now be worth up to $220m. Having realised he was sitting on a fortune, Thomas has entered the wrong password on his hard drive eight times and has just two chances left before it encrypts itself and he loses everything.
+
+Cryptocurrency data firm Chainalysis estimates about 20% of the 18.5 million bitcoins in circulation are either lost or stranded in inaccessible wallets. Meanwhile, Wallet Recovery Services, a firm specialising in finding lost digital keys, says inquiries from bitcoin owners have tripled in the past month.
+
+Lory Kehoe, adjunct assistant professor at Trinity College Dublin and founder of Blockchain Ireland, has been approached by several desperate Irish investors in the past week who have lost digital wallets containing bitcoin fortunes. "We're not talking ?240m, but one guy has lost ?500,000 moving bitcoin between wallets," he says.
+
+"He called me asking for help saying his wife was crying in the background. Often the problem is people are looking in the wrong place. The user interface is not as good as something like Revolut and it's easy to make things look like they have vanished when in fact they haven't."
+
+Kehoe, who previously set up Deloitte's Europe Middle East and Africa blockchain lab and headed up blockchain technology company ConsenSys, has first-hand knowledge of the perils of cryptocurrency.
+
+"In 2014 I ended up buying a few at a very affordable rate," he says. "It was nothing life changing, but I was in New York in 2016 and went to pay for lunch with a friend using my Bank of Ireland Mastercard. For some reason it didn't go through so I repaid her in bitcoin. That $50 lunch has cost me $35,000 now."
+
+Invented in 2008 by a person or group of people - no one knows to this day - using the pseudonym Satoshi Nakamoto, bitcoin was an attempt to create a decentralised digital currency, but was viewed by some as a way of moving illicit money without being traced.
+
+With bitcoin's value slowly nudging towards ?1 trillion, cryptocurrency is now considered a valid investment tool, with hedge funds and banks steadily getting on board in recent weeks.
+
+There are more than 3,000 cryptocurrencies in total and amateur investors often fall prey to fraudsters posing as cryptocurrency exchanges. Andrew Tzialli, a partner in venture capital and corporate technology for Dublin-based legal firm Philip Lee, regularly receives inquiries from private investors who have been scammed. "Often, they have bitcoin with an investment group they found online that is no longer responding to calls," he says. "We dig into them and what they thought was a crypto firm based in Ireland is actually based in Cayman, Panama or Russia."
+
+He believes cryptocurrency is here to stay but needs proper regulation if it is to be taken seriously. "I have been working in the sector since 2013 and have tremendous faith in it, but I'd still rather bet my mortgage on gold," Tzialli says.
+
+"I know a lot of people who bought bitcoin in 2013 when it was ?300. It crashed soon after and they sold up, so now most of them are crying into their empty wallets.
+
+Bitcoin was an attempt to create a decentralised digital currency
+
+"Interest levels are high right now because the value has gone through the roof. Regulation is in its infancy but people see the value go up and don't think twice about the risk. The reality is even the legitimate firms have provisions in their terms and conditions saying your money is not secure."
+
+Joshua Goodbody, regional director at Binance says the firm has seen a record surge of activity during the pandemic, as investors hedge against turbulence in traditional markets. "They have watched governments printing record amounts of money and are conscious that inflationary pressures are growing," he says. "We have seen with volumes hitting a record daily high of over $80bn in the first few days of the year. Alongside this we have seen record numbers of new users."
+
+With some analysts predicting bitcoin value to exceed $100,000 by the end of the year, Kehoe understands the clamour to jump on the bandwagon. "Fear of missing out is a big factor," he says. "In October, when Paypal got involved in bitcoin, I told people to watch this space. It was around the $11,000 mark at that stage and then the billionaires and hedge fund guys started investing parts of their portfolios in it.
+
+"We're seeing global banks providing crypto services to their clients. I think bitcoin could be worth anywhere between $50,000 and $100,000 by the end of 2021."
+
+With financial firms deserting London in droves following Brexit, Kehoe says we are ideally placed to take advantage. "It's a huge chance for Ireland Inc to become a European cryptocurrency hub," he says. "We already have reputable exchanges like Coinbase, Revolut and Gemini based here.
+
+"When one company of that nature comes, others follow."
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

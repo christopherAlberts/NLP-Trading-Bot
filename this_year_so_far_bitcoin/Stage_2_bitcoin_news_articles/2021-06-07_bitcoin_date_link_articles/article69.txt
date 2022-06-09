@@ -1,0 +1,37 @@
+The chief executive of the massive fuel pipeline hit by ransomware last month is expected to detail his company's response to the cyberattack and to explain his decision to authorise a multimillion-dollar payment when he testifies before Congress this week.
+
+Colonial Pipeline CEO Joseph Blount will face the Senate Homeland Security Committee on Tuesday, one day after the Justice Department revealed it had recovered the majority of the $4.4 million (€3.6 million) ransom payment the company made in hopes of getting its system back online. A second hearing is set for Wednesday before the House Homeland Security Committee.
+
+Blount's testimony marks his first appearance before Congress since the May 7 ransomware attack that led Georgia-based Colonial Pipeline, which supplies roughly half the fuel consumed on the East Coast, to temporarily halt operations. The attack has been attributed to a Russia-based gang of cybercriminals using the DarkSide ransomware variant, one of more than 100 variants the FBI is currently investigating.
+
+The company decided soon after the attack to pay a ransom of 75 bitcoin, then valued at roughly $4.4 million (€3.6 million). Though the FBI has historically discouraged ransomware payments for fear of encouraging cyberattacks, Colonial officials have said they saw the transaction as necessary to resume the vital fuel transport business as rapidly as possible.
+
+'Deter and defend'
+
+The operation to seize cryptocurrency paid to the Russia-based hacker group is the first of its kind to be undertaken by a specialised ransomware task force created by the Biden administration Justice Department. It reflects a rare victory in the fight against ransomware as U.S. officials scramble to confront a rapidly accelerating threat targeting critical industries around the world.
+
+“By going after the entire ecosystem that fuels ransomware and digital extortion attacks — including criminal proceeds in the form of digital currency — we will continue to use all of our resources to increase the cost and consequences of ransomware and other cyber-based attacks,” Deputy Attorney General Lisa Monaco said at a news conference announcing the operation.
+
+For financially motivated cyber criminals, especially those presumably located overseas, cutting off access to revenue is one of the most impactful consequences we can impose.
+
+In a statement Monday, Blount said he was grateful for the FBI's efforts and said holding hackers accountable and disrupting their activities "is the best way to deter and defend against future attacks of this nature.
+
+"The private sector also has an equally important role to play and we must continue to take cyber threats seriously and invest accordingly to harden our defenses," he added.
+
+Cryptocurrency is favoured by cybercriminals because it enables direct online payments regardless of geographical location, but in this case, the FBI was able to identify a virtual currency wallet used by the hackers and recovered the proceeds from there, Abbate said.
+
+The Justice Department did not provide details about how the FBI had obtained a “key” for the specific bitcoin address, but said law enforcement had been able to track multiple transfers of the cryptocurrency.
+
+"For financially motivated cyber criminals, especially those presumably located overseas, cutting off access to revenue is one of the most impactful consequences we can impose," Abbate said.
+
+A highly compartmentalised racket
+
+The Bitcoin amount seized — 63.7, currently valued at $2.3 million (€1.9 million) after the price of Bitcoin tumbled— amounted to 85 per cent of the total ransom paid, which is the exact amount that the cryptocurrency-tracking firm Elliptic says it believes was the take of the affiliate who carried out the attack. The ransomware software provider, DarkSide, would have gotten the other 15 per cent.
+
+"The extortionists will never see this money," said Stephanie Hinds, the acting U.S. attorney for the Northern District of California, where a judge earlier Monday authorized the seizure warrant.
+
+Ransomware attacks - in which hackers encrypt a victim organisation's data and demand a hefty sum for returning the information — have flourished across the globe. Last year was the costliest on record for such attacks. Hackers have targeted vital industries, as well as hospitals and police departments.
+
+Weeks after the Colonial Pipeline attack, a ransomware attack attributed to REvil, a Russian-speaking gang that has made some of the largest ransomware demands on record in recent months, disrupted production at Brazil’s JBS SA, the world's largest meat processing company.
+
+The ransomware business has evolved into a highly compartmentalised racket, with labour divided among the provider of the software that locks data, ransom negotiators, hackers who break into targeted networks, hackers skilled at moving undetected through those systems and exfiltrating sensitive data — and even call centers in India employed to threaten people whose data was stolen to pressure for extortion payments.

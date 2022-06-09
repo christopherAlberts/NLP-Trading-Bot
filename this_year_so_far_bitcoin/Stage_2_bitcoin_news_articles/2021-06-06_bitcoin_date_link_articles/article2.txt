@@ -1,0 +1,21 @@
+Bitcoin’s strongest narrative is “digital gold.” Investors buy it not out of an expectation that it will behave like gold behaves in the market today, but that it will some day take on the historic importance that gold has held across cultures and ages.
+
+My colleague George Kaloudis recently reminded me that there’s one important aspect in which bitcoin will never be like gold: In a vault or in the ground, gold will always be gold; bitcoin, however, is a technology, and a technology will be updated. This quality is now on display with the Bitcoin network’s progress toward an update called Taproot. (Keep an eye out for George’s forthcoming in-depth report on Taproot at coindesk.com/research.)
+
+Taproot is a bundle of several improvement proposals. Notable among them, it would add data efficiencies that could ease supply-side pressure in Bitcoin’s transaction-fee market. It also includes updates to multi-signature transactions, a Bitcoin feature that is significant for custodians and other organizations that take direct custody of bitcoin. In this column, I’ll focus on the latter.
+
+Multi-signature addresses are a governance tool for organizations that directly custody bitcoin. Taproot includes updates designed to make multi-sigs easier to use, and to improve their privacy: a multi-signature Taproot transaction cannot be distinguished from other Taproot transactions. This could be significant for organizations that require multi-signature transactions, but do not wish to advertise to the network that they are using them.
+
+Bitcoin’s pseudonymity has made it a target for criticism that the network can be used for criminal purposes. Pseudonymity also provides security for legitimate operators. On the internet, nobody knows you’re a dog; on Bitcoin, nobody knows you’re a financial institution. For organizations using the Bitcoin network, privacy reduces the likelihood of cyberattack.
+
+This chart, adapted for readability from txstats.com, shows just how visible current multi-sig users are to the network. It also raises a question: With multi-sig growth at anemic levels, is there really demand to justify adding these features? (We discussed that question on CoinDesk TV’s “All About Bitcoin” show last week.)
+
+Multi-sig’s shortcomings may be a barrier to adoption, which Taproot could address, opening the door to increased use. That could improve custodian services and make direct-custody forms of investment more attractive. Or, this could be a vaunted new feature that nobody will use. (Remember Microsoft Sets?)
+
+Most technology investors understand the technology risk inherent in an update. (See Samsung Galaxy Note 7.) There’s also the adoption risk of developing a feature that nobody uses. Unlike Ethereum, Bitcoin developers prefer backwards-compatible updates. After Taproot is implemented, users will still be able to use pre-Taproot transactions. This would be self-defeating for Taproot’s multi-sig privacy features: pseudonymity only works in a crowd.
+
+Improving multi-sigs also could make it easier to develop applications on top of Bitcoin, an especially relevant issue in 2021 as decentralized finance, non-fungible tokens and stablecoins have driven the cryptocurrency bull market. At this writing, the year-to-date returns on ether are roughly 10 times those of bitcoin.
+
+At this point, it seems likely that Taproot will be enacted by the Bitcoin network, as more and more miners signal approval. Whether users take advantage of its features will be a telling test of bitcoin’s adaptability and, by extension, its viability as an updatable technology investment.
+
+On the other hand, a perceived inability to update or adapt may strengthen Bitcoin’s resemblance to gold – which, after all, does neither.

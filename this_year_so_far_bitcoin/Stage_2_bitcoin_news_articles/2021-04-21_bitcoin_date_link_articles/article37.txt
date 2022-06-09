@@ -1,0 +1,9 @@
+Source: Marqeta
+
+Shakepay, a Montreal-based financial technology platform that allows Canadians to buy and sell digital currency and pay their friends, announced today that it has partnered with Marqeta, the global modern card issuing platform, to power the launch of a new Visa prepaid card for Shakepay customers, issued by Marqeta’s sponsoring financial institution Peoples Trust Company.
+
+Shakepay was founded in 2015 and is a leading platform for buying and selling digital currencies in Canada. Shakepay reports facilitating more than $2 billion CAD in purchases and sales on its platform to date and serving more than 420,000 Canadians. According to Shakepay, it is one of the top 10 Canadian financial apps on Apple’s App Store and has seen 10x year-over-year growth. Shakepay’s multi-currency digital wallet allows its users to transact in Canadian dollars as well as Bitcoin and Ethereum and easily transfer balances and cash out. Its new prepaid card is a separate complementary product that will allow customers to spend Canadian dollars at physical and virtual merchants.
+
+"As we looked at the best way to develop a prepaid card to complement the Shakepay wallet, and build out an excellent user experience, it became clear that Marqeta was the only card issuer capable of meeting our needs," said Shakepay CEO Jean Amiouny. "The openness and flexibility of Marqeta's card issuing platform enabled us to bring a completely new card product to the Canadian market, while innovating at speed and scale."
+
+“Shakepay has a great DNA match with Marqeta. They bring a strong builder mindset that will be critical to delivering important innovations to the market,” said Salman Syed, SVP/GM North America at Marqeta. “This is a groundbreaking card product in the Canadian market, bridging the gap between digital currencies and the traditional point of sale, allowing cardholders to more easily monetize the value of their digital currency holdings.”

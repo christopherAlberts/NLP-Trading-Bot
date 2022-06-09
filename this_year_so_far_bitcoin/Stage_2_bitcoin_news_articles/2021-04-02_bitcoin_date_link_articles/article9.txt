@@ -1,0 +1,29 @@
+Bitcoin Mining Difficulty Sets New Records, BTC Miners Capture $1.5 Billion in Revenue Last Month
+
+On Friday, April 2, 2021, Bitcoin’s mining difficulty is the highest it has even been in its lifetime but bitcoin miners still captured record revenues last month raking in $1.5 billion in coinbase rewards and transaction fees. Today, the blockchain’s hashrate is around 160 exahash per second (EH/s) with 17 pools dedicating hashpower to the network.
+
+$1.5 Billion in Bitcoin Rewards and Fees, Difficulty Ramps Up to 23 Trillion With a 5% Increase on the Way
+
+The price of bitcoin has been consolidated just under the $60k region and at 10:30 (EST) on April 1st, BTC jumped over the $60k handle to $60,103 per unit. The price has been driving the hashrate higher as miners are dedicating a lot of resources toward finding bitcoin blocks.
+
+On March 27, 2021, the Bitcoin hashrate spiked to 195 EH/s coming awfully close to the 200 EH/s zone for the first time ever. The continuous rise in hashrate has also pushed up the crypto network’s mining difficulty which is currently at 23.14 trillion.
+
+Mining difficulty is essentially how hard it is to mine a BTC block and obtain the coinbase reward and transaction fees. The hashpower dedicated to the network can make the difficulty change and the higher the hashrate, the higher the difficulty, and vice versa.
+
+Currently, the Bitcoin hashrate is coasting along at 160 exahash per second. Every two weeks or every 2,016 blocks found, the difficulty changes and in 13 days it might increase over 5%. Of course, this mining difficulty change will depend on the amount of hashrate produced at that time.
+
+Just recently, the blockchain research company Arcane Research published a report that explained BTC miners captured more than $1.5 billion in fees and rewards in March. BTC miners find roughly 144 blocks per day and each block contains 6.25 BTC and all the fees associated with transactions.
+
+Despite Institutional ASIC Purchases from the US, Chinese Mining Pools Still Dominate Bitcoin Network
+
+Statistics show that the next BTC block fee is $11.75 per transaction and the current median fee is $8.27. This means there’s roughly 900 BTC generated per day which is an issuance rate of around 1.77% per annum.
+
+While there are 17 pools dedicating hashrate to the BTC chain, during the last six months major institutions like Marathon, Foundry, Blockcap, and Hut 8 have been making moves in the North American region. The company’s purchases have pushed demand to the brink and on top of that, there’s a global semiconductor shortage as well.
+
+The 17 known pools today show a majority of the top five pools mining BTC stemming from China. This includes the top mining pool F2pool, Poolin, Antpool, Btc.com, and Binance Pool. Although the pool battles with Poolin from time to time, F2pool has been the number one BTC miner for weeks on end.
+
+What do you think about the bitcoin mining statistics this week and the network’s mining difficulty spiking? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, charts.bitcoin.com/btc/press, coinwarz.com/mining/bitcoin/hashrate-chart,
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

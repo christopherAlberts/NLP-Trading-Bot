@@ -1,0 +1,17 @@
+frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+Will the Financial Action Task Force (FATF) start targeting software developers who don’t actually handle Bitcoin? How serious is financial crime on blockchain networks, and what’s being done about it? Find out the answers to these questions and more on this week’s episode of The Bitcoin Bridge, with Ian Lee of blockchain analytics firm Merkle Science.
+
+Lee, now VP of business development at Merkle Science, tells us the story of how he started in the blockchain analytics and forensics business. Originally a lawyer, he probably understood the legal implications of on-chain transactions better than most. Although he says he “didn’t have a lot of fans in the early days,” the industry has matured and most participants now realize that oversight is inevitable. It’s up to those who understand those implications to work with regulators, and hopefully produce better outcomes.
+
+Merkle Science has a range of products and services it offers to financial institutions, law enforcement, and researchers. The company has also developed some interesting modeling software to help identify suspicious transactions based on user behavior, and consults with government departments in its native Singapore to educate them on issues affecting blockchain (and DeFi models). There’s a lot of depth to this work, and we’ll definitely be returning at a later date to discuss some of them in more detail.
+
+The issue near the top of everyone’s mind at the moment, however, is FATF. The international group issues regular guidelines and updates, many of which (but notably, not all) become implemented as laws in various key jurisdictions.
+
+Are Asian jurisdictions keeping up with the pace? On the one hand, they may seem stricter than their counterparts in the West, but on the other they remain open-minded and prepared to avoid too-tight regulations that might stifle innovation. Lee discusses how governments in the region have reacted to FATF’s latest set of guidelines (released just last week) and gives some surprising insights about what parts of it they’re seriously considering.
+
+Of particular interest is whether FATF will recommend regulation for software developers—particularly the part-time or small-startup kind that develops only non-custodial software. Regulating these developers, or forcing them to comply with the same regulation as financial institutions, could deter them from such a career. Lee shares his thoughts on that issue, and predicts what might happen.
+
+Blockchain analytics is a fascinating and growing field, so be sure to watch the whole interview to learn what it’s all about, and what those in power are thinking. The Bitcoin Bridge comes out every Monday on Streamanity; remember to subscribe to the CoinGeek channel so you don’t miss an episode.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

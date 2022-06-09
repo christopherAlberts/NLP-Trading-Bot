@@ -1,0 +1,49 @@
+Watch This Episode On YouTube
+
+Listen To This Episode:
+
+For this episode of Bitcoin Magazine’s “Meet The Taco Plebs,” I was joined by Thomas Jestopher (@Jestopher_BTC), a Lightning Network enthusiast and co-host of “Bitcoin Kindergarten.”
+
+We kicked off this interview with Jestopher sharing his rabbit hole story, discussing his first attempt to buy bitcoin from Mt. Gox in 2015. In order to buy bitcoin from there, you had to wire money to the exchange in Japan, and his bank actually blocked his transaction, forcing him to look for other avenues to acquire BTC.
+
+Using faucets, Jestopher was able to stack some sats in trade for his time watching ads on websites. He did this for a while, but didn’t make his first actual purchase until the bull run in 2017. At the time, he worked in a call center where he saw just how corrupt and unfair banks are to their customers. This, in addition to the price catching his attention, caused him to fall deep down the rabbit hole.
+
+Jestopher shared his thoughts on how Bitcoin inspires innovation for builders and entrepreneurs to flourish. Since the Bitcoin protocol does not change, and upgrades only happen so often, people now have a solid base layer that they know will always be there, and they know nothing will change on them in a negative way. This gives builders comfort knowing that they’re building on a solid foundation.
+
+Jestopher was one of the many people who got inspired to build on Bitcoin, and saw massive potential in the Lightning Network. We discussed the entrepreneurial opportunities that pop up thanks to Lightning and how people can become more independent from taking tips on the second layer solution. Then he shared his thoughts on using the Lightning Network on top of Bitcoin as a medium of exchange.
+
+Below are some of Jestopher’s most interesting thoughts shared during the interview. And be sure to check out the full episode for more.
+
+How Did You Find Bitcoin And Fall Down The Rabbit Hole?
+
+I first attempted to buy bitcoin from Mt. Gox in early 2015 and my bank rejected the transaction. I resolved to visit a series of faucets and watched countless hours of ads to walk away with about a dollar’s worth of bitcoin. Naturally, I deposited into one of the many gambling websites and promptly lost about all of it.
+
+My next interaction with bitcoin happened in the 2017 run up when my Reddit feed was dominated by Bollywood dancing GIFs, which I almost filtered out, but instead I made possibly the best decision of my life and decided to actually buy some bitcoin, just a small fraction.
+
+I had previously worked in a call center that provided information on class action lawsuits. Most of the lawsuits that I was providing information on involved banks that were using practices that benefitted the corporation at the expense of their customers. For example, a lot of banks chose to reorganize their customers’ transactions in highest to lowest dollar order. In effect, that meant that whenever a customer ran out of funds, the customers would get charged more overdraft fees than if the bank never reorganized transactions. For most banks I encountered, an overdraft fee was $30, which is already a lot to charge someone that literally has no money. I remember thinking that the decision to reorder transactions to generate more overdraft fees from customers who were broke was a shameful way for a bank to increase revenue. Which customer would ever vote for that type of policy?
+
+Once I had actually bought bitcoin, I started listening to “The Internet Of Money,” Andreas Antonopoulos’s book, and the combination of concepts behind bitcoin resonated with me so deeply, between the disruptive power of technology and the humanitarian benefits derived from a completely opt-in protocol, immune to the policy decisions of banks and corporations. This technology is both massively disruptive and gives me more hope for humanity than anything else in the world.
+
+How Has Bitcoin Changed Your Life?
+
+Bitcoin has made me far more frugal, less political, more privacy conscious, more technology-focused and way more obnoxious if you somehow still don’t own bitcoin.
+
+
+
+One phrase that came to mind early in my bitcoin journey was “Never before has greed tempted me to live a very simple life.” As soon as I said it in a bitcoin chat, another bitcoiner responded with a bright orange image with my freshly-quoted words strewn across it. It was true then and it’s still true today where I feel inclined to rid myself of possessions because all these consumer things are just depreciating assets in bitcoin terms. I feel like mainstream environmentalists have been missing how positively the earth can benefit from converting consumers into long-term savers.
+
+What Is The Most Amazing Thing About Bitcoin To You?
+
+The most amazing thing about Bitcoin is that it inspires innovation. While bitcoin seems intimidating at first, the fact that it is so resistant to change makes it a solid platform to build on. Builders don’t have to keep up on all the latest developments or worry about the next president removing your favorite feature. Bitcoin will stay true to its roots, which makes it easier to launch a successful business and to create specialized tools.
+
+It seems impossible to find a place to specialize outside of bitcoin because the world is in a state of flux between disasters, both natural and political, that make it difficult to find your niche. Bitcoin makes it easy to specialize and I’ve found my place in the Lightning routing community where we’re trying out the latest tools and gathering feedback to make really smooth user experiences on Lightning.
+
+What Are You Most Looking Forward To In The Bitcoin Space?
+
+I’m most looking forward to watching the Taproot activation play out, which will give me some good clues about whether or not other protocol changes that specifically benefit Lightning will get implemented.
+
+I’m also looking forward to data markets emerging where privacy on Lightning will be less of a guarantee and more of a market. Routing nodes have information on individual payments, which is valuable data for surveillance companies as well as other routing nodes searching for where to provide liquidity. If someone wants to track an individual payment, they’ll have to pay to get that data and the market will find an equilibrium between individual privacy and network efficiency.
+
+What Is Your Price Prediction For The End Of 2021 And The End Of 2030?
+
+I’m a terrible trader, which is the primary reason I only HODL bitcoin, but I’d guess that the end of 2021 will be in a mania phase and we’ll see bitcoin over $400,000. The end of 2030 should see bitcoin approaching the $10 million level as the fiat experiment comes to an end.

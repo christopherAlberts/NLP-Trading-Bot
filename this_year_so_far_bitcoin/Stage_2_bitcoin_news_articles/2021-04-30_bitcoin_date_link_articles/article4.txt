@@ -1,0 +1,29 @@
+The first half of 2021 has so far offered some significant opportunities for bitcoin bears to be wrong. The most salient of them came this past Sunday, when the bitcoin price suddenly dropped to $47,073.37, down from a freshly set all-time high (just 11 days old), of $64,888.99.
+
+That drop of 27.5% in less than two weeks put bitcoin into bear market territory, at least as far as the normal definition of a bear market is concerned. In equities, the term “bear market” usually applies when prices drop by 20% or more. But bitcoin’s price recovered quickly from the dip, and it seems clear that crypto’s market regime is unchanged, at least for now. Bitcoin seems to demand a different standard to define bull and bear markets: The 20% dips come too frequently, and are often just part of a broader run-up.
+
+Last weekend’s dip wasn’t the first time in 2021 that a price drop of 20% or more prompted headlines proclaiming a bear market. “Bitcoin is now in a bear market, get used to it,” one headline proclaimed on Jan. 25. On that day, bitcoin hit a daily low of $30,480.27, per the CoinDesk Bitcoin Price Index (XBX). In the next two days, it would plumb weekly lows just below $30,000 before rallying to a new all-time high of $58,353.78 three weeks later.
+
+Source: CoinDesk Indexes
+
+The chart above illustrates how wrong that was, with call-outs showing the price rally following Jan. 25. Similarly, it may take some time to tell what the April 25 dip means. It’s possible the $64,889 all-time high, set on April 13, was the top ahead of a bear market. Or, bitcoin could continue to repeat its 2021 pattern of setting a new all-time high, then falling back below recent averages only to set a fresh all-time high weeks later.
+
+To be defined as a bull- or bear-market regime, a market condition has to last more than a few weeks. With that in mind, we developed the following criteria to define bull and bear markets in bitcoin’s history. Understanding bitcoin’s cycles can be helpful for understanding the crypto market because bitcoin is the bellwether for all crypto assets. Bitcoin moves from bull to bear market, or vice versa, when:
+
+There is a price change greater than 20%
+
+The price does not return within 90 days to the high or low that preceded the change
+
+Source: CoinDesk Indexes
+
+As you can see from the chart above, based on our definition the duration of bull and bear cycles contracted between 2018 and 2020. However, the current bull market, which began after the COVID-19 price crash in March 2020, has lasted 407 days and counting, as of Tuesday when this chart was created.
+
+In the absence of a consensus on fundamentals or macro correlations for crypto, cyclical analyses like this one can be helpful to investors seeking to interpret market dynamics. (For weekly insights like this one, subscribe to CoinDesk Indexes’ Monday newsletter, The Hard Fork.)
+
+Read more: Be on the Lookout for These 4 Bitcoin Bear Signals
+
+Besides price, realized volatility is another metric worth considering from a cyclical viewpoint. In the chart below, we divided bitcoin’s 30-day volatility of daily log returns into three categories: low volatility (< 0.5), middle (≥ 0.5 and < 1.0) and high (≥ 1.0). A cycle is defined as a period during which the 30-day moving average of the 30-day volatility does not move from one category to another.
+
+Chart showing the length of the average bitcoin volatility cycle by year. Source: CoinDesk Indexes
+
+The chart above shows the average length of a volatility cycle by year. (The year in which a cycle falls is determined by its end date.) After mostly getting longer from 2014 to 2018, these cycles became a lot shorter in 2019 and have stayed relatively short. The current volatility cycle was at 45 days, when this chart was made on Tuesday. It hasn’t changed since then.

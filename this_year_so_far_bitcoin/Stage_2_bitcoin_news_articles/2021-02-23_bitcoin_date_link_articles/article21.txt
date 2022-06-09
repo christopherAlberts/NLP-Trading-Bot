@@ -1,0 +1,25 @@
+What happened
+
+Popular cryptocurrency Bitcoin (CRYPTO:BTC) suddenly finds itself in bear market territory. As of this writing, the price of Bitcoin is around $46,200 -- down about 21% from all-time highs reached just days ago. Many consider a 20% drop worthy of being labeled as a bear market.
+
+Because of Bitcoin's drop, stocks for Bitcoin mining companies are in a free fall today. Shares of Marathon Patent Group (NASDAQ:MARA), Riot Blockchain (NASDAQ:RIOT), Bit Digital (NASDAQ:BTBT), CleanSpark (NASDAQ:CLSK), and Canaan (NASDAQ:CAN) were all down at least 25% as of 10 a.m. EST.
+
+So what
+
+It's impossible to definitively say what's causing the Bitcoin bear market. However, a couple prominent figures have given investors some concerns in recent days, including Janet Yellen, the new U.S. treasury secretary. At the New York Times DealBook Conference, Yellen reportedly said that Bitcoin was an "inefficient way of conducting transactions."
+
+Of course, Yellen is right. Transactions can be processed far faster by traditional payment networks than with Bitcoin's blockchain. Even other cryptocurrencies, such as Dash, can perform faster than Bitcoin. Furthermore, Bitcoin is energy intensive. According to Statista, more electricity is used on one Bitcoin transaction than 100,000 Visa transactions. So, it's fair to say Bitcoin is inefficient for transactions and this likely isn't catching any Bitcoin bull off guard.
+
+What's more concerning is Yellen's opinion of why someone is transacting with Bitcoin in the first place. Yellen said, "To the extent it is used I fear it's often for illicit finance." Yellen's voice is among the most powerful when it comes to the power to influence future government regulation. These comments could be stoking regulatory fears among Bitcoin investors, sending the price down for now.
+
+Then there's Tesla CEO Elon Musk. Musk likely isn't overly influential in government regulations for cryptocurrencies. But he does command a large audience among some of Bitcoin's most ardent supporters. Tesla made headlines in recent weeks when it used $1.5 billion to purchase Bitcoin tokens. However, Musk is sending mixed messages by using his social media platform to say "BTC & ETH do seem high lol." This was in reference to the prices of Bitcoin and Ether, the native token of the Ethereum blockchain.
+
+Is Bitcoin about to be regulated? Is the price of Bitcoin too high? These factors are likely weighing on investors' minds and sending the price lower today. And as Bitcoin enters a bear market, it's dragging down stocks like Marathon, Riot Blockchain, Bit Digital, CleanSpark, and Canaan.
+
+Now what
+
+When investing in stocks, we're looking at the underlying businesses. And Bitcoin mining is a tough underlying business to invest in for me. Companies directly mining Bitcoin like Marathon, Riot Blockchain, Bit Digital, and CleanSpark have things they can control. They can try to be efficient with power consumption, secure mining equipment for reasonable prices, and management can be smart allocators of capital. As investors we can track all of those things.
+
+But there's one thing Bitcoin miners don't control: the price of Bitcoin. In the end, the most well-run mining operation can be a bad investment if the price of Bitcoin tanks. The same could be said about Canaan. Demand for its mining equipment is high right now, given Bitcoin's recent price surge. But if the price reverses, the company could find itself with plenty of inventory and no buyers -- that's happened in the past.
+
+Because Bitcoin and other cryptocurrencies are so volatile, shareholders of mining stocks can expect a wild ride going forward. Over the past six months, it's been a great run. But I don't think anyone can reliably predict how things will fare over the next six months.

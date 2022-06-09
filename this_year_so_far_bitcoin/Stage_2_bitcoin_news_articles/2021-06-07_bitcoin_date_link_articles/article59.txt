@@ -1,0 +1,53 @@
+The response to author Nassim Nicholas Taleb’s announcement he would speak at the CoinGeek conference in Zurich this week has been entertaining, but predictable. Less predictable (at least to the social media crowd) is the impact BSV would have in the world of blockchain and Big Data once its true utility is realized. It could become the kind of “Black Swan” event Taleb has often described—not just for Bitcoin, but for the technology world in general.
+
+Some drew the connection between Taleb’s ideas and BSV’s potential impact, but what does it mean, and how could it become a reality?
+
+Wait a second… the dude who literally wrote the book on black swan events is speaking at BSV… BSV is literally the black swan coin.. why tf hasn't anyone mentioned this? pic.twitter.com/QhGLcLyeWR — Orctep (@Orctep) May 31, 2021
+
+What’s a Black Swan? Taleb popularized the metaphor in his 2007 book “The Black Swan: The Impact of the Highly Improbable“. It refers to a rare and surprising event that has a large impact, is near-impossible to predict using scientific methods, but is frequently rationalized in hindsight. The chances of these rare events happening are high, though their unpredictability leads people to remain unprepared for them.
+
+Black Swan events are usually disruptive and have long-term consequences. Examples can include spectacular kinetic events like wars or natural disasters, or slower-burning ones like the growth of the Internet.
+
+The solution is not to try to predict Black Swan events, Taleb wrote, but to strengthen systems to deal with the fact they are inevitable.
+
+Taleb’s book, as well as its predecessor “Fooled by Randomness” and follow-ups “Antifragile” and “Skin in the Game” have all been bestsellers and he is widely quoted in the financial industry. The metaphors described in them have often been applied to Bitcoin or aspects of the network.
+
+BSV as a black swan?
+
+We’ll have to wait a few more days before we hear Taleb’s more detailed views on BSV, and if he feels it has key points of differentiation from BTC and other blockchains to become a Black Swan event of its own.
+
+BSV would surely be a Black Swan event for the technology world if it gains widespread, mainstream adoption. Records of all kinds would be stored and secured on its blockchain, which has unbounded scaling potential and data processing capacity. Its “global ledger of truth” could usher in a new era of accountability and data integrity, in ways people are only just beginning to realize.
+
+As BSV’s opponents come to realize this, their attacks are sounding more knee-jerk and desperate. What could be more frustrating than deliberately ignoring, or launching unhinged insults at a technology user community for years, only to see it continue to grow and avoid the failures other blockchain networks produced?
+
+Two years after calling BSV “a pure dumpster fire”, even Ethereum creator Vitalik Buterin had to begrudgingly admit recently that BSV’s technology works, and that “it has so much space” on which to store data. He added that he still thinks “aspects of BSV feel like a money grab”, just because he doesn’t like Craig Wright:
+
+It already seems like BSV is becoming blockchain’s Black Swan—something few expected, and failed to prepare adequately for. It would be a positive Black Swan for technology, but a negative one for its opponents in the blockchain world. In hindsight, they will find ways to rationalize their failure.
+
+Buterin’s reasoning is sadly similar to many others in the blockchain industry, who launch relentless and coordinated attacks on BSV and anyone associated with it. Any public figure who speaks at a BSV event, whether they express support for the technology or not, becomes an instant target for social media trolls.
+
+Taleb was no exception to this, finding himself instantly branded “scammer” and “fraud” (the typical epithets lobbed at BSV supporters). To his credit, he caught the grenades and lobbed them right back in his usual forthright style.
+
+BTC trolls had no tactic to deal with a personality tough enough to handle their insults, other than to continue being shrill. They were used to past “successes,” having hounded entrepreneur Gary Vaynerchuk into canceling his appearance at CoinGeek Live last year.
+
+The following is a fairly typical example of the attacks BSV suffers from BTC proponents, and the complete lack of sound arguments for their belief:
+
+Taleb’s views on Bitcoin
+
+As a frequent critic of the traditional financial system and reputation as an iconoclast in the industry, Taleb was embraced by the early Bitcoin community. He later expressed views that he liked “the idea” of Bitcoin and even acquired some BTC, growing his industry fanbase further.
+
+However, like so many others, Taleb later came to see that BTC was not living up to its hype. In public statements on Twitter and in interviews, like this one from CNBC, he said he “was fooled by it” and even quoted similes considered anathema in Bitcoin circles, like “Tulips” and “Ponzi.”
+
+He said of BTC: “It has characteristics of an open Ponzi (that’s where everyone knows it’s a Ponzi). Basically there’s no connection between inflation and Bitcoin. None.”
+
+The best thing for an investor to do is to own things that produce yield in the future, he added, like a farm. BTC, despite occasional speculative runs, does not and cannot guarantee its “investors” will gain anything.
+
+“I thought Bitcoin (BTC) was going to be a currency, in the sense of something you transact with. It proved to be too volatile, and it turned into a speculative tool. It’s incompatible with the original aim to replace the dollar. You don’t replace a currency with something that’s so volatile.”
+
+What Taleb highlights here is the dichotomy that exists in BTC and other blockchain networks: is the native accounting unit a currency to be used as money, or an asset in which to invest, hopefully to sell it to someone else at a much higher price in the future? It can’t be both. BTC is crippled by its own “HODL” ethos, where actually using the coin to make purchases is mocked years later, considering how many dollars the user could have had instead.
+
+BSV is not immune from price speculation and many proponents still focus on its unit price and potential future value. But that is not BSV’s purpose, and those maintaining its protocol and building its ecosystem are focused on real utility over empty speculation and hype.
+
+Catch Nassim Nicholas Taleb’s keynote speech at the CoinGeek Conference in Zurich this Thursday, or online if you can’t be there in person. You can register for access to the whole event, virtually broadcasted live, here.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

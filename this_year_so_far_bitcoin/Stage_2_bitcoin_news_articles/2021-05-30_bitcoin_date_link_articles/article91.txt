@@ -1,0 +1,53 @@
+Compartir
+
+Tweet
+
+Compartir
+
+Compartir
+
+E-mail
+
+RenVM’s latest update includes support for the Fantom blockchain, bringing popular crypto assets BTC, BCH, DGB, DOGE, FIL, Zcash, and LUNA to Fantom’s ultra-fast and low-cost DeFi ecosystem.
+
+Fantom users enjoy significantly reduced transaction wait times and greatly reduced transaction fees. But unfortunately, users who have native assets on the other major blockchains don’t have that ability – until now. As Fantom’s RenVM integration comes into play, users on other networks can deposit their assets directly into Fantom using RenBridge and enjoy Fantom’s faster and lower-cost ecosystem of transactions. Users will also be able to directly deposit and withdraw their crypto assets on the Fantom blockchain without going through multiple exchanges. With the RenBridge integration, DeFi enthusiasts can now add and trade almost all of their assets across multiple blockchains to Fantom and perform the necessary operations without having to rely on a centralized exchange.
+
+The integration will support BTC, ZEC, BCH, and DOGE from the start. Others will be released shortly as the integration develops and expands. This will give users even more ways to use Fantom to build their cryptocurrency portfolio and make it work for them. Most importantly, they will see their portfolio become faster, more agile, and more adaptable to changing situations and market conditions.
+
+This also marks a new stage of development for Fantom as a whole. As new partnerships and integrations flourish, Fantom will become increasingly prominent in the world of cryptocurrencies. As Fantom cultivates more collaborations and gains compatibility with more asset types, its usefulness, agility, and overall value will only increase for portfolio holders.
+
+REN native assets that will be available on the Fantom blockchain from now on
+
+$ renBTC | Bitcoin (BTC) on Fantom
+
+$ renBCH | Bitcoin Cash (BCH) at Fantom
+
+$ renDGB | DigiByte (DGB) on Fantom
+
+$ renDOGE | Dogecoin (DOGE) on Fantom
+
+$ renFIL | Filecoin (FIL) on Fantom
+
+$ renLUNA | Terra (MOON) on Fantom
+
+$ renZEC | Zcash (ZEC) at Fantom
+
+Steps for users
+
+To take advantage of this new integration, users must add the Fantom network to their MetaMask using this quick tutorial. Then users will be able to match their different coins and start making moves.
+
+With this integration still in the early stages, new developments are coming. Expect to see Curve Finance, BadgerDAO, and Varen included soon.
+
+Looking forward
+
+
+
+As Fantom continues to expand its toolbox, it is about giving crypto holders the ability to make the best possible decisions for their portfolio. This is a whole new development on the horizon, and it’s just the beginning. Keep an eye out for new assets as they become compatible with the new integration.
+
+About RenVM
+
+RenVM is an open protocol that provides access to cross-blockchain liquidity for all decentralized applications. A secure network allows users to exchange, lend and move their cryptocurrencies as it suits their needs.
+
+For more information, visit the Ren Project website or refer to its specific RenVM overview.
+
+About Fantom The Fantom Foundation is committed to creating open source and decentralized distributed ledgers based on Dag. Every day, they create fast, secure, and scalable tools relevant to a wide range of industries that enable businesses, organizations, and individuals to develop secure, decentralized applications to solve real-world problems.

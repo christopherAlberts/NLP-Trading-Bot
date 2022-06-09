@@ -1,0 +1,67 @@
+Over-leveraged bitcoin investors in the derivatives market led to Monday’s sell-off while ether spot and futures markets are starting to get a lot more attention.
+
+Bitcoin (BTC) trading around $31,444 as of 21:00 UTC (4 p.m. ET). Slipping 5.7% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $28,154-$33,562 (CoinDesk 20)
+
+BTC slightly below its 10-hour and well below the 50-hour moving average on the hourly chart, a bearish-to-sideways signal for market technicians.
+
+Bitcoin trading on Bitstamp since Jan. 1. Source: TradingView
+
+The price of bitcoin fell Monday, met by a spate of selling pressure. Around 10:00 UTC (5 a.m. ET), spot exchanges like Coinbase saw a larger-than-normal number of traders hitting sell, with 6,000 BTC in volume on the exchange during that hour. Prices dropped as low as $28,154, according to CoinDesk 20 data.
+
+“A lot of folks are now taking a profit after rapid growth in price,” said Constatin Kogan, managing partner at crypto investment firm Wave Financial. Indeed, bitcoin crossed $34,000 and hit an all-time record high of $34,366 on Jan. 2, according to CoinDesk 20 data. Analysts are seeing many investors realize some gains after such a rapid rise.
+
+Historical bitcoin price the past week. Source: CoinDesk 20
+
+“Over the weekend, as bitcoin prices hit fresh all-time highs, markets touched new levels of resistance,” said Jason Lau, chief operating officer of San Francisco-based exchange OKCoin. “Profit-taking occurred around these levels, resulting in some sideways trading and causing many to be over-leveraged long on futures.”
+
+During the 10:00 UTC (5 a.m. ET) period of higher-than-normal selling Monday, derivatives exchange BitMEX saw $10 million in liquidations, the crypto comparable to a margin call on over-leveraged bullish bets.
+
+Bitcoin liquidations on derivatives venue BitMEX the past 24 hours. Source: Skew
+
+In total, $135 million in sell liquidations occurred on BitMEX over the past day, far outweighing the $34 million in buy liquidations from traders going short. This indicates some exhaustion of what has been a hyper-bullish market until Monday.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Nonetheless, Lau still expects buying pressure to keep bitcoin’s price up. ”These dips are being bought up pretty quickly, reinforcing the narrative that there are underlying bids by institutions keen to access bitcoin,” he told CoinDesk.
+
+Some profit-taking is likely going from bitcoin into ether. Since Jan. 3, ether has exploded and is now up 38.5% in 2021 while the price per 1 BTC has appreciated 7.5% thus far in 2021.
+
+Bitcoin (gold) versus ether (blue) price performance in 2021 so far. Source: TradingView
+
+“Traders rotated assets from BTC into alts to gain higher returns,” said Lau, who refers to ether as one of the “alts,” or alternative cryptocurrencies. “This is evident as [ether] gained over bitcoin in the last 24 hours.”
+
+Wave Financial’s Kogan sees this rotation from bitcoin to other crypto assets as an impermanent condition. “Another interesting factor now is the alt season, so the demand slowly switches to other crypto assets. But in my opinion, this is temporary.”
+
+Ether futures open interest crests $2.6 billion
+
+The second-largest cryptocurrency by market capitalization, ether (ETH), was up Monday trading around $1,034 and climbing 10.4% in 24 hours as of 21:00 UTC (4:00 p.m. ET).
+
+The ether futures market set a new record high Sunday, at $2.6 billion in open interest, or OI. Leading the way in OI is Binance with $632 million, followed by OKEx with $421 million and Huobi in third with $382 million.
+
+Open interest on various venues for ether futures the past six months. Source: Skew
+
+Futures interest in ether is rising because savvy investors want to start hedging lofty ether price levels, according John Willock, chief executive officer of crypto asset manager Tritum. “There is a strong natural inclination for some long-term ETH hodlers to finally sell at the numerically significant $1,000 threshold, where we have seen a lot of limit orders sitting on exchange books waiting to get filled,” Willock told CoinDesk.
+
+He also said institutional interest in ether is growing because CME is expected to launch ether futures next month and investors are currently looking for any way to access the ether futures market. “Institutions are able to put short pressure on these markets as many people will expect a near-term price correction after this monumental and fast run-up in blue-chip crypto instruments,” Willock added.
+
+Other markets
+
+Digital assets on the CoinDesk 20 are mostly green Monday. Notable winners as of 21:00 UTC (4:00 p.m. ET):
+
+Notable losers:
+
+Equities:
+
+Read More: Ukraine Government Picks Stellar to Help Build National Digital Currency
+
+Commodities:
+
+Oil was down 1.8%. Price per barrel of West Texas Intermediate crude: $47.30.
+
+Gold was in the green 2.4% and at $1,943 as of press time.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield climbed slightly Monday, at 0.920 and in the green 0.17%.

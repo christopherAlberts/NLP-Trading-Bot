@@ -1,0 +1,23 @@
+Bitcoin’s longer-term puts, or bearish bets, are drawing stronger demand than calls for the first time this year, a sign the recent sell-off has taken a toll on market confidence.
+
+According to data provider Skew, the six-month put-call skew, which measures the relative expensiveness of puts and calls, crossed above zero on May 17, indicating a bias for puts.
+
+The metric has remained positive ever since, and was hovering at 4% at press time. That’s the longest stretch above zero in at least a year.
+
+“Longer-term bitcoin options [skew] are seeing sustained prints above zero for the first time this year, indicating demand for puts,” Fredrick Collins, an options trader and researcher at Glassnode, tweeted Monday. “Before this, bitcoin was the only major asset besides gold and Japanese yen to consistently trade with a more expensive upside.”
+
+A call option gives the purchaser the right, but not the obligation, to buy the underlying asset at a predetermined price on or before a specific date. A put buyer gets the right to sell.
+
+Bitcoin's six-month put-call skew Source: Skew
+
+While bitcoin had several price pullbacks in the 10 months to April 2021, the six-month put-call skew remained entrenched in negative territory in a sign market participants were confident the declines would be short-lived and lead to more substantial rallies. They were right and the cryptocurrency rose to record highs after every pullback.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+This time, however, investors appear worried about an extended sell-off and see low probability of a V-shaped recovery, as evidenced by the persistent positive six-month put-call skew.
+
+Bitcoin tanked from $58,000 to nearly $30,000 in the eight days to May 19 on concerns regarding the negative environmental impact of bitcoin mining and China’s regulatory crackdown.
+
+Since then, the cryptocurrency has charted a narrowing price range between $30,000 and $40,000. Some technical analysts foresee a short-term price bounce. That’s not reflected in the options market. The one-week, one-month and three-month put-call skews are signaling a put bias with positive prints.
+
+Bitcoin: one-week, one- and three-month put-call skews Source: Skew

@@ -1,0 +1,33 @@
+A new paper argues that bitcoin can serve a valuable purpose in institutional portfolios, in spite of its volatility.
+
+As institutions are increasingly considering incorporating cryptocurrency into their portfolios, one question remains: How do you allocate money to bitcoin without taking on too much risk?
+
+Traditional risk modeling strategies — like factor, statistical, or macroeconomic models — cannot be applied to bitcoin in the same way that they are applied to other asset classes, according to new research from Joel Coverdale, a risk consultant with Hong Kong-based consulting and advisory firm Eight Isle and ex-BlackRock director.
+
+“Bitcoin, as an emergent asset class, poses a tricky dilemma in that it doesn't fit neatly into the existing modeling frameworks,” according to Coverdale’s paper. “At least, not at first glance.”
+
+Coverdale first modeled bitcoin’s returns on a weekly basis, finding that since 2011, bitcoin had largely volatile weekly returns that skewed slightly positive over time. Coverdale estimates that bitcoin’s volatility is about two or three times that of most other asset classes.
+
+“People see this kind of volatility and think immediately that it has no place in an institutional investment framework,” Coverdale wrote. “But as Nassim Taleb points out, ‘Volatile things are not necessarily risky, and the reverse is also true.’”
+
+Coverdale argued that bitcoin’s lack of correlation to other asset classes makes the level of volatility less concerning.
+
+Using estimations based on risk data and analytics firm Axioma’s multi-asset class risk engine, Coverdale looked at the correlation of bitcoin to other asset classes as of December 2020. His estimates show that although bitcoin is slightly positively correlated to most asset classes, that correlation never goes beyond 0.2, which is not the case for the other asset classes he measured.
+
+“Whilst the volatility is likely to increase the overall portfolio volatility when allocating capital to bitcoin, due to the correlation effect, the overall impact when accounting for correlation is much more muted,” Coverdale wrote.
+
+Philippe Bekhazi, chief executive officer of XBTO Group, a cryptocurrency finance firm, agreed.
+
+“What bitcoin provides is not a hedge to the other risk assets, but instead diversification amongst other risk assets,” Bekhazi said via email Thursday.
+
+With this all in mind, Coverdale constructed sample portfolios that substituted bitcoin in for a percentage of equities, a percentage of currency, or as a replacement for currency altogether.
+
+He found that replacing 5 percent of equities with bitcoin increased the portfolio’s overall risk by just 0.35 percent. When he replaced currency with bitcoin instead, the portfolio’s risk increased by around 1 percent.
+
+[II Deep Dive: Bitcoin Prices Are Likely Manipulated, Research Affiliates Warns]
+
+XBTO found the same when comparing major assets. “This holds true irrespective of whether we are looking at daily returns for the last year or looking at monthly returns over the last ten years,” Bekhazi said via email.
+
+“It’s an obvious point but one worth making clearly – at a 5 percent weight, even if bitcoin were to go to zero, the most it would impact our portfolio is 5 percent,” Coverdale wrote. “The upside is unconstrained, however.”
+
+Coverdale argued that because of this, from a risk-adjusted return perspective, it doesn’t matter how one allocates to bitcoin, but rather, that they do it.

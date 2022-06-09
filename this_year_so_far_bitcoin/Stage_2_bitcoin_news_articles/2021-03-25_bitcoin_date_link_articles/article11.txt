@@ -1,0 +1,37 @@
+A radical new framework for how to authenticate online identities just went live on the Bitcoin network.
+
+Microsoft’s Decentralized Identity team has launched the ION Decentralized Identifier (DID) network on the Bitcoin mainnet. This network is a layer 2 technology similar to Lightning except that instead of focusing on payments it uses Bitcoin’s blockchain to create digital IDs for authenticating identity online.
+
+An ID network like ION could be the key to unlocking a web where users no longer have to fumble with passwords, emails and cell phones for verification.
+
+“We are excited to share that [version 1] of ION is complete and has been launched on Bitcoin mainnet. We have deployed an ION node to our production infrastructure and are working together with other companies and organizations to do so as well. ION does not rely on centralized entities, trusted validators or special protocol tokens. ION answers to no one but you, the community,” Microsoft’s Daniel Bucnher writes in a blog post.
+
+What is Microsoft’s ION?
+
+As noted by Buchner, ION is open source, so anyone can download the code and run an ION node to use the service. It uses Sidetree, an open-source protocol for decentralized identifiers built by devs from Microsoft, ConsenSys, Mattr and Transmute.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Open to the public after being in closed beta since June 2020, ION uses the same logic as Bitcoin’s transaction layers to sign off on identity. A public key and its associated private key are used to verify that a user owns an ID.
+
+For example, to log into your email or social media in a world that uses ION, you would verify you own your account by “signing” your DID with your ION account. Thanks to the cryptographic links that ION creates to Bitcoin, the ION network would verify for the service provider that you own the ID associated with your account.
+
+Any personal data (name, age, etc) tied to that ID is stored off-chain, depending on the service. ION’s IDs are anchored to Bitcoin’s blockchain using the InterPlanetary File System (IPFS) protocol, and ION nodes can process up to 10,000 ID requests in a single transaction.
+
+Users can create and manage multiple IDs with different keys for different services. Some of these may be used recurrently to log into services that users access daily including email and social media, or could be used in one-off ways such as verifying concert or event tickets.
+
+Anyone interested in running ION can do so through a remote node or by downloading it directly on a native device.
+
+Microsoft has developed an application programming interface (API) for developers who would like to interact with the service without downloading a node or wallet. The company has also built an explorer for looking up DIDs created on the network.
+
+With version 1 launched, the team will focus on releasing a “light client” for bootstrapping nodes faster and streamlining ID resolution by authorizing an ID while its related transaction is still in Bitcoin’s mempool.
+
+Are decentralized IDs the future?
+
+Microsoft’s ION has attracted contributions from Bitcoin and crypto mainstays including Casa, ConsenSys, Gemini, BitPay and Protocol Labs, as well as a hand from the teams at Cloudflare, Spruce and others.
+
+ION has also worked with the Transmute and SecureKey teams who are building their own DID networks.
+
+Decentralized Identity is a good example of a non-monetary use case for public blockchains like Bitcoin, and it’s even on the radar of the World Economic Forum’s blockchain chief. The World Wide Web Consortium (W3C), a body for web standards founded in 1994), is currently evaluating DIDs as a candidate recommendation, meaning the forum is considering recognizing these identity frameworks as an international standard.
+
+Blockchain Commons head and crypto veteran Christopher Allen told CoinDesk in 2019 that Microsoft embracing Bitcoin’s properties for DIDs is “a step in the right direction.”

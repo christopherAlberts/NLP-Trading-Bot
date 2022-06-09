@@ -1,0 +1,57 @@
+Bitfinex, one of the largest centralized crypto exchanges, is now a shareholder in a decentralized exchange (DEX) that doesn’t conduct know-your-customer (KYC) checks.
+
+The British Virgin Islands-based exchange has purchased a stake in Hodl Hodl, a DEX that provides lending and private transaction services.
+
+“When it comes to genuine support of the bitcoin ecosystem, Bitfinex is about action rather than just words,” said Paolo Ardoino, CTO at Bitfinex, in a statement shared with CoinDesk. “Our investment in Hodl Hodl will help grow its amazing community and support the wider digital token ecosystem.”
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+A move might seem a bit unorthodox for Bitfinex, the sixth-largest spot exchange in the world and a sister firm of the major stablecoin issuer Tether. Centralized exchanges have been closely watching the fledgling decentralized finance (DeFi) industry since last year’s boom and some, like Binance and FTX, are dipping their toes in the sector by launching Binance DEX and Serum.
+
+Bitfinex, in fact, was one of the first to launch its own DEX, Ethfinex, back in 2017. The exchange later spun off of Bitfinex and was rebranded as DiversiFi.
+
+However, major exchanges haven’t invested in outside DeFi vehicles so far. And in addition to being the first, Bitfinex also made a somewhat unexpected choice of partner: Unlike most DEXs, Hodl Hodl runs on the Bitcoin blockchain. The firm has also recently launched a peer-to-peer lending platform, Lend, allowing users to borrow stablecoins, including tether, directly from other users for bitcoin collateral.
+
+And here is where Bitfinex comes into play.
+
+“Bitfinex will provide us more liquidity for lending,” Hodl Hodl CEO Max Keidun told CoinDesk, pointing out that Tether, which shares executives and corporate ownership with Bitfinex, is the issuer of USDT, the most popular stablecoin to date.
+
+“The demand for lending is growing, and sometimes we don’t have enough liquidity on the platform,” Keidun added. “So we need an institutional provider, and soon, some more institutions will join [Lend] as well.”
+
+He said that since the lending platform launched over seven months ago, more than 800 loans have been issued worth over $10 million in total.
+
+CEX-DEX integration?
+
+In addition to the extra liquidity, the Hodl Hodl and Bitfinex alliance will bring some more bonuses, Keidun said. Both exchanges are users of Liquid, a permissioned settlement layer for exchanges run by Blockstream. The two exchanges have been thinking of releasing some new features on Liquid together, Keidun said.
+
+Another opportunity is a potential integration of Hodl Hodl with Bitfinex’s API, which would help Hodl Hodl users to automatically convert bitcoin into stablecoins through Bitfinex, Keidun said.
+
+On Lend, lenders and borrowers open two out of three multisignature wallets in which borrowers lock their bitcoin collateral to receive stablecoins from lenders (stablecoin transactions happen outside of the platform).
+
+When the loan expires, or if the price fluctuates too much and the collateral doesn’t sufficiently cover the loan anymore, the bitcoin collateral gets liquidated: part of it equal to the amount of borrowed stablecoins goes to the lender, and the rest goes back to the borrower, as the loans are normally over-collateralized.
+
+So if a lender doesn’t want bitcoin instead of the stablecoin they provided earlier, they can immediately exit back into stablecoins via Bitfinex, with a proper integration, Keidun said.
+
+At the moment, the Hodl Hodl team, around 20 people, holds around 70% of the company, Keidun said, and the rest is in the hands of a handful of investors, including Lemniscap venture fund and bitcoin advocate Stefan Jespers.
+
+These numbers will not change after Bitfinex enters the scene: It has bought an undisclosed amount of shares from another investor on the secondary market, Keidun said. Bitfinex will be a significant shareholder, but it won’t make Hodl Hodl dependent on its partner, he adds.
+
+“Every decision at Hodl Hodl is made by the team. We’re fully autonomous and independent from our shareholders,” Keidun said, adding: “Of course, we consult with our investors and don’t make important strategic shifts without talking to them. But, in general, we’re independent and autonomous.”
+
+Regulatory concerns
+
+Another interesting point in this new alliance are potential regulatory ramifications as Hodl Hodl is by design a KYC-free crypto business. Bitfinex only recently recovered from a court battle with the New York Attorney General, which alleged Bitfinex covered a $850 million hole in its budget with the funds from Tether’s reserves. The case ended with a settlement, and now Tether is obliged to provide the breakdown of its reserves on a monthly basis.
+
+Hodl Hodl is one of the very few places allowing bitcoin purchases for fiat with no know your customer/anti-money laundering checks. As Hodl Hodl’s team says, the exchange’s non-custodial approach allows it to be “exempt” from the KYC/AML requirements for crypto, which has been increasingly spreading across the world under the auspices of the Financial Action Task Force (FATF).
+
+But Hodl Hodl, which runs on multisignature bitcoin contracts, doesn’t custody users’ fiat or crypto, CEO Keidun said, which makes it “exempt” from the KYC requirements. All the deals are executed automatically, directly between users’ personal bitcoin and fiat accounts except for the disputes, when the Hodl Hodl team weighs in with its own private key for a multisig and releases funds to whatever party is considered right.
+
+This makes Hodl Hodl closer to the DeFi enterprises like Uniswap than to centralized exchanges like Bitfinex. However, such DEXs, running on Ethereum or other blockchain smart contracts, normally don’t allow you to buy crypto for fiat – for that, you need to go to a centralized exchange, which accepts your fiat and requests a KYC verification.
+
+This combination of a fiat on-ramp and non-custodial approach makes Hodl Hodl a somewhat exotic creature on the current crypto landscape, and a rare exception from the prevalent attitude towards more compliance and regulation.
+
+Asked if this worries investors at all, Keidun said that talks about KYC happen “quite rarely.” From time to time, however, some investors would ask: “What if new regulations get introduced?”
+
+“If KYC requirements get introduced for non-custodial services, we have plans for how we structure our business for different scenarios playing out,” Keidun said.
+
+Asked if Hodl Hodl’s no-KYC policy is of any concern for Bitfinex, the company’s senior PR manager, Joe Morgan, declined to comment on the matter, saying that “this is really a question for Hodl Hodl, as Bitfinex is merely collaborating with them.”

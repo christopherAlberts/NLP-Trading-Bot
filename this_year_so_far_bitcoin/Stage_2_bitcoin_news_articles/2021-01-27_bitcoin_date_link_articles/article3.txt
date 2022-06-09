@@ -1,0 +1,25 @@
+The chief banker at the Bank for International Settlements, Agustín Carstens, cast doubt on bitcoin’s long-term viability Wednesday, saying it was only a matter of time before a 51% attack brings down the world’s original cryptocurrency.
+
+Carstens’ comments, which he delivered to the Hoover Institute, underscored his belief that bitcoin fails as a currency, a medium of exchange and a value storage mechanism, working only as a “speculative asset” and seldom as money.
+
+He also issued a dire warning to would-be bitcoin investors: The center cannot hold:
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+“Above all, investors must be cognizant that bitcoin may well break down altogether. Scarcity and cryptography alone do not suffice to guarantee exchange,” he said.
+
+Carstens then levied attacks against the attributes that have kept bitcoin running. He pointed out the “sad side effect” of bitcoin’s monstrous electricity dependence, which he said is as high as Switzerland’s where the BIS is based. Bitcoin’s proof-of-work mechanism currently burns through reams of energy.
+
+Carstens blasted what he framed as the inevitable systems failure hard-coded into bitcoin’s 21 million issuance cap. Fewer coins getting minted means fewer miners processing transactions, he said, and confirmation wait times will go up. So, too, will bitcoin’s vulnerability to a “majority attack.”
+
+“So, clearly, if digital money is to exist, the central bank must play a pivotal role, guaranteeing the stability of value, ensuring the elasticity of the aggregate supply of such money, and overseeing the overall security of the system,” he said.
+
+Bitcoiners were merciless in their rebuttal.
+
+Jameson Lopp, chief technical officer at bitcoin storage startup Casa told CoinDesk Carstens’ argument fails to stand up to bitcoin’s technical realities.
+
+“Bitcoin becoming attackable like other networks is not likely, because it would still require a large upfront capital expense for someone to acquire the appropriate hardware. This would only make sense in a world where another SHA256 secured network came along and became far more valuable to mine than Bitcoin,” he wrote in an email.
+
+Castle Island Ventures partner Nic Carter issued CoinDesk a point-by-point takedown of Carstens arguments, asserting that volatility does not mean something cannot be money, and that it doesn’t matter one way or another if bitcoin is money because it is “a means to store value over time and space,” a job that Carter said bitcoin does better than gold.
+
+Carter also said the Bitcoin network’s energy dependence is a function of price and issuance, not security or necessity.

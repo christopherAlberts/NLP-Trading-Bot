@@ -1,0 +1,81 @@
+Bitcoin is not money
+
+Theoretically and legally, cryptocurrencies such as bitcoin are not money despite what some people may think. Money serves three functions: it is a medium of exchange, a unit of account and a store of value.
+
+Not many goods and services are priced in and settled by bitcoin (or other cryptocurrencies). Bitcoin is not universally accepted as a unit of account and a means of payment. Granted, many cryptocurrency payment apps have been created in recent years to promote its use. But none of them has made it to the core of the world’s daily transactions and payments [1], except for some underworld transactions.
+
+Crucially, cryptos are priced in USD (or other fiat currencies). So they are no different from any item priced in USD standing on the opposite side of money in a transaction. Veteran bitcoin investor Mark Cuban summarised it succinctly when he said:
+
+“For cryptocurrency to be money, it (bitcoin) would have to be so easy to use it’s a no-brainer. It would have to be completely friction-free and understandable by everybody first. So easy, in fact, that grandma could do it”.[2]
+
+To legally qualify as money, a means of payment must be granted a status by a country’s laws as its official monetary unit. This legal tender status allows debtors to pay their obligations/liabilities by transferring them to creditors as recognised and approved by law.
+
+Recent research found that 80% of the world’s central banks were either not allowed to issue digital currency under the existing laws, or their legal frameworks are ambiguous and do not clearly permit them to do so [3]. China, however, passed a law in 2020 allowing its central bank to issue a digital currency [4], hence the birth of the world’s first official digital currency, the Digital Currency Electronic Payment (DCEP) [5]. Despite being digital, DCEP is strictly speaking not a cryptocurrency.
+
+Legal tender status is usually given to means of payment that can be easily transferred and used by the population in daily life. To use bitcoin, or cryptocurrencies, a digital infrastructure including computers, smartphones, internet networks and connectivity must be in place. This condition makes it unrealistic for cryptocurrencies to become money. It echoes Mark Cuban’s argument against bitcoin as money.
+
+Bitcoin is a vehicle for speculators
+
+Bitcoin supporters say it is an investible asset. Investible, yes (in the speculative sense, in my view). Asset, I am not sure.
+
+There is an income stream associated with a financial asset. Granted, there are assets with a zero yield such as commodities, but they are traded because they have a practical use (for production or consumption). Crypto­currencies have neither an income stream nor a practical use.
+
+The fact that they command a price and are tradable suggests that speculation would be their single most important ‘raison d’être’. Hence crypto prices are subject to violent and random movement. This brings up the other problem, store of value.
+
+Bitcoin is not a store of value
+
+For something to serve as a store of value, it has to be liquid, universally accepted, and have a stable value. Cryptocurrencies including bitcoin certainly do not have any of these characteristics.
+
+Bitcoin trading suffers from illiquidity and manipulation because of the existence of “whale wallets” (wallets holding disproportionately large amounts of bitcoins).
+
+In late 2020, the top 100 wallets were estimated to own 13% of total bitcoin supply (6) with most of the owners’ identities not known. It would therefore only take a few whale wallets to manipulate the bitcoin market, causing violent price moves. Huge price volatility has made bitcoin and cryptocurrencies unsuitable as store of value vehicles.
+
+Fixed supply is a problem, not necessarily a benefit
+
+Contrary to the conventional wisdom that the finite supply of bitcoins and cryptos is a benefit and protects value, it is in fact a big problem for them being considered as money.
+
+The maximum number of bitcoins that can ever be mined is 21 million. At the time of writing, there are already 18.6 million bitcoins in circulation. The last bitcoin would be mined in 2040. All cryptocurrencies have a finite supply and the speed at which they can be increased is uncertain and not controllable by anyone.
+
+These supply limitations make cryptocurrencies unsuitable as legal tender because the static 'money supply' would deprive central banks of the ability to conduct countercyclical policy.
+
+However, crypto promoters have capitalised on wide­spread fear and distrust of fiat money arising from post-Global-Financial-Crisis (GFC) monetisation. They have skillfully twisted this supply problem into an argument for cryptocurrencies as a hedge against doomsday scenarios. I believe this is wrong.
+
+What next?
+
+China, which used to be the largest crypto mining country, has seen through the smoke and mirrors and has cracked down on trading and mining without reservation. This shows how quickly regulators could destroy the freewheeling, decentralised crypto market. China instead has created an official DCEP with centralised control.
+
+What crypto aficionados do not appear to understand is that countries will take steps to protect their monetary systems and currencies and their ability to tax and manage the economy. The more people believe cryptocurrencies are money, the greater the risk of government intervention in this market. The emerging trend of official digital currencies is a sign of central banks fighting back.
+
+The popular narrative that bitcoin’s finite supply guarantees its value can play into concerns over central bank quantitative easing and what these QE programmes might mean for fiat money. Thus, the rise of cryptocurrencies can be seen as reflecting the anti-establishment movements in many countries since the 2008 GFC.
+
+Viewed positively, this 'crypto protest' could prompt governments to change their economic management to become more responsible and regain trust and credibility. Time will tell.
+
+I believe crypto prices will eventually crash. This could be triggered by a shift in monetary policy or regulations. Alternatively, a crash could simply occur because prices are so inflated that much like the Dutch tulip mania, marginal buyers are priced out of the market, leading to a self-feeding process of liquidation and falling prices when leveraged investors start to sell.
+
+Also read:
+
+Crypto-renminbi to challenge US dollar
+
+[1] Many gold ATM machines and settlement mechanisms were installed around the world in the early 2010s as players were trying to promote the use of gold as an alternative to fiat money and a medium of exchange for daily transactions. However, they failed because of low public acceptance and the inconvenience of using gold for transactions. Crypto apps could suffer a similar fate, in my view.
+
+[2] See “Mark Cuban: This is What it Would Take for Me to Change My Mind About Bitcoin”, NECN Money Report, January 12, 2021 https://www.necn.com/news/business/money-report/mark-cuban-this-is-what-it-would-take-for-me-to-change-my-mind-about-bitcoin/2387139/
+
+[3] “Legal Aspects of Central Bank Digital Currency: Central Bank and Monetary Law Considerations”, IMF Working Paper WP/20/254, November 2020.
+
+[4] See “China to Legalize Digital RMB and Prohibit Competitors”, Lexology, November 12, 2020, and
+
+“China’s New Draft Law Seeks to Legalize Digital Yuan But Ban Competitors”, Coingeek, 29 October 2020, and
+
+“China passes cryptography law as gears up for digital currency”, Reuters, October 27, 2019
+
+[5] See “Chi on China: The Crypto-Renminbi’s Disruption to the Market, Economic Growth and Policy”, 5 August 2020.
+
+[6] See Bitcoin Cash Rich List by BITAMP, and also “Bitcoin Whale”, Investopedia
+
+Any views expressed here are those of the author as of the date of publication, are based on available information, and are subject to change without notice. Individual portfolio management teams may hold different views and may take different investment decisions for different clients. This document does not constitute investment advice.
+
+The value of investments and the income they generate may go down as well as up and it is possible that investors will not recover their initial outlay. Past performance is no guarantee for future returns.
+
+Investing in emerging markets, or specialised or restricted sectors is likely to be subject to a higher-than-average volatility due to a high degree of concentration, greater uncertainty because less information is available, there is less liquidity or due to greater sensitivity to changes in market conditions (social, political and economic conditions).
+
+Some emerging markets offer less security than the majority of international developed markets. For this reason, services for portfolio transactions, liquidation and conservation on behalf of funds invested in emerging markets may carry greater risk.

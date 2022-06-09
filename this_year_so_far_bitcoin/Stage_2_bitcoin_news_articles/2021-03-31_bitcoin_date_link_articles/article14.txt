@@ -1,0 +1,21 @@
+Panama-based Deribit, the world’s largest crypto options exchange by trading volume and open interest, has launched a bitcoin volatility index called DVOL to help traders assess the market’s mood.
+
+“DVOL uses the implied volatility smile of the relevant expiries to output one number that gives a gauge of the 30-day annualized implied volatility,” the exchange said Wednesday in an announcement.
+
+Implied volatility refers to investors’ expectations for price turbulence over a specific time period.
+
+Related: ECB's Christine Lagarde Says Digital Euro Should Launch Within Four Years
+
+In traditional markets, implied volatility usually picks up during bear markets and subsides during bull runs. A volatility index on the Standard & Poor’s 500 Index of large U.S. stocks is popularly known as the “fear gauge.”
+
+Deribit refers to its bitcoin volatility index as an “action gauge.”
+
+Also read: Ether-Bitcoin Implied Volatility Spread Points to a Macro-Driven Market
+
+“Market participants need to be able to better understand as well as manage volatility,” Deribit CEO John Jansen said. “As the bitcoin options market has matured, the time is now to launch DVOL, enabling further market growth and hopefully soon welcoming a new suite of volatility traders on Deribit.”
+
+Related: Why Are Some People’s Expensive NFTs Vanishing?
+
+The exchange plans to roll out futures tied to the bitcoin volatility index soon. That would allow traders to effectively bet on their views regarding near-term market volatility.
+
+Related Stories

@@ -1,0 +1,6 @@
+Whitfield Diffie in 2019
+
+As defined by the New York Times: "Public-key cryptography is a method for scrambling data in which each party has a pair of keys, one which can be publicly shared and the other which is known only to the intended recipient of a message. It is possible for anyone to encrypt a message using the individual’s public key. However, the message can only be unscrambled with the aid of the private key held securely by the recipient of the message."
+
+Diffie continues to be active in the crypto space today.
+

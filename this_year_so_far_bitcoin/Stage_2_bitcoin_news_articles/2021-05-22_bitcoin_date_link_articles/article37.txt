@@ -1,0 +1,89 @@
+Bitcoin may be suffering through a succession of negative news stories, but some crypto investors are still celebrating major gains in 2021’s altcoin bull market.
+
+Since January 3 this year, Cointelegraph Markets Pro has been live-testing 42 separate automated strategies based on the proprietary VORTECS™ algorithm developed in partnership with The TIE, a data analytics firm.
+
+Let’s not be humble about this: VORTECS™ has crushed it.
+
+Of those 42 strategies, every single one has beaten the return on investment (ROI) delivered by Bitcoin for hodlers who refuse to part with their BTC.
+
+And even when compared to holding an evenly-weighted basket of the top 100 altcoins, 88% of those strategies come out ahead.
+
+What’s more, the most successful strategies — whether based on the time between an entry position and a hypothetical exit, or exiting a position based on crossing a new score threshold — have delivered in excess of 2,000% returns as of May 22 — even after multiple pullbacks in the crypto asset class. In fact, the most successful of all (Buy 80 / Sell 80) has generated returns of 2,150%.
+
+That compares extremely favorably with the strategy of holding Bitcoin (10% ROI) or the basket of altcoins (226% ROI) since January 3.
+
+In the chart above, which is based on exiting a position at an arbitrary time (24 hours, 48 hours, 96 hours or 168 hours) all VORTECS™ strategies beat Bitcoin... and only one failed to beat the altcoin basket.
+
+In this second chart, based on exiting at a second score threshold, all VORTECS™ strategies beat holding Bitcoin, and only four failed to beat the altcoin basket.
+
+So what is VORTECS™ — and why is it consistently outperforming the wider crypto market?
+
+What is VORTECS?™
+
+The VORTECS™ Score is an algorithmic metric derived from historical analysis of crypto markets.
+
+For each one of the ~200 crypto assets supported by Cointelegraph Markets Pro, the algorithm is hunting for moments in time that resemble the current marketscape — 24 hours a day, 7 days a week.
+
+Specifically, it’s looking for patterns that have consistently led to significant changes in price in the past.
+
+Those patterns include a variety of factors: Volume, Outlook, RealPrice, Tweet Volume, Elevation, Confidence, and Sentiment... or VORTECS™ for short.
+
+Volume: A measure of how much of an asset is traded across supported exchanges.
+
+Outlook: A measure of whether the current market conditions are favorable or not, compared with historically-similar conditions.
+
+RealPrice: A composite price derived from an average of prices across relevant exchanges, discounting outliers based on low volume.
+
+Tweet Volume: A measure of the absolute and relative number of tweets about an asset over the past 24 hours.
+
+Elevation: A measure of how far up or down an asset’s price moved following historically-similar market conditions to those observed currently.
+
+Confidence: The degree to which current conditions are similar to historic conditions, with higher confidence also including the consistency of asset price moves following those conditions.
+
+Sentiment: The positivity or negativity of the chatter on Twitter surrounding the crypto asset, derived from a complex proprietary algorithm developed by The TIE.
+
+The algorithm combines all of this raw data into a VORTECS™ Score, which is designed to identify the general health of the market for a particular crypto asset. A high score suggests that in the past, conditions similar to those we see right now have often led to increases in the price of that asset. The higher the score, the more confident the algorithm is that these scenarios have been consistent.
+
+Like any trading algorithm, that doesn’t mean it’s a crystal ball — in fact, it’s almost exactly the opposite. Whereas fortune tellers look into the future, VORTECS™ looks into the past.
+
+But it turns out that examining the right elements of history provides keen insights for crypto traders who are seeking an edge.
+
+How Markets Pro measures the VORTECS™ Score’s performance
+
+Cointelegraph Markets Pro testing tracks the price of an asset when the score crosses a threshold (for example, a score of 85) and then measures the price again when it crosses a second threshold (which could be another score, or could be measured in hours). The difference between the first and second prices is the gain or loss that the algorithm tracks… and there’s more detail on that here.
+
+So even though a human couldn’t trade exactly this way, by applying a consistent set of standards it’s possible to establish whether an algorithm is operationally successful or not. And the verdict is very clear: VORTECS™ has consistently and significantly outperformed the crypto market as a whole since live-testing began earlier this year.
+
+And perhaps just as importantly is the fact that even with a major pullback in the overall value of the crypto markets, which lost close to a trillion dollars in value at the low point this week, the performance of all the VORTECS™ strategies tested continued to outperform the benchmark currency, Bitcoin, by a significant margin.
+
+Using the VORTECS™ Score
+
+Remember, the score is not a prediction of how an asset price WILL change over time, but an analysis of how asset prices HAVE changed over time when faced with similar market conditions.
+
+So the VORTECS™ Score, while it is weighted to take account of the size of asset price change in the past, will not tell you HOW MUCH an asset may change.
+
+It will also not tell you WHEN it will change — in fact, the algorithm is deliberately fuzzy on time, meaning that it is normalized and smoothed to ensure that abrupt outliers (such as a sudden viral tweet) don’t abnormally affect the overall trend.
+
+While the algorithm is generally oriented to a 12-72 hour timeframe, testing revealed that efforts to “time the market” precisely introduced an element that was not supported by historical data.
+
+So let’s take a look at an example score of 85.
+
+This is a high score which means that there is some combination of these factors:
+
+The algorithm has found market conditions in the past that look similar to current market conditions
+
+Those historical conditions often led to an INCREASE in asset price over the next 12-72 hours, approximately
+
+The price changes in the past have been significant
+
+The algorithm maintains a high level of confidence that the set of conditions it’s looking at are similar enough to suggest that the overall direction of this asset’s price is currently bullish, or positive.
+
+The 1,500+ crypto traders in the Cointelegraph Markets Pro Discord group, which is available exclusively to members, have used these scores in a wide variety of ways to enhance their understanding of the current market health for dozens of crypto assets.
+
+And while massive ROI numbers like 2,150% are at the extremes of VORTECS™ success, it is worth noting that the mean ROI from all score-based strategies is 642%, while the mean ROI from all time-based strategies is 638%... both of which are significantly higher than the benchmarks set by BTC (10%) and altcoins (226%).
+
+Cointelegraph Markets Pro is available exclusively to members on a monthly basis at $99 per month, or annually with two free months included. It carries a 14-day money-back policy, to ensure that it fits the crypto trading and investing research needs of subscribers, and members can cancel anytime.
+
+Important Disclaimer
+
+Cointelegraph is a publisher of financial information, not an investment adviser. We do not provide personalized or individualized investment advice. Cryptocurrencies are volatile investments and carry significant risk including the risk of permanent and total loss. Past performance is not indicative of future results. Figures and charts are correct at the time of writing or as otherwise specified. Live-tested strategies are not recommendations. Consult your financial advisor before making financial decisions. Full terms and conditions.

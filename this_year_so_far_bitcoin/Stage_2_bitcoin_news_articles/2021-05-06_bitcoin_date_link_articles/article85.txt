@@ -1,0 +1,33 @@
+Democratizing Defi Data- Dechart DAO Launches Version 1.0 Trading Platform
+
+On May 6, 2021, the total locked value (TVL) held by decentralized finance (defi) is more than $77 billion. Much of this money is used by decentralized exchange (dex) platforms and liquidity pools. With dex platforms capturing over $2 billion in trade volume daily and $18 billion during the last seven days, a project called the Dechart DAO aims to provide traders with the ability to make “the most informed, efficient trades.”
+
+Dechart – Decentralizing Defi Data
+
+The cryptocurrency ecosystem has swelled this year and defi platforms and Web3 applications make up quite a bit of the value. Moreover, participants have been able to find a lot more value with concepts like oracles, automated market makers (AMMs), decentralized exchange (dex) platforms, liquidity pools, decentralized stablecoins, and more. With all the trading action happening in real-time, traders find that it’s hard to get insight into all the markets in one place.
+
+However, a decentralized autonomous organization (DAO) called Dechart aims to fix this problem and democratize the process of accessing reliable defi data. Moreover, Dechart is removing the need for expensive institutional-grade trading platforms. For instance, the Dechart team explains that popular dex platforms like Uniswap, Pancakeswap, and Sushiswap have seen massive growth. But solutions for people who want real-time trading data for these dex platforms are practically non-existent.
+
+“Most [dex platforms] were not built to perform sophisticated financial analysis,” the Dechart litepaper notes. “They provide very simple insight into the tokens that trade on their platforms. Due to this, there are a number of platforms in the space currently providing third-party tools to aggregate these broad data sets in a scattered and disorganized way.”
+
+The litepaper adds:
+
+Dechart aims to be the world leader in the aggregation of data from decentralized exchanges and the most concentrated, advanced data solution for users seeking trading resources.
+
+Dechart App Version 1 Launches
+
+Dechart is a community governed DAO and has released the first iteration of the project’s version 1.0 trading platform and dashboard. The protocol allows any user to easily connect and consume diverse data sets within an intuitive user interface. “Traders can utilize an enormous set of data that has immense aggregative value existing in an even more fragmented scatter all across the various data outlets of Web 3.0,” the Dechart team says. “Within this are major opportunities to enhance data consumption.”
+
+The team adds:
+
+Dechart exists to fulfill the simple vision of facilitating a truly transparent global digital marketplace where information is unbounded and freely available, and barriers for exchange are non-existent.
+
+The team’s litepaper stresses that Dechart is focused on becoming a world leader in the aggregation of data from decentralized exchanges and the most concentrated, advanced data solution for users seeking trading resources. Defi and dex users can leverage Dechart’s 1.0 application here and get updates from the project coordinators on Dechart’s official Telegram channel. Dechart’s DAO will also utilize a native token in order to bolster the autonomy and security of the project.
+
+Furthermore, as a DAO, Dechart is designed to function independently of traditional trust schemes and centralized governance models. Stakeholders of Dechart’s DCH token will be able to participate in governance decisions, from deciding on new features to rewarding the community to controlling the revenue model for premium features.
+
+What do you think about the Dechart DAO? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, Dechart DAO
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

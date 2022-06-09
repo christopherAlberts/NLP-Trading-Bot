@@ -1,0 +1,55 @@
+Bitcoin’s volatility has been moving in a downward direction, and the price of the currency seems fixed in a band between $50,000 and $60,000. Is the current market for bitcoin a temporary lull between lurches? Or is it a long-term trend toward lower volatility that could change the way bitcoin is perceived?
+
+Source: CoinDesk Research, St. Louis Fed, Yahoo Finance
+
+The answer is, it’s too early to tell. The chart above shows bitcoin’s volatility has been on a steady decline. (Ether and the S&P 500 are included as references.) However, it’s still in an approximate mid-range, historically.
+
+You’re reading Crypto Long & Short, a newsletter that looks closely at the forces driving cryptocurrency markets. Authored by CoinDesk’s head of research, Noelle Acheson, it goes out every Sunday and offers a recap of the week – with insights and analysis – from a professional investor’s point of view. You can subscribe here.
+
+As of Sunday morning, this past week’s correction hadn’t changed that. Bitcoin’s price remains roughly in a band between $50,000 and $60,000, and with this week’s dip marking the second time it’s rocked between the minimum and maximum of that range, its volatility is still roughly in the middle.
+
+Using the table below as a guide, bitcoin’s stretch of middling volatility is likely to continue. At 43 days, it is still rather young, as these things go.
+
+Source: CoinDesk Research
+
+The data in the table is based on dividing bitcoin volatility into three ranges: high, mid and low. High is volatility at or above 100%. Mid is volatility at or above 50%, and below 100%. Low is volatility below 50%. Volatility is the 30-day standard deviation of daily log returns, annualized at 365 days of trading.
+
+These ranges aren’t entirely arbitrary. Since October 2014, bitcoin volatility’s top tercile has been above 79% and its middle third has started at 51%.
+
+Looking at bitcoin volatility in this way shows a pattern in the duration of volatility cycles. In the first two years on the table, bitcoin volatility cycles tended to be shorter, less than 50 days in duration. They lengthened in 2016 to 2018, then returned to shorter cycles in 2019.
+
+As of Saturday, bitcoin’s volatility was just over 50%, putting it at the low end of our mid-range for volatility. It’s been in the mid-range for 43 days, following a period (32 days) of high volatility that ended March 13. In the current environment, it hasn’t yet reached the average duration of a volatility cycle – at least not as we’re defining them here.
+
+If recent norms persist, bitcoin’s volatility may be disappointing both to traders antsy for a break and technologists hoping for long-term, lower volatility that could make bitcoin more “useful” as a currency. It may feel like bitcoin has been in stasis for a long time, but historically speaking this could be a long haul.
+
+– Galen Moore
+
+Chain Links
+
+This week saw two notable appointments that underline the “institutionalization” of crypto markets:
+
+Former Acting Comptroller of the Currency Brian Brooks was appointed CEO of crypto exchange Binance.US.
+
+was appointed CEO of crypto exchange Binance.US. Former CFTC Chairman Chris Giancarlo was appointed to the board of crypto lender BlockFi.
+
+We continue to see investment pour into crypto market infrastructure from traditional investment firms. This past week:
+
+Baillie Gifford , one of the U.K.’s most prominent asset managers, invested $100 million in crypto exchange and wallet provider Blockchain.com.
+
+, one of the U.K.’s most prominent asset managers, invested $100 million in crypto exchange and wallet provider Blockchain.com. RIT Capital Partners, a U.K.-based investment trust founded by Lord Jacob Rothschild of the prominent Rothschild banking family, made an investment of undisclosed size in U.S.-based cryptocurrency exchange Kraken.
+
+Coinbase will list the stablecoin tether (USDT) on its professional trading platform, allowing investors to deposit immediately and to begin trading next week. TAKEAWAY: This move is a big deal, as it effectively legitimizes tether, which had been struggling with reputation issues related to the stablecoin’s backing and the internal handling of funds. Earlier this year, the NYAG settled its enquiry into the stablecoin’s issuing company and sister exchange, mandating periodic attestations starting in May 2021. Tether acts as a significant support to market liquidity, and concerns that regulatory or confidence problems could deal a blow to overall market sentiment have been weighing on the market for some time. That Coinbase’s first new token listing after going public should be a stablecoin previously mired in controversy sends a strong signal of support to the market’s preference for a competitor to the USDC stablecoin, which is managed by a Circle-Coinbase partnership.
+
+New York-based Signature Bank added $3.77 billion in non-interest bearing deposits in Q1, which shows an acceleration of deposit growth – in Q4 the growth was $2.5 billion. TAKEAWAY: Figures like these will signal to other banks that the crypto industry is currently a source of strong balance sheet growth and could encourage more of them to offer service to crypto companies. Over the years, crypto companies have struggled to get basic banking services, a more robust banking service offering for crypto companies, perhaps even competition for their business, will bring new operating efficiencies. That, in turn, will make these companies even more attractive to investors, which will further support innovation.
+
+Cryptocurrency-focused financial services firm Galaxy Digital is in advanced discussions to buy crypto custodian BitGo, according to sources. TAKEAWAY: Yet another gripping scoop from my colleague Ian Allison. Whether it goes ahead or not, this represents powerful positioning in the crypto prime broker race.
+
+San Francisco-based trading tech firm X-Margin and cryptocurrency custody provider Fireblocks are developing a credit management system that gives lenders insight into borrower positions across platforms while preserving privacy. TAKEAWAY: This is intriguing in that it brings a technology angle to the prime brokerage business, with the potential effect of reducing lending risk and collateral requirements, which in turn should free up liquidity.
+
+A bitcoin ETF managed by 3iQ and CoinShares is now trading on the Toronto Stock Exchange under the symbols BTCQ (CAD) and BTCQ.U (USD). TAKEAWAY: For those keeping score, Canada now has four bitcoin exchange-traded funds and four ether ETFs. The U.S. still has none.
+
+Speaking of 3iQ, the company’s CEO told Bloomberg that it is aiming to raise over $200 million from the dual listing of its 3iQ Coinshares bitcoin exchange-traded fund in Dubai. TAKEAWAY: The potential is indeed high, since it will be the first cryptocurrency fund to go public in the Middle East.
+
+Switzerland-based investment product provider 21Shares is launching exchange-traded products (ETPs) for the native cryptocurrencies of Stellar (ticker: AXLM) and Cardano (ticker: AADA) on the Swiss SIX Exchange. TAKEAWAY: It’s curious that Europe has such a wide range of crypto-based assets listed on exchanges that investors of all types can access through their brokers, while the U.S. has none. (Unless you count MicroStrategy, but that’s a different story.)
+
+Bitcoin services firm NYDIG has bought commercial lender Arctos Capital, which provides financing solutions to bitcoin miners and other crypto firms. TAKEAWAY: It is fascinating to see the growing institutional interest in the bitcoin mining industry, which points not only to greater sophistication in mining financing and operations, but also to considerable growth ahead in North American mining operations.

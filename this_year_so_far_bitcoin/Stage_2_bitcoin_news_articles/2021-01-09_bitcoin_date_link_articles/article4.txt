@@ -1,0 +1,23 @@
+Bitcoin miners generated an estimated $692 million in revenue in December, up 33% from November, according to on-chain data from Coin Metrics analyzed by CoinDesk.
+
+Extending November’s own 48% increase, miner revenues continued to soar as bitcoin rallied over 300% last year, briefly trading above $29,000 for the first time ever on New Year’s Eve.
+
+Revenue estimates assume miners sell their BTC immediately.
+
+Monthly bitcoin miner revenue since January 2016 Source: Coin Metrics, CoinDesk Research
+
+Measured by per terahash per second (TH/s), miner revenues nearly tripled in the past three months, reaching $0.284 Thursday, per data from Luxor Technologies, its highest level since August 2019, as CoinDesk previously reported.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Network fees brought in $68.3 million in December, or nearly 10% of total revenue, a slight percentage decrease from the 10.5% of revenue represented by fees in November.
+
+Fees were quite volatile in December, bouncing between $4 to all the way to above $12 throughout the month, per Coin Metrics.
+
+Notably, fees as a percentage of total revenue continues a strong upward trend since April, prior to the network’s third-ever block subsidy halving in May. Increases in fee revenue are important to sustain the network’s security as the subsidy decreases every four years.
+
+Bitcoin fees as a percentage of monthly miner revenue since January 2016 Source: Coin Metrics, CoinDesk Research
+
+Taking advantage of the revenue increase, miners are bringing more machines online, pushing the network’s difficulty to record highs after Saturday’s adjustment.
+
+What’s more, miners have ordered so many new machines to capitalize on the period of increased profitability that leading manufacturer Bitmain, for example, has sold out until August even after nearly doubling the price of some models.

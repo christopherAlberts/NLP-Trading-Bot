@@ -1,0 +1,43 @@
+When properly incentivized, Bitcoin is capable of an unfathomable amount of throughput and flexibility that can dwarf Visa, MasterCard, SWIFT, ACH and all of the data management networks on earth! Yes, that includes AWS, Azure and whatever else you’re thinking. The Bitcoin protocol has no block size limit, no chained transaction limit, no script limit nor anything else—meaning that anything you can dream of can be built on Bitcoin.
+
+Bitcoin “never really hits a scaling ceiling…”
+
+– Satoshi Nakamoto, April 2009
+
+But this view is extremely unpopular among the commune of blockchain intelligentsia for various reasons. The key reason is that in every other blockchain community, the coin is the product, the community are the salespeople, and the goal is the exit: buy low, shill hard, sell high.
+
+This is the business model of BTC, BCH, ADA, XRP, EOS, ZEC, TRX… Even Banano!
+
+They all exist simply to sell tokens, enrich developers, pay for suits in Silicon Valley. In stark contrast, Bitcoin SV (BSV) is not so much a community as it is an economy where the value of the network is not the token itself, but what can be created with the token! This is why BSV is so heavily lambasted in the mainstream and the “crypto” media. It is a threat to the old world, the frothy blockchain community and the old silos of power.
+
+Bitcoin SV is NOT the product. It is a tool to create value in business!
+
+What are we up against?
+
+BTC – BTC Core is lauded as digital gold: an unconfiscatable asset with impenetrable game theory and no weaknesses. Although slow, expensive and unreliable, advocates claim that it can be the new world settlement network. In reality, BTC is poorly implemented, has been arbitrarily rolled back twice, doublespent, censored and confiscated. At 5 transactions per second enabling six megabytes of data per hour—globally—it is several orders of magnitude too inefficient for even periodic settlement of financial assets at scale.
+
+In contrast, Bitcoin SV is capable of at least 50,000 transactions per second, instant payments, reliable settlement, and flexible implementation. Everything fundamental about bitcoin is shared between BTC and BSV. The difference is that BTC has deprecated most of bitcoin’s valuable features, and it has added other features to limit scalability. BSV is a complete implementation of bitcoin, which is why it is fast, reliable, flexible and secure.
+
+ETH – Ethereum is roughly three times the efficiency of BTC which makes it good for 15 transactions per second across the network, but it is a special purpose tool that operates as a giant computer which must cross all thresholds in unison. This makes it easy to program applications from a software standpoint, but they can only be as powerful as the weakest link in the network. Ethereum has a robust development toolset, but the network has been bogged down for half a year as users try to figure out how anything with $500 fees could replace any valuable aspect of the centralized economy.
+
+In contrast, Bitcoin SV is at least 3,000 times the efficiency of Ethereum today. This is because of the fundamental efficiency of parallelization innate to Bitcoin. Since the Genesis upgrade, the explosion of use of the Bitcoin stack has created a vast amount of proof that not only can Bitcoin apps compete with Ethereum apps, but we beat them on EVERY. SINGLE. METRIC.
+
+Apps, smart contracts, tokens and NFTs are faster, cheaper, more secure and easier to deploy. On Bitcoin SV, they can be built in JavaScript, sCrypt, native bitcoin script, or many other abstractions that are common to developers.
+
+Ethereum Clones – Nearly every other blockchain asset is either a clone of Ethereum with slightly different rules, or a side chain of Ethereum, so they all bear the burden of the same fundamental problems. Cardano, Polkadot, Tezos, Binance Coin (and “smart chain”), VeChain, Tron, EOS… None can scale! Most of them are not even capable of 1000 transactions per second, and those that claim to be able are years away from the roadmap items to get there.
+
+– Nearly every other blockchain asset is either a clone of Ethereum with slightly different rules, or a side chain of Ethereum, so they all bear the burden of the same fundamental problems. Cardano, Polkadot, Tezos, Binance Coin (and “smart chain”), VeChain, Tron, EOS… None can scale! Most of them are not even capable of 1000 transactions per second, and those that claim to be able are years away from the roadmap items to get there. Shardy DAGs – IOTA, Nano, Solana, Hedera HashGraph, etc… These alleged solutions to distributed consensus rely on fundamentally different structures that intend to scale, but cannot. Without a more stable base layer, DAGs require a certain amount of existing scale in order to be secure. This is why they use centralized, authoritative nodes to establish the baseline of the network. It’s also why all DAG blockchains fall out of sync and have unexpected breakdowns. They are fundamentally unreliable, unnecessarily complex and don’t actually create any new efficiency. HashGraph and IOTA are only capable of about 10,000 transactions per second, which is nowhere near what Bitcoin SV is capable of. Nano seems to be much fewer. Solana claims 50,000 transactions per second, but the entire network has broken down more than once, and it is accomplished by focusing on a very narrow set of parameters. Solana also uses a very dangerous, experimental type of sharding which is a method that creates tons of tiny blockchains for each task – making it unreliable for anything except video gaming.
+
+Furthermore, the Bitcoin SV Metanet protocol is a DAG structure too! So, the overlay network atop Bitcoin SV was very thoughtfully designed to compete on these higher throughput and lower latency networks without compromising the stability that comes from a secure, general purpose network built underneath it. This makes Metanet more efficient and more reliable than IOTA, HashGraph or Solana combined.
+
+Everyone Else? Nope. Stellar Lumens, XRP and the other chains don’t scale either!
+
+In short, Bitcoin SV does not have competitors. Blockchain developers continue to try to create special-purpose networks that focus on narrow use cases while missing the most crucial point: Bitcoin was created with a perfect balance of security, speed and ease of use that cannot be re-engineered or broken apart without facing dire consequences, and as Satoshi said, “…it never really hits a scaling ceiling.”
+
+We have already won, and anyone wasting their time trying to find efficiency elsewhere is just burning money that will eventually make its way to BSV anyways. Stability, predictability, speed, efficiency, ease-of-use, and the only network that allows data and money to scale up for use in the global economy today: that’s Bitcoin SV. And while all of the other blockchain developers have been patting themselves on the back for their gains during the bull market, and not working on ways to solve their fundamental problems, Bitcoin SV has been developing Teranode, Xoken Vega and an incredible amount of overlay network options and other scaling solutions that will be debuting just in time for the bear market to start sucking liquidity away from speculative assets while looking for utilitarian safe havens.
+
+When global-scale businesses move to tools that need public transparency, perfect ownership, reduced payment friction and increased data integrity, BSV will be the only option.
+
+Are you ready for a million transactions per second? Because when business comes knocking, we will be.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

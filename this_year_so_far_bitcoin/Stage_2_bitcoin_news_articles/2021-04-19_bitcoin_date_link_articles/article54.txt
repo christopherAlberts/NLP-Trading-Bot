@@ -1,0 +1,167 @@
+Crypto at a glance
+
+A rough weekend for leading cryptocurrencies saw the total market cap plunge below $2 trillion on Sunday for the first time in just over a week, though a recovery overnight has seen many come charging back. Can they now pick up where they left off last week?
+
+The weekend’s antics were led by a huge fall for Bitcoin, which plunged 15 per cent in a single day yesterday to around $52,000. That represents a fall of more than $12,000 from last Wednesday’s all-time high of almost $65,000.
+
+The drop comes off the bat of last week’s Coinbase listing, with many possibly still trying to decide whether the corresponding price bounce was temporary or if it has a bit more longevity. There have been a host of plausible explanations given for the fall though, with FUD running rampant.
+
+Sunday also saw the single largest one-day drop in mining hash rate since Nov 2017, with the hash rate on the network essentially halving.
+
+There was speculation that the US Treasury may crack down on money laundering carried out through digital assets, while CNBC last night tweeted as new a month-old report on India preparing to possibly ban cryptocurrencies in India.
+
+Whatever the reasons, it seems none of these have proved particularly sticky as we head into the new week. What was a bad weekend across the board has turned sharply, and the majority of cryptocurrencies are still up over the past seven days.
+
+Ripple’s XRP ended its incredible recent run, falling from $1.74 on Saturday to $1.17 yesterday, but has since recovered to $1.44 at time of writing. Can it continue to recoup its losses?
+
+Bitcoin Cash is also making up ground again, having drifted down the rankings of late. It’s now back in the top 10 and trading at an all-time high of almost $1,000.
+
+Dogecoin is now changing hands at just below $0.40, up almost 400 per cent on the week. It’s now the sixth largest cryptocurrency by market cap. What a time to be alive!
+
+All feedback on Crypto AM Daily in association with Luno is welcome via email to James.Bowater@cityam.com 🙏🏻
+
+In the markets
+
+The Bitcoin economy
+
+*Definitions and insights can be found at https://bytetree.com/insights/
+
+Total crypto market cap
+
+The total capitalisation of the entire cryptocurrency market at time of writing is currently $2,099,226,049,323.
+
+What Bitcoin did yesterday
+
+We closed yesterday, April 18 2021, at a price of $56,216.19 – down from $60,683.82 the day before.
+
+The daily high yesterday was $61,057.46 and the daily low was $52,829.54.
+
+This time last year, the price of bitcoin closed the day at $7,257.66. In 2019, it closed at $5,298.39.
+
+Bitcoin market capitalisation
+
+Bitcoin’s market capitalisation at time of writing is $1.072 trillion. To put that into context, the market cap of gold is $11.3 trillion and Alphabet (Google) is $1.544 trillion.
+
+Bitcoin volume
+
+The total spot trading volume reported by all exchanges over the last 24 hours was $73,287,722,807. High volumes can indicate that a significant price movement has stronger support and is more likely to be sustained.
+
+Volatility
+
+The price volatility of Bitcoin over the last 30 days is 46.6%.
+
+Fear and Greed Index
+
+Market sentiment remains in Extreme Greed at 74.
+
+Bitcoin’s market dominance
+
+Bitcoin’s market dominance today is 52.15. Its lowest ever recorded dominance was 37.09 on January 8 2018.
+
+Relative Strength Index (RSI)
+
+The daily RSI is currently 46.55. Values of 70 or above indicate that an asset is becoming overbought and may be primed for a trend reversal or experience a correction in price – an RSI reading of 30 or below indicates an oversold or undervalued condition.
+
+Convince your Nan: Soundbite of the day
+
+“We regard Bitcoin and stablecoin as crypto assets … These are investment alternatives.” Li Bo, deputy governor of the PBOC
+
+What they said yesterday
+
+Big Bill Bitcoin Maxi…
+
+Legendary investor BILL MILLER calls himself a #bitcoin maximalist, citing Bitcoin 98% dominance – GAME OVER-
+
+
+
+😎🔥👀
+
+
+
+Source: https://t.co/sO3ZVgHoVD pic.twitter.com/usdyhS1D0q — Plan Marcus ☣️🐝⚡️ (@plan_marcus) April 18, 2021
+
+Interesting…
+
+How I explained Bitcoin to my kids. A currency needs two things: to be easily transportable, and to be rare. Bitcoin is easily transportable because you can send it from computer to computer, and rare because to make more you have to solve increasingly hard math problems. — Paul Graham (@paulg) April 19, 2021
+
+A new dawn?
+
+Breaking: Li Bo, deputy governor of the Central Bank of China, said that crypto assets such as Bitcoin should be used as investment tools or alternative investments. This is the first time that the Chinese government has recognized the asset value of cryptocurrencies. pic.twitter.com/bgDIVA1eMJ — Wu Blockchain (@WuBlockchain) April 18, 2021
+
+Life comes at you fast…
+
+Goldman Sachs has added #Bitcoin on its YTD asset returns report.
+
+
+
+Imagine being a Fund Manager who ridiculed #Bitcoin for 10 years – now having to look at those gainz every week! 😂
+
+
+
+It’s a beautiful thing 😉 pic.twitter.com/Rwze1mpF7f — Bitcoin Archive 🗄🚀🌔 (@BTC_Archive) April 18, 2021
+
+Crypto AM Editor writes
+
+Intelligence dossier finds Bitcoin is outperforming gold but Ethereum is outshining Bitcoin
+
+Crypto AM: Longer Reads
+
+City AM Markets: What is Decentralised Finance (DeFi) by Aave
+
+Crypto AM: Conversation with James Bowater
+
+Crypto AM: Market View
+
+Crypto AM: Technically Speaking
+
+Crypto AM: A Trader’s View with TMG
+
+Crypto AM: Mixing in the Metaverse with Dr Chris Kacher
+
+Crypto AM: Talking Legal
+
+Crypto AM: Spotlight
+
+Crypto AM: Founders Series
+
+Crypto AM: Industry Voices
+
+Crypto AM: Tiptoe through the Crypto with Monty Munford
+
+Crypto AM: Definitively DeFi
+
+Crypto AM Parliamentary Special Five Part Series
+
+March 2021
+
+Part five…
+
+Part four…
+
+Part three…
+
+Part two…
+
+Part one…
+
+Crypto AM: Recommended Events
+
+AIBC World
+
+May 25 to 26 2021 – Dubai
+
+https://aibc.world/events/uae/general-info/
+
+Crypto AM City of London Roundtable
+
+Crypto AM DeFi & Digital Inclusion Summit
+
+&
+
+Crypto AM Awards 2021 (announcement soon)
+
+Cautionary Notes
+
+It’s definitely tempting to get swept up in the excitement, but please heed these words of caution: Do your own research, only invest what you can afford, and make good decisions. The indicators contained in this article will hopefully help in this. Remember though, the content of this article is for information purposes only and is not investment advice or any form of recommendation or invitation. City AM, Crypto AM and Luno always advise you to obtain your own independent financial advice before investing or trading in cryptocurrency.
+
+All information is correct as of 08:30am GMT.

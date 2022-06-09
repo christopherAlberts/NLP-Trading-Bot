@@ -1,0 +1,45 @@
+What is the difference between Bitcoin and Bitcoin Cash? Well, if you're talking about the price itself, the difference is almost $50,000 currently. But each cryptocurrency has a different history. Here's a look at both of these digital currencies and the main differences between them.
+
+Bitcoin Cash
+
+In the stock market, companies sometimes spin off parts of their business into distinct, stand-alone enterprises. When that happens, shareholders typically get a piece of the new company or some monetary remuneration. For example, in 2013, when Pfizer (ticker: PFE) spun off its animal health division Zoetis (ZTS), Pfizer shareholders were allowed to convert $100 in Pfizer shares to $107.52 in Zoetis stock.
+
+In cryptocurrencies, instead of spinoffs, there are "forks." Bitcoin Cash (BCH), also referred to as Bcash, was created in August 2017 when it forked off from Bitcoin (BTC), and anyone who owned a bitcoin received an equal number of Bitcoin Cash.
+
+"Bitcoin Cash is a cryptocurrency that started as a fork, or copy, of Bitcoin," says Jamison Sites, senior manager and financial services senior analyst at RSM, an audit, tax and consulting company serving middle-market businesses. "In 2017, groups of Bitcoin developers put forward competing changes for improvements to the bitcoin protocol. The network operators were split on which protocol to adopt. Because there was no agreement on which proposal to support, Bitcoin split into two," Sites says.
+
+The spinoff was due to a philosophical difference within the Bitcoin community; some developers saw Bitcoin as more a store of value while others wanted to encourage its use as a medium of exchange.
+
+Bitcoin Cash was created for the latter camp.
+
+"Bitcoin Cash is a hard fork of Bitcoin caused by the desire to increase the block size, thereby allowing more transactions to process at a time," says Sean van der Wal, managing partner at Drawing Capital Group. The number of transactions per second was growing, so Bcash was supposed to allow the cryptocurrency to grow more seamlessly and scale up as a currency.
+
+Bitcoin Cash debuted with an initial value of around $240. At the time, Bitcoin was trading for around $2,700. Anyone who owned bitcoin before the fork now had the rights to an equal number of Bcash, which they were free to transact as they pleased. Anyone who bought bitcoin after the fork had no rights to bitcoin cash.
+
+Bitcoin
+
+The origins of Bitcoin are far more mysterious. The concept was first outlined in a now-famous 2008 white paper entitled "Bitcoin: A Peer-to-Peer Electronic Cash System," written by a person or persons called Satoshi Nakamoto. The identity of Satoshi is still not known. The first bitcoin transactions occurred in early 2009.
+
+"Bitcoin is a digital asset or digital currency of sorts not owned or controlled by anyone. It's part of a distributed system run by anyone who operates nodes all over the world," says Brock Pierce, chairman of The Bitcoin Foundation and a longtime evangelist of Bitcoin.
+
+The breakthrough idea of Bitcoin was the creation of a decentralized digital currency that would entirely disintermediate financial institutions. It eliminated the need for a trusted third party to verify transactions and mediate disputes, instead of spreading the job of verifying transactions across the network, where many different parties could use their computing power to verify that bitcoins were sent from one digital wallet to another.
+
+Another novel idea was the hard limits imposed on the total number of bitcoins that could ever exist – 21 million – as well as a well-defined system for how new bitcoin would be created. The pace of bitcoin creation halves roughly every four years. Currently, more than 18.6 million, or more than 88% of the final circulation, exist.
+
+Its scarcity is one of the strongest bullish theses for Bitcoin, especially concerning the dollar, which can be printed ad infinitum by the Federal Reserve.
+
+Since the first transactions in 2009, a lot has changed. Cryptocurrency is its own asset class now. In the early days, one bitcoin was worth almost nothing: less than a tenth of a penny. Over years of volatile ups and downs, that price has soared dramatically, recently reaching highs of more than $52,000.
+
+Key Differences Between Bitcoin and Bitcoin Cash
+
+The philosophical split among the developer community – the one that ended up creating Bitcoin Cash to begin with – was the defining difference between Bitcoin and Bitcoin Cash.
+
+"The bitcoin core developers believe that Bitcoin is more of a digital gold or a store of value, and so they weren't doing things to increase the transaction throughput. The Bitcoin Cash community believes that it should be used more as a means of exchange," Pierce says.
+
+Ironically, in the years since, the Bitcoin Cash community's conscious efforts to allow the network to scale up and facilitate more transactions haven't led to it being more widely accepted as a currency than bitcoin itself.
+
+Whatever limitations bitcoin has as a currency haven't stopped companies like PayPal (PYPL), Zynga (ZNGA) and Overstock.com (OSTK) from accepting it as a form of payment. Even Mastercard (MA) is bringing cryptocurrency to its network this year.
+
+Institutional buyers are generally more accepting of bitcoin than its bitcoin cash spinoff. Tesla's (TSLA) recent decision to diversify its balance sheet, purchasing $1.5 billion of bitcoin, is indicative of its growing acceptance in the investment community.
+
+"Bitcoin became an investment vehicle and the reserve currency of the cryptouniverse, which renders it a prime asset class for diversifying institutional portfolios." says van der Wal.

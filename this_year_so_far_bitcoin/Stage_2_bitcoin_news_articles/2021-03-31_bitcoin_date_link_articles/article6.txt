@@ -1,0 +1,41 @@
+Bitcoin (CRYPTO:BTC) has reached record highs in 2021, leaving investors with portfolio balances that may have quadrupled in value. If you hit the sell button on your Bitcoin investments this year and earned a profit, you'll have to share your success with the IRS.
+
+Selling Bitcoin is a taxable event. You are required to report your gains or losses on your tax return. Just like gains on stock investments, the additional income you receive from Bitcoin could push you into a higher tax bracket.
+
+But before you start panicking, we've put together a few items to consider when measuring the impact of your Bitcoin profits on your tax return.
+
+Bitcoin is taxed at capital gains rates
+
+For federal tax purposes, Bitcoin is seen as property instead of currency. That means that all profits will be subject to short-term or long-term capital gains taxes.
+
+Receiving capital gains is a sign of success in the cryptocurrency market -- that means you sold Bitcoin at a higher price than what you bought it for. If you held your Bitcoin for a year or less before selling it, you pay a short-term capital gains rate. These are the same tax rates that you would pay on ordinary income, climbing as high as 37%.
+
+But if you hold on to your investment beyond the one-year mark, you'll unlock lower long-term capital gains tax rates. Those rates are 0%, 15%, and 20%.
+
+Selling too soon can cost you
+
+Let's say you see the price of Bitcoin rising quickly and you sell your investment prior to reaching your year plus one day holding period. In other words, you bought Bitcoin for $12,000 and sold it at $22,000 six months later. You'll lock in profits of $10,000 that are subject to short-term capital gains tax rates.
+
+Those gains will be added to the rest of your taxable income to calculate your tax bill for the year. Below are the federal tax brackets for taxes due by April 2022, for the income you earned in 2021. Use this chart to determine if potential gains will impact your tax bracket.
+
+2021 tax brackets
+
+2021 Ordinary Income Tax Rate For Single Taxpayers For Married Couples Filing Jointly For Married Couples Filing Separately For Heads of Households 10% Up to $9,950 Up to $19,900 Up to $9,950 Up to $14,200 12% $9,951 to $40,525 $19,901 to $81,050 $9,951 to $40,525 $14,201 to $54,200 22% $40,526 to $86,375 $81,051 to $172,750 $40,526 to $86,375 $54,201 to $86,350 24% $86,376 to $164,925 $172,751 to $329,850 $86,376 to $164,925 $86,351 to $164,900 32% $164,926 to $209,425 $329,851 to $418,850 $164,926 to $209,425 $164,901 to $209,400 35% $209,426 to $523,600 $418,851 to $628,300 $209,426 to $314,150 $209,401 to $523,600 37% $523,601 or more $628,301 or more $314,151 or more $523,601 or more
+
+How tax brackets really work
+
+If your Bitcoin profits push you into a higher tax bracket, don't fret -- your tax bill might not be as high as you think.
+
+Let's say you are filing single and earned $35,000 in wages and $10,000 from short-term Bitcoin profits. For simplicity purposes, if we exclude deductions and any adjustments, your total taxable income would be $45,000 -- the 22% tax bracket. (See 2021 tax brackets chart.) But here's where the confusion comes in: Only a portion of your income will fall into that tax bracket.
+
+You pay 10% on the first $9,950 of taxable income, 12% on income between $9,951 and $40,525, and 22% on the rest. The total tax bill would be approximately $5,650 -- about 13% of your total taxable income, even though you're in the 22% bracket.
+
+Avoiding a tax hit
+
+
+
+Given the spike in Bitcoin's price over the past year, your income could easily be bumped into a higher tax bracket depending on how much you captured in profits. But rest assured that all your income will not be taxed at a higher rate.
+
+If you're seeking to lower your taxes on Bitcoin profits, you can always offset gains in your portfolio with losses accumulated from other assets. This is known as tax loss harvesting and it works wonders on your tax return.
+
+Although taxes are a touchy topic, don't let it distract you from what matters most: investing in assets that align with your risk tolerance and portfolio goals. Focus on the best investments for you and work with a professional to implement the best tax strategies.

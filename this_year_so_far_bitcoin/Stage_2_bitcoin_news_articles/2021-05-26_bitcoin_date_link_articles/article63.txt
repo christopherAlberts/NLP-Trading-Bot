@@ -1,0 +1,33 @@
+Mining Bitcoin consumes more energy annually than some countries like the Netherlands, according to the Cambridge Bitcoin Electricity Consumption Index, as computers around the world solve complex mathematical equations to unearth one of the finite digital coins.
+
+Those same computers are also running around the world to update Bitcoin’s decentralized ledger so transactions can happen as easily as two people exchanging a loonie.
+
+Lane argued that energy-intensive process is integral to public’s trust in the value of Bitcoin and other cryptocurrencies.
+
+He said the central bank wouldn’t need to build a similar kind of trust in a possible digital currency because Canadians already trust the Bank of Canada and the bills it prints.
+
+“Clearly, there’s a high degree of public trust in what we’re offering, and so when we think about a central bank digital currency, that trust is an important thing we’re bringing to the table,” Lane said on a panel hosted by the Canadian Chamber of Commerce.
+
+“That, of course, means that we wouldn’t have to rely on those environmentally, very wasteful methods of mining technologies that we’ve seen with cryptocurrencies.”
+
+Lane’s fellow panellists noted that there is a push to use more clean, renewable energy in the mining of Bitcoin.
+
+Two weeks ago, one of the most prominent investors, Elon Musk, said in a statement that his company Tesla would suspend vehicle purchases using Bitcoin out of concern for the increasing use of fossil fuels, particularly coal, for mining and transactions.
+
+On Monday, Musk tweeted that he had spoken with Bitcoin miners in North America to publish their current and planned usage of renewable energy and ask their counterparts worldwide to do the same.
+
+“You can substitute clean energy for the dirty energy, but of course, clean energy also has other uses,” Lane said. “If you use an extra gigawatt of clean energy to mine Bitcoins, that’s a gigawatt less that is being used to for some useful purpose.”
+
+And while there is a cost and impact from printing polymer bank notes, Lane said it is a fraction of the value of the bill itself being exchanged across Canada.
+
+The day those bills are no longer considered king for everyday transactions and replaced by privately backed cryptocurrencies is when the central bank expects it would have to step in with its own digital currency.
+
+But first it would need authority from Parliament to do so. Lane said the bank doesn’t yet see a need for it to offer its own digital currency.
+
+The Bank of Canada has been working on what it is calling a “digital loonie” for some time, and now looking at what attributes it should have and how it would connect with the rest of the financial system, Lane said.
+
+The central bank’s latest review of the risks to the country’s financial system included a section on cryptoassets, whose market capitalization jumped from US$200 billion at the start of 2020 to now over US$2 trillion as average investors were able to start buying exchange-traded funds holding Bitcoin and Ethereum, among other cryptocurrencies.
+
+While cryptocurrencies and funds have a small footprint in markets and daily transactions in Canada, the bank noted a risk about the potential for wide adoption of private “stablecoins,” named so because their value is less volatile.
+
+The review said their adoption could make it difficult for the Bank of Canada to keep inflation on target and act as a lender of last resort, unless they were “backed exclusively by Canadian dollars.”

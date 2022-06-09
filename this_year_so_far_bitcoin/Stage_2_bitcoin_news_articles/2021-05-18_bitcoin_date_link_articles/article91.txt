@@ -1,0 +1,31 @@
+Tether to Launch USDT Natively on Avalanche
+
+The blockchain company Tether has announced it will make available its stablecoin token as a native asset in Avalanche, a smart contract platform that has picked steam in the last year. Avalanche has a growing decentralized finance (defi) ecosystem, so this launch will most likely improve its state, providing users an official and safe way of parking and staking their assets on Avalanche.
+
+Tether to Launch on Avalanche
+
+Tether, the company behind the issuance of USDT, one of the most popular stablecoin tokens in the cryptocurrency market, has announced it is in the early stages of launching USDT on Avalanche, a smart contracts platform.
+
+While still being a young blockchain that launched last year, Avalanche has grown pretty fast. It is now a top 50 cryptocurrency, with a bustling defi environment that already moves large financial figures. Avalanche is also compatible with Solidity, so blockchain developers can easily port their apps quickly to the ETH ecosystem.
+
+Paolo Ardoino, Tether’s CTO, said they were delighted to invoke the launch of its stablecoin asset on the Avalanche chain. Ardoino stated:
+
+The launch of USDT on Avalanche will provide traders with a fast, cost-effective way to transfer USDT across different exchanges. Avalanche’s vision for a highly scalable blockchain with low transaction fees and interoperability has been endorsed by some of the brightest minds in the space.
+
+Emin Gün Sirer, director of the Avalanche Foundation, also touched on the importance this launch will have for users of the currency. Gün Sirer declared:
+
+Having USDT launch natively in Avalanche adds another core infrastructure to the rapidly expanding Defi ecosystem on the platform. It will be a welcome addition to users and developers propelling this continued growth.
+
+A Multi-Currency Approach
+
+While Tether was launched principally using the Omni protocol, a layer that piggybacks on top of the Bitcoin (BTC) blockchain, it has now changed primarily for fees and scaling-related reasons. As the cryptocurrency world evolved, and other chains started experiencing bustling activity due to the rise of defi-based platforms, Tether’s stablecoin joined this ecosystem.
+
+Tether is now present in several chains natively. A quick look at their transparency page, where they declare its full issuance, offers the whole picture of how divided Tether’s issuance is these days. USDT is now present in Omni, Ethereum. Tron, EOS, Liquid, Algorand, Bitcoin Cash, and Solana. But that’s not the whole story.
+
+Tether is also available non natively in chains like Binance Smart Chain as a pegged token, worth $3 billion at the time of writing according to Bscscan and more than 400,000 holders. Tether surely seems to be keeping up with this cross-chain trend, expanding to be more present across relevant blockchains in the future.
+
+What do you think about USDT launching on Avalanche? Tell us in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

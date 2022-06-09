@@ -1,0 +1,115 @@
+Blockstream CEO Adam Back desperately wants to be seen as Bitcoin’s all-father despite his ongoing efforts to strangle Bitcoin in its cradle.
+
+In April, Back gave a podcast interview in which the host awarded Back the title of ‘inventor of Proof of Work,’ a label that Back did nothing to disabuse. Back’s public association with proof of work is based on his development of Hashcash, an anti-spam email concept that Back mused about in 1997 but didn’t get around to publishing until 2002.
+
+Hashcash was cited in the Bitcoin white paper authored by Satoshi Nakamoto, who wrote that implementing a distributed timestamp server on a peer-to-peer basis would require a PoW system “similar to Adam Back’s Hashcash.”
+
+But PoW didn’t originate with Back. As Back himself acknowledged in his 2002 Hashcash paper, multiple individuals—Cynthia Dwork and Moni Naor, Ari Juels and John Brainard—had proposed PoW systems prior to Hashcash. Back’s Hashcash paper grudgingly claimed its author “was not aware” of these prior works before unveiling his own creation.
+
+Moreover, the PoW puzzle described in Bitcoin’s white paper more closely resembles the methodology described by researchers Tuomas Aura, Pekka Nikander, and Jussipekka Leiwo in their 2001 paper DOS-Resistant Authentication with Client Puzzles (which itself builds on Juels and Brainard).
+
+Satoshi later revealed that Back was namechecked in the white paper solely because he was the only recipient who responded to Satoshi’s pre-publication distribution of the concept. And in that response, Back blithely informed Satoshi that his Bitcoin plans wouldn’t work.
+
+Back with a vengeance
+
+This skepticism may explain why Back appears to have utterly lost interest in Bitcoin after his initial communication with Satoshi, but his interest returned in April 2013, coincidentally around the time that the value of the Bitcoin token hit an all-time high (US$220, after starting the year at just $13.40). Within days, Back made his first appearance on the Bitcointalk forum, introducing himself as “inventor of hashcash (the bitcoin mining function).”
+
+Back also began quietly updating his Hashcash websites to claim a stake in Bitcoin’s success. In 2012, Hashcash was still being described as “a denial-of-service counter measure tool,” but by 2013 Hashcash became “a proof-of-work algorithm” that is “most widely used as the bitcoin mining function.” A ‘bitcoin’ page was also added to the site, in case anyone missed the point.
+
+Critics of the Bitcoin SV protocol have long ridiculed the ‘cult of Craig,’ a reference to the attention paid to Dr. Craig Wright, BSV thought-leader and—yes, folks—the real-world identity behind Satoshi. Adam Back appears to crave similar deification, perhaps on par with the ‘made in God’s image’ status of his Biblical namesake (although the rib that Adam donated to create the first woman proved infinitely more beneficial to society than Back’s dust-collecting Hashcash concept).
+
+Enter the Blockstream
+
+In 2014, Back co-founded Blockstream, which stated its mission as “finding an architecturally sound and permissionless way to extend Bitcoin.” Co-founder Austin Hill penned an introductory blog in which he claimed that he and Back had written “Can’t be evil” on a whiteboard while crafting their ethos. (Given what was to come, we assume that whiteboard actually read “Can we achieve success by telling people the truth? Can’t. Be evil.”)
+
+Blockstream quickly unveiled its concept for ‘sidechains’ to relieve pressure by permanently blocking the stream of Bitcoin transactions at 6Mb per hour, which was good for about seven transactions per second. Blockstream envisioned different sidechains that would allow transactions large and small to occur away from the main chain through the use of proprietary tokens in lieu of Bitcoin’s then-primary token BTC.
+
+Numerous Satoshi communications that emerged following the white paper’s release stated unambiguously that 1Mb was always intended as a stopgap solution for a temporary security problem and that the size of the individual blocks would need to increase dramatically as Bitcoin’s popularity grew.
+
+In August 2015, Back claimed to be amenable to small increases, proposing an immediate doubling of blocks to 2Mb, rising to 4Mb in two years and to 8Mb in another two years, after which the impacts of these increases could be assessed.
+
+Strongly agree. My suggestion 2MB now, then 4MB in 2 years and 8MB in 4years then re-asses. (Similar to BIP 102) https://t.co/1VjeF0SRP0 — Adam Back (@adam3us) August 26, 2015
+
+Back opposed larger increases, claiming it would interfere with the average Bitcoin user’s ability to operate a network node. Back somewhat laughably argued that the reduced bandwidth caused by larger blocks would force these users to choose between operating a node and watching YouTube (with the rather comical implication that YouTube would win this conflict).
+
+But as Dr. Wright has observed, unless you’re verifying transactions and mining blocks, you’re not a node. You’re a passive observer whose Raspberry Pi connection is slowing down the network. So by all means, enjoy your cat videos, but ditch the ‘I can haz nodeburger’ crap.
+
+Back’s opposition to larger blocks also appeared more concerned with the dramatic reduction in the transaction fees paid to Bitcoin miners that would result. Fees tended to skyrocket every time Bitcoin activity rose, and Back correctly observed that “people only have an incentive to pay any transaction fees if there’s any shortage of space [in the blocks].”
+
+It’s worth noting that a Forbes writer summed up Blockstream’s business model thusly: “Blockstream plans to sell side chains to enterprises, charging a fixed monthly fee, taking transaction fees and even selling hardware.” Back later confirmed the accuracy of this quote via his Twitter account.
+
+In other words, Blockstream had a financial incentive to artificially constrain Bitcoin’s capacity to handle transactions, because otherwise there would be no need for Blockstream’s proprietary off-ramps.
+
+Blockstream’s limited vision for the Bitcoin protocol became known as Bitcoin Core, appropriately named due to its focus on steadily stripping Bitcoin of any functionality beyond a supposed ‘store of value,’ aka digital gold. Meanwhile, other voices in the Bitcoin community continued to push for larger blocks and the restoration of script functions to expand Bitcoin’s use case.
+
+So began the fabled Bitcoin Civil War—which, like the Korean War, never officially ended—with small blockers like Blockstream on one side and big blockers on the other. Both sides were playing to win, but Blockstream was fighting for its very existence, which may explain why it was willing to fight so dirty.
+
+Rotten to the Core
+
+It quickly became clear that Back’s initial enthusiasm for 8Mb blocks was simply a ruse to buy time while the Core camp maneuvered to outflank its large-block rivals. This duplicity was to become a pattern in Back’s dealings with the Bitcoin community in the years to come.
+
+In February 2016, Back and five Core developers gathered in a Hong Kong hotel with a group of Chinese miners representing a significant chunk of Bitcoin’s hash power. After a contentious discussion that stretched into the wee hours, a deal was struck in which the miners agreed they would “only run Bitcoin Core-compatible consensus systems … for the foreseeable future.”
+
+In exchange, Core agreed that the block size would be raised to 2Mb, plus whatever additional gains could be derived from incorporating Blockstream’s new Segregated Witness (SegWit) software. SegWit worked by stripping the signature data from Bitcoin transactions and replacing them with hashes of signature data, theoretically expanding the number of transactions one could stuff into a block.
+
+But within months of this deal, Blockstream reneged on the original order of changes, and a shift in the narrative indicated that there would be no block size increase and that any gains would be achieved by SegWit alone. Miners felt betrayed, leading to a second agreement in New York in May 2017 that emphatically stated the protocol would continue with both SegWit and a doubling of the current 1Mb block size.
+
+As news of this agreement spread, Back released an apparently unironic statement decrying the impropriety of “meeting in a hotel room to impose a change on Bitcoin.” Despite Blockstream/Core’s ongoing efforts to consolidate all Bitcoin decision-making in their own hands, Back suggested it was unwise for anyone to believe that “they trust themselves so it’s ok to seize central control.”
+
+Back then, the community was still relatively insular, and Blockstream/Core had forged ties with individuals like Theymos, the anonymous figure who controlled most of the main Bitcoin forums and subreddits. Theymos and others of his ilk quickly began censoring both criticism of Core and support for non-Core protocols, ensuring that Core’s was the only option visible.
+
+In the end, with its rivals silenced and the mining community desperate for a resolution, Blockstream/Core was declared the victor (at least, of this skirmish). The way was now clear for Back & Co. to grab Bitcoin’s wheel and steer all activity off the blockchain and into Blockstream’s walled gardens.
+
+Lightning in a very, very small bottle
+
+SegWit was officially launched in August 2017, a necessary precursor to the arrival of the Lightning Network, technically the product of a separate company but largely designed by Blockstream developer Rusty Russell.
+
+Lightning was intended to enable smaller Bitcoin transactions that were otherwise impractical due to the fact that someone—Anyone? Anyone? Bueller?—had artificially constrained the main blockchain, pushing fees to absurd heights. Lightning employed ‘bidirectional payment channels’ that required two parties to freeze a certain amount of BTC on the main chain before transacting off-chain with Lightning’s proxy token.
+
+For all its alleged convenience, Lightning imposed a host of new limitations, including the requirement to be online 24/7 to prevent your channel from closing prematurely and to prevent fraud. You also can’t top up your Lightning account if you spend all the Blockstream Monopoly tokens in your channel and you can’t reliably establish connections with individuals with whom you want to transact.
+
+The solution to these problems is apparently something called ‘watchtowers,’ effectively giant Lightning hubs that will remain online in perpetuity and are willing to serve as trusted third parties between unconnected individuals. So basically, a bank. And so much for decentralization.
+
+Blockstream released its own version of Lightning called ‘c-Lightning.’ (This has spawned many jokes based on the old Dick & Jane primers, as in ‘c-Lightning. c-Lightning fail. Fail, Lightning, fail!’) Blockstream’s Lightning is considered to be the most advanced of the versions currently operating, which is akin to saying the railway tracks Blockstream has laid are closer to the cliff than anyone else’s.
+
+Six years after the Lightning white paper, the actual product still doesn’t work as advertised. Adam Back fancies himself a ‘cypherpunk,’ and Lightning was intended to add an extra layer of privacy to Bitcoin transactions. In this aspect, Lightning can certainly claim success, as it’s hard to monitor transactions that never occur.
+
+Liquid pro quo
+
+In October 2018, Blockstream unveiled the Liquid Network, basically Lightning on steroids, primarily intended to facilitate high-volume transfers between cryptocurrency exchanges. In yet another middle finger to decentralization, a handful of exchanges play the role of ‘functionaries’ in the ‘strong federation’ that ensures transfers make it to their intended destinations (through Blockstream’s proprietary hardware and software).
+
+Among Liquid’s participating exchanges was Bitfinex, which was set up by the same team that established the controversial Tether stablecoin. In 2018, a widely read report alleged Tether-based purchases of BTC via Bitfinex were largely responsible for inflating the BTC token’s 2017 value bubble.
+
+In early 2019, Adam Back publicly pushed back against growing suspicion of Tether’s capacity to mint tens of billions of new coins out of thin air, begging his Twitter followers not to repeat these claims. Not long after that, Tether began trading on Liquid. And not long after that, BTC’s current value bubble got underway. Odd, that.
+
+It’s worth noting that Bitfinex was an early investor in Blockstream, although Bitfinex went unmentioned when Blockstream’s seed round investments were publicized.
+
+Who pays the piper calls the tune
+
+As for the investors Blockstream has disclosed, they include some unlikely partners for a purported cypherpunk such as Back. Among the most prominent names is an offshoot of French insurance giant AXA, which at the time of its Blockstream investment was run by Henri de Castries, then-chairman of the Bilderberg Group, the secretive group of elites that meets annually to discuss ways to safeguard global capitalism.
+
+Blockstream also received support from the Digital Currency Group (DCG), the Barry Silbert-led outfit backed by a handful of traditional financial firms, including New York Life and MasterCard. Among DCG’s other funding recipients is Lightning Labs (the face of Lightning Network), as well as multiple exchanges, including Coinbase and Kraken.
+
+DCG also owns cryptocurrency media site CoinDesk, ensuring a steady stream of positive coverage for Blockstream-related projects that is often repeated verbatim by other crypto news sites and a growing number of gullible mainstream media types.
+
+(You may not want to look into the funding sources of Blockstream’s Japanese venture firm ‘Digital Garage,’ but should you decide to, there is an interesting tangent about laundering money donated to the Core developer group at MIT by none other than Jeffrey Epstein.)
+
+Early on, the buzz around Bitcoin was that it would disrupt the financial status quo by offering an alternative to the banking giants. Instead, the old guard appears to have co-opted the revolution simply by buying off a few crypto Quislings.
+
+Under Blockstream/Core’s control, Bitcoin was stripped of all utility until it was reduced to the ‘store of value’ currently known as BTC. CoinDesk barely talks about technology anymore, just endless articles on what US dollar price BTC hit that day, where the latest ‘support’ or ‘resistance’ points lie in this fiat valuation, and the size of BTC’s market cap. Honestly, why not just go all the way and hire Jim Cramer as editor?
+
+Meanwhile, all of Bitcoin’s hijacked utility was transferred to proprietary secondary layers of the BTC blockchain controlled by Blockstsream. In this scheme, BTC is just a placeholder for transactions in Corporate Coin™. Meet the new cash, same as the old cash.
+
+Welcome to Blockmart
+
+Blockstream has recently been expanding its crypto mining operations. With Lightning and Liquid’s strategy of keeping all but infrequent summary transaction records off BTC’s main chain, Blockstream appears to be betting that other miners will soon find the activity financially unsustainable, leaving Blockstream to pick up the pieces.
+
+Blockstream appears determined to establish itself as BTC’s Walmart, a vertically-integrated custodian that will continue to publicly sing decentralization’s praises even as it consolidates ever greater power in its own hands. Adam Back wanted to be seen as Bitcoin’s progenitor. Instead, he will go down in history as one of the chief architects of its demise.
+
+Fortunately, the machinations of Back and his ilk led Dr. Wright to restore Bitcoin’s former glories in the form of Bitcoin SV, which remains true to the white paper’s original plan for a friction-free, low-cost peer-to-peer electronic cash system—one that can scale to a truly global volume—while dramatically expanding the blockchain’s data management abilities.
+
+So perhaps Back has earned some recognition after all, if only as the irritant that gets inside an oyster and causes it to form a pearl.
+
+Follow CoinGeek’s Crypto Crime Cartel series, which delves into the stream of groups—from BitMEX to Binance, Bitcoin.com, Blockstream, ShapeShift, Coinbase, Ripple and Ethereum—who have co-opted the digital asset revolution and turned the industry into a minefield for naïve (and even experienced) players in the market.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

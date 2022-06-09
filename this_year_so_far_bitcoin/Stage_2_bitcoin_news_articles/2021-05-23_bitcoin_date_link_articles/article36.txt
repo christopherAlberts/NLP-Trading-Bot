@@ -1,0 +1,53 @@
+Image source: Getty Images
+
+China dealt its second blow to Bitcoin (BTC) this week when the government announced a crackdown on Bitcoin mining and trading activities. According to CoinDesk, the statement followed a meeting hosted by Vice Premier Liu He, and is one of the most high-profile warnings against cryptocurrencies in recent years.
+
+Earlier in the week, Chinese authorities cracked down on the crypto industry as a whole, banning financial institutions from offering any form of crypto service. Bitcoin mining was not mentioned, but this news shows it is still on the government's radar.
+
+What is Bitcoin mining?
+
+Bitcoin mining is the way new coins are created and recent transactions are verified. Mining is crucial to maintaining the integrity of the system. But it also consumes a lot of energy.
+
+Bitcoin is like a very sophisticated database made up of a chain of individual blocks. In order to create a new block, miners must solve a complex puzzle and verify the transactions in the blockchain. The computer that solves the puzzle first wins, and gains the transaction fees and a quantity of Bitcoin.
+
+But, by design, only one block can be mined every 10 minutes. So that the rate stays steady, the more computer power that's being expended to solve the puzzle, the harder the puzzle becomes. That's why you see images of huge banks of computers all attempting to be the first to solve the puzzle. This built-in inefficiency is incredibly bad for the environment: According to research by the University of Cambridge, the most popular digital currency in the world uses about the same amount of energy as Netherlands or United Arab Emirates.
+
+Bitcoin mining in China
+
+The Cambridge researchers found that about 65% of Bitcoin mining takes place in China. The United States and Russia are second and third on the list respectively, with about 7% each.
+
+China aims to be carbon neutral by 2060, and reach its peak CO2 emissions before 2030. That's why it announced guidelines in 2019 to curb the activity of Bitcoin miners. This week's statements are a continuation of existing policy decisions.
+
+Within China, the Inner Mongolia region represents about 8% of the country's mining efforts. In late February, local authorities gave Bitcoin miners two months to shut down their operations, citing heavy pollution and environmental concerns. A few days ago, the Inner Mongolia Development and Reform Commission announced a hotline for people to report illegal Bitcoin mining farms.
+
+According to the Financial Times, Inner Mongolia faces extra pressure from Beijing to cut emissions because it's authorized more coal-fired plants than any other province in the last five years.
+
+This week's announcements are not new. China has made several moves in recent years to restrict cryptocurrency investments, including banning cryptocurrency exchanges. However, they reflect an even stricter stance. Some observers believe this is because China plans to launch its own centralized digital yuan, which is currently in a pilot phase.
+
+What does it mean for investors?
+
+Bitcoin has tumbled about 11% in the past 24 hours at the time of this writing, and the global crypto market lost 13% of its value, according to data from CoinMarketCap.
+
+In terms of mining, it's worth remembering that -- unlike coal or gold -- halving the number of miners would not half the production of Bitcoin. If a large proportion of Bitcoin miners shut down, the puzzle would become easier to solve, and we'd still get a new block every 10 minutes.
+
+But that's unlikely. A more likely scenario? Some mining will continue in China, but some operations will move to other countries. The U.S. may benefit, along with countries like Iceland, Georgia, Canada, and Estonia.
+
+China's move could also prompt increased regulation worldwide. It's widely expected that the U.S. will announce additional crypto regulation at some point this year. And India and Turkey have tightened up on crypto in recent weeks.
+
+This week has been a harsh reminder that cryptocurrency prices can swing wildly up and down. That's why it's important to only invest money you can afford to lose, and to invest for the long term. Investing for the long term means researching assets you believe will perform well in the next five to 10 years or more, and holding them through the dips. That way, you don't have to lose sleep over something said by a government official on the other side of the world.
+
+Buy and sell cryptocurrencies on an expert picked exchange
+
+There are hundreds of platforms around the world that are waiting to give you access to thousands of cryptocurrencies. And to find the one that's right for you, you'll need to decide what features that matter most to you.
+
+
+
+To help you get started, our independent experts have sifted through the options to bring you some of our best cryptocurrency exchanges for 2021. Check out the list here and get started on your crypto journey, today.
+
+Read our free review
+
+Emma Newbery owns Bitcoin.
+
+We’re firm believers in the Golden Rule, which is why editorial opinions are ours alone and have not been previously reviewed, approved, or endorsed by included advertisers. The Ascent does not cover all offers on the market. Editorial content from The Ascent is separate from The Motley Fool editorial content and is created by a different analyst team.The Motley Fool owns shares of and recommends Bitcoin. The Motley Fool has a disclosure policy.
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.

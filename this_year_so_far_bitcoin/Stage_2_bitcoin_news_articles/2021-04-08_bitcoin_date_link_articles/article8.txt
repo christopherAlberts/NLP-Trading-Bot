@@ -1,0 +1,93 @@
+Concerns about the impact of proof-of-work (PoW) and bitcoin (BTC) mining on the environment are growing. As interest in cryptocurrencies expands, there is an increase in energy consumption.
+
+The energy consumption of the Bitcoin network made waves at the end of 2017. Even mainstream news outlets were reporting that it uses more electricity than the entire country of Ireland.
+
+At the time, the network consumed an estimated consume over 30 terawatt-hours (TWh) a year. This is less than its current consumption of 95.45 TWh, according to Digiconomist.
+
+The index explains that the yearly impact of bitcoin is 45.34 metric tons (mt) of CO2. This is comparable to Hong Kong. The coin’s 10.97 kt of e-waste is similar to that of Luxembourg.
+
+However, a 2020 study speculates that they may be underestimated. Rather, the researchers estimate bitcoin energy consumption accounts for “close to half of the current global data center electricity use.”
+
+In China, researchers found that mining could even threaten carbon emission reduction targets.
+
+The environmental impact of mining hardware
+
+In addition to the consumption of electricity, mining hardware is a contributor to the global e-waste problem.
+
+Bitcoin mining began using simple GPU and CPUs. As the need for power grew, producers began creating unique chips.
+
+Now, bulk mining uses Application-Specific Integrated Circuits (ASICs). They are specifically for mining cryptocurrencies on the PoW algorithm.
+
+Cryptocurrency mining is a highly competitive space. Only the most efficient machines operate at a profit. Mining ASICs are being constantly improved. As a result, each new generation introduced to the market means older machines become unprofitable.
+
+The set number of coins and blocks motivates this constant improvement. As more efficient machines join the blockchain the total hashrate of the blockchain also increases.
+
+The quantity of bitcoins that any given miner obtains is largely dependent on the portion of the hashrate generated. This makes older machines generate less profit while still consuming the same amount of power.
+
+Story continues
+
+As a consequence, bitcoin miners buy an incredible quantity of computing devices. Which they cannot repurpose after they lose their edge.
+
+Renewable energy usage in mining
+
+As explained, crypto mining consumes a lot of energy. This is because bitcoin mining computers need electricity to run.
+
+While this could have been a handful of miners at one point, the mining industry has grown with warehouses filled with machines constantly working.
+
+As a result, if this system ran solely on electricity fuelled by fossil fuels it would be clear that it is detrimental to our diminishing resources.
+
+However, exactly how much mining uses old-school electricity sources or renewable energy is up for debate.
+
+A 2019 mining whitepaper by crypto research firm CoinShares found that 74.1% of bitcoin mining is powered by renewable energy. This is their conservative estimate.
+
+This is forward-thinking energy consumption is reflected in some mining operations. BitRiver, a colocation service for Bitcoin mining in Russia and the CIS countries, confirms that its plant only uses renewable energy.
+
+“We use only renewable energy for our entire operation, which is currently utilizing over 70MW of power to mine crypto. As the demand from new and existing customers continues to increase, we are expanding our facility to utilize more of the total capacity of 100MW that our site has,” Bitriver COO, Dmitrii Ushakov tells BeinCrypto.
+
+Small solutions for big problems
+
+In addition to using renewable energy, some firms are attempting to lower the environmental cost of their operations.
+
+Ushakov explains that his firm tries to help customers redistribute their hardware rather than throw it out. They help them sell the rigs on the resale. Often those interested are miners who have access to cheaper electricity so they can still run a profit.
+
+“At the moment there is huge equipment demand from mining farms who get electricity at a very low rate. Depending on your electricity cost, which for some areas might be close to free, operating older second-hand mining machines is advantageous cost-wise. And after that, the equipment can be recycled like any other computer parts. Fans are reusable, and the housing could be repurposed,” a representative from blockchain hardware and software firm Bitmain explains.
+
+However, this resale and recycle stance only postpones creating a great quantity of e-waste, rather than providing an actual solution to the problem.
+
+Redistributing waste by-products
+
+Another way bitcoin miners are trying to offset their energy consumption is by using wasteful by-products. Partnering with other industries to use these resources to run their mining operations.
+
+Bitcoin mining produces a lot of heat. According to the representative from Bitmain, the company uses this heat to keep rooms in their buildings normal in colder regions.
+
+In another example, other miners are partnering with energy companies to utilize by-products to run their operations. In 2020, Crusoe Energy Solutions entered a deal with energy company Equinor to use the excess natural gas from its North Dakota oil field to mine bitcoin.
+
+This gives Equinor an incentive not to simply flare the gas, which is harmful for the environment, and channel it into useful production.
+
+But, are renewables enough?
+
+While the answer to bitcoin’s energy problem seems like renewable energy, some believe it may not be enough.
+
+A PwC blockchain specialist, Alex de Vries, outlines in his 2019 report on bitcoin’s sustainability that even apparently “green” mining operations still contribute to environmental harm.
+
+He explains that often renewable resources, such as hydropower, are seasonal and so cannot produce the year-round energy required by miners.
+
+“Unlike the power demand of Bitcoin mining machines, which is consistent all year long, the production of hydropower is subject to seasonality. As a result, seasonal variability in hydropower is already higher than 30% and expected to increase further because of climate change,” he says in the report.
+
+As a result, the need to mitigate these issues and continue mining sees a continued reliance on non-renewable coal and nuclear power.
+
+Is mining worth it? It’s a question of balance
+
+It is hard to determine the extent of the damage crypto mining has on the environment. However, this doesn’t mean it shouldn’t be a concern of the crypto community.
+
+Many consider bitcoin to be the key to a future that safeguards rights to freedom of speech, financial freedom and a democratized technology.
+
+While it is a contributing to energy consumption, it is often called out among multiple industries that contribute the same or even more.
+
+Gerry McGovern speaks about the masses of data currently consuming energy through wasteful storage in his 2020 book, World Wide Waste.
+
+Giving examples of how many trees we would need to plant to offset data transactions. According to McGovern, statistics show that it would take 1.6 billion trees to offset the pollution caused by email spam.
+
+In addition, 16 million trees to offset the pollution caused by the estimated 1.9 trillion yearly searches on Google.
+
+Environmental impact is not just a bitcoin thing, it is a technology thing. The way we are building our technological future is unsustainable and all industries involved need to start addressing it.

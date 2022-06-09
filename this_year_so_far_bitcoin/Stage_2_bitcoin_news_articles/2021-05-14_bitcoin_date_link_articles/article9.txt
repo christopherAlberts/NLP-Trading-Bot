@@ -1,0 +1,45 @@
+Bitcoin (CRYPTO: BTC) recently saw a major downwards price movement after Tesla Inc. (NASDAQ: TSLA) announced it wouldn't be accepting the cryptocurrency as means of payment over environmental concerns.
+
+What Happened: According to a recent Business Insider report, there are seven metrics that traders and investors should check after Bitcoin plunged as much as 17%, to below $50,000 from a high near $58,0-00.
+
+The first one of those metrics is the aggregated open interest on Bitcoin futures, which fell from a high of $20.39 billion on May 12 to $18.79 billion on the next day.
+
+Business Insider points out that traders of this kind of derivative can often leverage their position up to 125 times and that consequently, "the market moving only slightly can trigger liquidations on those positions."
+
+According to a market analyst, in the previous 24 hours, "332 796 traders were liquidated, with a total of $3,640 million in liquidations. $2,210 million of which within one hour before the tweet was published."
+
+John Wu, the president of a crypto firm Ava Labs and CoinShares CEO Jean-Marie Mognetti CEO commented on the open interest metric by explaining that it can inform on future movement in the spot markets.
+
+In other words, the higher the open interest, the more one can expect the positions to be leveraged, and the more easily the price could crash due to liquidations.
+
+Mognetti also pointed to Bitcoin options data, "You can also look at option implied versus realized to understand the Bitcoin price drop."
+
+Crypto hedge fund Alameda Research trader Sam Trabucco recommended checking historical futures premia, historical futures open interest, and spot-price data.
+
+He explained that when open interest is skyrocketing and premia are high for a while, it becomes critical to starting watching price data.
+
+"When the price data dips down from a local maximum, for instance, all these combinations combine for an environment where liquidations are really likely to drive prices down even more," Trabucco noted.
+
+Story continues
+
+CoinShares' Mognetti also suggested checking the market depth for the BTC/USD trading pair.
+
+He pointed out that the chart clearly shows "a rapid decimation of market depth on spot BTC-USD order books aggregated across 6 exchanges."
+
+Ava Labs' Wu also highlighted the importance of anecdotal insights and news, providing an example about the mid-April crash:
+
+"For example, since the drop, I have had a lot of friends from traditional finance ask me if this is the dip they were waiting for to get involved. [...] I am not sure if this is scientific, but based on my conversations with traditional finance people, this will invite new players into crypto and continue the trend of more players in the space of crypto."
+
+Mognetti also recommended checking the divergence of the prices of the spot markets, pointing out that at the time of the mid-April crash, "the divergence in spot prices between Coinbase and Binance reached nearly 3% at one point."
+
+He explained that this is significant because it shows that "most of the sell-off was coming from the Asia market, not the US or Europe" and said:
+
+"Futures traded at significant discounts to spot, with the annualized rolling 3-month basis on Binance falling to -37% according to data provider Skew."
+
+The last metric, also recommended by Mognetti, is total liquidations.
+
+This data shows that on May 12, $3.46 billion of longs were liquidated in the cryptocurrency market, the highest number reported since April 17.
+
+See more from Benzinga
+
+© 2021 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.

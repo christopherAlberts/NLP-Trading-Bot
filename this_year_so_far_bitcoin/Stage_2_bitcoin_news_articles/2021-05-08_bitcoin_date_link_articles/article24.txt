@@ -1,0 +1,151 @@
+Coming every Saturday, Hodler’s Digest will help you track every single important news story that happened this week. The best (and worst) quotes, adoption and regulation highlights, leading coins, predictions and much more — a week on Cointelegraph in one link.
+
+Top Stories This Week
+
+We’re well and truly in the throes of “altseason” now, with Bitcoin’s dominance showing no signs of diminishing.
+
+Ether delivered a stunning surge that took its price above $3,000 for the very first time, breaking new records throughout the week. On Saturday, ETH remained in uncharted territory after racing to highs of $3,800.
+
+Among those celebrating ETH’s spike will be Ethereum co-founder Vitalik Buterin, who has officially become a crypto billionaire. Excitement is continuing to build ahead of a long-awaited upgrade that will overhaul the network’s gas fee structure in July.
+
+ETH is in good company, too. EOS rallied by more than 100% this week following a recent protocol that increases the project’s inflation rate. Litecoin has hit a one-year high against Bitcoin, with many analysts predicting extended upside momentum. And Bitcoin Cash jumped 68% amid rumors that a looming hard fork could boost the network’s user base.
+
+Even Ethereum Classic, the hard fork sparked by disagreements after a devastating 2016 hack, has pumped 130% in the past week.
+
+Of course, there’s one altcoin in particular that continues to steal the show…
+
+DOGE has seemed unstoppable in recent weeks. It hit unprecedented highs of $0.7376 early on Saturday. To put into context how bonkers the joke cryptocurrency’s surge really is, $1 invested on Jan. 1 would now be worth $139 at current prices.
+
+Mania over the financial homage to Shiba Inus everywhere may be about to reach a climax when DOGE enthusiast and mega-billionaire Elon Musk hosts Saturday Night Live. It’s inevitable that his appearance will feature endless sketches about Dogecoin, and that could pump prices even further.
+
+But not everyone is finding DOGE’s surge to be a cause for celebration. Lowstrife, a popular account on Twitter, believes the end is nigh, with the crypto trader spotting eerie similarities between DOGE’s current charts and XRP in the heady days of 2018.
+
+Back then, XRP had hit all-time highs of $3.20 that remain true to this day, but then slowly faded to lows of $0.14 — a loss of 95.6%.
+
+Warning of an impending apocalypse for DOGE, Lowstrife wrote: “Each of DOGE’s major rallies this year has been smaller and less aggressive. What took 18 hours at first has been ongoing for 2 days now. I suspect this is the final push before it’s all over for good. May 8th is the day to watch.”
+
+Even Musk himself has been cooling the hype, reminding followers that crypto investments remain speculative.
+
+A flurry of earnings results this week powerfully illustrated the impact that Bitcoin’s sensational first quarter has had.
+
+Square blew analysts’ expectations by delivering earnings of $0.41 per share between January and March — far beyond the $0.16 forecast. Revenue came in at $5.06 billion, dwarfing predictions of $3.36 billion.
+
+Bitcoin alone drove $3.5 billion in revenue, an astonishing increase of 1,000% in just 12 months. Overall, the crypto-friendly company’s gross profit also surged 79% year on year to hit $964 million.
+
+Square’s also sitting on paper profits of $250 million after making two high-profile Bitcoin purchases — one in February and one in October.
+
+PayPal has also been heralding the “great results” it has been receiving from its crypto service. The platform’s earnings and revenue also exceeded predictions in Q1.
+
+The celebratory atmosphere isn’t universal. Coinbase shares tumbled to fresh lows on Thursday as Wall Street investors continued to cycle out of high-flying tech stocks.
+
+COIN bottomed at $255.15, where it was in danger of breaching the $250 reference price set on the eve of its public listing in April. All of this comes despite the total market cap of all cryptocurrencies surging beyond $2.4 trillion.
+
+FBB Capital Partners’ director of research, Mike Bailey, told Bloomberg: “We saw a mini-bubble in SPACs, IPOs, crypto, clean-tech and hyper-growth in late 2020 and early 2021 and many of these asset classes are nursing bad hangovers.”
+
+(That said, his assertion that crypto is nursing a “bad hangover” is misplaced.)
+
+Coinbase’s woes may be linked to increasing competition among crypto exchanges, which has left retail investors spoiled for choice. There’s a danger that this could eat into the revenues it derives from transaction fees, which make up most of its income.
+
+Elon Musk’s stint on the box this weekend serves as a powerful counterweight to comedian Bill Maher, who didn’t leave crypto enthusiasts in stitches during a recent segment.
+
+On Maher’s program, he compared the industry to a virtual game — and talked about mining in a derisive tone. Maher also implied that investing in tokens was a childish endeavor, and illustrated his point with quotes from Warren Buffett.
+
+He said: “There is something inherently not credible about creating hundreds of billions in virtual wealth with nothing ever actually being accomplished and no actual product made or service rendered. […] Unfortunately, what is real is the unfathomable amount of electricity those massive supercomputers suck up for their mining.”
+
+Maher even quipped that Satoshi Nakamoto, the pseudonym used by Bitcoin’s inventor, is the Japanese term for “Monopoly money.”
+
+Anthony Pompliano shared the clip along with this caption: “Never ask a comedian for investment advice.”
+
+Binance CEO Changpeng Zhao replied, writing: “Very sad to watch. Feel really hopeless for him. Joke’s going to be on him. Time will show.”
+
+Winners and Losers
+
+At the end of the week, Bitcoin is at $58,366.32, Ether at $3,811.20 and XRP at $1.56. The total market cap is at $2,433,633,423,933.
+
+Among the biggest 100 cryptocurrencies, the top three altcoin gainers of the week are Shiba Inu, Bitcoin Diamond and Telcoin. The top three altcoin losers of the week are Harmony, Huobi Token and Filecoin.
+
+For more info on crypto prices, make sure to read Cointelegraph’s market analysis.
+
+Most Memorable Quotations
+
+“Looks like Uniswap v3 is more gas expensive than v2, roughly as expected.”
+
+Haseeb Qureshi, Dragonfly Capital managing partner
+
+“With cryptocurrencies already creating incredible worldwide wealth, it’s real estate that will sustain that wealth and provide buyers with a legacy.”
+
+Alex Sapir, Sapir Corp chairman
+
+“We saw a mini-bubble in SPACs, IPOs, crypto, clean-tech and hyper-growth in late 2020 and early 2021 and many of these asset classes are nursing bad hangovers.”
+
+Mike Bailey, FBB Capital Partners director of research
+
+“It definitely can go much higher, I think we can see the price go to $10,000, where a lot of ETH bull price targets begin to kick in and people take profits.”
+
+Nikhil Shamapant, retail investor
+
+“We’ve committed to having no HQ, and it’s important to show our decentralized workforce that no one location is [more] important than the other.”
+
+Coinbase
+
+“Each of DOGE’s major rallies this year has been smaller and less aggressive. What took 18 hours at first has been ongoing for 2 days now. I suspect this is the final push before it’s all over for good. May 8th is the day to watch.”
+
+Lowstrife
+
+“DeFi may lead to a paradigm shift in the financial industry and potentially contribute toward a more robust, open, and transparent financial infrastructure.”
+
+Federal Reserve of St. Louis
+
+“Volatility is everywhere […] It is not unique to crypto.”
+
+Changpeng Zhao, Binance CEO
+
+“Of course I hate the Bitcoin success, and I don’t welcome a currency that’s so useful to kidnappers and extortionists and so forth.”
+
+Charlie Munger, billionaire investor
+
+“There is something inherently not credible about creating hundreds of billions in virtual wealth with nothing ever actually being accomplished and no actual product made or service rendered.”
+
+Bill Maher, comedian
+
+Prediction of the Week
+
+Ether’s booming price has prompted feverish talk about a long-fabled “flippening” where ETH overtakes BTC as the world’s largest cryptocurrency.
+
+Although that’s fanciful right now, there are a number of bullish predictions when it comes to where Ether’s price is headed next.
+
+One of them comes from Nikhil Shamapant, a retail investor who recently published a research report where he argued ETH could be worth $150,000 by 2023.
+
+He told Cointelegraph: “It definitely can go much higher. I think we can see the price go to $10,000, where a lot of ETH bull price targets begin to kick in and people take profits. I think we’ll head up to that $10,000-to-$25,000 range, hit a lot of supply and could see some big drawdowns and consolidation at that point.”
+
+FUD of the Week
+
+Data suggests that Uniswap v3 had a successful first 24 hours — processing more than twice the volume that v2 did in its first month.
+
+But not everyone’s been enamored with the latest iteration of the world’s most popular decentralized exchange, with some users complaining about the costs associated with using it.
+
+One person wrote on Twitter: “Even more expensive to make mistakes now. Tried to migrate my UNI/ETH liquidity to V3, failed and paid 108.09 usd worth of gas.”
+
+Dragonfly Capital’s managing partner, Haseeb Qureshi, also wasn’t impressed. On Twitter, he wrote: “Looks like Uniswap v3 is more gas expensive than v2, roughly as expected. […] Specifically, it’s about 28% more expensive for single-hop transactions it looks like. For larger transactions that cross multiple ticks/buckets, the gas costs should be slightly larger.”
+
+A Democrat senator in New York, Kevin S. Parker, is proposing a three-year ban on crypto mining.
+
+Data centers would only be allowed to operate if they pass an environmental impact review, amid concerns that BTC mining could cause the state to miss ambitious targets designed to tackle climate change.
+
+New York Senate Bill 6486 said: “A single cryptocurrency transaction uses the same amount of energy that an average American household uses in one month, with an estimated level of global energy usage equivalent to that of the country of Sweden.”
+
+The bill is yet to receive widespread backing from other senators. However, the Democrats do control the lower house and senate.
+
+A United States-based business development specialist has claimed that a company that paid them for contract work using cryptocurrency now wants them to return the tokens following a significant rally in the asset’s price.
+
+The unnamed employee, known only as “Crypto Confused,” wrote to MarketWatch and said: “I am not really sure what to do. I have worked with this person for many years, and he has a tendency to try to change the terms of payment after agreeing on a certain way of operating.”
+
+Columnist Quentin Fottrell replied: “If the value of the cryptocurrency had fallen by 100% since August 2020, would he want to pay you in dollars? If it suddenly dipped by that amount today, would he follow up with his employees?”
+
+Best Cointelegraph Features
+
+As experts pinpoint various groups as Dogecoin’s vanguard, the coin’s potential base seems to be a wide coalition.
+
+After bashing Bitcoin back in 2017, JPMorgan CEO Jamie Dimon seems to have softened his stance on crypto, and so has the firm itself.
+
+Declaring BTC a store of value — gold 2.0 — but not a medium of exchange, defies logic. It must first have a use case.

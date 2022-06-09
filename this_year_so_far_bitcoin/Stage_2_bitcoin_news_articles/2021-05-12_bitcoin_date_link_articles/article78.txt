@@ -1,0 +1,29 @@
+Coinsilium Group (AQSE:COIN | OTCMKTS:CINGF) revealed on Tuesday that its Nifty Labs business has started development of an ‘NFT on Bitcoin’ marketplace platform.
+
+The project will bring to life an NFT marketplace platform powered by the RSK blockchain, a Bitcoin network-secured smart contract platform. This marketplace platform will let users build NFT tokens using RSK blockchain technology and enable NFTs on Bitcoin.
+
+Most NFTs are currently part of the Ethereum blockchain. Ethereum is another major cryptocurrency though with built in ‘smart contract’ functionality. The ‘non-fungible’ part of NFTs means they cannot be exchanged in the same way that fungible assets like money can be.
+
+NFTs allow something digital, like a piece of art, to become a unique collectible. Even though people can copy the art over and over, an NFT allows someone to own the original. And these originals can be extremely valuable.
+
+An excellent example is the work of digital artist Beeple. An NFT of his work recently sold for $69 million at auction house Christie’s. The sale positioned him among the three most valuable living artists.
+
+The concept is not dissimilar to the certificates of authenticity that accompany modern art pieces. Take, for example, Maurizio Cattelan’s controversial work ‘Comedian’. The work consists of a single banana duct taped to a wall. Cattelan sold Comedian’s certificate of authenticity for $120,000. This means that while anyone can stick a banana to a wall, only those with the certificate actually own Comedian.
+
+Similarly, blockchains store and track NFTs, allowing a person or organisation to prove ownership.
+
+Exciting things in store
+
+Nifty Labs, Coinsilium’s Gibraltar subsidiary, has already started work on the new non-fungible token (NFT) project through its partnership with Indorse – in which it owns a 10% equity interest. The company expects to complete this within six months.
+
+This follows the memorandum of understanding (MoU) between Nifty Labs and Indorse, announced March 2. Under this MoU, the two parties agreed to form a partnership and launch an NFT technology studio in Gibraltar.
+
+Then, on March 22, Coinsilium said it had provided an up to £250,000 initial working capital and development facility to Nifty Labs. The firm allocated a proportion of this for the NFT platform solution. While details had been confidential, the company said this new ‘NFT on Bitcoin’ marketplace platform is that same solution.
+
+The platform will initially focus on NFT use-cases like music, digital art, gaming, and sports. RSK will “prioritise the token bridge build”, allowing users to transfer and move “RSK blockchain standard NFTs to other blockchain standard NFTs” like Ethereum ERC721.
+
+Coinsilium chief executive Eddy Travia said:
+
+“Announcing the initial details for the build and development of the ‘NFT on Bitcoin’ marketplace” is a “significant moment” for the firm, as it accelerates commercial activities alongside “the rapid growth of NFTs.
+
+“The sector is fuelling a new wave of cryptocurrency adoption and we are confident that the Nifty Labs-developed NFT marketplace on RSK will demonstrate that Bitcoin, the most secure blockchain of all, will become a major part of the NFT success story,” Travia concluded.

@@ -1,0 +1,57 @@
+Is Bitcoin really usable as a currency? A lot of businesses are starting to accept it and some are figuring out ways to scale transactions.
+
+A common argument against Bitcoin is that it isn't that usable as a currency. But is this really true?
+
+Bitcoin's acceptance as a payment method has grown a lot in the last few years. There are also solutions to scale its transaction capacity, making Bitcoin more realistic as a day-to-day payment method.
+
+Don’t miss out on how smart money is playing the crypto game. Subscribe to our premium newsletter - Crypto Investor.
+
+
+
+Right now, Bitcoin can be directly spent in a growing number of locations for a variety of products and services.
+
+Who Accepts Bitcoin?
+
+Other Payment Options
+
+There are lots of different options to make use of cryptocurrency for everyday items. More and more businesses are beginning to accept Bitcoin and other cryptos, but software and third-party companies are helping to accelerate their use case. With these payment options, Bitcoin and other cryptocurrencies can pretty much be spent anywhere in the world.
+
+bitpay
+
+The crypto payments company, bitpay, allows the use of crypto at any merchant that accepts Mastercard. The company offers a debit card that can be used in tandem with their crypto wallet.
+
+Bitpay lets users instantly convert crypto into cash which then gets added to the balance of the card. The card essentially serves as a reloadable prepaid debit card that lets its customers easily use crypto to purchase items at any business that accepts Mastercard.
+
+Bakkt
+
+Bakkt is a company created by the Intercontinental Exchange that provides Bitcoin futures and options contracts for institutions. It also has a crypto wallet app for individuals.
+
+The Bakkt wallet gives its users the ability to make payments using their crypto. The Bakkt wallet also allows them to purchase gift cards with crypto that can be used at various stores.
+
+CoinPayments
+
+CoinPayments operates a global payment gateway that lets individual users buy crypto, convert it to make payments and purchase gift cards. Its wallet allows for well over 2,000 cryptocurrencies.
+
+CoinPayments also has business accounts that have similar features to that of PayPal or Square.
+
+Cryptobuyer
+
+Cryptobuyer is a company that lets businesses accept Bitcoin through its payment portal. The company also has accounts for individuals seeking crypto wallets or ways to purchase gift cards with their crypto.
+
+BTCPay
+
+BTCPay is another option that allows businesses to accept Bitcoin, but BTCPay is a bit different than the others. BTCPay is an open-source API solution to crypto payments so it gives companies the ability to set up crypto payments directly without needing personal information.
+
+Instead of going through a company, a business can simply connect the API to their e-commerce store. In the same way, an individual can integrate BTCPay into their blog, allowing them to begin accepting Bitcoin. There is no third-party company collecting data or taking fees.
+
+How is Bitcoin Scaling?
+
+While Bitcoin can be used to make purchases at plenty of places now, the time it takes a transaction to settle on the blockchain is still quite slow in comparison to things like a Visa or Mastercard transaction.
+
+Fortunately, there are people working on this problem. The most promising solution to scaling Bitcoin transaction speeds is a secondary layer called the Lighting Protocol or Lightning Network.
+
+This secondary layer allows for instant Bitcoin payments without an intermediary. It works by creating a second decentralized network atop the Bitcoin blockchain where micropayments can occur. This second layer uses Bitcoin's consensus mechanism and security to secure its transactions. This then allows for very fast and cheap transactions.
+
+This way, the lightning network can be used as retail point of sale terminals, where customers can make instant payments that will then be confirmed by Bitcoin's blockchain.
+
+With the Lightning Network, Bitcoin transactions are expected to scale to many thousands of transactions per second compared to just seven that Bitcoin can handle today. By some estimates, the Lightning Network will allow for potentially up to 1 million transactions per second or more.

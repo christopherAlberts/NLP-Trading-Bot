@@ -1,0 +1,49 @@
+Bitcoin's (BTC) 2021 performance has been impressive, but traders waiting for a record-breaking monthly candle are likely to be disappointed this week.
+
+After peaking at $64,900 on April 14, a jaw-breaking 27% correction followed, causing BTC price to drop to the $46,000 level.
+
+This downside move obliterated more than $9 billion long BTC futures contracts in a swift action that was previously unthinkable to most investors.
+
+Even though the Bitcoin price recovered $5,800 over the past 48-hours, in the options markets, the bulls were not able to take the bears by surprise as both sides are virtually balanced for April 30 expiry.
+
+Bitcoin (BTC) USD price at Coinbase. Source: TradingView
+
+The total Bitcoin futures open interest just three months earlier was $11 billion, although this record-high took place on April 13 at $27.7 billion. Nevertheless, this shows how meaningful the recent price correction impact was.
+
+Meanwhile, options markets operate on a different basis as the contract buyer pays the premium upfront. Therefore, there is no forceful liquidation risk for the holder. While the call (buy) option provides its buyer upside price protection, the put option does the opposite.
+
+Therefore, those seeking neutral-to-bearish strategies will rely primarily on put options. On the other hand, call options are more commonly used for bullish traders.
+
+Although some exchanges offer weekly options contracts, the monthly ones usually draw larger volumes. April will be no different, with 72,000 BTC option contracts worth $3.9 billion at the current $54,500 price are set to expire.
+
+Aggregate BTC options open interest by expiry. Source: Bybt
+
+Take notice of how dominant April's options are as opposed to May or September. While the neutral-to-bullish call options dominate with 41% larger open interest for April 30, a more detailed analysis is needed to interpret this data.
+
+It is worth noting that not every option will trade at expiry, as some of those strikes now sound unreasonable, especially considering there are less than two days left.
+
+Ultra bullish options are now worthless
+
+To understand how these competing forces are balanced, one should compare the calls and put options size at each expiry price (strike).
+
+April 30 aggregate BTC options open interest. Source: Bybt
+
+Although these $80,000 to $120,000 call (buy) options might seem outrageous, they are typically used for 'calendar spread' strategies. As previously explained by Cointelegraph, the buyer might profit even if BTC trades well below those strikes.
+
+The ultra-bullish options are now effectively worthless because there is no benefit from gaining the right to acquire BTC for $80,000 on the April 30 expiry. The same could be said for the neutral-to-bearish put options at $48,000 and lower.
+
+Therefore, it is better to assess traders' positioning by excluding these unrealistic strikes.
+
+$54,500 presents a balanced situation
+
+The neutral-to-bullish call options up to $58,000 amount to 9,950 BTC contracts. These are equivalent to $540 million in open interest at the current Bitcoin price. Another 3,100 would enter the scene at $60,000 and higher, generating a $780 million option expiry.
+
+On the other hand, the more bearish put options down to $51,000 total 12,000 BTC contracts, currently worth $650 million in open interest.
+
+If the Bitcoin price manages to plunge below $50,000, another 3,850 put options would also be exercised. This figure represents a potential $700 million open interest for the more bearish options.
+
+At the moment, both calls and puts appear virtually balanced. Considering that a $100 million to $150 million difference is likely not enough to incentivize either side to pressure the price, thus this monthly expiry may be 'uneventful.'
+
+The futures and options expiry at Deribit, OKEx, and Bit.com takes place on April 30 at 8:00 AM UTC. The CME futures and options happen at 3:00 PM UTC.
+
+The views and opinions expressed here are solely those of the author and do not necessarily reflect the views of Cointelegraph. Every investment and trading move involves risk. You should conduct your own research when making a decision.

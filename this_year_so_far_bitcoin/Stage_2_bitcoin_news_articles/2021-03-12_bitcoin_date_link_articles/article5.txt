@@ -1,0 +1,37 @@
+Cryptocurrencies may be the way of the future. At least, that’s what many are betting on.
+
+Entrepreneurs and companies are buying, selling and investing funds in cryptocurrencies like Bitcoin. Some retailers are accepting payments in cryptocurrency already. And, most recently, Miami Mayor Francis Suarez proposed that the city begin using Bitcoin for some of its financial transactions, including for employee salaries.
+
+The popularity of cryptocurrencies is attracting a number of people – including hackers. Hackers are currently finding low-cost ways to “mine” Bitcoin and other cryptocurrency illegally by tapping into everyday people’s computers and using those machines’ resources without their consent. The result? Hackers make millions mining cryptocurrency using other people’s computers. Meanwhile, the victims often find their computers slow down and become impossible to use without realizing what’s going on.
+
+This form of hacking – called “cryptojacking” – is happening across the world at astonishing rates. Miners have not only hacked into regular folks’ computers, but they’ve also hacked into major businesses, retailers and governmental agencies to use their servers and machines. Just one example: In 2017, the wi-fi system at a Buenos Aires Starbucks was hacked into to mine cryptocurrency using customers' computers.
+
+Faraz Naseem ’18, MS ’20 is working to find a solution. Naseem works at FIU’s Cyber-Physical Systems Security Lab, part of the College of Engineering and Computing. Under the supervision of the lab’s director Selcuk Uluagac, Naseem, postdoctoral researcher Ahmet Aris, researcher and lab member Leonardo Babun ’15, MS ’19, PhD ’20 and current electrical and computer engineering master’s student Ege Tekiner, created a novel software to address the problem.
+
+The team created a first-of-its-kind software that detects cryptojacking happening in real-time with an accuracy rate of nearly 99 percent.
+
+“We are one of the first in the world to identify cryptojacking,” says Uluagac, who is also an eminent scholar-chaired associate professor in the Department of Electrical and Computer Engineering and Knight Foundation School of Computing and Information Sciences. “As Bitcoin technology becomes more prevalent, we will need these types of protections. Miami is already in the national and international news at the center of Bitcoin usage. We are becoming a hub for Bitcoin, so it’s very important that we understand the dangers that come with this and what we can do to solve these problems.”
+
+The team’s software is a breakthrough in technology, according to Uluagac. Other similar applications that are currently in the market to detect cryptojacking require so much of a computer’s central processing unit (CPU) resources, that often the computer slows down immensely and browsing web pages become impossible – not because of cryptojacking happening, but because of the application that’s meant to detect it.
+
+With the team’s software, this problem is completely eliminated.
+
+“Our application stands out from others because it is automated, light-weight, and instantaneous,” Naseem explains. “It uses less than five percent of CPU. It does not affect web browsing at all. It also detects cryptojacking within a fraction of a second. Other detection mechanisms allow the cryptojacking to go on for a while. Ours doesn’t.”
+
+The graph above shows how the CPU or computer usage varies when browsing a normal website versus when browsing a cryptojacking website.
+
+One reason the team’s software —named after Minos, the Greek mythological character who had superior judging skills in the underworld—is particular important is because cryptojacking can occur even in the most unlikely ways.
+
+“Cryptojacking is a new kind of threat,” Aris explains. “It often happens when people are just browsing a website that is corrupted. Maybe even the owner of the website does not know [a hacker] is using it to mine cryptocurrency.”
+
+This new type of threat called for a new type of detection mechanism: Converting malware files and using machine learning to identify corrupt files.
+
+“I was thinking, if we converted these cryptojacking malware files into images, we could detect it,” Naseem says. “I tested our hypothesis and saw we had incredibly high accuracy.”
+
+The team got to work right away, conducted research and collected a large data set related to cryptojacking detection. Just a few months later, the team was selected to share its findings virtually at one of the most prestigious cybersecurity conferences in the world, The Network and Distributed System Security Symposium of 2021.
+
+At the end of the day, all their work, says Babun, is designed to build safeguards for future generations. Their goal: to help create a safer cyber-environment.
+
+“We have discovered that cryptojacking is going to be a huge problem in the future,” he says. “Hackers are learning to do these things. There is a big need to detect cryptojacking, especially as cryptocurrency becomes more and more popular.”
+
+The team has applied for a patent for the software through FIU and hopes to find a company that may sponsor the product and make it available for everyday people to fight against cryptojacking.

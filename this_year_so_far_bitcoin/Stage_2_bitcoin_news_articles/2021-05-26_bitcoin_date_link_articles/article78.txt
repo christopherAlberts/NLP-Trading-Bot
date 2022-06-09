@@ -1,0 +1,19 @@
+Last week, Chinese regulators decided to crack down on the mining of Bitcoin (CRYPTO: BTC) and other cryptocurrencies partly due to environmental concerns and a surge in the illegal coal extraction.
+
+What Happened: According to Fortune, Chinese authorities pushed against crypto mining after concluding that the spike in electricity consumption caused by the activity resulted in rising demand for coal in certain parts of China and a surge in the illicit coal extraction.
+
+The rise in coal demand was reportedly so severe that it prompted some producers to restart idled mines without official approval, leading to higher safety risks and a jump in deadly accidents.
+
+According to a person with knowledge of the matter, an investigation into an accident that trapped 21 people in a coal mine last month found that the operations were resumed without official permission to help meet rising power demand from crypto server farms.
+
+There is no update on the status of the miners trapped since the incident has been reported.
+
+Xinjiang alone reportedly accounts for nearly 36% of Bitcoin's hashrate, being a good location thanks to low energy prices and low temperatures helping the operations be more energy-efficient by cutting on cooling.
+
+See also: Chinese Crypto Exchanges Continue To Suspend Services Amidst Regulatory Uncertainty
+
+Recently multiple Bitcoin mining firms were reported to halt their operations in China after the Financial Stability and Development Commission of China State Council was said to be planning to crack down on both –– Bitcoin mining and trading last week.
+
+During the meeting, the regulator purportedly called for resolutely preventing and controlling financial risks.
+
+Price Action: According to CoinMarketCap data, Bitcoin seems unfazed by the reports, with its price up by 11.31% from a 24-hour low of $36,613 to a high of $40,757, before it settled at $38,825 as of press time.

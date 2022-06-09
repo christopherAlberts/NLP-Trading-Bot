@@ -1,0 +1,69 @@
+If you want this to be a valid financial system, it has to be set in stone. There is no other way to put it. You have to have a transaction that will work now, a decade, 20 years from now. Otherwise it’s not a smart contract. It’s not a contract. Full stop.
+
+The issuer sets the rules and if the rules change, then it’s not the same system. By definition.
+
+– Craig S. Wright
+
+The two statements above are from video eight of “Theory of Bitcoin: The Bitcoin Whitepaper” but they echo sentiments that are repeated throughout the entire series, reminding viewers that the Bitcoin protocol must be set in stone for the system to have longevity.
+
+A big theme throughout video eight in particular is specialization in Bitcoin mining and how this contributes to the robustness of the system. Ryan X. Charles and Dr. Craig Wright also discuss how the use of Merkle Trees are necessary for scaling and freeing up disk space, how SPV works and the false crypto anarchy narrative. Here are my key takeaways from the discussion.
+
+Different levels of archiving
+
+There is no reason for all nodes to store every single transaction on the blockchain forever, instantaneously accessible for everyone. There will always be some nodes who want to store this level of information for one reason or another and they can be incentivized for doing this. Those using SPV wallets don’t need to store anything other than their own transactions and the block headers.
+
+“You can pay different nodes to be archive facilities and deliver as you need. There is no incentive natively to archive spent transactions past a certain time,” Dr. Wright clarifies.
+
+“We’re going to see in the future a number of different levels of archiving…it will be more diverse than what we see now,” he adds.
+
+Bitcoin mining entities can specialize
+
+All miners are not created equal. I remember Jack Liu saying in an interview that “TAAL is a miner but a miner is not TAAL” and that really stuck with me.
+
+Dr. Wright explains that at scale, miners can even contract out part of what they’re doing to another entity, for example hashers.
+
+“You could actually create block templates that are valid and go to multiple hashing facilities and say, ‘solve this,’” he says. The different entities could set up contracts with one and other and use script to say something like, “I’ll give you a transaction that is valid only if you give me a properly ordered block,” for example. All of this is very possible, according to Dr. Wright.
+
+Charles and Dr. Wright use the analogy of wineries—some wineries produce grapes, some produce the wine. Micro-wineries may do both, but all the big brands producing wine buy the grapes from external sources with the right acidity, etc., to keep the same standards.
+
+Similar to how wineries work, different entities can specialize in different things in Bitcoin mining, but they are producing blocks instead of wine, of course.
+
+Dr. Wright explains how specialization allows for more diversity in the system in terms of the different types of entities that exist. This is a benefit to the system because there will be more companies focused on individual types of transactions.
+
+Merkle Trees allow the system to scale
+
+Stated simply, a Merkle Tree is a data structure which allows nodes to be able to remove individual transactions that have been placed in a block without tampering with the block hash. The finer technical details are not what’s important here, what is important to understand is that Merkle Trees allow the Bitcoin system to scale.
+
+As stated in the BitcoinSV Academy “Introduction to Bitcoin Theory” course material, “Merkle trees allow Bitcoin blocks to grow at an unbounded rate with minimal impact on the user experience.” Nodes are able to save space because they do not need to store a full history of everything. Merkle Trees are also the reason why simplified payment verification (see below) works.
+
+“This is where it now gets really, really cool in we can radically prune. And by radically prune, I mean only keep your own transactions,” Dr. Wright says.
+
+The numbers presented in section seven of the whitepaper, “Reclaiming Disk Space,” clearly represent a reasonable amount of data, easily something any modern computer—or even a mobile phone—can handle.
+
+If you’re wondering what the numbers will look like many years down the road, Dr. Wright also brings up Moore’s Law which states the speed and capability of computers will increase every couple of years at an exponential rate while the price goes down, so there is no need to worry.
+
+What is simplified payment verification?
+
+Straight off the bat Dr. Wright and Charles point out that section eight of the whitepaper, “Simplified Payment Verification,” is a big section. Bitcoin SV Academy defines simplified payment verification (SPV) as a system that enables clients like wallets to verify that a transaction has been included in a block and therefore a payment has been made and accepted by the network.
+
+When asked by Charles to define SPV, Dr. Wright explains it in a bit of a different way:
+
+“Basically it is the user protecting his own information or having to pull it in advance of going shopping or whatever else, so you have your own inputs ready to be used and that’s it, nothing more”.
+
+He also points out that “it’s possible to verify payments without running a full node,” a capability that is at the heart of SPV. To do this, merchants are able to connect to multiple nodes and query all of them for block header information. It’s important to note sending around block headers does not require a big amount of data—sending around cat pictures requires more data, Dr. Wright jokes.
+
+“Different merchants could have different risk levels—some would want more confirmation, some would want less, depending on the size and how much they know you. If they know exactly who you are, they might care less,” he says.
+
+‘Crypto facilitates anarchy’ is a false narrative
+
+According to the whitepaper, SPV is reliable so long as honest nodes control the network and becomes vulnerable (not broken!) if the network is overpowered by an attacker.
+
+Dr. Wright explains that an attacker could only overpower the network for a limited amount of time as the honest nodes would react. “It’s a scenario that doesn’t matter if you’re being overpowered, we can actually fight back,” he says. Honest nodes could start putting in rules and even alert SPV nodes to let them know something is going on and who the bad actors are.
+
+The idea that crypto facilitates anarchy is a false narrative and as such, attacking the network has severe consequences. Court orders immediately wipe out this narrative of anarchy and all the businesses would have to comply—exchanges, miners, etc.—unless they want to lose everything.
+
+Dr. Wright emphasizes that he knows exactly how this type of scenario plays out because of his ties with Lasseters. Lasseters, a licensed online gambling site, was put out of business nearly overnight after the “Black Friday” U.S. online poker mandate in 2011 which resulted in a ripple effect of banking issues. And this was a gambling site that wanted to follow the rules.
+
+As a side note, another Black Friday ripple effect—online poker players’ funds being seized by the U.S. government—would have never happened if players were sending funds to the tables straight from and to their wallets, as opposed to the online poker sites acting as banks.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

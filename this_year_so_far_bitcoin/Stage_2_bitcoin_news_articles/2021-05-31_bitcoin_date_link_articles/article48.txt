@@ -1,0 +1,35 @@
+You can do more with SPV than you think: ‘Bitcoin Class with Satoshi’ talks databases and hash chains
+
+https://www.youtube.com/watch?v=syb3mIIbpi0 Video can’t be loaded because JavaScript is disabled: SPV and Databases (https://www.youtube.com/watch?v=syb3mIIbpi0)
+
+We’re talking SPV again on this week’s edition of “Bitcoin Class with Satoshi,” a series of technical discussions between sCrypt’s Xiaohui Liu and Bitcoin creator Dr. Craig S. Wright. And it’s not just about making payments: the two discuss logging events, database storage and functionality, content delivery, hash tables and transaction logging—without needing to store every piece of data on every node.
+
+Continuing with the theme of previous episodes, we’re discussing what information needs to be stored and accessed on-chain, and what can be done elsewhere. Think about what SPV does on a basic level: it stores the hash header and only the transactions you care about.
+
+Quotable "Nothing that's on the Internet about how these things work outside of what I've told you is right" https://t.co/y8dzvUokdY https://t.co/t9YY7c3THi — xhliu (@sinoTrinity) May 25, 2021
+
+“What I want you to think about is, if we extend it from the two of us and, what if I’m running a company database? I might have a database of all my records, and I can have different levels of encryption, external storage, hashing, all available in the equivalent of a sharded system where no one really knows what matches unless they’re part of the hierarchy of all the parts of this that get put together.”
+
+Or in other words, how to put lots of information out there, but not everyone has to have it.
+
+“Not every node has to do everything. That stupid bloody Ethereum mentality needs to go. Every node can be unique.”
+
+The two refer to CDNs (content delivery networks) and storage systems, like Alchemy and IPFS, and how they organize information. Much can be done similarly using SPV—Dr. Wright says he’s seen people begin to put HTML code in transactions, and theoretically they could include SQL and other database commands in the Script itself.
+
+Xiaohui notes that several systems like this already exist, but Dr. Wright counters that the ones that do are generally messy and are subject to data loss and hash tables that don’t point anywhere if something is removed. Bitcoin, he says, does the same thing but with availability guaranteed years into the future, and does it provably. You could even re-build some of the existing ones on Bitcoin.
+
+For example: IPFS, he says, is “an anarchist shitshow… it doesn’t work for a reason”. It’s made by people who distrust laws and distrust companies, and hence nothing works. This is also the problem with half these NFTs right now, he adds: there’s no guarantee what the token you purchased even points to (if anything). What is the component that is “real”?
+
+Corporations could build business models on top of Bitcoin this way, Dr. Wright says. You might need access to another firm’s data or code, but not want to store it—using SPV, you could keep only what you need, matching it against a hash header. You could keep different-grouped SPV groups on an external database that defines what they all mean.
+
+These concepts exist in IT already. Bitcoin/SPV is not necessarily different in functionality to what other CDN systems do, it’s just better and more secure.
+
+Using Merkle proofs, someone can validate whole chains of hashes with only a small amount of information. This validation (by processors) can be trusted and their veracity proven.
+
+“Tell me what sort of things you might be able to start building,” Dr. Wright says. He and Xiaohui discuss methods for provable strings and some of the potential use cases which, as they note, are unbounded.
+
+It’s clear that, even for experienced developers and likely even for experienced Bitcoiners, a shift in thinking will be necessary to really grasp what Bitcoin can do. Thinking outside the box of existing processes and functionalities requires creativity, and a better knowledge of Bitcoin’s capabilities. Bitcoin Class with Satoshi continues to provide a good introduction to these.
+
+To watch previous episodes of the Theory of Bitcoin and Bitcoin Class with Satoshi, check out the Theory of Bitcoin YouTube channel here and the Bitcoin Class with Satoshi YouTube channel here.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

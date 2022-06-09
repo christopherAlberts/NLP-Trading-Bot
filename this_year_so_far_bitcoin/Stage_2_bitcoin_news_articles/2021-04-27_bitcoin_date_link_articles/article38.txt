@@ -1,0 +1,115 @@
+“Money is a matter of functions four: a medium, a measure, a standard, and a store.”
+
+This chant cited by Alfred Milnes in 1919 book titled “The Economic Foundations Of Reconstruction” summarises the four basic properties of money.
+
+It’s one of the basics you learn studying economics, which is going to help us understand why decentralised digital currencies are unlikely to perform the same functions.
+
+For currency to serve its purpose, it has to be a:
+
+
+
+1. Medium of exchange
+
+2. Measure of value
+
+3. Standard of (deferred) payment
+
+4. Store of value
+
+In other words, it has to be commonly accepted for transactional purposes so you don’t have to pay for a good with another good or service; it has to accurately reflect the value of products and services; it allows for settling payments at deferred dates (i.e. debt); and it can also be used to store value from whatever you sell (i.e. saved).
+
+To serve well in at least three out of four of these functions, a currency has to possess a stable, predictable value.
+
+The Volatility Of Bitcoin
+
+It’s hard to accurately measure how much anything is worth using a medium whose own price fluctuates highly all the time.
+
+A $100,000 car would have cost 10 BTC in October, but less than two BTC today — and there’s no telling which way it’s going to go in the next few months.
+
+Bitcoin’s price history from 2016 to 2021 / Image Credit: Coingecko
+
+As you can see above, within the last five years, the price of Bitcoin went from $500 to $20,000, then down to $3,500, up to $12,000, down to $5500 and recently to over $60,000. In just a few days, its value can fluctuate by 10 or 20 per cent.
+
+With changes this fast and frequent, it creates chaos as yesterday’s prices may be irrelevant today. In a lot of ways, it’s like living in a country with hyperinflation — only that the price is rapidly changing in both directions. For the same reason, it’s hard to use digital currencies to settle deferred transactions. Most payments in business are executed on predetermined dates or within a defined future time frame.
+
+Contracts for delivery of products or services can be settled within a window of a week, month or even a quarter. Of course, as long as a currency’s value is predictable, it isn’t a big deal as it’s unlikely that it is going to change dramatically.
+
+30 days is a fairly standard timeframe for issuing payments. However, with cryptocurrencies being able to jump a few hundred per cent over a period of weeks, you can’t predict what the deferred payment you agreed to may actually be worth when the date is due. It would make conducting any business highly risky.
+
+Finally, the worst indictment against digital currencies is their demonstrable inability to store value in a safe, predictable way — for the very same reasons outlined above.
+
+If you saved your 10 BTC in October, then you’re obviously super happy now – your $100,000 in savings has transformed into $500,000. But if you save 10 BTC today and the price tanks to past levels within the next few months, you will be a few hundred grand out of pocket.
+
+You Can’t Stabilise The Value Of Bitcoins
+
+Bitcoin — like other cryptocurrencies — does anything but store value. It can be treated as an investment or, more accurately, as a speculative gamble, as there really isn’t much that the currency is backed with other than prevailing demand.
+
+Traditional currencies are currently supported by entire economies that the rest of the world is either engaging (or not) in trade with. This is additionally stabilised by central banks amassing foreign reserves and using their power to print additional currency as needed, to ensure the national currency remains stable and fulfils the four criteria.
+
+Zimbabwe currency / Image Credit: Wikipedia
+
+Whenever local authorities are unable to maintain this stability, disasters follow, typically with local money losing value to the point of becoming completely worthless, like in Venezuela or Zimbabwe.
+
+That’s why in some of the poorest and weakest countries, the preferred currency accepted more readily than local notes is often the US dollar.
+
+Since cryptocurrencies do not have any mechanisms that would stabilise their value in response to fluctuations, nor are they representing any particular market or country that the people would be willing to trade with, they lack the anchors that would keep their value in place.
+
+National currencies provide access; you need them to buy goods and services in a given country. Whether you’re a local buying a burger, a tourist visiting Disneyland, or a foreign government procuring fighter jets, you need to pay in US dollars to complete the order in America.
+
+It works the same in every other place. If you want to visit Europe you need some euros, if you’re going to China, prepare to buy some yuan, yen in Japan, ringgit in Malaysia, birr in Ethiopia and so on.
+
+However, decentralised cryptocurrencies are not really necessary for anything.
+
+You can buy the same goods and services with dollars, pounds, euros. In fact, the only things that Bitcoin and other can open the doors for you is the illicit stuff, which you wouldn’t want to be seen or in any way tracked buying, like drugs.
+
+All That Glitters Is Not Gold
+
+The volume of Bitcoin is capped by design at 21 million and the units are progressively more difficult to mine with time.
+
+Outside of the digital world, achieving price stability is done by adjusting the money supply to reflect the country’s economic growth (what is the role of central banks), but it’s impossible to do with cryptocurrencies due to their built-in limitations and lack of outside control.
+
+There is about $40 trillion worth of currencies in circulation in the world right now. In a simple example, it would mean that for BTC to replace them today, each coin would have to be priced at around $2,000,000.
+
+And since the world is growing — both economically and in terms of population — the scarcity of BTC would keep its price going up. This contributes to price deflation of all products and services which only exacerbates economic crises; since it makes people hold onto currency in anticipation of its higher future value, thus reducing economic activity leading to prolonged recessions.
+
+The gold standard / Image Credit: Metals.com
+
+It’s a bit like the gold standard, when money supply was linked to the ability of a country to back its currency with the precious metal. If the government didn’t have enough of it, it was stuck as it couldn’t expand its money supply in response to economic growth.
+
+Countries which got off the gold standard and were able to adjust their monetary policies more freely, emerged from the Great Depression of 1930s faster than those which did not. Ultimately, the entire system was unsustainable and collapsed with free-floating fiat currencies taking its place in the 1970s.
+
+At the very least, however, the gold standard had the benefit of being based on a scarce metal that held intrinsic, practical value.
+
+You can take gold or silver anywhere in the world and exchange it for money, as there’s always demand for it, but cryptocurrencies are based on nothing. If their value collapses to zero, the only thing you’re going to hold is a digital record you wouldn’t even be able to use as toilet paper.
+
+There are alternatives, of course, like Ethereum, which do not have a total maximum cap — at least theoretically. But in every case, the supply of the currency is controlled by predetermined mathematical calculations which do not respond to changing economic realities.
+
+Many people distrust the governments and central bankers, but they’re still a safer bet than a computer algorithm that steadily ploughs onward regardless of the circumstances. Keeping control in human hands means that the policies can be adjusted rapidly, in response to economic challenges.
+
+Ironically, for all the useful applications of the blockchain technology, using it for digital currencies is probably the least practical one.
+
+So much so, that even Tesla — which recently broadly paraded its embrace of Bitcoin by allowing customers to pay for their cars using the digital currency — states in its disclosures that in case of a return, the company is going to decide how to return the payment (whether in BTC or USD), and you bear all the risk. This means that they are going to return you whatever costs them less.
+
+Tesla disclosure / Image Credit: Tesla
+
+In other words, the company doesn’t really treat Bitcoin as a currency — more as a mode of payment — and is only interested in handling it in conditions favourable to its business.
+
+It’s quite possible that Elon Musk wanted to both ride and stimulate the wave lifting cryptocurrencies, so the company itself (or he personally) can make a large amount of money in the process.
+
+Bitcoin Shouldn’t Be Regarded As A Currency
+
+The market is exciting thanks to its high volatility as it allows speculators to make significant profits very quickly, but it also comes with a risk of heavy losses.
+
+Many tears have been shed by the owners of digital tokens depending on whether they bought in too late or sold too early.
+
+And for these reasons, we shouldn’t be talking about Bitcoin et al as currencies because they simply do not fulfil the basic criteria to be one.
+
+The sheer idea of digitalisation of money is excellent and perfectly rational in this day and age.
+
+Various applications of blockchain open up many possibilities outside of finance, but for it to enter widespread use, it has to be implemented in a controlled, regulated way that can be trusted by millions of ordinary people who don’t want to spend their lives tracking daily exchange rates of some imaginary digital coins.
+
+For any currency to retain a stable value, it has to be managed by state authorities, setting realistic expectations and using tools of monetary policy to achieve them.
+
+It is simply not possible in the open-source world of anti-establishment nerds. I’m sure independent digital currencies aren’t going away — they’re here to stay for both use and speculation, but the real revolution is going to happen when the governments begin to issue their own.
+
+Featured Image Credit: NPR / Kenny Malone and Alice Wilder

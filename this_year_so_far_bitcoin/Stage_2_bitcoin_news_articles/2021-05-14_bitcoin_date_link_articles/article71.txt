@@ -1,0 +1,15 @@
+Samsung Blockchain Wallet will now be able to manage and trade cryptocurrencies from third-party hardware wallets through an update on compatible Galaxy smartphones. Galaxy smartphone users will also be able keep up with latest trends in the cryptocurrency system with a dedicated newsfeed app from leading news outlets. The Blockchain Wallet already supports Bitcoin, Ethereum, and other cryptocurrencies.
+
+The update for Samsung's Blockchain Wallet was announced on its press site. The release reads, “support for hardware wallets provides Galaxy blockchain with a consistent user experience of managing crypto assets from one convenient location. In addition to the Samsung Blockchain Keystore, Galaxy smartphones can now connect to hardware wallets including the Ledger Nano S and Ledger Nano X.”
+
+Since Samsung launched the Galaxy S10, it supports Bitcoin, Ethereum, ERC tokens, Tron (TRX), and TRC tokens, as previously mentioned. It also allows Galaxy users to explore Decentralised Apps or DApps that use blockchain technology to authenticate the exchange of digital assets, aka cryptocurrency.
+
+Samsung claims that its blockchain transactions will be made secure using its defense-grade Samsung Knox security platforms. “The private keys used for cryptocurrency and DApps are encrypted and stored in an area isolated from the main operating system called the Samsung Blockchain Keystore,” the press release states. “This information is further protected by a secure processor and can only be accessed by providing the asset owner's PIN or fingerprint.”
+
+The South Korean tech giant will allow developers access to its blockchain ecosystem with the Samsung Blockchain SDK. “Developers can build DApps that generate, store, and manage blockchain accounts easily and process transactions with APIs dedicated to each ledger system,” reads the statement. “It also provides APIs allowing DApps to securely sign for transfers of virtual assets using third-party hardware wallets.” To learn more about Samsung's Blockchain Wallet and the Galaxy Blockchain ecosystem, head over to Samsung's website.
+
+Google Podcasts, Spotify,
+
+What is the best phone under Rs. 30,000 in India right now? We discussed this on Orbital , the Gadgets 360 podcast. Orbital is available on Apple Podcasts Amazon Music and wherever you get your podcasts.
+
+Affiliate links may be automatically generated - see our ethics statement for details.

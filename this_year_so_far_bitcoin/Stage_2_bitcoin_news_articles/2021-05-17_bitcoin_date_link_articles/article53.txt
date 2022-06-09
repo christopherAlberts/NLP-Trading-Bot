@@ -1,0 +1,13 @@
+Each of the top-10 bitcoin mining pools by hash rate have signaled at least one block for the Bitcoin network’s Taproot soft fork activation.
+
+After bitcoin mining pool BTC.TOP recently mined a “green” block, the top-10 bitcoin mining pools by hash rate have now all signaled at least one block for Taproot activation, according to data from Taproot.watch.
+
+BTC.TOP is the tenth-largest bitcoin mining pool by hash rate, representing 4.14 percent of the entire Bitcoin network’s hash power. Although BTC.com and Binance Pool have signaled at least one block, Taproot.watch considers the most recent block when accounting for a pool, so these pools may be presented as not signaling on Taproot.watch.
+
+At the time of writing, 77.74 percent of the Bitcoin network’s hash rate and 64.63 percent of blocks are currently signaling support for the activation of the protocol upgrade. However, there are still 1,455 blocks remaining in the current Taproot Speedy Trial signaling epoch.
+
+Speedy Trial, a variation of BIP9 versionbits described in BIP341, is a soft fork deployment method in which miners help coordinate the upgrade by signaling support in their mined blocks. The method’s signaling period is the Bitcoin difficulty adjustment window of 2,016 blocks (roughly two weeks).
+
+Taproot gets locked in as a Bitcoin protocol upgrade for November if 90% of blocks mined signal readiness during one such period between May and August.
+
+With essential improvements to the Bitcoin base layer, Taproot is highly anticipated. It will include privacy and cost benefits and pave the way for further improvements to be implemented in multi-signature wallets, the Lightning Network, and other smart contracts deployed on the Bitcoin blockchain.

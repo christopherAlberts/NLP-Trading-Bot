@@ -1,0 +1,79 @@
+Bitcoin (BTC) trading around $56,671.15 as of 20:00 UTC (4 p.m. ET). Sliding 5.30% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $54,790.33-$60,695.91 (CoinDesk 20)
+
+BTC trades between its 10-hour and 50-hour averages on the hourly chart, a sideways signal for market technicians.
+
+Bitcoin trading on Coinbase. Source: TradingView
+
+Bitcoin on Monday suffered its biggest single-day price decline in more than two weeks, after the fizzing of a retail trader-driven rally over the weekend that analysts said was notable for its lack of participation by institutional investors.
+
+At press time, bitcoin’s price was changing hands around $56,671.15 after it tumbled to $54,790.33 during Asian trading hours earlier Monday, down 11% from Saturday’s record high at $61,556.59.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+“This sell-off happened right around the start of trading hours in Asian capital markets,” John Willock, chief executive at digital asset exchange Blocktane, said. “So it is likely that traders there repositioned themselves for the start of the week, post run-up.”
+
+According to data from crypto derivatives analytics site Skew, bitcoin futures open interest on major retail platforms reached new all-time highs over the weekend. On the institution-driven CME’s bitcoin futures contract, however, open interest was lower compared with levels at the end of February, when bitcoin’s price pierced $58,000 for the first time.
+
+Aggregated bitcoin futures open interest on major retail-focused exchanges OKEx, FTX, Kraken, Binance, Deribit, Bybit, BitMEX, Bitfinex, and Huobi Source: Skew
+
+Bitcoin futures trading volume and open interest on the institution-focused CME. Source: Skew
+
+“The fresh all-time high on Saturday above $60,000, coupled with the closure of traditional markets that has recently kept bitcoin yoked, meant a hopeful chase by retail participants,” Singapore-based quant firm QCP Capital wrote in its weekly market update on March 15. Funding rates on bitcoin perpetual futures – the fees traders pay for the leverage embedded within the trading instruments – rose to 200% on an annualized basis, considered an “unsustainable” level, according to QCP.
+
+The lack of support from institutional investors in the recent rally was also apparent from the so-called Coinbase premium. The indicator, as tracked by the South Korean blockchain data-analysis firm CryptoQuant, measures the spread between Coinbase’s BTC/USD pair and Binance’s BTC/USDT pair. Over the weekend, it went negative, implying weak institutional demand.
+
+That dynamic contrasted with the apparent surge in institutional participation during a rally last month.
+
+After bitcoin broke above key psychological levels at $30,000 in January and $50,000 in February, the Coinbase premium saw huge jumps, showing a strong follow-up demand from institutions, according to Du Jun, co-founder of crypto exchange Huobi.
+
+Coinbase premium versus bitcoin's spot price since the beginning of 2021. Source: CryptoQuant
+
+Trading volume during the rally over the past few days was muted, based on data from eight major spot crypto exchanges tracked by CoinDesk. It was nothing like the surge in volume that came with last month’s price swings.
+
+Bitcoin daily trading volume on eight spot exchanges. Source: CryptoCompare
+
+Ether fails to break $2K as ether-bitcoin ratio drops
+
+Ether/bitcoin pair on Binance Source: TradingView
+
+Ether (ETH) was down on Monday, trading around $1,789.53 and sliding 4.13% in 24 hours as of 20:00 UTC (4:00 p.m. ET).
+
+The No. 2 cryptocurrency by market capitalization is still largely driven by bitcoin’s price action.
+
+The ether-to-bitcoin ratio dropped to near 0.030 since the weekend, after it rose to 0.046 in the beginning of February, the highest since August 2018.
+
+“Ether, taking cue from bitcoin, failed just under the huge $2,000 spot level,” QCP wrote in the market updates. “We expect it to largely underperform bitcoin from here.”
+
+Similar to bitcoin, ether’s spot trading volume remained flat after it spiked in late February – a low-volume price rise is usually short-lived.
+
+Ether daily spot trading volume on eight exchanges CoinDesk tracks Source: CryptoCompare
+
+On the derivatives market, ether futures contracts open interest on major exchanges – although higher to around $6.3 billion – was not nearly as high as the $7.1 billion level during ether’s last big rally to about $2,000.
+
+Aggregated ether futures open interest on major exchanges. Source: Skew
+
+Other markets
+
+Digital assets on the CoinDesk 20 are mostly in red Monday. Notable winners as of 20:00 UTC (4:00 p.m. ET):
+
+Notable losers:
+
+Equities:
+
+Asia’s Nikkei 225 closed up 0.17%.
+
+The FTSE 100 in Europe closed in the red 0.17%.
+
+The S&P 500 in the United States rose by 0.65%.
+
+Commodities:
+
+Oil was down 0.37%. Price per barrel of West Texas Intermediate crude: $65.37.
+
+Gold was in the green 0.23% and at $1730.99 as of press time.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield fell Monday, dipping to 1.609%.

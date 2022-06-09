@@ -1,0 +1,29 @@
+Even after getting clobbered in the last month, cryptocurrency prices are still flying high. Investor interest in the nascent digital currency market remains strong, and Bitcoin (CRYPTO:BTC) and Ethereum (CRYPTO:ETH) prices are up a respective 370% and 1,600% since the start of 2020.
+
+This is having a real-world impact on some businesses. NVIDIA (NASDAQ:NVDA) is a prime example. It launched new hardware designed specifically for crypto mining (the process in which digital assets are created and managed) just a few months ago, and sales are skyrocketing.
+
+The crypto industry is notoriously volatile, though, and this has created headaches for NVIDIA in the past. But this isn't the semiconductor giant's first rodeo. This time around, it has quite a bit more visibility into how the young crypto market is impacting it financially.
+
+A $400 million windfall
+
+NVIDIA announced the launch of a new chip lineup called the CMP (cryptocurrency mining processor) in Feb. 2021. CMPs are off to a hot start.
+
+NVIDIA CFO Colette Kress said on the first-quarter fiscal 2022 earnings call (NVIDIA's current fiscal year ends in Jan. 2022) that CMP sales totaled $155 million. Pretty impressive for a fresh product launch that's only been available for a couple of months, even from a semiconductor industry leader like NVIDIA.
+
+In spite of wildly volatile crypto prices (Bitcoin and Ethereum are each down about 45% from their all-time highs as of this writing), Kress said CMP sales are staying strong. The company is forecasting CMP revenue of $400 million during the fiscal second quarter, the three-month period ending in July 2021.
+
+Could crypto prices tank NVIDIA?
+
+While a new chip contributing $400 million in quarterly sales is impressive, this is still a relatively small number for NVIDIA. The company is forecasting total revenue of $6.3 billion in the current quarter, up a whopping 63% year over year. CMP would thus be only about 6% of sales.
+
+It's nevertheless a notable new contributor to growth, but it's still video game and data center GPUs that are the driving force here, not cryptocurrencies. Gaming and data center sales were 85% of the total in the fiscal first quarter.
+
+The extra detail from NVIDIA's top brass is a nice luxury, though. Back in 2018, plummeting prices for Bitcoin and other cryptocurrencies dragged NVIDIA along with them. Though designed for high-end video game graphics, many NVIDIA GPUs are available for purchase through retailers and are programmable for other uses.
+
+One such prominent use-case is crypto mining. Given the lack of visibility on who was making retail purchases, it only became apparent after Bitcoin tanked that many gaming GPUs were actually getting scooped up by crypto miners. And when Bitcoin fell in price, those miners stopped buying.
+
+CMP thus represents an important chip product. It helps ensure the company's new RTX 30 GPUs end up in the hands of actual gamers (the RTX 30s can detect Ethereum mining and cut computing power to make them less desirable to miners, encouraging the purchase of a CMP unit instead). It also helps NVIDIA get more insight on where its products are being used, which should help with forecasting future financial results.
+
+That doesn't mean RTX 30 GPUs aren't getting bought up by crypto miners at all. However, the CMP lineup should help disaggregate video game sales from other end markets.
+
+Long story short, if crypto price volatility continues and CMP demand suddenly dries up, investors have a clearer picture on how this will impact NVIDIA going forward. Though the company is deriving benefit from the digital-currency industry, this is still first and foremost a video game and data center chip business.

@@ -1,0 +1,53 @@
+Crypto investors are scratching their heads this week, as a key indicator suggests that Bitcoin is about to take center-stage once more — even as Cointelegraph Markets Pro subscribers had the opportunity to take major profits on altcoins such as Rally (RLY), Polygon (MATIC) and Ampleforth (AMPL).
+
+Since Markets Pro was launched in January, the Altseason Analysis indicator has leaned heavily toward altcoins — and indeed, the performance of an evenly-weighted basket of the Top 100 altcoins has strongly outperformed holding Bitcoin since Markets Pro began tracking these metrics on January 3.
+
+Holding Bitcoin: 74% return
+
+Holding Top 100 altcoins: 432% return
+
+Best-performing time-based VORTECS™ strategy: 1,843% return
+
+Best-performing score-based VORTECS™ strategy: 1,367% return
+
+The Altseason Analysis, developed for Markets Pro by data analytics firm The TIE, works similarly to the VORTECS™ Score, but adds two additional variables including press release data from tokens and exchange listing data.
+
+It compares current market conditions to those in the past, to assess whether the market currently looks more bullish for altcoins or bitcoin for the next 14 days.
+
+The VORTECS™ Score includes sentiment analysis, tweet and trading volume, and price action as components of the algorithm — which are then weighted according to a proprietary formula based on how similar these are to historical conditions. If there is a similarity in these factors, the score will be higher when historical precedents have most consistently led to higher prices.
+
+Although the Altseason Analysis indicator has since swung back towards altcoins and Bitcoin’s market dominance has dipped below 50%, the market may be preparing for a surge in the largest cryptocurrency as investors rotate out of large cap alts and back into BTC.
+
+However, the swing towards Bitcoin certainly hasn’t deterred crypto investors from seeking out altcoins for rapid profits.
+
+Polygon (MATIC) Analysis
+
+As seen in the chart below, on April 22, Polygon’s price was still searching for the floor between $0.30 and $0.40 when the VORTECS™ algorithm briefly detected a favorable historical pattern and assigned a V-score of 81 to the asset (first red circle).
+
+Nothing would happen for the following three days as the overall market conditions remained neutral. Finally, early on April 26, MATIC’s favorable individual disposition fused with the reversal of the wider market, producing a run from $0.35 to $0.83 (first and second red boxes).
+
+As the rally began, the VORTECS™ algorithm recorded a long stretch of ultra-high scores (up to 97), suggesting that, judging from historical precedent, the momentum was not going to expire anytime soon.
+
+Ampleforth (AMPL) Analysis
+
+This week’s top NewsQuake™ is an unusual case: The announcement of one token’s listing triggered a 33%+ increase in another token’s valuation.
+
+The announcement in question was the news of Binance listing FORTH, the governance token of the Ampleforth ecosystem, which is not yet tracked on Markets Pro. The main asset of the two-token system, AMPL, is tracked; this is the one that saw its price appreciate by one-third in the aftermath of the news.
+
+As seen in the chart below, Markets Pro subscribers received the news of the FORTH listing via a dedicated Discord channel and in-browser notifications, just before a steep price ascent.
+
+NewsQuakes™ are sourced from a real-time aggregation engine, collated from over a thousand primary sources every minute and analyzed by an AI algorithm to determine the historical significance of the news. NewsQuakes™ are trained on staking announcements, exchange listings and key partnerships, and because they are delivered without human intervention, they can often be the fastest way for market participants to learn about major events in the cryptocurrency space.
+
+Rally (RLY) Analysis
+
+Another conspicuous example of a well-timed NewsQuake™ was the price action of Rally (RLY). On April 29, its price soared on the news of the token’s listing on Bithumb — news that was delivered in a timely fashion to Markets Pro subscribers (first red circle in the chart below).
+
+It is worth noting that the same announcement also featured the Bithumb listings of OCEAN and CHZ, yet it didn’t have nearly as much impact on these assets’ prices.
+
+Listing announcements can have different effects on coins’ valuations depending on the size of the exchange and the asset’s market capitalization – another variable to be factored into NewsQuake™-driven trading strategies.
+
+Cointelegraph Markets Pro is available exclusively to subscribers on a monthly basis at $99 per month, or annually with two free months included. It carries a 14-day money-back policy, to ensure that it fits the crypto trading and investing research needs of subscribers, and members can cancel anytime.
+
+Important Disclaimer
+
+Cointelegraph is a publisher of financial information, not an investment adviser. We do not provide personalized or individualized investment advice. Cryptocurrencies are volatile investments and carry significant risk including the risk of permanent and total loss. Past performance is not indicative of future results. Figures and charts are correct at the time of writing or as otherwise specified. Live-tested strategies are not recommendations. Consult your financial advisor before making financial decisions. Full terms and conditions.

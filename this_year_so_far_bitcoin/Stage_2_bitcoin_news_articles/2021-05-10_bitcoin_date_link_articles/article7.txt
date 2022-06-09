@@ -1,0 +1,21 @@
+In this article COIN
+
+ETH=
+
+BTC.BS=-USS
+
+Bitcoin's biggest rival, ether, blew past $4,300 this week to hit a new record high, and at one point was up nearly 500% for the year. While it is easier than ever to buy a fraction of one ether using an app such as Coinbase, that is not the only way to get your hands on crypto cash. You can also mine for it.
+
+How mining works
+
+Mining serves two purposes: To create new coins and to maintain a log of all transactions of existing digital tokens. As is the case with bitcoin and other cryptocurrencies, "miners" around the globe contribute their computing power to verifying and adding all exchanges of ether to a public ledger. This public ledger is known as a blockchain. Ether's blockchain is called ethereum. Once a transaction is added to the ethereum blockchain, it can't be altered or erased, giving observers a permanent and verifiable record. In order to log exchanges of ether, miners run a computer program, which computes millions of math equations. But miners aren't doing all these math problems in a vacuum. They are competing against miners all over the planet to be the first person to verify a block of transactions. Someone wins this race roughly once every 13 seconds. And whoever wins is awarded two newly minted ether. They also get a transaction fee.
+
+Building a rig
+
+To mine ether, you'll need to build a custom mining rig. To learn how to do this, CNBC teamed up with Jordan Leigh, a full-stack software engineer and longtime miner. The main components of any mining rig include a power supply, a motherboard, an operating system to run on your motherboard, computer memory, and a GPU, or graphics processing unit. "An ethereum mining rig is just like any other computer you would build on your own; only instead of having an actual case that all the components live in, it's in an open area," explained Leigh. "You need to do this because when the GPUs are running, they get really hot, and it's important to have a lot of air circulation."
+
+Ethereum mining rig
+
+This rig, with only one graphics card, can run roughly 27 million math equations every second. That sounds like a lot, right? But on ethereum's network right now, there are 600 trillion math operations happening every second. That is why people join something called a mining pool. A pool lets a single miner combine their hashing power with thousands of other miners all over the world. "They could be in Afghanistan. They could be in Dubai. They could be in Europe or South America," said Leigh. "You're all sharing your resources together, and it doesn't matter where you're physically located." The only other thing left to do is to create a wallet. You can think of it like a digital address for crypto cash. There are dozens of options, ranging from physical hardware wallets that let you store your crypto offline, to web wallets that allow you to interact with your account via a web browser. Once you connect the rig to a power source and link it to the network, ether starts to go into your crypto wallet within minutes.
+
+Profitability of mining

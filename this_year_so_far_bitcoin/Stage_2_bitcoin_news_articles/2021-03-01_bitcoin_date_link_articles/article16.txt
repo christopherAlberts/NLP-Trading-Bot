@@ -1,0 +1,35 @@
+Defi on Bitcoin Cash Gets a Boost- Smart Money Startup General Protocols Raises $3 Million from Investors
+
+On March 1, the startup General Protocols announced the company has raised $3 million in a Series A financing round led by a number of strategic investors. General Protocols is the firm behind the Anyhedge protocol, the first decentralized finance (defi) project built on the Bitcoin Cash network.
+
+‘The Untapped Power Behind the Concept of Programmable Money’
+
+The company General Protocols has revealed on Monday the startup has completed a Series A financing round that was funded by a number of investors. News.Bitcoin.com has reported on General Protocols on a number of occasions, as the startup believes “smart contracts on programmable money are the foundation of a multi-trillion dollar shift toward non-custodial and trustless networks.”
+
+At the end of December, General Protocols alongside Detoken noncustodial exchange, launched the Anyhedge protocol into the wild.
+
+Being the first public defi protocol built on top of the Bitcoin Cash (BCH) network, Detoken and Anyhedge smart contract users are able to hedge or long their bitcoin cash and earn a funding premium while holding their keys in a noncustodial fashion.
+
+During the announcement on Monday, the first non-custodial BCH derivatives exchange revealed it does around $130,000 in Total Value Locked (TVL) daily and has around $4 million in Total Historical Value Locked (THVL).
+
+“We are proving that trustless, decentralized defi works on Bitcoin Cash and that there’s a genuine demand for it,” the company said during the funding announcement.
+
+General Protocols says that the firm has closed its first Series A funding round and secured $3 million from cryptocurrency industry execs, blockchain movers and shakers, and early bitcoin adopters. Investors who led the $3 million General Protocols’ Series A include Marc De Mesel, Roger Ver, Christopher Wu, Margus Kokk, and Mike Komaransky.
+
+The firm said that the investors are pioneers who helped build “the Bitcoin ecosystem and are now continuing to spread peer to peer electronic cash by building out the Bitcoin Cash (BCH) ecosystem.”
+
+General Protocols Believes ‘Smart Money and Decentralized Finance Are Only the Beginning’
+
+The BCH-centric defi startup says that it’s been a year since they started to build decentralized finance solutions solely focused on harnessing the Bitcoin Cash network. The team’s vision is to help solve the volatility problem that plagues crypto adoption and also benefit from low fees, and instant payments via the BCH blockchain.
+
+“The first form of that is Anyhedge, a non-custodial hedge/long protocol,” General Protocols announcement concludes. “As speculative liquidity grows, it will become easier and easier for businesses to have all the advantages of Bitcoin Cash together with stability in USD, gold, oil, or whatever asset they prefer,” the team added.
+
+In 2020, defi has exploded in popularity on the Ethereum blockchain and there’s over $38 billion TVL according to statistics from the market aggregator defipulse.com. However, during the latter half of 2020 and into 2021, a number of other blockchains like Tron, EOS, and Bitcoin Cash have introduced defi projects.
+
+Crypto supporters hope that blockchains like Ethereum will eventually scale to help alleviate pressure. Some proponents believe that alternative blockchain solutions will help congestion and high fees, which currently plagues the Ethereum network and its defi users.
+
+What do you think about the $3 million General Protocols raised from strategic crypto investors? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

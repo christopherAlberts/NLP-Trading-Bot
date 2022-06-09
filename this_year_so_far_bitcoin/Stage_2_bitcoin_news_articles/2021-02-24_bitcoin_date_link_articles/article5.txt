@@ -1,0 +1,49 @@
+Litigation law firm Ontier LLP has begun legal proceedings against Bitcoin developers for the BTC, BCH, BCH ABC, and BSV protocols after a substantial theft of Bitcoin occurred in 2020.
+
+The firm is acting on behalf of Tulip Trading Limited (TTL), a Seychelles company whose primary beneficial owner and CEO is Dr. Craig Wright.
+
+Special feature Special report: How blockchain will disrupt business (free PDF) This ebook, based on the latest ZDNet/TechRepublic special feature, looks at how blockchain is shaking up the economy and changing the way individuals and enterprises conduct business. Read More
+
+Dr. Wright claims to be the inventor of Bitcoin who set out his vision for the digital currency in his White Paper under the pseudonym Satoshi Nakamoto. In May 2016 he publicly identified himself as Satoshi Nakamoto, revealing his identity to three media organisations - the BBC, the Economist, and GQ.
+
+At the meeting with the BBC, Mr Wright digitally signed messages using cryptographic keys created during the early days of Bitcoin's development.
+
+Although several people believe he is the person who invented Bitcoin, his many detractors dispute that he is actually Nakamoto. They claim he is a fraudster claiming to be Satoshi with no evidence, and claims to own a Bitcoin address stolen from Mt Gox.
+
+Speculation, and lengthy discourse about whether Wright is Nakamoto, or not, whether he invented Bitcoin, or did not, continues to this day. Magistrate Judge Bruce Reinhart who presided over the Kleinman vs Wright case said that "during his testimony, Dr. Wright's demeanor did not impress me as someone who was telling the truth".
+
+Also: Bitcoin mining 101: How to build a cryptomining rig
+
+In February 2020, Dr. Wright's personal computer was hacked by persons unknown, and encrypted private keys to two addresses, which hold substantial quantities of Bitcoin belonging to TTL, were stolen.
+
+The theft is the subject of an on-going investigation by the Cyber Crime division of the South East England Regional Organised Crime Unit.
+
+The value of the claim as at today's market rates will be in excess of £3.65 billion. Approximately £3.59 billion is in BTC, £39.4 million is in BCH, £14.3 million is in BSV, and £1.1 million is in BCH ABC.
+
+As set out in the Letters before Action issued on Feb. 24, TTL is requesting that the developers enable TTL to regain access to and control of its Bitcoin on the grounds that they owe Bitcoin owners both "tortious and fiduciary duties" under English law as a result of the high level of "power and control" they hold over their respective blockchains.
+
+Paul Ferguson, partner at ONTIER LLP, comments:
+
+"Our client always intended Bitcoin to operate within existing laws, notwithstanding the original ethos of independence he envisaged for the digital currency. We assert there are identifiable legal obligations attributable to those who develop and control Bitcoin. As a victim of theft of some serious magnitude, Tulip Trading is seeking recovery of its access to and control of its digital assets from those in a position to remedy its loss."
+
+The fact that someone has stolen Tulip Trading's digitally-held private Bitcoin keys does not prevent developers from deploying code to enable the rightful owner to regain control of its bitcoin.
+
+"A ruling in Tulip Trading's favor will have considerable implications for others who have lost access to their Bitcoin or had coins stolen," Ferguson added.
+
+Ontier has acted in a number of high-profile international disputes including Lucasfilm Ltd vs. Ainsworth, also known as the Star Wars Stormtrooper litigation (upheld in the UK Supreme Court).
+
+The firm was also involved in the Masri litigation and a case against the Nigerian state, which resulted in a $6.6 billion arbitral award (Process and Industrial Developments vs. NNPC).
+
+The original Bitcoin was designed to work within the law and so that illegal activity could be reversed. This functionality seems to have been corrupted in the version of BTC in use today.
+
+The miners and coin issuers are not at fault here, and Dr. Wright is not saying they are in any way to blame, but they do have the ability to return the coins. A new transaction can be created to amend any previous transaction.
+
+It will certainly be interesting to see if they decide to agree with him or prevent the money from being returned to the trust's accounts.
+
+A favorable ruling would mean that thousands of others who have either lost their coins or had them stolen can follow a similar path to recover their lost Bitcoin.
+
+Whether you support Dr. Wright or not, it will be interesting to see how the case develops. There are huge amounts of money at stake here, and having the ability to recover stolen coins could completely change the way that Bitcoin is traded.
+
+Examining the nature and extent of legal duties conferred upon and owed by developers resulting from the control they exercise over their respective blockchains could have a knock-on effect for a very long time.
+
+Disclosure: I have an account on blockchain social media platform Twetch, which has earned $36 from posts made on the platform since October 2019. I use these funds to pay to post and like other posts on the posts on the platform. I have never purchased, sold, or traded any type of Bitcoin and do not have a trading account.

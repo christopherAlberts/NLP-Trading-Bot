@@ -1,0 +1,43 @@
+Some things become relevant while people are still waiting to see if they ever will, and cryptocurrencies are one of those things.
+
+For years attention to them has ebbed and flowed like that paid to a Powerball lottery: When the jackpot has been high — as measured primarily by the trading price of the most dominant such currency, Bitcoin — interest has been, too. But when Bitcoin's value has dropped — as it has several times, precipitously — then the going wisdom has been that crypto is at best a fad or a tool for those engaged in activities they'd rather hide.
+
+But virtual currencies are bubbling up into the mainstream now; it happened while most of us weren't quite looking, and it raises questions for governments and consumers alike. Consider:
+
+• Coinbase, which operates a cryptocurrency exchange platform for both retail and institutional investors, made its own shares available to the public last week. Trading opened well above the expected price.
+
+• More than two dozen publicly traded companies — most notably Tesla — are holding some amount of digital assets like Bitcoin on their balance sheets.
+
+• Last month, PayPal announced that it would start letting its U.S. customers make day-to-day transactions with Bitcoin and other such currencies.
+
+• It was already easy for retail investors to possess incremental amounts of various cryptocurrencies, through PayPal or brokerages like Robinhood, and to trade them in an attempt to profit from changes in price.
+
+• Survey results have suggested that as many as 1 in 10 recipients of the most recent government stimulus checks directed money into Bitcoin.
+
+• As recently as a few years ago, surveys found that a third of the people investing in Bitcoin knew little or nothing about it.
+
+Let's start there.
+
+• • •
+
+At the core of cryptocurrency is a promising technology called blockchain. Think of it as the kind of ledger or database anyone might use to keep track of what goes out and what comes in. Except: With blockchain, the information is not stored in a central location. Instead, it's duplicated on a multitude of computers around the world, each updated every time a transaction takes place. In theory, this adds confidence to the record-keeping and makes it hard for anyone to cook the books. It also, paradoxically, can speed the process of settling a transaction, which in the financial world can otherwise take days.
+
+Blockchain has potential applications beyond finance. In supply chains, for instance. Or health care records. Or voting.
+
+Cryptocurrencies, meanwhile, are units of exchange created and managed on computers. You can't hold them in your hand like a gold coin or a dollar bill. But that very fact — that they're aren't "fiat" money, issued by governments and managed (some would say manipulated) by central banks — is the appeal to many people. Instead, the value of a cryptocurrency derives from its relative scarcity: the computational effort involved in unlocking it and a limit to how much ever can be introduced into circulation. Meanwhile, encryption — wherein personal details are converted to code — provides privacy, though transactions are not necessarily untraceable.
+
+Not all virtual currencies are secretive. China is rolling out a digital version of its money, but it's the antithesis of cryptocurrency — it's meant to be tracked. Some people think that the U.S. should create its own (presumably less Orwellian) version, especially if the country would like to continue to enjoy the benefits of the dollar's being the world's reserve currency. At least publicly, though, there's no official haste.
+
+• • •
+
+Going forward, the advice for consumers is simple. If you try to profit by speculating on cryptocurrencies, limit yourself to an amount you can stomach losing, and expect volatility. (Example: Bitcoin's bubblicious doubling over the last few months was followed a week ago by a quick 20% drop.) If you want to make routine transactions using cryptocurrency, understand that it may just be a fancy way of turning your cash into something else and back again, and that there may be fees involved in the conversion.
+
+For the government, the rise of alternative currencies presents a familiar conundrum: to regulate or not to regulate, or something in between?
+
+U.S. Rep. Tom Emmer of Minnesota has been ahead of the issue in Congress, even accepting campaign contributions in cryptocurrency. As you'd expect from a Republican with a libertarian bent, he's in the camp of preferring not too much regulation, or too soon. He wants to ensure that entrepreneurs have room to create in the space.
+
+We credit Emmer for getting up to speed on the subject before others, and we agree with him to a point. There's room to let this phenomenon develop. Despite their traction, the ultimate role of virtual currencies remains an open question. Some countries are instituting or pondering bans. Some people still aren't persuaded that there's even a point.
+
+Still, there are questions about eventualities: How, ultimately, should trading in such currencies be taxed? Will the taxes be easy to dodge? Will typical users have privacy? Will nefarious actors find it easy to hide? Will the high energy consumption of crypto computing be brought down? Finally, can economies remain stable if the environment evolves such that central banks have less influence? (Remember that the Federal Reserve System was created after a series of financial panics, and that the Fed has managed crises since.)
+
+Here's something else to think about. A recent study in the journal Nature reported that people are more likely to consider solutions that add complexity than ones that remove it, even when removal is more efficient. So, a chicken-or-egg question: If complications are to be layered on top of a working financial system, is it the reinvention of currency or the regulation of it that lands with the first glop?

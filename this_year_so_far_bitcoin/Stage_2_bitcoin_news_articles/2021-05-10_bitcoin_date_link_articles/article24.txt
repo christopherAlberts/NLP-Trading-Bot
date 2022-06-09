@@ -1,0 +1,33 @@
+Castle Rock, CO, May 10, 2021 (GLOBE NEWSWIRE) -- Riot Blockchain, Inc. (NASDAQ: RIOT) ("Riot”, “Riot Blockchain” or the “Company"), one of the leading Nasdaq listed Bitcoin mining companies in the United States, announces its April production and operational updates, including its unaudited Bitcoin (“BTC“) production for April 2021 and its latest miner delivery status.
+
+Production and Operations Updates
+
+In April 2021, Riot produced 206 BTC, an increase of approximately 91% over its pre-halving April 2020 production of 108 BTC.
+
+Through April 2021, the Company produced a total of 697 BTC, an increase of approximately 79% over its pre-halving BTC production during the same period of 2020 of 389 BTC.
+
+As of April 30, 2021, Riot holds over 1,771 BTC, all of which were produced by its mining operations.
+
+The Company plans to continue to provide monthly operational updates and unaudited production results through the end of 2021. These updates are intended to keep shareholders informed of Riot’s mining production as it continues to deploy its expanding miner fleet.
+
+Recent Miner Deliveries
+
+As part of the August 2020 purchase orders with Bitmain, 6500 S19 Pro Antminers were shipped in early May 2021. Installation of the 6,500 miners is expected to be completed in Q2 2021, and upon full deployment of additional miners with Riot’s existing fleet, Riot will have a total of 22,946 Antminers in operation, utilizing approximately 73 megawatts (“MW”) of energy, with an estimated hash rate capacity of 2.3 exahash per second (“EH/s”).
+
+Hash Rate Growth
+
+By Q4 2022, Riot anticipates a total hash rate capacity of 7.7 EH/s, assuming full deployment of its anticipated fleet of approximately 81,146 Antminers acquired from Bitmain, 95% of which will be the latest generation S19 series model of miners. When fully deployed, the Company’s total fleet is expected to consume approximately 257.6 MW of energy with an overall hash rate efficiency of 33 joules per terahash (J/TH). This demonstrates Riot’s commitment to being a market leader by building one of the largest and most efficient Bitcoin mining fleets in the industry.
+
+Financial Update
+
+The Company announces it will be filing its March 31, 2020 Quarterly Report on Form 10-Q on May 17, 2021.
+
+About Riot Blockchain, Inc.
+
+Riot Blockchain (NASDAQ: RIOT) focuses on cryptocurrency mining of Bitcoin. The Company is expanding and upgrading its mining operations by securing the most energy efficient miners currently available. Riot is headquartered in Castle Rock, Colorado, and the Company’s mining operations are located in upstate New York, under a co-location hosting agreement with Coinmint. For more information, visit www.RiotBlockchain.com.
+
+Safe Harbor
+
+The information provided in this press release may include forward-looking statements relating to future events or the future financial performance of the Company. Because such statements are subject to risks and uncertainties, actual results may differ materially from those expressed or implied by such forward-looking statements. Words such as "anticipates," “believes,” "plans," "expects," "intends," "will," "potential," "hope" and similar expressions are intended to identify forward-looking statements. These forward-looking statements are based upon current expectations of the Company and involve assumptions that may never materialize or may prove to be incorrect. Actual results and the timing of events could differ materially from those anticipated in such forward-looking statements as a result of various risks and uncertainties. Detailed information regarding factors that may cause actual results to differ materially from the results expressed or implied by statements in this press release relating to the Company may be found in the Company's periodic filings with the U.S. Securities and Exchange Commission (the “SEC”), including the factors described in the sections entitled "Risk Factors," copies of which may be obtained from the SEC's website at www.sec.gov. The Company does not undertake any obligation to update forward-looking statements contained in this press release.
+
+Attachment

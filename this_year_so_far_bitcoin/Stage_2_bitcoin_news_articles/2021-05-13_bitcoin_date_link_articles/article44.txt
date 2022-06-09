@@ -1,0 +1,99 @@
+Last week in Know Your Options, we looked at the futures-settled options on Bitcoin available at the CME Group (CME). These have been popular with institutional investors. Unfortunately, a futures-based product is outside the experience and comfort zone of many individual investors.
+
+Previously, we’ve addressed the mechanics of trading futures and future-options, but many traders simply prefer options products that are mechanically identical to the equity options they have already traded.
+
+You may be aware that there are ETF products that have one or more commodity products as the underlying. The most relevant for our discussion of Bitcoin is probably the SPDR Gold Shares (GLD), (also known as SPDR Gold Trust) - part of the SPDR family of ETFsmanaged by State Street Global Advisors.)
+
+“The G.L.D.” - as it is often referred to in the finance industry – tracks the value of 1/10 of an once of gold bullion. Due to issues surrounding carrying costs and management fees, the prices aren’t always exactly identical, but because the trustee holds the physical gold to back the shares, they never get very far apart.
+
+There are also listed options on GLD, so investors and traders can buy and sell call and puts on an asset that closely foo the pie of the physical commodity. If you want to speculate on the price direction of gold, the GLD options are a simple way to go about it.
+
+You may be wondering whether there’s a similar product available that tracks the price of Bitcoin on which you might be able to trade options.
+
+If you’re in the United States, the answer is “no.”
+
+For the past several years, the Securities and Exchange Commission has been considering the issue of whether to allow one or more ETF managers to offer shares that replicate returns on Bitcoin. It has been reported that newly confirmed SEC Chairman Gary Gensler is carefully considering 4 Bitcoin equity products and has accepted preliminary applications for at least 6 more.
+
+With a mandate to protect the interests of investors above all else, Gensler’s words lately have not been an indication that he’s looking at the prospective products favorably. The Chairman noted significant price volatility and unknown levels of liquidity as risk factors in what would almost certainly be a very popular product.
+
+Story continues
+
+The SEC understands that that popularity is likely to lead to herd behavior in which large numbers of investors pile in and out of the shares at the same time, increasing price volatility and all but ensuring that may of them will suffer significant losses.
+
+There's also an issue of custody of the underlying coins. Because of the nature of blockchain transactions, it's not a simple task to ensure that fund managers own the appropriate amount of Bitcoin on behalf of the ETF holders.
+
+For the time being, it doesn’t appear that we’ll see a true BTC ETF – or associated options contracts.
+
+Some traders are using the shares and listed options of companies who have significant bitcoin exposure as a proxy for owning and equity share version of the coins themselves.
+
+Four of those companies are household names in the US – MicroStrategy (MSTR), Tesla (TSLA), Square (SQ) and PayPal (PYPL). One is a little-known Canadian fintech and personal finance company named Mogo (MOGO).
+
+On Thursday morning, Mogo turned in its 11th straight earnings beat as a public company.
+
+Obviously, while these stocks are sensitive to the price of Bitcoin, their overall value is made up of numerous components – many of which have nothing to do with cryptocurrency.
+
+In fact, their share price performance over the past year is a reasonable proxy for the proportion of their earnings that has been affected by the Bitcoin rally.
+
+That correlation carries over to the implied volatilities of at-the-money options in each of these names. As of Wednesday, the IVs of June options were:
+
+PYPL 39%
+
+SQ 57%
+
+TSLA 66%
+
+MSTR 85%
+
+MOGO 127%*
+
+Trading these stocks (or options) won’t give you a 1:1 performance ratio to the price of Bitcoin, but it will give you some exposure. If you have an opinion about the likely direction of stocks and cryptocurrencies, you can make a single trade that encompasses both.
+
+As always, I’d encourage you to pay attention to the implied vols. If you’re bullish on Bitcoin, then I’d take a look at selling puts on the higher vols names or buying calls on the lower vol names. If you’re bearish, I’d recommend the opposite – buying cheaper puts or selling those juicy calls.
+
+We don’t yet have a way to trade listed options on Bitcoin itself (or a near-identical proxy), but we can tailor our equity options trading to include a Bitcoin component in the p/l.
+
+-Dave
+
+David Borun runs the Zacks Marijuana Innovators Portfolio as well as the Black Box Trading Service and the Short Sell List Trading Service. Want to see more articles from this author? Scroll up to the top of this article and click the “+Follow” button to get an email each time a new article is published.
+
+Want to apply this winning option strategy and others to your trading? Then be sure to check out our Zacks Options Trader service.
+
+
+
+
+
+
+
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+
+
+
+Tesla, Inc. (TSLA) : Free Stock Analysis Report
+
+
+
+Square, Inc. (SQ) : Free Stock Analysis Report
+
+
+
+PayPal Holdings, Inc. (PYPL) : Free Stock Analysis Report
+
+
+
+MicroStrategy Incorporated (MSTR) : Free Stock Analysis Report
+
+
+
+Mogo Inc (MOGO) : Free Stock Analysis Report
+
+
+
+SPDR-GOLD TRUST (GLD): ETF Research Reports
+
+
+
+To read this article on Zacks.com click here.
+
+
+
+Zacks Investment Research

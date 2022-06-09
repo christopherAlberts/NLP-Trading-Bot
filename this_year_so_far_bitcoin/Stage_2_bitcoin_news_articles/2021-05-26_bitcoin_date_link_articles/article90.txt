@@ -1,0 +1,29 @@
+We got to catch up with the CSO and co-founder of Unchained Capital in this pre-conference interview!
+
+At Bitcoin 2021, you’ll be able to experience a variety of speakers with many different backgrounds. One amazing guest we will be privileged to host is Dhruv Bansal, co-founder and CSO at Unchained Capital, and author of the “Bitcoin Astronomy” series discussing the implications of bitcoin and blockchain technology being used in space. He will be presenting “The Bitcoin Stack,” alongside Ryan Gentry June 4, 11:15 am EST on the Stacking Sats stage.
+
+Set a reminder for Bitcoin 2021 Day 1 YouTube Live Stream →
+
+Being a personal fan of Bansal and his work, I was elated to get the opportunity to interview him via email, along with planning for an in-person interview at the conference. Below is our interview discussing his own Bitcoin journey, what he’s looking forward to in the industry, and some questions particular to his work in science.
+
+How would you describe your bitcoin journey in terms of how it changed your life?
+
+My background is statistical physics and distributed systems engineering. It was the connections between bitcoin and these areas which first drew me into the bitcoin "rabbit hole." But understanding bitcoin requires understanding so much more than physics and engineering. I've really enjoyed learning more about money, economics, finance, and politics on my bitcoin journey, as well as meeting the people who taught me these things. Bitcoin is a passion and a career for me now, a focal point of so many old and new interests.
+
+What are you most excited about for the rest of the year in bitcoin?
+
+I'm excited for all the growth we're experiencing, both at my company, Unchained Capital, and in bitcoin as a whole. As the value of their bitcoin increases, HODLers' minds turn to better custody. I believe that key ownership is a vital part of bitcoin ownership so I'm excited for the increased interest in multisig collaborative custody.
+
+Your essays on the ramifications of space exploration on bitcoin and hash rate are phenomenal - what's your experience been in terms of reaction from the traditional academic community?
+
+Not much! What I most enjoyed about writing my "Bitcoin Astronomy" series was its highly speculative nature. I'm no longer an academic and I have no scientific reputation to defend so I'm free to look foolish making such speculations. I think the traditional academic community is rightly more conservative about speculation. My sense is that many academics — certainly most physicists, astronomers, astrobiologists, and SETI researchers — are still somewhat suspicious of bitcoin and other cryptocurrencies.
+
+Do you expect an increasing amount of connections to be drawn between hard sciences and the application of bitcoin?
+
+Following on the last question, as the general public becomes more familiar with and accepting of bitcoin I believe the attention paid by the scientific community to bitcoin will also increase. Computer scientists, cryptographers, physicists, as well as practitioners from many other fields are already producing some research on bitcoin's virtual machine, architecture, network, etc. As bitcoin grows I expect an acceleration in science's learnings about bitcoin. But I'm especially excited to see what learnings scientists make about their own fields inspired by bitcoin!
+
+What are your goals for 2021, and how are you working towards them?
+
+My biggest 2021 goal is to ensure my company, Unchained Capital, continues to scale with the demand we're seeing in this bull market. We're hiring engineers, upgrading systems, automating workflows, all while building new products and services. It's a wonderful problem to have. I would also like to ship some essays and other content on scaling bitcoin through layers — the topic of the talk I'm giving at Bitcoin2021 with Ryan Gentry from Lightning Labs — as well as my own thoughts on connections between bitcoin and the hard sciences.
+
+To hear more about the conference, follow both #Bitcoin2021 and Bitcoin Magazine on Twitter and Instagram, plus join our conversation on Telegram. And be sure to subscribe to our newsletter to keep up with all the happenings at Bitcoin 2021.

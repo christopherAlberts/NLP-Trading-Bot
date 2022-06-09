@@ -1,0 +1,83 @@
+Quontic Bank’s timing was either exquisite … or disastrous. Days after the bank formally launched an innovative Bitcoin rewards checking account, the price of a single Bitcoin, which had surged 230% in 2020, plummeted in a frenzied selloff.
+
+Many observers considered the rout an “expected correction” driven in part by a wave of profit-taking at the start of the new year. But the U.K.’s Financial Conduct Authority ominously warned consumers looking to profit from cryptocurrency investments that they “should be prepared to lose all their money.”
+
+Not exactly the kind of headline that bank and credit union marketers love to read.
+
+So far, Quontic Bank is unfazed. It had been working on the Bitcoin checking project for two years, and CEO Steven Schnall was very well aware of Bitcoin’s price volatility. In fact the selloff, like big corrections in other markets, represents a buying opportunity.
+
+“I believe that this new entry price will attract a lot of buying activity and that we will begin to test the highs again in the near term,” Schnall told The Financial Brand.
+
+Quontic is a good candidate to buck conventional thinking. Converted into a for-profit Community Development Financial Institution (CDFI) from a traditional community bank in 2009, Quontic bills itself as the “Adaptive Digital Bank.” Largely forsaking branches, the bank has transformed into a digital-only institution operating nationally.
+
+With its new Bitcoin rewards checking account tiny Quontic — with non-PPP assets of about $500 million — joins the company of fintech heavyweights PayPal and Square in offering consumers a way to earn or buy Bitcoin. Square’s Cash App has become a popular way for consumers to buy, sell or use Bitcoin.
+
+As Schnall details in the interview below, he expects Bitcoin to continue to rise in value over time and become less volatile. His program is a way to let consumers get their feet wet for free, without risking their own funds, and a way also to generate new accounts and deposits for the bank.
+
+Can you describe the basic account functionality and what’s to come?
+
+Steven Schnall: As launched, consumers open the account and are issued a debit card. When they use the card they earn 1.5% on their spending. Instead of getting a cash reward, they’re awarded Bitcoin — a small fraction of one, given that a single Bitcoin can be worth tens of thousands of dollars. They’ll see their Bitcoin on their monthly statement. And at the end of the second quarter of 2021, we’ll launch a brand-new mobile app where customers will be able to see their Bitcoin balances in the app. Then in version three, they’ll be able to buy and sell Bitcoin in the app as well.
+
+Who are you partnering with?
+
+Schnall: We partnered with a company called NYDIG as our fulfillment and custodial partner. They’re building our API connectivity, but most of what they do now is help to automate the purchasing of the Bitcoin on behalf of customers. It’s all invisible to the customers. We also have partnered with FIS to build out the mobile app functionality that I just mentioned.
+
+Why did you decide to offer Bitcoin reward checking?
+
+Schnall: Well, we love Bitcoin, and we think it’s gaining a lot of momentum with both consumers and institutional owners. From what we can gather, fewer than 10% of Americans actually own Bitcoin. But with its price movement in 2020, we think more and more people are going to want it. However, there is a huge segment of the population that’s intrigued by Bitcoin but doesn’t understand it well.
+
+In our surveys we found that many people won’t invest in Bitcoin because the price is too volatile. Other people don’t own it simply because they don’t know how to get it.
+
+We felt that by offering Bitcoin rewards, we could overcome those obstacles for consumers where they don’t have to risk their own money. The volatility isn’t a factor because we’re giving them the Bitcoin for free. If it goes up, they’re earning a reward that can appreciate significantly, unlike cash back or membership miles that are effectively a static asset.
+
+Read More:
+
+REGISTER FOR THIS FREE WEBINAR Leveraging Location for Growth: How to Expand into New Markets and Thrive To be competitive post-COVID financial institutions must grow to survive—often by seeking new opportunities in new markets. Enter your corporate email address
+
+Do people have to do anything special to get this account?
+
+Schnall: No. When someone opens an account with us, they automatically get a sub-account at NYDIG. The consumer doesn’t have to do anything. We do all of the upfront KYC work and all the vetting. NYDIG relies on the intelligence we do.
+
+How has it been going so far?
+
+Schnall: We’ve been taking it slowly initially — we haven’t marketed it. We wanted to make sure that everything worked right, and that our customer service was where it needed to be. We get a lot of phone calls from people asking all kinds of questions and so we’re building out our library of Bitcoin-related FAQs on the website. We’ll be ready to start marketing by the end of January 2021.
+
+What are the benefits to the bank?
+
+Schnall: Almost all of the Bitcoin rewards accounts that we’ve opened so far have been new customers. We love helping facilitate people’s introduction to Bitcoin, but ultimately, the reason the bank offers a product like this is so we can pick up low-cost deposits. These are non-interest bearing checking accounts. We use the interchange that we earn when people use their debit card to pay for the Bitcoin.
+
+How did you settle on 1.5% as the reward amount?
+
+Schnall: It approximates what we earn from interchange when a customer uses the debit card. Most banks market for checking accounts because they earn all that interchange and it’s a big revenue item for them. We’re willing to forego that revenue and use it to buy the Bitcoin in exchange for the low-cost deposits.
+
+What does the typical user look like?
+
+Schnall: We don’t have a critical mass yet, but so far more men than women have signed up. In terms of age, it’s more people in their 40s and 50s than young Millennial types. But, again, it’s early.
+
+How does the price volatility of Bitcoin impact your program?
+
+Schnall: We understand that Bitcoin is inherently and predictably volatile. It will remain so until ownership moves towards a critical mass. As we see more and more institutional money move into Bitcoin and stay invested, we will see volatility taper off. This will take some time, but we are still confident that the consumer wants in.
+
+What makes you confident about Bitcoin’s future?
+
+Schnall: For one thing, I’m not alone in that confidence. MassMutual, for example, bought $100 million of Bitcoin. Square bought $50 million. As more and more people start to gravitate towards Bitcoin as an asset class, you’re going to see more demand, and more money move in and the price will go up. Remember, the idea behind Bitcoin is that there’s a finite supply — 21 million potential Bitcoin.
+
+That doesn’t mean the price of Bitcoin won’t drop in half tomorrow. But if it did, I think all that would happen is people who are sitting on the sidelines would start pouring in and the price would rebound pretty quickly.
+
+Read More:
+
+Only a handful of financial institutions enable consumers to purchase Bitcoin. Do you see that changing?
+
+Schnall: Based on things I’m seeing and people I’m talking to in the industry, that number is going to increase exponentially in the near term. Consumers don’t trust the crypto exchanges. Those exchanges are regulated, but not like banks are. But once JPMorgan Chase and other big banks start saying, ‘Not only can you buy investments from us, but you can also buy Bitcoin through us and we will custody it for you,’ that will give customers comfort.
+
+I don’t think you’re going to see many banks building their own custody solutions, however. They’ll outsource them as we did to firms like NYDIG who already have the proven protocols and infrastructure to be able to host and custody Bitcoin securely.
+
+Will other institutions follow your lead with a Bitcoin rewards program?
+
+Schnall: Building this rewards program is not an easy lift. It’s taken us two years to get to get to this point, building the policies and procedures, the infrastructure, the API connectivity and the customer service. We’re paving the path here. But I think you’ll see others launch Bitcoin rewards programs and then consumers will have more choices.
+
+What’s the outlook for Bitcoin as a medium of exchange?
+
+Schnall: I believe people see Bitcoin more as a store of wealth, much as they do with gold. You don’t want to spend your gold. Also, if you own Bitcoin and you did want to spend it, every time you did that you could have a taxable gain — for example, if you acquired Bitcoin when it was $20,000, then spent it when it was at $40,000.
+
+And from a technological standpoint, the blockchain technology underlying Bitcoin can’t handle billions of people making daily transactions in Bitcoin. So I see bitcoin more as a store of wealth.

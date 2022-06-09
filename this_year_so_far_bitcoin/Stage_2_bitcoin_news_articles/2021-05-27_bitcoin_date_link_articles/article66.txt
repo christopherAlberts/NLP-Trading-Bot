@@ -1,0 +1,41 @@
+Bitcoin and cryptocurrencies have become the trending topic in recent days with several arguments and discussions being held in several quarters be it economic or plain old trading-and-hype related to understand the feasibility of these blockchain-based currencies in the long run and whether they could be the next step for global economies.
+
+Rajya Sabha MP and noted economist Dr Subramanian Swamy's daughter Dr Gitanjali Swamy also partook in an in-depth discussion on the same, in a webinar titled 'Cryptocurrencies: Navigating Pros, Cons & Human Impact' hosted by the Virat Hindustan Sangam (a platform helmed by Subramanian Swamy) on its YouTube channel.
+
+What is Bitcoin? Subramanian Swamy's daughter Gitanjali explains cryptocurrencies
+
+Beginning her remarks, Gitanjali Swamy gave an overview of why currency came into existence after the barter system and the government's role in regulating the currency system. Speaking on the system of cryptocurrency, she said "Blockchain is a technological solution for letting mutually distrusting entities to agree upon history".
+
+To elaborate further on how the blockchain system works and what cryptocurrency mining is, she gave an example of big Indian weddings where guests are invited who also become witnesses to the wedding hence none of the parties to the wedding can later deny the wedding took place.
+
+She asked, "In India why do we have big weddings? Because later on if the groom denies and says 'I wasn't there and I didn't marry', then you have all these witnesses, that is how the blockchain mechanism works, you have got the people which are all witnesses," she said.
+
+What is Bitcoin mining?
+
+"One of the witnesses will record the marriage, he is the pandit who says I am signing this marriage and saying this marriage happened. That is the notion of a miner," she said.
+
+A miner is a person/computer/node that is capable of solving the highly complex cryptographic problems posed by the blockchain system that then allows that node to add a 'block' to the chain and earn bitcoin (or whichever cryptocurrency it is) as a reward. The node adds the block to the blockchain 'ledger' that is held by the entire network, rather than with one authority (a bank, for example) making it decentralised. Mining in cryptocurrency is done through specialised and complex computational hardware, but can also be done using regular computers (don't expect results, however).
+
+Are Cryptocurrencies safe? What are the drawbacks?
+
+While speaking on the revolutionary aspects of cryptocurrency, she also highlighted its drawbacks saying miner collusion could pose a challenge to blockchain technology.
+
+"You need to have honest miners. So many of them, it's a marketplace, some 65-75% of the world's bitcoin mining is done in China, where there is electricity and relatively easy access to manufacturers who make the specialised computational hardware that you need to mining. Hence the biggest problem is miner collusion. But it doesn't mean that cryptocurrencies won't happen. It is the future."
+
+She also pointed out that because cryptocurrencies are anonymous, many ransomware attacks and their payments occur through cryptocurrencies as it has no government regulations. Cryptocurrencies also have high volatility. However, she added that it is an emerging financial market. During the virtual interaction, even Subramanian Swamy called cryptocurrencies the “subject of the future” and noted that digital currencies are the latest development with regards to paying for the exchange of goods, calling them unstoppable and advocating a better knowledge.
+
+Watch the webinar here:
+
+What are cryptocurrencies?
+
+Cryptocurrencies are decentralised digital currencies and are based on blockchain technology. Even though cryptocurrencies like Dogecoin, Bitcoin have gained popularity in recent months, there are thousands of different types of cryptocurrencies in circulation. Digital currencies can be utilised to buy regular goods and services, but many investors buy these cryptocurrencies as assets like stocks or precious metals. There are also Crypto platforms like Ethereum which allows users to build cryptocurrency applications and permits crypto-contracts, aside from having its own cryptocurrency.
+
+How does Cryptocurrency work?
+
+Any digital currency currently in circulation is basically a medium of exchange that is not physical in its form, it is encrypted and decentralised. Unlike paper currencies, there is no central authority for digital money that manages or maintains its value. Instead, the value of cryptocurrencies is broadly distributed among their users through the Internet. Bitcoin was the first cryptocurrency and first outlined in principle by Satoshi Nakamoto (believed to be a pseudonym, the real identity remains unknown) in a 2008 paper titled “Bitcoin: A Peer-to-Peer Electronic Cash System.”
+
+Who is Subramanian Swamy's Daughter Dr Gitanjali Swamy?
+
+As per the video above, Dr Gitanjali Swamy has done her B-Tech from IIT Kanpur, MBA from Harward Business School, PhD from Berkeley and has also studied Law (Juris Doctor) from the United States. She has 25 publications in patents and data science. She has also been named one of the most Influential Women in Technology in 2020 by India's Analytics Insight magazine.
+
+(IMAGE: Virat Hindustan Sangam YouTube channel / Pixabay)

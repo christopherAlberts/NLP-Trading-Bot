@@ -1,0 +1,35 @@
+Bitcoin (BTC) might have recovered from the $47,000 low seen on April 25, but the subsequent 15% bounce was not enough to bring optimism to the BTC options markets. Even at the present $54,000 level, the price remains 17% below the $64,900 all-time high reached on April 14.
+
+The popular Crypto Fear & Greed Index reached its lowest level in 12 months, signaling thatinvestors are closer to "extreme fear," which is a complete reversal from the "extreme greed" level seen on April 18. This indicator gathers data from price volatility, volume change, social media activity, Bitcoin dominance and recent search trends.
+
+As Bitcoin's price dropped and then recovered, the more experienced whales and arbitrage desks behind options trading were far from panicking, but their main risk gauge has recently hit a 12-month peak. However, despite these "worsening" conditions, these pro traders are neutral both in skew metrics (options pricing) and the put-to-call ratio (risk exposure).
+
+The adjusted put-to-call options ratio stands neutral
+
+Call options give the buyer the right to acquire BTC at a future date for a fixed price, while the seller is obliged to honor this privilege. For this right, the buyer pays an upfront fee (premium) to the counterparty. Call options are deemed neutral-to-bullish, as they give its buyer the possibility of high leverage with a little upfront investment.
+
+On the other hand, put options provide their buyer a hedge, or protection, from negative price swings. As a result, these are widely used in neutral-to-bearish strategies.
+
+Deribit BTC open interest by expiry. Source: Laevitas
+
+As the above chart indicates, both call and put options are balanced, except for Friday's expiry. Although this could reflect short-term optimism, a more granular view shows that some ultra-bullish call options dominate the scene. Therefore, by adjusting it to a more realistic price range for the next four days, calls and puts are way more balanced.
+
+Deribit BTC open interest on April 30. Source: Laevitas
+
+Take notice of how the $72,000–$120,000 call options dominate the April 30 expiry. Therefore, considering the $44,000–$68,000 range exclusively, calls represent 48% of the outstanding open interest.
+
+The options pricing risk indicator is neutral
+
+To correctly interpret how professional traders are balancing the risks of unexpected market moves, the 25% delta skew provides a reliable, instant "fear and greed" analysis.
+
+This indicator compares similar call (buy) and put (sell) options side by side and will turn negative when the neutral-to-bearish put options premium is higher than similar-risk call options. This situation is usually considered a "fear" scenario.
+
+On the other hand, a negative skew translates to a higher cost of upside protection, which is generally interpreted as a "greed" measurement.
+
+Deribit 90-day BTC options 25% delta skew. Source: Laevitas
+
+For the first time in 2021, the 25% delta skew has flattened after spending most of the time on the "greed" side. A similar situation emerged on March 25 after BTC corrected 18% from the $61,800 peak 10 days prior.
+
+Overall, the options markets indicators are neutral, indicating a mild lack of trust in the recent $47,000 bounce. On the other hand, the same metrics could be interpreted as positive, considering pro traders did not flip bearish despite the 28% drop in the past 11 days.
+
+The views and opinions expressed here are solely those of the author and do not necessarily reflect the views of Cointelegraph. Every investment and trading move involves risk. You should conduct your own research when making a decision.

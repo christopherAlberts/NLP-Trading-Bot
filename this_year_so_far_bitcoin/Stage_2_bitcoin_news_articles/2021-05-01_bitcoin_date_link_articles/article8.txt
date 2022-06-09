@@ -1,0 +1,33 @@
+(AGENCE FRANCE-PRESSE) - Digital euros, yuan and dollars?
+
+Faced with increased popularity for the cryptocurrency bitcoin, as well as for online payments during the pandemic, central banks are exploring new units of their own.
+
+Outlined below is an examination of how central bank digital currencies could resemble and differ from cryptocurrencies and "stablecoin" projects like Facebook-backed Diem.
+
+What are central banks doing?
+
+With the backing of Europe's biggest economy Germany, the European Central Bank (ECB) is mulling over a digital euro that could be guaranteed by the central bank, in turn potentially offering greater security than by commercial banks. The ECB has spoken also about the possibility one day of central bank personal payment cards and accounts being linked to a digital euro.
+
+A formal decision on how to proceed is expected this year following consultations amid European concerns around privacy protection.
+
+Issuing and transferring digital euros could be done using technology similar to the blockchain ledger on which cryptocurrencies such as the bitcoin rely.
+
+But the ECB has stressed that a digital euro would not replace cash and should not be seen as a cryptocurrency. Indeed, 13 years after the creation of the bitcoin, while the wider cryptocurrency market has swelled to a value above US$2 trillion (S$2.6 trillion), its use as a means of payments has yet to take off.
+
+And while one bitcoin is today worth around US$60,000, the ECB has noted that one euro must remain one euro. China's central bank has been working on a digital currency since 2014 and is testing the use of a "digital yuan" or "e-CNY" in various pilot programmes across the country.
+
+Consumers across the country already widely use mobile and online payments, but the digital yuan could allow the central bank - rather than the big tech giants - greater data and control over payments. Although no official launch date has been announced, China is intending to make it possible for foreign athletes and visitors to use its digital currency during the Winter Olympics next year in Beijing.
+
+The Bank of England, along with the United Kingdom government, is meanwhile looking into the possibility of creating a digital currency that households and businesses could use instead of cash - an initiative Finance Minister Rishi Sunak dubbed "Britcoin".
+
+In the United States, the Federal Reserve is researching a possible cyber-dollar, but is moving slowly to ensure it addresses the risks of fraud and counterfeiting.
+
+Digital v cryptocurrency
+
+The issuance of a cryptocurrency like the bitcoin is regulated by an algorithm, not by a central bank's monetary policy committee. The decentralised system ensures that the bitcoin's creators cannot print new money, for example, to help stimulate economic growth.
+
+At the same time, central banks have hit out at the highly speculative world of cryptocurrencies. Regarding the UK project, "as cryptocurrency investors ride a wave of speculation, the (British) government will be keen to distance itself from what is still seen as the wild west of the payments world", noted Ms Susannah Streeter, senior analyst at stockbrokers Hargreaves Lansdown. She added that "the attraction of the decentralised system is still likely to keep crypto firmly in the speculative spotlight".
+
+What about 'stablecoins'?
+
+The ECB seems to be considering a digital euro more because of the threat posed by stablecoins, like the planned unit Diem backed by Facebook, rather than the bitcoin. Stablecoins are seen as less volatile than cryptocurrencies since they are pegged to traditional units like the euro and the dollar. Should Facebook enable payments in Diem to be processed on its social network platforms, including WhatsApp, traditional currencies could suffer.

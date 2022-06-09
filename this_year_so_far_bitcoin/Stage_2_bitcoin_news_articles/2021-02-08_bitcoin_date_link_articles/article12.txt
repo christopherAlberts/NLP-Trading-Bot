@@ -1,0 +1,19 @@
+By Landon Manning
+
+Visa (V), the provider of the world’s most widely-used credit cards, has announced plans to implement a pilot program of application programming interfaces (APIs) that will allow banks to offer their customers a variety of Bitcoin-based (BTC) services.
+
+This news went live via press release on February 3, detailing some of the intricacies of the plan and hinting at an expected timetable. Visa’s own developers will be creating these APIs, but the intention at this stage is for outside private firms, specifically banks and neobanks, to use the APIs to integrate Bitcoin into their offerings of services to customers.
+
+“We set out to make Visa the bridge between digital currencies and our global network of 70 million merchants,” said Jack Forestell, Visa’s chief product officer, according to the release. “With this pilot program, we want to extend the value of Visa to our neobank and financial institution clients by providing an easy bridge to crypto assets and blockchain networks.”
+
+Forbes noted that this marks a significant change, as Visa was once a steadfast opponent of Bitcoin and the whole crypto asset ecosystem in the early days of the space. Now, however, Visa is a partner to some 35 exchanges, wallets and various other cryptocurrency platforms, and is hoping to become an important player in massively widening public participation in Bitcoin.
+
+According to Forbes, Alfred Kelly, Visa’s CEO, described bitcoin as “digital gold” on the company’s call to discuss fiscal first-quarter 2021 earnings, as it has gained a large popularity as a durable store of value, immune to the inflation that plagues fiat currencies.
+
+For the first stages of this rollout, Visa is partnering with Anchorage, a federally-chartered digital asset bank, which is already holding a fairly substantial reserve of bitcoin and other crypto assets. Visa’s new APIs will allow different private banks to connect to Anchorage’s capacity for bitcoin exchange, allowing bank customers all across the country to buy, custody and trade digital assets. This plan will allow Visa to have a low-stakes way to stress-test the infrastructure of these banks on a large scale, gleaning valuable information about where Visa’s developers could best be deployed in building the financial institutions of tomorrow.
+
+Visa has announced that the first bank on the list for rollout will be First Boulevard, a digital bank based in Kansas. Hoping to play on the common desire among Bitcoiners to put their money in a reliable store of wealth, First Boulevard is planning on adding a number of crypto-related services to its program.
+
+Visa’s plans for this API pilot program are ambitious and far reaching. As more banks partner onto this initiative, it will be very interesting to see how this could build up the presence of Bitcoin in people’s daily lives. One thing is certain, however: Visa’s days of opposition to BTC are long, long gone.
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.

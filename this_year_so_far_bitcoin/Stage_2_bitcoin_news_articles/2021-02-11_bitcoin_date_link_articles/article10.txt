@@ -1,0 +1,45 @@
+Long-considered the Holy Grail of retail crypto investment, a U.S.-listed bitcoin ETF may be on the horizon, supported by a confluence of factors, including a new administration and securities watchdog, as well as the rapid institutional adoption of bitcoin itself.
+
+“My guess is we get an ETF this year,” says Mike Novogratz, Galaxy Digital founder and CEO. “Right now, the next-best thing is the Grayscale Trust.”
+
+Novogratz is referring to the suite of exchange traded products (ETPs) sponsored by Grayscale Investments, a subsidiary of Digital Currency Group, which also owns Coindesk. Its Grayscale Bitcoin Trust (GBTC) has exploded with investor money, topping nearly $30 billion in assets. But only sophisticated, or so-called accredited investors, may buy these securities, and they are only traded in the over-the-counter (OTC) market in the U.S. (not listed on the NYSE or Nasdaq, for instance).
+
+Over 20 crypto funds have attempted to run the regulatory gauntlet and register their products in the U.S., including two from the Winklevoss twins, which were ultimately rejected by the Securities and Exchange Commission (SEC). It’s a complicated legal process that includes filing a registration statement with the SEC as well as a petition for rule change at the listing exchange (such as NYSE or Nasdaq). (The archaic registration process for funds coming to market is being streamlined in the U.S., but remains convoluted for many non-traditional ETPs, including those in the crypto space.)
+
+The SEC has yet to grant a rule change for any of these products (denying all but the most recently filed), and their registration statements lie dormant. Grayscale Bitcoin Trust has filed to list on the NYSE ARCA exchange under the ticker BTC — a request that is pending.
+
+But hopes for a bitcoin fund available to the masses now center around the latest VanEck product, the VanEck Bitcoin Trust, which filed in the final days of 2021 — just after the previous SEC chair, Jay Clayton, left office. VanEck may be hoping for a friendlier regulatory touch under Gary Gensler, the current nominee to head the SEC.
+
+Story continues
+
+Gensler was previously commissioner of the Commodity Futures Trading Commission (CFTC), the U.S. commodity watchdog. There, he implemented the sprawling new legal requirements of Dodd-Frank as they applied to derivatives and swaps. But he was criticized for his handling of the 2011 MF Global bankruptcy, which roiled the futures industry for years.
+
+Commodity Futures Trading Commission chairman Gary Gensler testifies before the House Financial Services Committee on Capitol Hill in Washington, on Tuesday, June 19, 2012. (AP Photo/Jacquelyn Martin)
+
+Novogratz has high hopes for Gensler as SEC chief, characterizing him as tough but also fair. With the Senate confirmation likely to succeed, he says, “I am thrilled that Gary is the head of the SEC. Full disclosure — we worked together at Goldman Sachs back in 1997, ‘98 ... he’s got more hair than I do. Not much, not much.”
+
+All kidding aside, he continues, “Gary taught a class on blockchain at M.I.T. and on crypto. He understands it cold. He’s progressive, right? And progressives broadly are going to go after ... the rent takers. Crypto is not a rent taker... Crypto is trying to disrupt the rent takers.”
+
+Pause for green-lighting crypto funds
+
+Novogratz points out that the Grayscale products are subject to high fees (2.5% annually for most of the Grayscale funds) and are subject to wide swings in price that deviate from the underlying assets.
+
+“If the SEC’s job is protecting the little guy, that in no way is protecting the little guy. They wouldn’t let an ETF in the space, but they’d let that in the space — where hedge funds arbitrage retail,” he says.
+
+Large institutional traders, including hedge funds, can capitalize on so-called tracking errors, which occur when the price of an ETF doesn’t match the movement of the underlying asset(s). They have the resources and sophistication to bet on the convergence of these prices — going long one side and shorting the other. Indeed, the Grayscale Bitcoin Trust traded to an all-time high premium of 137% to the price of bitcoin in May 2017, as bitcoin itself surged above $2,000 for the first time.
+
+But as interest and liquidity in a security (or an entire asset class, for that matter) grows, institutional arbitrage tends to iron out and smooth these wild swings. And it’s these very matters relating to the historical volatility of bitcoin and its derivatives that have given the SEC pause for green-lighting a crypto fund.
+
+The earliest proposed bitcoin funds were in the regulatory pipeline during bitcoin’s meteoric 2017 ascent, when it would touch nearly $20,000. Crypto exchanges were frequently crashing amid the daily 20% swings. At the time, the SEC objected to the lack of a centralized, agreed-upon price for bitcoin that a fund could track. Additionally, funds hadn’t worked out a custodial arrangement to safely warehouse the crypto assets.
+
+That’s all changed, as standards for crypto prices have emerged along with various custodial regimes, such as the New York State BitLicense. Only today, the oldest bank in the U.S., Bank of New York Mellon, announced it’s streamlining its custodial platform to onboard digital assets. In addition, large companies like Telsa, Visa and Paypal are creating network effects as they adopt bitcoin for payments.
+
+But in the end, the SEC must sign off — a job that ultimately rests with the incoming chief. On Gensler, Novogratz says, “I don’t think he’s going to be a pushover for our space at all. I think he’s going to be fair.”
+
+Jared Blikrie is a correspondent focused on the markets or Yahoo Finance Live. Follow him @SPYJared
+
+Follow Yahoo Finance on Twitter, Facebook, Instagram, Flipboard, SmartNews, LinkedIn, YouTube, and reddit.
+
+Find live stock market quotes and the latest business and finance news
+
+For tutorials and information on investing and trading stocks, check out Cashay

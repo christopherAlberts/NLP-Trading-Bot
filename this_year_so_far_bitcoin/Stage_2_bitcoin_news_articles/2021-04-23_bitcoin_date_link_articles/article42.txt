@@ -1,0 +1,43 @@
+FRANKFURT, Germany--(BUSINESS WIRE)--MV Index Solutions GmbH (MVIS®) in partnership with CryptoCompare, the global leader in digital asset data, announced the licensing of the MVIS CryptoCompare Ethereum Benchmark Rate (ticker: EBR) and the MVIS CryptoCompare Bitcoin Benchmark Rate (ticker: BBR) to 3iQ Corp. for their Ether ETF (TSX:ETHQ.U) and Bitcoin ETF (TSX:BTCQ.U).
+
+“We are happy to announce the first digital assets ETFs based on two of our indices were listed this week. After their successful closed-end funds which were launched last year, 3iQ now also decided for MVIS indices to underlie their new funds,” said Thomas Kettner, COO of MV Index Solutions.
+
+The MVIS CryptoCompare Ethereum Benchmark Rate (ticker: EBR) and the MVIS CryptoCompare Bitcoin Benchmark Rate (ticker: BBR) serve as a reference rate for funds, asset managers and exchanges who wish to build financial products, such as derivatives and ETPs, on Ethereum and Bitcoin. They aggregate transaction prices on the top five exchanges, selected via the CryptoCompare Exchange Benchmark, and disseminates in real-time. The indices are based on an average of quantity-weighted median prices.
+
+“Our charter at 3iQ is to bring digital assets to the listed markets with the help of best-in-class service providers like MVIS. The new product is the next step in our company’s journey,” said Tom Lombardi, Managing Director of 3iQ.
+
+Charles Hayter, CEO and Co-Founder of CryptoCompare, commented: “We are delighted to continue our collaboration with 3iQ Corp. and enable the expansion of their innovative financial products through robust digital asset indices. As institutional demand grows, these new funds are playing an important role in helping investors gain more exposure to digital assets and we are excited to work with 3iQ and MVIS to lead that charge.”
+
+Detailed information about the indices, including methodology details and index data, is available on the MV Index Solutions website.
+
+Key Index Features
+
+MVIS CryptoCompare Ethereum Benchmark Rate
+
+Number of Components: 1
+
+Base Date: 12/31/2015
+
+Base Value: 745.36
+
+MVIS CryptoCompare Bitcoin Benchmark Rate
+
+Number of Components: 1
+
+Base Date: 12/31/2015
+
+Base Value: 425.23
+
+Note to Editors:
+
+About MV Index Solutions - http://www.mvis-indices.com
+
+MV Index Solutions (MVIS®) develops, monitors and licenses the MVIS Indices and BlueStar Indexes, a selection of focused, investable and diversified benchmark indices. The indices are especially designed to underlie financial products. MVIS Indices cover several asset classes, including equity, fixed income markets and digital assets and are licensed to serve as underlying indices for financial products. Approximately USD 28.76 billion in assets under management (as of 23 April 2021) are currently invested in financial products based on MVIS Indices. MVIS is a VanEck company.
+
+About CryptoCompare - https://data.cryptocompare.com
+
+CryptoCompare is a global leader in digital asset data providing institutional and retail investors with real-time and historical data spanning 5,000+ coins and 250,000+ currency pairs. By aggregating and analysing tick data from globally recognised exchanges and seamlessly integrating multiple datasets, CryptoCompare offers a comprehensive, granular overview of the market across trade, order book, historical, social and blockchain data.
+
+About 3iQ Corp. - www.3iq.ca
+
+Founded in 2012, 3iQ is Canada’s largest digital asset investment fund manager with more than C$400 million in assets under management. 3iQ was the first Canadian investment fund manager to offer a public bitcoin investment fund, The Bitcoin Fund. Gaining access to digital assets such as bitcoin can be daunting, costly, and inconvenient. 3iQ offers investors convenient and familiar investment products to gain exposure to digital assets. For more information about 3iQ, visit our website at www.3iQ.ca or follow us on Twitter @3iQ_corp.

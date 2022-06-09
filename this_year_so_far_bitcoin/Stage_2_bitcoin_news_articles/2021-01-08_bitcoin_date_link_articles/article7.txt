@@ -1,0 +1,27 @@
+Bitcoin fans across the country are rallying against a common enemy, the Treasury’s Financial Crimes Enforcement Network (FinCEN).
+
+US Treasury Secretary Steven Mnuchin, one of President Donald Trump’s closest associates, has been working overtime since Thanksgiving to push several crypto regulations through before the Biden administration takes over on January 20, 2021.
+
+FinCEN statements list the usual reasons for financial regulations, an effort to curtail terror financing, sanctions evasion and black market activity related to drugs and weapons, without any mention of new evidence justifying the unusual urgency.
+
+These include a FinCEN proposal that would require exchanges to store records involving transactions over $3,000 sent to any personal wallets, plus report users to FinCEN for cumulative transactions worth more than $10,000 in a single day. For comparison, banks are required to flag cash withdrawals over $10,000, not transactions within the banking system itself, and banks are not required to keep tabs on where the customer spends the cash taken out of the system.
+
+Plus, a complementary FinCEN statement proposed requiring Americans to report crypto holdings worth more than $10,000 at any foreign service provider. Although the details of this second initiative are still vague, it’s clear the Treasury wants to make special note of the know-your-customer information for anyone dealing with thousands of dollars worth of bitcoin.
+
+The Electronic Frontier Foundation called this a “push for more financial surveillance” without any need for warrants or suspicion. (Bitcoin users already need to report their holdings in their taxes, just like any other asset.) As such, over 65,615 crypto advocates submitted critical statements to FinCEN, including companies like Fidelity and Square. Square’s statement said the company “would be required to collect unreliable data about people [recipients] who have not opted into our service or signed up as our customers.”
+
+The Washington D.C. nonprofit Coin Center issued a statement saying this proposal would also limit American access to decentralized services, where users may not know their counterparty or network operators. Peter Van Valkenburgh, Coin Center’s research director, told TechCrunch the proposal is highly unusual because it only allowed for 15 days of comments, instead of the standard 60-day period, for a rule that would impose more data collection requirements on crypto companies than other financial institutions.
+
+“It requires the exchange to collect, retain and report extra information that they don’t have to for a cash transaction, like the name and physical address of a counterparty,” he said. “It’s on a timeline to complete this process, as far as we know right now, before the new administration. That means the rule would be final. The new administration could issue a new rule, and overturn that past rule, but that’s a much more difficult process.”
+
+Incoming Senator Cynthia Lummis, sworn in the first week of January, tweeted it was “ridiculous” for the Treasury to have this unusually short comment period. Likewise, nine members of Congress issued a letter warning this hasty rulemaking over the winter holidays undermined the legitimacy of the process.
+
+These proposals aren’t just sudden, they’re also so vague that they appear poorly researched. Both Square Crypto developer Matt Corallo and MIT Media Lab director Neha Narula issued public statements saying the FinCEN proposals confused basic technical concepts about how bitcoin addresses work. This would make such regulations difficult to implement, burdening American companies with prohibitively high compliance precautions.
+
+“Political motivations are always hard to discern, but public rumors have consistently indicated this is a personal push by Mnuchin, not further up or down,” Corallo said. “We’ll learn a lot about what the next few years look like based on what [incoming Secretary Janet] Yellen says and what new leadership at FinCEN looks like. There are a lot of things Yellen could decide, but it would be hard for her to do a worse job of building useful and practical regulations than Mnuchin’s last-minute attempts here.”
+
+Van Valkenburgh said his nonprofit, and other crypto industry organizations like it, are prepared to challenge the ruling in court if the Trump administration fails to follow the legislative process. Namely, the Treasury is required to read and consider all of the public comments submitted by January 7, 2021, the arbitrary date set by the rulemakers themselves.
+
+“They technically then have the power to issue the final rule, saying they considered all the comments,” he said. “But if it’s obvious that they didn’t consider all the comments, which I feel like it would be if the final rule came out any time before the new administration comes in, it would be very easy to argue in court that the requirement to read and consider all the comments has not been met.”
+
+As it stands, Van Valkenburgh said it appears the outgoing administration intends to “saddle” the incoming administration with “chaos.”

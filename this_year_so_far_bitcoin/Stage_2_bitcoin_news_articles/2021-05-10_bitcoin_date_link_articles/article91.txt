@@ -1,0 +1,11 @@
+The Raspberry Pi Compute Module 4 (CM4) is known for its improved processing power and thanks to this new project from Mirko_electronics , it's easier to apply that power to the world of cryptocurrency. The development is known as the BitPiRat—a custom carrier board created just for the CM4.
+
+The new custom PCB is designed to include modules and components suitable for the needs of a Bitcoin node. The best Raspberry Pi projects are flexible, and according to Mirko_electronics, this board can also function as a light computer or microserver.
+
+Image 1 of 2 (Image credit: Mirko_electronics) Image 2 of 2 (Image credit: Mirko_electronics)
+
+The BitPiRat adds two USB ports, an Ethernet port, one HDMI input and an M.2 PCIe slot for storage—critical for anyone looking to run a full Bitcoin node. It has a 2-pin power supply connector and 5V power rail that can deliver up to 5A of power.
+
+We've covered projects before that explain both how to mine Bitcoin and create a Bitcoin full node on the Raspberry Pi, but this is one of the first dedicated CM4 Bitcoin-focused PCBs we've come across. Bitcoin mining thrives on GPU power, but because this board is storage-focused, it may be better suited for something like Chia farming.
+
+Check out the board design on Hackaday for a closer look at the specs. Please also take note that this is an untested concept and work in progress. Be sure to follow Mirko_electronics for new iterations and future updates.

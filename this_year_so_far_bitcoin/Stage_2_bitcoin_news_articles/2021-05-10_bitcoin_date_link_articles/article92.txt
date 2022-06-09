@@ -1,0 +1,27 @@
+A man offered Bitcoin currency online for someone to kill his wife while she was heading to a veterinarian’s appointment, the FBI claims.
+
+U.S. federal authorities trace the roots of the investigation to a tip across the pond from the BBC on April 20, providing the identity and address of the victim: Ann Replogle, who was named as the target for a murder for hire.
+
+It was not too much longer from there that authorites found the suspected perpetrator: her husband Nelson Paul Replogle, who was booked into the Blount County Jail in Tennessee early April 21, according to records viewed by Law&Crime.
+
+According to an FBI affidavit, the bureau passed on the nature of the threat to Knox County deputies, who checked in on the woman’s well-being. Authorities say the couple told them they could not think of who would want her hurt her.
+
+“Replogle was separated and interviewed alone and advised he did not solicit the murder of his wife and that he could not think of anyone who did,” the affidavit states.
+
+But the FBI said they got evidence of a payment being made for someone to kill the wife while she “traveled from her residence to the veterinarian’s office while taking her pet for an appointment.”
+
+“The information provided was very specific about date, time, vehicle make, model, and color,” authorities added.
+
+Authorities then sought to trace the Bitcoin payment used on the transaction. Investigators said they were able to determine that the “Bitcoin wallets” used in the transaction were “CoinBase wallets.” From there, they contacted the company CoinBase, which complied with a subpoena for the owner and transaction history of those digital “wallets.” Authorities say that the digital trail led to Nelson Replogle: His registration information included photo ID and pictures, authorities said. The FBI claimed they also discovered that the IP address linked to that account was connected to an AT&T account belonging to the defendant, and linked to this home. The subpoena allegedly also revealed that he used a First Horizon savings account to make transactions to the CoinBase account.
+
+A judge on Tuesday determined Replogle would be held without bond.
+
+“Defendant is alleged to have procured the murder for hire of his wife and used surreptitious means and sophisticated technology to do so,” wrote Magistrate Judge Debra C Poplin. “While the use of cryptocurrency does not on its own implicate a risk of danger, Defendant’s alleged use of Bitcoin in connection with locating an individual on the Internet to commit a murder for hire suggests that he was attempting to avoid detection. In addition, as noted in more detail below, the evidence of Defendant’s dangerousness is demonstrated by the allegations that in arranging the murder for hire, he took affirmative steps to provide specific information regarding his wife’s proposed location in furtherance of the plot to kill her.”
+
+Replogle attorney Joseph Fanduzz declined to comment when Law&Crime reached out via email.
+
+The defendant used to teach social studies at Thornapple Kellogg High School in Middleville, Michigan, according to Fox 17 Online. Court filings show he has retired and has been living in Tennessee.
+
+[Mugshot via Blount County Sheriff’s Office]
+
+Have a tip we should know? [email protected]

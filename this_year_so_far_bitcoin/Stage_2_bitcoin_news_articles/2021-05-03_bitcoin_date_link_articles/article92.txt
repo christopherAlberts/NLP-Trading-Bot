@@ -1,0 +1,35 @@
+Venezuelan Crypto Regulator Sunacrip Strengthens AML/KYC Requirements for Virtual Asset Service Providers
+
+Sunacrip, the Venezuelan cryptocurrency watchdog, has recently published a new set of AML/KYC requirements for VASPs (Virtual Asset Service Providers) that establishes new and updated rules about the kind of information these providers must require and share with the Venezuelan government, raising alarms in the cryptocurrency community about what the government could do with this data.
+
+Venezuelan Crypto Watchdog Sunacrip Strengthens KYC/AML Requirements for VASPs
+
+Last week, the Superintendence of Crypto Assets and Linked Activities of Venezuela (Sunacrip), quietly published a new set of rules that aim to tighten the KYC/AML requirements this institution requires from Virtual Asset Service Providers that offer these services on Venezuelan soil.
+
+The new norm, published in the National Gazette under the title:
+
+Rules relating to the administration and inspection of the risks related to the legitimation of equity, terrorism financing, and the financing of proliferation of weapons of mass destruction, applicable to virtual assets service providers and the people and entities providing products and services through activities involving virtual assets in the integral system of crypto assets.
+
+It defines a set of new rules aimed to get detailed information about people and institutions using the services of VASPs in the country.
+
+At its core, the rule defines VASP’s in a ample way, and includes custody services and wallet providers, this meaning that every wallet provider should abide by it. These VASP’s would have to name a compliance officer to define a plan to minimize money laundering risks and report directly to Sunacrip.
+
+Also, the rule establishes that every transaction with a value of over 1,000 EUR should be transmitted immediately, along with the ID’s of both sender and receiver of the funds, complying with the so-called travel rule established and officially accepted by the Financial Action Task Force (FATF) on 2019 as part of its global recommendation on cross-border and domestic bank transfers.
+
+The rule further includes a chapter that forces these VASPs to inform periodically about the numbers of customers they have in Venezuelan jurisdiction, as well as the full record of transactions each one of them had made, including the balances of every account. However, it does not define fines or penalties for the infringement of these directives.
+
+Limited Enforceability
+
+While this new rule has raises some concerns across the numerous Venezuelan cryptocurrency community that uses these instruments as a refuge against inflation, most are skeptic about the real capacity of the government to enforce it through its channels.
+
+While exchanges like Binance do have a strong national presence, they currently don’t have offices in the country. These rules would apply to national exchanges only, which are already under heavy government surveillance even with their relatively low trading volumes. Further, wallet providers are unable to get KYC info from their users, so to comply with these rules, they would have to change the way they enroll users and ask for the personal information of recipients when moving funds.
+
+This is the opinion of Raul Velasquez, a Venezuelan lawyer linked to the cryptocurrency environment, who talked about the subject in a podcast earlier last week. He declared that it’s absurd to require this information from wallet providers, that don’t inquire it from their users.
+
+However, Velasquez also thinks this new rule set is an invitation for traditional companies like banks, that already comply with these regulations, to enter the cryptocurrency world by becoming VASPs under this law. “These institutions already have the logistical organization to comply with these rules, and they can bear the costs of compliance in this regard,” he stated.
+
+What do you think about these new rules and their enforceability? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

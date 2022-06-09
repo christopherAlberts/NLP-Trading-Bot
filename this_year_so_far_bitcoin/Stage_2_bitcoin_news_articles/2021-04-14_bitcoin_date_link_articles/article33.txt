@@ -1,0 +1,33 @@
+Gary Gensler Simon Dawson | Bloomberg | Getty Images
+
+The Senate is expected to confirm Gary Gensler as chairman of the Securities and Exchange Commission on Wednesday, and crypto assets — including bitcoin — are likely high on his agenda. With Democrats in control of all three major branches of government, and the SEC commissioners now with a 3-2 Democratic majority, Gensler is likely to face calls from progressives to act on several fronts, including ESG, the GameStop fallout, the Archegos fiasco, payment-for-order flow, fiduciary obligations, and especially regulations around securities in the crypto space, including a bitcoin ETF. A Senate vote on Gensler's nomination is scheduled for 11:45 a.m. ET. What's likely on the top of the list?
+
+Environmental, Social and Governance
+
+President Joe Biden has pledged swift action to tackle what he calls a "climate emergency." Acting chair Allison Herren Lee has already indicated that the SEC will focus on greater transparency and how corporate actions may be affecting the climate. Climate change, Herren Lee has argued, fits squarely in the SEC's mandate of providing data for investor protection. That mandate can be fairly broad: In a recent speech, she argued that even political spending disclosure can be linked to ESG issues.
+
+GameStop fallout
+
+The GameStop situation has led to numerous calls for investigations around gamification of trading, market manipulation, and whether it is feasible to move from the current two-day settlement period for stocks (T + 2) to one day. In a recent call with reporters, Christopher Gilkerson, Charles Schwab's senior vice president and general counsel, said any reform initiated by Gensler "would focus on rapidly moving to T+1 settlement, better surveillance on potential market manipulation through social media and better disclosure for short sellers. And probably a focus on gamification of investing." Pat Healy of Issuer Network, who advises companies on going public, said more transparency around short sales is a clear priority. "The SEC should create a minimal level of short-sale disclosure," he told me. "That would alert the market that a big fish is taking a position, which is the parallel disclosure that is done when investors take long positions. This is the only part of the market that has no disclosure requirements."
+
+Archegos ramifications
+
+The recent Archegos fiasco, where a trader was able to attain massive positions in several stocks using swaps, will also likely attract Gensler's attention, particularly since he was previously chairman of the Commodities Futures Trading Commission, where he was involved in implementing rules governing the swaps market following the Great Recession in 2008-2009. The Archegos debacle caused significant losses to investors in many large companies and fits squarely in the SEC's historic mission. During his March 2 appearance before the Senate Banking Committee, Gensler noted the SEC's historic role in protecting investors, and he promised to continue the SEC's goals of "strengthening transparency and accountability in our markets, so people can invest with confidence, and be protected from fraud and manipulation."
+
+One delicate issue: Archegos was a family office that was exempt from registration with the SEC. "This guy was trading his own money," said Amy Lynch, a former SEC compliance official now President of FrontLine Compliance. "They are likely to take a look at the whole family office structure," she said. Not having to register "makes sense for the average family office, but in the case of Archegos there was a lack of transparency — Credit Suisse didn't know what Morgan Stanley was doing with the transactions." Lynch says the SEC is likely to look at more reporting requirements around family offices, and perhaps even consider registration.
+
+Payment-for-order flow
+
+Many financial service firms charge nothing for commissions, but receive payment from broker-dealers to route orders to them, a process known as "payment for order flow." Some claim receiving payment-for-order flow comes at the expense of best execution, but that is hotly disputed. Healy said Gensler "will likely pay lip service to looking at payment for order flow but is unlikely to do anything about it." The reason is that it is well-known that "the average retail investor is able to execute trades at a lower cost and with better pricing than several decades ago. The one thing that may be needed more is disclosure."
+
+Standards of care for broker-dealers
+
+The SEC put in place Regulation Best Interest (Reg BI) last year, which established new standards of conduct for broker-dealers and requires them to recommend products that are in their customer's best interest. The SEC is unlikely to make substantive changes in the rule, but they are likely to seek vigorous enforcement of the rule. "They will have to do more examinations to determine their actual practices are matching their disclosures," Lynch said.
+
+Bitcoin ETF
+
+Bitcoin is a commodity that is regulated by the CFTC, but a bitcoin ETF would be a security regulated by the SEC. The SEC has consistently denied requests to create a bitcoin ETF for the last eight years, citing concerns over fraud, custody, and excessive volatility. Gensler is likely to continue to focus on the safety of those assets. Indeed, the SEC's Examination Priorities cited digital assets and the "safety of client funds and assets" as a top priority. Still, crypto investors are optimistic about Gensler, noting that he taught blockchain and digital currencies while a professor at MIT.
+
+They also are hopeful that many of the concerns cited by the SEC are being addressed. "A few years ago there was no regulated futures market, now there is, and the volumes are much bigger," said Matt Hougan, chief investment officer of Bitwise Asset Management. "There were also no regulated custodians with insurance, now there is. We have made a huge amount of progress, whether we have made it over the goal line is not clear, but we are getting close."
+
+Digital securities and assets

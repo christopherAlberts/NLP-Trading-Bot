@@ -1,0 +1,17 @@
+Shares of bitcoin mining company CleanSpark Inc. (CLSK) were rising premarket Thursday after the company announced that it has purchased 2,400 new rigs that will help improve its mining efficiency.
+
+The Salt Lake City company purchased more S19-Pro rigs for delivery in the coming month in order to increase the overall hash rate, or processing power, of its operations.
+
+"This is an additional step in making our mining operation more efficient, which further aligns with our previously stated objective of operating all company-owned facilities at or near carbon neutral," CEO Zach Bradford.
+
+CleanSpark shares rose 3.1% to $15.18 per share premarket Thursday.
+
+Mining is the method by which crypto transactions are processed, and as a reward for processing transactions miners are given new bitcoin. Hash rate refers to the amount of computing power being contributed to the network at any given time.
+
+CleanSpark says that its current energy mix is at 95% carbon-free power with a goal to operate all company-owned facilities at or near carbon neutral.
+
+The company also says that it plans to sell its prior-generation rigs at "substantial gains" because the market and global increase in bitcoin prices has increased demand.
+
+"This transition to the upgraded equipment is expected to increase our hash rate capacity to over 400 PH/s (petahash per second) while using the same amount of power that we previously used to generate 330 PH/s," Bradford said.
+
+CleanSpark's announcement comes a day after Tesla (TSLA) - Get Report CEO Elon Musk said that the company will no longer accept payments in bitcoin, citing the environmental impact of bitcoin mining for the decision, sparking a sharp decline in the price of bitcoin.

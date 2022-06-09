@@ -1,0 +1,53 @@
+Feature Stories | May 31 2021
+
+Can bitcoin replace gold as a store of wealth in the face of inflation and times of uncertainty?
+
+-Gold’s history as inflation hedge
+
+-Gold’s history as a safe haven
+
+-Bitcoin’s short history
+
+-Arguments for and against cryptos
+
+By Greg Peel
+
+This is the second in FNArena’s series examining crypto-currencies. A link to Part 1 is provided near the bottom.
+
+Since ancient times, gold has been seen as indicative of wealth and power. The first currencies were coins made of gold and silver – their value determined by their actual metal content.
+
+The key to precious metals being used as currency is their rarity. They were a store of wealth because they were difficult and costly to find and mine.
+
+Eventually, coins made of precious metals were replaced by coins made of lesser metals and banknotes, which were backed by the issuer’s holdings of those metals. Gold was the primary store of wealth, and a currency’s value reflected the extent of gold holdings.
+
+In recent centuries, as economies developed across the world, gold-backing of a currency was an on again, off again affair. At the end of World War II America and its allies convened at a meeting at Bretton Woods at which it was agreed currencies would indeed be backed by gold. At the time, the US held two-thirds of the world’s gold. The US dollar became the global reserve currency.
+
+At the time, gold was US$35/oz.
+
+With economic growth came economic cycles, and with each recession came fiscal spending, funded by money printing. Given currencies were backed by gold, money printing led to outflows of gold to other economies. The US became the most powerful economy on earth after World War II, but by the 1960s and 70s the defeated powers of Germany and Japan had swiftly begun to catch up.
+
+The tipping point came in 1971 when, amidst other hefty spending programs, the US was bleeding money to fund the Vietnam War. Then President Nixon made the unilateral decision to end the Bretton Woods agreement. From then on, the reserve currency would be backed only by the US economy, and currency would effectively become a “promissory note” from the US government. Other countries had no choice but to follow suit.
+
+The decoupling of currencies from gold sowed the seed for today’s crypto currencies. It just required the growth of digital technology in the meantime.
+
+Gold as a hedge against inflation
+
+Printing money adds to the supply of that money and thus devalues that currency. It stands to reason, mathematically, that the more a currency is devalued the more of it is needed to buy the same pint of milk, the same family car and the same ounce of gold. The more money consumers require to buy the same items, the more wages must increase to cover that loss of spending power.
+
+In the 1970s, central banks had no mandate to control inflation.
+
+The post-war US economic boom meant a greater demand for oil, which made the US reliant on imports from Arab oil producers. Printing money devalued the dollars received by oil producers. Not happy with the situation, in 1973 those oil producers (OPEC) placed an embargo on exports to the US and other countries. If inflation was not already becoming an issue, it certainly was now. The price of oil skyrocketed as domestic supply could not meet demand.
+
+The inflation shock also sent the US dollar gold price skyrocketing. OPEC ended its oil embargo in 1974, but without central bank control, inflation is a difficult beast to restrain once it’s let out of the cage.
+
+Source: Kitco
+
+The US dollar gold price surged accordingly.
+
+Just when it looked as though things couldn’t get any worse, the Iranian Revolution of 1979 shut down the world’s biggest oil producer. The price of oil again shot up, and the price of gold again responded accordingly. Having gone “parabolic” in the late seventies, the US dollar gold price hit US$850/oz, up from US$180/oz only five years earlier.
+
+The US inflation rate surged into double digits (as was also the case in Australia).
+
+At the time, the US Federal Reserve’s funds rate was 13% (compared to effective zero today). To cap the upward spiral of inflation and the resultant recession, then Fed chair Paul Volker raised the funds rate to 20%. The US CPI peaked in March 1980 at 14.8%. Three years later it was back at 2.6%.
+
+Markets that go “parabolic” tend to end with a blow-off top. At the same time Volker was intervening to curb inflation, the Hunt brothers attempted to corner the silver market. They failed. The price of silver collapsed. The price of gold now had plenty of reason to collapse as well.

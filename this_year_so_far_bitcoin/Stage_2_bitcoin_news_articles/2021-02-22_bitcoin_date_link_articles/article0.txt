@@ -1,0 +1,51 @@
+Bitcoin swiftly lost altitude early on Monday, dropping over 15% to below $50,000 before rebounding somewhat. The downward price movement came after bitcoin reached new record highs above $58,300 over the weekend.
+
+The drop seemed to accelerate as U.S. Treasury Secretary Janet Yellen, speaking at a New York Times event, described bitcoin as “highly speculative asset” that is extremely inefficient for transactions. Yellen also called the amount of energy consumed in processing those transactions “staggering.”
+
+The entire market followed bitcoin’s drop. Ether is down nearly 10% over the past 24 hours, trading at $1,770 after falling to $1,546, according to the CoinDesk price index. On Kraken, ether dropped to $700, a 64% crash. The decentralized finance sector of assets is down nearly 8%, per data from Messari.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Bitcoin, the top cryptocurrency by market value, rebounded to above $53,000 as of 15:12 UTC, representing a roughly 7% drop over 24 hours, according to CoinDesk 20 data.
+
+The pullback could be extended further, as the recent rally looked overstretched, according to David Lifchitz, CIO for Paris-based quantitative trading firm ExoAlpha.
+
+“A 15% correction could happen, taking some steam out of the hot market, before reaching new highs,” Lifchitz told CoinDesk. “The more upward parabolic and fast a move, the more fragile it is, so a pullback would be more than welcome.”
+
+Indeed, bitcoin has seen a staggering price rally over the past four months, rising from $10,000 to nearly $60,000, with just one bull market correction in the second half of January.
+
+The recent rise from $30,000 to $58,000 was even steeper, so a healthy cooling off of the market looks overdue – more so, as several technical analysis tools, including the widely tracked relative strength index (RSI), are signaling overstretched conditions with an above-70 reading.
+
+Bitcoin daily chart Source: TradingView
+
+“Technical indicators such as the RSI and Stochastics across numerous chart timeframes are indicating that the crypto asset is overbought, implying that we could soon see a retracement,” Simon Peters, an analyst at eToro, said in an email.
+
+Peters also pointed to a bearish divergence on the technical chart, while warning of weakening upward momentum and potential for trend reversal that could see prices fall.
+
+The MACD histogram, an indicator used to gauge trend strength and trend changes, has produced lower highs, contradicting higher highs on the price chart, confirming the bearish divergence.
+
+Macro factors
+
+Supporting the case for a price pullback are rising U.S. inflation-adjusted bond yields, as discussed last week.
+
+The 30-year inflation-adjusted yield, or real yield, has turned positive for the first time since June 2020, and the 10-year real yield has risen to -0.80% from lows near -1.05% observed last month, according to data provided by the U.S. Treasury.
+
+A continued rise in yields could push the U.S. dollar higher, putting selling pressure on equities and bitcoin. Stock markets are trading down at press time, with the S&P 500 futures nursing a 0.6% drop on the day.
+
+How low might bitcoin go?
+
+“The pullback can easily extend to the former resistance-turned-support near $42,000,” Joel Kruger, currency strategist at LMAX Digital, told CoinDesk. Markets typically shake out weak bulls with a drop to former hurdle-turned-support levels before extending bull runs.
+
+Bitcoin turned lower from its then-record high of $41,962 on Jan. 8, establishing that level as crucial resistance and slipped to $30,000 in the following days. The newfound resistance was a scaled on Feb. 8 after electric maker Tesla announced its $1.5 billion bitcoin purchase.
+
+Crypto analysts expect other corporates to emulate Tesla’s decision to buy bitcoin. However, they may look to invest on price pullbacks, according to Lifchitz.
+
+“$50,000 looks like the first stop for a mild pullback, but a second leg down could take it down to $40,000, while the $30,000 zone looks like the ultimate bottom should things turn ugly in the short term,” Lifchitz said.
+
+However, Patrick Heusser, head of trading at Swiss-based Crypto Finance AG, said $52,000 is major support, adding that a significant correction may remain elusive, as the derivatives market is no longer exhibiting excess bullishness.
+
+Bitcoin’s average funding rate, or the cost of holding long positions in the perpetual futures listed on major exchanges, declined (normalized) below 0.08% early today, having peaked at multi-month highs above 0.12% last week, according to Glassnode data.
+
+While analysts stand divided on possible magnitude of an impending correction, they expect the cryptocurrency to eventually go on to achieve new record highs above $60,000.
+
+“We believe markets are displaying a healthy correction,” Dibb said. “Both BTC and ETH are still trading within an upward channel, and momentum is still skewed towards the bids.”

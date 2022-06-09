@@ -1,0 +1,11 @@
+ShapeShift AG, an instant exchange for Bitcoin digital currency and other blockchain assets, recently announced it has enabled cross-chain swaps via THORChain and Ethereum-based DEX trading on its web platform. ShapeShift reported that while the capabilities were previously available on its mobile interface, the web-based functionality notably opens ETH and ERC-20 DEX trading to a range of hardware wallets, such as KeepKey, Trezor and Ledger (in addition to Portis and ShapeShift native software wallets), and enables THORChain trades on the KeepKey hardware wallet and the ShapeShift native software wallet
+
+Along with the capabilities, ShapeShift also revealed it has added USDT and SUSHI tokens to their THORChain-enabled trades, as well as the ability to hold, send and receive native RUNE on KeepKey and ShapeShift native wallets. RUNE trading is expected to be supported in the coming weeks. The platform also observed it now enables users to easily scan across multiple DEXs and trade ETH and thousands of ERC-20 tokens as well as swapping across blockchains to trade native BTC, LTC, ETH, USDT and SUSHI trustlessly through THORChain without added commissions or having to supply personally identifiable information.
+
+Speaking about the capabilities, Erik Voorhees, Founder and CEO of ShapeShift, stated:
+
+“We are bringing the DeFi experience together into one, easy-to-use platform and will continue to add more capabilities in the future.”
+
+As previously reported, ShapeShift helps customers convert between them, for example exchanging a token on the Bitcoin blockchain for a token on the Ethereum blockchain. The digital asset exchange has grown an average of 48 percent per month since launching just under three years ago. ShapeShift also operates under a strict “no fiat” policy, meaning only legitimate blockchain-based assets (no government money) are permitted on the platform.
+
+The capabilities launch less than a year after ShapeShift announced the launch of its Bitcoin mobile app. At the time of the launch, ShapeShift reported that the app allows users to buy, trade, and transfer digital assets such as Bitcoin and Ehtereum without using a third party to hold digital keys.

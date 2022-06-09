@@ -1,0 +1,43 @@
+Interested in ETFs? Visit our ETF Hub for investor news and education, market updates and analysis and easy-to-use tools to help you select the right ETFs.
+
+Regulators are taking their time evaluating the growing number of bitcoin exchange traded fund proposals. But backers of such products are wasting no time to ensure they have the vendors in place to keep them humming if they are approved.
+
+The early winner in the cryptocurrency ETF service provider contest is BNY Mellon. The New York-based bank has secured administration and/or transfer agency contracts with three of the eight bitcoin ETFs that have filed registration paperwork with the Securities and Exchange Commission, according to public announcements and regulatory disclosures.
+
+This month, BNY Mellon announced that it was selected to service First Trust’s forthcoming SkyBridge Bitcoin ETF. The bank will also serve as an administrator and fund accountant for Kryptoin Investment Advisors’ product, a prospectus shows. And Valkyrie Digital Assets has picked the bank to be the transfer agent for its proposed ETF. Valkyrie has not disclosed who will administer its Bitcoin fund.
+
+State Street and US Bank, two other heavyweights in the ETF administration space, have also been tapped for crypto fund work. State Street will provide back-office administration and transfer agency for VanEck’s bitcoin ETF, and US Bank Global Fund Services will run the back office of the NYDIG Bitcoin Trust, press releases show.
+
+This article was previously published by Ignites Asia, a title owned by the FT Group.
+
+Fidelity’s Wise Origin Bitcoin ETF trust will be administered by its FD Funds Management subsidiary.
+
+WisdomTree and Galaxy Digital Capital Management have not yet disclosed the service providers for their ETFs.
+
+The administrators would perform the same types of functions required to operate traditional ETFs broadly, including those structured as trusts under the Exchange Act of 1933. Those tasks include portfolio valuation and net asset value calculations, building and distributing creation basket files, order taking, tax administration, and regulatory and shareholder reporting.
+
+“The asset-servicing model for bitcoin ETFs and operational workflow is a direct parallel to our experience and established workflows associated with servicing [precious] metals products,” said Ben Slavin, global head of ETFs at BNY Mellon Asset Servicing. BNY Mellon is the administrator to several such ETFs, including the $58.2bn SPDR Gold Trust and the $28.4bn iShares Gold Trust.
+
+But there are some nuances to bitcoin and other cryptocurrencies that service providers have had to work into their operating platform, other operations executives say.
+
+One is dealing with the in-kind creations and redemptions of ETFs. Many authorised participants cannot physically hold bitcoins. So order-taking systems need to account for how market makers can deliver the securities into a digital wallet on their behalf, said Frank Koudelka, senior vice-president and global ETF product specialist at State Street.
+
+The Boston-based custodian has accommodated this by providing a reference number for each transaction that notes on whose behalf the market maker is delivering the cryptocurrency, Koudelka said. The company also set up a “directed trading” function in its electronic ETF order-taking platform. That platform was originally built for European ETFs and was appropriated for active non-transparent strategies. State Street plans to use it for bitcoin ETFs to help address the restricted securities problem.
+
+Since 2017, US Bank Global Fund Services has been working with NYDIG, a provider of crypto custody infrastructure, to build the systems that will make a bitcoin or other digital asset-backed ETF possible, said Christine Waldron, chief global strategy officer at US Bank Global Fund Services.
+
+The company used the unregistered fund market as a beta test, she said. That market is where much of the crypto exchanged-traded product development has occurred in recent years.
+
+“It allowed us to work through the fund accounting, fund administration,” Waldron noted. “It was a good testing ground to then step into the registered fund space and make sure we have that control-based infrastructure.”
+
+Some of the tweaks were technical, such as ensuring its fund accounting system could reconcile cryptocurrency valuations that are far more precise than traditional fund net asset values. They also worked to make sure that their anti-money laundering and know-your-customer compliance control processes will work in a world where it can be hard to verify the identity of digital wallet owners.
+
+But one area where crypto providers appear to be eschewing the establishment is in the custody space. This is partially because some of the providers, like NYDIG and Fidelity, have made safekeeping of digital assets part of their business model. Others will use crypto-custody specialists such as Coinbase and Gemini for their ETFs.
+
+BNY Mellon has made custody of ETFs part of its digital asset strategy but with a particular focus on holding cryptocurrencies alongside more traditional assets in a multi-asset portfolio.
+
+US Bank has a custody arm but has chosen to partner with crypto experts to custody bitcoin for ETFs, Waldron said. She explained that relationship was comparable to a large bank using a local one to safekeep foreign stocks in an international fund.
+
+State Street is also looking to use a subcustodian model with digital asset custodians to offer Bitcoin fund custody services later this year, Koudelka said.
+
+*Ignites is a news service published by FT Specialist for professionals working in the asset management industry. It covers everything from new product launches to regulations and industry trends. Trials and subscriptions are available at ignites.com.

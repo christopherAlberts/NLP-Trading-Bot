@@ -1,0 +1,61 @@
+More and more Colombians are using crypto, and that has regulators stepping in with rules.
+
+According to Jehudi Castro, digital transformation adviser to the Presidency of Colombia, the government simply could not ignore the upswing in crypto use in Colombia – along with various scams.
+
+“The consequence of all this crypto activity is that we have to be careful. We can’t stand by and do nothing,” Castro told CoinDesk.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+The trajectory is clear. Last year, Chilean crypto exchange Buda.com recorded $31.1 million in traded volume in Colombia. In the first three months of this year alone the exchange recorded close to $40 million traded on the platform.
+
+“It’s our best year ever. In just three months we passed our 2020 threshold. It’s crazy,” Alejandro Beltrán, Colombia country manager for Buda.com, told CoinDesk.
+
+Alejandro Beltrán Torrado will be speaking at Consensus by CoinDesk, our virtual experience May 24-27. Register here.
+
+Colombia is emerging as one of the fastest-growing crypto markets in the region, second only to Venezuela, according to Chainalysis’ 2020 global crypto adoption index. Colombia ranked ninth in the index, only three places behind the U.S. The same year, peer-to-peer crypto trading platform LocalBitcoins found Colombia to be its third-largest market globally by trading volume.
+
+The government appears to be taking note. In addition to expanding its fintech regulatory testing environment, or sandbox, to include cryptocurrency startups in 2020, regulators have issued crypto tax guidelines as well as anti-money laundering (AML) regulations. They are now conducting a pilot that allows top local commercial banks to work with notable international crypto exchanges to test certain services.
+
+But none of the recent regulatory measures appears to be overly restrictive. Banning crypto would be pointless, said Castro, who is a member of the evaluating committee for the sandbox.
+
+“The correct thing to do is gather data and implement regulations incrementally as required. The position of the Colombian government regarding crypto regulations is that they shouldn’t be made without data and without sufficient information,” Castro said.
+
+The banking pilot
+
+In January, Colombia’s financial watchdog, the SFC, announced that nine crypto firms (out of 14 applicants) were chosen to test banking services for crypto platforms in a yearlong project that started in March. According to the announcement, the goal of the pilot is to allow Colombia’s fintech firms and the national government to safely test crypto use cases under the regulatory sandbox.
+
+The country’s biggest banks have worked with international crypto exchanges operating in Colombia, and Buda.com was one of the selected firms. Bancolombia partnered with Gemini, while Davivienda bank partnered with Binance. Latin American exchanges Buda and Bitso are working with Banco de Bogotá.
+
+According to Beltrán, the banks will be working with crypto platforms to test on/off ramps for deposits and withdrawals.
+
+“But the banks don’t touch any cryptocurrencies. They don’t have a direct relationship with cryptocurrencies,” Beltrán said.
+
+The pilot project has no impact on the current regulatory framework applicable to crypto assets, the SFC said in the announcement. Castro explained that as part of the sandbox the chosen crypto firms are allowed to test their own projects under their own rules, and so the government can gather data for implementing regulations.
+
+“But those crypto firms have to work together with the government and regulated banking institutions,” Castro said, referring to the sandbox.
+
+Buda.com’s own pilot test will allow its users (who already have bank accounts with Banco de Bogotá) to make deposits on the platform through their bank accounts. Bank customers who are interested in the pilot project or cryptocurrencies can register on Buda.com to start using cryptocurrencies.
+
+Beltrán added that Buda.com is validating some details with the bank, and he hopes to begin operations in May or June.
+
+AML guidelines
+
+In December, Colombia’s Superintendency of Corporations published a circular that included AML guidelines for financial institutions in accordance with the rules specified by the global money laundering and terrorist financing watchdog, the FATF.
+
+Castro said that because banks are regulated, the partnerships between crypto firms and those involved in the sandbox presents a much easier and legal way to implement AML requirements.
+
+“The exchange must implement risk management of money laundering and terrorist financing, operational risk and cybersecurity, and consumer protection measures during the test,” Castro said. “The sandbox is allowing Colombians to carry out operations with crypto firms within high security standards and adequate risk management, in a similar way to what is currently done with e-commerce.”
+
+Beltrán said the local crypto industry had been ready for AML regulations for five years.
+
+“Before this we had a voluntary system, but now we are obligated to integrate it by the rules of Colombia,” Beltrán said.
+
+Government can’t ignore crypto
+
+It wasn’t always smooth sailing for Buda.com. In 2018, a lack of regulatory clarity about crypto in Colombia led to a number of local banks shutting down accounts held by the exchange.
+
+“The government tried for years to deny the existence of crypto but right now, because cryptocurrency is a global phenomenon, they can’t deny what’s happening and they are trying to to change their minds,” Beltrán said. He added that when the Buda.com accounts were shut down, the financial authorities did not speak to him about getting the accounts back online.
+
+According to Castro, the goal of the sandbox is to pave the way for a legal framework that doesn’t stop innovation in the crypto or decentralized finance (DeFi) space.
+
+Castro also said the Colombian government is not only carefully stepping into the crypto market but is looking at ways to use blockchain to fight corruption. Last year, the government began working with the World Economic Forum (WEF) on a blockchain-based solution to tracking government contracts in a transparent way.

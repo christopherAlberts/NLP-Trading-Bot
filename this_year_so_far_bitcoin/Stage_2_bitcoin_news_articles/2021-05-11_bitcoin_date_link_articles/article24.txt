@@ -1,0 +1,23 @@
+Police in eastern China’s Jiangxi province have recovered nearly 3 million yuan ($460,000) worth of Bitcoin stolen by a hacker, the third cryptocurrency caper to make headlines in the country this year.
+
+According to a notice Friday from police in Xiushui County, the thief, surnamed Zeng, was apprehended in the southern Guangxi Zhuang Autonomous Region on April 20 following an inter-provincial investigation.
+
+The police investigation began after a Jiangxi local surnamed Shan reported that his email address linked to a cryptocurrency trading platform account containing 8.26 Bitcoins — at the time worth 2.96 million yuan — had been hacked.
+
+To cover his illicit tracks, Zeng had linked the email to over 20 illegally obtained phone numbers and transferred the Bitcoin to himself over 30 transactions. But police managed to track and arrest him through “big data screening and analysis,” and he is now awaiting trial.
+
+Less than two months earlier, authorities in the eastern Jiangxi province had cracked another case involving 14.5 million yuan worth of cryptocurrency including Bitcoin. Six criminals had used hacking software purchased online to obtain the cryptocurrency exchange login details of a local woman. They then created a false identity based on the information gleaned and used it to apply for a replacement SIM card for the phone number linked to her account.
+
+The Chinese government has been reluctant to embrace cryptocurrencies, fearing financial risk and capital flight as well as their use for money-laundering and other criminal activities. Though China once had a thriving market for cryptocurrencies, a sweeping crackdown in 2017 banned initial coin offerings and coin-trading platforms, forcing many Chinese bitcoin operations out of the country.
+
+These suppressive measures shrank the domestic market significantly, but owning and mining cryptocurrency have remained legal. In fact, profitable bitcoin mining operations have continued largely unabated — and even been encouraged on the pretext of creating jobs. Until recently, for example, China’s Inner Mongolia Autonomous Region, where electricity is cheap and plentiful, was mining bitcoin at a higher rate than the entire United States.
+
+In April, a deputy governor of the People’s Bank of China raised eyebrows by describing bitcoin as an “investment alternative” — possibly hinting that China might adopt a more favorable attitude toward cryptocurrencies in the years to come. But then last week, CITIC Bank, a major Chinese lender, announced it would ban any account used to make purchases on bitcoin trading platforms.
+
+Apart from bitcoins being stolen, another crypto-crime that periodically makes headlines in China is the theft of electricity to mine virtual currency, an energy-intensive process that requires powerful computers processing endless streams of calculations.
+
+In one recent case, two men in northeastern China siphoned electricity from the local grid to power 147 cryptocurrency mining machines for a month. They were arrested in September of last year, sentenced to at least three years in prison, and fined a combined 150,000 yuan.
+
+Editor: David Paulk.
+
+(Header image: People Visual)

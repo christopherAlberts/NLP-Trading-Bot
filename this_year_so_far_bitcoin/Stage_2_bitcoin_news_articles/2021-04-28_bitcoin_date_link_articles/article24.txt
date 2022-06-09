@@ -1,0 +1,31 @@
+Of late, cryptocurrency, a form of digital currency, has grown increasingly attractive to investors. On 16 April 2021, the largest cryptocurrency by market capitalisation, bitcoin, soared to a new alltime high above US$63,000 -- almost tenfold of its trading price a year ago. This surge in cryptocurrency investment has naturally led to an increase in cryptocurrency exchange businesses.
+
+Landscape in Malaysia
+
+In Malaysia, cryptocurrency is regulated by the Capital Markets and Services (Prescription of Securities) (Digital Currency and Digital Token) Order 2019 (Order), under the purview of the Securities Commission Malaysia (SC). The Order provides guidance as to how and when digital currencies are recognised as securities for the purposes of securities laws in Malaysia.
+
+Trading of digital assets such as cryptocurrency takes place via an electronic platform known as a digital asset exchange (DAX). DAX is regulated under the Guidelines on Recognized Markets (DAX Guidelines), similarly under the purview of the SC. The DAX Guidelines require DAX operators to be registered as a Recognized Market Operator (DAX Operator) under s 34 of the Capital Markets and Services Act 2007 (CMSA) and the DAX Guidelines.
+
+In assessing the eligibility of an applicant aspiring to qualify as a DAX Operator, SC must be satisfied the applicant has the ability to provide a safe and secure platform for the trading of digital assets, and to fulfil, among others, the following criteria:
+
+(a) Being able to operate an orderly, fair and transparent market;
+
+(b) Having a clear or unique value proposition or will contribute to the overall development of the Malaysian capital market;
+
+(c) Being locally incorporated and have a minimum paid-up capital of RM5 million; and
+
+(d) Utilising appropriate systems, policies and controls to ensure a high degree of security and operation reliability.
+
+At present, there are only three registered DAX Operators in Malaysia.
+
+Strict enforcement
+
+The growth in cryptocurrency investment has also seen a parallel increase in illegal investment scheme often promising high returns to investors over a short period of time. In this regard, there are sanctions in place under securities laws. Companies which provide a trading platform via DAX without being registered as a DAX Operator commit an offence under s 7 of the CMSA. If convicted, the company risks being liable to a fine not exceeding RM10 million or imprisonment for a term not exceeding 10 years, or both.
+
+In tandem with the regulators' increased efforts to combat illegal investment schemes, a company was recently publicly reprimanded for offering a trading platform for cryptocurrency without being registered as a DAX Operator. The company in question was added into the SC's Investor Alert List, and access to its platform was blocked by the Malaysian Communications and Multimedia Commission.
+
+Conclusion
+
+In light of the above, aspiring DAX operators shall, therefore, ensure they comply with the relevant regulations and go through the rigorous registration exercise.
+
+At the other end of the spectrum, investors are also reminded to exercise caution and to trade only with registered DAX Operators, as engaging in trades with other unregistered entities may risk waiving one's protection and access to legal recourse under the securities laws.

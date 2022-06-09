@@ -1,0 +1,39 @@
+When bitcoin was first introduced, it had little to no value. Early adopters traded thousands of bitcoin for just a few dollars, until the infamous “Pizza Day” incident when Laszlo Hanyecz paid 10,000 BTC for two large pizzas, setting in motion a chain of events that lead to bitcoin’s value growing from a few cents to nearly $60,000 in just over a decade.
+
+Bitcoin has come a long way since then, with large corporate institutions spending years denying its value as an investable asset, only to turn around and start investing in it themselves. Recently, PayPal introduced bitcoin as a payment method with millions of merchants that use its platform, celebrities like Paris Hilton joined the community and it seems that bitcoin is poised for even more growth.
+
+By analyzing bitcoin’s past performance, it’s not impossible to get an idea of where its value is set to go next. Although many analysts and influencers alike have made bold predictions — like bitcoin growing to as much as $1 million — I thought it would be best to take a look for ourselves by analyzing each halving epoch, that is bitcoin’s performance between each halving event.
+
+The chart below explores bitcoin’s value over the last 11 years, in four separate sections called the halving epochs:
+
+The chart was inspired by a similar one I recently came across, which lacked any projections that I felt necessary to predict where bitcoin is heading next. As mentioned on the chart, each epoch is 20 times larger than the previous one and covers the times between each halving event. When analyzing and comparing each epoch, a clear trend emerges.
+
+Epoch 1: Genesis Block (2009-01-03) to First Halving (2012-11-28)
+
+In the first epoch, bitcoin found its footing after first being released by Satoshi Nakamoto in 2009. It took several months to see early adopters come on board and a dollar-based value be established, with Laszlo Hanyecz’s 10,000 BTC pizzas cementing its price. During this time, bitcoin saw its value rise from $0,00 to as high as $29.02, with early use limited to trading over forums and early, limited exchanges.
+
+Epoch 2: First Halving (2012-11-28) to Second Halving (2016-07-09)
+
+In the second epoch, bitcoin started to see further adoption. Although the infamous Mt. Gox exchange was founded in 2010 already, and had seen some controversy in 2011 with several hacks, by 2013 and early 2014, it was handling as much as 70 percent of all bitcoin transactions before the infamous hack that saw it shut down, and bitcoin seeing a large drop in value as thousands of bitcoins were stolen. Then there was the infamous Silk Road and Silk Road 2.0 platforms, which led the media to associate bitcoin with illegal activities. During the second epoch, bitcoin’s value traded for as low as $12.33 to a high of $1,134.93.
+
+Epoch 3: Third Halving (2016-07-09) to Fourth Halving (2020-05-11)
+
+By the third epoch, bitcoin had seen its adoption grow to new highs. The world’s largest investors and institutions were finally taking notice, with many changing their opinions on bitcoin as a decent asset and good store of value. Bitcoin’s run from a low of $526.98 to its famous peak of $19,640.51 in late 2017 was widely reported, as was the subsequent plunge in value. Although it became clear that bitcoin trading was volatile, asset managers and the average Joe alike took notice of bitcoin as an asset.
+
+Epoch 4: Fourth Halving (2020-05-11) to Fifth Halving (Second Half of 2024)
+
+We currently find ourselves in the fourth epoch. Public companies such as MicroStrategy and Tesla have added bitcoin to their balance sheets, new highs are being reached almost monthly and reputable investors suggest it could go as high as $1 million sometime in the near future. If bitcoin follows the same trajectory as the last epoch, I predict that it may very well reach a high of over $400,000 before, once again, seeing an almost sudden plunge in value as investors try to reap as high a profit as possible. If bitcoin does indeed follow this trajectory, I believe we may see a massive new high before the end of 2021.
+
+The Pattern and What the Future Holds
+
+It is evident that each time a halving occurs, in due time, bitcoin sees a dramatic surge to a new all-time high, beyond many expectations. As soon as this peak arrives, many start to sell their investments to reap the profits, with bitcoin then seeing a plunge as dramatic as the surge that came before it. Bitcoin’s value sees regular pumps, followed by regular dumps until it eventually stabilizes with a new bottom. For some months, it trades relatively sideways until a second surge begins. It isn’t, however, as dramatic as the one before, but it does push bitcoin’s value high enough to see it reach at least half its previous all-time high before the next halving.
+
+It is likely many of the large institutions and investors that have bought millions worth of bitcoin over the last few years will sell off their holdings once bitcoin reaches a high enough value. The same can be said about miners, who have started accumulating their newly mined coins instead of selling them. In this case, bitcoin should peak somewhere between $350,000 and $450,000, if we follow the same trend during this epoch as the last. It could take months, maybe even a year, before bitcoin sees this new high, but I believe we’re heading there sometime later this year.
+
+One concern that is quite evident is that more and more publicly traded companies are adding bitcoin to their balance sheet. This is great in terms of adoption and legitimizing bitcoin as an asset. However, these companies have shareholders, and it is very likely that a company like MicroStrategy that holds billions of dollars worth of bitcoin will see an activist shareholder or two jump on board and push it to sell off its holdings should it reach a massive new high, as predicted above.
+
+Let’s continue to look at MicroStrategy as an example. They hold over 90,000 bitcoin, currently worth north of $5 billion, with the company’s market cap being just over $6.75 billion. Should bitcoin reach a high of $400,000, it would value their bitcoin holdings over $36 billion and with BlackRock, Morgan Stanley and Vanguard owning over 30 percent of the company’s shares, they are likely to push them to sell as soon as possible and return value to shareholders. That’s over 90,000 bitcoin that could flood the market, the same could happen at many other public companies and threatens not just bitcoin’s price, but trust in it as a storage of value.
+
+What remains clear, looking at the chart above, is that bitcoin has proved time and time again that it is a trustworthy asset and store of value. It sees surges, and plunges, and it is likely to happen for several years to come. Bitcoin is by no means near its peak and even though it may take a few years, bitcoin is poised for tremendous growth and will continue to see large-scale adoption as it becomes clearer to the global audience.
+
+This is a guest post by Dion Guillaume. Opinions expressed are entirely their own and do not necessarily reflect those of BTC Inc. or Bitcoin Magazine.

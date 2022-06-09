@@ -1,0 +1,49 @@
+April 23, 2021 5 min read
+
+This story originally appeared on ValueWalk
+
+
+
+As institutional investors continue to adopt bitcoin, one concern that has come up is its connection to energy and environmental issues. ESG experts have argued that the cryptocurrency strains the environment because of all the energy it takes to mine a single bitcoin.
+
+Q1 2021 hedge fund letters, conferences and more
+
+However, in a recent report, CoinDesk argues that it isn't the case, saying that bitcoin doesn't use as much energy as some would think.
+
+Energy consumption and bitcoin mining
+
+The news outlet admits that the cryptocurrency is energy-intensive, as individuals, businesses and groups known as miners use specialized hardware to mine the cryptocurrency. They process vast volumes of transactions by grouping them into blocks and racing against each other to find a random variable that meets the pre-established protocol requirement.
+
+Uncovering that variable enables the block to be added to the blockchain, but it also consumers quite a bit of energy in the process. Miners are rewarded for the computations carried out on their machines with the issue of new bitcoins. Mining becomes profitable when the value of the new bitcoins is more than the cost of the power used to mine them.
+
+CoinDesk questions whether bitcoin mining needs to consume as much energy as it generally does. The publication notes that the cryptocurrency was created for transactions between two parties without a middleman, decentralizing the payment network. For both parties to trust each other, they must agree about who owns what and with strong enough security on the network.
+
+According to CoinDesk, "Bitcoin's energy-intensive consensus protocol is how the network achieves that consensus and integrity. If consensus were easy to achieve, then the network could be easily attacked. Mining is energy-intensive so that it is prohibitively expensive to attack the Bitcoin network."
+
+If bitcoin were a country
+
+Bitcoin is a "proof-of-work" chain with fairly transparent energy use because there's only a single step between power input and bitcoin output. As a result, bitcoin's energy footprint is fully contained by the energy consumed by mining. Today, bitcoin uses about 0.58% of global energy consumption, which would rank it 29th in energy consumption if it were a country.
+
+CoinDesk emphasizes that bitcoin isn't a country, adding that comparing its power consumption to that of countries doesn't accomplish much more than understanding how much it consumes. Of the nations with mining operations, bitcoin makes up no more than 1.29% of any one country's total power consumption.
+
+In the U.S., video game consoles make up about 0.25% of energy consumption, while construction, commercial cooling, commercial ventilation and commercial lighting range from 2% to 3%. CoinDesk explains that such a context is important because energy use for bitcoin mining is spread among multiple countries, which means it's useless to compare the cryptocurrency's consumption to that of countries.
+
+What kind of energy does bitcoin use?
+
+As it's been established that bitcoin mining uses a lot of energy, the next consideration is what kind of energy it uses. One of the big concerns about energy use is that bitcoin miners in Asia may be using coal-fired electricity, which is known for its mass pollution across China. However, CoinDesk reports that a sizable percentage of the power used to mine bitcoin is renewable.
+
+The publication referenced a 2020 study conducted by the CCAF, which found that 39% of the total energy used for bitcoin mining came from renewable sources in 2019, up from 28% the year before. The study also found that 76% of miners were using renewable energy sources as part of their energy mix.
+
+Problems with renewable energy sources for bitcoin
+
+CoinDesk points out that hydroelectricity is by far the most common source of renewable energy used by bitcoin miners. However, it is also widely considered the least desirable form due to the damage caused by mismanagement of the system and potential methane emissions. CoinDesk argues that bitcoin miners shouldn't become overly dependent on any one source of renewable energy because there is no perfect source.
+
+For example, while wind energy is cost-effective, it is intermittent, and wind turbines can hurt local wildlife. Solar energy faces possible pollution from the photovoltaic cells that convert sunlight into energy, and it is intermittent and inefficient in conversion.
+
+Geography is also an essential part of the conversation over bitcoin mining and energy consumption. According to the CCAF, about 65% of the hashrate is in China, where energy generation has been heavily skewed toward coal. However, 15% of the mining occurs in provinces where the energy mix is mostly renewable. The rest of the mining was in Xinjiang and Inner Mongolia, where coal is prevalent. However, operations in Inner Mongolia have been shut down, and Xinjiang has been moving toward renewable energy.
+
+Bitcoin as a battery
+
+CoinDesk also made another interesting point. Bitcoin can be seen as a sort of battery because of its use as a store of value. While bitcoin mining is mobile, energy production isn't always, especially in the case of renewable energy.
+
+Bitcoin miners could set up shop in a remote area with lots of renewable energy, an economic boon to the community. While the idea of bitcoin as a battery may be a bit misleading, it is serving as a storage location, but it is storing value instead of power. Miners are taking unused energy that would otherwise be wasted and transforming it into value through bitcoin.

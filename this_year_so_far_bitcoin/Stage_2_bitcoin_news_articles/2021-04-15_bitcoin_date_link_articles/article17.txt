@@ -1,0 +1,21 @@
+The code for Taproot’s “Speedy Trial,” an activation method for Bitcoin’s biggest upgrade in years, has been merged into Bitcoin Core.
+
+On April 15, Bitcoin Core developers Fanquake and Marco Falke merged two complementary pull requests authored by AJ Townes and Andrew Chow for Speedy Trial. With Speedy Trial now merged into Bitcoin Core’s source code, Taproot’s code is ready to start its first step toward activation when the code is released in May.
+
+Bitcoin’s community, from developers to avid users, all agree that Taproot, which implements the Schnorr signature scheme into Bitcoin code, will be a boon for the network by making complex transactions (what the cool kids call “smart contracts”) more scalable and private.
+
+No one has agreed on how to bring Taproot online, though. Because Bitcoin is decentralized, it requires painstaking coordination between actors to make sure an upgrade is released properly. After months and months of activation discussions led to a stalemate, Bitcoin developer David Harding and Russell O’Connor devised Speedy Trial as a way to put an end to the impasse.
+
+How Speedy Trial works
+
+The compromise allots a three-month activation window, during which time the network requires a certain threshold of miners to signal for the upgrade; if this threshold is reached, then Taproot is “locked in” and activates in November of this year.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Should this trial fail, then Taproot doesn’t activate (and the network will have only wasted three months trying, hence “speedy”).
+
+Speedy Trial brokered an agreement between those who wanted an activation via Bitcoin Improvement Proposal (BIP) 9, which means the upgrade fails if miners don’t adopt, and BIP8, which gives node operators (those running Bitcoin’s source code who act as “servers” for the network) an option to force the upgrade with a user activated soft fork if it fails.
+
+Miners have shown no signs of blocking the upgrade, making the drawn-out discussions a source of frustration for some stakeholders.
+
+Correction: April 16, 2021, 00:05 UTC: This article was corrected to note that the pull requests were merged by Fanquake and Marco Falke, not Greg Maxwell.

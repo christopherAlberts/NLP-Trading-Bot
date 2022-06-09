@@ -1,0 +1,93 @@
+Seems obvious, right? Well, there’s a common misconception among new crypto market participants that bitcoin is a company stock. While its price activity can correlate with traditional markets on occasion, it is, in fact, an entirely separate asset class.
+
+Bitcoin is a cryptocurrency – a type of digital asset secured by cryptography that can be used to make electronic payments over the internet or act as a store of value like gold or silver.
+
+Think of cryptocurrencies as the emails of the currency world. They do not exist in physical form, they can be sent in minutes and they do not require multiple intermediaries to handle the payment.
+
+Unlike fiat currencies like the U.S dollar or euro that store all card and wire transactions on a central ledger maintained by a single authority, bitcoin and other cryptocurrencies use a technology called “blockchain.” This is a globally distributed ledger that can be maintained and copied by anyone on the planet and ensures total immutability and transparency.
+
+Key differences between bitcoin and stocks
+
+Stocks
+
+Traded on traditional stock exchanges such as Nasdaq, London Stock Exchange, Deutsche Börse, etc.
+
+Can only be traded Monday to Friday. Market opening and closing times vary between stock exchanges
+
+Regulated financial products
+
+Purchasers receive share certificates to show legal proof of ownership
+
+Companies can produce new shares after publicly launching, though there is a finite limit
+
+Brokerages maintain their own record of stock trades that they execute on behalf of clients. In the United States, this information is not publicly available unless an investor purchases over 5% of a listed company
+
+Bitcoin
+
+Traded on centralized and decentralized crypto exchanges
+
+Crypto markets do not close so bitcoin can be traded at any time on any day
+
+Bitcoin is not a regulated investment vehicle; however, most international jurisdictions recognize it as property
+
+Purchasers can hold their own bitcoin or delegate safe storage to third-party custodians
+
+There will only ever be 21 million bitcoins. No new coins can be created
+
+The Bitcoin blockchain publicly records all transactions and can be viewed or downloaded by anyone at any time
+
+Company stocks that are tied to bitcoin
+
+Despite the differences between these two investment options, there are a number of publicly traded companies whose stocks are tied to the performance of bitcoin. This is because the companies are either directly engaged in bitcoin-related activities such as mining, hold a substantial amount of bitcoin in reserves or their target market is crypto users.
+
+These companies include:
+
+Silvergate Capital
+
+MicroStrategy
+
+Square
+
+Riot Blockchain
+
+Nvidia
+
+Argo Blockchain
+
+MGT Capital Investments
+
+BitFarms
+
+Diginex
+
+Hut 8 Mining
+
+Voyager Digital
+
+Canaan Creative
+
+This generally means that when bitcoin’s price is performing well these stocks also tend to perform well, and vice versa. Recently, JPMorgan launched a new financial product called the “Cryptocurrency Exposure Basket” – a debt instrument linked to leading crypto focused companies that allows investors to gain indirect exposure to bitcoin and the altcoin market.
+
+Stocks that trade closest to BTC
+
+According to data from Morningstar, 2020 was a record year for the world’s largest cryptocurrency in terms of its correlated performance to traditional equities.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Correlation is the measure of the relationship between two or more items. In this case, it’s used to measure the relationship between the price movements of two markets. There are several methods to calculate correlation, though the Pearson Product-Moment Correlation Coefficient (PPMCC) is the preferred method for measuring similarities between different financial assets. The PPMCC is measured between 1.0 and -1.0. The closer the value is to -1.0, the less correlated the two assets are; the closer the value is to 1.0, the more correlated are the two assets.
+
+For anyone interested to know how PPMCC is calculated, here’s the equation: ρxy ​= Cov(x,y) / σx​σy​
+
+Where ρxy = Pearson product-moment correlation coefficient
+
+Cov(x,y) = covariance of variables x and y
+
+σx = standard deviation of x
+
+σy = standard deviation of y
+
+​The chart below illustrates a clear rise in correlation between bitcoin and a range of traditional financial markets, including the S&P 500, gold, oil and U.S. bonds.
+
+The highest correlation between bitcoin and the stock market is the S&P 500 – an index of the largest 500 companies in the United States – with a value of 0.22. This is most likely due to a rise in institutional investment entering the crypto market and large players adding bitcoin to diversify their portfolios. When either market rises or falls it presumably creates a knock-on effect that spreads to other markets.
+
+Chart by Morningstar showing bitcoin correlation to stocks and commodities. Source: Morningstar/Nasdaq/VanEck

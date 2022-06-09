@@ -1,0 +1,35 @@
+You don't need your own crypto wallet for Bitcoin, but it could make sense in some circumstances.
+
+There are plenty of places to buy Bitcoin, but how should you store it? You can leave it in the same place you buy it -- for example, if you buy your Bitcoin through Cash App, you can hold it in your Cash App account as long as you want. On the other hand, you could hold your Bitcoin and other cryptocurrencies in your own wallet. In this article, we'll take a look at the security risks of both options, and whether a separate cryptocurrency wallet is necessary.
+
+Start your journey to financial success with a bang Get free access to the select products we use to help us conquer our money goals. These fully-vetted picks could be the solution to help increase your credit score, to invest more profitably, to build an emergency fund, and much more. By submitting your email address, you consent to us sending you money tips along with products and services that we think might interest you. You can unsubscribe at any time. Please read our Privacy Statement and Terms & Conditions.
+
+Option 1: Leave your Bitcoin where you bought it
+
+Leaving your Bitcoin at the exchange or brokerage you bought it from is generally a very secure option. While security protocols vary by exchange, there are three types of security that most top cryptocurrency exchanges use to ensure customer accounts are safe:
+
+With most exchanges, the vast majority of Bitcoin in customer accounts is kept in cold storage, meaning it is held in wallets not connected to the internet. This Bitcoin is not vulnerable to hackers.
+
+Exchanges typically keep some Bitcoin in hot wallets (internet-connected) to ensure customers who want to buy, sell, and transfer their digital currencies have proper liquidity to do so. The exchange usually has an insurance policy to protect customers in the unlikely event that this Bitcoin is stolen.
+
+Bitcoin in hot wallets (internet-connected) to ensure customers who want to buy, sell, and transfer their digital currencies have proper liquidity to do so. The exchange usually has an insurance policy to protect customers in the unlikely event that this Bitcoin is stolen. Finally, most exchanges hold client funds in custodial accounts at FDIC-insured banks, so the cash balance in your account is safe as well.
+
+However, none of these security measures can protect you if your account is hacked and someone transfers your Bitcoin without authorization. So, while keeping your Bitcoin at an exchange is fairly safe from hacking incidents, it's very important to protect your passwords and other authentication measures. After all, once someone transfers your Bitcoin out of your account, it's gone.
+
+Option 2: Get your own Bitcoin wallet
+
+Technically, even if you leave your Bitcoin with an exchange, you're using a Bitcoin wallet. However, it's known as a custodial wallet, since a third party has custody of your funds.
+
+The other option is to get your own Bitcoin wallet, which gives you full control of your Bitcoin and its security keys (private codes that prove you own the Bitcoin). And there are a few different subcategories.
+
+The Ascent's picks for the best online stock brokers Find the best stock broker for you among these top picks. Whether you're looking for a special sign-up offer, outstanding customer support, $0 commissions, intuitive mobile apps, or more, you'll find a stock broker to fit your trading needs. See the picks
+
+Software wallet: A Bitcoin wallet on your computer. You own your Bitcoin, but you are still vulnerable to hacking if your computer has an internet connection.
+
+A Bitcoin wallet on your computer. You own your Bitcoin, but you are still vulnerable to hacking if your computer has an internet connection. Hardware wallet: If you store your Bitcoin on a physical piece of hardware (say, a portable hard drive), it virtually eliminates your risk of being hacked.
+
+If you store your Bitcoin on a physical piece of hardware (say, a portable hard drive), it virtually eliminates your risk of being hacked. Paper wallet: You can store your Bitcoin keys solely in paper form, but these are easy to lose.
+
+Do you need a crypto wallet?
+
+There's no one-size-fits-all answer. But for most people, leaving Bitcoin in the custody of an exchange is perfectly safe, assuming you take proper steps to safeguard passwords and other authentication methods. However, if you have a large quantity of Bitcoin or you simply want your digital currency to be as secure as possible, a Bitcoin wallet can be a good idea.

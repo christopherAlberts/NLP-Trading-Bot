@@ -1,0 +1,37 @@
+Interested in ETFs? Visit our ETF Hub for investor news and education, market updates and analysis and easy-to-use tools to help you select the right ETFs.
+
+London is preparing for its first listed security tracking the price of bitcoin, with a launch that uses crypto-friendly Swiss market rules to swim against a tide of regulatory scepticism about digital assets.
+
+ETC Group, a UK provider of cryptocurrency-related instruments, has traded $5.4bn since launching its bitcoin-backed exchange-traded product on the German Stock Exchange. It is now poised to expand to the main Paris and Amsterdam markets this week.
+
+From early June, investors will be able use an exchange in the UK to trade its debt securities too. But the company says when it explored going to the London Stock Exchange, it hit a regulatory brick wall. LCH, the LSE’s clearing house, does not accept crypto products. Instead ETC turned to another regulated UK market, Aquis Exchange.
+
+The launch underscores tensions in the UK among institutional fund managers seeking legal ways to trade digital currencies, regulators concerned about protecting investors and policymakers keen to attract innovation.
+
+“Logically the UK should be at the centre of this business. It’s always been the hub of innovation and banking, but you get the signal from the [regulator] that you’re not wanted. We looked at getting a listing on the LSE but we were told ‘no’,” said Bradley Duke, chief executive of ETC Group and a former trading executive at Jefferies and BCS Group. The LSE declined to comment. The FCA said it did not comment on specific cases.
+
+The UK listing is possible because the security is also listed in Switzerland, and Aquis will send it to be cleared there too. The UK reopened the path for Swiss securities to resume trading in London in February after it left the EU’s single market.
+
+The London legal framework position on cryptocurrency is much more mature, robust and comprehensive than it is in France
+
+ETC’s stuttering efforts to gain a high-profile presence in the UK market come as other firms have also struggled to gain a foothold. More than 50 companies have withdrawn applications with the Financial Conduct Authority to operate registered cryptocurrency businesses in Britain after the watchdog pushed back over low standards, according to a person with knowledge of the process.
+
+Other trading executives and investors have grown frustrated with what they see as an uncooperative attitude by UK regulators. Retail investors in the UK are restricted from trading crypto derivatives as the regulator says they are “akin to gambling”.
+
+Many cryptocurrency executives are looking to Switzerland, which has developed rules in a bid to become a world centre for digital currencies. Cryptocurrency exchanges are legal in the country if they secure a licence and meet rules combating financial crime. Cryptocurrency hedge fund Tyr Capital has been relocating partners there from London for the past 18 months.
+
+“We’re moving to a country where there’s already skeleton regulation and they discuss the future of the regulations with players like us,” said Edouard Hindi, a partner at Tyr. “The Swiss Chamber of Commerce [helped] facilitate my [visa] paperwork. They knew we were running a crypto fund. The UK is too busy to be dealing with crypto.”
+
+The UK is not alone in its cautious attitude to crypto-related securities. In the US, the Securities and Exchange Commission has repeatedly deferred making a decision allowing the launch of bitcoin-backed exchange traded funds. Michael Hsu, acting comptroller of the currency, said in an interview with the Financial Times he hoped US officials would work together to set a “regulatory perimeter” for cryptocurrencies.
+
+Elie Le Rest, co-founder and partner at Paris-based digital assets fund manager ExoAlpha, said France was well known for its heavy and capricious regulation in this space.
+
+“From Paris, the London legal framework position on cryptocurrency is much more mature, robust and comprehensive than it is in France,” he said. “[In London] established businesses are willing to explore relationships with crypto entrepreneurs, whereas in Paris, bank accounts get closed and insurance is almost impossible to get for crypto businesses.”
+
+Xavier Rolet, former chief executive of London Stock Exchange Group, said securities regulators were in a difficult position because cryptocurrencies underpinning these securities were highly volatile and had no intrinsic value. He also doubted Switzerland would be able to steal a lead on other market centres.
+
+“The Swiss approach cannot work because it only applies within the borders of Switzerland. There’s no chance that what they’ve done [in terms of crypto regulation] will be accepted cross-border. It’s not scalable,” he said.
+
+And investors still face scepticism from central banks. “I don’t want to be the person labelled as against innovation, but there’s a danger we get carried away. Cryptocurrencies are dangerous and there’s a huge enthusiasm out there,” Andrew Bailey, governor of the Bank of England, told MPs in late May.
+
+But Rolet argues central banks may need to develop their own digital currencies to curb private market issuance and stamp out potential fraud. “If central banks come up with a global digital currency then these crypto products would disappear,” he said.

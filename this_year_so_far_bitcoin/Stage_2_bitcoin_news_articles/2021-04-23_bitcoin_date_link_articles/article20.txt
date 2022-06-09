@@ -1,0 +1,111 @@
+ROCHESTER, N.Y., April 23, 2021 (GLOBE NEWSWIRE) -- Bitfarms Ltd. (“Bitfarms”) (TSXV:BITF / OTC:BFARF), and Foundry Digital LLC (“Foundry"), a wholly-owned subsidiary of Digital Currency Group (DCG) focused on digital asset mining and staking, jointly announce Bitfarms’ purchase of 2,465 Whatsminer M30S Bitcoin mining machines through Foundry’s services, among other updates.
+
+
+
+Foundry Partnership
+
+Of the 2,465 machines, the first 1,465 were previously installed in Bitfarms’ Sherbrooke facility in Q3 2020 for hosting. With the purchase of these machines, Bitfarms has ended its last hosting agreement and returned 100% of installed power capacity for its own Bitcoin production. Collectively, these machines have increased Bitfarms’ operating hashrate by 133 PH/s.
+
+The global chip shortage and Bitcoin’s rising price continue to squeeze the supply of Bitcoin mining machines. Standard lead times for orders of latest generation machines currently range from 8 - 12 months and require down payments of 50-100% of the purchase price.
+
+In light of this, Foundry, the market leader for mining equipment financing in North America, has formed strategic partnerships with the world’s leading Bitcoin mining manufacturing companies to secure earlier access to machines for its clients. Foundry has already helped to procure nearly half of the Bitcoin mining machines installed in North America in 2020.
+
+The purchase and financing of the first 1,465 machines through Foundry’s financing services enabled Bitfarms to immediately increase its operating hashrate by 11% with only a 10% down payment of approximately US$1 million. With current hardware prices being at record highs, financing has become a crucial component for Bitfarms to grow its operating hashrate with minimal cash outflows. With prevailing economics, Bitfarms expects to recover its initial deposit in under a month, and this equipment is expected to generate positive cash flows for another 3 to 5 years.
+
+Under similar terms, Bitfarms will obtain financing to purchase an additional 1,000 Whatsminer M30S machines. These machines will produce 90 PH/s and are scheduled to be delivered in three shipments of 300-400 units in September, October and November. In addition, Foundry commits to providing Bitfarms with a US$10 million equipment financing credit facility in early 2022 to help finance the acquisition of new machines.
+
+Bitfarms is also pleased to join the Foundry USA Pool. This marks the first time Bitfarms has used a North America based pool. In addition to providing the same amount of revenue for Bitfarms via a full-pay-per-share (FPPS) model, the pool also has a number of powerful management, auditing and reporting capabilities which will give Bitfarms greater insight and control over its most precious asset, its hashrate.
+
+“We are excited to partner with an industry-leading provider of equipment financing to secure timely and reliable access to the latest generation of Bitcoin mining machines, and to continue to grow our business,” said Emiliano Grodzki, CEO of Bitfarms.
+
+“We are pleased to provide Bitfarms, which is a leading Bitcoin mining company in North America, with equipment financing and a mining pool that has been designed to help publicly traded companies such as Bitfarms scale their operations locally and in a fully compliant manner,” said Mike Colyer, CEO of Foundry.
+
+
+
+Miner Rehabilitation Update
+
+On April 16th, Bitfarms announced the start of a ‘miner rehabilitation program’ for 80 PH/s of older and mid-generation Bitcoin mining machines. Bitfarms is pleased to announce that over half of those machines have now been repaired, restoring over 40 PH/s and increasing Bitfarms’ installed operating hashrate to 1.38 EH/s — the largest currently reported in North America by a public company.
+
+About Foundry
+
+A subsidiary of DCG, Foundry is a financing and advisory company focused on digital asset mining and staking. With the mission of empowering decentralized infrastructure for a digital world, Foundry provides North American digital asset mining businesses with capital and intelligence. Foundry is based in Rochester, NY. For more information, please visit foundrydigital.com .
+
+About Bitfarms
+
+Bitfarms was founded in 2017 and is a Bitcoin mining company. It runs vertically integrated mining operations with onsite technical repair, data analytics and engineers to deliver high performance and uptime of operations.
+
+Having demonstrated rapid growth and stellar operations, Bitfarms became the first Bitcoin mining company to complete its long form prospectus with the Ontario Securities Commission and started trading on the TSX-V in July 2019. Bitfarms is currently listed as a Rising Star by the TSX-V and is in the process of seeking a second listing which would be on the Nasdaq.
+
+Bitfarms has a diversified production platform with five industrial scale facilities located in Québec. Each facility is 100% powered with environmentally friendly hydro power and secured with long-term power contracts. Bitfarms is currently the only publicly traded pure-play mining company audited by a Big Four audit firm.
+
+To learn more about Bitfarms’ events, developments and online communities:
+
+Website: www.bitfarms.com
+
+https://www.facebook.com/bitfarms/
+
+https://twitter.com/Bitfarms_io
+
+https://www.instagram.com/bitfarms/
+
+https://www.linkedin.com/company/bitfarms/
+
+Defined Terms
+
+EH/s: Exahash per second.
+
+PH/s: Petahash per second.
+
+w/TH: Watt per Terahash.
+
+Cautionary Statement
+
+Trading in the securities of the Company should be considered highly speculative. No stock exchange, securities commission or other regulatory authority has approved or disapproved the information contained herein. Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release.
+
+Forward-Looking Statements
+
+This news release contains certain “forward-looking information” within the meaning of applicable securities laws that are based on expectations, estimates and projections as at the date of this news release. The information in this release about future plans and objectives of the Company is forward-looking information. Other forward-looking information includes, but is not limited to, information concerning: the intentions, plans and future actions of the Company, as well as Bitfarms’ ability to successfully mine digital currency, revenue increasing as currently anticipated, the ability to profitably liquidate current and future digital currency inventory, volatility of network difficulty and digital currency prices and the resulting significant negative impact on the Company’s operations, the construction and operation of expanded blockchain infrastructure as currently planned, and the regulatory environment of cryptocurrency in the applicable jurisdictions.
+
+Any statements that involve discussions with respect to predictions, expectations, beliefs, plans, projections, objectives, assumptions, future events or performance (often but not always using phrases such as “expects”, or “does not expect”, “is expected”, “anticipates” or “does not anticipate”, “plans”, “budget”, “scheduled”, “forecasts”, “estimates”, “believes” or “intends” or variations of such words and phrases or stating that certain actions, events or results “may” or “could”, “would”, “might” or “will” be taken to occur or be achieved) are not statements of historical fact and may be forward-looking information and are intended to identify forward-looking information.
+
+This forward-looking information is based on reasonable assumptions and estimates of management of the Company at the time it was made, and involves known and unknown risks, uncertainties and other factors which may cause the actual results, performance or achievements of the Company to be materially different from any future results, performance or achievements expressed or implied by such forward-looking information. Such factors include, among others, risks relating to: the global economic climate; dilution; the Company’s limited operating history; future capital needs and uncertainty of additional financing; the competitive nature of the industry; currency exchange risks; the need for the Company to manage its planned growth and expansion; the effects of product development and need for continued technology change; protection of proprietary rights; the effect of government regulation and compliance on the Company and the industry; network security risks; the ability of the Company to maintain properly working systems; reliance on key personnel; global economic and financial market deterioration impeding access to capital or increasing the cost of capital; and volatile securities markets impacting security pricing unrelated to operating performance. In addition, particular factors that could impact future results of the business of Bitfarms include, but are not limited to: the construction and operation of blockchain infrastructure may not occur as currently planned, or at all; expansion may not materialize as currently anticipated, or at all; the digital currency market; the ability to successfully mine digital currency; revenue may not increase as currently anticipated, or at all; it may not be possible to profitably liquidate the current digital currency inventory, or at all; a decline in digital currency prices may have a significant negative impact on operations; an increase in network difficulty may have a significant negative impact on operations; the volatility of digital currency prices; the anticipated growth and sustainability of hydroelectricity for the purposes of cryptocurrency mining in the applicable jurisdictions, the ability to complete current and future financings, any regulations or laws that will prevent Bitfarms from operating its business; historical prices of digital currencies and the ability to mine digital currencies that will be consistent with historical prices; an inability to predict and counteract the effects of COVID-19 on the business of the Company, including but not limited to the effects of COVID-19 on the price of digital currencies, capital market conditions, restriction on labour and international travel and supply chains; and, the adoption or expansion of any regulation or law that will prevent Bitfarms from operating its business, or make it more costly to do so. For further information concerning these and other risks and uncertainties, refer to the Company’s filings on www.SEDAR.com including the annual information form for the year ended December 31, 2020, filed on April 7, 2021. The Company has also assumed that no significant events occur outside of Bitfarms’ normal course of business. Although the Company has attempted to identify important factors that could cause actual results to differ materially from those expressed in forward-looking statements, there may be other factors that cause results not to be as anticipated, estimated or intended. There can be no assurance that such statements will prove to be accurate as actual results and future events could differ materially from those anticipated in such statements. Accordingly, readers should not place undue reliance on forward-looking information. The Company undertakes no obligation to revise or update any forward-looking information other than as required by law.
+
+Contacts
+
+Investor Relations:
+
+CORE IR
+
++1 516 222 2560
+
+Investors@bitfarms.com
+
+Media Contacts:
+
+Foundry
+
+
+
+BlocksBridge Consulting
+
+Nishant Sharma, Founder and Partner
+
+foundry@blocksbridge.com
+
+Bitfarms
+
+US Media:
+
+Core IR
+
+Jules Abraham, Director of Public Relations
+
+julesa@coreir.com
+
+
+
+YAP Global
+
+Mia Grodsky, Account Executive
+
+mia@yapglobal.com

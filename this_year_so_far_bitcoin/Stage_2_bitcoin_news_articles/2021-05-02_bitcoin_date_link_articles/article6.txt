@@ -1,0 +1,81 @@
+ktsimage / Getty Images/iStockphoto
+
+You might not have even heard of Bitcoin until a few years ago — or maybe even more recently than that. Believe it or not, the world’s biggest cryptocurrency is more than a dozen years old. But its roots go all the way back to the time of the analog world when the concept of private, anonymous, computerized money first emerged in the closing decades of the 20th century. Here’s how one of the greatest stories in the history of both technology and money has played out so far.
+
+Read: 10 Best Cryptocurrencies To Invest In for 2021
+
+1970s-1990s: Early Pioneers Lay the Foundation
+
+For most people, Bitcoin just came out of nowhere one day when everyone started talking about it on Twitter. The truth is that Bitcoin stands on the shoulders of visionary cryptographers and computer scientists who were way ahead of their time at the dawn of the era of personal computers.
+
+1976: Inspired by the work of computer scientist Ralph C. Merkle, cryptographers Whitfield Diffie and Martin Hellman publish the white paper “New Directions in Cryptography.” It outlines the concept of public-key cryptography, which Bitcoin would use more than 30 years later to specify ownership.
+
+1983: Computer scientist David Chaum creates eCash, a digital currency that uses a type of cryptography called “blind signatures” to provide secure and anonymous transactions. It is the first known example of what would become cryptocurrency.
+
+1997: Building on what Chaum had started, cryptographer and cypherpunk Adam Back invents Hashcash, which uses a “proof of work” system that will later make Bitcoin mining possible.
+
+See: How Does Cryptocurrency Work – and Is It Safe?
+
+2007-2009: Bitcoin Is Born
+
+Looking back, it’s hard to believe that a whole decade passed after 1997 without someone inventing the equivalent of Bitcoin. Between proof-of-work protocols, the internet, public-key cryptography and blind signatures, the crypto community had everything it needed — plus two decades’ worth of research, experiments and knowledge to build on. Yet somehow, the world waited until 2007 for a mysterious person or people that went by the name Satoshi Nakamoto to bring to fruition the combined efforts of all those who had come before.
+
+Story continues
+
+2007: Satoshi Nakamoto begins coding for what will become Bitcoin. The name is a pseudonym for the still-anonymous crypto creator, who could be a man, woman or even a group of people. Since Satoshi is traditionally a man’s name, Satoshi Nakamoto is often referred to as “he” or “him.”
+
+2008: Satoshi Nakamoto publishes a white paper called “Bitcoin: A Peer-to-Peer Electronic Cash System” to an online cryptography newsletter.
+
+Check Out: Bitcoin Cash (BCH): How’s It Differ From Bitcoin and What’s It Worth?
+
+2008: The domain name bitcoin.org is registered.
+
+2009: The Bitcoin network goes live when Satoshi Nakamoto mines Bitcoin block No. 0, known as the “genesis block.” It came with a reward of 50 Bitcoins and its coinbase was embedded with this text: “The Times Jan/03/2009 Chancellor on brink of second bailout for banks.”
+
+2009: In the world’s first P2P Bitcoin transaction, Satoshi Nakamoto sends 10 Bitcoins to Hal Finney, a computer scientist and early adopter of Bitcoin, after he mines a block. Also in 2009, Finney became the first person to tweet about Bitcoin.
+
+2010: Bitcoin Becomes a Thing With Real-World Value
+
+Bitcoin had no quantifiable value in its infancy. Hobbyists and computer scientists like Finney traded it amongst themselves. That all changed on May 22, 2010, when a man named Laszlo Hanyecz got hungry.
+
+2010: Crypto-miner Laszlo Hanyecz offers 10,000 Bitcoins from his personal stash to anyone who can make two Papa John’s pizzas appear at his house. A fellow crypto-geek delivered, then Papa John’s delivered, then Hanyecz delivered on his end of the bargain. It was history’s first real-world cryptocurrency payment for something of tangible value — two large pies for the 2021 equivalent of nearly a half-billion dollars.
+
+More: Coinbase, the Largest US Cryptocurrency Exchange, Goes Public
+
+2010: Since the two pizzas cost $25 and that transaction was settled with 10,000 Bitcoins, the cryptocurrency community agreed that a single Bitcoin should be worth one-quarter of a penny. Bitcoin now had a monetary value and an exchange rate.
+
+2010: Just a few months after Laszlo Hanyecz ate what would become the world’s most expensive pizzas, Bitcoin began trading on open exchanges. Non-computer whizzes could now buy it, sell it and price it against the U.S. dollar. Its opening asking price was $0.0008, or eight 10,000ths of a dollar. In less than a month, its price skyrocketed to eight cents per Bitcoin.
+
+2011-2019: Fortunes Are Made on the Bitcoin Roller Coaster
+
+In the 2010s, Bitcoin went on one of the wildest rides in the history of investing. With a run defined by giddy highs and bottomless lows, Bitcoin began the decade as a virtual unknown that traded for a few pennies per unit. By the end of the decade, companies like Tesla accepted Bitcoin as payment and it was so valuable that a single one was enough to buy an actual Tesla with plenty of change to spare.
+
+Read: Ethereum (ETH): What It Is, What It’s Worth and Should You Be Investing?
+
+2011: Bitcoin makes history when it breaks through the $1 mark and keeps climbing all the way up to $31. Ecstatic investors are disappointed to realize it’s a bubble — the first of many for Bitcoin — and when it pops, prices crater back down to single digits.
+
+2011: In the first known mainstream news coverage of Bitcoin, Time runs an article by Jerry Brito with the headline “Online Cash Bitcoin Could Challenge Governments, Banks.”
+
+2013: Bitcoin’s potential and its potential for extreme volatility are realized when it starts 2013 trading around $12 and leaps to $1,242 — about the same as an ounce of gold — by November. From this moment forward, there is simply no more ignoring Bitcoin.
+
+2016: After crashing into the low triple-digits, Bitcoin is back approaching $1,000 in 2016.
+
+2017: Bitcoin hits the $1,000 mark again and begins a run reminiscent of the dotcom bubble of the 1990s. On Dec. 16, Bitcoin peaks at an astonishing $19,497.40.
+
+2018: Prices collapse to sub-$10,000 levels again before reaching bedrock in the low $3,000s. Moving into 2019 prices briefly reach $10,000 again.
+
+2020-Today: Bitcoin Finds Pandemic Power — and Mainstream Credibility
+
+The private, untraceable and anonymous nature of Bitcoin put the cryptocurrency in high demand during the uncertainty and mistrust that defined the pandemic. Thanks to COVID-19, Bitcoin gained rock-star status and a place in the mainstream.
+
+See: Dogecoin (DOGE): What It Is, What It’s Worth and Should You Be Investing?
+
+2020: Bitcoin starts the year at $7,200 but roars back into five figures by midsummer. As the year draws to a close in December, Bitcoin leaps past its 2017 record after trading in the $20,000s for the first time ever.
+
+2021: Bitcoin passes $30,000 at the beginning of January, $50,000 one month later in February, then $60,000 just one month after that in March. As of April 22, Bitcoin is trading at a little over $52,000 per coin.
+
+2021: As of April 2021, some of the world’s biggest and most recognizable brands are accepting Bitcoin as a form of payment. You can buy just about anything anywhere with a Bitcoin Visa or Mastercard. Microsoft, AT&T and Burger King all accept Bitcoin, as do KFC, Overstock, Subway, Shopify, several pro sports franchises and Pizza Hut (but not Papa John’s). You can buy a Tesla with Bitcoin and you can buy, sell and hold it on PayPal. As the third decade of the 21st century gets underway, it does so with Bitcoin squarely in the mainstream.
+
+More From GOBankingRates
+
+This article originally appeared on GOBankingRates.com: Here’s a Bitcoin Timeline for Everything You Need To Know About the Cryptocurrency

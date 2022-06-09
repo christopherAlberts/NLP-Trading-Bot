@@ -1,0 +1,61 @@
+Recently, Bloomberg published a piece calling Bitcoin an “incredibly dirty business.” It’s undeniable that the Bitcoin blockchain has a carbon footprint. Some bitcoins are mined with non-renewable energy, although plenty is mined with hydro, nuclear, or otherwise-vented natural gas, too. No one contests the externality of bitcoin, although the precise carbon footprint is debated. However, the article, by opinion columnist Lionel Laurent unfortunately relies on the flawed assumption that individual bitcoin transactions carry an energy overhead.
+
+The question of bitcoin’s energy footprint is riven with misconceptions. Firstly, it’s a mistake to compare bitcoin to payment networks, and comparisons relying on relative energy use are spurious.
+
+CoinDesk columnist Nic Carter is partner at Castle Island Ventures, a public blockchain-focused venture fund based in Cambridge, Mass. He is also the co-founder of Coin Metrics, a blockchain analytics startup.
+
+Second, metrics like the “per-transaction energy cost” are misleading because transactions themselves do not cost energy; nor does bitcoin’s CO2 footprint scale with transactional count.
+
+Bitcoin supporters and critics alike should understand how the protocol works, so the energy costs and externalities of the system can be honestly appraised.
+
+Bitcoin and Visa: An apples-to-koalas comparison
+
+In the Bloomberg piece, the author states:
+
+One Bitcoin transaction would generate the CO2 equivalent to 706,765 swipes of a Visa credit card, according to Digiconomist’s closely-followed index, albeit with none of the convenience of plastic.
+
+But the “energy exchange rate” methodology the author relies on is completely mistaken. Bitcoin transactions are not equivalent to Visa transactions. They are different in both form and substance.
+
+First of all, Bitcoin and Visa are fundamentally different systems. Bitcoin is a complete, self-contained monetary settlement system; Visa transactions are non-final credit transactions that rely on external underlying settlement rails. Visa relies on ACH, Fedwire, SWIFT, the global correspondent banking system, the Federal Reserve and, of course, the military and diplomatic strength of the U.S. government to ensure all of the above are working smoothly.
+
+Any energy comparison must take the above into account – including the externalities from the extraction of oil, which implicitly backs the dollar. As those who make this comparison inevitably fail to mention, the dollar’s ubiquity is partly due to a covert arrangement whereby the U.S. provides military support to countries like Saudi Arabia that agree to sell oil exclusively for dollars. It’s worth noting that the grossly oversized U.S. military, whose presence worldwide is necessary to backstop the international dollar system, is the largest single consumer of oil worldwide.
+
+Bitcoin transactions, by contrast, rely just on bitcoin. Bitcoin proposes a new monetary unit (also named bitcoin) and mediates its circulation through the Bitcoin protocol, which is administered by nodes and miners. Bitcoin’s energy footprint is highly transparent, due to the accessible and highly integrated nature of the system. This provides fertile ammunition for critics who can easily estimate the externalities of Bitcoin while insisting no equivalent ones exist for the dollar system. But the two systems are different.
+
+Until Visa marshals its own private armies to keep the integrity of the dollar intact, the comparison will be a specious one.
+
+Bitcoin is a full-stack monetary and payments system. Visa is a thin layer within the international dollar system, wholly reliant on seamless interoperability of the rest of the payments and settlement pyramid. Until Visa marshals its own private armies to keep the integrity of the dollar intact, the comparison will be a specious one.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+If you look at the actual characteristics of Bitcoin transactions as compared with Visa, their differences are clear. While both systems transmit trillions of dollars of value per year, they do so in radically different ways.
+
+In Q4 2020, Visa processed $2.4 trillion in payments volume via 49.6 billion transactions. That gives us an average transaction size of $46.37. Bitcoin, by contrast, settled $397 billion (using Coin Metrics’ adjusted volume estimates) over the period and handled 25.3 million transactions. The average transaction size for Bitcoin over the period: $15,719. During that time, there were eight distinct transactions worth over $1 billion. The largest among these settled a mammoth $2.48 billion, given bitcoin’s price at the time.
+
+And not only can transactions be very large, but they can direct value to a number of recipients all at once. The largest-ever transaction in terms of payments contained 13,107 outputs. Under current constraints, a Bitcoin transaction could theoretically contain up to 32,256 outputs. And of course, layered or sidechain approaches which propose new trust models like Lightning, Liquid, RSK, and Stacks introduce the potential to batch thousands of transactions and settle them on the base layer. A single Bitcoin transaction can settle millions of lightning payments.
+
+See also: Nic Carter – The Last Word on Bitcoin’s Energy Consumption
+
+So not only are Visa transactions generally much smaller than Bitcoin transfers, but they are different from an assurance perspective. Bitcoin provides final settlement within a few blocks. This means there is no risk of transaction reversal. The payment itself is integrated with the settlement – there is no distinction. Visa credit payments, by contrast, are designed to be reversible, if need be. This is why cardholders generally have the option of making chargebacks within 90 days of their payment.
+
+Much to the chagrin of some merchants, payments are not bundled with settlement. Instead, the Visa payment process is a tangle of distinct authorization, clearing, and settlement steps. Actual final settlement happens on an aggregate net basis between merchants banks (who manage the accounts for card-accepting merchants) and issuing banks (who manage the cardholder accounts) via ACH or wire transfer. This means that payments are bundled up and settled on an end-of-day basis through utility-grade settlement channels. The individual payments made when you swipe your card are several layers removed from the final flows of funds between banks.
+
+These gigantic wire transfers that power settlement between cardholder banks and merchant banks for Visa are the transactions most comparable to those of Bitcoin. The individual payments happening between Visa users and Visa merchants are unsettled IOUs. If you consider ACH and especially Fedwire transfers, their characteristics are much more akin to Bitcoin. Typical ACH transfers clear thousands of dollars, while your average Fedwire transfer settles millions.
+
+Fedwire transfers are “push” rather than “pull” – bank accounts have to be fully funded on the originating side for the transfer to process. No netting occurs in Fedwire: it is what’s called a “real-time gross settlement system.” Fedwire’s counterpart, CHIPS, which is used for international dollar settlements, does include significant netting (checking if banks are paying each other and only sending the difference). Unlike a check, or a Visa payment, you cannot reverse a wire transfer. This gives wires strong finality, and good settlement assurances (sound familiar?). And like Bitcoin, Fedwire processes a few hundred million transactions a year. In Q4, it averaged 550,000 txns per day. In that period, Bitcoin averaged 824,000 daily payments in 305,000 daily txns.
+
+These systems scale with transactional size, not frequency. So if you’re going to compare Bitcoin to established transaction systems, compare like with like. (Note that SWIFT is not an apt comparison to Bitcoin: it is a messaging rather than a settlement system and generally relies on third-party settlement through Fedwire or CHIPS.)
+
+Bitcoin’s energy cost of transactions explained
+
+Now we’ve established that Bitcoin transfers are much more akin to wire transfers, let’s consider the actual “cost” of Bitcoin transactions. The quantitative assumptions made by Bitcoin critics – that transactions have a certain energy overhead – need to be contextualized.
+
+Constructing a Bitcoin transaction, and getting the network to accept it, costs virtually no energy whatsoever. What costs energy is grinding through the nonce space to find valid blocks. Miners do this because they are compensated primarily with the coinbase reward of 6.25 BTC per block, which is defined in the protocol. Currently, miners collect about 15 percent of their total revenue of $40m per day in fees. But it’s important to decompose transaction fees and general revenue from creating blocks. Miners collect that coinbase reward regardless of whether they include transactions in blocks. On occasion, they mine empty blocks and collect that 6.25 per-block reward regardless.
+
+The individual payments made when you swipe your card are several layers removed from the final flows of funds between banks.
+
+The quantity of resources that miners are willing to spend on mining is purely a function of three variables: the price of bitcoin, the issuance rate and the fees transactors are paying to use the chain. Of those three, the first two matter most. As mentioned, fees are not a major source of revenue today. The system is naturally equilibrating: If the price of bitcoin goes up or fees dramatically rise, miner margins expand, inducing existing miners to increase their expenditure or new miners to enter the market. Thus margins contract to a level where mining is just barely profitable.
+
+As defined in the protocol, the per-block reward is cut in half every four years. This reduces bitcoin’s issuance rate and thus the miner revenue. So, in the long term, miner revenue from issuance will dramatically contract. As 88% of all coins have been mined already, mining is structurally shrinking, not a growing industry. Academic prognostications of a climate-destroying feedback loop are therefore wildly off-base. While fees are expected to compensate miners in the long term, it’s unlikely that users would stomach $1000 fees. In a purely fee-based system with $10 fees and, optimistically, 800,000 transactions per day, miner revenue would total $2.9 billion per year – far less than the current $16.4 billion in annualized miner revenue.
+
+Thus most of the miner expenditure – and hence carbon outlay – from Bitcoin is due to largely invariant coin issuance rather than any variable that’s correlated to transactional intensity. This fact invalidates the “energy cost of transactions” metric that critics like to promote. It is issuance that largely finances miners, not transactions. And because most coins have been issued already, Bitcoin’s future carbon outlay is likely to shrink. This is to say nothing of the energy mix that miners employ – and as we know, renewables and otherwise-vented natural gas make up a meaningful component of the industry. According to the Cambridge Center for Alternative Finance, 39% of Bitcoin’s energy outlay derives from renewables, with 76% of miners using renewables in some capacity.

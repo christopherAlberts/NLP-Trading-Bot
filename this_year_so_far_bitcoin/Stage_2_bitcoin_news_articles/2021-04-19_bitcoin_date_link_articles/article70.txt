@@ -1,0 +1,535 @@
+Originally published on October 17, 2017.
+
+Updated on March 15, 2021.
+
+Introduction:
+
+There exists no uniformity with respect to how businesses that deal in virtual currencies (also known as "cryptocurrencies") such as Bitcoin are treated among the states. For these proprietors, often the first question asked when deciding whether to operate within a state is whether existing state money transmitter rules apply to the sale or exchange of virtual currencies. As you will see from the discussion below, most states have not yet enacted regulations that provides virtual currency operators with any guidance on this question.
+
+Some states have issued guidance, opinion letters, or other information from their financial regulatory agencies regarding whether virtual currencies are "money" under existing state rules, while others have enacted piecemeal legislation amending existing definitions to either specifically include or exclude digital currencies from the definition. To use a pun those in the blockchain space should understand, there is a complete lack of consensus as to whether they do or not. This uncertainty is made all the more complicated by potentially contradictory guidance from the Federal government. For example, in March 2018 the Financial Crimes Enforcement Network (FinCEN) published a letter stating that token issuers were money transmitters required to follow federal money transmitter requirements. The letter came just two days after a U.S. District Court in New York accepted the understanding of the Commodity Futures Trading Commission (CFTC) that cryptocurrencies were commodities, a ruling that on its face appears to take the exchange of cryptocurrencies for fiat currency outside of the definition of money transmission under previous FinCEN and now questionable past guidance. See, e.g., Application of the Definition of Money Transmitter to Brokers and Dealers in Currency and other Commodities, FIN-2008-G008, Sept. 10, 2008.
+
+The few states that have attempted to enact comprehensive regulations, including New York's much maligned "BitLicense" scheme, has resulted in an exodus of blockchain and virtual currency businesses from states attempting to treat all virtual currency operators identically with traditional money transmitters that are better equipped to deal with an overly restrictive regulatory framework. There is a proposal pending within the NY State Assembly to replace the BitLicense with a more innovation-friendly framework, and indeed, the New York Department of Financial Services has in practice become more friendly to BitLicense applicants. On the other end of the spectrum, several states have enacted crypto-friendly regulations in an attempt to entice entrepreneurs to move to their state. Wyoming has emerged as the most innovative crypto jurisdiction going so far as to claim it is trying to be to the crypto industry what Delaware is to corporations. Among the regulations the State has enacted are laws that exempt "Utility Tokens" from state securities regulation and virtual currencies from state money transmission laws, creates a state-chartered depository institution to provide banking services to virtual currency companies, adopts a framework by which Wyoming banks can act as "qualified custodians" for digital assets, and creates a FinTech sandbox to allow further innovations in the space. Most recently, a first-of-its-kind regulation was proposed by the State that would grant limited liability status to Decentralized Autonomous Organizations that register in the State.
+
+The authors of this article are hopeful that over the next several years states will begin to craft regulation that balances the dual needs of protecting consumers from businesses operating in the fledgling industry while also promoting continued innovation by not saddling virtual currency businesses with regulatory burdens that make it financially impractical to operate. One attempt to craft such legislation has been proposed by the Uniform Law Commission, which in July 2017 introduced a model Regulation of Virtual Currency Businesses Act. The model legislation had been adopted by a few states, including Hawaii and has been supported by the American Bar Association, but after receiving criticism from states like Wyoming and Missouri over its model legislation, the ULC asked states to hold off on enacting its model rules to allow the Commission time to further study the issue. The debate over the ULC is emblematic of the differences of opinion on the best way to enact legislation addressing blockchain and virtual currency technologies and the challenges of even reaching legislative consensus over fundamental concepts such as the definitions of "virtual currency" or the types of activities or economic thresholds that could be implemented for "virtual currency business activity."
+
+This article attempts to outline the range of regulations or guidance provided by the states with regard to virtual currency regulations or blockchain specific technologies. Because the law is rapidly developing we will try to update it quarterly to address new regulations or case law impacting the industry.
+
+Alabama
+
+The Alabama Monetary Transmission Act, effective August 2017, defines "monetary value" as "[a] medium of exchange, including virtual or fiat currencies, whether or not redeemable in money." H.B. 215, 2017 Leg., Reg. Sess. (Ala. 2017) § 8-7A-2(8). The act requires that every person engaging in the business of monetary transmissions obtain a license from the state. Money transmission includes receiving monetary value (including virtual currency) for transmission. H.B. 215, 2017 Leg., Reg. Sess. (Ala. 2017) § 8-7A-2(10). The act exempts banks, bank holding companies, securities-clearing firms, payment and settlement processors, broker-dealers, and government entities.
+
+Under Alabama Statute § 40-23-199.2, the state affirmatively includes the "providing [of] a virtual currency that purchasers are allowed or required to use to purchase products from the marketplace seller" into the definition of a "marketplace facilitator." H.B. 470, 2018 Leg., Reg. Sess. (Ala. 2018) § 40-23-199.2. Per the Alabama Department of Revenue, "marketplace facilitators with Alabama marketplace sales in excess of $250,000 [are required] to collect tax on sales made by or on behalf of its third-party sellers or to comply with reporting and customer notification requirements."
+
+Notably, Alabama's Securities Commission has emerged as one of the most active agencies to address fraud in the cryptocurrency industry.
+
+In February 2021, House Bill 318 was introduced and proposed to exempt virtual currency from ad valorem taxation. H.B. 318, 2020 Leg., Reg. Sess. (Ala. 2020). House Bill 318 was referred to the committee on Ways and Means General Funds, which responded favorable, and the bill is now pending a third reading.
+
+Alaska
+
+There are no blockchain or virtual currency specific regulations enacted under Alaskan law. The State's Division of Banking and Services has issued guidance that it is not authorized under State law to regulate virtual currencies and only transactions involving fiat currencies are subject to the state's Money Transmitter law.
+
+House Bill 180 was introduced in March 2017 but appears to be stalled in the state legislature. If enacted, HB180 would regulate money transmission and currency exchange businesses, as well as transmitting value that substitutes for money. H.B. 180, 30th Leg., 1st Sess. (Alaska 2017). The bill's definition of virtual currency covers "digital units of exchange that have a centralized repository" as well as "decentralized, distributive, open-source, math-based, peer-to-peer virtual currency with no central administrating authority and no central monitoring or oversight." If passed, it would also amend the Alaska Uniform Money Services Act to expressly include dealing in virtual currency within its definition of money transmission. H.B. 180, 30th Leg., 1st Sess. (Alaska 2017). The bill's latest update in the legislature was its referral to Alaska's Judiciary Committee in January 2018.
+
+In 2017, Arizona adopted two statutes related specifically to the storage of information on the blockchain. Arizona Statute § 44-7061 makes signatures, records, and contracts secured through blockchain technology legally valid. "A contract relating to a transaction may not be denied legal effect, validity or enforceability solely because that contract contains a smart contract term." H.B. 2417, 53d Leg., 1st Reg. Sess. (Ariz. 2017).
+
+Arizona Statute § 11-269.22 prohibits any county from prohibiting individuals from "running a node on blockchain technology" in a residence, as defined as "providing computing power to validate or encrypt transactions in blockchain technology." Arizona Statute § 13-3122 makes it unlawful to require people to use or be subject to electronic firearm tracking technology (including distributed ledger or blockchain technology). H.B. 2216, 53d Leg., 1st Reg. Sess. (Ariz. 2017).
+
+In 2018, Arizona adopted H.B. 2601 and 2602. H.B. 2601 creates a framework under the State's securities laws for crowdfunding sales involving virtual currencies. S.B. 2601, 53d Leg., 2nd Reg Sess. (Ariz. 2018). H.B. 2602 prohibits localities from restricting cryptocurrency mining in residences. In the same year, the Arizona Senate proposed a regulation that would add income "derived from the exchange of virtual currency for other currency" to the computation of Arizona adjusted gross income for the purposes of the income tax. S.B. 1145, 53d Leg., 2nd Reg. Sess. (Ariz. 2018).
+
+In February 2019, H.B. 2702 was proposed to bring the providing of "a virtual currency that buyers are allowed or required to use to purchase products from the seller" into the definition of "marketplace facilitator." This amended definition relates to "Transaction Privilege and Affiliated Excise Taxes" within the state's taxation regime. 2019 AZ H.B. 2702 (NS).
+
+On May 31, 2019, the state legislature adopted its "general appropriations act; 2019-2020," which allocates "$1,250,000 for distribution to applied research centers that specialize in blockchain technology." 2019 AZ H.B. 2747 (NS).
+
+In February 2020, the Arizona House passed H.B. 2400 which would create a study committee on the blockchain technology and cryptocurrency. H.B. 2400, 54th Leg., 2nd Reg. Sess. (Ariz. 2020). The bill died in the Senate Commerce Committee. However, the House reintroduced it in January 2021 under H.B. 2544 and passed it. H.B. 2544 is now pending before the Senate Finance Committee.
+
+Arkansas
+
+On April 16, 2019, the Arkansas legislature adopted "An Act Concerning Blockchain Technology; And For Other Purposes." 2019 Arkansas Laws Act 1061 (H.B. 1944). The legislation adds to the state's "Uniform Electronic Transactions Act," and addresses signatures and records secured through blockchain technology. Id.
+
+In 2020, the Arkansas Securities Department issued no-action letters stating businesses are exempt from the requirement of licensure under the State's Uniform Money Services Act when businesses sold virtual currency out of their own supplies rather than acting as mere channel between customers and third-party virtual currency providers. According to the letters, such activity does not amount to money transmission. See Arkansas Securities Department, Letter Re: Cryptoflip (Dated March 25, 2020), see also Arkansas Securities Department, Letter Re: GDP Holdings, LLC DB.
+
+In January 2021, the Arkansas Senate introduced S.B. 150 to amend the Uniform Money Services Act. S.B. 150, 93rd General Assembly (Ark. 2021). The Bill seeks to define virtual currency and include it as a medium in "Money Transmission." Id. The Bill also includes the concept of "Stored value" to mean monetary value that is evidenced by an electronic record representing a claim against the issuer stored on an electronic or digital medium or device, including without limitation a card, and evidenced by an electronic or digital record, intended and accepted for use as a means of redemption for money or monetary value or payment for goods or services. Additionally, the Bill codifies the no-action letters by excluding from licensure under the Uniform Money Services Act virtual currency or virtual distributed ledger systems. Id. However, otherwise licensed parties should include the number and monetary amount of virtual currencies sold by the licensee in a particular quarter. Id. The bill is currently pending before the House Insurance and Commerce Committee.
+
+California
+
+California's Money Transmitter Act does not address virtual currencies and the state has not provided official guidance on the applicability of its MTL statute to cryptocurrencies. In September 2018, the Governor approved a legislature backed initiative to create a "blockchain working group" that will be tasked with researching blockchain's benefits, risks, and legal implications.
+
+In September 2018, the State's legislature enacted Assembly Bill 2658 which introduced legal definitions of "blockchain technology" and "smart contract." The effect of these definitions would be to legalize and facilitate record keeping using distributed ledgers.
+
+In June 2016, the California legislature enacted Cal. Stat. § 320.6, which makes it unlawful to sell or exchange a raffle ticket for any kind of cryptocurrency.
+
+In February 2019, Assembly Bill 1489 was introduced to the California legislature to enact the "Uniform Regulation of Virtual Currency Business Act" which, "would prohibit a person from engaging in virtual currency business activity, or holding itself out as such, unless licensed or registered with the Department of Business Oversight, subject to a variety of exemptions." Penalties for violating this proposed bill could be as high as $50,000 for each day of violation.
+
+During this same month, California introduced Assembly Bill 953 which defines stablecoin as "a digital asset that has price stable characteristics pegged to United States dollars and United States dollars serve as collateral to that digital asset" and would allow "the legislative body of a city or the board of supervisors of a county to determine and implement a method by which a licensee under [the Medicinal and Adult-Use Cannabis Regulation and Safety Act] MAUCRSA may remit any city or county cannabis license tax amounts due by payment using stablecoins[.]" The bill would also "require the department to determine and implement a method by which a licensee under MAUCRSA may remit any cannabis excise tax or cannabis cultivation tax amounts due by payment using stablecoins[.]" 2019 CA A.B. 953 (NS). Assembly Bill 953 died in the Senate Governance and Finance Committee. It was reintroduced again in February 2020 as A.B. 3090; however, it died at the desk. 2020 CA A.B. 3090 (NS).
+
+California, in February 2019, introduced Assembly Bill 2150 which would exempt "digital asset" from the state's "Corporate Securities Law of 1968" by presuming that "digital asset meeting specified criteria" is not "an investment contract within the meaning of a 'security.'" 2019 CA A.B. 2150 (NS).
+
+In April 2019, California enacted Assembly Bill 147, in which the "providing [of] a virtual currency that buyers are allowed or required to use to purchase products from the seller" can qualify a person as a "marketplace facilitator." 2019 CA A.B. 147 (NS).
+
+To highlight an application of blockchain technology beyond cryptocurrency, California has proposed an amendment whereby "a county recorder may issue a certified copy of a marriage record ... by means of blockchain technology." 2019 CA S.B. 373 (NS). This amendment is currently pending as Senate Bill 689. 2021CA S.B. 689 (NS).
+
+In 2019, the California Division of Business Oversight (k/n/a "Department of Financial Protection and InnovationDBO") issued multiple final opinion letters pertaining to virtual currency and the application of the California Money Transmission Act (the "MTA") thereto. See, e.g., Final Opinion Letter dated December 16, 2019. The Final Opinion Letters cover a variety of issues, but generally state that the DBO has not reached a conclusion as to whether decentralized cryptocurrencies trigger the application of the MTA. See Final Opinion Letter dated October 1, 2019.
+
+In 2020, Governor Newsom signed into law the California Consumer Financial Protection Law, which seeks to create a new Division of Consumer Financial Protection to monitor markets, with a research arm that will keep up with emerging financial products such as cryptocurrencies. 2020 CA A.B. 1784 (NS). The changes will equip the regulator with "new tools to shape the regulation of virtual currency," the department's commissioner, Manuel P. Alvarez, told CoinDesk via email. The Division of Consumer Financial Protection was accepting comments to the possible CCFPL regulations until March 8, 2021.
+
+Colorado
+
+The State's legislature attempted to enact a handful of conflicting bills that would provide guidance as to the applicability of Colorado's Money Transmitter Act to virtual currency users and issuers. H.B. 1220 was passed by the House but subsequently indefinitely postponed. It would have required those who buy, sell or exchange cryptocurrency, or offer cryptocurrency "wallets" to obtain a "Money Transmitter license. H.B. 1220, 71st Gen. Ass., 2nd Reg. Sess. (Co. 2018). The conflicting H.B. 1426 and SB277, would have exempted virtual currencies from the Money Transmitter Act but was rejected by the State Senate.
+
+The Office of the Colorado Secretary of State has proposed a rule in favor of allowing political campaign contributions in cryptocurrency. Working Draft of Proposed Rules, 8 CCR 1505-6 (proposed May 16, 2018).
+
+On September 20, 2018, Colorado's Division of Banking released Interim Regulatory Guidance entitled, "Cryptocurrency and the Colorado Money Transmitters Act." The purpose of this guidance is to explain "when a person or organization engaged in the business of buying, selling and/or facilitating the transfer of cryptocurrency within the state is required to be licensed as a money transmitter under Colorado law."
+
+In February 2019, the Colorado Senate proposed a bill concerning the subtraction from federal taxable income for gains from certain transactions using virtual currency. 2019 CO S.B. 140 (NS)
+
+On March 6, 2019, Colorado enacted the "Colorado Digital Token Act." Per the state, "[t]he bill provides limited exemptions from the securities registration and securities broker-dealer and salesperson licensing requirements for persons dealing in digital tokens. "Digital token" is defined as a digital unit with specified characteristics, secured through a decentralized ledger or database, exchangeable for goods or services, and capable of being traded or transferred between persons without an intermediary or custodian of value."
+
+As of May 23, 2019, "in the administration of any new major information technology project, the office [of Information Technology], in conjunction with the state agency with which it is working, shall evaluate the potential use of blockchain and distributed ledger technologies as part of the project." CO ST § 24-37.5-105. State agencies are studying blockchain technology and its potential use in a number of areas including agriculture and water.
+
+In February 2021, the Colorado Senate introduced S.B.21-121. The Bill seeks to amend the "Revised Uniform Unclaimed Property Act" by defining and exempting a financial organization loyalty card from the property that is subject to the "Revised Uniform Unclaimed Property Act." The significance of this is that the virtual currency is defined in the Bill to exclude a financial organization loyalty card. 2021 CO S.B. 121 (NS).
+
+Connecticut
+
+House Bill 7141 became law on October 1, 2017 and requires that anybody engaged in a financial services industry be licensed by the state. "Each licensee that engages in the business of money transmission in this state by receiving, transmitting, storing or maintaining custody or control of virtual currency on behalf of another person shall at all times hold virtual currency of the same type and amount owed or obligated to such other person." The bill defines virtual currency as "any type of digital unit that is used as a medium of exchange or a form of digitally stored value or that is incorporated into payment system technology." H.B. 7141, 2017 Leg., 2017 Jan. Reg. Sess. Gen. Ass. (Conn. 2017).
+
+House Bill 5490 was signed into law on June 14, 2018. It adds a definition for "virtual currency" and purports to bring virtual currencies under the purview of Connecticut money transmission laws. H.B. 5490, 2018 Leg., 2018 Feb. Sess. Gen. Ass. (Conn. 2018).
+
+The state legislature signed SB 443 into law, which is entitled, "An Act Establishing The Connecticut Working Group." The goal of this bill is to "(1) identify the economic growth and development opportunities presented by blockchain technology; (2) assess the existing blockchain industry in the state; (3) review workforce needs and academic programs required to build blockchain expertise across all relevant industries; and (4) make legislative recommendations that will help promote innovation and economic growth by reducing barriers to and expediting the expansion of the state's blockchain industry."
+
+The Connecticut House introduced a bill to "(1) make shared appreciation agreements subject to the same licensing and regulatory compliance requirements as residential mortgage loans, and (2) permit a start-up company engaged in the activity of a money transmission to provide a statement of condition as part of licensure application in lieu of certain financial statements." Such statement must describe "the type of money transmission business that will be conducted by the applicant in this state and whether such money transmission will include the transmission of monetary value in the form of virtual currency." 2019 CT H.B. 6995 (NS)
+
+Other notable blockchain-focused proposals from Connecticut's legislature include:
+
+An act stating that, "on or before October 1, 2019, the Department of Administrative Services shall develop and issue a request for proposals to incorporate blockchain technology to make the administration of a department function more efficient." 2019 CT S.B. 1032 (NS) March 7, 2019.
+
+An act "to study the use of blockchain technology in managing elector information." 2019 CT H.B. 5417 (NS) January 16, 2019.
+
+An act "requiring the secretary of the office of policy and management to develop a plan to incorporate blockchain technology in the administration of a state function." 2019 CT S.B. 1032 (NS); 2021 CT S.B. 1039 (NS).
+
+In February 2020, the state legislature introduced House Bill 5210 which would "prohibit the use of noncompete agreements in the blockchain technology industry." H.B. 5210, 2020 Leg., 2020 Feb. Reg. Sess. Gen. Ass. (Conn. 2020).
+
+In January 2021, the House introduced House Bill 5761, which aims to amend the general statutes to establish a regulatory sandbox program, which allows a person to temporarily test an innovative product or service on a limited basis without otherwise being licensed or authorized to act by the laws of this state. 2021 CT H.B. 5761 (NS). Innovative products are defined to include blockchain technology. Id.
+
+Delaware
+
+In July 2017 Delaware enacted Senate Bill 69, a groundbreaking piece of legislation that provides statutory authority for Delaware corporations to use networks of electronic databases (including blockchain) to create and maintain corporate records. The law expressly permits corporations to trade corporate stock on the blockchain so long as the stock ledgers serves three functions: (1) to enable the corporation to prepare the list of stockholders, (2) to record information, and (3) to record transfers of stock. Section 224 of the Delaware Corporate Code states, "Any records administered by or on behalf of the corporation in the regular course of its business, including its stock ledger, books of account, and minute books, may be kept on, or by means of, or be in the form of, any information storage device, method, or 1 or more electronic networks or databases (including 1 or more distributed electronic networks or databases) ..." (emphasis added). Other bills related to the use of blockchain technology related to trusts, domestic LLCs, and limited partnerships were signed by the governor in July 2018. S.B. 194, S.B. 183. On June 19, 2019, Delaware enacted Senate Bills 89, 90, and 91, which, among other things, amend certain laws such as the Delaware Revised Uniform Partnership Act and Delaware Limited Liability Company Act to permit the use of "distributed ledgers" or a "blockchain" to maintain certain records and facilitate certain electronic transmissions.
+
+Florida
+
+Florida's Money Transmitter Act does not expressly include the concepts of "virtual currencies" or "monetary value" and the State's Office of Financial Regulation has not given direct guidance as to the applicability of the Act on virtual currency users and issuers, but have suggested that persons who offer cryptocurrency "wallets", buy or sell cryptocurrencies, or exchange cryptocurrency for fiat are not necessarily outside the scope of the activity subject to the State's Money Transmitter Act.
+
+Espinoza and Money Transmission in Florida
+
+Florida's Office of Financial Regulation interpreted the State's Money Transmitter regulations as only requiring a license when an individual or corporation acts as a third party intermediary in a virtual currency transaction. This interpretation was disturbed by the Third District Court of Appeals in Florida v. Espinoza, 264 So. 3d 1055 (Fla. 3d DCA 2019) which reversed a dismissal of a criminal information and found that bitcoin was a "payment instrument" within the statutory definition of Florida's payments regulation.
+
+The Espinoza decision requiring a license for nearly all virtual currency sales has been widely criticized as too burdensome and at odds with Florida's Office of Financial Regulation's interpretation of Florida's Money Transmission statute. See "Bitcoin Has A Florida Problem." In March 2021, House Bill 1351 and Senate Bill 1578 were filed expressly to resolve the post-Espinoza confusion. Under the bills, the definition of money transmission of virtual currencies are amended to include only instances where a party is acting as a third party or intermediary transmitter. Direct sales of virtual currencies would no longer require a license.
+
+Other Developments:
+
+H.B. 1379, 119th Reg. Sess. (Fla. 2017) was enacted to amend Florida's Money Laundering Act to expressly include virtual currencies as "money." This bill was also in response to the Espinoza case in which a trial court dismissed a criminal information against the defendant for money laundering on the ground that bitcoin was not "money" under state law.
+
+Senate Bill 1024 and House Bill 735 seek to establish Florida Blockchain Working Groups for the Agency for State Technology and Department of Management Services, respectively. Both of these proposals have a master plan that seeks to:
+
+Identify the economic growth and development opportunities presented by blockchain technology. Assess the existing blockchain industry in the state. Identify innovative and successful blockchain applications currently used by industry and other governments to determine viability for state applications. Review workforce needs and academic programs required to build blockchain technology expertise across all relevant industries. Make recommendations to the Governor and the Legislature that will promote innovation and economic growth by reducing barriers to and expedite the expansion of the state's blockchain industry."
+
+2019 FL S.B. 1024 (NS) February 13, 2019; 2019 FL H.B. 735 (NS) March 5, 2019.
+
+On June 25, 2019, the Florida Legislature adopted H.B. 1393, which establishes the Florida Blockchain Task Force within the Department of Financial Services. 2019 FL H.B. 1393 (NS). The bill notes the Legislature has found, among other observations, that "[b]lockchain technology and distributed ledger technology allow the secure recording of transactions through cryptographic algorithms and distributed record sharing, and such technology has reached a point where the opportunities for efficiency, cost savings, and cybersecurity deserve study."
+
+In January 2020, the Florida Senate introduced a bill that would create "Financial Technology Sandbox Program" that "allow[s] financial technology innovators" including entities using blockchain technology, to "test new products and services in a supervised, flexible regulatory sandbox, using waivers of specified general law and rule requirements under defined conditions." The bill provides "a welcoming business environment for technology innovators and may lead to significant business growth." 2020 FL S.B. 1870 (NS) January 13, 2020. The law, to be codified as Fla. Stat. § 559.552 will go into effect January 2021.
+
+In February 2021, the Florida Senate introduced S.B. 1785, which seeks to revise exceptions for licensee during Financial Technology Sandbox period; prohibit certain activities by persons without obtaining license; provide requirements for money transmitter that receives virtual currency; and excludes virtual currency in calculation of permissible investments. 2021 FL S.B. 1785 (NS). The same bill is currently pending before the Florida House's Insurance & Banking Subcommittee. 2021 FL H.B. 1351 (NS).
+
+Georgia
+
+In spring 2016, Gov. Nathan Deal signed a bill into law amending Title 7 of the Official Code of Georgia Annotated. The bill authorizes the state's Department of Banking and Finance "to enact rules and regulations that apply solely to persons engaged in money transmission or the sale of payment instruments involving virtual currency," including rules to "[f]oster the growth of businesses engaged in money transmission or the sale of payment instruments involving virtual currency in Georgia and spur state economic development." Ga. Code Ann. § 7-1-690(b)(1). In addition, the code's banking and finance section now includes "virtual currency" as a defined term. Ga. Code Ann. § 7-1-680(26) ("'Virtual currency" means a digital representation of monetary value that does not have legal tender status as recognized by the United States government."). Georgia also requires that all money transmitters obtain a license to conduct any activity involving virtual currency.
+
+The Georgia Senate proposed a bill revising Ga. Code Ann. § 48-2-32 to allow people to pay taxes and license fees with "any cryptocurrency, including but not limited to Bitcoin, that uses an electronic peer-to-peer system." S.B. 464, 154th Gen. Ass. Reg. Sess. (Ga. 2017). This bill never got a committee hearing before the Georgia Senate adjourned for its recess, but could be reintroduced during the next legislative session.
+
+In 2018, Georgia enacted its "Revised Uniform Fiduciary Access to Digital Assets Act" which defines digital asset as "an electronic record in which an individual has a right or interest" and states that "[s]uch term shall not include an underlying asset or liability unless the asset or liability is itself an electronic record." Ga. Code Ann. § 53-13-2 (West). The statute discusses among other topics who can have access to a person's digital assets.
+
+With respect to a proposed sports betting act, virtual currency is deemed a cash equivalent. 2019 GA H.B. 570 (NS) March 7, 2019.
+
+Hawaii
+
+The Hawaii legislature has tried to pass legislation that both includes (SB 949) and excludes (SB 2853 and 3082) virtual currencies from its Money Transmitter Act. While these proposed regulations have been enacted, the State's Division of Financial Institutions has issued public guidance on the applicability of State MTL to cryptocurrency transactions, stating generally that "cryptocurrency transactions" require a money transmission license.
+
+The States' Money Transmitter Act is uniquely burdensome in that it requires licensees to hold "in trust permissible investments having an aggregate market value of not less than the aggregate amount of its outstanding transmission obligations." In other words, if a virtual currency business were to hold a cryptocurrency on behalf of a Hawaiian customer they would be required by the State to maintain an equivalent cash value in trust. This requirement has proven financially untenable for virtual currency operators, including Coinbase, who have suspended service to Hawaii. However, In August 2020, Hawaii allowed companies play in its no-license-necessary digital currency sandbox through its Digital Currency Innovation Lab (DCIL). Sandbox participants are exempt from the requirement to maintain a cash equivalent, and from acquiring the usual money transmitter license, through June 2022. In January 2021, the DCIL started accepting a second round of applicants.
+
+With respect to money transmission laws, in January 2019, the Hawaii Senate introduced a bill to extend "the money transmitters act to expressly apply to persons engaged in the transmission of virtual currency" and require "licensees dealing with virtual currency to provide a warning to customers prior to entering into an agreement with the customers." 2019 HI S.B. 1364 (NS) January 24, 2019.
+
+The Hawaii Senate introduced SB 3082 which would adopt a version of the Uniform Law Commission's Regulation of Virtual Currency Businesses Act that excludes the State's capital funds requirement, but the proposed law appears to have stalled within the State's legislature. Another separate proposal titled H.B. 2257, also seeking to adopt a version of the Virtual Currency Business Act was introduced in 2018 but has not yet passed the House. 29th Leg. Reg. Sess. (Haw. 2018). 29th Leg. Reg. Sess. (Haw. 2018). In January 2019, Hawaii introduced a bill to adopt "the Uniform Regulation of Virtual-Currencies Businesses Act and the Uniform Supplemental Commercial Law for the Uniform Regulation of Virtual-Currency Businesses Act." 2019 HI S.B. 250 (NS) January 18, 2019.
+
+With respect to telecommunications and technology development, the Hawaii House introduced a bill "to enter into a public-private partnership to plan, build, and manage key strategic broadband infrastructure that benefits the State, including a cable landing station in Kakaako, on the island of Oahu, and to encourage cloud-based companies to take advantage of this infrastructure." The bill continues, "This hub would integrate a robust global communications network with connectivity to data centers, content repositories, and hedge computing for the development of next-generation applications such as artificial intelligence, machine learning, augmented reality, big data analytics, smart communities, blockchain, and real-time predictive systems." 2019 HI H.B. 821 (NS) March 1, 2019.
+
+In February 2020, the Hawaii legislature introduced a bill that creates a "blockchain working group to determine a recommended definition for blockchain technology and recommendations for individuals, businesses, and state agencies to use blockchain technology." 2019 HI H.B. 2594 (NS) February 12, 2020. It was reintroduced again in January 2021, and is pending before the House Higher Education & Technology Committee. 2021 HI H.B. 622 (NS).
+
+Hawaii is taking other steps to promote blockchain including introducing a bill in March 2021 that seeks to Request The Hawaii Technology Development Corporation And Leeward Community College To Study The Feasibility Of Establishing Technology Academy Programs At Aiea High School And Pearl City High School. 2021 HI S.B. 61 (NS).
+
+Idaho
+
+The state's Department of Finance issued several "Money Transmitter No-Action and Opinion Letters" addressing problems related to virtual currency and the state's money transmission laws. The latest letter was posted February 11. 2021. However, previous letters opined on whether virtual currently is subject to the Idaho Money Transmitter Act ("IMTA"). Particularly, in July 26, 2016. In it, the Department wrote "[a]n exchanger that sells its own inventory of virtual currency is generally not considered a virtual currency transmitter under the Idaho Money Transmitters Act." However, "an exchanger that holds customer funds while arranging a satisfactory buy/sell order with a third party, and transmits virtual currency...between buyer and seller, will typically be considered a virtual currency transmitter." See Idaho Department of Finance, Letter Re: Money Transmissions (Dated July 26, 2016). Similarly, the Department of Finance provided in a letter dated April 8, 2020 that the Department will take a no action position as to the licensing requirements of the IMTA when a seller "that only sells its own inventory of virtual currency through a virtual currency ATMs, and offers no custodial or stored value services." See Idaho Department of Finance, Letter Re: Money Transmissions (Dated April 8, 2020). Likewise, on December 3, 2019, the Idaho Department of Finance stated that if a party "only sells its own inventory of virtual currency; and in the instance of purchasing virtual currency, will not initiate transactions for which it is unable to immediately dispense fiat currency" the Department of Finance will take a no action position as to the licensing provision of the IMTA. See Idaho Department of Finance, Letter Re: Money Transmissions (Dated December 3, 2019).
+
+In January 2018, the Idaho Senate introduced a bill that would amend the Idaho Unclaimed Property Act to explicitly include virtual currency as property. According to the bill, "virtual currency" means "a digital representation of value used as a medium of exchange, unit of account or store of value that does not have legal tender status recognized by the United States."
+
+With respect to state sales tax rules, Idaho House Bill 239 proposes that the "providing [of] a virtual currency that buyers are allowed or required to use to purchase products from the seller" can qualify a person as a "marketplace facilitator."
+
+The Idaho Department of Finance, through an opinion letter in March 2018, stated that the business models which their "exchange margin trading and or lending is strictly limited to digital assets" that "cannot be withdrawn or exchanged for fiat currency" are not subject to the requirement of licensure under the Idaho Money Transmitter Act. It issued another opinion letter in November 2018 which validated the money transmitter license requirement for the businesses that offer "stored value services," "spot exchange services," and "custodial services" for digital assets. In February 2021, the Idaho House introduced H.B. 181 that seeks to add to existing law to provide for digital assets as property and to provide for the application of the Uniform Commercial Code to digital assets. 2021 ID H.B. 181 (NS). Digital assets were defined to include "[d]igital consumer asset" which means "a digital asset that is used or bought primarily for consumptive, personal, or household purposes and includes: (a) An open blockchain token constituting intangible personal property as otherwise provided by law..." Id.
+
+Illinois
+
+Though no laws are currently in place in Illinois, the state's Department of Financial and Professional Regulation issued guidance regarding application of the state's Transmitters of Money Act to those dealing in virtual currencies. Under the Department's guidance, virtual currencies are not "money" under the Transmitters of Money Act and therefore "[a] person or entity engaged in the transmission of solely digital currencies, as defined, would not be required to obtain a TOMA license." See Illinois Department of Financial and Professional Regulation, Digital Currency Regulatory Guidance, (July 13, 2017).
+
+This guidance suggests a willingness by the state to embrace the use of virtual currencies and blockchain technologies, as made further evident by the Illinois legislature having empaneled a Blockchain Task Force in February 2017 to study how the state could benefit from a transition to a blockchain based system of record keeping any service delivery. Illinois launched the Illinois Blockchain Initiative to determine the applicability of blockchain technology. Utilities and regulators appear willing to work with blockchain companies.
+
+In February 2018, the Illinois House introduced the Blockchain Technology Act. H.B. 5553, 100th Gen. Ass. 2nd Reg. Sess. (Ill. 2018). The Act prohibits local governments from imposing taxes on the use of blockchain, from requiring any person or entity to obtain a permit to use blockchain technology, or from imposing any other requirement relating to the use of blockchain. H.B. 5553, 100th Gen. Ass. 2nd Reg. Sess. (Ill. 2018). On January 8, 2019, the House adjourned "session sine die" with respect to this bill.
+
+The Illinois House also introduced H.B. 2540 to create the Blockchain Business Development Act. Notable goals include provisions for:
+
+the creation and regulation of personal information protection companies.
+
+the creation and regulation of blockchain-based limited liability companies as businesses that utilize blockchain technology for a material portion of their business activities.
+
+a public record blockchain study and report.
+
+a blockchain insurance and banking study and report. Requires the Department of Commerce and Economic Opportunity to incorporate into one or more of its economic development marketing and business support programs, events, and activities topics concerning blockchain technology and financial technology.
+
+2019 IL H.B. 2540 (NS) February 13, 2019. H.B. 2540 passed both houses of the state legislature on June 28, 2019 is pending the signature of the governor.
+
+Illinois has also proposed the Blockchain Technology Act, which:
+
+Provides for the permitted uses of blockchain technology in transactions and proceedings,
+
+Provides limitations to the use of blockchain technology, and,
+
+Prohibits units of local government from implementing specified restrictions on the use of blockchain technology.
+
+2019 IL H.B. 3575 (NS) February 15, 2019. H.B. 3575 passed both houses of the state legislature on June 27, 2019, and went into effect on January 1, 2020.
+
+Similar to bills in other states, Illinois adopted an amendment that incorporates "virtual currency" into its version of the Revised Uniform Unclaimed Property Act. 2019 IL S.B. 1464 (NS).
+
+In February 2021, the Illinois House introduced H.B. 3968, which seeks to amend the Blockchain Business Development Act to provide that the Department of Financial and Professional Regulation shall have authority to adopt rules, opinions, or interpretive letters regarding the custody of digital assets, including digital consumer assets, digital securities, and virtual currency. 2021 IL H.B. 3968 (NS). Additionally, the Illinois legislature introduced bills which provide that virtual currency is presumed abandoned if it is unclaimed by the apparent owner 5 years after the last indication of interest in the property. 2021 IL H.B. 854 (NS); 2021 IL S.B. 338(NS).
+
+Indiana
+
+The State's Money Transmitter Act does not expressly include the concepts of "virtual currencies" or "monetary value" and no guidance on the matter has been provided by the State.
+
+With respect to sales tax administration, a bill was introduced that states "a marketplace facilitator is required to collect and remit state sales and use taxes as a retail merchant when it facilitates a retail sale for a marketplace seller on the marketplace facilitator's marketplace." Providing a virtual currency that buyers are allowed or required to use to purchase products from the seller qualifies a person as a "marketplace facilitator. H.B. 1352, 121st Gen. Assemb., 1st Reg. Sess. (Ind. 2019). Another introduced bill allows a person to pay taxes using an approved virtual currency. H.B. 1683, 121st Gen. Assemb., 1st Reg. Sess. (Ind. 2019).
+
+Additionally, the Senate adopted a resolution, "urging the Legislative Council to assign to an appropriate study committee the task of considering the enactment of the Uniform Regulation of Virtual Currency Businesses Act or other virtual currency regulation in the State of Indiana." S.R. 9, 121st Gen. Assemb., 1st Reg. Sess. (Ind. 2019).
+
+Like other states, the Senate in February 2021 has introduced S.B. 188 to incorporate "virtual currency" into its version of the Revised Uniform Unclaimed Property Act. 2021 IN S.B. 188 (NS). The bill is currently before the Committee on Judiciary.
+
+Iowa
+
+Currently, the State's Money Services Act requires a license for the transmission of "monetary value," however the State's Division of Banking has not published guidelines on whether virtual currencies transmissions are subject to the Act. With that said, the House introduced a bill "providing for exemptions for virtual currency from certain security and money transmission regulations." H.F. 240, 88th Gen. Assemb., 2019 Sess. (Iowa 2019).
+
+Regarding Iowa tax law, the House introduced a bill that "exempts virtual currencies from individual, corporate, franchise, sales and use, and inheritance taxes. The bill [also] strikes a reference to "virtual currency" ... relating to the responsibility of a "marketplace facilitator" to collect sales tax when purchasers of tangible personal property, services, or digital products use virtual currency." H.F. 255, 88th Gen. Assemb., 2019 Sess. (Iowa 2019).
+
+A bill introduced by the senate defines distributed ledger technology as "an electronic record of transactions or other data" which is uniformly ordered, "redundantly maintained or processed by one or more computers or machines to guarantee the consistency or nonrepudiation of the recorded transactions or other data[,]" and "the electronic record is validated by the use of cryptography." The terms "electronic record" and "electronic signature" include a record or signature secured through distributed ledger technology. Additionally the bill states that a contract "shall not be denied legal effect or enforceability solely because an electronic record was used in its formation or because the contract is a smart contract or contains a smart contract provision." S.F. 137, 88th Gen. Assemb., 2019 Sess. (Iowa 2019). .While the bill died in committee, it was reintroduced again in February 2021 and is pending before the Iowa legislature. S.F. 303, renumbered as SF 541. S.J. 528.89th Gen. Assemb., 2021 Sess. (Iowa 2021).
+
+The Iowa Senate introduced a bill that would prohibit "the state and political subdivisions of the state from accepting payment in the form if virtual currency." The bill stipulates that the state "only accept payment in the form of cash" and expressly excludes virtual currency from the definition of cash "regardless of whether such virtual currency has an equivalent value in legal tender." S.F. 2079, 88th Gen. Assemb., 2020 Sess. (Iowa 2020). However, this bill died in committee.
+
+Kansas
+
+Although there are no blockchain or virtual currency specific regulations enacted in Kansas at the time of publication the Office of the State Bank Commissioner issued guidance clarifying the applicability of the Kansas Money Transmitter Act to people or businesses using or transmitting virtual currency. The guidance lays out the Office's policy "regarding the regulatory treatment of virtual currencies pursuant to the statutory definitions of the KMTA." See Kansas Office of the State Bank Commissioner, Guidance Document MT 2014-01, Regulatory Treatment of Virtual Currencies Under the Kansas Money Transmitter Act, (June 6, 2014).
+
+The Office states that, because "no cryptocurrency is currently authorized or adopted by any governmental entity as part of its currency, it is clear that cryptocurrency is not considered 'money' for the purposes of the KMTA." See Kansas Office of the State Bank Commissioner, Guidance Document MT 2014-01, Regulatory Treatment of Virtual Currencies Under the Kansas Money Transmitter Act, (June 6, 2014). A person or business engaged solely in transmitting virtual currency, therefore, would not have to obtain a license to do so.
+
+Kansas H.B. 2352 proposes "changes to nexus for the sales and use tax law; requiring tax collection by marketplace facilitators; imposing sales tax on digital products. If a person provides "a virtual currency that buyers are allowed or required to use to purchase products from the internet retailer," then that person can be deemed a "marketplace facilitator" under Kansas state tax law. H.B. 2352, 88th Leg., Reg. Sess. (Kan. 2019). However, this bill died in committee. A similar version of the bill was re-introduced and a hearing before the House is scheduled for March 16, 2021. H.B. 2352, Reg. Sess. (Kan. 2021).
+
+On April 18, 2019, H.B. 2039, which amends certain laws to provide that various business records may be maintained through the use of electronic databases, including distributed electronic networks, was signed into law.
+
+Kentucky
+
+The State's Money Transmitter Act does not explicitly include the concept of "virtual currencies" but does require a license for the transmission of "monetary value." The State's has not published guidelines on whether virtual currencies transmissions are subject to the Act.
+
+The Kentucky House of Representatives enacted a bill that amends Kentucky's Unclaimed Property Act to explicitly include virtual currency as property. According to the bill, "virtual currency" means "a digital representation of value used as a medium of exchange, unit of account or store of value that does not have legal tender status recognized by the United States." H.B. 394, Gen. Assemb., Reg. Sess. (Ky. 2018). With respect to abandoned or unclaimed property, Kentucky law includes provisions for virtual currency which is to be liquidated and bars claims for gains/losses after liquidation. Ky. Rev. Stat. Ann. § 339A.330(9) (West 2019).
+
+On March 26, 2019, Kentucky adopted a bill that a person who "[p]rovides a virtual currency that purchasers are allowed or required to use to purchase tangible personal property, digital property, or services" can qualify as a "marketplace facilitator" for state tax law purposes. H.B. 354, Gen. Assemb., Reg. Sess. (Ky. 2019).
+
+With respect to blockchain, Kentucky adopted a resolution to "[u]rge the Kentucky Cabinet for Economic Development to work with state and federal officials and study the issue of blockchain technology. H. Res. 171, Reg. Sess. (Ky. 2019).
+
+In April 2020, Kentucky adopted Senate Bill 55 which established a "Blockchain Technology Working Group" that evaluates usefulness and applicability of the blockchain technology in "the state's critical infrastructure, including but not limited to the electric utility grid, natural gas pipelines, drinking water supply and delivery, wastewater, telecommunications, and emergency services." S.B. 55, Gen. Assemb., Reg. Sess. (Ky. 2020).
+
+In February 2021, the Kentucky introduced S.B. 177, a comprehensive bill that seeks to Establish KRS Chapter 355A and create new sections thereof to define and establish property classifications for digital assets; supplement and modify provisions of the Uniform Commercial Code, KRS Chapter 355, relating to the classification, perfection, and priority of digital assets; allow debtors located in Kentucky to file a financial statement with the Secretary of State to perfect a security interest in a digital asset; establish when a transferee takes a digital asset free of any security interest perfected by filing; for purposes of Article 9 of KRS Chapter 355, establish when digital assets are located in Kentucky; classify open blockchain tokens with certain characteristics as intangible personal property; require developers and sellers of certain open blockchain tokens to file a notice of intent with the Secretary of State, and pay a filing fee, prior to sale in this state; require the Secretary of State to promulgate forms and make the forms accessible to filers; require facilitators of certain open blockchain tokens in the resale market to comply with certain requirements; establish penalties for violation of the section; provide that the Secretary of State may make referrals to law enforcement agencies; provide that section may be cited as the "Kentucky Utility Token Act;" create a new section of Subtitle 2 of KRS Chapter 286 to permit certain Kentucky financial institutions to elect to provide custodial services of customer currency and digital assets in accordance with the provisions of the section; establish internal control and customer contracting requirements for providing custodial services under the section; provide that digital assets held in custody under the section are not depository liabilities or assets of the financial institution; require the commissioner of financial institutions to establish a supervision fee; create a new section of Article 1 of KRS Chapter 355 to conform; amend KRS 369.103 to include transactions involving digital assets; provide that the Secretary of State and the commissioner of financial institutions shall promulgate administrative regulations to implement the Act on or before October 1, 2021. S.B. 177, Gen. Assemb., Reg. Sess. (Ky. 2021).
+
+Additionally, in March 2021, the Kentucky House passed a bill that defines various terms relating to commercial mining of cryptocurrency using blockchain technology, provides sales and use tax exemptions on the tangible personal property directly used and the electricity used in commercial mining of cryptocurrency as of the date of approved application. H.B. 230, Gen. Assemb., Reg. Sess. (Ky. 2021). The bill is currently before the Senate. Id. The Senate had introduced and passed its own bill providing a tax break for cryptocurrency mining operations with a minimum capital investment of one million dollars. S.B. 255, Gen. Assemb., Reg. Sess. (Ky. 2021). S.B. 255 is now pending before the House.
+
+The Kentucky Senate introduced and passed a bill that changes definitions under Kentucky Money Transmitter Act. S.B.134, Gen. Assemb., Reg. Sess. (Ky. 2021). Such terms include "medium of exchange" which is defined as "... an instrument used to facilitate the sale, purchase, or trade of goods or services between parties, whether or not redeemable in money; and ... [s]hall include electronic instruments and virtual currency," and "virtual currency" to mean "a digital representation of value used as a medium of exchange, a unit of account, or stored value, but does not have legal tender status as recognized by the United States government; and ... [d]oes not include the software or protocols governing the transfer of the digital representation of value or other uses of virtual distributed ledger systems to verify ownership or authenticity in a digital capacity when the virtual currency is not used as a medium of exchange. S.B.134, Gen. Assemb., Reg. Sess. (Ky. 2021). The bill is currently before the House. Id.
+
+Louisiana
+
+The State has issued public guidance on the applicability of the State's Money Transmitter Act to cryptocurrency transactions, stating that a person identified as an "exchanger" under FinCEN's interpretation is the only party who may be subject to licensure as a money transmitter in the State. FinCEN has characterized sellers of decentralized virtual currencies in exchange for another virtual currency or fiat currency, among others, as "exchangers." See La. Office of Fin. Inst., Consumer and Investor Advisory on Virtual Currency (2014).
+
+Effective August 1, 2020, Louisiana enacted House Bill 701, "Virtual Currency Businesses Act" which regulates various topics including definitions of virtual currency and relevant terminologies, applicability of the statute, licensure for businesses, and license application requirements. According to the bill, "[v]irtual currency business activity" means any of the following:
+
+(a) Exchanging, transferring, or storing virtual currency or engaging in virtual currency administration, whether directly or through an agreement with a virtual currency control services vendor.
+
+(b) Holding electronic precious metals or electronic certificates representing interests in precious metals on behalf of another person or issuing shares or electronic certificates representing interests in precious metals.
+
+(c) Exchanging one or more digital representations of value used within one or more online games, game platforms, or family of games for either of the following:
+
+(i) Virtual currency offered by or on behalf of the same publisher from which the original digital representation of value was received.
+
+(ii) Legal tender or bank credit outside the online game, game platform, or family of games offered by or on behalf of the same publisher from which the original digital representation of value was received."
+
+The State's new "Licensure" section imposes a licensure requirement on entities conducting virtual currency business activities while its "Applicability" section thoroughly discusses entities to which the Act is not applicable. H.B. 701, Gen Assem., Reg. Sess. (La. 2020); Virtual Currency Businesses, 2020 La. Sess. Law Serv. Act 341 (H.B. 701) (WEST).
+
+Maine
+
+The senate introduced a bill that would amend the state Money Transmitter Act to include digital currencies in the definition of money transmission. This would allow the bureau of Consumer Credit Protection the ability to regulate transmission of digital currencies. S.P. 599, 129 Leg., 1st Reg. Sess (Me. 2019). The State Office of Consumer Credit Protection has not published any guidance.
+
+In February 2019, the Maine House introduced as resolution, H.P. 673, which "directs the Commissioner of Economic and Community Development to establish a working group to develop a master plan for fostering the expansion of the blockchain technology industry in the State and recommend policies and investments to make the State a leader in blockchain technology." H.P. 673, 129th Leg., 1st Reg. Sess. (Me. 2019). However, the resolution did not pass.
+
+Maryland
+
+Two bills, House Bill 1634 and Senate Bill 1068, before the Maryland legislature were passed and took effect October 1, 2018 and mandate the state's Financial Consumer Protection Commission to study cryptocurrencies, initial coin offerings, cryptocurrency exchanges, and blockchain technologies. These bills-together called the Financial Consumer Protection Act of 2018-require the Commission to make recommendations for State actions to regulate cryptocurrencies in its 2018 report to the Governor and the General Assembly. The bill also requires the "a study to assess whether the commissioner has enough statutory authority to regulate "Fintech" firms or technology-driven nonbank companies who compete with traditional methods in the delivery of financial services. OCFR [Office of the Commissioner of Financial Regulation] must identify any gaps in the regulation of Fintech firms, including any specific types of companies that are not subject to regulation under State law." The OCFR must report these findings to the General Assembly by December 31, 2019.
+
+The State's Financial Consumer Protection Commission has issued a report noting the State does not require a license or registration for companies dealing with virtual currencies. The Report recommends the legislature update the State's Money Transmission Act to include virtual currency transmitters. Md. Fin. Consumer Prot. Comm'n, 2017 Interim Report (Jan. 2018).
+
+Maryland's Department of Labor, Licensing and Regulation has issued a warning to consumers about the potential dangers of virtual currency that suggests that, because Maryland does not regulate virtual currencies, "[a]n administrator or exchanger that accepts and transmits a convertible virtual currency or buys or sells convertible virtual currency for any reason is a money transmitter under federal regulations and therefore should be registered as a money services business." See Office of the Commissioner of Financial Regulation, Virtual Currencies: Risks for Buying, Selling, Transacting, and Investing - Advisory Notice 14-01, (April 24, 2014).
+
+On February 4, 2019, Senate Bill 786 was introduced as the "Financial Consumer Protection Act of 2019." With respect to virtual currency, the Act proposes language defining "Control of Virtual Currency" and would also require money transmitters to maintain certain amounts of virtual currency under certain circumstances.
+
+With respect to Maryland state tax law, the Maryland house introduced H.B. 1301 which requires certain virtual currency person or businesses who qualify as "marketplace facilitators" to collect "the sales and use tax on certain sales by a marketplace seller to a buyer in the state under certain circumstances." If a person provides "a virtual currency that buyers are allowed or required to use to purchase products from the marketplace seller," then that person can be deemed a "marketplace facilitator." H.B. 1301, Gen. Assemb., 439th Sess. (Md. 2019) (introduced). Ultimately, the state adopted a version of H.B. 1301 that did not include these provisions related to virtual currency. H.B. 1301, Gen. Assemb., 439th Sess. (Md. 2019) (introduced).
+
+In regards to blockchain technology, on April 30, 2019, the state adopted a senate bill, which authorizes corporations to maintain certain records on a "distributed electronic network or database." S.B. 136, Gen. Assemb., 439th Sess. (Md. 2019).
+
+Massachusetts
+
+Massachusetts' regulations on money servicers do not mention virtual currencies and the State's Division of Banks has not published guidance on whether money servicers require a license under. The state's Money Transmitter act. However, in replies to inquiries by virtual currency businesses, the Division noted that "Massachusetts does not presently have a domestic money transmission statute" and noted only "foreign transmittal agencies" require a license from the State. Letter from Merrily S. Gerrish, Deputy Comm'r of Banks, to Oleksandr Lutskevych, CEO, CEX.IO Ltd. (June 14, 2018); Letter from Merrily S. Gerrish, Deputy Comm'r of Banks, to Andrew E. Bigart, Esq., Venable LLP (Mar. 9, 2018).
+
+Massachusetts recently enacted a statute defining those the dissemination virtual currencies on the internet as "marketplace facilitators" subject to sales or use tax collection when engaged in business in commonwealth. 830 Mass. Code Regs. 64H.1.7 (2019). Previously, the Office of Consumer Affairs and Business Regulation opined in a 2014 Opinion Letter that Bitcoin ATMs are not "Financial Institutions" as defined by Chapter 167B of the Massachusetts General Laws. The office found under the facts presented that the Bitcoins provided to the Bitcoin ATM's customers not to constitute a foreign currency so as to require a foreign transmittal agency license. The office notes at the end of their opinion that they will continue to monitor the development of virtual payment systems like Bitcoin and may regulate such digital currencies in the future, but have not provided any additional guidance since issuing the letter. Letter from Merrily S. Gerrish, Deputy Comm'r of Banks, to Adam Atlas, Att'y (May 12, 2014).
+
+In January 2019, the Massachusetts Senate introduced S.B. 1762, which is "An Act related to the marketplace collection of sales tax." Accordingly, if a person or business provides "a virtual currency that buyers are allowed or required to use to purchase products from the vendor," then they can qualify as a "marketplace facilitator" for sales tax purposes. S.B. 1762, 191st Gen Ct. (Mass. 2019). An act making appropriations for the fiscal year 2020 includes a remote nexus sales and use tax provision, including marketplace facilitators who permit sales via virtual currency that buyers are allowed or required to use to purchase products from the seller. See, e.g., H.B. 1, 191st Gen. Ct. (Mass. 2019); S.B. 1762, 191st Gen Ct. (Mass. 2019).
+
+The Massachusetts Senate has also proposed a bill to "a special commission is hereby established for the purposes of making an investigation and study relative to the emerging technologies of blockchain and cryptocurrencies. Specifically, the special commission shall examine the following:
+
+(a) The feasibility of using blockchain technology for government records or delivery of services;
+
+(b) The validity and admissibility of blockchain records in court proceedings;
+
+(c) The advisability of allowing corporate records to be kept using blockchain technology, including any security requirements necessary to ensure the accuracy of such records;
+
+(d) The advisability of using blockchain technology to protect voter records and election results;
+
+(e) The feasibility of creating statewide registries using blockchain for such topics as firearms, marijuana or opiates;
+
+(f) The advisability of government agencies accepting payment in cryptocurrencies;
+
+(g) The advisability of taxing cryptocurrency transactions as part of the sales tax;
+
+(h) The advisability of allowing cryptocurrencies as a form of payment for cannabis retail stores;
+
+(i) The feasibility of regulating the intense energy consumption associated with cryptocurrencies; and
+
+(j) Any other related topic which the commission may choose to examine in relation to blockchain or cryptocurrencies.
+
+S.B. 200, 191st Gen. Ct (Mass. 2019); S.B. 3, 191st Gen. Ct. (Mass. 2019).
+
+Michigan
+
+The State's Money Transmitter act does not explicitly include the concept of "virtual currencies," however it does include the undefined concept of "monetary value." The State has not issued further guidance on the matter.
+
+A trio of proposed bills has been introduced by the State's House (H.B. 6253, 6254, 6258) that if passed would amend the State's penal code to include cryptocurrency within its definition of "embezzlement", "money laundering", and as related to criminal acts involving credit cards. These bills were referred to the committee on judiciary in December 2018.
+
+The Michigan Department of Treasury issued guidance defining virtual currency and explaining how sales tax applies when virtual currency is used.
+
+See Tax Policy Division of the Michigan Dept. of Treasury, Treasury Update, Vol. 1, Issue 1 (November 2015).
+
+On January 29, 2019, Michigan's House introduced a line of bills which propose amending the Michigan Penal Code for crimes involving credit cards and crimes involving forgery and counterfeiting, respectively. The proposed amendments build in definitions for cryptocurrency and include altering a record by use of distributed ledger technology. H.B. 4103, 100 Leg., Reg. Sess. (Mich. 2019); H.B. 4105, 100 Leg., Reg. Sess. (Mich. 2019); H.B. 4106, 100 Leg., Reg. Sess. (Mich. 2019); H.B. 4107, 100 Leg., Reg. Sess. (Mich. 2019); H.B. 5656, 100 Leg., Reg. Sess. (Mich. 2019).
+
+Minnesota
+
+The State's Money Transmitter laws do not explicitly include "virtual currencies" or "monetary value" and the Minnesota Commerce Department has not published guidance on virtual currency regulations.
+
+In February 2017, the Minnesota House of Representatives introduced a bill that would amend the Minnesota Unclaimed Property Act to explicitly include virtual currency as property. According to the bill, "virtual currency" means "a digital representation of value used as a medium of exchange, unit of account or store of value that does not have legal tender status recognized by the United States." H.B. 1608, 1st Reg. Sess., 90th Leg. Sess. (Minn. 2017). However, this bill died in committee.
+
+In March 2019, the Minnesota legislature introduced H.F. 2208, which builds "virtual currency" into the definitions of the state's "unclaimed property" laws. H.F. 2208, 91st Leg. Sess., 1st Reg. Sess. (Minn. 2019). While the most recent version of the bill no longer includes this provision, another House File includes virtual currency in the definition of property. H.F. 2538, 91st Leg., 1st Reg. Sess. (Minn. 2019).
+
+The Minnesota Commerce Department is joining an international crackdown on fraudulent initial coin offerings (ICOs) and cryptocurrency scams. The effort is being coordinated by the North American Securities Administrators Association (NASAA), which represents state and local securities regulators. "Operation Cryptosweep" has resulted in nearly 70 investigations and 34 pending or completed enforcement actions as of early June 2018. The department also offers educational resources that caution consumers of the "Crypto Investment Craze."
+
+The House introduced legislation that prohibits an individual, political committee, political fund, principal campaign committee, or party unit from soliciting or accepting a "contribution or donation of any digital unit of exchange." H.F. 2884, 91st Leg., 1st Reg. Sess. (Minn. 2019). The House also introduced H.F. 4571 which includes cryptocurrency in the definition of "money" that may be seized and recovered by state government agencies H.F. 4571, 2nd Reg. Sess., 91st Lg. Sess. (Minn. 2019).
+
+Mississippi
+
+The State's Money Transmitter laws do not explicitly include "virtual currencies," but does include the concept of "monetary value" as a medium of exchange. The State requires a license for the transmission of monetary value, but the Mississippi Department of Banking and Consumer Finance has not published guidance as to its applicability on virtual currencies.
+
+Missouri
+
+The State's consumer credit laws do not explicitly include "virtual currencies" or "monetary value" and the State's Division of Finance has not published guidance on virtual currency regulations.
+
+A bill filed in the Missouri House of Representatives would make it illegal to use blockchain to store firearm owner data in the state. See H.R. 1256, 99th Gen. Assemb., 2d Reg. Sess. (Mo. 2017). However, the bill died in March 2018.
+
+In a letter ruling, the Missouri Department of Revenue determined that an ATM provider "is not required to collect and remit sales or use tax upon transfer of Bitcoins through [their] ATM," because sales and use taxes are imposed solely on items of tangible personal property. See Missouri Department of Revenue, LR 7411, Collection of Sales Tax on Bitcoin Transfers Through an Automated Teller Machine (ATM), (September 12, 2014). Further, in a cease and desist order issued by the Office of the Secretary of State in June 2014, the Commissioner of Securities determined that offering and/or selling shares of stock in Bitcoin constituted "transacting business as an agent" in the state of Missouri. See State of Missouri, Office of Secretary of State, In the Matter of Virtual Mining, Corp., Case No. AP-14-09, ORDER TO CEASE AND DESIST AND SHOW CAUSE WHY RESTITUTION, CIVIL PENALTIES, AND COSTS SHOULD NOT BE IMPOSED, (June 2, 2014).
+
+In February 2019, the Missouri House introduced H.B. 1159, which "establishes regulations for financial institutions providing services for digital assets." The proposed statutory amendments includes the addition of definitions for "automated transaction," "digital asset," "digital consumer asset," "digital security," and "open Blockchain token." H.B. 1159, 100th Gen. Assemb., 1st Reg. Sess. (Mo. 2019). During this same month, the House also introduced a bill that "changes the law regarding the issuance of stock by corporations." The proposed statutory changes include ownership representation via use of a blockchain, certificate tokens, and network signatures. H.B. 1109, 100th Gen. Assemb., 1st Reg. Sess. (Mo. 2019).
+
+In March 2019, the Missouri House introduced H.B. 1247, which "requires the state and political subdivisions thereof to accept virtual currency as legal tender." H.B. 1247, 100th Gen. Assemb., 1st Reg. Sess. (Mo. 2019).
+
+A variety of tax bills are also proposing that the "providing a virtual currency that purchasers are allowed or required to use to purchase products from the marketplace seller" qualifies a person or business as a "marketplace facilitator" for state tax collection and remittance purposes. See, e.g., H.B. 1207, 100th Gen. Assemb., 1st Reg. Sess. (Mo. 2019); H.B. 548, 100th Gen. Assemb., 1st Reg. Sess. (Mo. 2019); H.B. 479, 100th Gen. Assemb., 1st Reg. Sess. (Mo. 2019); H.B. 2172, 100th Gen. Assemb., 2nd Reg. Sess. (Mo. 2020); S.B. 872, 100th Gen. Assemb., 2nd Reg. Sess. (Mo. 2020); H.B. 1967, 100th Gen. Assemb., 2nd Reg. Sess. (Mo. 2020)..
+
+Montana
+
+Montana is notable as being the only state to not have enacted a money transmission statute. The state has amended its Electronic Contributions Act to expressly require the reporting of political contributions made "through a payment gateway," including Bitcoin. See Mont. Admin. R. § 44.11.408.
+
+Despite a lack of regulatory guidance related to blockchain or virtual currencies, Montana is the first government to take a financial stake in a Bitcoin mining operation when it granted Project Spokane, LLC, a data center that provides blockchain security services for the Bitcoin network, a grant of $416,000. See US State of Montana Invests Directly in a Bitcoin Mining Operation, Trustnodes, (Jun. 13, 2017).
+
+Montana's House introduced two separate bills, H.B. 584 and H.B. 630, seeking to exempt virtual currencies from securities laws and property taxation, respectively. The former addresses the definition of a "utility token" and its "consumptive purpose," which means to, "provide or receive goods, services, or content including access to goods, services, or content." H.B. 630, 66th Leg. (Mont. 2019); H.B. 584, 66th Leg. (Mont. 2019).
+
+Nebraska
+
+The State's Money Transmitter laws do not explicitly include "virtual currencies," but does include the concept of "monetary value" as a medium of exchange. The State requires a license for the transmission of monetary value, but the Nebraska Department of Banking and Finance has not published guidance as to its applicability on virtual currencies.
+
+The Nebraska Legislature introduced three bills-L.B. 695, L.B. 691, and L.B. 694-focusing on blockchain and cryptocurrency in January 2018. L.B. 691 would amend the state's money-laundering statutes to account for cryptocurrencies. L.B. 691, 105th Leg., 2nd Reg. Sess. (Neb. 2018). L.B. 694 would prohibit local governments from taxing or otherwise regulating the use of distributive ledger technology. L.B. 694, 105th Leg., 2nd Reg. Sess. (Neb. 2018). L.B. 695 would allow the technology to be used for notarization. L.B. 695, 105th Leg., 2nd Reg. Sess. (Neb. 2018). All three bills have been indefinitely postponed since April 18, 2018.
+
+In an administrative release, the Nebraska Department of Revenue found that the term "currency" does not include Bitcoin or other virtual currency. See Jennifer Jensen, et al, Sales and Use Taxes in a Digital Economy, The Tax Adviser, (Jun. 1, 2015). The guidance did not explain whether sales of virtual currencies are taxable.
+
+With respect to state tax laws, Nebraska introduced L.B. 284, which qualifies persons who provide "a virtual currency that buyers are allowed or required to use to purchase products from the seller" as a "marketplace facilitator. This proposal would affect the collection and remittance of sales tax. It was approved by the governor in March 2019. L.B. 284, 106th Leg., 1st Reg. Sess. (Neb. 2019). L.B. 9 would prohibit cities, counties, and villages from taxing or regulating distributed ledger technology. L.B. 9, 106th Leg., 1st Reg. Sess. (Neb. 2019). It also provides a definition of distributed ledger technology.
+
+A resolution introduced in May 2019 would create an interim study to examine the need to update the insurance laws in response to technology advancement and innovation and the study would review the interaction of insurance regulation and blockchain. L.R. 164, 106th Leg., 1st Reg. Sess. (Neb. 2019).
+
+Nevada
+
+Nevada's Money Transmitter Act does not explicitly include "virtual currencies" or "monetary value" and the State's Department of Business and Industry has not published guidance on virtual currency regulations. However, on February 18, 2019, the Nevada Senate proposed S.B. 195, which would enact the Uniform Regulation of Virtual-Currency Businesses Act and the Uniform Supplemental Commercial Law for the Uniform Regulation of Virtual-Currency Businesses Act. With respect to money transmission laws, "[g]enerally, the Uniform Regulation of Virtual-Currency Businesses Act requires persons engaged in certain business activity involving virtual currency to obtain a license from or register with the Department of Business and Industry." S.B. 195, 2019 Leg., 80th Reg. Sess. (Nev. 2019).
+
+Nevada became the first state to ban local governments from taxing blockchain use when it enacted Senate Bill No. 398 in June 2017. The bill adds the definition of blockchain as an electronic record, transaction, or other data which is (1) uniformly ordered; (2) redundantly maintained or processed by one or more computers or machines to guarantee the consistency or nonrepudiation of the recorded transactions or other data; and (3) validated by the use of cryptography. Under the bill, local governments are prevented from taxing blockchain use. Additionally, the bill states that, "if a law requires a record to be in writing, submission of a blockchain which electronically contains the record satisfies the law"-meaning that data from a blockchain can be introduced in legal proceedings in Nevada courts.
+
+On June 7, 2019, Nevada adopted bills S.B. 162, 163, and 164. These three bills, respectively, seek to:
+
+revise "the definition of "electronic transmission" as it relates to certain communications of certain business entities to include the use of a blockchain or public Blockchain,"
+
+revise "provisions relating to electronic transactions ... including a public blockchain as a type of electronic record for the purposes of the Uniform Electronic Transactions Act," and,
+
+recognize, "certain virtual currencies as a form of intangible personal property for purposes of taxation."
+
+S.B. 162, 2019 Leg., 80th Reg. Sess. (Nev. 2019); S.B. 163, 2019 Leg., 80th Reg. Sess. (Nev. 2019); S.B. 164, 2019 Leg., 80th Reg. Sess. (Nev. 2019).
+
+Introduced in March 2019, S.B. 488 revises provisions relating to businesses engaged in the development of emerging technologies. Specifically, it creates the Emerging Technologies Task Force, which is tasked with developing strategies, making recommendations on the development of blockchain technology in the State and how best to "remain a leader in technological innovation" by attracting businesses engaged in blockchain development. S.B. 488, 2019 Leg., 80th Reg. Sess. (Nev. 2019).
+
+S.B. 164 is now codified into Nevada law as N.R.S. 361.228.
+
+Two bills adopted in June 2019 seek to define "virtual currency" in different existing laws. A.B. 15 adds provisions governing crimes related to certain financial transactions to include "virtual currency" in the definition of a monetary instrument, which would make it unlawful for a person to conduct a financial transaction using virtual currency if it is derived from any unlawful activity. A.B. 15, 2019 Leg., 80th Reg. Sess. (Nev. 2019). The state also adopted a bill, which includes "virtual currency" in the definition of property under its Uniform Unclaimed Property Act. S.B. 44, 2019 Leg., 80th Reg. Sess. (Nev. 2019).
+
+With respect to the collection of sales and use tax, a bill adopted in June 2019 states that a person is a "marketplace facilitator" if that person provides, "a virtual currency that buyers are allowed or required to use to purchase tangible personal property." A.B. 445, 2019 Leg., 80th Reg. Sess. (Nev. 2019). This bill is now codified into state law as N.R.S. 372.746-54.
+
+Nevada has also adopted a bill that creates the Cannabis Advisory Commission. One of the responsibilities of the Commission is to "study the feasibility of the use of emerging technologies, including, without limitation, blockchain and systems that use a single source of truth, as a means of collecting data or efficiently and effectively handling transactions electronically to reduce or eliminate the handling of cash." A.B. 533, 2019 Leg., 80th Reg. Sess. (Nev. 2019).
+
+New Hampshire
+
+New Hampshire has amended its Money Transmitter statute (NH St. § 399-G:3) to exempt "persons who engage in the business of selling or issuing payment instruments or stored value solely in the form of convertible virtual currency or receive convertible virtual currency for transactions to another location" from the state's money transmission regulation. See H.B. 436, 2017 Leg.,165th Sess. (N.H. 2017). The law took effect August 1, 2017.
+
+A bill introduced in January 2019 would require the state treasurer to "develop an implementation plan for the state to accept cryptocurrencies as payment for taxes and fees beginning July 1, 2020." H.B. 470, Gen. Court, 166th Sess. (N.H. 2019).
+
+The New Hampshire House accepted a motion from the General Court's Executive Departments and Administration Committee saying that a tax bill that would have allowed New Hampshire taxpayers to pay in virtual currency was "inexpedient to legislate." Consequently, the bill was removed from the house floor before it reached a vote. H.B. 470. 166th Sess. (N.H. 2020).
+
+New Jersey
+
+New Jersey's Money Transmitter Act does not explicitly include "virtual currencies" or "monetary value" and the State's Department of Banking and Insurance.
+
+In 2017 the state enacted the Uniform Fiduciary Access to Digital Assets Act that expressly authorizes an estate's executor under certain circumstances to manage digital assets, including virtual currencies, of a decedent. N.J.S.A. 3B: 14-61.1. The State's tax code § 54:32B-3.6 was also amended to virtual currency issuers as "marketplace facilitators."
+
+In January 2018, the New Jersey Assembly introduced the Digital Currency Jobs Creation Act. If enacted the law would create a regulatory framework for virtual currency businesses and offer incentives for virtual currencies economic development. A.B. 1906, 218th Leg., 1st Ann. Sess. (N.J. 2018).
+
+S.B. 2297 would establish "the New Jersey Blockchain Initiative Task Force to study whether State, county, and municipal governments can benefit from a transition to a blockchain-based system for record keeping and service delivery." It has passed the General Assembly and Senate. S.B. 2297, 218th Leg., 1st Ann. Sess. (N.J. 2018). Another pair of bills (A.B. 3768 and S.B. 2462) pending in each house would permit corporations to use blockchain technology for certain recordkeeping requirements. Both of these bills continue to progress through the legislative process. A.B. 5240, introduced in May 2019, would require the state to "review and approve a viable blockchain-based, digital payment platform to provide payment services to legal and licensed businesses in this State that do not have access to traditional financial services and are forced to operate in cash-only or cash-heavy environments .... The payment platform shall provide the ability to manage and process all business expenditures and allow all transactions to be recorded on an immutable blockchain ledger." A.B. 5240, 218th Leg., 2nd Ann. Sess. (N.J. 2019).
+
+Adopted in 2018, but not yet effective, A.B. 4496 includes v New Jersey has also issued guidance that it would conform to the federal tax treatment of virtual currency, meaning that virtual currency would be treated as intangible property and subject to sales tax. See Technical Advisory Memorandum, N.J. Division of Taxation, Convertible Virtual Currency (TAM-2015-1(R)) (July 28, 2015).
+
+On February 20, 2020, the New Jersey Assembly introduced the "Digital Asset and Blockchain Technology Act," which if enacted would regulate the virtual currency and blockchain industry. The Act provides that a person or entity could not engage in digital business activity unless the person or entity is licensed by the New Jersey Department of Banking and Insurance. The bill has been referred to the New Jersey Assembly Committee on Financial Institutions and Insurance. A.B. 2891, 218th Leg. 2nd Ann. Sess. (N.J. 2020).
+
+New Mexico
+
+The State's Money Transmitter Act does not explicitly include the concept of "virtual currencies" but the State's Regulation and Licensing Department has issued guidance that those that exchange "virtual currency or money or any other form of monetary value or stored value" must be licensed by the FID as a money transmitter.
+
+However, in February 2019, the New Mexico House introduced H.B. 649 entitled "Internet Business Development & Innovations." Part of the proposal states:
+
+A person shall not engage in business as a cryptovalue creator and distributor or as a cryptovalue exchange without first having obtained a license to do so from the division. Licensees shall pay to the division an annual licensing fee of one hundred dollars ($100). A licensee shall be an active corporation organized pursuant to the laws of New Mexico. A cryptovalue creator and distributor and a cryptovalue exchange is not a money service as defined in Subsection P of Section 58-32-102 NMSA.
+
+H.B. 649, 54th Leg. Sess., 1st Sess (N.M. 2019).
+
+This bill has been postponed indefinitely, so it is still unclear whether a money transmission license is required for cryptocurrency
+
+In 2020, the New Mexico Senate introduced S.B. 113, which sought to create a state Blockchain Technology Task Force. The bill was postponed indefinitely. S.B. 113, 54th Leg. Sess., 2nd Sess. (N.M. 2020). The New Mexico Senate also sought to pass a joint memorial that requests the New Mexico Secretary of Information Technology convene a blockchain technology task force. This joint memorial was also postponed indefinitely. S.J.M. 9, 54th Leg. Sess., 2nd Sess. (N.M. 2020).
+
+New York
+
+The New York State Department of Financial Services established a comprehensive regulatory framework for virtual currency businesses called "BitLicense" that requires operations related to transactions involving any form of virtual currency to obtain a license from the state. 23 NYCRR 200. Before being granted a license, the state requires applicants to have strict compliance and supervisory policies and procedures in place, including, among other things, anti-money laundering/know-your-customer and cybersecurity programs in place. 23 NYCRR 200.
+
+Since its enactment in 2015, the regulatory scheme has been the subject of much criticism and has resulted in an exodus of businesses fleeing the state because of the costs and regulatory hurdles associated with the BitLicense. In late 2016, Theo Chino, a well-known Bitcoin entrepreneur filed a petition to the Supreme Court of New York challenging the authority of the state's Department of Financial Services to use the Bitcoin community as guinea pigs to test new banking regulations, arguing that under Article 78 of the State of New York regulations must be preceded by a law enacted by the Legislature. Information about the pending case, including briefings by the parties, can be found here.
+
+In response to critics, on June 24, 2020, the New York State Department of Financial Services ("NYDFS") proposed a conditional licensing framework for virtual currency business entities so that these entities can participate in the coin listing process for licensed exchanges while their BitLicense is being evaluated. The regulator plans to release new guidance and documentation to assist applicants, letting applicants receive conditional licenses if they partner with already-licensed entities to conduct licensed exchanges. NYDFS also announced NYDFS signed a Memorandum of Understanding ("MoU") with the State University of New York, allowing cryptostartups to visit any of the university's 64 campuses to seek assistance in writing their application or starting their business.
+
+A.B. 8783 was adopted in 2018, which creates a digital currency task force to determine the impact of cryptocurrencies on New York financial markets. A.B. 8783, 240th Leg., Reg. Sess. (N.Y. 2018). In January, 2019, the Senate introduced a bill that would increase the members of the task force from 9 to 13. S.B. 1194, 242nd Leg., Reg. Sess. (N.Y. 2019). Another bill regarding task force creation was introduced in January 2019, which would require the task force to study the following: (1) the steps New York "must take to produce and release a state-issued cryptocurrency and how such will affect" the SEC and CFTC's jurisdiction over economic transactions; (2) "the implications of issuing such cryptocurrency on monetary policy and financial stability; (3) how local, state, and federal taxation would be affected by such; and "the measures other jurisdictions, central banks, international governing bodies, states, or countries, have taken to potentially issue cryptocurrency." S.B. 4562, 242nd Leg., Reg. Sess. (N.Y. 2019). Relevant to the financial market, another bill was introduced to establish a financial technology regulatory sandbox program to test financial technology products, including "cryptocurrency business activity." A.B. 2213, 242nd Leg., Reg. Sess. (N.Y. 2019). A.B. 1351, if adopted, will direct the study of the use of blockchain technology to protect voter records and election results. A.B. 1351, 242nd Leg. (N.Y. 2019).
+
+A bill was introduced in January 2019, which would allow "New York state agencies to accept cryptocurrencies as a form of payment." A.B. 1500, 242th Leg., 2019 Reg. Sess. (N.Y. 2019). Another bill introduced in June, 2019 would recognize electronic contact by an owner as written contact and include unclaimed virtual currency within the definition of abandoned property. A.B. 8314, 242nd Leg. (N.Y. 2019).
+
+With respect to blockchain technology and applications, several bills were introduced in the first quarter of 2019 and include:
+
+"[A]llowing signatures, records and contracts secured through blockchain technology to be considered in an electronic form and to be an electronic record and signature" and "allow[ing] smart contracts to exist in commerce." S.B. 4142, 242nd Leg. (N.Y. 2019).
+
+The creation of an "office of financial resilience" of which one responsibility would be "to advocate on behalf of blockchain startups and companies focused on building and supporting local economies." A.B. 2239, 242nd Leg., Reg. Sess. (N.Y. 2019).
+
+The establishment of a task force "to study and report on the potential implementation of blockchain technology in state record keeping, information storage, and service delivery." A.B. 1371, 242nd Leg., Reg. Sess. (N.Y. 2019).
+
+The creation of a task force "to study the potential designation of economic empowerment zones for the mining of cryptocurrencies in the state of New York." A.B. 1502, 242nd Leg., Reg. Sess. (N.Y. 2019).
+
+North Carolina
+
+North Carolina has expanded its Money Transmitters Act to cover activities related to Bitcoin and other virtual currencies. The law defines virtual currency traders as money transmitters and requires they obtain a license. N.C. Gen. Stat. Ann. § 53-208.42 (West 2019). The law provides several exemptions, however, including for virtual currency miners as well as for software companies implementing blockchain services such as smart contract platforms, smart property, multi-signature software and non-custodial and non-hosted wallets. 2017 North Carolina Laws S.L. 2017-102 (H.B. 229). North Carolina law also imposes additional insurance requirements on virtual currency transmitters to address "cybersecurity risks." N.C. Gen. Stat. Ann. § 53-208.47 (West 2019).
+
+In 2018, the State enacted legislation clarifying that the State's Money Transmitters Act does not require virtual currency exchanges to maintain a reserve fund equal to their customer's aggregate investment.
+
+North Carolina's Board of Elections and Ethics Enforcement office issued guidance on using cryptocurrencies for political campaign contributions. The Board stated that it does not view a contribution of cryptocurrency as an in-kind contribution appropriate under state law. 2018 NC REG TEXT 501196 (NS).
+
+North Dakota
+
+The State's Money Transmitter laws do not explicitly include "virtual currencies," but does include the concept of "monetary value" as a medium of exchange. The State's Department of Financial Institutions has issued guidance that they "do not consider the control or transmission of virtual currency to fall under the scope of [the State's Money Transmission Act].] NDCC 13-09.
+
+The State introduced SB 2100 which enables the legislature to study the "feasibility and desirability of regulating virtual currency." However, the bill died in chamber.
+
+Nevertheless, the House introduced a new bill in January 2019, "requesting the Legislative Management to study the potential benefits of distributed ledger technology and blockchain for state government." H.C.R. 3002, 66th Leg. Assemb., Reg. Sess. (2019). This resolution failed to pass, however another resolution by the house has passed both the House and Senate, which requests the Legislative Management "to study the potential benefit value of Blockchain technology implementation and utilization in state government administration and affairs." H.C.R. 3004, 66th Leg. Assemb., Reg. Sess. (N.D. 2019)
+
+On January 3, 2019, the North Dakota House introduced H.B. 1043 which sought to exempt "an open blockchain token from specified securities transactions and dealings." This bill failed to pass. H.B. 1043, 66th Leg. Assemb., Reg. Sess. (N.D. 2019).
+
+North Dakota adopted a bill, which creates a pilot program for a state agency to "research and develop the use of distributed ledger-enabled platform technologies, such as blockchains, for computer-controlled programs, data transfer and storage, and program regulation to protect against falsification, improve internal data security, and identify external hacking threats. Research must include efforts to protect the privacy of personal identifying information maintained within distributed ledger programs." H.B. 1048, 66th Leg. Assemb., Reg. Sess. (N.D. 2019).
+
+With respect to the collection of sales and use tax, a person is a "marketplace facilitator" if that person provides, "a virtual currency that buyers are allowed or required to use to purchase products from the seller." H.B. 2238, 66th Leg. Assemb., Reg. Sess. (N.D. 2019). This bill failed to pass.
+
+Finally, in April 2019, a bill was signed by the Governor, which amends North Dakota state code related to the inclusion of electronic signatures, smart contracts, and blockchain technology. H.B. 1045, 66th Leg. Assemb., Reg. Sess. (N.D. 2019).
+
+Ohio
+
+Ohio's Money Transmitter Act does not explicitly include "virtual currencies" or "monetary value" and the State's Department of Commerce has not published guidance on virtual currency regulations.
+
+In November 2018, Ohio became the first state to allow companies to pay a variety of tax burdens with cryptocurrency. See https://www.wsj.com/articles/pay-taxes-with-bitcoin-ohio-says-sure-1543161720. However, the Ohio Attorney General assessed the state's crypto payment program and concluded the program violates state law, because under Ohio law the program is a financial transaction devise that cannot be used without first being approved by the Ohio Board of Deposit. Consequently, the Ohio Treasurer announced the suspension of the cryptocurrency tax payment program. See Robert Sprague, "Treasurer Sprague Announces Suspension of OhioCrypto.Com," Last Updated 10/2/2019 Available at: Treasurer of the State of Ohio.
+
+The State amended its Liquor Control Law to impose an unusual ban on the use of virtual currencies for the purchase of alcohol. See Janet H. Cho, Cleveland Heights Merchants Banking on Bitcoin to Draw Global Spotlight; Skeptics Warn of Risks (April 24, 2014).
+
+S.B. 300 was pending before the State's legislature and would amend Ohio's Uniform Electronic Transactions Act to include blockchain records and smart contracts and recognize smart contracts as legally enforceable. However, that bill died in committee.
+
+In April 2019, the House introduced a bill that would permit a governmental entity to use "distributed ledger technology, including blockchain technology, in the exercise of its authority." H.B. 220, 133rd Gen. Assemb., 2019 Sess. (Ohio 2019).
+
+Ohio provides definitions for electronic records and signatures to be valid if secured via blockchain technology. Ohio Rev. Code Ann. § 1306.01 (West 2019).
+
+Oklahoma
+
+Oklahoma's Money Transmitter Act does not explicitly include "virtual currencies" or "monetary value" and the State's Financial Regulation has not published guidance on virtual currency regulations.
+
+Bitcoin transferees are not afforded the same protections as those afforded to the transferees of money. Okla. Stat. Ann. § 1-9-332. The Oklahoma legislature determined that a seller who accepts bitcoin does not take the cryptocurrency free of an existing security interest. Okla. Stat. Ann. § 1-9-332.
+
+Multiple bills have set to amend or add definitions with respect to digital currencies and blockchain. In April 2019, a Senate Bill was adopted, which amends the definitions for electronic records and signatures to be valid if secured via blockchain technology. S.B. 700, 57th Leg., 1st Reg. Sess. (Okla. 2019). Additionally, "virtual currency" is being proposed to be included within the definition of "contribution" for purposes of campaign finance. S.B. 809 57th Leg., 1st Reg. Sess. (Okla. 2019). Also introduced in February 2019, SB 822 defines "virtual currency" as a medium of exchange, unit of account or store of value and "is not recognized as legal tender by the United States." S.B. 822, 57th Leg., 1st Reg. Sess. (Okla. 2019).
+
+The Senate also introduced a bill "clarifying status of open blockchain tokens under certain conditions." The proposal delineates when a person is not considered a broker-dealer and posits ways to comply with exemptions. S.B. 843, 57th Leg., 1st Reg. Sess. (Okla. 2019).
+
+The House also proposed a bill to create "the Uniform Regulation of Virtual-Currency Businesses Act and the Uniform Supplemental Commercial Law for the Uniform Regulation of Virtual-Currency Businesses Act." H.B. 1954, 57th Leg., 1st Reg. Sess. (Okla. 2019).
+
+The Oklahoma Senate introduced a bill authorizing cryptocurrency to be used, offered, sold, exchanged and accepted as an instrument of monetary value within its governmental agencies, the governmental agencies within the its political subdivisions, and by marketplace sellers; provided such governmental agencies and marketplace sellers have entered into a written contractual agreement with a money services business to use cryptocurrency as payment. The bill is currently in the Business, Commerce and Tourism Senate Committee. S.B. 1667, 57th Leg., 2nd Reg. Sess. (Okla. 2020).
+
+Oregon
+
+Oregon's Money Transmitter Act does not explicitly include "virtual currencies" or "monetary value," but the State has said publicly that the Act's definition of money includes virtual currencies, including Bitcoin.
+
+The Oregon Department of Human Services has adopted a regulation to set Department policy on how virtual currency or cryptocurrency will be treated for purposes of determining eligibility in APD medical and self-sufficiency programs. 2018 OR REG TEXT 491365 (NS) .
+
+In January 2019, the Oregon House introduced H.B. 2487, proposing that, "[t]he Oregon Department of Administrative Services shall study and make recommendations regarding the use of blockchain technology by state agencies to administer public services." H.B. 2487, 80th Leg. Assemb., Reg. Sess. (Or. 2019). On the same day, the House also introduced H.B. 2179 to establish a task force on blockchain applications and legislation. Per the proposal, "[t]he task force shall study and evaluate the status and development of blockchain technology, investigate potential uses for the technology for economic dev

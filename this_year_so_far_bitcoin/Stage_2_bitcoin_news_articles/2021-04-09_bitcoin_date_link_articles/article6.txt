@@ -1,0 +1,25 @@
+The Riot Blockchain Inc. cryptocurrency mining firm is buying Whinstone U.S. Inc. for roughly $651 million in cash and stock. Whinstone is North America’s largest Bitcoin hosting facility.
+
+Riot Blockchain will purchase all of Whinstone’s assets and operations for $80 million in cash and 11.8 million shares of Riot common stock. At roughly $50 per share, that amount of stock is currently worth $590 million.
+
+With 300 MW currently developed, Whinstone’s facility has a projected power capacity of 750 MW. Riot hopes this will make it the largest publicly traded Bitcoin mining and hosting company in North America.
+
+CEO Jason Les said Whinstone will become the “foundation” of the company’s Bitcoin mining operations.
+
+Riot purchases 42,000 Antminers
+
+A significant purchase made the day before the acquisition’s announcement will certainly bolster these ambitions. On April 7, Riot announced that it had purchased 42,000 S19j Antminers from Bitmain Technologies Ltd. for $138.5 million.
+
+This would increase the company’s 4.0 exahash rate per second (EH/s), expected by October 2021, by 93% once fully implemented. Bitmain will deliver a minimum of 3,500 S19j Antminers on a monthly basis starting in November 2021. Once Riot receives the final shipment in October 2022, it projects that its capacity will be 7.7 EH/s.
+
+“Riot’s existing fleet of miners has already positioned the Company as an American leader in Bitcoin mining,” said Megan Brooks, COO of Riot. “By nearly doubling its planned hash rate capacity, Riot continues to take great strides forward in growing both the Company’s and the United States’ share of the global network hash rate.”
+
+Once fully implemented, 95% of Riot’s fleet of about 81,150 Antminers, will consist of the latest generation S19 model. This total fleet is expected to consume approximately 257.6 MW of energy. Riot’s acquisition of Whinstone will more than enable it to fulfill that capacity.
+
+Relationship with Bitmain
+
+Riot Blockchain acknowledged that the purchase was significant, in light of the current period’s scarce supply of Bitcoin mining hardware. The ability for many miners to grow their hash rate has been compromised by the global shortage of semiconductor production.
+
+Fortunately, Riot has enjoyed a positive, long-term relationship with Bitmain. The company had previously purchased 2,500 S19 Antminer miners from Bitmain for $6.1 million in October 2020.
+
+“We are excited for our long-term cooperation with Riot as they continue to solidify their growth and position as one of the global leading companies in Bitcoin mining,” said Irene Gao, Antminer Sales Director of NCSA Region for Bitmain. “With their new order of Bitmain’s next-gen Antminers, this will assure the rapid growth and long-term investment of their mining operations.”

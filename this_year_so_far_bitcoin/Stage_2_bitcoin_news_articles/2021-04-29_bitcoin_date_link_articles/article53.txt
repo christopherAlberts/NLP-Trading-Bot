@@ -1,0 +1,67 @@
+Binance, the world’s largest cryptocurrency exchange, has pushed into a wide range of businesses in recent years in pursuit of profit and industry dominance – from sponsoring its own blockchain, to backing a decentralized exchange, to launching its own “utility token,” BNB, now trading at an $87 billion market capitalization.
+
+But it’s Binance’s latest venture, a foray into trading tokenized versions of stocks like Tesla, Apple and Coinbase, that’s now threatening to bring unwanted attention from national and regional regulators.
+
+Binance launched a “stock token” trading service on April 12, in timing that was notable because it came just a few days before its biggest U.S.-based competitor, Coinbase, pursued a direct stock listing on Nasdaq.
+
+Related: Bitcoin Struggles Near Resistance; Support Around $52K
+
+According to Binance, the new offering would let users buy “stock tokens” – representing public companies’ shares or even fractions of shares. They’re settled in Binance’s own dollar-linked stablecoin, binance USD (BUSD). The tokens are fully backed by shares held by CM-Equity AG, “a licensed and fully regulated asset management firm in Germany.”
+
+Yet red flags are already getting raised by regulators in different countries and regions, over the possibility that Binance’s new push might run afoul of securities rules.
+
+“Their marketing has been very aggressive, and they’ve used that term ‘stock’ very heavily,” said Henry Chong, chief executive at Hong Kong-based digital-asset exchange Fusan. “I think that’s what is getting really uncomfortable right now.”
+
+Binance says the new stock tokens, provided in concert with a German firm, are compliant with European market regulations.
+
+Related: Fed’s Powell Says Market, as Exemplified by Dogecoin, Is ‘a Bit Frothy’
+
+Story continues
+
+“Stock tokens entitle the holders to gain economic exposure to the underlying shares in a convenient and trusted manner,” a Binance representative said in an email response on whether the stock tokens should be considered a security. The representative said it’s “expected” that there would be an “identical move” in the price of the token whenever the underlying stock goes up or down.
+
+The process works like this: Once a Binance user opens a trade in stock tokens, a Swiss company called Digital Assets AG (DAAG), on behalf of a German firm called CM-Equity AG, purchases the corresponding amount of the company’s shares. A token is then minted on a private blockchain by Digital Assets.
+
+The underlying shares are put into a security account associated with CM-Equity AG, and Digital Assets AG sends the token through CM-Equity to Binance.
+
+“It is a financial instrument where people are buying, and that’s why Binance is a tied agent of CM-Equity AG,” a DAAG representative said. “CM-Equity AG has the license to sell securities and financial instruments.”
+
+James Angel, an associate professor at Georgetown University’s McDonough School of Business, praised the tokenized stock as an “innovation” but said several risks could arise for people who want to use it.
+
+“How can you actually trust that token is what it says it is?” Angel asked. “You are not going to have all of the rights of ownership if you own one of these tokens. What you basically have is a side bet on the company. And the real question is who’s on the other side? And is it collateralized to the point where you trust the process?”
+
+Digital Assets AG said it is not taking any short positions against the underlying stocks, unlike some CFD (contract for differences) providers in traditional finance.
+
+“We take the same position as the clients,” the company’s representative said. “We don’t sell short and we are not selling the order flow to market makers like Robinhood.”
+
+The disadvantage of having no physical headquarters
+
+A big question, for some cryptocurrency-industry veterans, is why Binance didn’t use its own blockchains to mint the tokens.
+
+Binance has two blockchains: Binance Chain, focused on high-speed transactions, and Binance Smart Chain, to host decentralized finance applications and other digital assets.
+
+“I don’t understand why people in the digital asset space aren’t just actually issuing tokens that represent equity for real,” Henry Chong, the chief executive at Hong Kong-based digital-asset exchange Fusang, said. “The whole point of blockchain technology is supposed to simplify all of these layers and layers of intermediaries.”
+
+Binance has thrived, in part, because it’s operated in immature and always-changing cryptocurrency markets, where regulations aren’t nearly as coordinated across international jurisdictions as mature markets like stocks or even bonds and foreign exchange.
+
+Notably, Binance CEO Changpeng “CZ” Zhao has repeatedly refused to answer questions about where his firm is headquartered.
+
+“They always say they don’t operate in any jurisdiction,” Chong said.
+
+“They are working with a regulated German broker for these transactions and apparently made the decision that represented sufficient regulatory cover,” Richard Johnson, CEO of Texture Capital, a New York-based company that offers tokenized securities for private capital markets, said through a spokesperson.
+
+For traders, there’s also the existential question of whether Binance might end the new service abruptly – for any reason, really.
+
+A two-page “Binance Stock Tokens Trading Service Agreement” on Binance’s stock token website says that “Binance.com reserves the right to suspend or terminate Binance stock tokens trading service without notice. If necessary, Binance.com has the right to suspend and terminate Binance stock tokens trading service at any time.”
+
+Alternatives to Binance’s stock tokens
+
+Binance said in an email to CoinDesk that the company does not charge commission fees on the tokenized stocks while running a tight spread model. The goal for launching the product is to allow users to access the underlying shares in a more affordable way.
+
+While Binance’s new service may attract regulatory attention due to the exchange’s size, the effort isn’t the first of its kind. Popular crypto derivatives exchange FTX provides similar products, also through a partnership with Digital Assets AG and CM Equity.
+
+Terraform Labs’ Mirror Protocol allows users to mint crypto assets that mimic the value of shares in publicly traded companies.
+
+“Binance doesn’t allow withdrawals because then the underlying broker dealer wouldn’t be able to keep serving Binance – it would break the KYC (Know-Your-Customer) chain,” Do Kwon, founder and CEO of Terraform Labs, said. “So these stock tokens on Binance and FTX can never be transferred out, and therefore can never be composed into smart contracts.”
+
+Related Stories

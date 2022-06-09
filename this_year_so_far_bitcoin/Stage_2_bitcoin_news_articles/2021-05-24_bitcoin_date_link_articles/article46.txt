@@ -1,0 +1,17 @@
+Renewable energy pioneer Elon Musk recently made a 180-degree turn on Bitcoin, announcing that Tesla would no longer accept the cryptocurrency as a payment method after realizing that Bitcoin mining and transaction consume too much electricity generated from fossil fuel. “Cryptocurrency is a good idea on many levels…but this cannot come at great cost to the environment,” the billionaire tweeted on May 12.
+
+Bitcoin’s main rival, Ethereum, may have a solution to this problem soon, according to its creators. Ethereum inventor Vitalik Buterin suggests restructuring the underlying blockchain network that facilitates crypto transactions.
+
+The core issue of Bitcoin’s electricity problem is what’s known as the “proof of work” system, a consensus mechanism that both Bitcoin and Ethereum currently operate on to confirm transactions and add new blocks to the chain. Such a system requires a global network of computers to run simultaneously every time a crypto transaction takes place, incurring high energy costs. According to the Cambridge Bitcoin Electricity Consumption Index, which Musk cited in his Bitcoin argument, the current blockchain network supporting Bitcoin transactions uses more power per year than Pakistan, a country with a population of 217 million (as of 2019).
+
+The engineers behind Ethereum seek to solve this problem by switching to a “proof of stake” system, where only Ether holders—rather than any miners who are willing to pay energy costs for a potential crypto reward as in proof of work—are likely to be chosen to validate transactions.
+
+“Switching to proof-of-stake has become more urgent for us because of how crypto and Ethereum have grown over the last year,” Buterin said in an interview with Bloomberg on Sunday. “I’m definitely very happy that one of the biggest problems of blockchain will go away when proof of stake is complete. It’s amazing.”
+
+In proof of work, crypto miners are essentially in a constant race to confirm new transactions. They foot the bill of hardware and energy costs as an investment, and the winner is rewarded with a free cryptocurrency (which is why they are called miners). In proof of stake, miners “invest” Ether they already own, instead of paying high energy bills, to compete for the next batch of transactions, which will still be rewarded with free crypto.
+
+Because only those who own Ether can participate, “the only electricity cost will come from the servers that host Ethereum nodes, similar to any company that uses cloud-based computing,” Bloomberg explained.
+
+Buterin hopes the system update will complete by the end of 2021. That will be over a year earlier than what was expected in December.
+
+Ethereum’s current proof of work system uses 45,000 gigawatt hours per year, according to the Ethereum Foundation, which funds the development of the Ethereum protocol. With proof of stake, “you can verify a blockchain with a consumer laptop,” said Danny Ryan, a researcher at the foundation. “My estimate is that you’d see 1/10,000th of the energy than the current Ethereum network.”

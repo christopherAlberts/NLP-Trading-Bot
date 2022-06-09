@@ -1,0 +1,53 @@
+gopixa / iStock.com
+
+Blockchain has seen a staggering rise in popularity since Bitcoin, the first cryptocurrency, launched in 2010. Blockchain has a number of advantages, including decentralization and security. The demand for a decentralized currency has catapulted Bitcoin and other cryptocurrencies to worldwide popularity.
+
+Read: Bitcoin Cash (BCH): How’s It Differ From Bitcoin and What’s It Worth?
+
+But blockchain has its limitations. These systems are inherently closed off from the rest of the world, which is good for security and integrity but also limits the input data they can accept.
+
+Thus, there is a need for a sort of bridge that can help these systems see what is happening in the outside world. But in order for the system to work, the input cannot come from a single source. Why? Because it would then rely on a centralized source of data, which goes against the very nature of blockchain.
+
+See: India Proposes Ban on Bitcoin — and the US Could Be Next
+
+That is the very problem Chainlink can help solve, as we will find out.
+
+What Is Chainlink?
+
+Chainlink is a decentralized oracle network that is poised to play an important role in the real-world implementation of blockchain technologies. The purpose of this network is to provide input on a variety of external sources of data.
+
+Although blockchain is great at what it does — providing a decentralized, secure ledger for digital transactions — it isn’t so great at taking input for things happening outside the blockchain. There are many “off-chain” forces that influence markets, including fiat currencies, credit cards and even the weather and sports scores. As a decentralized oracle, Chainlink can provide input to what’s known as smart contracts.
+
+Find Out: Why Some Money Experts Believe In Bitcoin and Others Don’t
+
+These smart contracts help the system respond to a wide range of input (if X, do Y). As the first cryptocurrency, Bitcoin and its corresponding blockchain can only process a small range of this input. But newer blockchains, such as Ethereum, have a wider range. That includes support for programmable smart contracts.
+
+Story continues
+
+On that note, Chainlink was launched on the Ethereum blockchain in 2019, but it is meant to be agnostic. Thus, it can work with other blockchains, too.
+
+What Is LINK and What Is It Worth?
+
+LINK is Chainlink’s native token. The token is meant to help finance the growth of the project and is similar to Bitcoin (BTC) and Ethereum (ETH). Both of these cryptocurrencies work on their respective blockchains. Just like BTC and ETH act as an incentive for users to mine, LINK does the same.
+
+More: The Hype Around NFTs: What Are They? And How Pricey Do They Get?
+
+The LINK token launched in 2017 with a price under 20 cents and remained under $1 until 2019. In 2020, the price began to rise precipitously. In fact, the price increased from under $2 in early 2020 to a high of $36 on Feb. 20, 2021.
+
+Despite LINK’s meteoric rise, though, it has since dropped from its high of $36 and hasn’t yet reached that level again. In fact, the price dropped nearly $10 by March 1, 2021.
+
+Should You Invest In LINK?
+
+As you may have gathered from the above, the value of LINK remains volatile despite its huge gains since early 2020. Therefore, it may be best to invest in LINK only as a way to support the underlying technology. Otherwise, the high degree of volatility may be too much to bear for most investors.
+
+Read: How Does Cryptocurrency Work – and Is It Safe?
+
+Nevertheless, Chainlink looks to be an important technology as cryptocurrencies continue to evolve. Having an oracle such as Chainlink in place will be key to the long-term stability and viability of cryptocurrency in general. Thus, LINK may be a sound investment if you believe Chainlink will become the industry standard as the most widely-used, decentralized oracle network.
+
+This article is part of GOBankingRates’ ‘Economy Explained’ series to help readers navigate the complexities of our financial system.
+
+More From GOBankingRates
+
+Last updated: April 1, 2021
+
+This article originally appeared on GOBankingRates.com: What Is Chainlink and Why Is It Important in the World of Cryptocurrency?

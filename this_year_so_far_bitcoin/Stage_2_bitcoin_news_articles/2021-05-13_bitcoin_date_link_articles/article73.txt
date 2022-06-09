@@ -1,0 +1,57 @@
+What are the basics that everyone should know about how their bitcoin is taxed in the United States?
+
+Is the purchase of bitcoin taxable?
+
+Do you pay taxes on the sale of bitcoin?
+
+What transactions require me to report my Bitcoin?
+
+These are questions nearly every Bitcoiner has asked themselves at some point in their Bitcoin journey. The topic of taxes and bitcoin can seem daunting at first but, once you have a solid understanding of the tax implications you may have around your bitcoin, you can make better decisions to lessen the burden of the good ol’ government. I have been working under one of the top Bitcoin tax experts in the country over the past year and have learned everything there is to know about Bitcoin and taxes. I can attest, knowing the regulations and laws around taxes on your Bitcoin can help make a big difference in how you utilize it.
+
+Is There A Bitcoin Tax?
+
+There is not actually anything called a “bitcoin tax” per se. When people refer to taxes and bitcoin they are referring to the capital gains taxes one must pay on profits made from selling or trading bitcoin. This is because, under the current view of the IRS (seen in IRS notice 2014-21), bitcoin is considered property. Per notice 2014-21 the IRS states “for federal tax purposes, virtual currency is treated as property. General tax principles applicable to property transactions apply to transactions using virtual currency.” This really means the capital gains tax on Bitcoin is no different than the one referred to from profiting off a stock.
+
+Capital gains have different rates you pay based on your income level as well as the holding period for the bitcoin.
+
+Capital Gains Taxes: Short Term vs. Long Term
+
+Capital gains taxes are split up into two groups, short term and long term, depending on how long you’ve held the asset.
+
+Short-term capital gains tax is applied to profits from selling an asset you’ve held for less than a year. Short-term capital gains taxes are pegged to where your income places you in federal tax brackets, so you’ll pay them at the same rate you’d pay your ordinary income taxes.
+
+tax is applied to profits from selling an asset you’ve held for less than a year. Short-term capital gains taxes are pegged to where your income places you in federal tax brackets, so you’ll pay them at the same rate you’d pay your ordinary income taxes. Long-term capital gains tax is applied to assets held for more than a year. The long-term capital gains tax rates are 0%, 15% and 20%, depending on your income. These rates are typically much lower than the ordinary income tax rate, which is why HODLing is always going to be the most tax efficient strategy.
+
+The pictures below represent the current long- and short-term capital gains tax rates in the United States.
+
+Keep in mind, there are also varying state tax rates that get applied to capital gains. These can range anywhere from 3%–10%.
+
+Capital Losses
+
+If you sell bitcoin at a loss, meaning if the price you sold at is lower than your purchase price, you are entitled to a tax loss deduction, lowering your overall tax bill. You can deduct up to $3,000 per year from capital losses or use it to offset a portion of your capital gains. Any capital loss that exceeds $3,000 will roll forward to following years and can help offset future gains.
+
+For example, If you lost $6,000 in 2020, you would deduct $3,000 from your 2020 income, reducing your tax bill and be able to deduct another $3,000 in 2021, or if you had gains in 2021 you could reduce your gains by that $3,000.
+
+What transactions are taxable?
+
+Understanding what transactions are taxable is very important for planning ahead and making smart decisions about how to best utilize your bitcoin. Let’s break down what is and is not a taxable event.
+
+Taxable: Anytime you trade, spend or sell your bitcoin, you are triggering a taxable event which must be reported to the IRS. You are also required to report any bitcoin mining as taxable income.
+
+Non-Taxable: HODLing, purchases of bitcoin with fiat, sending bitcoin from one wallet or exchange to another, using bitcoin as collateral are all non-taxable events.
+
+What is the best tax method?
+
+I recommend using FIFO (first-in first-out) to most of if not all the clients I work with. This essentially means that the first coins you purchased will be the cost basis and holding period for the coins you decide to sell, spend or trade. FIFO is always favorable for Bitcoiners because it allows you to qualify for long-term capital gains rates easier.
+
+How are capital gains tracked for bitcoin?
+
+Tracking capital gains and losses can be quite tricky depending on how much activity you have had with your bitcoin. Moving and storing bitcoin on different wallets and exchanges can lead to quite the headache when trying to figure out the cost basis and holding period for the coins you decide to trade, spend or sell. Luckily, there is software out there like Cointracking.info (my personal favorite) that allows you to easily import your data and does the calculations for you. Once you have calculated your gains/losses either via a software or by doing it yourself, you then report the numbers on form 8949. These figures flow through to schedule D on form 1040.
+
+My suggestions:
+
+My biggest suggestion to any client is to keep track of everything in a notebook and try to use only a few fiat on-ramps and a few secure hardware or multisig wallets. This will make the whole process of calculating your gains/losses much easier. I also recommend not selling your bitcoin until it becomes the unit of account, however, I understand everyone has expenses and reasons to sell along the way. A good way to work around this is by putting your bitcoin up as collateral with a company like Unchained Capital. Just as long as you aren’t selling your bitcoin to buy an Aston Martin.
+
+Hopefully, this article has given you a better idea of how taxes might affect you, so you can make better decisions and minimize your payments to the greedy government. If you need help navigating your bitcoin taxes or just want to ask questions, feel free to shoot me a Twitter DM (located on author profile page) anytime.
+
+This is a guest post by Joe Howe. Opinions expressed are entirely their own and do not necessarily reflect those of BTC, Inc. or Bitcoin Magazine.

@@ -1,0 +1,43 @@
+After at least two unsuccessful attempts at regulation, the government seems to be bent on banning private cryptocurrencies. The intended ban is the essence of the Cryptocurrency and Regulation of Official Digital Currency Bill, 2021 that is to be tabled in the next Parliament session. The regulation of cryptocurrencies – ‘tokens’ that can serve as a medium of exchange like money – has limped diffidently more because of the fear of the unknown.
+
+RBI’s move
+
+The RBI, in 2013, tried to dissuade people from the use of cryptocurrencies, cautioning them about the lack of a regulatory authority, risks of malware attacks, volatility and susceptibility to illicit use. It repeated the warnings twice in 2017, before banning it outright in April 2018. The ban was legally challenged on many counts, such as RBI’s jurisdiction.
+
+This ban was finally struck down by the Supreme Court in a landmark judgment (Internet and Mobile Association of India Vs RBI) of March 2020, on the grounds that it killed the business opportunities of cryptocurrency exchanges, taking away their rights under the Article 19(1)(g) of the Constitution. The court also held that the RBI did not prove the harm of cryptocurrencies (proportional damage) and failed to explore the alternatives to banning, such as regulation.
+
+In the meantime, the government came out with two legislative bills, one in 2018 and the other in the following year, but neither came to anything. And now comes the new Bill of 2021, the essence of which is the prohibition of all private cryptocurrencies in India, with certain exceptions. Only the State-owned, ‘National Digital Currency’ would be valid.
+
+Scope
+
+Nasscom, the IT industry body, has spoken of the huge potential of cryptocurrencies and its potential contribution to India’s GDP. Against this backdrop, the key questions are: whether the government should ban this emerging technological bounty and what will happen to those who currently own cryptocurrencies. According to some estimates, there are about a crore of Indians with cryptocurrencies (such as Bitcoin and Ethereum) in their pockets, holding a value of about ₹10,000 crore.
+
+The legal fraternity has spoken out against it. Writing in mondaq.com, Devika Gadgil and Himanshi Tailor of ANB Legal, a Mumbai-based law firm, takes note of the government’s fears of misuse of cryptocurrencies for activities such as terror financing and money laundering, but wonders how a national digital currency would be immune to such risks. Going deeper, she says, “It can in fact lead to the formation of an underground market wherein genuine investors may be forced to operate in unmonitored environments.”
+
+Furthermore, can foreign investors invest in the State-owned Indian cryptocurrency? If they can, then we get into a situation where foreign investors may invest in the Indian cryptocurrency, while Indian cannot invest in the foreign ones.
+
+Expert’s take
+
+Seema Jhingan of LexCounsel, a Delhi-based law firm, is also against the ban. “Instead of a complete prohibition on cryptocurrencies,” she says, “The government could have instead regulated the trading of cryptocurrencies by bringing supporting regulations including a strict KYC norms, reporting and taxability.” Jhingan notes that it is perhaps too late for this change to be brought in.
+
+Other legal experts have spoken against the ban too. “A bank will deprive India, its entrepreneurs and citizens of a transformative technology—as foundational as the internet itself—that is being rapidly adopted across the world, including by some of the largest enterprises such as Tesla and MasterCard,” says Ikigai Law, also a Delhi-based firm. Ikigai, incidentally, represented the virtual currency exchanges at the Supreme Court, against the RBI’s April 2018 circular.
+
+Many caution that banning—as opposed to regulating—will only create a parallel economy, encouraging illegitimate use, defeating the very purpose of the ban. It is further argued that a ban is infeasible. After all, any person can purchase cryptocurrency over the internet.
+
+On the other hand, since cryptocurrencies are based on blockchain technology, there is a public record of every transaction.
+
+If a ban comes into force what will happen to the existing cryptocurrencies? If RBI may say, “Well, we have been cautioning you against it” and the value may evaporate, though that is not likely. Some experts believe that those holding cryptocurrencies would be given time to dispose them off, say, six months, but the question again is how would they dispose it off.
+
+Banning history
+
+In December 2020, the UK’s Financial Conduct Authority banned derivatives based on cryptocurrencies (though not the cryptos themselves), saying the products are “ill-suited for retail customers”. But FCA has given people unlimited time to sell off their holdings. This could be a good template for the RBI.
+
+Gadgil and Tailor examine the models adopted by other countries, noting that none has banned cryptocurrencies. Japan, Russia and Australia regulate cryptocurrencies. Japan did not ban cryptocurrencies even after Mt Gox, a Tokyo based crypto currency exchange, collapsed after a theft of 8,50,000 bitcoins—the country only tightened its regulations.
+
+Furthermore, banning the cryptos faces two inconsistencies. First, against the Supreme Court observation that RBI should first prove their harm and also come to the ban only after exhausting alternatives such as regulation.
+
+Second, banning cryptocurrency is inconsistent with the Draft National Strategy on Blockchain, 2021 of the Ministry of Electronics and IT (MEITY), which hailed blockchain technology as transparent, secure and efficient and one that put a layer of trust over the internet.
+
+Once, when the RBI was getting very concerned about the microfinance institutions and was considering banning them, Nachiket Mor, a former banker with ICICI Bank, who works a lot towards financial inclusion made a telling observation to this writer.
+
+“If you don’t like a microfinance institution, create four more,” he said, implying that the market will discipline the one that is wayward. Such a principle is apt for cryptocurrencies too. If there are concerns about them, the answer is to have several of them, not a government-owned monopoly.

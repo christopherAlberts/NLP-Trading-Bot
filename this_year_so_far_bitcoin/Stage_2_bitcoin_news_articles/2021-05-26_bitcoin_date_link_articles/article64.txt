@@ -1,0 +1,31 @@
+A total of 53,400 Bitcoin (BTC) options are set to expiry on Friday. At first sight, bulls appear to lead as the $2.1-billion open interest call (buy) to put (sell) options ratio stands at 1.32, favoring the neutral-to-bullish derivatives.
+
+However, after Bitcoin dropped 33% in May, the right to acquire BTC at $46,000 and above is essentially worthless since there is less than 38 hours left before expiry.
+
+Bitcoin price at Coinbase, USD. Source: TradingView
+
+On May 20, Cointelegraph reported that “May 28 will be no different with $1.95 billion open interest. While it seems premature to call it, bears will likely continue to pressure markets, considering there are almost no call options at $38,000 or lower for next week.”
+
+After a brief retrace above $42,000 on May 20, Bitcoin entered another correction after a government statement from China revealed plans to “crackdown on Bitcoin mining and trading behavior and resolutely prevent the transmission of individual risk.”
+
+On Sunday, the Huobi exchange reportedly suspended futures trading in mainland China, causing further havoc and pushing Bitcoin below $32,000.
+
+Bears gained an edge after last week’s options expiry
+
+As expected, bears continued to have the advantage from the previous week and have still been able to pin Bitcoin’s price below $42,000. For the neutral-to-bullish call options, there is not much gain in rolling over a losing position to the following week, so bulls will face an uphill battle going into Friday’s expiry.
+
+The previous week’s expiry gains created room for the bears to further place bets on Bitcoin’s price remaining below $45,000 or $50,000.
+
+Bitcoin May 28 options aggregate open interest. Source: Bybt
+
+Take notice of how there are only 2,550 BTC call options at $42,000 or lower, representing a mere 8% of the outstanding. This notional is equivalent to a $100-million open interest. As explained earlier, the call (buy) options at $46,000 and higher are already worthless.
+
+Meanwhile, bears hit another home run as most bets were placed at $36,000 and higher. The 17,600 BTC put (sell) options above such a level represent a $685-million open interest, giving the neutral-to-bearish derivatives a $585-million advantage.
+
+It is worth noting that BTC’s regular spot exchange volumes have been trading over $10 billion per day. However, the fact that the futures and options expiry happens simultaneously can accentuate volatility.
+
+Keep in mind that futures contract buyers and sellers are matched at all times. Thus, trying to predict which side will exert more pressure is a futile effort.
+
+Deribit, OKEx and Bit.com expiries take place on Friday at 8:00 am UTC. The CME futures and options happen a little later on the day at 3:00 pm UTC.
+
+The views and opinions expressed here are solely those of the author and do not necessarily reflect the views of Cointelegraph. Every investment and trading move involves risk. You should conduct your own research when making a decision.

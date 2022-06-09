@@ -1,0 +1,29 @@
+Bitcoin (BTC) tanked on Wednesday, hitting multi-month lows near $46,000 as renewed fears of an early rate hike by the Federal Reserve, the recent dour mood in financial markets and Tesla’s decision to suspend bitcoin payments were all blamed for the slide.
+
+But the downward move was likely aggravated by options market makers selling the cryptocurrency in the spot/futures market to hedge their books (offset bullish exposure), according to Fredrick Collins, a seasoned options trader and researcher at Glassnode.
+
+“Market makers were heavily short puts in the range of $52,000 to $50,000, and I estimate were forced to sell nearly 2,900 bitcoin during the crash to offset the short gamma exposure,” Collins told CoinDesk in a Twitter chat. “That likely exacerbated the bearish move.”
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+The episode shows how the growing trade in cryptocurrency options in recent months has become a force to reckon with for participants in the underlying spot market for bitcoin, with monthly expiries proving to be a catalyst for price volatility. According to data source Skew, the options market has exploded in the past 12 months, with the open interest rising from $50 million to over $10 billion.
+
+Options market makers are individuals or entities with a contractual obligation to maintain a healthy level of liquidity on an exchange. They make sure there is enough depth in the order book by offering to buy or sell a call/put option contract at any given point in time.
+
+For example, if a trader wants to buy a bitcoin call at the strike of $80,000 right now, and there is no matching sell order, the market maker will step in to sell the $80,000 call, facilitating the transaction. A call option gives the holder the right but not the obligation to buy the underlying asset at a predetermined price on or before a specific date, called expiry. A put option gives the right to sell.
+
+Thus, market makers always take the opposite side of investors’ trades and maintain a market-neutral portfolio by buying and selling the underlying asset as the price swings. This act of balancing books is known as “gamma hedging” in options parlance.
+
+Gamma refers to the speed of change in delta – sensitivity of the option’s price to changes in the price of the underlying asset. In other words, gamma measures the rate of change in the option’s price relative to changes in the spot market prices.
+
+Holding a long put position is considered a long (positive) gamma trade, as the option starts gaining value at a faster rate with the drop in the price of the underlying asset, thereby making money for the buyer and producing a loss for the seller (holder of short gamma position).
+
+According to Collins, market makers were short gamma (sellers of puts) at $52,000-$50,000 on Wednesday. As bitcoin started falling, the negative gamma exposure became a pain: Puts sold at the aforementioned strikes began gaining value, signaling losses for the market makers. Thus, market makers responded by selling bitcoin in the spot/futures market.
+
+Market makers estimated inventory Source: Fredrick Collins
+
+Data provided by Collins shows estimated dealer inventory fell by 2,900 BTC during bitcoin’s price slide. The inventory estimate represents the number of bitcoin shorted in the spot and futures market. (One BTC futures contract represents one coin on major exchanges. The Chicago Mercantile Exchange’s contract size is 5.)
+
+Greg Magadini, CEO and co-founder of options analytics platform Genesis Volatility, agreed with Collins’ theory, stating in a Telegram chat that many traders were holding long put positions or bearish bets at $50,000 and $48,000.
+
+The theory can be debated on the grounds that the sale of 2,900 BTC worth $145 million at the current price around $50,000 is too small a trade to have a sizable bearish impact on the cryptocurrency with a market capitalization of $1 trillion.

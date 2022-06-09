@@ -1,0 +1,35 @@
+Bitcoin’s implied volatility – traders’ expectation for price turbulence as reflected in the cryptocurrency options market – has spiked well above record levels in the wake of the latest crash.
+
+The cryptocurrency’s implied month-ahead price volatility doubled from early-May levels to an annualized 150% last week, according to data source Skew. As of press time, the gauge had faded somewhat to an annualized 123%, still well above the historical average of about 75% and also above the 113% volatility actually witnessed in the market over the past month.
+
+Some traders are now taking advantage of the situation by selling options, mainly puts. These put writers, essentially sellers of bearish price insurance, might be betting that the worst of the latest correction has passed. The implication is that the implied volatility will cool in the coming days, making options cheaper. If they’re right, the options sellers could prove to have superb timing.
+
+Asian family offices and ultra-high-net-worth individuals “are starting to fade this move using options (selling puts) given the favorable skew/high implied volatility, as a way to scale in,” Amber Group, a crypto services provider, said in a tweet thread early Monday.
+
+Bitcoin: one-month implied volatility Source: Skew
+
+Implied volatility has a positive impact on options price and typically tends to revert toward its longer-term average. Hence, seasoned traders tend to sell options when they think the spread between the implied volatility and historical averages looks high. The same traders often look to buy options when volatility is relatively low.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Put options are currently drawing higher prices than call options, which is seen as a type of bullish bet for options buyers. The dynamic is evident from the positive one-week, one- and three-month put-call “skews,” which measure the cost of puts relative to call options. The six-month skew in the bitcoin options market is currently hovering around zero, signifying a long-term neutral bias in the options market.
+
+Data from exchanges shows there is a clear preference for selling puts at the current elevated level of implied volatility. Short put trades account for 29% of total flows seen today, while call sells (selling insurance against price rally) account for 24%.
+
+However, the elevated volatility level isn’t stopping investors from buying calls, a sign of bullishness building in the market. Long puts account for only 14% (half of the short put trades), and call buys 28%.
+
+Bitcoin options flow (blocked trades represent flows on OTC desks) Source: Skew
+
+Bitcoin options writing is a risky business
+
+Selling or writing options is akin to selling a lottery ticket or an insurance policy, where losses can be significant while profit is limited to the extent of the premium received. Premium is the compensation paid by the option (insurance) buyer to the insurance seller.
+
+And, of course, cryptocurrencies like bitcoin can be highly volatile and unpredictable; it’s entirely possible bitcoin prices have further to fall. So while selling put options looks attractive based on the pricing, it’s a risky business, and probably best reserved for investors and traders who can afford to take the loss.
+
+Bitcoin options volume Source: Laevitas
+
+In the past 24 hours, exchanges have seen significant selling in put options at the $32,000, $30,000, and $28,000 strike prices, based on data provided by Swiss-based crypto derivatives tracking platform Laevitas. That suggests more traders think they’re getting compensated smartly to offer protection at those levels.
+
+Also read: CME Returns to Second Place in Latest Rankings of Bitcoin Futures Exchanges
+
+If bitcoin continues to recover the lost ground, these put options will lose value, giving traders paper profits.

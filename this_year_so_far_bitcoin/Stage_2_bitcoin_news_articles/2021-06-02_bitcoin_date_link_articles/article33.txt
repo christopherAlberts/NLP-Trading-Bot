@@ -1,0 +1,31 @@
+Bitcoin (BTC) is less active than at any time this year, new data shows, as traders stubbornly refuse to sell.
+
+One metric from on-chain monitoring resource Glassnode reveals that the Bitcoin supply is becoming less and less available despite lower prices.
+
+“Spooked” hodlers cling to BTC
+
+On Wednesday, Bitcoin’s active supply hit a five-month low of 44.5%.
+
+Bitcoin two-year active supply vs. BTC/USD chart. Source: Glassnode/Twitter
+
+The number measures coins that have moved in the past two years or earlier — and the last time it measured that low, BTC/USD traded at around $22,000.
+
+The figure shows just how unattractive the idea of selling Bitcoin at current prices is to investors who purchased up until the 2019 bull run. As Cointelegraph reported, 2017 buyers already represent a strong cohort of “hodlers of last resort.”
+
+This goes some way to shoring up morale over future price action as various indicators including sentiment measure the Crypto Fear & Greed Index show a $36,000 Bitcoin appears undervalued.
+
+Nonetheless, the May sell-off ushered in a surge of newly liquid coins, something that managed to buck a two-year accumulation trend.
+
+“The magnitude of accumulation over the past two years is remarkable, however, the scale of the sell-pressure in May is also notable,” Glassnode wrote in a digest last week.
+
+“Investors were clearly spooked during this recent sell-off.”
+
+Exchange balances creep higher
+
+Just as reluctant to sell, meanwhile, are miners. Relative to historical average, the outflows from miner addresses is now at a seven-month low.
+
+May’s action likewise triggered an uptick in sales, but this has since reversed — and is now at its lowest since November 2020, when Bitcoin traded around its all-time highs from 2017.
+
+Bitcoin miner outflow multiple chart. Source: Glassnode/Twitter
+
+Only retail traders are waiting in the wings for a potential switch-up as the balance of BTC on exchanges continues to climb after its mid-April bottom. This also coincides with the comedown from current all-time highs of nearly $65,000.

@@ -1,0 +1,43 @@
+TheStreet talks with Bobby Ong of CoinGecko about what happened to bitcoin over the past week.
+
+Bitcoin fell dramatically in late April, sinking from its mid-month high of around $64,000 to Sunday morning when it was hovering around $50,000. Here, we talk with Bobby Ong, CoinGecko's chief operating officer, about the move down. CoinGecko is one of the largest independent cryptocurrency data aggregators.
+
+The following interview was conducted over email over last week as bitcoin had already begun its decline.
+
+TheStreet: Despite bitcoin's known volatility, it seems some people were caught off guard by the decline in bitcoin over the past week. Was that just par for the course -- normal volatility -- of something else?
+
+Ong: The recent bloodbath on April 18 saw a record of approximately $9.77 billion worth of futures contracts liquidated in just 24 hours. There was already a massive amount of leverage in the market in anticipation of the Coinbase (COIN ) direct listing. The excitement of having the first crypto company IPO also led bitcoin’s price to hit a new all-time high of $64,804.
+
+However, the direct listing of Coinbase also had a lukewarm reception from stock investors. More recently, there was a lot of fear and uncertainty spreading on social media due to various factors, including (rumors of) the U.S. Treasury taking legal action against certain financial institutions for money laundering, which turned out to be false information. Other than that, CNBC was recirculating news about the crypto ban in India, Turkey banning crypto payments, President Biden proposing a higher capital gains tax, and China bitcoin miners losing power.
+
+The selloff happened during the weekend when there were thinner order books. With high leverage and thin order books, even a small decrease in price will trigger a sharp drawdown and cause a downward spiral in price.
+
+Naturally, the market also needs to correct itself, because there were many over-leveraged traders. It is also important to note that bitcoin options expire towards the end of every month, which usually causes increased volatility in the last week of each month.
+
+TheStreet: Do you see the decline as a chance for people to get into it at a cheaper price?
+
+Ong: It depends on that person and their goals. The profiles of buyers today are very different from before, when it was mostly libertarians. Today, it’s U.S. institutions, and soon it will be governments.
+
+If the time horizon is more than five years, then there is no need to look at price movements each day. Have a long-term horizon, choose an exposure of your net worth that you are comfortable with, and hold for the long term. We are still in the early innings of bitcoin adoption, and we foresee tremendous growth potential in the years to come.
+
+TheStreet: What did you make of Coinbase's listing and subsequent moves?
+
+Ong: Coinbase had a pretty decent performance with regards to direct listing performance in comparison to other companies. It was just the unusually high expectation from the crypto space with regards to its price.
+
+There were also ongoing debates on how Coinbase should be valued, because it operates in a cyclical market and might face increased competition in the future.
+
+TheStreet: It seems we have two parallel views of bitcoin and other crypto that's not tethered to another currency: One, you have people who want to use it as a currency and for privacy. And, two, you have people who are solely looking at it as an investment. How does the latter affect the former? Can it rise to a point where it's only really useful for investment?
+
+Ong: You are raising a good point here, because bitcoin was originally envisioned to be a peer-to-peer currency for everyone. However, since its inception, there have been various debates in regards to bitcoin’s role.
+
+I would say its purpose has now evolved to become a store of value and is becoming a viable alternative to replace gold. In fact, this appears to align with China’s stance, as it recently recognized that crypto assets are also an alternative form of investment. This is significant, because the Chinese government has always shunned crypto assets.
+
+Meanwhile, stablecoins such as USDT and USDC are seeing increased adoption as a form of payment currency.
+
+TheStreet: Is there anything you want to add?
+
+Ong: Bitcoin’s correction is becoming more pronounced even though it is essential for sustained market growth. We are now experiencing 20%-30% drawdowns on an almost monthly basis. Although the overall macro trend remains bullish, we see an increase in the number of liquidations by traders who over-leverage themselves.
+
+It is important to understand that while leverage opportunities like margin trading or futures offer the potential for more gains, the associated risk is also very high. Be sure that you have time, resources, and lots of knowledge before dabbling in leverages.
+
+I highly recommend that people set reasonable timeframes and financial goals that work for themselves and ensure that they do plenty of research.

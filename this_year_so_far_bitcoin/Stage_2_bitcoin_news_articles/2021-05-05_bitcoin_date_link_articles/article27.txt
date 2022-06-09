@@ -1,0 +1,43 @@
+Researchers at Carnegie Mellon University are warning that sharp price swings and liquidations could disproportionately impact smaller traders as the market for crypto derivatives booms.
+
+A recent study by the Pittsburgh-based Carnegie Mellon University’s CyLab found trading volume in cryptocurrency derivatives exceeds that of the underlying spot markets.
+
+“Sophisticated actors are taking from amateur investors,” Kyle Soska, a researcher at the lab who co-authored the report, said in an interview. “Wealth centralization is taking place and there are a few big players.”
+
+Liquidation events occur when traders cannot fulfill margin requirements for holding crypto derivative positions and often exacerbate price moves. In April, bitcoin futures had a record $10 billion worth of liquidations in one day after data showed leveraged traders were excessively skewed bullish. The liquidation coincided with a near 15% drop in BTC from an all-time high of around $65,000.
+
+“When markets are trending up everybody makes money, but during a wipeout a few big actors take everything and the little guys are taken out,” Soska said.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Traders who take on smaller contract sizes are typically more long-biased, or betting on bullish price movements, according to the study. The short side of the trade typically consists of hedgers who own spot market bitcoin or cryptocurrency miners who want to manage revenue volatility by locking in prices for a specific delivery date in the future.
+
+That means traders who have short positions in the derivatives market are more likely to be price-neutral in terms of their overall positions, making the BTC futures market more of a speculative net-long play, according to Soska.
+
+“This is why there is a distinct asymmetry with long positions that are more leveraged with small position sizes,” Soska said.
+
+The researchers analyzed trading activity on BitMEX, a derivatives exchange launched in 2014 that trades over $3 billion worth of volume per day on average. The exchange allows users to go long or short bitcoin with leverage of up to 100 times, often shorthanded as “100x,” according to the report.
+
+“We focused on BitMEX because [it was] the only player back in 2014 and remained relevant for a long period of time,” said Soska.
+
+In October, the U.S. Commodity Futures Trading Commission (CFTC) charged BitMEX with executing futures transactions on an unregistered board, as well as other counts, “in an attempt to evade U.S. regulations,” according to the CFTC legal filing.
+
+The number of customer deposit addresses that received funds on-chain in a rolling 432-block (approximately 3-day) window. A significant drop is seen in 2020 as BitMEX sparred with U.S. regulators. Source: CyLab
+
+When contacted by CoinDesk for comment, a spokesperson for 100x Group, the holding structure for BitMEX, pointed to a statement the exchange had provided to the researchers in advance of publication, in which exchange executives took issue with some parts of the draft.
+
+“The paper contains various inaccurate and/or misleading statements that do not properly reflect the platform’s structure and operations,” according to that November statement, which was included in the final report.
+
+In an email, the spokesperson wrote that while “higher leverage is available, we’ve historically seen the majority of traders opt to use lower leverage, with the notional weighted average leverage being under 10x.”
+
+Stats about the size of BitMEX and crypto derivatives trading Source: CyLab
+
+The CyLab report suggests that crypto derivatives, through excessive leverage and cascading liquidations, are supportive of rapid price jumps that have been commonplace in bitcoin.
+
+“This raises concerns about the impact that derivatives have on BitMEX’s customers and on the cryptocurrency ecosystem as a whole,” the researchers wrote.
+
+Crichton said the researchers were led to the topic, in part, because of the growing stature of cryptocurrency markets in global finance.
+
+In 2019, Carnegie Mellon University announced a partnership with Ripple, a global payment network using blockchain technology, to fund academic research on cryptocurrencies. CyLab also published a companion website with real-time analytics of BitMEX data and said it encourages collaboration across the crypto research community.
+
+“Crypto has gained a lot more attraction in the academic world in terms of being a more legitimized thing,” Soska said.

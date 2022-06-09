@@ -1,0 +1,29 @@
+Share Pin 0 Shares
+
+FLASH FRIDAY is a weekly content series looking at the past, present and future of capital markets trading and technology. FLASH FRIDAY is sponsored by Instinet, a Nomura company.
+
+Whither crypto?
+
+And that doesn’t mean just the price of bitcoin.
+
+In capital markets, the future of cryptocurrency is an open question. Will bitcoin, ethereum and possibly others join stocks, options, fixed income, and FX as established markets that require their own trading infrastructure? Or will crypto never really get mainstream traction, and remain a niche corner of finance, populated by a limited (if very passionate) universe of market participants?
+
+The still-developing state of crypto was highlighted by the extreme recent volatility of bitcoin. The value of the digital currency dropped from almost $60,000 earlier this month to less than $33,000 two weeks later, including one intraday 20% dip that occurred for no clear reason. CNBC attributed that May 19 swoon to “at least a temporary reversal in broader acceptance for cryptocurrency.” Bearishness was fed the prior week when Tesla CEO Elon Musk threw shade on bitcoin for the environmental impact of bitcoin mining.
+
+On the other hand, there’s a camp that sees the stomach-churning crypto volatility as just a hiccup to be expected in a maturing but limitless market. Bitcoin may be down — another 8% as of the morning of May 28 to about $36,500 — but it will resume its inevitable climb to $100K, $300K and perhaps even $1M soon enough, these folks believe.
+
+Regardless of the future price of bitcoin, where do capital markets professionals stand on crypto, in terms of getting involved to provide brokerage and technology solutions? That’s a mixed bag.
+
+There are entrepreneurs who are going all-in on the future of digital securities. Kapil Rathi, co-founder and chief executive of CrossTower, said his firm is building out traditional Wall Street infrastructure to allow institutions to trade cryptocurrencies, which he expects to become regulated.
+
+Rathi told Markets Media: “Five years down the line when crypto assets are regulated we will be ready, which is a differentiator.”
+
+Rathi is no starry-eyed kid: he has experience of building exchanges in a regulated environment, having previously held senior leadership roles at NYSE, Bats, ISE and Cboe. Rathi managed four equity options exchanges at Cboe, launched a new options exchange at Bats, and built multiple innovative trading products at ISE.
+
+“I saw trading move from floors to become electronic,” he said. “I co-founded CrossTower because I didn’t want to miss the boat 10 years from now.”
+
+But many folks aren’t so sure that crypto will be a thriving mainstream market in five or ten years. JP Morgan CEO Jamie Dimon recently said “I’m not a bitcoin supporter,” while Berkshire Hathaway’s Charlie Munger said bitcoin was “disgusting and contrary to the interests of civilization.” One may classify those views as get-off-my-lawn skepticism of stodgy old guys, but betting against Dimon and Munger in the past has been a losing proposition.
+
+Some infrastructure firms such as Cboe Global Markets, Intercontinental Exchange, and Goldman Sachs have dipped their toes in the crypto waters, but most traditional brokerage and technology firms are taking a wait-and-see approach. Just this week HSBC said it has no plans to launch a cryptocurrency trading desk.
+
+Can crypto be properly regulated, in a way that doesn’t dry up liquidity in a market whose raison d’être is freedom from government intrusion? That’s the million-bitcoin question. Market operators and infrastructure providers eagerly await the answer.

@@ -1,0 +1,17 @@
+Compute North’s new 300-megawatt Texas data center will host Marathon Digital Holding’s recently purchased bitcoin miners, adding approximately 10.37 EH/s to the facility’s hash power. Marathon claims that its operations there will be 70% carbon neutral.
+
+The two companies have signed a binding letter of intent that spelled out the conditions of the deal.
+
+According to a statement, Compute North will receive an 18-month bridge loan from Marathon to help finance the construction of its Texas facility. The terms the initial three-year contract will be implemented in stages from October 2021 and March 2022.
+
+Marathon’s executive chairman, Merrick Okamoto, cited Texas’ favorable regulatory climate and low energy prices as well as environmental considerations as key factors in the decision.
+
+“The new agreement with Compute North allows us to operate our mining fleet in regulatory environments that have proven to be friendly to bitcoin miners and at rates that we believe are among the lowest in the country,” he said.
+
+Shifting bitcoin mining from China to North America
+
+This deal is the latest development in a trend toward expanding bitcoin mining investment in North America from industrial-scale miners including Marathon, Riot, Blockcap and others, which have been purchasing machines by the tens of thousands.
+
+It also comes at a time when Chinese miners are scaling back operations in the wake of recent bitcoin mining crackdowns over regulatory and environmental concerns.
+
+Earlier this month, Marathon announced its bitcoin mining pool had mined a block that was “fully compliant with U.S. regulations” by rejecting transactions from addresses listed on the U.S. Department of Treasury’s Specially Designated Nationals and Blocked Persons List (SDN).

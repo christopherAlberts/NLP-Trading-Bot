@@ -1,0 +1,49 @@
+Interested in ETFs? Visit our ETF Hub for investor news and education, market updates and analysis and easy-to-use tools to help you select the right ETFs.
+
+The Securities and Exchange Commission’s recent notice cautioning investors about the risks of bitcoin futures used in mutual funds could spell trouble for crypto ETFs awaiting the regulator’s green light, analysts say.
+
+For now, the commission’s Division of Investment Management is only comfortable with having mutual funds hold bitcoin futures, according to a warning issued last week.
+
+The division urged investors to make sure that they fully understand bitcoin and its futures market before they invest in funds that have exposure to the “highly speculative investment”.
+
+The SEC plans to “closely monitor” whether mutual funds that invest in bitcoin futures comply with the Investment Company Act and other federal securities law, the notice states.
+
+This article was previously published by Ignites, a title owned by the FT Group.
+
+The regulator appears to be particularly concerned about ETFs’ lack of capacity restrictions. “Consider whether, in light of the experience of mutual funds investing in the bitcoin futures market, the bitcoin futures market could accommodate ETFs, which, unlike mutual funds, cannot prevent additional investor assets from coming into the ETF if the ETF becomes too large or dominant in the market, or if the liquidity in the market starts to wane,” the statement said.
+
+The SEC’s warning underlined the regulator’s continued concerns about crypto, said Todd Rosenbluth, head of ETF and mutual fund research at CFRA Research, adding that this might not bode well for bitcoin ETFs.
+
+“I view the additional concerns about how an ETF cannot close to new investors and that it could become big over a short period of time to make it unlikely that the SEC approves a dedicated bitcoin ETF in 2021,” Rosenbluth said.
+
+At least eight ETF sponsors have asked the SEC for permission to launch cryptocurrency ETFs. None of them plan to invest in bitcoin futures.
+
+However, it is likely that market makers and authorised participants might seek such futures to hedge their exposure, especially when they see an opportunity for price arbitrage, said Nate Geraci, president at The ETF Store, a registered investment adviser that managed $162m in client assets as of March 25. The SEC’s letter may be a notice of caution for them too, he added.
+
+Another concern outlined in the SEC’s letter is that the volatility of bitcoin itself, which is susceptible to market manipulation and fraud, could impact its futures market. In 2018, the SEC’s investment management division had raised concerns about how price manipulation could impact cryptocurrency-related markets, the statement noted.
+
+Such concerns have not yet been addressed, Geraci said.
+
+However, he added that issuers were probably asking the SEC why it was taking so long to approve a bitcoin ETF while another agency, the Commodity Futures Trading Commission, already oversees bitcoin futures.
+
+The notice echoes the sentiments of SEC chair Gary Gensler, who said earlier this month during a House committee hearing that the cryptocurrency sector “could benefit from greater investor protection”. He noted that there was no market regulator that oversees cryptocurrency exchanges and no regulatory framework to govern cryptocurrencies.
+
+The SEC’s letter also indicates that the SEC wants time and space before it will approve an ETF invested in bitcoin, Geraci said.
+
+However, a bitcoin ETF that intends to invest in the physical coins would not have the same liquidity concerns that plague the bitcoin futures market, said John Sarson, chief executive at Sarson Funds, a provider of blockchain technology and crypto educational services and investment vehicles.
+
+More than $67bn worth of bitcoin was traded in just one day last week, according to CoinMarketCap, a website that tracks prices of crypto assets.
+
+The SEC’s notice serves as a warning to mutual fund managers that they should not treat bitcoin futures as standard illiquid investments, Sarson said.
+
+Several mutual fund managers have divulged plans in recent months to invest in bitcoin futures contracts through some of their funds.
+
+BlackRock, for example, in January added bitcoin futures as eligible investments for its $40bn Strategic Income Opportunities and $27bn Global Allocation funds. And in April, Morgan Stanley updated disclosures for at least 17 mutual funds and variable insurance funds to allow for exposure to bitcoin through cash-settled futures or investments in Grayscale Bitcoin Trust, a closed-end trust that invests in bitcoin.
+
+The SEC plans to scrutinise the liquidity of such funds, as well as whether the bitcoin futures market is “appropriately supporting mutual fund investment in Bitcoin futures”, the notice said. In addition, the regulator wants to make sure that the mutual funds can liquidate bitcoin futures positions when necessary to meet redemptions.
+
+If an ETF does look to invest in bitcoin futures, it could have similar liquidity issues, Sarson explained.
+
+In addition, the ETF structure does not have a mechanism to help reduce purchases of a futures contract if the value of that contract increases, he said. And this could lead to the ETF investing in bitcoin futures having too much exposure to these investments.
+
+*Ignites is a news service published by FT Specialist for professionals working in the asset management industry. It covers everything from new product launches to regulations and industry trends. Trials and subscriptions are available at ignites.com.

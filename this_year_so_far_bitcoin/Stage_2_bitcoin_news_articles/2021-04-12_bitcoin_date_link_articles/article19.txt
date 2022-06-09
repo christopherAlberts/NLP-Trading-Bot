@@ -1,0 +1,33 @@
+Venezuelan Guards Seize 76 Bitcoin Mining Rigs Due to 'Inconsistencies' in Transport Documents
+
+The Bolivarian National Guard of Venezuela (GNB) is known for having a tough stance against crypto mining rig counterfeits, as several operations have been assigned to combat the issues over the last few months. This time, the Venezuelan authorities seized 76 mining rigs after allegedly detecting inconsistencies in the transport documentation.
+
+Rigs Are Presumably ASIC Miners
+
+According to a press note published by the GNB, the procedure took place in a checkpoint on the Bolivar state, specifically in the Puente Angostura.
+
+An individual transported the bitcoin (BTC) mining equipment on a Ford vehicle Triton, and he was stopped by the military units in a routine check procedure, stated the authorities.
+
+However, the Bolivarian National Guard detected some “inconsistences in the documentation” required to transport the crypto mining rigs legally.
+
+Members of the military then proceeded to seize the 76 pieces of bitcoin mining equipment, as they suspected the documentation didn’t comply with the requirements for circulation, ownership, and operation of the bitcoin mining rigs.
+
+Although the GNB didn’t specify which type of mining hardware models were seized, it’s presumed that all are ASIC miners within racks because of the photo published in the press note.
+
+Moreover, the picture seems to show a bigger rig than the one reported in the GNB’s announcement, as each rack counted has availability to host up to six miners.
+
+Crypto Mining Is Legal in Venezuela
+
+Venezuela legalized bitcoin mining last year following the decree issued by the National Superintendency of Crypto Assets and Related Activities (Sunacrip).
+
+As part of the new regulations, all entities and individuals interested in legally mining bitcoin and other cryptocurrencies must now apply for a license from the agency.
+
+The decree resulted in creating a National Digital Mining Pool (NDMP), a body that “seeks to bring together all the miners operating on the Venezuelan territory.”
+
+However, restrictions still apply for some crypto mining activities. The Venezuelan government banned mining operations in any low-income neighborhood with subsidized housing.
+
+What do you think about Venezuela’s GNB operation against the miner’s shipment? Let us know in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

@@ -1,0 +1,21 @@
+All the crypto exchanges say their security is top notch, but don't just take their word for it. Read on to learn what extra security measures to look for.
+
+When you buy cryptocurrency, it's important to do it safely. That's because this is still a new and relatively unregulated industry. While almost all bank or brokerage accounts have insurance and other protections in place to keep your money safe, the same can't be said for digital currency exchanges.
+
+Some high-profile exchange hacks have shown how easy it is to lose your money. One example is Mt. Gox. Back in 2014, around 850,000 Bitcoins were stolen, worth about $450 million back then. Less than a third of them have since been recovered.
+
+This is one of the main reasons why security is often a big concern when buying digital currencies. If you plan on investing in cryptocurrency, it's a good idea to make sure you're using an exchange that goes out of its way to protect your investments.
+
+Start your journey to financial success with a bang Get free access to the select products we use to help us conquer our money goals. These fully-vetted picks could be the solution to help increase your credit score, to invest more profitably, to build an emergency fund, and much more. By submitting your email address, you consent to us sending you money tips along with products and services that we think might interest you. You can unsubscribe at any time. Please read our Privacy Statement and Terms & Conditions.
+
+What makes an exchange extra secure?
+
+Most of the big cryptocurrency exchanges have good security programs. User-level protection such as two-factor authentication (2FA) is pretty standard. When you activate 2FA, you'll need to provide additional information whenever you log on, such as a code you receive by SMS.
+
+But users should look for an exchange that will go the extra mile to keep their Bitcoin and other currencies safe. Here are three additional security measures to look for:
+
+The Ascent's picks for the best online stock brokers Find the best stock broker for you among these top picks. Whether you're looking for a special sign-up offer, outstanding customer support, $0 commissions, intuitive mobile apps, or more, you'll find a stock broker to fit your trading needs. See the picks
+
+Insurance: When you put money in a bank account, it's usually FDIC insured, protecting it against theft or bank failure. Crypto exchanges don't have FDIC insurance. But the exchanges that take security seriously do provide additional insurance for your crypto. That way, if it gets stolen from the exchange, you may be compensated. Cold storage: Exchanges need to keep some currency in what's called "hot storage," which means it's online and accessible. Security-wise, you want an exchange that keeps the majority of assets in cold storage. That means it's offline, often air-gapped, and hard to physically access. Bug bounty program: The idea of bug bounties is to encourage independent security experts -- also called ethical hackers -- to find system vulnerabilities. Exchanges offer rewards so people will report security weaknesses rather than exploit them to steal your crypto.
+
+Here are four top cryptocurrency exchanges that go the extra mile:

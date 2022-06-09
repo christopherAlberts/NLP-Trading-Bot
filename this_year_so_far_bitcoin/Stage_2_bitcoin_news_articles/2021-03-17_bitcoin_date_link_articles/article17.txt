@@ -1,0 +1,55 @@
+'A single bitcoin purchase at a price of ~$50,000 has a carbon footprint of 270 tons, the equivalent of 60 petrol/diesel cars.' Photo: Artur Widak/NurPhoto via Getty
+
+Tesla's (TSLA) $1.5bn (£1bn) investment in bitcoin (BTC-USD) has a carbon footprint equivalent to the annual emissions of 1.8m cars, according to estimates from Bank of America.
+
+Analysts on the investment bank's global commodity research team on Wednesday published a major report on bitcoin, concluding that the cryptocurrency has a large and growing impact on the environment.
+
+"We believe ESG-minded [environmental, social, and governance] investors have to pay attention to the enormous environmental costs of Bitcoin," Bank of America concluded.
+
+The investment bank calculated that a $1bn investment in bitcoin would produce the same carbon emissions as the annual output of 1.2m cars due to energy usage associated with bitcoin.
+
+Tesla announced a $1.5bn investment in bitcoin last month. Based on Bank of America's figures, the carbon footprint would be equivalent to 1.8m cars.
+
+Critics have already highlighted the environmental impact of Tesla's bitcoin investment, which many argue undermines the electric car maker's green credentials.
+
+Tesla said at the time of its bitcoin investment that it was part of efforts to "further diversify and maximize returns on our cash". The company added that it hoped to accept bitcoin payments in future.
+
+Bank of America poured cold water on this rationale, saying there was "no good reason to own BTC unless you see prices going up."
+
+"Bitcoin has also become correlated to risk assets, it is not tied to inflation, and remains exceptionally volatile, making it impractical as a store of wealth or payments mechanism," Bank of America said in its report. "As such, the main portfolio argument for holding Bitcoin is not diversification, stable returns, or inflation protection, but rather sheer price appreciation, a factor that depends on Bitcoin demand outpacing supply."
+
+Bank of America's research found that:
+
+The bitcoin network's energy usage is already comparable to countries like Greece, the Netherlands, and the Czech Republic;
+
+Energy consumption is comparable to American Airlines or the US Federal Government;
+
+Bitcoin's estimated energy consumption has grown more than 200% in the past two years;
+
+Bitcoin accounts for about 0.4% of global energy consumption at a $50,000 price point;
+
+75% of the network's computer power is based in China, where more than half of all electricity comes from high polluting coal-fired power plants;
+
+Half of all Chinese bitcoin mining is based in the province of Xinjiang, where 80% of power comes from coal;
+
+"A single bitcoin purchase at a price of ~$50,000 has a carbon footprint of 270 tons, the equivalent of 60 ICE [petrol/diesel] cars."
+
+WATCH: What is bitcoin?
+
+Story continues
+
+Bitcoin is powered by a decentralised network of computer "miners", which process transactions in return for rewards. Tasks get harder as the network grows and rewards — in bitcoin terms — get smaller, meaning more computer power is needed. That, in turn, leads to greater CO2 emissions due to higher electricity usage.
+
+Bank of America's experts said there was a "relatively linear relationship between bitcoin prices and bitcoin energy use." Higher prices lead to more emissions, as the promise of bigger rewards — in dollar terms — lures more miners.
+
+"The rising complexity of the system creates ultimately a vicious environmental cycle of rising prices, rising hashpower, rising energy consumption and, ultimately, rising CO2 emissions," analysts wrote.
+
+Furthermore, analysts concluded that it takes a relatively small amount of money to move prices higher. The paper concluded that inflows of just $93m would push bitcoin's price up by 1% — 20 times less than the level it would take to move gold up 1%.
+
+"We do not find many other human activities that have a higher carbon footprint per dollar of inflow," analysts said. "As a reference point, we calculate that a $1bn dollar inflow into bitcoin is equal to 1.2 million cars driven over the course of a year or 12.7 million barrels of oil.
+
+"With limited amounts of capital pushing prices higher... rising bitcoin prices can quickly lead to astronomical CO2 emissions."
+
+Renewed focus on bitcoin's carbon footprints comes amid a surge in the cryptocurrency's price. Bitcoin has risen over 400% since last October, recently reaching a new all-time high of more than $61,000. The rally has coincided with a flurry of interest from institutional investors and major corporations.
+
+WATCH: What are the risks of investing in cryptocurrency?

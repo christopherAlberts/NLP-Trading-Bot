@@ -1,0 +1,27 @@
+Government officials and private sector stakeholders are proposing bitcoin regulation that hampers the ability of cybercriminals to receive cryptocurrency payment for ransomware attacks.
+
+A panel of experts that include representatives from the FBI, US Secret Services and tech and security companies will today recommend measures to make cryptocurrency less anonymous, according to a Reuters report.
+
+The proposals include: Extending ‘know-your-customer’ regulations to cryptocurrency exchanges; more tracking of bitcoin transactions; tougher licensing requirements for organisations processing cryptocurrency and the creation of a Justice Department team that can seize ill-gotten cryptocurrencies.
+
+Bitcoin is popular among ransomware gangs due to its anonymity, which makes it difficult for law enforcement to prosecute. Recovery of funds is often impossible.
+
+The blockchain ledger keeps a public record of transactions that make it possible to follow bitcoin as it is transferred between digital wallets. However, these accounts are anonymous and ransomware gangs move funds to cover their tracks. According to Chainalysis, criminals moved more than $2.8bn through cryptocurrency exchanges in 2019.
+
+It follows the recent formation of a US government Ransomware Task Force that will unify efforts across the federal government. In 2020 the FBI’s Internet Crimes Complaint Center received 2,474 ransomware complaints with total adjusted losses of over $29.1m. However, the real cost is likely to be higher due to underreporting. According to members of the panel cited by Reuters, ransomware gangs collected almost $350m last year.
+
+However, some cybersecurity experts questioned whether the proposed bitcoin regulations would have a meaningful impact on ransomware attacks.
+
+“This is asking to be circumnavigated. Requesting regulation is not going to help organisations from paying demands, it will just push bad actors into other forms of cryptocurrency or payment methods under the radar,” Jake Moore, cybersecurity specialist at internet security company ESET told Verdict.
+
+“Companies need security awareness and better education, not insurance payouts. They need protocols in place to thwart the dangers inevitably and persistently targeting them. Such regulation could in fact hamper their release from the disaster zone forcing them to be stuck between a rock and a hard place.”
+
+Peter Grimmond, international CTO & international VP technical sales at data management company Veritas Technologies, said: “Tighter regulation on cryptocurrencies will certainly throw a spanner in the works for cybercriminals but businesses should be wary of thinking of this as a silver bullet or of letting their guard down. Hackers have a long history of finding ways of getting paid for their activity.”
+
+Nick Percoco, chief security officer at cryptocurrency exchange Kraken, pointed to the “transparent and immutable” nature of bitcoin transactions, which means “anyone with internet access can view all network activity right back to 2009”.
+
+He added: “Over the past few years, surveillance specialists have developed sophisticated strategies to identify suspicious activity and infer personal information of the target. Using bitcoin for criminal activities today is like robbing a bank and receiving marked bills and a dye pack.”
+
+The proposed regulations come from a public-private panel taking place today. Many of the proposals would require Congressional action to implement. Treasury Secretary Janet Yellen has previously expressed a desire to strengthen bitcoin regulations that tackle areas such as terror financing and other illicit activities. Reports indicate the US Treasury is in the early stages of cryptocurrency regulation, but these are believed to focus on taxation and investor protection.
+
+Bitcoin has been on an extended bull run since October last year. It has been driven by growing acceptance among institutional investors and retail investors putting US government stimulus checks into the digital currency. The recent public listing of exchange Coinbase has also helped throw bitcoin into the mainstream and increased urgency among some lawmakers to regulate the industry.

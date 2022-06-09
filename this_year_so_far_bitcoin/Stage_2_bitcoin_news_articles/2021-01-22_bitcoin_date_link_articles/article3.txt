@@ -1,0 +1,47 @@
+SHANGHAI/HONG KONG (Reuters) - A global chip shortage is choking the production of machines used to “mine” bitcoin, a sector dominated by China, sending prices of the computer equipment soaring as a surge in the cryptocurrency drives demand.
+
+FILE PHOTO: Representations of virtual currency bitcoin are seen in this picture illustration taken taken March 13, 2020. REUTERS/Dado Ruvic/Illustration
+
+The scramble is pricing out smaller miners and accelerating an industry consolidation that could see deep-pocketed players, many outside China, profit from the bitcoin bull run.
+
+Bitcoin mining is closely watched by traders and users of the world’s largest cryptocurrency, as the amount of bitcoin they make and sell into the market affects its supply and price.
+
+Trading around $32,000 on Friday, bitcoin is down 20% from the record highs it struck two weeks ago but still up some 700% from its March low of $3,850.
+
+“There are not enough chips to support the production of mining rigs,” said Alex Ao, vice president of Innosilicon, a chip designer and major provider of mining equipment.
+
+Bitcoin miners use increasingly powerful, specially-designed computer equipment, or rigs, to verify bitcoin transactions in a process which produces newly minted bitcoins.
+
+Taiwan Semiconductor Manufacturing Co and Samsung Electronics Co, the main producers of specially designed chips used in mining rigs, would also prioritise supplies to sectors such as consumer electronics, whose chip demand is seen as more stable, Ao said.
+
+The global chip shortage is disrupting production across a global array of products, including automobiles, laptops and mobile phones.
+
+Mining’s profitability depends on bitcoin’s price, the cost of the electricity used to power the rig, the rig’s efficiency, and how much computing power is needed to mine a bitcoin.
+
+Demand for rigs has boomed as bitcoin prices soared, said Gordon Chen, co-founder of cryptocurrency asset manager and miner GMR.
+
+“When gold prices jump, you need more shovels. When milk prices rise, you want more cows.”
+
+CONSOLIDATION
+
+Lei Tong, managing director of financial services at Babel Finance, which lends to miners, said that “almost all major miners are scouring the market for rigs, and they are willing to pay high prices for second-hand machines.”
+
+“Purchase volumes from North America have been huge, squeezing supply in China,” he said, adding that many miners are placing orders for products that can only be delivered in August and September.
+
+Most of the products of Bitmain, one of the biggest rig makers in China, are sold out, according the company’s website.
+
+A sales manager at Jiangsu Haifanxin Technology, a rig merchant, said prices on the second-hand market have jumped 50% to 60% over the past year, while prices of new equipment more than doubled. High-end, second-hand mining machines were quoted around $5,000.
+
+“It’s natural if you look at how much bitcoin has risen,” said the manager, who identified himself on by his surname Li.
+
+The cryptocurrency surge is affecting who is able to mine.
+
+The increasing cost of investment is eliminating smaller players, said Raymond Yuan, founder of Atlas Mining, which owns one of China’s biggest mining business.
+
+“Institutional investors benefit from both large scale and proficiency in management whereas retail investors who couldn’t keep up will be weeded out,” said Yuan, whose company has invested over $500 million in cryptocurrency mining and plans to keep investing heavily.
+
+Many of the larger players growing their mining operations are based outside of China, often in North America and the Middle East, said Wayne Zhao, chief operating officer of crypto research company TokenInsight.
+
+“China used to have low electricity costs as one core advantage, but as the bitcoin price rises now, that has gone,” he said.
+
+Zhao said that while previously bitcoin mining in China used to account for as much as 80% of the world’s total, it now accounted for around 50%.

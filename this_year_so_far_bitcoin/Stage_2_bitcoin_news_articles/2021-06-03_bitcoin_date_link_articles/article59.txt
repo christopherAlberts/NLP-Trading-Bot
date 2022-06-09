@@ -1,0 +1,21 @@
+SYDNEY--(BUSINESS WIRE)--Mawson Infrastructure Group (OTCQB:MIGI), a Digital Infrastructure provider with diversified operations across bitcoin mining and digital asset management, announces the purchase of 800 units of next-generation Avalon 1166 bitcoin miners from Canaan Inc (CAN:NAS).
+
+The new units were delivered in late May and are now fully operational, adding 60 PetaHash to Mawson’s operations in the United States.
+
+James Manning, CEO and Founder of Mawson Infrastructure, said, "We are adding to our operational output, at a time when the industry is suffering from both a shortage of ASIC bitcoin miner supply and high-quality locations to deploy mining hardware. This deployment is expected to add to our revenue and profitability moving forward.”
+
+The A1166, one of Canaan’s latest AvalonMiner models, is a SHA256 mining rig, which produces a stable hash rate of 75TH/s with a power efficiency of 47J/TH, making it one of the more efficient ASIC miners on the market today.
+
+In addition, Mawson expects to receive an additional 1176 Canaan A1246 units which have been shipped and are expected to be operational later this month, adding another ~100 PH at our facility in Georgia, U.S, bringing total deployments for May and June to 160 PetaHash.
+
+The deployment of additional A1246 units is expected to continue monthly to January 2022.
+
+About Mawson Infrastructure
+
+Mawson Infrastructure is a digital infrastructure provider, with diversified operations across Cryptocurrency Mining and Digital Asset Management. Headquartered in Sydney, Australia and operating across the USA and Australia, Mawson Infrastructure’s mission is to build a bridge between the rapidly emerging digital asset industry and traditional capital markets, with a strong focus on shareholder returns. Mawson matches energy infrastructure with next-generation mobile data centre solutions, enabling the proliferation of blockchain technology.
+
+For more information, visit: mawsoninc.com
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+Mawson cautions that statements in this press release that are not a description of historical fact are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements may be identified by the use of words referencing future events or circumstances such as “expect,” “intend,” “plan,” “anticipate,” “believe,” and “will,” among others. Because such statements are subject to risks and uncertainties, actual results may differ materially from those expressed or implied by such forward-looking statements. These forward-looking statements are based upon Mawson’s current expectations and involve assumptions that may never materialize or may prove to be incorrect. Actual results and the timing of events could differ materially from those anticipated in such forward-looking statements as a result of various risks and uncertainties, which include, without limitation, Mawson’s need and ability to raise additional capital, the development and acceptance of digital asset networks and digital assets and their protocols and software, the reduction in incentives to mine digital assets over time, the costs associated with digital asset mining, the volatility in the value and prices of cryptocurrencies and further or new regulation of digital assets. More detailed information about the risks and uncertainties affecting Mawson is contained under the heading “Risk Factors” included in Mawson’s Quarterly Report on Form 10-Q filed with the SEC on May 19, 2021, and in other filings Mawson has made and may make with the SEC in the future. One should not place undue reliance on these forward-looking statements, which speak only as of the date on which they were made. Because such statements are subject to risks and uncertainties, actual results may differ materially from those expressed or implied by such forward-looking statements. Mawson undertakes no obligation to update such statements to reflect events that occur or circumstances that exist after the date on which they were made, except as may be required by law.

@@ -1,0 +1,23 @@
+Following the Bitcoin mining debacle that originated from China earlier this week, Xinhua News, the official state-run press agency of the People’s Republic of China, published a new article today, highlighting the risks of cryptocurrency trading.
+
+The authors of the publication started off by explaining how leveraged trading works—a method where users effectively borrow money from an exchange, allowing them to operate much larger sums of money than they actually possess. While this could result in massive profits, the same is true for losses if the market goes against a leveraged position.
+
+“What is shocking is the possibility of using a maximum leverage of 125x on some platforms,” Xinhua wrote, using a screenshot from crypto exchange Binance as an illustration.
+
+With great profits comes great volatility
+
+Xinhua argued that for many crypto traders, massive—but fleeting—gains have resulted in an equally rapid loss of investments during the recent market decline. As an example, the outlet cited Liu Peng, ostensibly a “crypto investment veteran,” who earned more than 100,000 yuan ($15,700) since the beginning of the year—but lost everything in a flash.
+
+“I took a 5x leveraged contract of about $39,000. I thought it was completely safe and did not expect liquidation. Nobody thought Bitcoin would fall that much!,” Peng reportedly lamented.
+
+Another investor named Zhou told Xinhua that he managed to turn his 500,000 yuan ($78,500) into 3 million yuan ($471,000) in January. However, he lost a significant portion of his profit on May 19—when news from China itself, ironically, contributed to the crypto market’s collapse.
+
+Refusing to put up with the losses, Zhou increased his leverage to 10x and “bought the dip” (as he assumed at the moment)—but his position was liquidated just an hour later. “Looking back now, the whole process is like a dream,” he told Xinhua.
+
+Call for supervision
+
+The agency also highlighted the risk of potential manipulation of the crypto market and argued that local investors often resort to using offshore exchanges to bypass China’s restrictions. Meanwhile, some experts cited by Xinhua argued that citizens need to be educated so that they can identify and avoid risks when working with cryptocurrencies.
+
+“It is necessary to strengthen international regulatory cooperation and examine issues, including the difficulties of cross-border supervision of virtual currencies,” Xinhua concluded.
+
+Get an edge on the cryptoasset market Access more crypto insights and context in every article as a paid member of CryptoSlate Edge. On-chain analysis Price snapshots More context Join now for $19/month Explore all benefits

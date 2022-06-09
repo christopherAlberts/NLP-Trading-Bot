@@ -1,0 +1,39 @@
+Author: Editorial Board, ANU
+
+Next time you’re eating a pizza, spare a thought for Laszlo Hanyecz. Back in 2010, the Florida resident bought two pizzas for about US$20. The problem? He used bitcoin to pay for them — 10,000 bitcoin to be exact. Had he saved those bitcoin instead of spending them on pizza, they would be worth more than US$580 million today. It’s not all bad news. Laszlo goes down in history as the first person to use bitcoin in a commercial transaction. His toddler enjoyed the pizza, too.
+
+The multi-million-dollar question now is: what’s next for digital currencies? The answer will be found in Asia.
+
+While things aren’t looking good for bitcoin, particularly in India where it is set to be banned, the story for digital currencies more generally is positive, with big benefits for the economies that move first.
+
+For the true believers, bitcoin is the currency of the future with endless possibilities: it will hobble corrupt governments, empower the disenfranchised, promote financial inclusion among the billions of ‘unbanked’ people, help reduce global poverty and displace the US dollar by creating a new global currency and reserve asset.
+
+Have they been right so far? Not really. The price of bitcoin has increased 144 times faster than its use in transactions over the past five years. Its extreme volatility and limited use in transactions (not many people are buying pizza with it these days) means it fails to satisfy even the most basic criteria of a currency — to serve as an accepted medium of exchange.
+
+Bitcoin’s long-term prospects in Asia don’t look good, either. A fundamental lesson we were meant to have learned from the Great Depression was that the supply of a country’s currency should not be fixed. When consumers become scared about the future — during a pandemic, for example — they start hoarding money and stop spending. Because ‘my spending is your income and your spending is my income’, this triggers a dangerous deflationary spiral, with a lack of demand leading to falling prices and cuts in investment, ultimately leading to a depression of output and incomes.
+
+The role of central banks is to stop this downward spiral by increasing the supply of money to satisfy the desire to hoard cash and get people spending again. Bitcoin’s fixed supply — only 21 million will ever be created — makes it a dreadful candidate for a currency.
+
+The problem gets worse. Should policymakers adopt the same currency as other countries (as would be the case if bitcoin were a global or regional currency), they would lose the ability to adjust their exchange rate in the face of economic shocks. When the Greek economy was plunged into recession just over a decade ago, its exchange rate couldn’t fall to support the Greek recovery by making Greek exports cheaper because its currency (the euro) was shared with other much bigger economies that weren’t in the same sort of crisis. The result was a painfully long Greek recovery.
+
+Another scenario is that bitcoin doesn’t replace any Asian currencies but rather runs in parallel to them. Still, this would raise financial stability concerns for many Asian governments. Many Asian economies, primarily developing and emerging economies, have suffered crises in the past from volatile international capital flows and have acted to regulate those flows to maintain stability. If bitcoin, as a parallel currency, provides an opportunity to bypass these capital controls then it would quickly be banned, as proposed in India. Economies with fixed exchange rates would also need to ban bitcoin since, as in the 1990s, speculators could use bitcoin to sell the domestic currency, eventually collapsing the fixed exchange rate system.
+
+The likely outcome in Asia is that the trend becomes the norm. Under this scenario, cryptocurrencies operating beyond the control of government solidify themselves as a new kind of digital gold. Over time, their prices stabilise and they are held as an asset in the same way investors hold gold to hedge against inflation and market volatility. Dreams of bitcoin solving the world’s monetary problems fade into the background as it becomes nothing more than yet another financial asset on the balance sheets of rich people.
+
+Does that mean that digital currency more generally has no future? Despite the pitfalls of unregulated cryptocurrencies like bitcoin, the future for digital currencies is positive and being shaped in Asia by governments looking to get ahead in digital payments systems, including the use of cryptocurrency technology.
+
+In our lead article this week, Gordon Clarke and Emir Hrnjic show that digital currencies and payments are thriving in Asia. China is leading the world in central bank digital currency deployment along with Cambodia, while Singapore has cautiously positioned itself to be a major player using a different approach. In each case, Asian economies are on the cutting edge of innovation, while avoiding the pitfalls of bitcoin by ensuring government sovereignty over currency, not having a common currency with other economies, and allowing for the supply of their currencies to be adjustable.
+
+Since starting its digital currency project in 2014, the People’s Bank of China has moved rapidly towards launching the world’s first major sovereign digital currency – the digital yuan. ‘This should be an easy sell to consumers used to [the widespread use of] instant digital cash, thus enabling the government to fine-tune domestic monetary policy by directly controlling the amount of non-cash funds available to the economy’, say Clarke and Hrnjic. ‘There are already real-world digital yuan operations in major cities including Shenzhen, Chengdu and Suzhou, where customers obtain digital yuan via banks’.
+
+The National Bank of Cambodia launched Bakong in October 2020. Available to retail customers, this peer-to-peer funds transfer service supports transactions in Cambodian riel or US dollar. Self-proclaimed as ‘the first retail payments system run by a Central Bank using Blockchain’, Bakong has reportedly brought onboard almost a third of the Cambodian population. ‘The low barriers to entry significantly boosted financial inclusion which could result in a real difference to economic activity, as observed in other parts of the world’, say Clarke and Hrnjic.
+
+Thailand has also been a leader in central bank digital currency with the focus on immediate interbank transfers between individuals and at point-of-sale using QR codes, mobile and account numbers. Clarke and Hrnjic point out that the adoption of these technologies has been significant: ‘Around 70 per cent of Thai bank account holders signed up to PromptPay which is also widely used by small retailers who no longer have to handle cash or supply change’.
+
+The benefits of digital currencies promise to be significant, ranging from substantially increased financial inclusion, improved productivity and increased investment, consumption and growth from a lower cost of capital. Not all of Asia is moving. ‘The Philippines — the first country in Asia to embrace mobile payment with Smart Money in 2001 — has not capitalised on its early lead’, warn Clarke and Hrnjic. And ‘Larger ASEAN countries such as Indonesia are not at the forefront’.
+
+Along with the benefits of digital currencies come substantial first-mover advantages as investors begin to favour Asia’s frontier digital economies. As this happens, Asia’s digital laggards will begin to feel the pressure.
+
+Now is the time to start catching-up or be left in the monetary dark ages.
+
+The EAF Editorial Board is located in the Crawford School of Public Policy, College of Asia and the Pacific, The Australian National University.

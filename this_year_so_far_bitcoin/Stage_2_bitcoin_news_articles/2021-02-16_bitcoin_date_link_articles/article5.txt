@@ -1,0 +1,127 @@
+There’s been renewed interest in bitcoin exchange-traded funds (ETFs) with the nomination of Gary Gensler to head the Securities and Exchange Commission and the approval of a true Canadian bitcoin ETF. Whether one gets approved in the U.S. is still unclear.
+
+You're reading State of Crypto, a CoinDesk newsletter looking at the intersection of cryptocurrency and government. Click here to sign up for future editions.
+
+When ETF?
+
+The narrative
+
+The big news last week was the Ontario Securities Commission approved North America’s first bitcoin ETF in Canada. An ETF, which is essentially a retail-friendly, regulated bitcoin investment vehicle that can trade in popular brokerage apps, has long been a product the industry has wanted. Numerous applications have been rejected in the U.S., but the approval of one in Canada could be an early sign that we’ll soon see something similar in the States.
+
+Why it matters
+
+Basically, the idea is a bitcoin ETF would provide everyday investors with:
+
+Bitcoin exposure through existing retail trading apps, such as TD Ameritrade, BUT: These traders would not actually need to buy bitcoin.
+
+In short, an ETFwould let people invest in bitcoin without having to set up a wallet or trust in an exchange that might go down when market volatility rises.
+
+There are also those who believe an ETF would help spark or continue a bull run, but considering Elon Musk can pretty much just do that on his own now I’m not so sure an ETF seems as necessary as it did in 2018.
+
+Breaking it down
+
+The crypto market has matured since 2017 and 2018, when the U.S. Securities and Exchange Commission (SEC) was rejecting ETF applications left and right.
+
+Matthew Hougan, the chief investment officer at Bitwise Asset Management (a firm that’s gone to great lengths to get a bitcoin ETF approved), told CoinDesk that the futures market tied to cryptocurrencies has grown significantly, the underlying spot markets are functioning better and the U.S. regulatory structure has evolved. But is that enough?
+
+The main question is whether the market has matured enough to meet the requirements listed under the Securities Exchange Act, the federal law that oversees securities trading within the U.S.
+
+Ark Investment Management CEO Cathie Wood recently told an audience she thinks the bitcoin market might need to see $2 trillion in demand before the SEC is comfortable with an ETF.
+
+Hougan isn’t so sure, saying he thinks bitcoin’s futures market is comparable to hard wheat in size (hard wheat has both a futures market and ETFs, which is more than you can say for onions).
+
+Gary Gensler
+
+Some of the thinking about whether or not to file a bitcoin ETF application involves the new administration and the nomination of Gary Gensler as SEC chair. Gensler, a longtime crypto advocate who’s perhaps best known for his work on derivatives regulation at the Commodity Futures Trading Commission after the last financial crisis, is expected to be fairly crypto-friendly, at least to the degree of approving an ETF. Still, questions remain.
+
+“It’s certainly too early to say what his view will be on crypto, whether it will be a priority, what that will do to influence the market, and I think that may even be a premature conversation,” Hougan said.
+
+At the least, while Gensler may be interested in crypto, it’s not likely to be a priority, given many of the other issues he’ll have to address, including likely having to form a response to the market volatility seen last month with the GameStop stock pump.
+
+The better question is what has changed over the past two years.
+
+According to Hougan, the factors that would support an ETF approval include:
+
+Market efficiency has increased;
+
+Regulatory oversight has evolved;
+
+New custody solutions have entered the market; and
+
+There are better audit processes.
+
+However, the SEC has used various objections in rejecting past ETF applications. The outstanding questions include:
+
+Whether the SEC’s market surveillance questions have been answered; and
+
+Whether the SEC’s market manipulation questions have been answered.
+
+“The market has gotten better and so the question you’re left with is ‘do we know enough’ and ‘has the market gotten better enough’ and we just don’t know,” Hougan said.
+
+Canada
+
+One positive sign for the industry is last week’s approval of an open-ended ETF in Canada. To be clear, it’s not the first fund to trade in Canada: 3iq launched a bitcoin fund last year. However, this is the first ETF that will trade on a retail-accessible exchange – the Toronto Stock Exchange – within North America.
+
+Eric Balchunas, a senior ETF analyst at Bloomberg, said on Twitter the “U.S. usually follows shortly after” Canadian regulators in approving such products, calling the approval a “good sign” for American applicants.
+
+His guess: Late September is when we’ll see the approval, and it could see $50 billion in inflows over its first year.
+
+Here’s what needs to happen:
+
+A company has to file for an ETF by filing a Form 19b-4. Two companies have filed for an ETF recently: VanEck and Valkyrie. However, neither has filed a 19b-4 form, which would kick off the SEC review process.
+
+Once someone does file the 19b-4 form, however, the SEC has to acknowledge it’s reviewing it. This kicks off a 45-day review period.
+
+The SEC can say it needs more time and/or provide feedback. The agency can extend the review period up to 240 days (240 days from today would be Oct. 14).
+
+The SEC staff would decide whether or not to approve the application, and then the five commissioners would agree (or disagree, as the case may be).
+
+At some point, the SEC would have to approve or reject the application.
+
+If the application is approved, congratulations to the issuer and to the next big thing that everyone will get excited about.
+
+If the application is denied, a Commissioner (or applicant) could request a review of the decision. This happened to nine ETF applications that were rejected simultaneously in 2018. I still have no idea what the resolution was.
+
+Come to think of it, the SEC also reviewed a Bitwise application that was rejected. The company later withdrew that particular application.
+
+So, in short, while there are positive signs for an ETF approval in 2021, nothing is guaranteed.
+
+SEC lawsuits
+
+In other, unrelated news, last week Acting SEC Chair Allison Herren Lee published a statement ending the contingent settlement offers that could lead to the faster resolution of SEC cases. This means that cases could drag on longer for crypto companies that get caught in the SEC crosshairs. (Here’s looking at you: Ripple.)
+
+The statement said the agency’s Division of Enforcement will no longer recommend settlements that are contingent on whether or not a company receives a waiver to act as a Well-Known Seasoned Issuer (WKSI).
+
+These waivers had perks. In the past, they could be used as part of a settlement offer if the SEC was suing a company on securities law violations.
+
+In other words, if the SEC Division of Enforcement is suing a company, say a hypothetical cryptocurrency-related firm, for alleged violations of the law, a settlement could have been contingent on the firm receiving WKSI status. This condition helped companies know what their penalties would be in a settlement, and what they could do post-litigation.
+
+Lee said this leads to a potential conflict between the SEC’s different divisions.
+
+This new policy would appear to lessen the chances of such settlements occuring in future.
+
+Commissioners Hester Peirce and Elad Roisman pushed back against the move in a dissenting statement, writing that the previous policy didn’t lead to any structural conflicts.
+
+Companies may be less willing to pursue settlements if they don’t know whether they’ll receive waivers to continue operating, they wrote, warning that this could lead to more time (and therefore, resources) spent pursuing cases.
+
+It remains to be seen what incoming chair Gary Gensler will do. By the way – I’ll be talking about this case during a virtual panel hosted by the New York Financial Writers’ Association next Tuesday at 7:00 p.m. ET. Come check it out.
+
+Biden's rule
+
+Honestly, not a whole lot has happened in the past week. No new nominations, no confirmation hearings scheduled yet. However, the U.S. Senate’s impeachment trial of former President Donald Trump has wrapped up, which should give the body more time to consider nominations.
+
+Changing of the guard
+
+Key: (nom.) = nominee, (rum.) = rumored, (act.) = acting, (inc.) = incumbent (no replacement anticipated)
+
+Elsewhere:
+
+Outside crypto:
+
+Tesla Bitcoin Bet Exposes Limits of Crypto Accounting Rules: Okay, so within crypto, but outside CoinDesk. Anyways, it turns out that because taxes are weird, Tesla has to report any potential loss in the value of the $1.5 billion in crypto it bought last month, even if it hasn’t actually sold the bitcoin, should the holdings’ value decline before its next earnings report, according to Bloomberg. However, should the bitcoin’s value increase, Tesla cannot report that. This is because U.S. tax standards-setters (the Financial Accounting Standards Board) haven’t created any specific guidance around digital currencies. Probably wouldn’t hurt if they did, though Bloomberg Tax reports that’s not likely to happen anytime soon.
+
+Canadian Woman Cited in Online Attacks Is Arrested in Toronto: A few weeks ago I flagged a New York Times report about how a single individual may have published false information about a number of people over the course of decades. She’s now been arrested by Canadian police on harassment and libel charges.
+
+If you’ve got thoughts or questions on what I should discuss next week or any other feedback you’d like to share, feel free to email me at nik@coindesk.com or find me on Twitter @nikhileshde.
+
+You can also join the group conversation on Telegram.

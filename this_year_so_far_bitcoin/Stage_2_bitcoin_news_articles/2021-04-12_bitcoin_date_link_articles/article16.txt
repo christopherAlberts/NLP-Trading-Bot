@@ -1,0 +1,43 @@
+No fewer than nine applications for a bitcoin exchange-traded fund are pending before the U.S. Securities and Exchange Commission, including a new filing from Michael Novogratz’s Galaxy Digital.
+
+At the most basic level, the vehicles would give investors a way to bet on the largest cryptocurrency with the ease of buying a stock through a brokerage account.
+
+But JPMorgan, the largest U.S. bank, has identified another potential benefit to the approval of a bitcoin ETF: Helping to normalize the bitcoin futures premium on the Chicago-based CME and other exchanges. The premium represents the difference between the futures-contract price for bitcoin and the current price as traded on major cryptocurrency exchanges.
+
+Related: IMF Wants More Crypto Supervision in the Philippines
+
+“Launching a bitcoin ETF in the U.S. will be the key to normalizing the pricing of bitcoin futures, in our view,” the U.S. bank’s analysts wrote in an April 9 report, adding that the June contract listed on the CME recently traded at a 25% annualized premium.
+
+Read more: What Is a Bitcoin ETF?
+
+The gap has increased since February, when it was below 20%. A carry trader could have locked in the 25% annualized premium as profit by buying the cryptocurrency in the spot market and simultaneously selling a June futures contract on the CME.
+
+According to the JPMorgan analysts, the wide premium might partly reflect the reality that many big investors have yet to set up accounts or processes to buy cryptocurrencies, or they’re prohibited from doing so under regulations or their own mandates. They’re relegated to gaining exposure through CME futures or the Grayscale Bitcoin Trust (GBTC), which has its own drawbacks in terms of pricing irregularities. (Grayscale is owned by Digital Currency Group, which also owns CoinDesk.)
+
+Related: State of Crypto: What Coinbase’s Rise Says to the World
+
+So the existence of a physically settled ETF might help to address some of the pricing discrepancies, by bringing extra liquidity into the market.
+
+Story continues
+
+The CME futures are cash-settled to their bitcoin reference rate (BRR) – a daily reference rate of the U.S. dollar price of one bitcoin as of 4 p.m. London standard time (LST). The BRR represents a one-hour volume-weighted average price across a range of major exchanges as of 4 p.m. LST and not a single observational price at 4 p.m. LST. That way, the exchange ensures that a single large trade or cluster of transactions will only have a limited effect on the BRR.
+
+However, bitcoin’s volatility is relatively high compared to traditional assets. Hence, the BRR tends to deviate from the spot market price, leading to a tracking error in a carry trade.
+
+“Over a longer horizon, using just Coinbase prices, the monthly tracking error of BRR versus 4 p.m. LST mids has at times been 2% or higher over the past year. Backtesting the performance of basis trades [carry trades] against spot levels as of the same time results in an annualized tracking error of more than 10% over the past year,” JPMorgan analysts noted. “The richness of bitcoin futures likely reflects in part inefficiencies in replicating the BRR to which they settle, particularly without direct access to the spot market.”
+
+Last year, the legendary trader Paul Tudor Jones’ investment firm took a bullish bet on bitcoin via the futures market instead of the spot market. While corporate treasury money has been flowing into bitcoin via Coinbase, many regulated funds aren’t allowed to invest through cryptocurrency exchanges.
+
+Read more: Coinbase and Bakkt Are Behind Paul Tudor Jones’ Bitcoin Bets, SEC Documents Show
+
+“Funds can only access bitcoin via futures on the CME,” Pankaj Balani, co-founder and CEO of the Singapore-based Delta Exchange, told CoinDesk in a WhatsApp call. ”This eventually ends up driving premium on bitcoin futures.”
+
+The tracking error could be much lower once a physically settled ETF tied to the spot market price is launched; the risk premium could be priced out.
+
+Executing so-called carry trades, also known as basis trades – where investors use hedging transactions to profit from the futures premium – would be much more straightforward and cost-effective with an ETF, possibly resulting in more players and low premiums, according to the JPMorgan report.
+
+Also read: Traders Opting for Cash and Carry Strategy as Bitcoin’s ‘Contango’ Widens
+
+“At the moment, listed basis trades require ~40% initial margin against the futures position in addition to ongoing variation margin and fully funding the opposing long GBTC positions, making the return on cash noticeably less attractive,” analysts said. Having an ETF would make basis trading “more efficient and attractive at current pricing, particularly if those ETFs can be purchased on margin.”
+
+Related Stories

@@ -1,0 +1,27 @@
+The crypto market seems to be astonished by yesterday’s season. Dogecoin (DOGE) threw every fundamental out of the window and smashed its way to the 5th position in the crypto top 10 by market cap. DOGE is trading at $0,27 with 20.6% losses in the daily chart.
+
+DOGE reached an all-time high of $0,50 after a 500% pump. Chief Strategy Officer at CoinShares, Meltem Demiros, linked Dogecoin surge to the controversial subreddit r/WallStreetBets.
+
+This group decided to lift its ban on crypto discussions. These were still limited to only Bitcoin, Ethereum, and DOGE.
+
+However, the group decides to reinstate their ban in less than a day due to an article published by Bloomberg, as announced on their subreddit. With the title “WallStreetBets Bows to Crypto”, the article and moderator’s decision caused discomfort in that community.
+
+As a sort of “revenge pump”, WallStreetBets might have caused DOGE’s rally. As evidence, Demiros pointed at the cryptocurrency’s traded volume. At its peaked DOGE, daily trading volume stood at $70.772.770.653, as shown by CoinGecko, with a $48B market cap.
+
+In comparison, State Street Global Advisors’ SPY ETF, one of the “most widely held and traded”, registered around $25B in this metric during the April 17th session, according to Demiros. Also pointing at Dogecoin’s repository in GitHub, with many contributions over the past year, CoinShares CSO said:
+
+the people have spoken, and the people want DOGE. The power of memes is moving markets. You absolutely love to see it. It’s gonna break people’s brains, and we’re just getting started. To all the @TikTokInvestors who are now $DOGE millionaires, cheers.
+
+Coinbase Effect and Bitcoin’s price
+
+After a bullish momentum leading up to Coinbase’s debut on the stock market, Bitcoin’s price seems to be trending downwards. At the time of writing, BTC is trading at $60,174 with 1.9% losses in the 24-hour chart and 3.6% over the past week.
+
+During this period, many investors were positive Coinbase’s direct offering was going to support a pump across the crypto market. The opposite happened. As Demiros stated, this is due to the high level of leveraged positions in the derivatives market.
+
+When Bitcoin was unable to pump due to Coinbase debut, leverage traders “dip” and closed their positions. Demiros said the following on this crypto market dynamic:
+
+One – bitcoin markets are very much driven by derivatives. funding rates, implied vol, and open interest are important to monitor. spot follows futures -> tail wags dog. Two – there isn’t enough leverage, and cost of capital limits capacity!
+
+Data from Glassnode still points to a bullish outlook for BTC. The metric Realized Cap HOLD Waves indicates the first peak in the number of short-term holders moved to the market by retail mania.
+
+In previous bull runs, there have been at least 3 peaks for the same metric. This could indicate that the rally is still early and BTC’s price could rise a lot more if it follows a previous pattern, as shown below.

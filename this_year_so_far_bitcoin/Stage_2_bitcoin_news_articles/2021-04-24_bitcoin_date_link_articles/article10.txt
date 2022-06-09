@@ -1,0 +1,19 @@
+Bitcoin (CRYPTO: BTC) whales moved over $6 billion worth of the cryptocurrency on April 22.
+
+What Happened: According to a crypto transaction tracking website WhaleAlert, most of the over $6 billion worth of transactions originated from a wallet managed by a crypto asset custodian Xapo, which was acquired by Coinbase Global Inc. (NASDAQ:COIN) in 2009.
+
+The $321 million transaction transferred 6,000 Bitcoin from the custodian’s wallet, 251 Bitcoin ($12.5 million) were sent to an unknown wallet that received and later moved over 306,000 Bitcoin over its brief year of activity.
+
+The second wallet received nearly 5,750 Bitcoin (over $286 million) from world’s the top cryptocurrency exchange Binance and sent it to two unknown wallets in one transaction. This last wallet initiated a series of minor but still large transactions.
+
+The pattern was always one transaction with two outputs, one receiving the bulk of the balance and the other one no more than a couple hundred Bitcoin.
+
+Why It Matters: The purpose and nature of those transactions are unclear, but they follow major BTC price movements.
+
+According to CoinMarketCap data, Bitcoin is fluctuating around $50,000 at press time. It lost around 17.75% this week.
+
+Given the recent corrections, market participants are speculating about where Bitcoin may be headed next. Scott Minerd, the chief investment officer at Guggenheim Partners, a financial services firm managing over $310 billion, believes that Bitcoin could go as low as $20,000.
+
+See also: Bitcoin's Rally Not A Bubble, It's A Beginning Of Mainstream, Says Investor Bill Miller
+
+JPMorgan strategist Nikolaos Panigirtzoglou, on the other hand, suggested that the coin will break new lows if it does not regain $60,000 soon.

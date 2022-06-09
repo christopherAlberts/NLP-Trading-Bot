@@ -1,0 +1,95 @@
+Bitcoin may be the key piece in solving the growing demand for energy usage outpacing our ability to capture and store energy from the sun.
+
+The stage has been set for Bitcoin to incentivize renewable energy and power a greener future. Tesla and Elon Musk have the technology and ingenuity to solve one of the greatest challenges facing humanity. A dawn of optimism and hope is coming into focus.
+
+In February 2019, Cathie Wood (CEO of Ark Invest) interviewed Elon Musk on the ARK Investment podcast, “FYI - For Your Innovation.” Elon said, "I'm not sure it would be a good use of Tesla's resources to get involved in crypto. We are really just trying to accelerate the advance of sustainable energy."
+
+I’m not sure it would be a good use of Tesla's resources to get involved in crypto. We are really just trying to accelerate the advance of sustainable energy. And I think, actually, one of the downsides of crypto is that, computationally, it is quite energy intensive. So, there has to be some kind of constraints on the creation of crypto, but it's very energy intensive to create the incremental Bitcoin, at this point. - Elon Musk | FYI - For Your Innovation | Feb 19, 2019
+
+Two years later, Tesla has since added $1.5 billion of bitcoin to its balance sheet and now accepts bitcoin as payment. Since then, the company has been raked over the coals by environmentalists and critics, who were triggered by the move.
+
+Tesla’s mission of accelerating the advance of sustainable energy has not changed. Almost no one has given even the slightest thought about how Elon could use bitcoin to incentivize solar.
+
+In recent weeks, Fortune, Bloomberg, The New York Times, The Independent, The BBC, Forbes, The Financial Times, CBS, The Telegraph, Time and The Guardian have all parroted the same anti-bitcoin narrative derived from self-described “hobbyist” Alex de Vries who, as it turns out, works for the Dutch Central Bank.
+
+On Earth Day, the Bitcoin Clean Energy Initiative (BCEI) released a memorandum, with Square Crypto and ARK Invest, that caused further uproar. Elon publicly endorsed it.
+
+And the anti-Bitcoin media machine again went into action.
+
+The details of the BCEI memo itself went largely undiscussed, which is a shame, since it appears to give away Tesla’s game plan. It very clearly describes using Bitcoin, solar and batteries to "overgrow" solar energy and solve the problem of the "Duck Curve."
+
+The Duck Curve, coined by the National Renewable Energy Laboratory (NREL), is the greatest challenge facing solar energy at scale. Watch David Roberts’s excellent 4-minute video, The 'duck curve' is solar energy's greatest challenge, and you'll quickly grasp the issue. To summarize his video:
+
+Power companies supply the least amount of power overnight then ramp up in the morning. Then at sunset, energy demand skyrockets. As more people adopt solar energy, it causes problems in this demand curve. The sun produces the most energy at midday. Every year adds new solar capacity, which makes midday demand "belly" lower and lower. Researchers call this drop in demand the "Duck Curve." The belly of the curve grows deeper every year.
+
+From the regional grid managers' perspective, it looks like a drop in demand. It's neither cost effective, nor possible, to transmit all the excess solar energy into the grid, much of it is stranded or curtailed. It is an overabundance of energy that, today, has to be wasted.
+
+As the sun sets, solar production ends right as the demand for energy typically peaks. Power plants then have to quickly ramp up production to compensate for that, which is challenging with today’s power infrastructure.
+
+The second problem is economic. Say you have a couple of nuclear and coal plants. Those plants are only economic when they are running all the time, basically. They run around the clock. And if you have to turn them off at mid-day, it completely screws up their economics and plus lots of utilities just have contracts with those power plants to keep them running all the time. So that creates sort of an artificial floor. If solar generates too much power, and there's no use for it, there's no one to consume it. Then grid managers just have to turn some solar panels off. - David Roberts | The 'duck curve' is solar energy's greatest challenge | Vox
+
+If the excess solar power wasn't curtailed, the power grids are at risk of being overloaded or even damaged.
+
+So we throw away some of that extra solar energy. Effectively, what's happening is that solar power is being wasted. That waste, curtailment, is the big challenge moving forward for solar energy. If you want solar to eventually power everything, or close to everything, we've got to figure out some way of shifting it to the night time.
+
+The Duck Curve cannot be solved with current infrastructure and storage. This makes solar adoption less appealing and less profitable but also wasteful. If Tesla cannot figure out how to solve this problem, the technology won't scale and adoption will stagnate.
+
+How does this relate to Bitcoin? Tesla recently announced Tesla solar panels and solar roof will only be sold as an integrated product with Tesla’s Powerwall battery. Their Powerall system cannot be purchased without also purchasing Tesla solar.
+
+This would make Tesla solar configurations very poor investments. A home, with a $100/month electric bill, would require $20,000 upfront for just the panels and not breakeven for 17 years. After 25 years, one would save $13,000 were it not for the $12,500 Powerwall.
+
+So, after 25 years, you would save roughly $500? Those economics don’t add up. There is no monetary incentive for homeowners to invest in solar.
+
+However, this creates an integrated solar product that can link to the power grid and Tesla devices. Powerwall will sit "behind the meter" and have the ability to intelligently store excess energy or put it to good use.
+
+Tesla now makes its own custom ASICs. For example, their Full Self Driving (FSD) ASIC. Powerwalls could ship with Tesla ASICs that instantly and intelligently switch between pooled bitcoin mining or selling back to the grid, when demand increases and it becomes more profitable to sell energy than mining. In other words, Tesla could create a massive green mining pool to consume the solar "Duck Belly" and turn it into bitcoin. (Here are two examples of innovative homeowners with DIY versions of this concept).
+
+The BCEI memo was all about using a combination of solar, batteries and Bitcoin to solve the Duck Curve. Tesla just happens to have all of these in its bag already. All they need is a way to intelligently pool that power into hash, whenever it makes the most sense, and solve the technical hurdles of taming ASIC heat and noise. If anyone can figure that out, it will be Elon and Tesla.
+
+A Unique Energy Buyer - Bitcoin miners are unique energy buyers in that they offer highly flexible and easily interruptible load, provide payout in a globally liquid cryptocurrency, and are completely location agnostic, requiring only an internet connection. These combined qualities constitute an extraordinary asset, an energy buyer of last resort that can be turned on or off at a moment’s notice anywhere in the world. - Bitcoin is Key to an Abundant, Clean Energy Future | Bitcoin Clean Energy Initiative Memorandum | April 2021
+
+Bitcoin miners are unique energy buyers in that they offer highly flexible and easily interruptible load, provide payout in a globally liquid cryptocurrency, and are completely location agnostic, requiring only an internet connection. These combined qualities constitute an extraordinary asset, an energy buyer of last resort that can be turned on or off at a moment’s notice anywhere in the world.
+
+The memo also formally introduces ARK’s "Solar + Battery + Bitcoin Mining" model, and it links to their blog post which says these combined systems "should work at all scales and could create interesting opportunities at the residential level.”
+
+We believe these three-part energy systems should work at all scales and could create interesting opportunities at the residential level, particularly if heat waste from bitcoin mining can be put to use in other applications. - Solar + Battery + Bitcoin Mining | ARK Invest | April 2021
+
+It would appear that ARK is open-sourcing their model to get constructive feedback, before it is considered by Tesla for residential use at scale. It is worth pointing out that the model assumes the solar bitcoin miners will put profits into satisfying the needs of the grid, over maximizing profits of the miner.
+
+Not only does the BCEI memo spell out how Bitcoin works in this strategy, it also links to this brilliant article, by Max Webster, which artfully explains virtual power plants and miner amortization.
+
+Tesla could pay customers for sacrificing their Duck Bellies, in whatever currency they wanted: bitcoin, fiat, shitcoins or stablecoins. The customers would earn money and Tesla would stack the mining rewards in their bitcoin treasury. (Smart customers would demand payment in bitcoin).
+
+So, imagine you have a Bitcoin Powerwall. It learns your energy habits and intelligently spends the excess energy on either hashing or selling back to the grid, whichever is more profitable. Although Tesla has an obvious advantage in this area, this strategy is something other device makers could employ if they partnered with solar companies.
+
+People might argue that the excess power was better spent on scientific computations, and perhaps a market could be made for these other computations. But, with all that distributed computing power, it would drive the cost of all those other competing computations to zero. See Michael Saylor’s explanation of what happens when something becomes commoditized and gets oversupplied by technological advancements, like dematerialization. Bitcoin is uniquely immune to this, thanks to the difficulty adjustment.
+
+Only Bitcoin's closed thermodynamics offers the ability to absorb all that excess energy, like a black hole, without driving the cost of the computations to zero. No other asset on the planet can do that. Bitcoin is the energy buyer of last resort.
+
+Only a neutral proof-of-work asset, like bitcoin—free of the taint from premine or fallible figureheads—has the ability to eat unlimited amounts of curtailed solar energy for breakfast. Proof of stake is anorexic, when it comes to eating energy.
+
+Listen to Michael Saylor explain how Bitcoin acts as a thermodynamic closed-loop battery, for energy.
+
+This is the first truly engineered monetary network in the history of the world. And by that i mean it's a closed thermodynamically sound monetary system. If you put a hundred million dollars in the system, it's like charging a battery. It has no power loss. You can store it for a hundred years, it'll still be there. Every other monetary system has a power loss in it. It bleeds energy. If you put your money into electricity and store it in a battery, you lose two percent a month. You have 24% inflation rate a year. You can't move electricity around without losing six percent of it over the course of a few hundred miles. So what if i wanted to store all my monetary energy and I didn't want to lose it every month or every year or every decade. Well, I'd design a closed system, 21 million gold coins, none come in, none go out. All I can do is heat it up or cool it down. That's the definition of a thermodynamic closed system.
+
+Bitcoin is the first example of that system. What that means is that you can collect all of the monetary energy in the world, store it in this battery, hold it for a hundred years. Channel it through time and space with no energy loss. It's an engineering breakthrough. It’s like an aqueduct. It's like an electrical power system or grid. —Michael Saylor | Should Tesla Convert Its Cash To Bitcoin? | HyperChange | Dec 15, 2020
+
+
+
+In "The Problem of Increasing Human Energy," Nikola Tesla described how humanity must use more energy to increase the force accelerating human progress, ideally by harnessing the sun. Amazingly, he foresaw the problem of the Duck Curve and how it would largely be impractical and go wasted, without some way to efficiently harness its periodic energy.
+
+Motive power means work. To increase the force accelerating human movement means, therefore, to perform more work...Whence comes all the motive power?...All this energy emanates from one single center, one single source—the sun...The sun is the spring that drives all. The sun maintains all human life and supplies all human energy.
+
+...Notwithstanding the apparently vast amount of energy received from the sun’s rays, only a small fraction of that energy could be actually utilized in this manner. Furthermore, the energy supplied through the sun’s radiations is periodical, and the same limitations as in the use of the windmill I found to exist here also. After a long study of this mode of obtaining motive power from the sun, taking into account the necessarily large bulk of the boiler, the low efficiency of the heat-engine, the additional cost of storing the energy, and other drawbacks, I came to the conclusion that the “solar engine,” a few instances excepted, could not be industrially exploited with success. - Nikola Tesla | The Problem of Increasing Human Energy | The Century Magazine | June 1900
+
+Bitcoin might just be the missing ingredient in Tesla’s calculations.
+
+The BCEI memo suggests that putting a fraction of solar to work, mining bitcoin, would dwarf existing (dirty) mining operations.
+
+The second major potential impact could be a sizable transformation and greening of the bitcoin mining industry. It’s estimated that there’s only 10-20 GW of mining capacity worldwide today. Deploying miners at even 20% capacity with the above mentioned 200GW of delayed solar and wind projects on U.S. grids alone could result in 40 GW of new mining capacity, effectively dwarfing the entirety of the existing global market. | Bitcoin is Key to an Abundant, Clean Energy Future | Bitcoin Clean Energy Initiative Memorandum | April 2021
+
+The BCEI, Jack and Elon are hinting that this strategy, at scale, would effectively turn Bitcoin into a massive green energy project—unlike anything anyone has ever seen before. Similar strategies could be used with other energy sources like wind, hydro or geothermal.
+
+Bitcoin has the potential to solve one of the greatest challenges facing the solar industry and humanity. And the innovators that are going to make it happen just published the game plan, in broad daylight.
+
+This is a guest post by Level39. Opinions expressed are entirely their own and do not necessarily reflect those of BTC, Inc. or Bitcoin Magazine.

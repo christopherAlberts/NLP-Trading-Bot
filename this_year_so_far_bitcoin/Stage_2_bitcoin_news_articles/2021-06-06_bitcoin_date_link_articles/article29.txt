@@ -1,0 +1,123 @@
+Coming every Saturday, Hodler’s Digest will help you track every single important news story that happened this week. The best (and worst) quotes, adoption and regulation highlights, leading coins, predictions and much more — a week on Cointelegraph in one link.
+
+Top Stories This Week
+
+Sun, sea and satoshis were on the agenda as the biggest Bitcoin event in history kicked off in Florida.
+
+Organizers were expecting a huge turnout for the sold-out event, with some predicting there would be more than 50,000 attendees.
+
+Day one saw MicroStrategy CEO Michael Saylor reveal more about his experience in the crypto space so far. He said: “I realized that I first bought Bitcoin one year ago yesterday, and so this is the end of my rookie year.”
+
+Twitter and Square CEO Jack Dorsey also declared that “Bitcoin changes absolutely everything.” He told the conference: “We don’t need the financial institutions that we have today” — and for money to be created for the world, it has to be developed internationally.
+
+One particularly eye-opening on-stage discussion came from Brian Brooks, a former regulator turned CEO of Binance.US. He said: “If you’ve never worked in a big bank, you have no idea how bad the problem is.”
+
+For many, Bitcoin 2021 in Miami is the first physical event for many since the coronavirus pandemic began, enabling celebrities, cryptographers and CEOs to rub shoulders. Alas, you can’t please all the people, all the time.
+
+Quantum Economics founder Mati Greenspan had tweeted an innocuous comment about how Bitcoin 2021 was set to be the “Biggest crypto conference ever!”
+
+But he was quickly set straight by the likes of Bitcoin Magazine editor Pete Rizzo, who said: “It’s a Bitcoin conference, about Bitcoin. Bitcoin is the subject and hence why it’s used as an adjective.”
+
+To be fair, organizers were crystal clear that it is a Bitcoin-only event, meaning no altcoins are allowed.
+
+But as DeFi Pulse’s founder Scott Lewis pondered…is it really possible to go for two days without talking about Ethereum?
+
+Although the party is in full swing in Florida, the fact that Bitcoin has been struggling to break $40,000 will undoubtedly have put a dampener on proceedings.
+
+That said, Bloomberg Intelligence’s Mike McGlone says there are still plenty of reasons to be bullish.
+
+In his latest Bloomberg Galaxy Crypto Index report, he said BTC is “stronger, greener and less extended” than during the height of the rally in April.
+
+He also maintained that Bitcoin’s bull market appears to be intact, with a $100,000 price target more likely than a retrace to $20,000.
+
+Alas, not everyone agrees with McGlone’s prognosis following the worst May for Bitcoin’s price in 10 years, with JPMorgan strategist Nikolaos Panigirtzoglou writing in a research note that weakened institutional demand could drag BTC below $30,000.
+
+Dogecoin — likened by some to “digital plastic” this week — has enjoyed quite a surge of late. The joke cryptocurrency’s price climbed 40% in a single day, driven by Coinbase announcing it would open its door to DOGE deposits on June 1.
+
+DOGE’s surge shook out more than $16 million worth of bearish leverage in a single hour, with the altcoin almost returning to a pre-crash high.
+
+One analyst, @HsakaTrades, declared that a “bored market” was gravitating to DOGE and rotating out of other altcoins.
+
+We’ve all become painfully familiar with the endless declarations surrounding the death of Bitcoin. Now, with the sale of nonfungible tokens sinking 90% since they peaked in early May, some are sounding the death knell for NFTs.
+
+After $102 million worth of NFTs were sold in a single day on May 3, just $19 million worth were sold in the past week. Over $170 million worth of NFTs were sold in the seven-day window on either side of the market top, equating to a near 90% decline since then.
+
+The number of NFT wallets showing any signs of activity on a daily basis is also down 70% since early May, after falling from 12,000 to 3,900.
+
+NFT sales and wallet movements were down across the entire range of token categories, spanning gaming, decentralized finance, collectibles, art, utility, metaverses and sports.
+
+Winners and Losers
+
+At the end of the week, Bitcoin is at $37,733.41, Ether at $2,787.12 and XRP at $0.99. The total market cap is at $1,710,804,430,870.
+
+Among the biggest 100 cryptocurrencies, the top three altcoin gainers of the week are Theta Fuel, Curve DAO Token and Siacoin. The top three altcoin losers of the week are UNUS SED LEO, Decred and Nano.
+
+For more info on crypto prices, make sure to read Cointelegraph’s market analysis.
+
+Most Memorable Quotations
+
+“Who forgot to invite Elon to the #Bitcoin conference?”
+
+David Gokhshtein, Gokhshtein Media founder
+
+“Bitcoin is more likely to resume appreciating toward $100,000 resistance rather than sustaining below $20,000.”
+
+Bloomberg Intelligence
+
+“Right now, if you buy and sell gold, you get it taxed, they can do that. If you make a profit in Bitcoin, you read stories about people being taxed on it. You can’t tax money, you don’t tax it.”
+
+Ron Paul, former presidential candidate
+
+“Digital currencies are not substitutes for gold. If anything, they would be a substitute for copper, they are pro-risk, risk-on assets. They are a substitute for risk-on inflation hedges, not risk-off inflation hedges.”
+
+Jeff Currie, Goldman Sachs global head of commodities research
+
+“When something gets big enough, things like consumer interests and money laundering come into play. So there’s good reason to believe that [regulation] will happen.”
+
+Stefan Ingves, Sveriges Riksbank governor
+
+Prediction of the Week
+
+Back to Miami now, where an eye-opening panel suggested that we may just be 10 years away from “hyperbitcoinization” — marking the moment BTC takes over global finance.
+
+Make no mistake, this would be no easy feat. It would involve billions of new users being onboarded by 2031. Then again, Bitcoin has already attracted hundreds of millions of users over the past 10 years.
+
+Unchained Capital’s Parker Lewis is among those with high hopes. He said: “I think that based on how Bitcoin has been adopted historically and based on the trillions of dollars that the Fed is going to have to print in the coming months to years, that it would potentially be conservative to say that Bitcoin’s a unit of account in 10 years.”
+
+Saifedean Ammous, author of The Bitcoin Standard: The Decentralized Alternative to Central Banking, was a little more conservative. He predicts it’ll take 16 years…or four more halving cycles.
+
+And Kraken’s Dan Held believes hyperbitcoinization is at least a decade away…unless fiat currencies suffer “rapid devaluation.”
+
+FUD of the Week
+
+Ethereum co-founder Vitalik Buterin has admitted that the long-awaited move to a proof-of-stake consensus mechanism is taking a lot longer than he anticipated.
+
+Speaking partly in Mandarin at a conference in Hong Kong, he said: “We thought it would take one year to do the proof-of-stake, but it actually takes six years. If you are doing a complex thing that you think will take a while, it’s actually very likely to take a lot more time.”
+
+Buterin added that there had been a number of internal team conflicts in the five years it has taken Ethereum to get to where it is today.
+
+“One of the biggest problems I’ve found with our project is not the technical problems — it’s problems related with people,” he said.
+
+The latest roadmap estimates that Eth2 may not have the kind of scalability that large-scale enterprise applications enjoy until late 2022.
+
+Google has lifted a three-year-old policy banning crypto exchanges from using its ad services.
+
+But the new policy won’t open the door to the vast majority of crypto institutions as “ads for initial coin offerings, DeFi trading protocols, or otherwise promoting the purchase, sale, or trade of cryptocurrencies or related products” all continue to be prohibited.
+
+Google’s policies around crypto ads have often been conflicting and, at points, experts have decried them as unfair.
+
+Expect a battle among the likes of Binance.US and FTX as they vie to carve out stateside market share.
+
+YouTube is not responsible for crypto-related scams posted on its platform, according to a recent court ruling.
+
+Apple co-founder Steve Wozniak failed to support his lawsuit against YouTube over an advert using his image to promote a fake Bitcoin giveaway.
+
+Santa Clara County Superior Court Judge Sunil Kulkarni said in a tentative ruling that YouTube and its parent firm Google are protected by Section 230 of the Communications Decency Act — a federal law shielding internet platforms from responsibility for content posted by users.
+
+Best Cointelegraph Features
+
+The latest events in China have pushed crypto miners to reevaluate domestic risk as they may now look toward international expansion.
+
+Regulatory hurdles and the economic impact of the pandemic have derailed some CBDC projects, but not all hope is lost.
+
+This is the story of Jay, who created a meme by buying a Lamborghini with Bitcoin. He went from poverty-level existence to a well-off lifestyle — but not without having to worry for his family’s safety.

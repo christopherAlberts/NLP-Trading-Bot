@@ -1,0 +1,75 @@
+Read Story Transcript
+
+Stefan Thomas is a bitcoin millionaire. Or, he would be if only he could remember his password.
+
+The San Francisco software developer and CEO was an early adopter of bitcoin. Back in 2011, he produced an animated video explaining how the digital currency works. For his efforts, a bitcoin enthusiast awarded him 7,002 bitcoins.
+
+Later that year, he lost the password to his IronKey, the USB hard drive that contains the digital wallet that holds his bitcoins. Since then, the currency's value has skyrocketed, and Thomas' holdings are worth $220 million US ($321 million Cdn.)
+
+The IronKey gives users 10 password guesses before it encrypts its contents permanently, and Thomas' bitcoin is lost forever. He has two guesses left.
+
+Here is part of his conversation with As It Happens host Carol Off.
+
+Stefan, how is it possible that one measly little password stands between you and hundreds of millions of dollars?
+
+Yeah, it's a really good question, isn't it?
+
+OK, this happens, right? We all know we lose our passwords. And so a little thing comes up when we're going to our bank or whatever [that says], "Did you forget your password?" And then you push it and then you go through a business of changing your password. So that's not available to you?
+
+No. Bitcoin is a decentralized system. And so if you hold your bitcoins, like I did, in a completely independent wallet — so not with an exchange, not with a bank, not with any kind of institution, but yourself — then it's just like cash. It's like gold. If you lose it, you lose it. There's no recovery process for that.
+
+Since then, a lot of people have come up with all kinds of clever solutions like, you know, metal wallets where you can put down your secret keys and things like that. But most of that didn't exist back then. Back then, you had to kind of come up with your own solution. And apparently I didn't do a very good job of that.
+
+I tried everything. I would stay up all night trying different ideas for how to recover it, or just, like, staring at the ceiling for hours. - Stefan Thomas, software developer
+
+We know that this has been a very good year for bitcoin. How many people do you think are not able to access their fortunes?
+
+In The New York Times article about this, they had an estimate, which was something like [$140 billion US ($178,258,500 Cdn) is] locked up in these wallets. And so you can imagine it's probably hundreds of thousands, if not millions of people, who are in my situation.
+
+But I think they said it was 20 per cent of all the bitcoin accounts are owned by people who can't access them [according to the cryptocurrency data firm Chainalysis].
+
+Yeah, I think a good chunk of that, especially, like, some of the larger ones, were very early wallets. So, you know, at the time, it might have been less money.
+
+In my case, it was $140,000 ($179,000 Cdn), which for me was a huge amount — like an incomprehensible amount, even then. But of course, you know, once you can't access it and the price goes up, the number just gets bigger and bigger.
+
+A visual representation of the cryptocurrency bitcoin (Dan Kitwood/Getty Images)
+
+So what is it like for you? I mean, how many sleepless nights do you have thinking about the fact that you have $200 million that you can't get at?
+
+After I realized I lost the coins, I was completely destroyed. Like, when I think back to that, it's hard to even wrap my head around how I felt that those couple of weeks.
+
+And I tried everything. I would stay up all night trying different ideas for how to recover it, or just, like, staring at the ceiling for hours. You know, just what you imagine you would do if you lost that sort of money.
+
+And then after a couple of weeks of that, I got to a point where I started to realize that the chances of recovery were not very good. And we'll get into, you know, what that last little glimmer of hope is in a moment.
+
+So I sort of had to make a decision, right? Like, either I let this define the rest of my life and I keep thinking back to it and I just, you know, like you said, lose sleep for the rest of my life, or I just, you know, face the fact that this money is gone, these bitcoins are gone, and I move forward and I get back to work. And I chose the latter.
+
+OK, so what's the last glimmer of hope?
+
+The famous USB stick with the 10 tries.
+
+There is a way to take a scanning electron microscope and take apart the physical chip and literally go into the the silicon chip and take away layer by layer, like a few atoms thick, and then read out the actual memory cells. And then with that technique, you should be able to bypass that limit of 10 tries, and then you can have a supercomputer try, you know, billions of passwords per second.
+
+Now, the problem is that, first of all, that requires a specialized laboratory. It's very expensive. Only a few people in the world can do it. And even then, it's kind of high risk. It could just fail, and then the chip is destroyed and you don't get a second try.
+
+Back then, it definitely wasn't worth it. I think now it probably is worth it. But it still requires a lot of organizing and logistics, and even then it's not guaranteed.
+
+Now that this has been in the news, I'm getting lots and lots of people reaching out, some of whom are the types of people who have access to that kind of equipment and the kind of expertise needed. And so I'm talking to them to see, you know, if we should attempt a recovery and, like, what it would cost, etcetera.
+
+So what happens? I mean, hundreds of millions of dollars are now sort of locked up ... Where does it go? Who gets it?
+
+Because I'm not selling those Bitcoins, that means that there's a little bit less supply in the market ... and so potentially the price is infinitesimally higher, right?
+
+Other holders, in theory, profit. Although you have to imagine, like because of this risk, maybe there are people that maybe don't invest in bitcoin because they're worried about this. And so maybe that kind of makes up for it and kind of that reduces the price. So, again, that's probably almost a better question for an economist to opine on.
+
+There are those who are saying that this now just belies the value of investing in this kind of bitcoin. For all the advantages it has, that you don't have to deal with institutions and governments, that obviously it has its pitfalls. And so are you one of those? Are you one of the people who think that maybe this kind of currency is not a good idea?
+
+This experience has definitely changed my opinion about bitcoin in terms of I was one of those people that was very excited about, you know, everyone can be their own bank and that sort of thing.
+
+I know there's lots of bitcoin experts listening right now saying that, "This could never happen to me!" But for me personally, like, I kind of was very humbled by that experience.
+
+Nowadays, my belief is that I think it's really nice that we live in a free country where we can have the choice and we can hold our own bitcoins if we want to. And I think that's a right that I would fight for preserving. There have been some discussions in the U.S. about maybe not allowing that in the future, and I think that's something I'm absolutely against.
+
+But at the same time, I think that as a practical matter, for most people, it's probably better to hold their bitcoins with a custodian, like an institution that specializes in securing and storing bitcoins.
+
+Written by Sheena Goodyear. Interview produced by Chloe Shantz-Hilkes. Q&A has been edited for length and clarity.

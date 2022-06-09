@@ -1,0 +1,17 @@
+Tesla to stop accepting Bitcoin for car payments
+
+Electric car maker Tesla will stop accepting Bitcoin as a payment, CEO Elon Musk tweeted on Wednesday, citing environmental concerns.
+
+“We are concerned about rapid increasing use of fossil fuels for Bitcoin mining and transactions, especially coal, which has the worst emissions of any fuel,” Musk said on Twitter. He added that cryptocurrency is a “good idea on many levels” but its promise cannot come at a “great cost to the environment.”
+
+Tesla, he added, won’t be selling any of the Bitcoin it owns.
+
+The price of bitcoin fell about 5% to $51,847 after Musk’s comments on Twitter. Tesla’s stock finished Wednesday down 4.4%.
+
+Tesla said in February that it had invested around $1.5 billion in Bitcoin and it planned to begin accepting the digital currency as payment “soon.” The fair market value of Tesla’s Bitcoin holdings as of March 31 was $2.48 billion, according to securities filings.
+
+Bitcoin relies on computers, which rely on electricity, to exist. The number of computers and the energy needed to power them is rising — the growing value of bitcoin is directly tied to the amount of energy it uses.
+
+Bitcoin miners unlock bitcoins by solving complex, unique puzzles. As the value of bitcoin goes up, the puzzles become increasingly more difficult, and it requires more computer power to solve them. Estimates on how much energy Bitcoin uses vary.
+
+A 2019 study by researchers at the Technical University of Munich and the Massachusetts Institute of Technology concluded that, in late 2018, the entire bitcoin network was responsible for up to 22.9 million tons of CO2 per year — similar to a large Western city or an entire developing country like Sri Lanka. Total global emissions of the greenhouse gas from the burning of fossil fuels were about 37 billion tons last year.

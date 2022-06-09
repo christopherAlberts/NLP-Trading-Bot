@@ -1,0 +1,95 @@
+Bitcoin (BTC) was higher for a second day, pushing toward the upper end of the range between roughly $30,000 and $36,000 where it has traded for the past couple weeks.
+
+Ether (ETH), the second-biggest cryptocurrency, rose toward a new record, potentially fueled by fresh interest in the blockchain’s decentralized trading systems amid widespread dismay over the retail-investing platform Robinhood’s handling of the GameStop (GME) saga. (See Token Watch, below.)
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+In traditional markets, European and Asian shares rose and U.S. stock futures pointed toward a higher open amid renewed optimism for economic stimulus and the distribution of coronavirus vaccines. GameStop shares lost nearly a third of their value on Monday following last week’s 400% short squeeze.
+
+Silver, whose price had shot up to an eight-year high after a series of posts on Reddit’s WallStreetBets forum calling for a “short squeeze,” tumbled as some commenters pushed back against the narrative; precious-metals analysts for the lenders HSBC and Commerzbank warned the rally would be hard to sustain. Gold weakened 0.6% to $1,849 an ounce.
+
+Market Moves
+
+As rising populism coincides with lower employment levels, the Federal Reserve may choose to let the economy run hot rather than try to taper its $120 billion-a-month of bond purchases. Source: Bank of America
+
+With the coronavirus vaccine distribution well underway, Wall Street analysts are sketching out what the economy might look like as 2021 unfolds and social-distancing measures recede.
+
+The short answer is that activity is set to heat up, which could also provide the first real test of the hidden inflationary pressures that might have built up over the past year. Whatever happens will likely prove crucial for the bitcoin market because the cryptocurrency has become one of the most popular ways for big investors to bet on the likelihood of rising prices or dollar debasement.
+
+The U.S. Congressional Budget Office projected on Monday that gross domestic product will expand by 3.7% this year, after a 2.5% contraction in 2020. But Bank of America, the second-biggest U.S. lender, is even more optimistic, recently boosting its forecast for this year’s growth to 6%, from 4.5% at the start of the year.
+
+A key question for the inflation watchers, of course, is just how much stimulus money will be pumped into the economy by the U.S. government and the Federal Reserve.
+
+President Joe Biden has proposed a $1.9 trillion stimulus bill, but a group of senators from the opposition Republican party on Monday released details of a $618 billion proposal they argue is more appropriate. Bank of America’s analysts assume the package will end up around $1 trillion.
+
+Why it matters is that as Americans start to get out and about, a surge in consumer spending looks likely. The Bank of America analysts estimate there’s already some $1.6 trillion of excess savings that might start to trickle into the economy.
+
+“The jolt from stimulus, the support of excess savings and the green light from lower virus cases should unleash pent-up consumer spending,” the Bank of America economists wrote. “Stronger growth means a lower unemployment rate and greater inflation pressure.”
+
+That outlook raises the question of how the Fed might respond, with Fed Chair Jerome Powell stating last week that it’s “too early to be talking about dates“ for tapering the central bank’s $120-billion-a-month of bond purchases – funded via printing more money – that are currently ongoing to provide stimulus to financial markets.
+
+By the middle of this year, if the economy is recovering quickly Powell and his colleagues might find it harder to characterize any talk of tapering as still too soon. Because these are typically well-telegraphed affairs, the actual tapering might start six to seven months after that. Call it early 2022.
+
+“We believe the Fed will have difficulty justifying persistently large asset purchases in the face of a sustainable decrease in [COVID-19] cases, economic overheating, and frothy asset prices,” according to Bank of America.
+
+On the other hand, the Fed might flinch.
+
+“We can envision a scenario whereby the Fed signals an intention to taper/starts tapering, markets react negatively, and the Fed finds that they need to continue purchasing or extend the duration of their purchases in order to preserve market functioning,” according to Bank of America.
+
+It’s that latter scenario – or even just the prospect of it – that might drive bitcoin prices a lot higher. Based on the reluctance of central bankers to withdraw stimulus, not to mention the market lurches late last year when a new U.S. stimulus bill seemed in doubt, the scenario isn’t all that implausible.
+
+– Bradley Keoun
+
+Bitcoin Watch
+
+Bitcoin and U.S. Dollar Index daily charts. Source: TradingView/CoinDesk
+
+Bitcoin’s ongoing range play between $30,000 and $40,000 could end with a bullish breakout as demand from investors continues to outstrip new supplies of the cryptocurrency.
+
+In 2021 so far, around 26,000 new bitcoins have been produced by miners on the Bitcoin blockchain, data provider Glassnode said in a weekly report. Yet, in the same period, the Grayscale Bitcoin Trust has acquired over 40,000 BTC. (Grayscale is a CoinDesk sister company.)
+
+In another bullish indicator, the number of coins held on exchange addresses continues to slide, interpreted as a sign of waning interest from sellers. The balance of bitcoin held across all exchanges fell to a 2.5-year low of 2,349,040 on Monday, according to Glassnode.
+
+On the bearish side, a stronger dollar could play spoilsport to any push higher. The U.S. Dollar Index (DXY), which tracks the greenback’s value against major currencies, is looking north, with price charts showing a major bullish pattern known an “inverse head-and-shoulders breakout.”
+
+“If a bullish trend develops from DXY’s latest breakout, it could be a problem for bitcoin,” trader and analyst Alex Kruger told CoinDesk.
+
+– Omkar Godbole
+
+Read More: Bullish Bitcoin Fundamentals Point to Renewed Price Rally Ahead
+
+Token Watch
+
+Monthly decentralized exchange volume since January 2019. Source: Dune Analytics, CoinGecko, CoinDesk Research
+
+The spillover to digital markets from the past week’s GameStop saga has taken on a new form: Soaring demand for digital tokens associated with cryptocurrency exchanges and the arcane but fast-growing arena of decentralized finance, known as DeFi, which could provide an alternative to Wall Street and traditional trading platforms.
+
+“It seems investors are looking for the next trade to cycle through,” Matt Blom, head of sales and trading for the cryptocurrency exchange firm EQUOS, wrote Tuesday in a note to clients.
+
+The exchange Binance’s in-house BNB token hit a new all-time high on Monday, just days after rival FTX’s FTT token logged a new record, CoinDesk’s Muyao Shen reported.
+
+Prices have also hit new highs for tokens from decentralized exchanges, which are essentially just automated, blockchain-based software protocols that can be used to trade digital assets. Uniswap’s UNI and SushiSwap’s SUSHI both saw big price jumps – a dynamic that might reflect retail investors’ growing concerns with centralized trading platforms amid widespread anger over Robinhood’s trading suspensions last week. Trading volumes on the decentralized exchanges,, hit a record above $50 billion in January, CoinDesk’s Zack Voell reported.
+
+Ether, the native blockchain of the Ethereum blockchain, where much of the DeFi development is taking place, has pushed back toward a record high above $1,400.
+
+“Decentralized trading, decentralized lending, decentralized insurance, decentralized everything starts to make a lot more sense in light of what is happening today in the traditional financial system,” Jeff Dorman, chief investment officer of the cryptocurrency-focused Arca Funds, wrote Monday in his weekly newsletter.
+
+What's Hot
+
+“It’s pretty obvious that the WSB traders are applying the same principles of the digital/CryptoAsset world to the stock market and they are loving the fact that the old schoolers are hating it,” billionaire Mark Cuban writes in a blog post. (CoinDesk)
+
+Coinbase has reportedly tapped Nasdaq for its planned direct listing, according to The Block. Existing Coinbase investors have already been trading shares through Nasdaq’s Private Market platform, where the company has notched an implied valuation of $50 billion.
+
+Winklevosses’ Gemini crypto exchange inks partnership with crypto lender Genesis to give customers option to earn up to 7.4% annual interest on holdings, CoinDesk’s Nathan DiCamillo reported. The new offering aims to lure away customers turned off by “anemic” interest rates from traditional banks, Gemini COO Noah Perlman said. According to DiCamillo, the annual yield is consistent with what’s typically seen among centralized crypto lenders but pales in comparison to yield farming interest rates in decentralized finance (DeFi), which are much higher but more erratic. (Genesis is another CoinDesk sister company.)
+
+OKEx announces plans to integrate Lightning Network in Q1. (OKEx via Twitter)
+
+Analogs
+
+The latest on the economy and traditional finance
+
+Robinhood has raised $3.4 billion from investors over the past several days, CoinDesk’s Danny Nelson reported. The online trading platform’s backers are apparently looking past the blowback from Robinhood’s trading suspensions amid the peak of the runup in prices for GameStop, AMC and other “meme stocks.” CFO Jason Warnick said the cash infusion will help Robinhood “scale to meet the incredible growth we’ve seen and demand for our platform.” Robinhood CEO Vlad Tenev is expected to testify before the U.S. House of Representatives’ financial-services committee on Feb. 18, CoinDesk’s Sebastian Sinclair reported.
+
+Even before the pandemic hit, global debt was at a far higher level than before the financial crisis of 2008, according to the International Monetary Fund. The figure reached $197 trillion at the end of 2019, for a debt-to-GDP ratio of 226%, according to an International Monetary Fund blog post on Monday. That compares with a ratio of 193% in 2007. But because of unusually accommodative monetary policies (i.e., interest rates set at close to zero or even negative levels), the average debt expense as a share of revenue was 0.3 percentage points lower in 2019, according to the IMF. With U.S. government debt alone rising by about $4 trillion to about $27 trillion, the year-end 2020 numbers are likely to look a lot uglier.
+
+IMF chart shows how public and private debt levels rose during the 2008 financial crisis and never returned to their prior levels, even before the pandemic hit in late 2019. Source: IMF

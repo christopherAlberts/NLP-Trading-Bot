@@ -1,0 +1,205 @@
+No one knows what will happen with Bitcoin. Not the skeptics, not the believers, not even Satoshi Nakamoto. There is no crystal ball. Many of the sharpest minds in crypto embrace that uncertainty, broadly agreeing that we just don’t know. And perhaps that’s part of the allure. “Most of the biggest use cases 10 years from now will be things that would sound insane to us today,” says Elizabeth Stark, who, as the head of Lightning Labs, is quite literally trying to build the Bitcoin network’s future. “Kind of like how an encyclopedia that anyone can edit would have sounded crazy to people in the pre-Wikipedia era.”
+
+What will the bitcoin cryptocurrency be when it grows up? Andreas Antonopoulos, an undisputed Ambassador of Bitcoin, thinks it’s unlikely to be any one singular thing. “There is no unified use case,” he says. “The idea that bitcoin will be used as a store of value or that bitcoin will be used as a medium of exchange or that bitcoin will be used in a myriad of other ways – bitcoin is used in all of those ways, in different places.”
+
+His point is that bitcoin is already working in the real world in a variety of actual scenarios, and it will continue to do so in ways we cannot predict. “The more broadly it’s deployed, the more fragmented and diffused its uses become,” he says, rightly challenging the very premise of this thought experiment.
+
+Related: Are Beeple's $6.6M Sale and Christie's Auction a Turning Point for NFTs?
+
+Fair enough. It’s a good caveat. And this is all preamble to say that these scenarios are not meant to be mutually exclusive, they are not exhaustive and they are certain to spark dissent and debate. But given the renewed mainstream interest in bitcoin – which is impossible, of course, to untangle from its explosive bull run – this felt like a good moment to pause, reflect and consider a range of potential outcomes. Bitcoin is a forward-looking idea. There are some who cherish what bitcoin can do today, but most of its champions point to what it might do tomorrow.
+
+Story continues
+
+So what will tomorrow look like? Specifically, how about 2030? We chose that year as it’s far enough in the future to allow time for meaningful change, but still near enough to visualize if you squint. I spoke to a gamut of sharp Bitcoiners to explore a range of 12 potential scenarios, good and bad, from cataclysmic failure to “the moon” or even Mars.
+
+Scenario 1: Bitcoin thrives as digital gold
+
+The simplest scenario. Peter McCormack, host of the podcast “What Bitcoin Did,” considers this the “trends continue” scenario. “It’s pretty much a certainty or very much a high probability,” he predicts. “Bitcoin really just carries on what it’s doing, more people adopt it and the network grows in value.” We’d see bitcoin in pension funds, bitcoin in sovereign wealth funds, and potentially bitcoin on government balance sheets. Bitcoin’s market cap eclipses that of gold.
+
+But price is only part of the story. Isaiah Jackson, author of “Bitcoin & Black America,” suggests that in this scenario, bitcoin can help narrow the wealth gap. “25% of the Black community is unbanked in the U.S.,” says Jackson, adding that when money is stashed under the mattress, lower-income communities are disproportionately hurt by inflation. “Inflation is not borne evenly,” he says. “Inflation kills. Literally.” This is why Jackson hosts regular webinars with Black financial groups, spreading a message of financial empowerment through Bitcoin.
+
+Related: 3 US Regulators Probing Robinhood's Actions Amid GameStop Trading Craze
+
+See also: Bitcoin Bull Run: OGs on Why This One’s Different
+
+Alex Gladstein, chief strategy officer of the Human Rights Foundation, believes this scenario alone would be a win. Today there are 130 million account holders of bitcoin, and he thinks that by 2030 the total could swell to 1 billion. “People think that for bitcoin to succeed you have to buy a cup of coffee with it,” says Gladstein. “That’s a misconception. You do not need to buy coffee with bitcoin for it to succeed.”
+
+Scenario 2: Bitcoin is strangled by regulation
+
+Bearish
+
+Nigeria and India are cracking down on bitcoin. What if the rest of the world does the same? Jason Williams, author of “Hard Money You Can’t F**k With: Why Bitcoin Will Be the Next Global Reserve Currency,” argues that when countries have tried to put the kibosh on cryptocurrencies, it never really sticks. “When India outlaws crypto, you just go to another country,” he says. The world is fluid and it’s easy to bring your crypto business elsewhere.
+
+“Prohibitions do not work,” says Jackson, who thinks that if bitcoin is banned in the U.S., for example, that would “make it even more scarce,” potentially causing an increase in demand and therefore price. (See also: 1920s-era Prohibition or the War on Drugs.)
+
+And yet. Perhaps it’s true that regulatory attempts by individual nations are doomed to backfire, but there is one specific scenario that gives even Williams, a mega-bull, a moment of pause.
+
+“Unified global regulation,” he says. “That’s the greatest risk.” If the world leaders gather to create a unified policy on crypto – like the Paris Climate Agreement – and all agree to smack it down with draconian measures, then that impact could be devastating. “But that’s going to be really difficult,” says Williams, because even when the world tries to work together it’s tough to get on the same page, to get buy-in from all the key parties or to get consistent follow-through. (See also: The Paris Climate Agreement.)
+
+Scenario 3: Bitcoin becomes the internet’s reserve currency
+
+Bullish
+
+This is something of a compromise scenario. “A lot of people have a hard time wrapping their head around bitcoin becoming the global reserve currency,” says Anthony Pompliano, or “Pomp,” as he’s widely known in crypto circles, adding, “But they see it as a much more viable path to simply be the reserve currency of the internet.”
+
+When you buy anything over the internet, says Pomp, from a user experience the underlying currency doesn’t really make a difference. You click a button. Or you scan a QR code. The currency is irrelevant. “Whether it’s dollars, RMB or bitcoin or anything else, it’s still the same user experience,” says Pomp, adding that the internet has less “transaction friction,” but that’s not necessarily the case in the analog world. Clicking to buy a book on Amazon is one thing; buying a slice of pizza is something else.
+
+So bitcoin could evolve into the internet’s natural currency. “When you use something that has finite settlement like bitcoin, it allows for geographic-agnostic commerce in a digital environment,” Pomp says. That would give local merchants some added upside: global customers. Since most merchants are already pivoting to reach a more global audience, Pomp says embracing bitcoin would help them “skate where the puck is going.”
+
+Scenario 4: The ‘two bitcoin problem’
+
+Bearish
+
+Human Rights Foundation’s Gladstein thinks the odds of governments banning crypto are slim but he acknowledges there’s a more “clever way for governments to fight bitcoin.” In this scenario, governments stop short of an outright prohibition but instead prevent people from using the exchanges. More specifically, they block users from withdrawing their funds.
+
+“I think this is the most salient and plausible attack,” says Gladstein. Imagine this new reality: United States users are unable to access their BTC in Coinbase.
+
+“It basically bifurcates bitcoin into the bitcoin that is held by custodians that are trusted by the government – like PayPal or Coinbase – and then all of the loose, free bitcoin, which becomes black market bitcoin.” Now the Black Market Bitcoin could have a higher value than the Frozen Bitcoin in the exchanges. Would this sort of ban be even legal? Constitutional? TBD. Gladstein still thinks this scenario to be unlikely, particularly given the inevitable legal challenges and all of the lobbying efforts on behalf of the blockchain community, but he considers it the “most feasible challenge to the dream of bitcoin.”
+
+Scenario 5: The tax man cometh
+
+Bearish
+
+This is the “lightest touch” the government could do to curb the use of bitcoin, says Gladstein. But even a light touch could be crippling. Let’s say, for example, that U.S. citizens are forced to pay unrealized capital gains on bitcoin. Treasury Secretary Janet Yellen has floated the idea of an unrealized capital gains tax, so the idea has at least a tie to reality.
+
+Such a tax would be gutting to all bitcoin HODLers, who patiently wait for their bitcoin to moon. And it might prevent the Teslas and Squares and MicroStrategys of the world from parking cash in bitcoin because suddenly they would bleed taxes. If this happens, their exodus from bitcoin could trigger a market crash, breed “FUD” on steroids and cause a systemic plunge in confidence.
+
+See also: Mark Cuban on Bitcoin, NFTs and What Comes Next: ‘The Upside Is Truly Unlimited’
+
+Bitcoin is valuable because people believe it is valuable; the inverse could also be true. In this scenario, the gold defenders and bitcoin skeptics like Peter Schiff – who once said that bitcoin is a “fool’s gold and anybody buying it is ultimately a fool” – could at long last be vindicated.
+
+Gladstein considers it a long shot. Such a tax would be “contested vigorously by the private sector and by individuals who own bitcoin,” he says, adding that by some estimates more than 10% of Americans own BTC. “This is a democracy,” he says. “You’re going to have this small but loud minority of people pestering congressmen across the nation to not do such a thing.”
+
+He notes that the political winds are blowing in the other direction – towards being more bitcoin friendly – such as the mayor of Miami’s desire for the city to be a hub for crypto. States can be competitive. If Miami becomes a crypto haven, then Gladstein thinks it’s more likely other cities would loosen their regulations, not stiffen them. He adds that even in the bleakest scenario where the U.S. does decide to “go to the dark ages” with punitive taxation, then people might emigrate to other countries with friendlier environments. He says “They’ll go to frickin’ Singapore or Taiwan or Norway.”
+
+Perhaps. Then again, governments do plenty of things that don’t make a ton of sense. Counting on “rational actors” to prevail seems less than an ironclad certainty.
+
+Scenario 6: Bitcoin is used to buy cups of coffee
+
+Bullish
+
+Most agree that for bitcoin to succeed as digital cash, it must first succeed as digital gold. That’s a prerequisite. And it’s true that bitcoin is already used as a medium of exchange for cross-country payments, remittances and in nations with deeply troubled currencies. Andreas Antonopoulos personally uses bitcoin on a weekly basis to pay web designers and translators in different countries, and says that it’s being used by “hundreds of thousands of people all around the world.”
+
+But by any measure, bitcoin still only represents a tiny slice of the world’s transactions for goods or services. Will that change by 2030? How likely is it that much of the world will be using bitcoin itself, as someone once wrote, for day-to-day transactions as a “peer-to-peer version of electronic cash”?
+
+It’s complicated.
+
+Most of the biggest use cases 10 years from now will be things that would sound insane to us today.
+
+On the one hand, Gladstein says that in 2030 the transaction fees of sending bitcoin (on the base layer) are likely to be exorbitant. They almost need to be. Otherwise, the miners won’t mine. “Over the next century, fees will become a bigger and bigger chunk of what the miners make,” he predicts, because the halving rewards diminish over time, and will approach zero in the year 2140, when the mining is complete. “I would say that by 2030 the main blockchain would be very expensive to use. I’d be surprised if you can make a payment on the main bitcoin blockchain for anything less than $100.”
+
+Then there’s the old stubborn issue of price volatility. Raoul Pal, the former Goldman Sachs exec who now heads Real Vision Group, considers this a material impediment to spending bitcoin. Pal suspects that by 2030 the price volatility of bitcoin will have moderated, but not quite enough to make it an appealing choice to use for ordering a bagel.
+
+On a volatility scale of 1 to 100 – where a bond is a 3 or a 4, and the stock market is in the ballpark of 20 to 30 – Pal pegs the current bitcoin volatility at a 70, and thinks it will decline to a 30 in the next decade. An improvement, yes, but still problematic. “As a merchant, if I run a business, if I accept bitcoin, it’s a f**king nightmare,” says Pal. “Because it goes up and down by the time we account for it in the balance sheet, [as much as] 20%, 50% in a month. I can’t model a business on that.”
+
+But here’s the catch. While most agree that using bitcoin (as we view it today) to buy a round of beers in 2030 might be a stretch, they see this next scenario as far more promising.
+
+Scenario 7: Bitcoin powers DeFi and lightning-quick transactions
+
+Bullish
+
+Enter the Lightning Network. “Most users won’t even know they’re using Bitcoin and Lightning, much like users of the internet don’t know they’re using TCP/IP,” predicts Elizabeth Stark. What’s the technology you use to text a photo to your friend? I have no idea. But it works. Stark thinks money will function in the same way, with bitcoin as the foundation. “Bitcoin can be the protocol that underpins transacting on the internet, from cross-border payments to payments embedded in chat apps to gaming to supporting artists and creators,” she explains.
+
+Pomp agrees, suggesting that bitcoin as digital cash might be something of a “barbell” use case – as in offering value at the extremes. (Quick context: a barbell investment strategy is one where a portfolio contains a mix of extremely safe assets and volatile speculative assets … with not much in the middle.) He says that people tend to focus on the “middle ground” of transactions in the $20 to $50 range, but where bitcoin can shine is at both the largest and the tiniest transactions. Need to send $20 million to Zurich, to close a business deal? Then bitcoin is the cheapest way to do it. Need to send a buddy a nickel, in the world’s stingiest birthday present? As Pomp says, “You can send a penny for free over the Lightning Network.”
+
+Gladstein views this kind of layered solution as the latest chapter in a much longer economic story. “Money has always scaled in layers,” he says. “Think about when we lived during the Gold Standard. People didn’t walk around with gold in their pockets.” Instead, our wallets were filled with paper IOUs for gold. That was one layer. More layers soon followed. “You can do only so many transactions in gold, and way more transactions with cash. And then more transactions still with credit cards,” Gladstein explains.
+
+This is what he thinks might happen with bitcoin in the next decade. As bitcoin continues to scale, because there are only seven transactions per second at the base layer, Gladstein expects those to be “big, fat, meaningful transactions in the future, like a giant container ship.” Each of those containers (base layer transactions) could contain a million tiny transactions. “You and I could spend a whole year interacting on the lightning network, without cashing out on the main chain,” he says.
+
+And how, exactly, does the dawn of decentralized finance (DeFi) figure into all of this? Does DeFi come to bitcoin, or does bitcoin go to DeFi? Pomp is quick to point out that bitcoin is DeFi. “Bitcoin is the OG of decentralized finance,” he says. “It is decentralized money.” He feels confident that bitcoin and the current soup of DeFi projects (like decentralized mortgages, buying securities, getting a loan) will eventually somehow merge, even if the exact relationship is still TBD. “Will bitcoin be brought to these other blockchains – like wrapped BTC, or tBTC – or instead will we simply have decentralized infrastructure that is built around bitcoin? As of right now, we don’t know.”
+
+See also: What Is Bitcoin?
+
+Pal agrees that we can’t know how it will shake out, and says that to some extent … it doesn’t really matter. “It’s almost irrelevant where bitcoin fits into that [DeFi] architecture,” says Pal. “They’ll figure out ways to move bitcoin across chains. You and I won’t care.” Channeling Stark’s logic, he compares it to the internet. On our Zoom call he laughs and motions to the screen. “I don’t know what computer you’re using. We have different email systems. We’re on this Zoom. No one knows how any of this works. But you just click a button, and Jeff’s there.”
+
+Or maybe you don’t even need to click a button. In this future of bitcoin-infused micro-payments and decentralized wonder, everyday transactions could be automated. Money will easily flow. “Why do you only get paid every two weeks?” asks Pomp. “Why do you not get paid at the end of the day, every day? Why do you not get paid every hour? It’s a technology problem.”
+
+Automated or streaming payments – with bitcoin as the foundation – could allow a fluid stream of payments into your bank account, taking “direct deposit” to the next level. That’s just one example. Another: “Machines will pay machines, natively, instantly,” predicts Stark. “Teslas will pay for charging with Lightning! (Looking at you, Elon, as it’s already possible today.)”
+
+Scenario 8: Doomsday: The network somehow breaks
+
+#Rekd
+
+Bitcoin has never been hacked. The network is bulletproof. Bitcoin is safer than your bank. These are common arguments for bitcoin. Security is one of its bedrock principles. If that security is compromised?
+
+It could be game over, with Peter Schiff having the last laugh.
+
+A Black Swan failure could take a few different forms: a 51% attack, an assault by quantum computing, or some kind of network glitch or failure that we haven’t even dreamt of – what Donald Rumsfeld once called the “unknown unknowns.”
+
+The bitcoin enthusiasts, perhaps unsurprisingly, consider this possible but unlikely. “The cost involved – and not just the cost, but the feasibility – of acquiring enough mining equipment for a company or a government to take over, and destroy or manipulate the bitcoin blockchain, is extraordinary,” says Gladstein. He argues that on top of the princely cost (at least $5 billion), the mining equipment itself takes time to manufacture, and that all of this equipment is currently sold out through the summer. There’s a global shortage of semiconductor chips. So Gladstein thinks that “the idea that you’re going to produce enough bitcoin mining equipment to f**k with the network is unlikely.”
+
+As for hacks by quantum computing? “I think that is an amazing intellectual exercise that is rooted in nearly zero percent of reality,” says Pomp. His reasoning: “As the offensive malicious technology capability increases, so does the defensive technological ability, as well. In cryptography, it’s a cat and mouse game.” Besides, says Pomp, if you happen to have access to a quantum computer, “this is probably not the first thing you would attack” as you would destroy its value and not reap the benefits, and therefore you’d choose a target with more upside.
+
+Maybe. But others outside the blockchain space aren’t as certain. An analysis from Deloitte, titled “Quantum Computers and the Bitcoin Blockchain,” noted that in its present form, yes, it’s true that quantum computing is incapable of hacking bitcoin … but that could change.
+
+If you happen to have access to a quantum computer, this is probably not the first thing you would attack.
+
+“Current scientific estimations predict that a quantum computer will take about eight hours to break an RSA key, and some specific calculations predict that a bitcoin signature could be hacked within 30 minutes. This means that bitcoin should be, in principle, resistant to quantum attacks,” explains the report. “However … If a quantum computer will ever get closer to the 10 minutes mark to derive a private key from its public key, then the bitcoin blockchain will be inherently broken.”
+
+Google now has a quantum computer. And while it’s possible and perhaps even probable that bitcoin developers – alert to the threat – will develop clever patches and workarounds, it’s also true that Google’s CEO, Sundar Pichai, said at the Davos World Economic Forum, “In a five to 10 year time frame, quantum computing will break encryption as we know it today.”
+
+Scenario 9: The Grand Flippening: Bitcoin topples fiat
+
+Cartoonishly Bullish
+
+Could bitcoin topple fiat by 2030, supplanting it as the world’s go-to currency?
+
+I’m only including this scenario as a reality check. Virtually everyone I spoke to – including the bulliest of the bitcoin bulls – considers this extremely unlikely. You’ll be hard-pressed to find a more impassioned bitcoin bull than Jason Williams, whose Twitter handle is @GoingParabolic. He is confident bitcoin will eventually become a global reserve currency, and says, “It’s really easy for me to see a bitcoin of $1 million to $1.5 million by 2028, and I think it’s really easy for me to see a $5 million bitcoin by 2030,” but even Williams doesn’t see bitcoin completely replacing fiat by 2030.
+
+Fiat is likely here to stay, at least in some capacity. “In our lifetime, meaning for the next 60 to 100 years, I think there will always be fiat currency, and always corporate money,” says Gladstein. “I do think governments will always be able to issue debt and have fiat currency,” but he adds that as bitcoin gains in prominence, “their ability to control the world will be less.”
+
+Scenario 10: The bitcoin betrayal
+
+(Bullish or Bearish, depending on your point of view)
+
+Andreas Antonopoulos, who speaks passionately and eloquently on bitcoin’s power to bank the unbanked and improve the lives of real people around the globe, takes exception to what is often considered to be “mainstream” adoption. “The ‘mainstream’ is almost this Western caricature, of Karen shopping at Macy’s with her Visa card,” he says. “But that’s not the mainstream. That’s actually a very tiny [group of] the privileged elite on this planet.”
+
+The way Antonopoulos sees it, only 13% of the human population lives under liberal democracies with a stable or reserve currency system. (He cites Alex Gladstein for these stats.) Antonopoulos’ core message: The “other 87%” is the mainstream. “This is all about the other 6 billion,” he says. “That is the mainstream. That is the mainstream of humanity, and the mainstream of humanity has needs for currency that go far beyond speculation.”
+
+So for Antonopoulos, the most chilling scenario is that in an effort to curry favor with the 13% – Wall Street, Elon Musk, JPMorgan, Western speculators and investors – bitcoin betrays the larger 87%. “I think the biggest risk is that we accept compromise on the fundamental principles of decentralization, neutrality and censorship resistance, in order to approach the very, very small minority that we tend to call the mainstream,” says Antonopoulos. Specifically, this would mean swallowing tighter know your customer and anti-money laundering regulation that makes it more burdensome for the unbanked to use, which would “gentrify bitcoin” and, as Antonopoulos puts it, “turn it into a pretty vanilla caricature of its cypherpunk origins.”
+
+He envisions a slippery slope. (And you could argue this has already started.) The compromises might begin with what sounds like harmless KYC regulation, but they could then threaten that most sacred of bitcoin principles: scarcity. What if the miners – through regulations or black-listing or incentives – are coaxed to tweak the supply of bitcoin, to alter that holy figure of 21 million?
+
+“The miners, in my opinion, will be asked to ‘fix’ the bitcoin supply,” he theorizes. This wouldn’t happen explicitly. They wouldn’t dare change 21 million to 42 million. But maybe something sneakier? Perhaps the miners would be nudged, Hey, all of those BTC that Satoshi hasn’t moved in years … those are wasted, so let’s put them back into circulation. Any bitcoin that we think has been lost … let’s put that back into circulation.
+
+Even in the scenario of a Bitcoin Betrayal, however, Antonopoulos is optimistic about the overall future and power of bitcoin’s ideals. “They can co-opt and undermine and compromise what we call bitcoin today, but in that case, the fundamental idea will be rebuilt under the same name or a different name,” he says, because “no one has the moral authority to deny access to the world economy to billions of people.”
+
+In the end, Antonopoulos thinks that maybe “they’ll try to put a suit and tie on it, but ultimately they’ll fail.”
+
+Scenario 11: The IMF creates a bitcoin competitor
+
+Bearish
+
+After musing through the various bearish scenarios that he doesn’t consider all that convincing, Pal cracks a sly smile. “Here’s an outside the box thought,” he says.
+
+Then he whips up a new scenario.
+
+To start with, what if the International Monetary Fund creates a global digital currency? That’s not a new idea. So far, not so alarming. And what if this global currency is a basket of national currencies? This is also not a new idea, and it’s also something the IMF has already considered. But then he adds a twist: Each nation is only allowed to join the basket if they agree to limit their monetary printing to 2% per year. This would suddenly create a comeback to what is arguably bitcoin’s most precious quality: Scarcity.
+
+“Something like that is very interesting,” says Pal. “This doesn’t mean it would get rid of bitcoin, but it would make its adoption less needed.” The way Pal sees it, the bitcoin idealists might cite the more philosophical merits of cryptocurrency – decentralized, open access to all, unyoked to governments or banks – but for many, the real appeal is in its scarcity. “The real world is, ‘I just want to pay my bills, receive income. I want to trade with people. Idealism doesn’t run my business and doesn’t pay for my mortgage.’” For this large block of bitcoin enthusiasts, Pal reasons, what matters is the scarcity. So the IMF could try and create its own scarcity.
+
+This would suddenly create a comeback to what is arguably bitcoin’s most precious quality: Scarcity.
+
+How likely does Pal view this scenario? The answer surprises me.
+
+“My guess is, pretty high,” Pal says.
+
+He walks through his logic: The IMF knows it has a money-printing problem, “and that is causing a flight of assets into other areas, and it’s creating an unstable system.” So if the IMF has the ability to create a coin that builds in future scarcity – stealing a page from bitcoin’s own playbook – why not try it?
+
+Pal clarifies that he’s not aware of the IMF having any plans to create such a Global Scarcity Coin, that it would be unlikely to happen anytime soon, and he hasn’t heard of the IMF even suggesting a 2% printing cap. He seems to have invented the idea on the fly.
+
+So if some sharp, go-getting young IMF analyst happens to read this article, gets inspired and then floats the idea to her boss, who brings it to her boss’ boss and then before long the IMF creates a prototype version of this idea? And then if the IMF actually implements a Global Scarcity Coin, and it rivals bitcoin and obliterates hundreds of billions of dollars in market value, causing millions of HODLers to go broke? My bad, that’s on me.
+
+And since we can’t end things on that note, in a final quick scenario…
+
+Scenario 12: The Bitcoin Martians
+
+Bullish
+
+Bitcoin going “to the moon” is so 2017. Isaiah Jackson has his eyes on a juicier prize. “I think that in 2030, we will have a spacecraft on Mars and they’ll carry out a crypto-transaction via satellite,” he predicts.
+
+He’s not joking. Jackson notes that the world’s foremost aspiring Mars colonizer, Elon Musk, is now a vocal bitcoin bull. (Sort of. Musk recently tweeted that bitcoin is “almost as BS as fiat money,” but that “the key word is ‘almost.’”) If Musk succeeds at bringing humans to Mars, reasons Jackson, and if they create some kind of new community, “they’re not going to pay in cash. Ever.” He adds that Blockstream has the infrastructure in place for satellite payments, so you can literally use bitcoin in space.
+
+“2030. Spacecraft on Mars, sending crypto back to Earth,” says Jackson, chuckling a bit. “I’m calling it now.”
+
+Related Stories

@@ -1,0 +1,33 @@
+We may receive payment from affiliate links included within this content. Our affiliate partners do not influence our editorial opinions or analysis. To learn more, see our Advertiser Disclosure.
+
+Nothing fires the imagination like an anonymous hero with a secret identity. It’s been an enduring trope since the Scarlet Pimpernel rescued his first aristocrat from Madame la Guillotine. From Batman to the street artist Banksy, each hero has his own reason for donning the mask of anonymity.
+
+This phenomenon has come to the world of finance in the person of Satoshi Nakamoto, the so-called father of Bitcoin. He appeared out of the ether in 2008 and disappeared just as abruptly three years later, after establishing the world’s first cryptocurrency. On April 23, 2011, he sent a farewell email to a fellow Bitcoin developer. “I’ve moved on to other things,” he wrote, assuring that the future of Bitcoin was “in good hands.” He has not been heard from since.
+
+Today, Bitcoin is valued at more than $1 trillion, and while Nakamoto’s identity might be simply a matter of speculation for some, it means far more to others: He is said to own over 1 million Bitcoins with a current value hovering somewhere around $60 billion. That’s equivalent to about 5 percent of the total number of bitcoins currently in circulation.
+
+Should the person—or persons—behind the name Satoshi Nakamoto decide to sell just some of this hoard, the transaction would completely upend the cryptocurrency market. Cryptocurrency trading platform Coinbase, which went public on the Nasdaq on April 14, noted the potential revelation of Nakamoto’s identity (and the movement of that person’s Bitcoin holdings) as a risk factor in its IPO filing with the Securities and Exchange Commission (SEC). Coinbase even went so far as to send a copy of the filing to the last known email address for Nakamoto.
+
+Increasingly, financial services behemoths like BlackRock, JPMorgan and BNY Mellon are offering cryptocurrencies and related services to their customers, adding legitimacy to an asset that Berkshire Hathaway’s Charlie Munger once characterized as “contrary to the interests of civilization.”
+
+Bitcoin came to life when Nakamoto published his famous white paper on a cryptography mailing list describing a digital currency that would allow secure, peer-to-peer transactions without the involvement of any middleman, whether that be the government, financial system or a company. These transactions would be tracked through a blockchain, a ledger like those used by any financial institution, except that this ledger would be distributed across an entire network, with exact duplicates held by all participants and visible to all, secured by cryptographic means. There would never be more than 21 million Bitcoin.
+
+Nakamoto created his cryptocurrency with the goal of wresting control of currency from financial elites and putting it in the hands of the common man. The first Bitcoin transaction occurred when Nakamoto sent 10 Bitcoins to Hal Finney, a well-known developer who had downloaded the Bitcoin software on its release date. The first commercial transaction came in 2010, when a programmer named Laszlo Hanyecz bought himself two Papa John’s pizzas for 10,000 Bitcoin. At Bitcoin’s current price of nearly $60,000, those were some very expensive pizzas.
+
+Bitcoin is open source, meaning its design is public. No one person owns or controls Bitcoin, and anyone can participate. While Satoshi continued to control Bitcoin’s development, users and developers congregated in Bitcoin forums to contribute code and work on the project, which had become a collaborative effort. The users running the Bitcoin software were the ultimate authority.
+
+Many programmers and developers have written code for Bitcoin, but Gavin Andresen was one of the most enthusiastic. He reached out to Nakamoto in 2010 and became the founder’s right-hand man. When Nakamoto withdrew from sight, he left Bitcoin in Andresen’s hands. Today, even Andresen himself has grown more reclusive: He no longer serves as “core maintainer” of Bitcoin’s code; in fact, that role may soon become as decentralized as the cryptocurrency itself.
+
+Throughout the history of Bitcoin, efforts to unveil Nakamoto have continued unabated. Gossips in cryptocurrency forums have engaged in wild speculation: Nakamoto is a member of the Yakuza, part of a cabal of developers, a money-launderer or maybe even a woman.
+
+In 2014, a reporter from Newsweek identified 70-year-old Dorian Nakamoto, a soft-spoken resident of Los Angeles, as Bitcoin’s creator. While his long and distinguished career in engineering was cited as evidence, Nakamoto has vehemently denied any involvement with the cryptocurrency. The day after Dorian Nakamoto released a public statement, Satoshi surfaced in an online forum. He posted “I am not Dorian Nakamoto” before vanishing once again.
+
+Australian Craig Wright claimed to be Nakamoto in 2016, and Bitcoin developer Andresen corroborated the statement, saying he was “98 percent sure” that Wright was the elusive Satoshi. The cryptocurrency community wasn’t having it, and Wright backed away from the claim.
+
+Suspicion also fell upon Nick Szabo, a secretive crypto expert who contributed significantly to the development of Bitcoin. Linguistic researchers analyzed Szabo’s writing as well as writing from other suspected Satoshis. The linguists claimed that there were definitive similarities between Szabo’s writings and Satoshi Nakamoto’s. The New York Times even went so far as to pin Szabo as the shadowy Nakamoto, but Szabo strenuously denied the claims.
+
+The upshot is that Satoshi Nakamoto remains anonymous, a mythical creature with a Bitcoin stash of epic proportions. He has strong incentives to remain anonymous. Owning a $60 billion fortune makes personal security a compelling concern. Given Bitcoin’s potential to challenge sovereign fiat currencies, Nakomoto could fear potential legal actions by governments—if not other forms of government sanction.
+
+Unquestionably, efforts to uncover the identity of Satoshi Nakamoto will continue. The threat he poses to the cryptocurrency market is too great and the mystery surrounding his identity is too compelling. In a world where anonymity is increasingly difficult to pursue, Satoshi Nakamoto has succeeded beyond imagination in keeping his secrets.
+
+Rebecca Baldridge, CFA, is an investment professional and financial writer with over 20 years of experience in the financial services industry. She is a founding partner in Quartet Communications, a financial communications and content creation firm.

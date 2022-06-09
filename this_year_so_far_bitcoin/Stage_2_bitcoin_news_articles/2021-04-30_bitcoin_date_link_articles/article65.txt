@@ -1,0 +1,37 @@
+Interoperability May Be The Single Biggest Threat to Ethereum’s Dominance
+
+While it may still be the primary network hub for defi activities, smart contracts, and NFTs, bridges built using competing networks like Tezos could pose a serious challenge to Ethereum’s market share in these areas.
+
+New Solutions to Old Problems Could Undermine Network’s Potency
+
+In the time since the network’s unveiling, Ethereum-killers have abounded with claims that they would displace the network with faster transactions, more scalability, lower fees, and effectively do just about everything better.
+
+Despite all the hype surrounding these answers to Ethereum’s flaws, no network has been able to displace the network’s appeal in totality. Yet, Ethereum’s deficiencies are currently coming under attack from all sides, and more so than ever before.
+
+The recently unveiled WRAP Protocol from Bender Labs is one of several arrows that could seriously maim Ethereum’s status. This highly interoperable decentralized protocol will enable the transformation and transfer of Ethereum tokens, including ERC-20 and ERC-721 standards, to the Tezos blockchain.
+
+Ethereum tokens are effectively locked on the blockchain through this protocol before a “wrapped” version is created on the corresponding network, in this case, Tezos. The wrapped version’s underlying value is tied to the actual token being copied, using the $WRAP native token to orchestrate the transformation. All wrapped Ethereum tokens are then compatible with Tezos’ FA2 standard, allowing them to be freely used within the network.
+
+A Serious Challenge to the Status Quo
+
+While defeating Ethereum isn’t Bender Labs stated objective, the idea of building a more open, interoperable decentralized financial system does challenge the network’s dominance, especially in Defi and smart contracts.
+
+This new protocol’s “bridge” will empower token holders to move freely between the two ecosystems with minimal switching costs, providing a greater abundance of choice while granting users the opportunity to vote with their feet.
+
+Given that Tezos now boasts a much more affordable ecosystem for developers and users relative to Ethereum, thanks to its proof-of-stake consensus, this newfound ability to seamlessly migrate between chains represents a severe threat. Moreover, the self-upgradeable nature of Tezos means that future adjustments to the network to are much easier to implement relative to Ethereum’s drawn-out upgrade process.
+
+An Unpredictable Adoption Path
+
+Surging fees on Ethereum that are difficult to predict reliably already present the needed catalyst for an exodus of developers and users. The attraction of Tezos’ lower transaction costs with no demonstrable changes in user experience is difficult to deny.
+
+However, though it may appear like an Ethereum-killer in certain respects, WRAP protocol might have the opposite effect over the long term. By giving users a near-frictionless method to move between ecosystems, Ethereum might actually benefit from expanded use.
+
+How? Quite simply, if defi becomes more competitive and smart contract use expands, the two networks will likely compete for demand as each continually upgrades and innovates to attract participation. If resulting innovation sends costs tumbling, it will invite even greater participation from users and developers alike, effectively expanding the universe of crypto users instead of splitting it down the middle.
+
+Though talks of Ethereum’s imminent demise will proliferate, WRAP Protocol is still a serious shot across the bow that might have short-term consequences for the network, even with Ethereum’s forward-looking potential.
+
+Do you think the harsh competition against Ethereum hurts the network or makes it stronger? Let us know in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

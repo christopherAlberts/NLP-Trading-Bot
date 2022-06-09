@@ -1,0 +1,15 @@
+Bitcoin miners generated more than $56 million on average per day in April 2021, making it the industry’s second strongest month ever.
+
+The Bitcoin mining industry saw its second strongest month ever in April 2021, generating total revenue of $1,702,531,320, or $56,751,044 per day on average, as a spike in transaction fees helped make up for slight downward pressure on price.
+
+Total miner revenue per day in the month of April 2021.
+
+The strong total revenue figures can be partially attributed to the fall in hash rate that occurred earlier in the month, slowing the pace at which blocks were mined, leading to increasingly competitive (and expensive) transaction fees.
+
+Three-month view of the mempool.Percent miner revenue from fees (seven-day moving average).
+
+The month of April was an excellent example of the set of economic incentives built into the protocol. A significant portion of the hash rate came offline earlier in the month, slowing blocks and increasing fees for settlement on the blockchain. The rise in fees created an increasing economic incentive to sell hash rate to the Bitcoin network while block times were coming in slow.
+
+The Bitcoin network is more robust than ever, and total miner revenue is just one metric to quantify this empirical reality.
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.

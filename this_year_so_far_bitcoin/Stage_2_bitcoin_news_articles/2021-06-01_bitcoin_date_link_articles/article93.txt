@@ -1,0 +1,15 @@
+© Reuters. Bitcoin’s average transaction fee drops to lowest levels since January
+
+The average transaction fee of the network has dropped to very low levels, thanks to regulatory uncertainty in China. According to blockchain analytics site BitInfoCharts, the average Bitcoin transaction fee has dropped to a low of $7. The last time fees were this low was in January.
+
+For some context, the Bitcoin network charges a fee for every transaction. This fee is then distributed to miners. Users often pay more when the network is congested and the demand for processing transactions is more than the supply of miners. On April 21, the average transaction fee of the Bitcoin network rose to a record high of $62.8 per transaction.
+
+While the low transaction fees are worth celebrating, it suggests that “Bitcoiners” are not very transferring their assets like they were a month ago. This may not be unconnected with the recent market crash, which sent the price of Bitcoin down from around $50,000 to $30,000 in a few days. The price of Bitcoin is yet to recover and is currently trading at $36,500, a 43% drop from its all-time high value.
+
+Another possible explanation for the drop in fees is that Bitcoin miners are not skeptical and losing interest in processing transactions. When this happens, the mining difficulty, which is the amount of computing power required to validate a Bitcoin transaction drops. Reports have it Bitcoin’s mining difficulty fell by 16% on Sunday, representing its sharpest decline in over a year. Furthermore, BTC mining becomes relatively easier when the overall hash rate drops.
+
+As reported by BTC PEERS, the government of China, a country that controlled more than 65% of Bitcoin’s mining hash rate as of April 2020, recently announced that it would crack down on Bitcoin mining and trading, a disclosure that sent the entire crypto industry into panic mode. In response, several China-based miners are either looking to migrate to more crypto-friendly regions or sell their mining rigs. Furthermore, the Iranian government has also suspended all Bitcoin mining activities until September 22.
+
+Meanwhile, fees are also cooling off along with the general crypto market. As of press time, the average transaction fee of the Ethereum network was $5.85 after reaching a peak value of $69.92 on May 12, 2021.
+
+Continue reading on BTC Peers

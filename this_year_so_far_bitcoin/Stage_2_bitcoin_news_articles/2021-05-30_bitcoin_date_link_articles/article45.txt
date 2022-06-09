@@ -1,0 +1,101 @@
+It’s important to understand the tax consequences of cryptocurrency and blockchain. From cryptocurrency compliance to NFT, we explain what you need to know in this week’s Insights Roundup.
+
+But first, some background. In 2014, I was following a story about an alleged online black market known as Silk Road, where buyers and sellers conducted all transactions with bitcoin. It was the first time that I had heard about cryptocurrency, and I was fascinated as agents from IRS Criminal Investigation explained it to me.
+
+Today, you can’t pick up a newspaper or click on a website without hearing a reference to cryptocurrency and blockchain. The market cap for cryptocurrency is reportedly over $1.7 trillion, with the most valuable being Bitcoin.
+
+
+
+The embossed word Bitcoin sits on the edge of Bitcoins stacked in this arranged photograph in Danbury, U.K. Photographer: Chris Ratcliffe/Bloomberg via Getty Images
+
+Bitcoin is a digital currency, meaning that instead of a coin that you can hold in your hand, it’s essentially a computer file. You can save it in your digital wallet on your computer, use it to buy goods or services, or exchange it for other digital currencies, or cash, using a platform. What makes it so attractive is that each of these transactions is memorialized on the blockchain.
+
+Think of blockchain like a ledger: That’s something that those of us in the tax and accounting worlds are familiar with using. But instead of recording your ledger items on a paper or a computer spreadsheet, with blockchain, you hold information, or data, in blocks. That data includes the time and sequence of the transactions—just like your manual ledger entries would.
+
+When those blocks are filled, they don’t disappear: They attach to a new block, creating a chain. The whole sequence is referred to as the blockchain. Thanks to technology, the chains irrevocably link together, so that you can’t easily delete or alter them.
+
+When you buy or trade Bitcoin on its blockchain, that transaction is recorded. And since Bitcoin’s blockchain is decentralized, other users can watch as transactions occur. When a transaction happens, every computer on the network notes the change. That transparency is part of the appeal.
+
+But don’t confuse transparency with making your information public. Users can see the transactions, but not necessarily identify the persons making the transactions. That’s because you use a code—called a public key—to record the transactions on the blockchain, and not your name or other personal details.
+
+The complexity of blockchain—and the speed at which transactions can occur without a middleman—has made determining the tax consequences tricky. The IRS didn’t even offer guidance to taxpayers on how to treat Bitcoin—and other virtual currency—for federal income tax purposes until 2014. The IRS eventually weighed in that Bitcoin and other cryptocurrencies are considered capital assets.
+
+Now, more industries are watching how Bitcoin uses blockchain and considering how that technology could be used outside of digital currency. We’re already seeing that happen with non-fungible tokens, or NFTs. That adds yet another layer of complexity.
+
+What does this mean for tax professionals? Clearly, there’s a lot to consider, from tax compliance strategies to tax planning.
+
+Quick Numbers Trivia
+
+Currencies are usually divisible into smaller units. For example, dollars can be broken down into quarters, dimes, nickels, and pennies, with pennies being the smallest. What is the smallest unit of Bitcoin called?
+
+(Answer at the bottom.)
+
+
+
+Our Roundup
+
+In this photo illustration of the Litecoin, Ripple, and Ethereum cryptocurrency “altcoins” sit arranged for a photograph on April 25, 2018 in London, England. Photo by Jack Taylor/Getty Images
+
+The IRS has made no secret of the fact that it believes taxpayers aren’t properly reporting cryptocurrency transactions. Now, putting a question about cryptocurrency transactions at the top of Form 1040 indicates that it is a compliance priority for the IRS. David Zaslowsky and Scott Frewing of Baker McKenzie looked at the disparate ways that the various U.S. government agencies define cryptocurrency, as well as efforts by the IRS to increase the revenue stream to the government from cryptocurrency transactions in The IRS Is Aggressively Pursuing Taxes on Cryptocurrency Transactions—Part 1. In Part 2, the authors look at other enforcement efforts by the IRS, as well as reporting and withholding obligations that might come to the fore based on past IRS enforcement activity.
+
+You can find out more about the IRS’ cryptocurrency FAQ, the Common Reporting Standard, and cryptocurrency compliance in thisTaxgirl podcast episode. Wendy Walker, solution principal at Sovos Compliance, shares what you need to know.
+
+Thanks to blockchain, the “next big thing” is NFTs. But just because NFTs are new doesn’t mean that the IRS will not be paying attention. In How Are Non-Fungible Tokens (NFTs) Taxed?, Shehan Chandrasekera of CoinTracker outlines how NFTs are treated for tax purposes, what records need to be kept, and what forms will need to be filed.
+
+Cryptocurrency isn’t the only tax item that has tax professionals scratching their heads these days. The Biden administration has proposed changes to both the federal estate tax rate and the exemption—and that has some wondering about next steps. In Estate Planning for Proposed Tax Changes: Valuation Guidance for Privately Held Businesses, Mark Zyla of Zyla Valuation Advisors LLC explains what the owners of privately held businesses need to know to transfer those businesses to their heirs and minimize the value of transferred interests for tax purposes.
+
+You can find out more about wealth planning considerations under the Biden proposal in this episode of Talking Tax. Bloomberg Tax reporter Allyson Versprille talks with Brad Dillon, a senior wealth strategist at UBS Group AG in New York City, about what the plan could mean for estates.
+
+When we think about how we can make companies better, boosting technology shouldn’t be the only goal. Derrick Coleman of Creative Financial Staffing, an affiliate of GHJ, writes that organizations should approach diversity with the same mindset as they would to find efficiencies or new target markets. A diverse workforce, including the C-suite, is good for both the culture and bottom line of an organization, he says, and shares how you can make it happen in How to Grow and Maintain Diverse Hiring Practices Post-Pandemic.
+
+Write for Us
+
+Bloomberg Tax Insights articles are written by tax professionals offering expert analysis on current issues in tax practice and policy, tax trends and topics, and tax and accounting firm practice and management. If you have an interesting, never-published article for publication, we’d love to hear about it. You can contact our Insights team by emailing TaxInsights@bloombergindustry.com.
+
+Beyond Tax
+
+One of the dangers of collecting data—on a spreadsheet or in the blockchain—is whether collection and custody of the data are allowed. Employers may want to collect applicants’ and employees’ diversity information for tracking purposes, but such efforts are grounds for potential litigation involving data privacy violations and discrimination claims outside the U.S. Faegre Drinker attorneys Erika C. Collins and Ryan H. Hutzler examine Pitfalls for U.S. Businesses Collecting Diversity Data Abroad.
+
+Spotlight
+
+This week’s spotlight is on Jessalyn Dean, an American who has lived and worked in the U.S., Australia, India, Ireland, and now the Netherlands. She is a tax consultant who helps businesses interpret, implement, and automate tax transparency regulations—also known as operational taxes—like 1099/1042-S, QI, FATCA, CRS, and DAC6. You can find out more about Jessalyn— and how to make a nomination—in our first of the series.
+
+
+
+Student Writing Competition
+
+Think you have the “write” stuff for Bloomberg Tax Insights? We’re excited about our inaugural Bloomberg Tax Insights writing competition, intended to highlight the very best of student writing.
+
+Run with Us
+
+Ready to blow off some steam after a long (long) tax season? Bloomberg Tax is challenging you to a virtual 5k. Run as fast as you want—or take a walk just to enjoy the fresh air—and earn a cool medal. And since #TaxTwitter loves its waffles, pancakes, and other breakfast foods, we’re paying it forward by donating the proceeds to World Central Kitchen to fight hunger. You can sign up here.
+
+Quick Numbers Answer
+
+It’s called a Satoshi. And 100,000,000 Satoshi = 1 BTC. That means, currently, 1 Satoshi = USD $0.0003871248, or, in reverse $1 USD = 2,585 Satoshi.
+
+Satoshi was named after the bitcoin founder, Satoshi Nakamoto.
+
+
+
+A neon sign reads, “We are Satoshi Nakamoto,” a reference to the unknown creator of Bitcoin, at the entrance of the Foxbit International office in Sao Paulo, Brazil. Photographer: Patricia Monteiro/Bloomberg via Getty Images
+
+Exclusive Content for Bloomberg Tax Subscribers
+
+
+
+As the IRS makes cryptocurrency a priority item, tax professionals need to know how to respond on behalf of their clients. Our IRS Response Letter for Letter 6174 - Reporting Virtual Currency Transactions, can steer you in the right direction. You can find a response letter, together with Sample IRS letters (Letter 6173, Letter 6174, and Letter 6174-A), together with other resources and links to analysis here.
+
+*Note: Your Bloomberg Tax login will be required to read IRS Response Letters, Letter 6174 - Reporting Virtual Currency Transactions.
+
+
+
+More Great Tax Content
+
+This is a weekend roundup of Bloomberg Tax Insights, written by practitioners and featuring expert analysis on current issues in tax practice and policy. For a full archive of articles, browse by jurisdiction at Daily Tax Report, Daily Tax Report: State, Daily Tax Report: International, Transfer Pricing Report, and Financial Accounting.
+
+You can also follow Bloomberg Tax on Twitter, Facebook, and LinkedIn.
+
+What Did You Think?
+
+We hope you’re enjoying the new format—and the new look—of Weekend Insights. We’d love to hear what you think. Here’s our email: TaxInsights@bloombergindustry.com.

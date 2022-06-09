@@ -1,0 +1,47 @@
+June 3, 2021 3 min read
+
+This story originally appeared on Due
+
+
+
+Theft and human error are the greatest risks to bitcoin and cryptocurrency holders. There are many benefits to using Bitcoin just as long as you keep your private keys secure. Transactions are irreversible which makes it very difficult to recoup lost funds.
+
+For those who are new to crypto, here are three simple steps to keep your bitcoin safe…
+
+#1: Use Cold Storage
+
+Cold storage means isolating your private keys from the internet by keeping them offline. This can be done by creating a paper wallet or using a hardware wallet. If done properly, private keys sitting on cold storage are un-hackable.
+
+The simplest and most convenient way to store your coins is to use a hardware wallet like Trezor and Ledger. These wallets will give you all the ease of a web wallet combined with the security of cold storage.
+
+#2: Minimize Counterparty Risk
+
+Most coin losses are the result of exchanges getting hacked or mismanaging money. Exchanges are useful for trading coins but you need to be mindful of the risk. It’s important to not use exchanges as a bank or a permanent way to store your private keys.
+
+In the event that you need to buy or sell coins on an exchange, you can reduce the risk by breaking it up into multiple transactions. Diversifying amongst several exchanges can also help reduce counterparty risk.
+
+#3: Use Strong Passwords
+
+When opening any cryptocurrency related accounts you want to make sure to use strong and unique passwords. Most people make the mistake of using the same simple passwords on multiple accounts. Your passwords should be at least 16 characters long with a combination of numbers, letters, capitals and symbols. It’s important to not reuse any of your passwords or store unencrypted digital copies of them.
+
+#4: Use Two Factor Authentication
+
+Anytime you open up an account on an exchange it’s important to activate two-factor authentication (2FA) in the security settings. 2FA generates a secondary password on your phone or device every time you log into your account. In the event that a hacker gets a hold of your password they also need physical access to your phone as well.
+
+Google Authenticator is the most common 2FA application used and it will allow you to activate it by scanning a QR code. Alternatively, if you don’t own a smart phone you can usually activate 2FA by giving a phone number and you’ll receive a code through text messaging.
+
+#5: Double Check Addresses
+
+When sending or receiving coins you always want to double check that you’re sending to the right address. Bitcoin accidents can be very costly so take your time and make triple sure when sending money.
+
+It’s also important that you check webpage addresses because there are many scam sites that try to steal bitcoin. Sometimes a scam site can look exactly like a company site, except they change one small detail on the web address. Be suspicious of any emails or social media accounts that try to solicit money from you.
+
+Conclusion
+
+Bitcoin transactions are irreversible and should be treated like digital cash. Not protecting your private keys is equivalent to leaving a wallet full of cash lying around in a public place.
+
+Cryptocurrencies give individuals more control over their money but with freedom comes greater responsibility. Learning new security habits may seem daunting at first but they’ll quickly become second nature.
+
+The internet has become an important part of our daily routines and in the information age security is paramount.
+
+The post 5 Steps to Keep Your Bitcoin Safe appeared first on Due.

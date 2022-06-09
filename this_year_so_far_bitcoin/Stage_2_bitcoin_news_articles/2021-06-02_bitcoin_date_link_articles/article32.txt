@@ -1,0 +1,57 @@
+Cryptocurrencies have been considered a niche investment since their conception in 2009. Even after the crazy bull run of 2017, when people were trying to buy bitcoins at the very top, big players never took them seriously. The institutional line of thought on cryptocurrencies was that they are just speculative assets without any substantial value.
+
+However, since last year, things have changed quite drastically. The coronavirus economic crisis showed us how fragile our current monetary system really is. This pushed both retail and institutional investors to turn towards Bitcoin as a sound store of value to hedge against the upcoming hyperinflation.
+
+As such, Bitcoin and alternative cryptocurrencies are now considered to be useful financial tools for everyone, and not for just die-hard fans supporting the technology behind them.
+
+In this article, we will lay out the effects the Bitcoin revolution has had on economic development and the financial world as a whole. To this end, we need to explore some of the main benefits of blockchain technology and some of its macro and micro applications that lead to a more efficient financial ecosystem.
+
+Introduction to blockchain and Bitcoin
+
+Bitcoin was created in 2009, by the mysterious Satoshi Nakamoto. The goal of the original cryptocurrency was to become a digital peer-to-peer payment network, accessible to all and without the need for any intermediaries.
+
+Bitcoin was the first global currency that wasn’t issued by any central bank or government. Instead, it relies upon a mathematical process called mining, where millions of computers participate in a decentralized network to provide the needed power to mint new coins.
+
+This decentralization was made possible through a distributed ledger technology called the blockchain. Bitcoins and other cryptocurrencies do not exist in any physical shape or form. Instead, they are just transaction data recorded on the public ledger, which makes them virtually impossible to duplicate or falsify.
+
+These transactions are organized in blocks of data and chained together through cryptography - hence the name blockchain.
+
+The main characteristics and benefits of Bitcoin
+
+The decentralized nature of blockchain has brought a wide array of benefits to mankind in various sectors. However, finances were disrupted the most, thanks to some of the inherent properties of bitcoin and the advantages they bring, including:
+
+Capped maximum supply
+
+Unlike traditional currencies, there is actually a limit to how many Bitcoin can come into circulation. This maximum supply is fixed to 21 million Bitcoins, with 18.6 million coins already circulating on the markets.
+
+As such, bitcoin ensures increased scarcity over time. This is in contrast to FIAT money that can be printed whenever governments see fit. Just recently, governments responded to the COVID19 crisis by printing trillions of dollars and injecting them into the current financial system.
+
+This diluted the value of money already in the hands of the people or in their savings accounts. Bitcoin prevents this due to its deflationary design, as fewer coins can be created over time thanks to the reward halving mechanism.
+
+The increased scarcity has played a crucial role in the price of bitcoin which has increased exponentially since its release.
+
+Global financial inclusion
+
+Thanks to their decentralized nature, blockchains are permissionless networks, where anyone with internet access can take part.
+
+This way, people in regions with poor banking systems and prone to hyperinflation can still access the growing internet economy.
+
+Furthermore, the decentralized finance ecosystem provides advanced financial products to anyone across the globe. As such, third-world country investors can access lending, staking, and interest accounts thanks to blockchain technology.
+
+Cheap and fast remittance
+
+International money transfers are extremely slow, especially if we consider that they are mere pieces of data traveling across the internet. Even so, a money transfer from one country to another can take as long as 5 days, with multiple intermediaries charging commissions in between.
+
+Blockchain technology solves this issue by allowing fast and cost-effective international remittance. Transactions are done peer-to-peer, avoiding any kind of third-party cost. At the same time, a Bitcoin transfer takes only a few minutes compared to hours or days needed for a SWIFT transfer.
+
+Flexible store of value
+
+Finally, one of the most crucial benefits of Bitcoin is its flexibility compared to traditional store-of-value commodities. Bitcoin is infinitely easier to transport, store and send overseas in contrast to, gold, which is bulky and heavy.
+
+This advantage has been widely appreciated during the lockdowns caused by the pandemic. People could easily transfer Bitcoin to each other and convert it into usable assets, unlike precious metals or bonds, for instance.
+
+Conclusion
+
+Since its inception, Bitcoin has managed to jumpstart an entire industry thanks to the numerous benefits of the blockchain technology it’s built upon.
+
+The success of cryptocurrencies is undeniable. We are bound to see them play a crucial role in the shaping of the global economy in the upcoming years.

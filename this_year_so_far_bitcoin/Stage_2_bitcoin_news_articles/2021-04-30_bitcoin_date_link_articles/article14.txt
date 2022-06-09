@@ -1,0 +1,53 @@
+By Keegan Francis
+
+What is Bitcoin?
+
+Bitcoin is baffling to some, and scary to others, but it shouldn’t be either.
+
+One reason may be the huge price swings over its 12-year history, another being the language used to describe it.
+
+So let’s break it down. Broadly speaking, Bitcoin is three things. It’s money, a network, and a blockchain.
+
+Bitcoin is money
+
+Essentially, Bitcoin is money that can be sent and received directly between people on the internet. In this sense, Bitcoin works a lot like cash, as transactions take place solely between two people, without the need for intermediaries.
+
+Unlike paper cash, though, governments can’t print it at will.
+
+There is a finite number of Bitcoin and that number is 21 million.
+
+Each Bitcoin can be subdivided into 100 million pieces called Satoshis (after the thought-to-be founder of Bitcoin Satoshi Nakamoto). Just like dollars are made up of cents, Bitcoins are made up of Satoshis.
+
+Bitcoin is also a network
+
+Bitcoin is supported by a vast network of computers. Each computer in the Bitcoin Network records and validates every transaction and every computer is responsible for checking the work of every other computer. This ensures that no fraudulent transactions take place. Since there is no central authority governing Bitcoin, this system of checking and double checking is required in order for the system to function correctly.
+
+Bitcoin is a blockchain
+
+The Bitcoin Blockchain is the record of each and every transaction that has taken place on the network, like a digital ledger book made up of page after page or block after block of data.
+
+Every computer keeps the exact same copy of the ledger book and updates it as pages are added. The book is the blockchain, the pages the blocks.
+
+Each page is filled with transactions. Imagine the computers in the network as hundreds of thousands of accountants copying and checking each other's work, then sealing it. The result is a system that makes it very difficult to cheat, and pretty much impossible to fool everyone else.
+
+How is Bitcoin created?
+
+Around the world, a new page of transactions is created about every 10 minutes through a process called mining. It involves building these pages or blocks and securing them with an encrypted key.
+
+With each new block added to the blockchain, a new amount of Bitcoin is released into circulation. When the network began in 2009, this number was 50 Bitcoin every 10 minutes. Every four years, the number of Bitcoin released with each block decreased by half. As it stands in 2021, there are 6.25 new Bitcoin created every 10 minutes.
+
+Why you might want Bitcoin
+
+There are several reasons. First, it’s a way to store of value. It is for this reason that the city of Miami is converting a portion of its cash reserves into Bitcoin. Tesla the electric car company has also converted seven per cent of their cash reserves into Bitcoin. The reasons cited for doing this is to preserve the buying power of their cash reserves
+
+As central banks all over the world print trillions of dollars, many are left to wonder what effect this will have on their cash savings. Bitcoin has a ceiling of 21 million coins. The policy is written in code, and enforced through the mining process.
+
+The second reason to hold some assets in Bitcoin is that it is an internet based currency. As it stands, if you are transferring money across borders using our current banking infrastructure, you will incur time delays and hefty fees. With Bitcoin, you can transfer any amount of money, anywhere in the world (that has internet) in 10 minutes or less.
+
+A downside is that the same system that allows an immigrating family to easily transfer money can also help tax dodgers or criminals to hide it.
+
+Bitcoin is here to stay
+
+Exchanges like QuadrigaCX have gone bust costing investors millions. Yet big players, like Tesla, are buying into Bitcoin. What’s the lesson here? Crypto currencies are useful. They're risky, too. But there’s also risk in standing on the sidelines. Just like the internet in 1990, Bitcoin is in its infancy. One thing for certain is it’s likely here to stay.
+
+Keegan Francis is co-founder of Atlantic Blockchain.

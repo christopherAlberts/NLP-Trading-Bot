@@ -1,0 +1,37 @@
+DTH Photo Illustration. Many UNC Students have been researching Bitcoin to decide if they should invest into it.
+
+Cryptocurrency — the new infatuation of every finance hipster who has already tried all the craft IPAs in their area.
+
+You may have heard of cryptos like Dogecoin, Bitcoin, Ethereum or any of the roughly 4,900 others. But what do they do? How do they work? And should you get in on the action?
+
+In short, they’re fancy, publicly available, decentralized ways to transfer wealth. And no, they’re much too volatile and illiquid to be a sound investment or currency right now.
+
+To begin, let’s go way back in time to when we used to trade gold coins. Those things got pretty heavy and jangled a bunch, so people would leave them with an agent, who essentially functioned as a bank. The agent would issue a note that said how many coins the person had. They could then use this note to make transactions, with the agent holding the liability of the payment.
+
+This was a robust system, as the note guaranteed direct payment of gold coins to whoever held them. This gold-backed money was used across the world until the early 1900s. Then, governments needed to allow economies to quickly expand, so the gold standard was abandoned for fiat currency.
+
+Fiat currency, which we use today, obtains its value based upon the power of the issuing government rather than a piece of gold. The dollars in your pocket are worth nothing tangible, but instead are worth the “value” of trust in the U.S. as a country.
+
+Now, onto cryptocurrencies.
+
+Each cryptocurrency relies on a “blockchain” specific to that crypto. This blockchain is a list of every single transaction made with that digital coin. The payments are ledgered into “blocks” that are joined together (hence the term “blockchain”) and are stored on a huge network of computers across the globe. This makes up a system that is exceedingly secure, fast and independent of any central bank. The value of the coin is then based upon what people want to trade it at, and the system is assured of security by the blockchain.
+
+So essentially, every transaction made is recorded. These records are enjambed together in the blocks, keeping a record of every payment, which is then recorded on every single computer in the bitcoin network. Think of a very large, public Venmo feed.
+
+But if cryptocurrencies are so forward-thinking, why haven’t we all switched over to them?
+
+Liquidity is the first issue. Liquidity is how easy it is to acquire and use a currency. Currently, the U.S. dollar is liquid to the tune of $19.68 trillion. But the amount of Bitcoin (the most liquid cryptocurrency) ready to be utilized is only 4.2 million coins — around $260 billion U.S. dollars’ worth of liquidity. This makes cryptocurrencies illiquid by comparison — a major risk for anyone who wants to be able to use them, as there might not be enough in circulation at one time to carry out a purchase.
+
+Second, cryptocurrencies are highly volatile. With no central bank managing the flow of the coins, wild price swings can occur on a whim. That’s not what you want in a currency. Imagine if a dollar bought you a candy bar one day, a house the next and then an apple, all in quick succession. That’s the danger of a highly volatile currency.
+
+Bitcoin has been highly volatile. In comparison to the S&P 500, Bitcoin has generated 11 times more volatility over the past five years. That’s not something you want in a currency or in a long-term investment.
+
+There’s also no good way to manage this volatility risk of cryptocurrencies. Almost all goods, stocks and currencies have derivatives where bets are placed on the future price movements of goods to hedge risk. Everything from corn to the Turkish lira has these derivatives, which assure proper price discovery, lessen risk and create institutional buy-in.
+
+Cryptocurrencies have nothing of the sort. Any existing hedging products for them have many issues and are still in the baby steps of being created. With this unprotected risk, there is no institutional buy-in, and there is no reason for a normal investor to become involved in crypto.
+
+So, my advice? Stay away from cryptocurrencies until volatility decreases, liquidity increases and robust crypto derivatives markets are created. That way any investment into cryptocurrencies you make can be properly hedged against the risk presented, and you’re not just buying in for the hype.
+
+@chief__goon
+
+opinion@dailytarheel.com

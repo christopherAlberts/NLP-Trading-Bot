@@ -1,0 +1,23 @@
+China’s crypto mining operations may be set for stricter supervision in the future, with the Government reportedly concerned about the energy consumption of Bitcoin mining in particular.
+
+Beijing sent an “emergency notice” to conduct checks on data centres involved in Bitcoin and other cryptocurrency mining operations on April 27, which was reportedly met with some panic in China.
+
+However Chinese columnist Colin Wu or Wu Blockchain on Twitter, was quick to downplay fears of how this could impact Chinese Bitcoin miners in the short term, noting that:
+
+“This caused some panic in China. However, the Chinese government said it was only conducting an investigation. Data centers are difficult to use for Bitcoin mining, and are mainly used for ETH Filecoin.”
+
+According to Chinese state media PengPai (accessed via translation), the “emergency notice” was routine work for the Beijing Municipal Bureau of Economy and Information Technology, as it seeks to account for a clearer picture of the energy consumption from the mining operations of Beijing-based data centers.
+
+It has yet to be revealed if the checks will be carried out on a national scale, or what the future ramifications could be. However, according to PengPai, Yu Jianing, the rotating chairman of the Blockchain Committee of the China Communications Industry Association, it's a sign of things to come. He believes that “under the background of carbon neutrality, the future blockchain mining will indeed have stricter supervision.”
+
+This notion holds up when looking at Inner Mongolia for reference — which will no longer be a mining hub. Crypto miners have been given until the end of April to shut down operations after China recently banned crypto mining in the area in order to meet its new carbon-reduction goals.
+
+China’s 14th “five year plan” outlines a set of targets which include an 18% reduction target for “CO2 intensity” and 13.5% reduction target for “energy intensity” from 2021 to 2025.
+
+Beijing is not known as a crypto mining hub as its electricity prices are higher than other regions, which may mean other hubs such as Xinjiang and Sichuan are targeted in the future.
+
+Data from the Cambridge Bitcoin Energy Consumption Index or CBECI, estimates Xinjiang accounted for 35% of China’s Bitcoin hashing power in April, and accounted for roughly 23% of the world’s hash rate.
+
+More stringent mining conditions could have global effects, with some believing Bitcoin's sharp crash to $50,000 earlier this month was in part a result of Xinjiang's drop in hashrate due to power outages around April 17.
+
+Popular crypto Analyst Willy Woo speculated a “whale with closer knowledge to happenings in China,” sold off before mining pools were temporarily shut down, citing a transfer of 9000 Bitcoins to Binance on April 16.

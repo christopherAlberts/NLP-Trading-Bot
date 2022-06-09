@@ -1,0 +1,29 @@
+A representation of virtual currency Bitcoin is seen in front of a stock graph in this illustration taken March 15, 2021. REUTERS/Dado Ruvic/File Photo
+
+Bitcoin, the world’s biggest cryptocurrency, fell as much as 14% to $51,541 on Sunday, reversing most of the big gains it made over the past week.
+
+Bitcoin was last trading down 10% at $53,991 as of 1320 GMT, a whopping $12,000 below record highs set on Wednesday. Smaller rival Ether , the coin linked to the ethereum blockchain network, dropped 10% to $2,101.
+
+Data website CoinMarketCap cited a blackout in China’s Xinjiang region, which reportedly powers a lot of bitcoin mining, for the selloff.
+
+Luke Sully, CEO at digital asset treasury specialist Ledgermatic, said in an email that people "may have sold on the news of the power outage in China and not the impact it actually had on the network".
+
+"The power outage does expose a fundamental weakness; that although the Bitcoin network is decentralized the mining of it is not," Sully added.
+
+Some widely-followed blockchain analysts on Twitter pointed to a sharp drop in "hash rate" due to the outage.
+
+Hash rate refers to the volatility index that measures the processing capacity of the entire Bitcoin network, and it determines the power required by miners to produce new Bitcoins.
+
+"Typically shocks to hash rate do not cause price drops. A hash rate reduction slows transactions, which ironically makes it harder to move coins to exchanges for sale. The recent price drop is well within the bounds of typical volatility, it is noise not signal," said Edan Yago, co-founder at Bitcoin-based decentralised finance protocol Sovryn.
+
+The retreat in Bitcoin also comes after Turkey’s central bank banned the use of cryptocurrencies for purchases on Friday.
+
+Edward Moya, senior market analyst at OANDA, said cryptocurrencies had been ripe for a pullback.
+
+"The market has become overly aggressive and bullish on everything," said Edward Moya. "It could have been any bearish headline that could have triggered this reaction."
+
+Many cryptocurrency markets operate 24/7, setting the stage for price swings at unpredictable hours. Historically, retail and day traders have driven the moves.
+
+Despite the sudden selloff, bitcoin is still up 89% so far in 2021, driven by its mainstream acceptance as an investment and a means of payment, accompanied by the rush of retail cash into stocks, exchange-traded funds and other risky assets.
+
+Our Standards: The Thomson Reuters Trust Principles.

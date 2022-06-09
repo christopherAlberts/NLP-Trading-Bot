@@ -1,0 +1,33 @@
+Bitcoin Cash Upgrades Successfully: Network Works as Intended
+
+On May 15, the Bitcoin Cash upgrade was applied successfully to the blockchain, bringing a slew of features directed toward improving the overall experience of users. This particular upgrade marks the start of a new upgrade schedule that will allow developers to invest more time in testing new features added to the protocol in the future.
+
+Bitcoin Cash Update Applied Successfully
+
+The latest Bitcoin Cash update, which proposed a set of important changes, was applied successfully to the network Saturday afternoon. This specific upgrade provided improvements that would tackle user experience and offer better security against double-spending.
+
+Happy Bitcoin Cash Upgrade Day 🥳 — Bitcoin Info (@bitcoininfo) May 15, 2021
+
+The new features were applied to the chain with no problem, and at the time of writing, 82 blocks have been mined with the new rules, according to Coin Dance. This update marks a new era in how developers manage protocol updates, contrasting with how things were done before.
+
+A transaction chain of length 4642 was just mined in #BitcoinCash block 688,122 (a 1.4MB block which included 747 other txs)#BigBlocks #BigChains https://t.co/fIBznm6lFq — 🔱 bch 'make Bitcoin cash again' protocol upgrade (@btcfork) May 15, 2021
+
+It brings two new proposals that seek to standardize and improve protocol development: A new yearly update schedule, that will help developers to write and test new features more thoroughly, and CHIPs (Cash Improvements Proposals), whose objective is to present these features to users and miners before being applied.
+
+Additionally, the removal of the unconfirmed chained transaction limit has been applied and users have been testing the feature in the wild.
+
+No Drama This Time
+
+Bitcoin Cash has had a convoluted story when applying updates. Just last year, the network faced a contentious hard fork when the most dominant node’s developers, Bitcoin ABC, proposed a new ruleset.
+
+This ruleset changed how mining rewards were distributed, giving Bitcoin ABC a percentage of them. A majority of the community including alternative node software teams decided to let the ABC development team fork away. Bitcoin Cash retained its ticker and the hashrate majority at that time, and the Bitcoin ABC separated entirely, creating its own chain.
+
+But even before that, Bitcoin Cash faced another contentious hard fork that pitted Bitcoin ABC’s lead dev Amaury Sechet against Craig Wright over specific changes. This schism gave birth to bitcoinsv (BSV), through what was called at the time a “hash war,” that faced miners supporting one chain against the miners supporting the other.
+
+Developers have now learned from the past mistakes, acknowledging these problems, and are betting for a more off-centered, independent development process with CHIPs at the center of it. CHIPs are now the to-go structure to propose changes, and to find consensus to enable or reject them and avoid now familiar pitfalls that have gone together with centralized development.
+
+What do you think about the new Bitcoin Cash Update? Let Us Know In the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, Twitter,
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

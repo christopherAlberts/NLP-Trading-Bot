@@ -1,0 +1,55 @@
+The laws which govern our physical realm are the foundation upon which Bitcoin is built, as immutability would require.
+
+The following article is an expanded, longer version of the original Medium article of the same name by the author, Tomer Strolight, in his series of articles on Bitcoin entitled “Why Bitcoin,” covering many aspects of Bitcoin, each with an average reading time of only three minutes.
+
+No Speed Limits Lead To Faster, Safer, More Reliable Cars.
+
+The German Autobahn highways have no legally-enforced speed limits. The laws of physics are the only limitations as to how fast automobiles can travel there. As such, Germans have figured out how to make very fast cars. Fast small cars, fast family cars, fast SUVs, fast trucks, etc.
+
+They have also figured out how to make very safe fast cars, because nobody wants to die getting somewhere fast. German automakers pioneered advanced safety features, like crumple zones, that make high-speed collisions less dangerous to vehicle occupants.
+
+The lack of legally-enforced constraints is what makes German cars faster, safer and better than those engineered in countries where speed limits and safety standards are prescribed by government edict.
+
+Consider the challenges faced by German car engineers compared to those in a highly-regulated country where speed limits are far lower than the speeds observed on the Autobahn. German car engineers need to compete to figure out how to make cars both faster and safer than their other German competitors. But their regulated peers in other countries can stop improving their cars once they can safely hit the local speed limit. German car engineers become interested in understanding and solving challenges brought about by high speeds affecting reliability, aerodynamics, stability, fuel efficiency, high pressures, braking, acceleration and more. Their regulated counterparts simply do not have any interest in these considerations, nor are they given any budget to research them.
+
+No Man-Made Laws Lead To Stronger, Safer, More Reliable Money
+
+This same reasoning is remarkably why bitcoin is the best money the world will ever see. Just as automobiles are an engineered form of transportation, bitcoin is an engineered form of money.
+
+Bitcoin’s first engineer, Satoshi Nakamoto, designed it to operate no matter what the universe could throw at it. He did not build it to only work under a constrained set of limits dictated by humans. Thus, the mechanisms that Satoshi built into Bitcoin to enforce its rules are nothing less than the laws of physics themselves. No government told Satoshi what rules to apply or how to enforce them. (And now, interestingly, no government can.) Bitcoin’s rules were chosen to ensure that Bitcoin would operate no matter what happened.
+
+Strong, Safe Money, Guaranteed
+
+Like the safety and speed goals of German cars travelling on the Autobahn highway network, there are safety and speed goals too for Bitcoin as it functions atop worldwide digital networks.
+
+Bitcoin provides the monetary equivalent of safety, which is protection of private property. Bitcoin lets owners of its units of currency store them where only the rightful owners can find them. It does this using astronomically large random numbers as the storage location of these satoshis (satoshis being the base unit of currency in the Bitcoin system).
+
+The laws of physics dictate that over the entire foreseeable future of the universe, nobody can be expected to guess one of these astronomical numbers where satoshis are being stored. Not even if they converted the whole planet into a giant computer making endless guesses.
+
+If you HODL satoshis, you are guaranteed they will not be stolen by a thief guessing where they are stored (as long as you generated your astronomically large random number properly). Who guarantees this to you? Not some politician. Not some businessman. Not some company. Not any person. The guarantor is none other than the universe itself. As long as the laws that hold the universe together hold, your satoshis are safe.
+
+Steady, Reliable Money, Guaranteed
+
+When it comes to speed, Bitcoin doesn’t try to go as fast as possible. Instead, it seeks to maintain a constant speed, or pace. That steady pace that Bitcoin is after is to ensure that one block will be added to the blockchain, on average, once every ten minutes, forever. (This is perhaps why “timechain” is a better descriptor than “blockchain” and is being increasingly proposed as a substitute term.)
+
+Once again, Satoshi utilized the eternal, unchanging laws of physics to engineer Bitcoin to always achieve this pace. He did so by combining proof of work* and a difficulty adjustment to that proof of work to ensure this pace even in the most extreme physical circumstances.
+
+If all the world’s energy or even all of the sun’s energy was directed toward trying to accelerate this pace, Bitcoin would “slam on the brakes” within 2,016 blocks at most, slowing down the block discovery rate to one block every ten minutes. Conversely, if efforts were made to slow Bitcoin down by withholding energy from its miners, Bitcoin would, again, within at most 2,016 blocks, reduce the work requirements, effectively “stepping on the gas” to speed itself back up to one block being discovered, on average, once every ten minutes.
+
+No government law can change this fact. Government laws cannot, after all, supersede the laws of physics. Nothing can. No billionaire, no hacker, no protester, no banker, no corporation, no army. Not even the pretentious arrogance of a bow-tie wearing, award-winning economist, eating Russian caviar at a cocktail party for New York’s elites and claiming that Bitcoin “has a fundamental value of zero” can change the actual laws of physics. Thus, Bitcoin runs, without interruption, regardless of what anybody thinks of it or tries to do to it. Bitcoin’s reliable, uninterrupted operation is as pure and as real as reality itself.
+
+Tougher Standards Lead To The Better Money
+
+As we did when comparing German car engineers to their peers in countries with low speed limits, let’s consider the results of the engineering efforts of Satoshi and other Bitcoin contributors with those of the designers of the incumbent monetary system — fiat money. The rules of the fiat system are dictated by regulators, legislators and bureaucrats. These rules can easily and at any time be changed by a mere change of dictate.
+
+Whereas nobody can steal or seize satoshis, fiat money is stolen and seized so often that we don’t even keep count of how many times this happens or how much fiat money is affected. Whereas Bitcoin continues to issue its currency units reliably and predictably on a predetermined schedule, the fiat money supply goes through wildly unpredictable shocks whenever the people running that system decide to alter it.
+
+History shows that fiat systems collapse. The monetary units of these systems become worthless upon those collapses. Science shows that the laws of physics do not collapse. They are eternal.
+
+To summarize, by relying on the eternal and unchanging laws of physics, Bitcoin guarantees perfect reliability that its promises of property protection and continued operation will always be in force. This frees Bitcoin, and more importantly its users, from having to trust any temporary and fallible short-lived entities like people, central banks, political parties and even nation states.
+
+In the final analysis, it is ultimately a voluntary decision for each individual to choose whether they prefer Bitcoin and the reliability of physics over fiat money and trust in politicians. That is a decision to choose science over politics. Bitcoin itself is in no hurry for anyone to make that choice, however. Like the laws of physics themselves, Bitcoin is forever.
+
+*Proof of work requires that someone (a ‘miner’, in the case of Bitcoin) be able to produce a very improbably low number as the output of running input data (a block header, in the case of Bitcoin) through a function (SHA256, in the case of Bitcoin) that produces unpredictable, random-looking numbers, but always the same output for the same input. If the miner can show that the result of the output from their input is lower than the threshold set by Bitcoin’s difficulty setting, it is very likely the case that they put in the expected amount of work required by running the algorithm time and again with slightly modified inputs, until they finally arrived at a result that met the proof-of-work criteria.
+
+This is a guest post by Tomer Strolight. Opinions expressed are entirely his own and do not necessarily reflect those of BTC, Inc. or Bitcoin Magazine.

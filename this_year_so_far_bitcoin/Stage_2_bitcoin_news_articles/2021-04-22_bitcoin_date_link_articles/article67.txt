@@ -1,0 +1,67 @@
+Elevate your enterprise data technology and strategy at Transform 2021.
+
+This post was written by Brett Tejpaul, Head of Institutional Sales, Trading, Custody, and Prime Services at Coinbase
+
+There has been a tidal wave of institutional investment in digital assets in the past year. There’s a trend for headline-grabbing announcements from companies that are adding allocations of bitcoin to their balance sheet. Rather than being seen merely as a short-term speculative play, corporations are starting to view bitcoin as a store of value and a way of diversifying a treasury portfolio in a challenging macroeconomic climate. There are also a number of practical and strategic advantages to adoption, as I’ll explain later.
+
+Cash holdings today are like melting ice
+
+Last August, we saw Nasdaq-listed intelligence and software company MicroStrategy make an enormous splash into crypto [cryptocurrency], adding a substantial amount of bitcoin to its balance sheet. CEO Michael Saylor said the investment reflected the company’s belief that bitcoin was “a dependable store of value and an attractive investment asset with more long-term appreciation potential than holding cash.” He aptly described the company’s cash pile as “a $500 million ice cube that’s melting.” MicroStrategy has added to its bitcoin position several times since its initial investment, now holding 90,531 BTC, worth approximately $4.6 billion at the time of writing.
+
+Square, led by Jack Dorsey, made its initial bitcoin purchase last October, and continued to increase its allocation — now representing about 5% of Square’s total cash, cash equivalents and marketable securities. Elon Musk also revealed in February that Tesla bought $1.5 billion of bitcoin and would accept bitcoin as payment for its cars. While many of the first movers have been tech companies, a wide range of sectors are, rightly, watching this space.
+
+Why are companies adding bitcoin to their treasury?
+
+Bitcoin is being seen as a viable alternative asset to hold on a balance sheet. There are a number of factors driving this:
+
+Bitcoin is a hedging strategy against possible inflation and dollar depreciation.
+
+Corporate treasurers have historically tended to take a conservative approach to cash management, investing in assets such as bank deposits, money market funds, and government debt. But low interest rates have kept pressure on income across these assets — and there is no sign of respite. Economies are continuing to reel from the effects of the pandemic, and the Federal Reserve has committed to keep its policy until economic recovery is well underway. This, coupled with the large sums of cash pumped into economies by quantitative easing, is driving concerns that at some point inflation will rear its head. As a result, corporate treasury departments are looking for alternatives to traditional financial markets.
+
+Corporate treasurers have historically tended to take a conservative approach to cash management, investing in assets such as bank deposits, money market funds, and government debt. But low interest rates have kept pressure on income across these assets — and there is no sign of respite. Economies are continuing to reel from the effects of the pandemic, and the Federal Reserve has committed to keep its policy until economic recovery is well underway. This, coupled with the large sums of cash pumped into economies by quantitative easing, is driving concerns that at some point inflation will rear its head. As a result, corporate treasury departments are looking for alternatives to traditional financial markets. The infrastructure supporting institutions investing in digital assets has matured.
+
+Prime services for this market have improved and expanded to accommodate the requirements of institutional investors, including corporations. Advanced order routing and algorithmic trading tools mean companies can make nine- or even ten-figure trades with minimal market impact. Additionally, companies have access to highly secure, segregated custody accounts that finance and executive teams can seamlessly access to manage their treasury allocation. The ability of the digital asset class to support large institutional capital has undoubtedly been critical to driving inflows.
+
+Digital asset holdings as a business operations strategy
+
+There are a growing number of opportunities for digital assets that will come to the forefront in the years ahead. Investing in cryptocurrencies is only the gateway to the developing use cases for decentralized technologies. We’ve seen future-forward companies evolve from holding digital currencies on their balance sheet, to integration with payroll, accounts payable and receivable, and other areas of an organization where funds are transferred. These strategic upgrades may provide a competitive edge of increased efficiency and lower costs than fiat.
+
+The advantages of using cryptocurrency when operating overseas
+
+For international transactions, digital currencies offer a borderless, transparent, and secure way of processing payments. Trading goods using cryptocurrency removes the need to manage multiple currency accounts, and potentially saves money on exchange, banking, foreign exchange, and payment processing fees.
+
+Digital currency also helps mitigate risk of payment issues as these transfers operate in a no-trust environment, providing proof of funds. Another advantage of powering your business with cryptocurrencies is they are open 24/7. They don’t take the weekends off.
+
+Enabling consumers to use their digital currencies
+
+Cryptocurrencies, such as bitcoin or stablecoins, can be integrated as a payment option for consumers. This allows a company to receive real-time data on these payments which in turn helps customer support, business operations, as well as finance and accounting.
+
+A number of consumer-focused platforms already allow customers to use bitcoin. Square supports bitcoin buying and selling via its Cash App. PayPal announced in October 2020 that U.S. customers would be able to buy, sell, and hold cryptocurrency and use these holdings as a funding source to pay for goods at PayPal’s 26 million merchants around the world. Mastercard said in a blog post in February it would allow merchants to accept some cryptocurrencies later this year. And Visa has teamed up with payments company Circle on a USDC digital currency corporate card. Expanding commerce payments may also help drive sales volume by expanding to new customers who prefer to transact in digital currencies.
+
+What you need to know before allocating funds to digital assets
+
+Some of the most common questions institutional and corporate clients are asking:
+
+How has bitcoin performed relative to other asset classes?
+
+An investment in bitcoin since 2016 has outperformed other popular financial assets such as the S&P 500 index and gold. In 2020, it rose 321%. Its strong absolute performance has compensated for its volatility.
+
+An investment in bitcoin since 2016 has outperformed other popular financial assets such as the S&P 500 index and gold. In 2020, it rose 321%. Its strong absolute performance has compensated for its volatility. How does an allocation to digital assets fit within a broader portfolio?
+
+Bitcoin and Ethereum are typically less correlated with some of the most popular assets in investor portfolios. This suggests an investment in either may improve the overall diversification of a portfolio.
+
+Bitcoin and Ethereum are typically less correlated with some of the most popular assets in investor portfolios. This suggests an investment in either may improve the overall diversification of a portfolio. How do I account for a digital asset purchase?
+
+Assets such as bitcoin, are accounted for as “indefinite-lived intangible assets.” This means they are not amortized, but assessed for impairment annually, or more frequently. Impairment exists when the carrying amount exceeds its fair value. While impairment is addressed, appreciation is not. This means companies cannot write up the value of their digital assets under current accounting standards. I’m optimistic that the U.S. Generally Accepted Accounting Principles will evolve to address these accounting constraints.
+
+Assets such as bitcoin, are accounted for as “indefinite-lived intangible assets.” This means they are not amortized, but assessed for impairment annually, or more frequently. Impairment exists when the carrying amount exceeds its fair value. While impairment is addressed, appreciation is not. This means companies cannot write up the value of their digital assets under current accounting standards. I’m optimistic that the U.S. Generally Accepted Accounting Principles will evolve to address these accounting constraints. What is the regulatory status of digital assets?
+
+Although regulators sometimes have different views about the classification of digital currencies, bitcoin and Ethereum are not treated as securities under federal or state securities laws. The purchase or sale of bitcoin for personal use or for a corporation’s own use is not generally a regulated activity, although some businesses are regulated under applicable state and federal financial services laws. You should confirm that any business you work with to acquire, liquidate, or custody bitcoin and other digital assets is appropriately licensed and operates to the higher operational standards of a regulated financial institution.
+
+If you do decide to allocate treasury holdings to bitcoin or another digital asset, it is important to find a trusted partner. Ask yourself: does this partner operate at scale, who else have they done trades for, do they have a history of operational excellence, and have they delivered?
+
+Building for a digital future
+
+While the macroeconomic environment is currently encouraging organizations to look at digital currencies as an alternative asset for their treasury reserves, holding digital assets also allows companies to think through what a digital economy looks like. It enables them to assess how these assets might play a part in daily business and how they could help drive cost savings in areas such as payroll, payments systems, and cross-border trade. We look forward to helping our clients position themselves for the future.
+
+Brett Tejpaul is the Head of Institutional Sales, Trading, Custody, and Primes Services at Coinbase. This post is not intended to provide, and should not be relied on for, accounting, legal, or tax advice, or investment recommendation.

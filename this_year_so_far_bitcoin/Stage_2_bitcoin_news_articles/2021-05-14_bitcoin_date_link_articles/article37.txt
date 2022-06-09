@@ -1,0 +1,37 @@
+Low Energy Proof-of-Work: Bitcoin Improvement Proposal Wants to Change Network's Algorithm
+
+The most topical conversation in the world of cryptocurrencies right now is the effects of bitcoin mining on the global environment after Elon Musk heated up the conversation. Following the recent Tesla announcement, the cofounder of Siphox and Powx, Michael Dubrovsky, revealed the nonprofit Powx has recently submitted a Bitcoin Improvement Proposal (BIP) that aims to produce a “durable, low energy” Bitcoin Proof-of-Work (PoW) system.
+
+A Low Energy PoW Proposal Submitted to the Bitcoin Developer’s Mailing List
+
+This week Tesla’s Elon Musk ignited the conversation surrounding bitcoin mining and the effects on the global environment. Musk’s company also said that it was choosing not to accept bitcoin (BTC) for electric car purchases. Following the statements from Tesla, the fintech payments firm Square told the public it would not purchase bitcoin going forward and also cited environmental concerns.
+
+Then Musk tweeted that he truly cared about the crypto ecosystem and said: “To be clear, I strongly believe in crypto, but it can’t drive a massive increase in fossil fuel use, especially coal.” Although, this tweet was followed by responses showing a Tesla car being charged by electricity which obtained power from coal in North Dakota.
+
+Meanwhile, a great number of developers, from alternative blockchains that utilize little to no energy to secure and confirm transactions, shilled their projects. Programmers behind proof-of-stake (PoS) projects and other types of blockchains that are less energy-intensive.
+
+But after Musk tweeted about his concerns about coal, he also said he was working with the developers behind the Dogecoin network. “Working with Doge devs to improve system transaction efficiency. Potentially promising,” he said on Friday.
+
+On the same day, Michael Dubrovsky cofounder of the nonprofit Powx tweeted that his team submitted a low-energy PoW proposal to the Bitcoin developer’s mailing list.
+
+“We (at powx.org) have had a draft of a Bitcoin Improvement Proposal— Durable, Low Energy Bitcoin PoW—for a while now,” Dubrovsky remarked on Twitter. “Looks like the energy issue is finally getting some attention. Bitcoin can be made compatible [with] low-energy optical compute,” the Powx cofounder added.
+
+Heavyhash- Bitcoin Mining and Photonics
+
+Bitcoin.com News has reported on the Powx project before, back when Michael Dubrovsky, Marshall Ball, and Bogdan Penkovsky published a paper that described a “novel PoW algorithm.” The researcher’s paper details how the algorithm dubbed “Optical Proof-of-Work (OPOW)” could annihilate energy dependency by leveraging photonics. The project’s website says Powx is a nonprofit “dedicated to developing PoW cryptography compatible with ultra-energy-efficient optical computing.” In Powx’s BIP summary the developers’ note:
+
+From a practical perspective, bitcoin adoption by companies like Tesla (which recently rescinded its acceptance of bitcoin as payment) has been hampered by its massive energy consumption and perceived environmental impact.
+
+The team has developed a cryptographic algorithm called “Heavyhash,” which would take the place of Bitcoin’s SHA256 algorithm. The BIP summary written by Powx further says that the algorithm Heavyhash is compatible with “ultra-energy-efficient photonic co-processors.” The products are specifically developed for machine learning, Powx’s proposal details.
+
+“Heavyhash uses a proven digital hash (SHA3) packaged with a large amount of MAC (Multiply-and-Accumulate) computation into a Proof-of-Work puzzle,” the proposal adds. “Although Heavyhash can be computed on any standard digital hardware, it becomes hardware efficient only when a small digital core is combined with a low-power photonic co-processor for performing MAC operations.” Likewise, the OPOW mining rigs would be equipped with a “small digital core flip-chipped onto a large, low-power photonic chip.”
+
+The solution Dubrovsky and the Powx team created has been discussed in the past and so far, it hasn’t gained much traction. Further not everyone agreed with Dubrovsky’s recent tweet and one individual said: “Wasting chips is also bad for the environment.” However, Bogdan Penkovsky, a “researcher in brain-inspired/neuromorphic computing,” disagreed with the individual’s wasting chips response.
+
+“Accelerating development of low-energy computing can be hardly called a waste,” Penkovsky replied. “This technology has potential to drastically reduce data centers energy use in the future,” the researcher who co-authored the “Optical Proof-of-Work” paper added.
+
+What do you think about the Powx project and Michael Dubrovsky’s recent tweet? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

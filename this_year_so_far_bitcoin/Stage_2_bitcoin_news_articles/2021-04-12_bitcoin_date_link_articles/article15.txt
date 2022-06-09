@@ -1,0 +1,19 @@
+What happened
+
+Shares of cryptocurrency miner Riot Blockchain (NASDAQ:RIOT) surged on Monday after the company gave investors a mining update for the first quarter. The company said it mined 75% more Bitcoin (CRYPTO:BTC) tokens than it did last year, and that has the market excited. As of 11 a.m. EDT today, Riot Blockchain stock was up 8%.
+
+So what
+
+According to today's press release, Riot Blockchain mined 491 Bitcoins in the first quarter, with 187 of those coming in March alone. This was a notable increase from last year. First-quarter Bitcoin production was up 75% from the same period in 2020, and production in March was up 80% year over year.
+
+This is particularly noteworthy because it was twice as easy to mine Bitcoin last year, so to speak. Every few years, the Bitcoin network has what's called a "halving event." When Bitcoin reaches a halving date, the reward for mining Bitcoin is cut in half. Miners do the same amount of work, but don't get the same payout. Since May 2020, miners have been getting just 6.25 Bitcoin tokens per block mined.
+
+Therefore, Riot Blockchain has increased its computing power enough to not only compensate for the halving event but also take Bitcoin mining share. This can be measured with something called a "hash rate." The company ended 2019 with a hash rate of around 100 peta-hashes per second (PH/s) whereas the total hash rate of Bitcoin was around 100 thousand PH/s, according to Blockchain.com. Now, Riot Blockchain's hash rate is expected to reach 1,600 PH/s by the end of this month while the total hash rate of the network is around 172,000 PH/s. From these numbers, it's clear to see Riot Blockchain's growth is outpacing the growth of the network.
+
+Mining share is important. The amount of Bitcoin tokens that can be mined is fixed. So Bitcoin miners are paid relative to the amount of hash rate they provide the network. With Riot Blockchain increasing its share, its payouts are also increasing, which is why investors are excited today.
+
+Now what
+
+Riot Blockchain isn't settling for its hash rate of 1,600 PH/s, and for good reason. With the price of Bitcoin now over $60,000, many miners are actively buying new mining machines in hopes of getting more of this valuable cryptocurrency. Riot intends to have a hash rate of 7,700 PH/s by the end of 2022.
+
+This will be a gradual process, but investors can expect timely updates. Also in today's announcement, Riot Blockchain said it intends to update shareholders on its mining progress monthly.

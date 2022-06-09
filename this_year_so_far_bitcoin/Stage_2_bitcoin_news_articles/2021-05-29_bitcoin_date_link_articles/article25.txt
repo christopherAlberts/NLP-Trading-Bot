@@ -1,0 +1,1 @@
+Depending on how many transactions are being processed on the Ethereum blockchain, and how many miners are available, the cost of gas can rise and fall. The higher your price, the faster your transaction goes through.

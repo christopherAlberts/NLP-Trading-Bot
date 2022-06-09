@@ -1,0 +1,119 @@
+As tens of thousands of crypto enthusiasts head to Florida for the Bitcoin Miami conference this weekend, an ebullient mood from the sun-drenched partygoers will permeate at least some of the commentary around Bitcoin. But the reality is that all is not perfect in cryptoland, at least in markets, which seem moribund – and irked by a guy named Elon.
+
+While all that goes on, we at CoinDesk continue to process the impact of our action-packed Consensus 2021 conference last week. One part of that: figuring out how to keep engaging the incredible community that has formed around our $DESK rewards token, which is the subject of this week’s column. The creativity of this spontaneous group has gotten me thinking more broadly about the role that communities play in any system of money.
+
+Speaking of communities, those of the decentralized finance ecosystem are innovating as frantically as ever. To talk about new developments in decentralized, layer 2 DeFi protocols and the challenge regulators face in figuring out how to address this complex new system, Sheila Warren and I were joined on our weekly “Money Reimagined” podcast by Rebecca Rettig, general counsel of Aave, and Marc Boiron, general counsel at decentralized exchange dYdX.
+
+Have a listen after you read the newsletter.
+
+You can't create money without Piranhas
+
+At CoinDesk’s annual Consensus conference last week, we experimented with a new rewards token that was so well received it offered powerful insights into the relationship between community and money.
+
+We gave ticket holders an initial issuance of 500 $DESK tokens and provided them with opportunities to earn more as they viewed sessions and participated in other features of the virtual event. Then we offered them a variety of non-fungible tokens (NFT), some redeemable for swag and experiences, others sold as rights to digital trading cards based on CoinDesk reports of famous moments in crypto history.
+
+You’re reading Money Reimagined, a weekly look at the technological, economic and social events and trends that are redefining our relationship with money and transforming the global financial system. Subscribe to get the full newsletter here.
+
+The results way exceeded our expectations. By the end of the conference, there were 1,371 registered $DESK holders who among them had made more than 30,000 claims and purchased about 4,000 NFTs.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+But more important than the raw numbers was the way in which people engaged with the concept. They stuck around and participated in the sessions, bantering with each other, both about $DESK and the live video content they were watching. In the process, they organically formed a lively $DESK community.
+
+In a matter of days, the fledgling community had spun up its own Discord channel, while more than 500 signed up for a CoinDesk-administered $DESK Telegram channel. These “$DESK Piranhas” – as they call themselves – are building creative ideas around the token.
+
+There are community-generated memes, including one with a mock movie trailer about plans for an NFT of the “black hoodie guy” seated behind FTX CEO Sam Bankman-Fried during one of his Consensus interviews. There are people planning $DESK meetups during this week’s Bitcoin Miami conference. And next week, there’s a shared Netflix Party viewing of the horror-comedy movie, “Piranhas.”
+
+All this has given us an opportunity to turn the $DESK experiment into a full CoinDesk product. For that, there are better minds than mine thinking of ways we incorporate $DESK into the wider website. (Watch this space.)
+
+But in the meantime, we can look with wonder at how this community emerged and ponder what it says about all the other community phenomena around digital currencies, tokens, “meme investing” and money generally.
+
+Money = Community
+
+Our $DESK experience was a reminder that money has always been about community. There’s a feedback loop between people’s desire to own and use a currency and the way in which it intermediates human interaction. Regardless of how functionally advanced your currency is as a technology, this community function is a major determinant of its value.
+
+Before I get into the obvious comparisons with the social media tribes that drive up the value of altcoins such as dogecoin and XRP, let’s recognize these ideas apply to government-issued fiat currencies, too.
+
+The global system of exchange that has developed around the dollar is constantly being reinforced by people’s collective obsession with the U.S. currency. Think of all the movies, art, songs and cultural (meme) references to “greenbacks,” “Benjamin Franklins,” “bucks,” “fivers,” “pennies, nickels, dimes and quarters” that burnish its image as a quasi-magical object of desire.
+
+This is where Joseph Nye’s concept of “soft power” intersects with currency. The international cultural community around the dollar is just one way the U.S. exerts power – its armed forces matter are another – but it’s a vital part of its global dominance.
+
+Let’s face it, technologically, the dollar is outdated. The inefficient U.S. banking and payments system still uses paper checks, for crying out loud. It integrates none of the cutting-edge monetary policy and governance features that comes with cryptocurrencies and decentralized finance. Yet, it rules the world thanks largely to the self-reinforcing power of a “dollar community.”
+
+Now, for the first time, that community is looking a little less united. As concerns rise about the political and economic sustainability of a dollar-centric global financial system, and as technologies spanning crypto, data services, trading and social media foster new approaches to payments and other financial services, people are exploring alternatives. It’s why everything around money suddenly seems unmoored, as a baffling array of new finance acronyms and memes leaves many in the mainstream confused: NFTs, SPACs, stonks, DeFi.
+
+Among the many alternative projects, the winners will be those who find that same lightning-in-a-bottle formula that draws and builds a dedicated community of believers. You need to see something like CoinDesk’s little two-week-old $DESK experience sustained for a much longer period across a much larger group of people. l
+
+It must be stressed that $DESK is merely a rewards token, not a currency. Although it’s an ERC-20 token – currently built on the Rinkeby Ethereum testnet – issuance and redemption is centrally determined and managed by CoinDesk. It can only be redeemed for CoinDesk products.
+
+Even so, the lessons gleaned from this new community’s behavior are translatable to other, more truly decentralized cryptocurrencies.
+
+Our experience speaks to why dogecoin gains so much attention, for example, despite its monetary inferiority to bitcoin and the comparatively small size of its developer base. A similarly fun, interactive concept of community has emerged among the world’s doge followers, albeit on a grander scale.
+
+There’s also a lesson here for Bitcoin, as well as for Ethereum. The advanced technical aspects and large networks of these leading cryptocurrencies are vital to their long-term viability. But all that technical and developer firepower would be worth naught if there weren’t also two large, passionate communities of people obsessed with them.
+
+Consider the giant Bitcoin Miami conference. Tens of thousands of people are descending on Miami this weekend because they want to be part of a vibrant community. (Also, read the “Conversation” below for a look at how emotional members of that community can get when their beliefs are challenged.)
+
+This is the messy, human part of crypto. Memes, jokes, emotions and subjective, sometimes irrational beliefs seem antithetical to the serious, math-based work of protocol development. But in some respects, they are just as important for success, whether it’s hardcore bitcoiners’ aspirations for “digital gold” status, dogecoiners’ putting their Shiba Inu-themed coin’s sights on the “moon,” or a media outlet figuring out how best to employ its new corporate rewards token to optimize audience engagement.
+
+Community matters.
+
+Off the charts: BTC price and hashrate
+
+With the price of bitcoin down almost 40% from its mid-April all-time high and with the bitcoin mining industry facing both environmental demands and the threat of a ban from China, it’s a good time to look at the relationship between the BTC price and the total Bitcoin hashrate.
+
+First a six-month chart:
+
+(Shuai Hao/CoinDesk) Source: Coin Metrics
+
+Based on a seven-day moving average, the Bitcoin network’s total hashing power has shrunk somewhat from a record high rate near 160 million terahashes per second in mid-May. More notable are the signs of a somewhat closer, but still imperfect correlation between price and hashrate during the two phases of market sell-off in April and May, as well as during the short-lived interim price rebound in late April/early May. The price pulled back harder than the hashrate during those sell-offs, while the latter rose further than the former during the rebound. Nonetheless, there’s some evidence here that the more bearish price environment is affecting miners’ resource decisions as the profitability equation shifts.
+
+It’s too early to say whether the net decline in hashrate is a broad-based consolidation or a temporary blip to deal with margin squeezes for a small subset of miners. Perhaps it just reflects a small few who are now “re-decommissioning” the old, inefficient machines they’d previously recommissioned when margins were wide during the bull run.
+
+To put what’s happening in perspective, let’s look at the long-term interaction between these two measures.
+
+(Shuai Hao/CoinDesk) Source: Coin Metrics
+
+The chart shows that while a 10-year rise in price has been clearly accompanied by an expansion in hashrate as miners have consistently added more and faster capacity to tap dollar-based profits, short-term changes in hashrate have for the most part been independent of short-term price changes.
+
+The hashrate began rising sharply from early 2019, even though it took more than another year before the bitcoin price properly emerged from its 2018 slump to start posting huge gains. And as the price kept rising, the hashrate had some big swings up and down even as the overall trend was skyward. That variability likely reflects non-price factors such as the weather-related ebb and flow of electricity generation from China’s hydro dams as well as the periodic introduction of new, more powerful chips and mining equipment at different times.
+
+The one glaring exception to this independence was the price-correlated decline in mining capacity in late 2018 as a final leg down in BTC forced miners to shut down inefficient, expensive machines to protect margins. That capitulation seemed to confirm the reality of a longer-term slump in the overall crypto economy. The question is whether the latest signs of price-hashrate correlation foreshadow a similar movement into a bearish phase. If so, the good news for BTC hodlers is that same history suggests they really won’t have to wait long for both the price and the hashrate to resume their upward climb.
+
+The conversation: Is bitcoin my true love or not?
+
+This week’s journey into Crypto Twitter angst gets a more personal lens than usual.
+
+Inviting trouble, perhaps, I’ve decided to analyze some of the negative responses to last week’s column, in which I wrote of the prospect of a new “crypto winter” due to a newly negative mainstream narrative around bitcoin’s environmental impact.
+
+I argued that bitcoin miners and leaders should work proactively to shift perceptions, engaging with energy companies and government officials to develop policies that reduce bitcoin mining’s carbon footprint while turning it into a dynamic financing source for green energy infrastructure.
+
+In doing so, I managed to upset bitcoiners and environmentalists alike. The response from the former was the most striking. It confirmed a point made in this week’s column that the bitcoin community is founded on emotional connections as much as rational thought.
+
+Here’s my original post:
+
+One classic anti-bitcoin take was inevitable – that it “wastes” energy:
+
+Note: “Wastes energy” is an entirely subjective claim. It depends on whether you believe society gains something with censorship-resistant, decentralized money and whether you think bitcoin’s energy-consumptive, proof-of-work consensus algorithm is needed to achieve that. My answer: yes and yes. My only caveat is that we must strive for 100% renewable energy usage in that process.
+
+From the bitcoin side, my critics were stirred up by podcaster and RT anchor Max Keiser:
+
+This prompted a bunch of accusations that CoinDesk and I were spreading FUD (Fear, Uncertainty and Doubt).
+
+Partly I think that’s because calling out a bear market tends to anger people whose fortunes are tied up in bitcoin. But more important, some hardcore believers treat any suggestion that bitcoin has a problem and, by extension, any suggestion on how to address that problem – even one as non-specific as mine, involving no inkling of a protocol change – as a de facto attack on its decentralized “perfection.”
+
+My suggestion that miners work with government officials to promote green infrastructure may have challenged a purist view that the cryptocurrency will, on its own accord, change the world for the better just by existing. To me that’s a naive, blind-faith view that’s dangerously similar to the rigid beliefs of religious fanatics.
+
+Either way, I’m still unclear how all this makes me a bitcoin “hater.” But that’s what one of my more frequent critics sought to prove in a series of tweets.
+
+A couple of days later, triggered by a throwaway joke from Messari founder Ryan Selkis, my critic was back to repost a graphic that supposedly captures where Selkis and my ilk – including, intriguingly, Federal Reserve Bank of St. Louis analyst David Andolfatto – stand.
+
+Note the crime we are accused of: We don’t truly love bitcoin. I feel like I missed a new commandment that our Lord Satoshi delivered to his disciples before departing: “Love Bitcoin as I have loved you.”
+
+Seriously, do we need any more evidence that Bitcoin is founded as much on the quasi-religious adoration of believers as it is on cryptography? (Before you get upset, Dearest Don, this is not a bad thing. As stated above: community matters.)
+
+Sign up to receive Money Reimagined in your inbox, every Friday.
+
+Relevant reads: Rangebound
+
+After a big sell-off in the third week of May followed by a modest but insufficient rebound last week, bitcoin has yet to decide where it wants to go. It was rangebound, proving incapable of bursting through the $40,000 barrier, still well below its April high above $64,000. (Also, as we were going to print, the market was dealing with yet another round of Elon Musk-led selling pressure.) Where do we go from here?

@@ -1,0 +1,57 @@
+This is Part One of a multipart series that aims to answer the following question: What is the “fundamental value” of Bitcoin? Part One is about the value of scarcity, Part Two — the market moves in bubbles, Part Three — the rate of adoption, and Part Four — the hash rate and the estimated price of Bitcoin.
+
+The value of scarcity
+
+In recent months — and throughout 2020 amid the COVID-19 pandemic and its negative effects on the economy — central banks around the world have issued unprecedented quantities of money in order to try to counter an inevitable economic crisis. We live in a world where each generation of newly issued money, printed by central banks, leads to inflation, or the reduction of the purchase value of the currency itself and consequently, an increase in the price of goods.
+
+To give an example, last year alone the amount of U.S. dollars printed equals almost 20% of all dollars generated throughout time, based on the registered value of the money supply of dollars in the world. 20% in a single year is absurd, only made possible by breaking the pact that obligates governments to keep the dollar quantity in circulation linked to the quantity of gold in the central bank’s vaults (the famous 1971 Bretton Woods Pact).
+
+Consequently, the more dollars that are printed, the more we can see their worth decreasing over time. The opposite of inflation is deflation — in other words, as time passes, the more a currency appreciates and its purchasing power grows.
+
+It is important to understand that Bitcoin (BTC) was designed to grow in value indefinitely. I say this because the smallest quantity, known as a satoshi, is equal to 0.00000001 Bitcoin. It’s obvious that its creator imagined a deflationary system for his creation, one that could help it reach ever-increasing values. In the moment that a satoshi has grown to be worth a U.S. dollar, a Bitcoin will equal $100,000,000. This is the value that Satoshi Nakamoto had in mind for his own Bitcoin.
+
+Not immediately, obviously, and not even in the short term. The path will likely be long and paved with several bubble bursts. Only the most courageous and tenacious who resist will succeed in the enterprise. But alas, this is the story of the financial markets.
+
+Why is it possible for Bitcoin to reach this value?
+
+Because there are 7 billion people in the world, and there can only be 21 million Bitcoin circulating at the end of its generation cycle. As of 2020, it is estimated that around 20 million people worldwide have more than a million dollars of wealth — do you think there is enough Bitcoin for all these rich people? Many of them won’t be able to own a whole Bitcoin because getting one will cost too much in a few years, and because those who own them would never think about selling them. This is the phenomenon of scarcity.
+
+Whereas we are used to inflation, or the increasing amount of money being printed by central banks, this doesn’t exist in the crypto world. In some cases, there are special cryptocurrencies that are designed to decrease the number of tokens in circulation over time.
+
+Scarcity, coupled with an increasing circulation of cryptocurrencies, is the main reason why the price tends to rise and will continue to do so over time. You understand now that owning an entire Bitcoin will be a luxury that only a few people will be able to afford, at most a few million people — given that the first million is rumored to be firmly deposited in Satoshi's wallets.
+
+Related: 4 reasons why the top 15 richest Bitcoin wallets still matter in 2021
+
+This is the most concrete possibility we know of in terms of getting rich fast, in a relatively short amount of years. Still, for a small group of people the scenario of becoming millionaires thanks to cryptocurrencies (about 100,000 in the world) has already happened.
+
+Scarcity and precious metals
+
+The concept of scarcity is well present and known in commodities, such as with gold, silver, palladium or platinum. These precious materials are all the more precious the more scarce their production is. But is there a mathematical model that can estimate what the correct value of goods should be, based on its scarcity?
+
+If we think about phenomena such as Ferrari, Rolex, ancient paintings by famous painters, etc... all these assets are valued significantly higher than their cost of realization due to their scarcity — induced or generated — by those who created the assets themselves, just like Bitcoin. In fact, there is a mathematical model known as stock-to-flow, or SF, that estimates price based on the quantity already present in the world (stock) with the quantity that is extracted every year (flow).
+
+The smaller the quantity extracted every year, the higher the value the precious metal has. And since it takes many years to double the stock currently in circulation, it itself has value because it is scarce.
+
+In this table, SF is measured as years required for the current stock to double. As you can see, gold is extracted at an amount of 1.8% per year compared with the current stock, so its total value is greater than the other commodities.
+
+This relationship is more evident if the relationship between market value and supply growth is applied to a power diagram (Cartesian plane with both axes using a logarithmic scale).
+
+From this graph, you can clearly see that there is a power law governing the scarcity of goods along with their overall market value. The power law is deduced by how linear the existing relationship manifests on a Cartesian plane with both logarithmic axes, as shown in the previous figure.
+
+Does this law also apply to Bitcoin, designed to have an ever-increasing stock-to-flow ratio? (i.e., an ever-decreasing number of Bitcoin mined over time).
+
+From the graph, it is clear that even Bitcoin, albeit with a different scale, follows the same power law.
+
+The three breaks in the graph represent the three halvings, a phenomenon of halving mined Bitcoin that occurs approximately every four years, which makes Bitcoin increasingly scarce compared with the stock in circulation.
+
+From this graph, we can see that the value of $20 trillion is anything but impossible to achieve, and indeed, it is only a matter of time — once the percentage of Bitcoin mined in a single year will be equal to or less than 1%, a situation that will occur at the next halving in 2024.
+
+This article was co-authored by Ruggero Bertelli and Daniele Bernardi.
+
+This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision. The views, thoughts and opinions expressed here are the authors alone and do not necessarily reflect or represent the views and opinions of Cointelegraph.
+
+Ruggero Bertelli is a professor of financial intermediaries economics at the University of Siena. He teaches banking management, credit risk management and financial risk management. Ruggero is a board member of Euregio Minibond, an Italian fund specialized in regional SME bonds, and a board member and vice president of Italian bank Prader Bank. He is also an asset management, risk management and asset allocation adviser for institutional investors. As a behavioral finance scholar, Ruggero is involved in national financial education programs. In December 2020, he published La collina dei Ciliegi, a book about behavioral finance and the crisis of financial markets.
+
+Daniele Bernardi is a serial entrepreneur constantly searching for innovation. He is the founder of Diaman, a group dedicated to the development of profitable investment strategies that recently successfully issued the PHI Token, a digital currency with the goal of merging traditional finance with crypto assets. Daniele’s work is oriented toward mathematical model development, which simplifies investors’ and family offices' decision-making processes for risk reduction. Daniele is also the chairman of Investors’ Magazine Italia SRL and Diaman Tech SRL and is the CEO of asset management firm Diaman Partners. In addition, he is the manager of a crypto hedge fund. He is the author of The Genesis of Crypto Assets, a book about crypto assets. He was recognized as an “inventor” by the European Patent Office for his European and Russian patent related to the mobile payments field.
+
+This article has been successfully submitted to the World Finance Conference.

@@ -1,0 +1,35 @@
+A typicalbitcoin mining farm in China. Credit: Investopedia.
+
+Bitcoin and the nearly 8,000 other cryptocurrencies it has spawned promise to revolutionize finance but it’s doing so leaving a dirty footprint. Mining Bitcoin consumes as much electricity as entire countries like Argentina or Ukraine.
+
+Although the recent surge in bitcoin price has driven even more mining operations across the world, mining tends to be concentrated in certain regions — regions where energy tends to be cheap.
+
+By far, the largest bitcoin mining hub is China’s Inner Mongolia, which is responsible for 8% of all the planet’s bitcoin mining. For comparison, the entire United States is responsible for just 7.2% of global bitcoin mining. However, this is set to change after the Chinese government ordered Inner Mongolia to shut down all cryptocurrency mining operations and ban new crypto operations in a bid to crack down on fossil fuel-intensive energy consumption.
+
+ADVERTISEMENT
+
+Mining bitcoin is extremely energy-intensive due to the way the network was set up, which involves complex algorithms that demand a lot of computing power to solve each time a transaction is verified or a new block is added to the blockchain (this is what bitcoin mining actually does).
+
+It’s no coincidence that Inner Mongolia has grown into the world’s most important crypto mining hub. The Chinese region, which stretches from the Tibetan plateau’s northeast ramparts along the great bend of the Yellow River toward China’s far northeast, is also a huge industrial stronghold and a major hub for physical mining of coal and rare-Earth minerals. The concentration of coal mines and coal-fired powered plants has made Inner Mongolia’s electricity dirt cheap.
+
+Up until not too long ago, crypto miners paid Inner Mongolia’s Electric Power Trading Center only 2.60 cents per kWh. That’s more than five times cheaper than the 13.31 cents per kWh that the average residential customer in the United States pays for electricity.
+
+ADVERTISEMENT
+
+With electricity so cheap, Inner Mongolia rapidly drew bitcoin miners who found their operations increasingly profitable as the price of the crypto asset surged.
+
+But China’s government has apparently had enough. After reviewing the region’s energy consumption and energy intensity, Beijing found that Inner Mongolia failed to meet the 2019 targets it set out. It was the only one out of China’s 30 mainland regions that had failed to meet Beijing targets, which drew a lot of criticism from the central government.
+
+To save face and redeem itself, the local authorities of Inner Mongolia have planed a number of drastic rules in an effort to curb energy consumption. According to a draft rule issued by the region’s state planner, energy consumption growth will be capped at around 5 million tonnes of standard coal equivalent for 2021.
+
+Part of the new orders means plants and factories that use outdated and inefficient technologies to produce steel, ferroalloy, coke, graphite electrode, and coal-powered electricity must close by the end of 2022.
+
+The energy control measures also target bitcoin mining. All existing cryptocurrency mining projects have until April 2021 before they must shut down. The approval of any new mining projects has been banned.
+
+Get more science news like this... Join the ZME newsletter for amazing science news, features, and exclusive scoops. More than 40,000 subscribers can't be wrong. Daily Weekly I have read and agree to the terms & conditions. Leave this field empty if you're human:
+
+Inner Mongolia has also vowed to increase its share of renewable energy by installing more than 100 gigawatts of renewable generation capacity by 2025.
+
+But China isn’t cracking down on cryptos solely out of environmental concerns. The decentralized nature of cryptocurrencies is completely incompatible with China’s governance that requires a tight grip over virtually every aspect of its citizens’ lives.
+
+It’s really no surprise that a communist country like China hates bitcoin. Previously, China banned initial coin offerings and shut down many businesses involved in crypto operations, including exchanges and sites like YuanPay Group. More recently, China has taken a more complex approach, with American billionaire entrepreneur and venture capitalist Peter Thiel claiming that China even uses bitcoin as a ‘financial weapon’.

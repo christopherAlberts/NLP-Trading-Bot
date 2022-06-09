@@ -1,0 +1,33 @@
+The coal-fired Greenidge power plant was shut down in 2009, but it was bought back in 2014, and restarted as a natural gas power station, producing power solely for Greenidge Generation's on-site bitcoin mining data center. Now Greenidge, which describes itself as "the first publicly traded bitcoin miner with its own power station," has been given a permit to expand the data center - but local environmental campaigners say the expansion of crypto mining will do environmental harm, creating greenhouse gases (GHGs) and other emissions for no purpose.
+
+Bitcoin will fry the world
+
+The Greenidge Generation power plant was brought back in 2017, providing power exclusively for cryptocurrency, with mining beginning in 2019. The facility, built with the help of O'Connell Electric, initially ran 7,000 mining rigs, using 14MW of power. However, there are plans to expand this rapidly using up to 85MW of the total 106MW potential output of the Greenidge plant.
+
+In March, private equity firm Atlas Holdings, which owns Greenidge Generation, announced it would be merged with Nasdaq-listed IT company Support.com, creating a publicly-traded bitcoin company in September when the merger is expected to be completed.
+
+At the same time, Greenidge announced plans to expand up to as much as 500MW of bitcoin mining power consumption by 2025, at the Greenidge site and at other similar power plants.
+
+Cryptocurrency mining worldwide is energy-intensive, and designed to consume ever more energy, as mining systems solve math puzzles to generate bitcoin and other tokens. Bitcoin now consumes more than the entire country of Argentina, according to the University of Cambridge Centre for Alternative Finance. This amount is set to grow, because the entire cryptocurrency scheme is based on ensuring that it takes ever-more power to generate successive coins, so it takes the world's bitcoin mining resources ten minutes to produce each one. The more miners there are, the more complex the mining calculations become, and the greater the emissions created in making the coins.
+
+When Greenidge opened its site, the 7000 mining rigs could create 5.5 bitcoin a day at that time, which then had a value of $50,000 (at time of writing that is about $43,000). Because it has cheap electricity, and does not have to pay to deal with the emissions, it can mine bitcoin for around $2,869 each, and has made a large profit on the 1,186 bitcoins it has mined in the year it has been in operation.
+
+In April, the local Town of Torrey Planning Board has voted to allow Greenidge Generation to carry on with its expansion, according to WENY News.
+
+It will construct four buildings at the plant, holding around ten thousand bitcoin mining rigs. The site would also take on 12 new staff.
+
+Around half those at the meeting were against the proposal, with environmental campaigners saying the expansion would produce more greenhouse gas emissions, as well as emitting pollution and heat into surrounding waters.
+
+The facility has permits for greenhouse gases and other emissions, but the Department of Environmental Conservation (DEC) said it is reviewing them: “As part of DEC’s aggressive oversight of this facility and their compliance with our stringent regulatory requirements, DEC is closely monitoring the operations of Greenidge Generation, a bitcoin mining operation in Torrey, New York, and current proposals for its expansion. In addition to ensuring continued compliance with DEC’s current permits for the facility, DEC will ensure a comprehensive and transparent review of its proposed air permit renewals with a particular focus on the potential climate change impacts and consistency with the nation-leading emissions limits established in the Climate Leadership and Community Protection Act.
+
+"As the greenhouse gas emissions associated with this type of facility may be precedential and have broader implications beyond New York’s borders, DEC will consult with the U.S. EPA, the Climate Action Council, and others as we thoroughly evaluate the complex issues involved.”
+
+Greenidge defends its operations by saying that natural gas is less polluting than coal - though it is still a fossil fuel with greenhouse emissions. In theory, the plant could also run on methane produced renewably from biomass, but that is not happening yet.
+
+Cornell University biochemist Robert Howarth, who is on the New York Climate Action Council, told New York Focus the proposal made no sense: “There really is no room for a massive expansion of fossil fuel use in any sector, let alone one with so little true value to New York as represented by a cryptocurrency,” he said, adding that New York is required by law to reduce its emissions by 40 percent before 2030, which is already a hard target without Greenidge Generation ramping up.
+
+Tesla pump and dump
+
+Bitcoin prices had increased rapidly in February, when Elon Musk backed the currency and announced Tesla had put $1.5 billion of its corporate cash into bitcoin, and would accept payments in the cryptocurrency. This week, following criticism that this made a mockery of Tesla's claims to be an environmentally conscious organization (and following Tesla making more than $100m from selling the currency), the billionaire reversed that decision, pushing Bitcoin into a slump.
+
+Musk's sudden enlightenment came in a tweet which said: “We are concerned about [the] rapidly increasing use of fossil fuels for bitcoin mining and transactions, especially coal, which has the worst emissions of any fuel.”

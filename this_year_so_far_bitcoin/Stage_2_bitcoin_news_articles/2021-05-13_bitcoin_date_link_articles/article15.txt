@@ -1,0 +1,25 @@
+Elon Musk has called the energy used by bitcoin “insane” in another critical tweet.
+
+The post follows his announcement that Tesla would no longer be taking bitcoin in payment for cars, as a result of concerns about the environmental cost of the cryptocurrency.
+
+As soon as that tweet was posted, the price of bitcoin – and the rest of the cryptocurrency market – fell.
+
+Now he has attacked the energy use of the currency again, calling it “insane” and pointing to a chart that showed the rapidly increasing amounts of power used by bitcoin.
+
+In his original tweet, Mr Musk had said that Tesla would be exploring the possibility of using other cryptocurrencies that do not have such an energy footprint.
+
+“Tesla has suspended vehicle purchases using Bitcoin. We are concerned about rapidly increasing use of fossil fuels for Bitcoin mining and transactions, especially coal, which has the worst emissions of any fuel”, he wrote in the first tweet.
+
+“Cryptocurrency is a good idea on many levels and we believe it has a promising future, but this cannot come at a great cost to the environment.
+
+“Tesla will not be selling any Bitcoin and we intend to use it for transactions as soon as mining transitions to more sustainable energy. We are also looking at other cryptocurrencies that use <1% of Bitcoin’s energy/transaction.”
+
+Tesla said in February that it had invested around $1.5 billion in Bitcoin and it planned to begin accepting the digital currency as payment “soon.” The fair market value of Tesla’s Bitcoin holdings as of March 31 was $2.48 billion, according to securities filings.
+
+Bitcoin relies on computers, which rely on electricity, to exist. The number of computers and the energy needed to power them is rising — the growing value of bitcoin is directly tied to the amount of energy it uses.
+
+Bitcoin miners unlock bitcoins by solving complex, unique puzzles. As the value of bitcoin goes up, the puzzles become increasingly more difficult, and it requires more computer power to solve them. Estimates on how much energy Bitcoin uses vary.
+
+A 2019 study by researchers at the Technical University of Munich and the Massachusetts Institute of Technology concluded that, in late 2018, the entire bitcoin network was responsible for up to 22.9 million tons of CO2 per year — similar to a large Western city or an entire developing country like Sri Lanka. Total global emissions of the greenhouse gas from the burning of fossil fuels were about 37 billion tons last year.
+
+Additional reporting by Associated Press

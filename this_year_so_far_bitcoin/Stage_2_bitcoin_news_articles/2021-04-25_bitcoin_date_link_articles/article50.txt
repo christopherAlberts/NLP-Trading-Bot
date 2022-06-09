@@ -1,0 +1,33 @@
+Bittorrent Creator Bram Cohen's Crypto Project Chia Sparks Hard Drive and SSD Shortages
+
+On May 3, tokens stemming from the Chia network, a smart transaction blockchain created by the Bittorrent creator Bram Cohen, will start trading and transactions will be fully enabled. Rather than leveraging the proof-of-work consensus algorithm, Chia will utilize a model called proof-of-space which relies on storage. With Chia’s transactional launch pending, the project has sparked shortages over the demand for hard drives and solid-state drives (SSDs).
+
+Chia Network Fuels High-End Hard Drive and SSD Shortages
+
+Bram Cohen, the inventor of the popular torrenting application Bittorent has created a cryptocurrency that’s set to launch next month. Because Cohen is behind the Chia project, the pre-stages of the digital currency network have seen significant exposure since Chia was announced. Chia’s team believes that the project can allow anyone the ability to verify transactions without being dependent on “single-use hardware or a big electricity bill.”
+
+Chia released the project’s Business White paper in February 2021 and the mainnet launched on March 19. This allowed participants to begin accessing farming rewards, but it also spurred the start of demand for hard drives and SSDs. Transactions will be enabled on May 3 and at that point in time, exchanges and brokerage services can allow people to trade chia tokens. The closer the Chia network’s transactional launch gets, the more demand grows for storage components.
+
+The South China Morning Post (SCMP) explains that there’s been a major shortage in China when it comes to SSDs and hard drives. Chinese hard drive and SSD manufacturers are selling out quickly and product prices have skyrocketed on secondary markets.
+
+Chinese e-commerce markets like JD.com and Taobao have seen high-grade hard drive models sell out fast since the Chia mainnet launch. A customer service agent for Taobao has seen the demand spike and underscored that the customers are chia miners.
+
+“Many people have inquired about large hard drives for chia mining in the past few days,” the Taobao agent noted. The agent also explained that brand-name equipment from Western Digital and Seagate has been experiencing shortages.
+
+On Chinese e-commerce platforms Taobao and JD.com, multiple models of enterprise-grade hard drives with large capacity have sold out. A hard drive and SSD seller in Shenzhen called Qin explained that on secondary markets, prices on this equipment can be up to 50% to 60% higher than retail. “You can mine chia with 4TB hard drives as well because we don’t have any hard drives over 4TB in stock,” Qin stressed.
+
+“At peak times, prices have been at least 60 percent higher than usual. Prices dropped a bit recently but they are still about 50 percent (higher than normal) now,” another vendor named Chen detailed. The Chia network’s storage incentives have increased storage product requests considerably and hard drives between 4TB and 18TB are seeing the highest demand.
+
+Cohen’s Success With Bittorrent Has Fueled Chia Hype
+
+Besides the hype stemming from the creator Bram Cohen and the speculation forming within the crypto community, venture capital seems interested in Cohen’s crypto as well. In 2018, Chia raised $3.4 million from Greylock, Andreessen Horowitz, and Angellist’s Naval Ravikant.
+
+Chia could also be an Ethereum competitor as it has its own onchain programming language called Chialisp. Cohen has explained that the smart transactions Chialisp will allow range from colored coin tech, atomic swaps, multi-sig wallets, recoverable wallets, authorized payees, and more.
+
+Cohen’s previous project which cemented his fame, Bittorrent, was sold to Justin Sun and is now owned and operated by the blockchain firm Tron. The file-sharing operation Bittorrent was reportedly sold to Tron for $126 million in 2018.
+
+What do you think about the demand for hard drives and SSDs skyrocketing over the upcoming Chia network’s transaction launch? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, Chia documentation, Seagate,
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

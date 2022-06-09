@@ -1,0 +1,29 @@
+$1.4M in Bitcoin Remains Idle — The Curious Case of the 37-Day-Old 2009 Block Reward Spent a Year Ago
+
+Approximately 378 days ago, before the bitcoin bull market started to heat up, a unique block was spent stemming from a coinbase reward created 37 days after the Bitcoin network launched. It seems roughly ten coins from the block reward were sold to an exchange, but 40 bitcoin worth $1.4 million at today’s exchange rates sits unspent.
+
+As the Last Block Reward from 2009 Was Spent on May 20, 2020, Approximately 40 Bitcoins Remain Unspent
+
+Around this time last year, a curious block was spent that invoked a great amount of speculation. On May 20, 2020, an entity spent a coinbase reward that was minted on February 9, 2009. It was widely assumed it may have been related to Satoshi Nakamoto but this assumption has never been verified. What we do know is that it was block reward 3,654 and it was spent 627,404 blocks later, at block height 631,058.
+
+We also know that the only transaction associated with the mining of block 3,654 was the coinbase reward. The transfer that took place over a year ago saw the owner of block 3,654 move 10 BTC to one address and 40 BTC to another address. The 10 BTC, worth $372k today, was seemingly sent to an exchange, as data from block explorer oxt.me shows notes from Binance clusters. The 40 BTC, worth $1.4 million today, still remains sitting in the wallet, untouched since it was first moved last May.
+
+Of course, users have tried to message the address and send the wallet dust since it was discovered last year. The address has seen approximately 22 transactions but the owner has not sent a single satoshi since the 40 BTC was added. Observers can also see that the owner of the notorious 2009 coinbase reward has not spent the corresponding bitcoin cash (BCH) or the bitcoinsv (BSV) associated with the reward. When the 50 BTC was moved on May 20, 2020, the bitcoin (BTC) market suddenly dropped 7% in fiat value that day.
+
+Spending of 2009 blocks is not common and when they are spent it gets people speculating about Satoshi theories. Even 2010 and 2011 block reward transfers are very interesting, especially since these bitcoins sit idle for over ten years before moving. In 2020 and into 2021, Bitcoin.com News reported on a fascinating 2010 mining whale who spent 10,000 BTC from that year. In fact, the 2010 whale spent the coins in strings of 1,000 BTC each or 20 block rewards at a time.
+
+The Most Recent 2009 Block Reward Spends Prior to the May 2020 Transfer
+
+The oldest block to get transferred after the 2009 block processed on May 20, 2020, was mined on April 6, 2010, and transferred on January 3, 2021 (Bitcoin’s launch date anniversary). The last 2009 block reward spent before block 3,654 was transferred in January 2018 which was block 29,953. In fact, a consecutive number (at least 2-4) of 2009 blocks were processed on January 5, 2018. Additionally, the very next day a couple more block rewards mined in December 2009 were transferred.
+
+This particular two-day spending spree of 2009 coins in January 2018 was a small string of transfers. The string was preceded by another string of transfers tethered to 2009 block rewards that were moved in November 2017. At that time, blocks mined on December 17, 18, 24, and 27 from 2009 were processed in the midst of the 2017 bitcoin bull run. The most recent 2009 spend was more interesting because of how young it was.
+
+On August 7, 2017, a coinbase reward mined on the same exact day as the February 9, 2009 reward was spent, but at block height 3,607. Before that, a couple of blocks mined during that same week in 2009 were transferred in September 2015.
+
+Between 2009 and 2011, there are well over a million unspent BTC sitting in idle coinbase rewards and many of these rewards are assumed to be Satoshi’s stash. This is why when the February 2009 block was transferred last May, crypto prices dropped 7% in fear the creator was moving coins. Whoever did move those bitcoins decided that they did not need the 40 BTC worth $1.4 million today.
+
+What do you think about old ‘sleeping’ bitcoins from 2009-2011 coinbase rewards? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

@@ -1,0 +1,35 @@
+Want to know where the crypto market goes from here? Barry Silbert, a power player in the digital-asset sector, says that investors ought to look no further than the stock market, in a Sunday-night tweet amid a downturn in digital assets.
+
+Silbert’s comments came as bitcoin BTCUSD, -0.14% , Ether ETHUSD, +1.21% and alternative assets such as dogecoin DOGEUSD, +0.57% were in the midst of a turbulent weekend of trading that saw all three of those cryptocurrencies shed at least 50% from recent peaks at their Sunday nadirs.
+
+See: Bitcoin prices tumble 50% from peak and Mark Cuban calls the crypto crash the ‘great unwind’
+
+CoinDesk reported that some of the turmoil being experienced in digital assets was linked to China’s crackdown on the sector. Specifically, the crypto-focused website reported that crypto exchange Huobi may be scaling back some of its offerings and suspended some of its miner-hosting services in some countries due to the Chinese government’s hard-line stance on virtual currencies.
+
+Read: Why is crypto crashing? Will bitcoin prices ever recover? Here’s what traders and investors say
+
+Still, a number of market participants have tried to suggest that crypto’s recent slump has less to do with the fundamentals of digital assets, or the changing narrative and regulatory landscape, and more to do with Wall Street’s appetite for speculation.
+
+In this case, Silbert is suggesting that stocks may be the key indicator for how much risk investors can stomach in crypto, and not the other way around.
+
+Last Sunday, Mott Capital’s Michael Kramer said in a blog post that bitcoin’s recent breakdown could signal risk appetite on Wall Street is in transition —presumably in a bearish direction.
+
+Silbert is considered a luminary in the world of digital assets, after founding two of the most widely known enterprises in crypto: Grayscale Investments, which runs the popular Grayscale Bitcoin Trust GBTC, +7.47% , and the Digital Currency Group, which also owns CoinDesk. He’s also been an early investor in companies such as trading platform Coinbase Global COIN, +6.78% and Ripple, a blockchain-focused startup behind the cryptocurrency XRP XRPUSD, -1.19% . CoinTelegraph ranks Silbert the fifth-most important person in decentralized digital assets.
+
+He also knows a thing or two about equities: Second Market, a popular trading exchange for private-company stock that he founded in 2004, was sold to Nasdaq Inc. NDAQ, +1.28% in 2015 for an undisclosed sum.
+
+His view that stocks may be influencing crypto may have more to do with how much borrowed money is swirling around in equities, and how institutions that are newly invested in bitcoin react to this current slump.
+
+MarketWatch sister publication Barron’s reported that Tesla Inc.’s TSLA, +1.28% bitcoin holdings may very likely be sitting below where the electric-vehicle maker purchased its $1.5 billion position.
+
+Based on average prices, Tesla likely held about 42,000 bitcoins at the end of the first quarter. With recent price moves, the company is likely looking at a loss of roughly $125 million, Barron’s Al Root reported.
+
+“If that’s the case, an impairment loss will be recognized in the electric-vehicle maker’s coming second-quarter earnings report, unless prices recover,” he wrote.
+
+Stocks and crypto aren’t supposed to be correlated, but some have pointed out that recently tech stocks have seemingly been reactive to crypto-related news. Market participants have pointed to short-term correlations between Nasdaq-100 futures NQ00, +0.15% and bitcoin:
+
+At last check, futures for the Dow Jones Industrial Average YM00, +0.11% YMM21, +0.10% , the S&P 500 index ES00, +0.15% ESM21, +0.16% , and the Nasdaq-100 NQM21, +0.15% were rising Sunday night.
+
+On a long-term basis, correlations between stocks and the Dow Jones Industrial Average DJIA, -0.25% , the S&P 500 index SPX, +0.18% and the Nasdaq Composite COMP, +0.74% (or Nasdaq-100) don’t seem to be apparent. Based on a rolling 20-day correlation of the Nasdaq-100 and bitcoin, for example, the correlation sits at 0.19.
+
+A correlation of 1 means the two are perfectly in sync, 0 means no correlation, and -1 means the two are going in the opposite direction. Correlations between the Nasdaq-100 and bitcoin were much higher at the start of 2021, at around 0.64 in mid January.

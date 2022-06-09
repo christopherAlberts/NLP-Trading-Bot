@@ -1,0 +1,43 @@
+Zack Voell, a cryptocurrency mining specialist, writes in a blog post published by Compass that block 682,170 was the first “clean” block that was mined by public mining firm Marathon’s new pool.
+
+Voell writes in a detailed post from Compass, a “Bitcoin-first” company that aims to support the “decentralized” growth of hashrate and “strengthen network security” by helping people learn, explore and mine Bitcoin, that the block’s Coinbase contained the message: “MARA Pool – OFAC Compliant Block.”
+
+Voell confirmed:
+
+“This block marks a continued push to popularize the controversial practice of trying to mine ‘compliant’ Bitcoin blocks that exclude transactions from sanctioned entities and generate ‘clean’ bitcoins.”
+
+Voell clarifies that mining “clean” BTC blocks are somewhat of a “euphemism” for regulator “bootlicking” and may be considered “a direct attack on Bitcoin’s fungibility.”
+
+Voell also mentioned that the “self-imposed practice also carries non-trivial financial disadvantages and a variety of obstacles that, in practice, make ‘clean’ blocks very, very difficult to mine.”
+
+Voell explains that generating a “clean” block requires that all the coins being received by BTC miners are not “tainted,” meaning that they have not been used by a “sanctioned entity” or in carrying out illicit activities.
+
+He points out that many BTC addresses have been matched with “real-world identities” but “all or even most certainly have not.” This means that choosing certain transactions “based on who the senders might become little more than a guessing game,” Voell adds.
+
+He also notes that the only way “to guarantee that all transaction fees in a block are ‘clean’ is to mine zero transactions unless the miners opts to only process transactions from a whitelist of Bitcoin addresses.” He explains that any transaction that “may later be discovered to have connections to a criminal or sanctioned entity ruins the entire ‘clean’ block effort.”
+
+As noted by Voell:
+
+“Simply avoiding addresses on a blacklist is insufficient. Without an address whitelist, only empty blocks can be clean blocks. Even after including zero transactions, a ‘clean’ block still isn’t safe. The address that receives the coinbase transaction with the block’s mining subsidy is, of course, public and can receive transactions.”
+
+Voell further notes that any other BTC wallet that sends even the smallest amount of Bitcoin to the coinbase address “taints the bitcoins and sabotages the entire endeavor.” He explains that “unlike the transaction problem, where a miner can simply opt to exclude all transactions, preventing ‘tainted’ bitcoins from being sent to the coinbase address is impossible.”
+
+Voell also mentioned that Marathon’s “clean” block “suffered from ‘tainted’ transactions and coinbase address contamination, making their block not so clean after all.” He added that their block included a transaction from “an address associated with the Hydra market, a large Russian dark web drug marketplace.”
+
+Voell further revealed that their subsidy-receiving address was “dusted with 0.000025 BTC shortly after the block was mined and discussed on Twitter.”
+
+He adds that perhaps Marathon’s next block will be cleaner, but “with less than 0.5% of the Bitcoin’s hashrate at the end of Q1 2021, that might take a while.”
+
+He continued:
+
+“Whether a ‘clean’ miner elects to exclude all transactions from their blocks or only select from an address whitelist, the passed up fee revenue is a non-trivial cost that will only become more significant with each subsidy halving.”
+
+He further noted:
+
+“Even though Marathon didn’t actively filter transactions for block 682,170, the fees collected from mimic what a miner can expect to be paid from operating off an address whitelist. Although not entirely uncommon, the block contained an extraordinarily low 0.05 BTC in fees (roughly $3,000 at the time).”
+
+Voell adds that for Marathon, it may come down to the question of whether the financial benefits for its market value and stock price “outweigh the loss in forgone transaction fees.” Voell points out that Reddit discussions have seen users reporting that Marathon shareholders are not too happy about what’s going on right now.
+
+Voell points out that “forgone” transaction fees “implies some amount of forgone hashrate from solo miners looking for a pool.” Joining a pool that can “only pay shares of the mining subsidy and no transaction fees seems unattractive,” Voell writes.
+
+He concludes:

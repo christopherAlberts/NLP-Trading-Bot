@@ -1,0 +1,39 @@
+Is it altcoin season? This week, Grayscale Investments announced a slew of new trusts, each focused on smaller-cap “altcoins.” (CoinDesk and Grayscale are both owned by Digital Currency Group.) Meanwhile, Ethereum’s native currency, ether, is outpacing bitcoin so far this year, rising 142% as of Thursday. A dozen other assets on the CoinDesk 20 – our list of the assets that matter the most to the market – are also ahead of bitcoin, led by Web 3.0 assets cardano and algorand and DeFi asset 0x.
+
+“Altcoin season,” or “alt season,” is a meme for the idea that bitcoin returns move cyclically against other crypto assets, or “altcoins,” as in, alternatives to bitcoin. The notion is that investors take their bitcoin profits and play the altcoin casino with house money, and vice versa.
+
+There’s evidence to support that theory, at least anecdotally. In the fourth quarter of 2020, for example, bitcoin outran everything in the Digital Large Cap Index (DLCX), an index that represents 70% of the crypto markets’ value. The DLCX is replicable for U.S. institutional investors, and it’s updated every second by CoinDesk’s subsidiary company, TradeBlock.
+
+Related: John McAfee's Security Guard Pleads Not Guilty to Crypto Fraud Charges
+
+In the chart you can see that only litecoin, which had an extraordinary run in the fourth quarter, managed to keep pace with bitcoin.
+
+Read more: Multiple Tokens See Rally Amid Looming ‘Alt Season’
+
+Contrast that with 2021 for the year to date: Returns from litecoin and bitcoin cash have lagged, while ether has outpaced bitcoin by a significant margin. (The asset XRP, another long-time large-cap crypto, isn’t on this chart because it was excluded from the DLCX early in the first quarter after several exchanges dropped the Ripple-linked crypto, following a lawsuit by the U.S. Securities and Exchange Commission.)
+
+Story continues
+
+So is it altcoin season? Two of the three largest “alts” are underperforming bitcoin. At the same time, historically smaller alts are outperforming. The chart below shows CoinDesk 20 returns year to date, as of March 16. The CoinDesk 20 comprises the largest 20 digital assets by volume, measured over two consecutive quarters on a list of trusted exchanges. As the chart shows, 13 out of the 20 assets on the list are showing better returns than bitcoin, so far in 2021. (Stablecoins, also included in the CoinDesk 20 in order to track their market impact, are excluded from this chart.)
+
+Related: Former Top Japanese Regulator Joins Crypto Exchange DeCurret as Advisor
+
+At the top of the chart, the leaders for 2021 year to date are cardano, 0x and algorand. The cardano and algorand assets are connected to smart contract platforms that rival Ethereum. The 0x token is a token built using Ethereum’s ERC-20 standard, connected to a decentralized exchange. The 0x exchange is part of the decentralized finance, or DeFi, category, built mostly on Ethereum.
+
+Read more: Chainlink Hits Record High, Altcoins Rally Amid Bitcoin Consolidation
+
+What’s happening isn’t necessarily a cyclical shift in momentum between bitcoin and alts but a changing of the guard among alts. In this market, the laggards are currencies – competitors or complements to bitcoin. The leaders are smart contract platforms – competitors or complements to ether.
+
+What comes next: pendulum swing or new paradigm?
+
+Looking through the lens of programmatic indexes and lists such as the DLCX and the CoinDesk 20 makes it easier to identify patterns in a turbulent market. How to interpret the pattern is another matter. I see two possibilities:
+
+1) Investor enthusiasm for “digital gold” or “digital cash” is consolidating behind bitcoin. The Bitcoin Core developers have won confidence with a conservative approach that has shown movement, evidenced by the Taproot proposal. Projects that gained attention as faster moving or varied flavors of Bitcoin will continue to lose relevance.
+
+2) New investors are entering crypto. They are used to thinking in terms of potential cash flows and they prefer an investment that involves a product or a service. The need for decentralized applications has yet to prove itself beyond speculative uses but it is a narrative technology investors can understand.
+
+Read more: Expected Rise in Ether-Bitcoin Volatility Points to Altcoin Season Ahead: Analyst
+
+Whether either of these interpretations applies, time will tell. Either way, it seems a more significant change is underway than just a seasonal swing between bitcoin and altcoins.
+
+Related Stories

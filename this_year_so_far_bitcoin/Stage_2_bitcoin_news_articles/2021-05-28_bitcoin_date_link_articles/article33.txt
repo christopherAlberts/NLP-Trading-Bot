@@ -1,0 +1,75 @@
+Mid-May’s price plunge was one of crypto’s wildest pullbacks in recent years, a tumble that eliminated nearly $1 trillion from crypto’s market value.
+
+The industry had soared to new heights a month earlier, with Bitcoin (BTC) reaching almost $64,000, driven in good part by institutional investors. Now that some calm has returned to the market, bears are asking: How did institutions behave during the recent collapse? Did they jump ship or hold firm with their investments? And what impact might the pullback have in future institutional participation in the cryptocurrency and blockchain industry?
+
+“Institutional investors mostly held firm,” Oanda senior market analyst Edward Moya told Cointelegraph, “and after the dust settled, [investors] still seemed confident with their longer-term bets.” Also, Chainalysis chief economist Philip Gradwell wrote in a May 19 market analysis, “It also does not appear that institutions are significant sellers, although they may be more cautious as buyers right now.”
+
+On the other hand, analysts from JPMorgan told their clients that institutional investors abandoned Bitcoin for gold during the swoon. And then there was Elon Musk, whose May 12 tweet said that Tesla would no longer accept Bitcoin in exchange for its automobiles — citing concerns about BTC’s energy consumption — was blamed by many for accelerating Bitcoin’s market descent. It was already declining but fell another 40% after his tweet and has since had trouble recovering to reclaim $40,000.
+
+Economist Gradwell sought to put things in some historical context, noting that Bitcoin inflows to exchanges were relatively low compared with past sell-offs. This suggested “that much of the selling is from people with assets already on exchanges, which tend to be retail investors.”
+
+Many crypto veterans appeared to agree that the volatility was propelled by retail investors — not institutions. Anyblock Analytics GmbH’s co-founder and chief data officer Freddy Zwanzger told Cointelegraph that “institutions generally have long-term goals, so if anything, they would use recent price swings tactically — and most likely to buy into the market at lower prices.”
+
+Social media seemed to reinforce this view. Zwanzger continued, “On Crypto Twitter, I also saw many retail newbies panicking trying to sell, and all OGs commenting on the bargains they’ve got in yet another volatile swing that has happened before and will happen again.” He added:
+
+“Practically everyone I know in the industry did buy — or tried to buy — the dip, glad to expand their crypto holdings.”
+
+“On-chain data does show that BTC moved from newer wallets to older wallets, which suggests that newcomers capitulated,” Bobby Ong, co-founder and chief operating officer of crypto data platform CoinGecko, told Cointelegraph, adding: “However, it is also important to note that during the dip, BTC on Coinbase was trading at a premium, while huge outflows were also seen coming out. This suggests that certain institutions were buying the dip, but it is likely to include some institutions capitulating.”
+
+“On balance, our clients saw it as an opportunity to rebalance and add to positions at lower prices,” Bitwise chief investment officer Matt Hougan told Cointelegraph. Bitwise, which serves primarily financial advisors and other professional investors, had net inflows throughout the pullback.
+
+Jeff Dorman, chief investment officer of Arca — a digital asset management firm — sought to clarify some of the ambiguity, noting that the term “institutional investors” is often misused, telling Cointelegraph:
+
+“If you include macro and quant hedge funds as institutional investors, they were largely selling momentum, but the traditional institutional investors — pensions, endowments, family offices, etc. — were trying to allocate and were not shaken by the volatility.”
+
+Did Musk see the writing on the wall?
+
+Musk’s May 12 tweet was blamed by many media accounts for setting off the crypto plunge, but not everyone was ready to incriminate the Tesla CEO, who had written, “We are concerned about the rapidly increasing use of fossil fuels for Bitcoin mining and transactions, especially coal, which has the worst emissions of any fuel.”
+
+According to Moya, “this month’s cryptocurrency collapse stemmed from heightened leverage trading across Asia, panic selling from mostly new retail traders and active money managers who just rode momentum.” While Hougan largely agreed that the primary driver of the pullback “was liquidations of overleveraged retail investors,” he also cited rising regulatory risk and “China’s view towards crypto,” which seems to be deteriorating.
+
+Regarding Musk specifically, Moya had a somewhat different take. “Initially, I thought this was a terrible flip flop by Musk and ultimately very bad news for Tesla and Bitcoin. After thinking it through, I believe that Musk saw the writing on the wall that the media was getting closer to calling out Bitcoin and its environmental impact.” He further added:
+
+“Musk’s decision to suspend accepting Bitcoin as payment over environmental, social and corporate governance (ESG) concerns allowed him and other crypto supporters to control the story and timeline on transitioning miners into using renewable sources.”
+
+Dorman agreed that Musk raised an ecological flag of sorts. “Elon Musk’s erratic tweets have brought ESG to center stage, and this will likely give pause to corporates/institutional capital,” he wrote in a blog post.
+
+Will institutional investors, which are more sensitive to ESG issues these days generally, shy away from BTC now for environmental reasons? On May 21, it was reported that Greenpeace would no longer accept Bitcoin donations for environmental reasons, for example.
+
+Furthermore, BTC mining does use prodigious amounts of electricity, after all — much more than the whole country of Argentina in a single year, according to a recent Cambridge University study. “The pressure is on for Bitcoin and other cryptos to embrace renewable energy,” continued Moya, adding:
+
+“Bitcoin will eventually appease ESG investors, but for now, all they need to do is keep the big financial institutions happy [by saying] that they are working on it. Ethereum is already ahead of the game, so alternative investments will be available for ESG investors. Bitcoin can still succeed without getting ESG support in the short term.”
+
+What about reports that institutional investors were dumping Bitcoin in favor of gold? Moya agreed that gold has become more attractive and may outperform BTC in the short term: “Bitcoin has dominated Wall Street as the best performing asset over all of 2020 and the first four months of this year. Institutions that were contemplating Bitcoin but failed to pull the trigger are completely riding the rally in gold prices.”
+
+Was the correction overdue?
+
+It’s important not to let May’s downslide obscure crypto’s overall performance. It has been an extraordinary year, generally speaking. “If we take a look at the bigger picture, Bitcoin has been climbing for the past seven months and was due for a correction,” said Ong.
+
+“When you couple that with overleveraged traders, the 50% dip was essential in order to flush out leverage and ensure the bull market’s momentum can continue.” Meanwhile, Hougan noted: “Even after the pullback, Bitcoin is up more than 300% over the past year. The S&P 500 is lucky if it does that in a decade.”
+
+What impact, if any, will the “reset” have on institutional adoption of cryptocurrencies and blockchain adoption moving forward — e.g., in 2021?
+
+“Zero,” answered Dorman, adding: “Institutional money doesn’t come faster or slower based on price moves. Those trying to deploy will still deploy, and they are. The recent declines in GBTC and COIN may have been leading indicators that this new money was slowing already, but not because of the recent downward price moves.”
+
+A blue ribbon for DeFi?
+
+Overall, The pullback may have boosted interest in decentralized finance assets, Hougan told Cointelegraph. “This was a severe stress test for DeFi, and the industry passed with flying colors. That should raise confidence in the space.” Dorman agreed that DeFi passed “a major stress test,” writing in his blog that “it worked exactly as designed, handling all-time-high volumes and record liquidations without even a hiccup.”
+
+Meanwhile, Gradwell told Cointelegraph: “There is clearly an opportunity for Ethereum to gain ground on Bitcoin if it can deliver on being greener and more useful than Bitcoin — for example, by moving to proof-of-stake and further innovating in DeFi and NFTs [nonfungible tokens].” Moya, for his part, said that “Bitcoin and Ethereum will remain the two favorite holdings for many institutions, though the upside potential appears greater for the latter.”
+
+Is a boost for altcoins relative to BTC, then? “It ultimately boils down to different institutional interests,” said Ong. “While BTC continues to develop its narrative as a hedge against inflation and an appreciating store of value, ETH and DeFi, by extension, will attract stock-like investors.”
+
+“Making a generational bet”
+
+Can one speak of any lessons learned from the recent market shudder?
+
+“For investors who have not experienced a crypto bear market in the past, this was a great test,” Hougan said. “If the pullback was too stressful, you have too much of your portfolio invested in crypto. You should downsize your position.”
+
+“The latest crypto plunge shows that cryptocurrency volatility can be tolerated by both retail and institutional investors,” added Moya. Traders seemed like they were gung ho to buy more Bitcoin even “if the plunge continued all the way towards the $20,000-to-$25,000 zone.”
+
+Related: Inflation winds stiffen as Bitcoin ballast on balance sheets proves its value
+
+“People will be more careful, especially those with overleveraged positions,” predicted Ong. “For newcomers, it was an eye-opener as to the extreme level of volatility that you can only find in the crypto markets.”
+
+All in all, the recent volatility shouldn’t deter institutional adoption of cryptocurrencies. “The institutional investors I speak with are looking at crypto as a 10-year position with significant upside potential,” Hougan told Cointelegraph. “They know it is a volatile asset. They’re making a generational bet and are not deterred by a few weeks of volatility.”

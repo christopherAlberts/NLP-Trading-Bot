@@ -1,0 +1,29 @@
+
+
+The FBI has arrested a Russian-Swedish national for allegedly operating the longest-running Bitcoin money laundering service on the darknet, which moved nearly $336 million worth of the cryptocurrency.
+
+According to court documents, for the past 10 years, Roman Sterlingov allegedly operated Bitcoin Fog, a so-called cryptocurrency “tumbler” or “mixer” service. The service allowed users to send bitcoin in a way that was designed to conceal and obfuscate the source of the bitcoin.
+
+The process works by disassociating incoming bitcoin from particular Bitcoin addresses or transactions, and then co-mingling that bitcoin with other incoming bitcoin before conducting any additional transactions. This allowed Bitcoin Fog customers engaged in unlawful activities to launder their proceeds by hiding the nature, source, and location of their “dirty” Bitcoin, according to the IRS. Bitcoin Fog allegedly even publicly advertised the service on Twitter as a way to help users conceal the source of their bitcoin, and charged a fee for the service.
+
+Bitcoin Fog was launched in 2011, and, according to the IRS, was still operational as of last week. The website is allegedly one of the original Bitcoin mixing sites on the darknet, and more than 1.2 million bitcoins worth approximately $335.8 million have moved through the site since it began operation. According to the IRS, the largest senders of bitcoin through Bitcoin Fog have been darknet markets that mainly traffic in illegal narcotics and other illegal goods.
+
+Although a Bitcoin address owner is generally anonymous, law enforcement officials have been able to identify owners of particular Bitcoin addresses by analyzing the blockchain. The analysis can also reveal additional addresses controlled by the same individual or entity.
+
+For example, someone can create multiple Bitcoin addresses to receive payments from different customers. When the user wants to make a transaction with the bitcoin they have received, they may group those addresses together to send a single transaction.
+
+Law enforcement officials used commercial services offered by several different companies to analyze the blockchain and attempt to identify the individuals or groups involved in the virtual currency transactions. This analysis helped law enforcement officials confirm the number of bitcoin that have been sent through Bitcoin Fog since the site was launched.
+
+The court documents also said that Bitcoin Fog charges a fee of 2% to 2.5% on each deposit, and that based on the service’s transaction activity over time, Sterlingov would have made approximately $8 million in commissions from the transactions if he had cashed out the administrative fees when the transactions occurred. The IRS also said that because of the sharp rise in the value of Bitcoin over the past 10 years, the current value of the Bitcoin Fog cluster is nearly $70 million.
+
+Sterlingov is charged with money laundering, operating an unlicensed money transmitting business, and money transmission without a license in Washington, D.C.
+
+Related Stories:
+
+Cryptocurrency Firm Co-Founder Gets 8-Year Prison Sentence for ICO Fraud
+
+IRS Seeks to Track Down Cryptocurrency Tax Scofflaws
+
+Trader Charged in Alleged Cryptocurrency Scam
+
+Tags: bitcoin, Bitcoin Fog, computer fraud, Cryptocurrency, darknet, identity theft, illegal narcotics, mixer, Money Laundering, Roman Sterling

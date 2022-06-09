@@ -1,0 +1,55 @@
+A gas-guzzling energy plant that overlooks one of New York’s bucolic Finger Lakes has received planning permission that will allow it to expand its significant on-site Bitcoin mining business by 10,000 machines, to a total of approximately 17,700 miners.
+
+The approval for the Greenidge plant expansion, granted through a four-to-one vote by the planning board of the small town of Torrey on Monday, wades past the concerns of environmental activists who have railed against the former coal-fired plant coming back online to mine Bitcoin using natural gas. They say the expansion will produce more harmful emissions, which could pollute the water of nearby Seneca Lake and harm the yields of local vineyards while undermining the state’s climate goals.
+
+Advertisement
+
+Miners process Bitcoin transactions by solving complicated math puzzles. The carrot dangled before them is newly-minted Bitcoin, and miners expend immense amounts of energy while in pursuit of this prize. Key to being a profitable Bitcoin miner, then, is to have the cheapest energy on tap, whether the source is renewable or fossil fuels.
+
+This reality has re-ignited debate over the value that cryptocurrencies provide versus their environmental impact. While it rages on, a mix of renewables and fossil fuels, including coal and natural gas, continue to power the network.
+
+Now that Bitcoin's price has risen tenfold over the past year, ailing fossil fuel plants that have been left behind by the country’s slow move to renewable and nuclear energy are ramping up once again to make the most of the new technology—and the money. A few examples: A struggling coal plant in Montana staved off closure by partnering with a cryptocurrency mining firm last year, a Bitcoin mine set up shop on-site at an oil pipeline in Texas to turn excess gas into cheap electricity, and gas companies themselves have started to build on-site Bitcoin mines to turn their own waste gas into profit. Greenidge is one more plant that looked to Bitcoin to turn its fortunes around.
+
+“These obsolete fossil fuel sources become an easy prey for Bitcoin miners who could then use it to get really cheap and constant energy,” said Alex de Vries, founder of Digiconomist, a site that tracks the environmental impact of Bitcoin mining.
+
+Greenidge was founded in 1937 in Dresden, New York. Written off in 2011 after selling coal power to the New York grid became unprofitable, the struggling company became a money spinner after institutional investors, among them private equity firm Atlas Holdings, turned it into a natural gas plant in 2017. In 2019, it launched a test to use a portion of its cheap power to mine Bitcoin, and the operation went into full swing last year.
+
+Advertisement
+
+The switch to Bitcoin mining helped save the plant, which, alongside selling power to the New York state grid, now uses about 13 percent of its capacity, or 19 megawatts, to run Bitcoin miners. Greenidge said it mined 1,186 Bitcoin from the year that preceded February 28, and spent approximately $2,869 to mine each one. That’s a bargain at today’s Bitcoin prices—about $55,000. Last month, the company estimated that it will draw in $52 million of revenue this year before taxes, assuming Bitcoin stays at roughly $50,000 (its current price) and that mining continues to generate $300 per megawatt hour.
+
+With permission to build four new structures that it can fill with mining rigs, Greenidge hopes to double its mining capacity to 41 megawatts by June 30, quadruple it by the end of next year, and reach 500 megawatts by 2025. To help fund all this, Greenidge wants to become listed on the Nasdaq.
+
+But what’s good for Greenidge is bad for the planet and at odds with New York's own goal of reaching 100 percent renewable electricity by 2040, environmental activists say. In a letter to the New York state’s environmental conservation department, Earthjustice and the Sierra Club concluded that Greenidge’s Bitcoin mining increased its CO2 emissions tenfold within a year of operations, from 28,301 tons to 234,103 tons. And if Greenidge uses all of its resources to mine Bitcoin, it would produce just over 1 million tons of CO2 a year, the letter claimed.
+
+Greenidge rejects the claims. “There is simply no way that this facility will emit over 1 million tons of CO2 in a year,” said spokesperson Michael McKeon.
+
+In a statement provided to Motherboard, Greenidge said that it will “not only operate squarely within our existing environmental permits and local ordinances but will produce more high-tech jobs, more tax revenues for our local governments and more dollars to local business through our partnership." The Torrey planning board declined to comment.
+
+Advertisement
+
+In a notice posted on April 17, the New York Department of Environmental Conservation said that it will monitor the Greenidge mining operation closely to ensure compliance with current permits, and said it will review future permits "with a particular focus on the potential climate change impacts and consistency with the nation-leading emissions limits" set out in New York. It will do so in consultation with the US Environmental Protection Agency and the New York State Climate Action Council.
+
+Local campaigners say that the environmental damage caused by Greenidge’s Bitcoin mining could harm the economy of the Finger Lakes, which is reliant on its environment. They fear that the Bitcoin mining operation, which pumps hot water into the lake, could increase blooms of harmful algae, and pollutants such as arsenic, which are already present in the lake.
+
+Yvonne Taylor, vice president of Seneca Lake Guardian, an environmental group that is against the plant’s Bitcoin mining expansion, said that over time the Bitcoin mining farm could poison the water that feeds into some residents’ homes and harm wildlife in Seneca Lake.
+
+“This goes far beyond the borders of the town of Torrey," she said. "If you have the wherewithal to think about the risk versus the reward, it’s a no brainer; it's a really bad idea. And this sets a really bad precedent for all of New York.”
+
+Advertisement
+
+Richard Rainey, a managing partner of Forge Cellar, one of several wineries that farm and buy grapes along the Finger Lakes, worries that the pollution could contribute to climate change. That could cause his grapes to over-ripen, develop frost too early, or become contaminated with harmful substances. “It's so at odds with what we're trying to accomplish in this region,” he said.
+
+The wine industry is far more economically important than the Bitcoin mining plant, said Rainey, since it brings in annual revenues of $6.65 billion and has attracted world-famous vineyards. “You don't want to shoot the goose that lays a golden egg,” he said.
+
+Both Taylor and Rainey raised concerns that increased emissions could damage the $3 billion tourism industry that’s driven by the lake and surrounding forests.
+
+Preventing the Bitcoin mining operation would also “preserve the park and natural beauty of the region,” said Rainey. "It is a true paradise," said Taylor, whose family has centuries-long ties to the region.
+
+Greenidge rejects such concerns as false and misleading. “To suggest that Greenidge is incompatible with the economic wellbeing of the region is absurd,” it said in a point-by-point rebuttal to the Sierra Club letter that it sent to Motherboard. No harmful algae blooms were recorded within 4 miles of its facility, and rainfall determined the algae, it said—“It isn’t Greenidge.”
+
+This isn't the first time that Bitcoin's hunger for cheap electricity has run afoul of the sensibilities of citizens. In 2018, the city of Plattsburgh in upstate New York instituted a moratorium on Bitcoin mining because it believed an influx of firms were sucking up the city's cheap power, increasing the price of energy for residents. Since then, concerns around Bitcoin's energy use and the potentially harmful sources of that juice (for example, coal-fired plants in China) have only grown.
+
+The approved expansion isn't the end of the story for Greenidge. Taylor is among 25 individuals and institutions who filed a class-action lawsuit to stop the expansion. The complaint, filed in December against Greenidge and the town of Torrey’s planning board, said that the board granted permission without sufficiently studying the impact of Bitcoin mining farms on the environment, and that Greenidge did not disclose that the power plant was reopening to mine Bitcoin; it was to service the New York State energy grid, it said.
+
+“There was no mention at that time of anything other than the use of the energy in that fashion,” said attorney Richard Lippes, the lawyer who filed the case. Lippes said that the claimants still want the court to stop Greenidge’s construction of the four new buildings, despite Monday’s vote in favor of the expansion. It also seeks further studies around whether the plant will increase harmful algae blooms.

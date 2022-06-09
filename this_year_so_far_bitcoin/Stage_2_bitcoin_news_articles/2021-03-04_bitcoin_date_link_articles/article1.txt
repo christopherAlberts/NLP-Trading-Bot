@@ -1,0 +1,12 @@
+Why is bitcoin still going up? Is it a bubble?
+
+One can say that any fiat money—that is, money that isn’t backed by a commodity like gold or silver—is a bubble. At the same time, economists are terrible at identifying and even modeling bubbles. My research with Yukun Liu from the University of Rochester gives one explanation for why it may be going up. Two factors which may be behind it are momentum and the attention that people pay to it. Momentum means that if bitcoin went up more than usual it will on average continue to go up. Similarly, if there are more, for example, Google searches on the word bitcoin, bitcoin prices tend to go up.
+
+Are the energy and environmental impacts of bitcoin likely to constrain its continued growth?
+
+Yukun and I find that electricity prices and consumption in the short run are not one of the factors that determine bitcoin prices. However, environmental impact is something that we should all be concerned about.
+
+A decade in, has bitcoin made a case for why we need digital currencies?
+
+It is important to distinguish digital currencies and blockchain technology, the distributed ledger that records bitcoin transactions. Even if one does not like crypto currencies, there is no doubt that blockchain technology created a new and important area of innovation. As with many other areas, the companies that use blockchain to work on not-very-glamorous things such as improving container shipping documentations may create lasting value using this technology.
+

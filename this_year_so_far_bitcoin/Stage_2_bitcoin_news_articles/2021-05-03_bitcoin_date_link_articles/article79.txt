@@ -1,0 +1,25 @@
+Fidelity Investments Launches Crypto Analytics Platform Sherlock for Institutional Investors
+
+The American multinational financial services corporation based in Boston, Massachusetts, Fidelity Investments has announced the introduction of a new comprehensive data and deep analytics solution for digital assets. The new product is called Sherlock and it’s meant for institutional clients so they can streamline “fundamental and technical data” tied to cryptocurrencies.
+
+Fidelity Investments Introduces Crypto Analytics and Tools Platform Called Sherlock
+
+The data and analytics space tethered to the cryptocurrency world is exceptionally hot right now, as firms like Skew, Glassnode, Messari, Dune Analytics, Cryptoquant, and others have been turning heads. This past weekend, Bitcoin.com News reported on the Skew acquisition, as the analytics firm joined the Coinbase family of businesses. Skew’s data will be leveraged for Coinbase Prime customers, the San Francisco exchange’s institutional clients.
+
+On Monday, Fidelity Investments introduced a crypto platform for its institutional clients called “Sherlock.” The new product offers “comprehensive data and deep analytics on digital assets in one central location to help inform investment decisions,” Fidelity’s announcement says. The Sherlock web portal says interested users can request a demo and states:
+
+Crypto is difficult enough to navigate – the data shouldn’t be— Sherlock provides you with the data and tools you need to identify investment opportunities and create trading strategies.
+
+Sherlock Developed by Fidelity Center for Applied Technology
+
+Fidelity details that Sherlock users can obtain “in-depth asset analysis, discover insights and monitor market developments” so they can make the best decisions when it comes to crypto-asset investments.
+
+“Users can also explore the data off-platform for modeling and back-testing,” Fidelity’s announcement explains. Furthermore, Sherlock was developed in FCAT (Fidelity Center for Applied Technology), a blockchain solution center and distributed ledger incubator team that handles blockchain analytics, proofs of concepts, and use cases.
+
+“While the market is maturing rapidly, we’ve heard from institutional investors that there’s still a need for a comprehensive and accessible data solution,” said Kevin Vora, vice president of product management at FCAT. “That’s what we’re introducing with Sherlock – robust and insightful datasets paired with highly intuitive tools to help clients make data-driven digital asset investment decisions,” the executive added.
+
+What do you think about Fidelity Investments releasing a data and research tool for institutional investors? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, Fidelity Investments',
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

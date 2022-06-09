@@ -1,0 +1,71 @@
+Bitcoin made some gains Friday, but ether hit another brand-new price high ahead of CME’s ether futures launching on Monday.
+
+Bitcoin (BTC) trading around $37,751 as of 21:00 UTC (4 p.m. ET). Gaining 0.32% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $36,637-$38,332 (CoinDesk 20)
+
+BTC below the 10-hour but above the 50-hour moving average on the hourly chart, a sideways signal for market technicians.
+
+Bitcoin trading on Bitstamp since Feb 2. Source: TradingView
+
+The price of bitcoin is now in the fourth day of an upward trend, going as high as $38,332 at 14:00 UTC (9 a.m. ET) before losing some steam heading into the weekend. It was down to $37,751 as of press time.
+
+“Similar to the last bull run, we are seeing bitcoin initially steal the attention as retail adoption pours in through mainstream attention,” said Michael Gord, chief executive officer for trading firm Global Digital Asset.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+However, Gord told CoinDesk traders are rotating out of bitcoin to high-flying digital assets. “Bitcoin then cools off and profits generated from bitcoin find themselves first in ether, then in other high market-cap digital assets,” Gord said.
+
+Nevertheless, fresh interest such as from Ray Dalio’s Bridgewater Associates, which manages $150 billion in investor money, has some including quantitative trading firm QCP Capital highly bullish on bitcoin.
+
+“Bridgewater’s piece out last week had a sensitivity analysis which showed their estimates of BTC price, should private holders of gold switch to BTC,” states QCP’s weekly investor note Friday. “They forecasted that should 50% of capital in gold move into BTC, that would result in a price of $85,000 per 1 BTC.”
+
+Comparing bitcoin with traditional asset classes. (Shuai Hao/CoinDesk) Source: CoinDesk Research, St. Louis Fed, Yahoo Finance
+
+Investors are certainly looking to crypto as an asset class, but bitcoin is still quite volatile; its 30-day volatility from Thursday’s close is at 102.9% on an annualized basis whereas gold is at 16%.
+
+Yet, crypto advocates see bitcoin and ether (ETH) similar to different asset classes, according to Joel Edgerton, chief operating officer of cryptocurrency exchange BitFlyer USA. “My guess is that BTC is like gold and priced by the value it stores, a scarce commodity in price discovery,” Edgerton said. “ETH is more like a stock and priced by the value it delivers (ETH 2.0, network effects, basis for DeFi).” He said he thinks of ether as an exchange-traded fund (ETF) for decentralized finance.
+
+While bitcoin has performed well so far in 2021 – it’s up 29% – ether’s returns have more than quadrupled, gaining 129%.
+
+Bitcoin (orange) versus ether (blue) on Bitstamp. Source: TradingView
+
+“Ether is surging largely on the back of the growth in decentralized finance projects that rely on ERC-20 tokens to operate,” Guy Hirsch, managing director of U.S. for eToro. “Since ETH has not previously traded this high, it’s hard to tell what kind of support there is but, should DeFi projects continue to grow at the rate they are, it would be hard for ETH to not also continue setting new records.”
+
+One thing to watch during a heated ether market is the ETH/BTC trading pair. A rise in this market signals traders are selling their bitcoin for ether; it has appreciated over 75% in 2021.
+
+The ETH/BTC trading pair on Coinbase in 2021. Source: TradingView
+
+“While bitcoin consolidates and trends back towards all-time highs, much of the price action has focused on the ETH and DeFi space,” said Jason Lau, chief operating officer of San Francisco-based crypto exchange OKCoin. “ETH/BTC has almost doubled in the last month.”
+
+Ether dominance up ahead of CME launch
+
+Ether, the second-largest cryptocurrency by market capitalization, was up Friday, trading around $1,714 and climbing 3.3% in 24 hours as of 21:00 UTC (4:00 p.m. ET). It hit a brand-new price high Friday, at $1,761, according to CoinDesk 20 data.
+
+The dominance of ether, a measure of the asset to the larger $1.1 trillion market cap of cryptocurrencies overall, is now at over 17%. That’s a more than 50% increase since the beginning of 2021, according to metrics calculated by charting software TradingView.
+
+Dominance of ether so far in 2021. Source: TradingView
+
+Chad Steinglass, head of trading at CrossTower Capital, told CoinDesk that crypto traders have been scooping up ETH ahead of institutional-friendly CME launching ether futures Feb. 8. “I think that many traders are building positions ahead of the launch,” he said.
+
+“The availability of CME-listed ETH futures could be a significant positive catalyst,” said Steinglass. “The addition of CME futures will open the door to many potential investors who want to have exposure, but have yet to take any positions due to logistical hurdles.”
+
+“With decentralized exchange trading surging yet again, and yield farming showing no sign of easing, growing interest in leveraged farming products is driving demand for ETH ever so higher and shows the market is only going to grow further,” noted Denis Vinokourov, head of research at crypto brokerage Bequant.
+
+Other markets
+
+Digital assets on the CoinDesk 20 are all in the green Friday. Notable winners as of 21:00 UTC (4:00 p.m. ET):
+
+Equities:
+
+Commodities:
+
+Oil was up 0.86%. Price per barrel of West Texas Intermediate crude: $56.94.
+
+Gold was in the green 0.92% and at $1,810 as of press time.
+
+Silver is gaining, up 1.8% and changing hands at $26.82.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield climbed Friday to 1.170 and in the green 3.2%.

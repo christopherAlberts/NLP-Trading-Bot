@@ -1,0 +1,139 @@
+Stanislav Kozlovski walks us through the most important events for Bitcoin in the first quarter of 2021.
+
+Gradually, then suddenly.
+
+It is the way that Hemingway penned the process of going bankrupt: first comes a series of incremental steps which bring you closer to bankruptcy, until reality hits you and a sudden realization of what has occurred dawns upon you.
+
+This process can be thought of as a universal one: it applies to many things in life, like achieving success, declining health or the once-in-a-lifetime emergence of a brand-new asset class.
+
+Across the “gradually, then suddenly” spectrum, Bitcoin is inching closer and closer to the “suddenly” part—and this quarter is an immaculate example of that.
+
+In this piece, we will provide a short overview of all the Bitcoin news in the first quarter of 2021. Let’s dig in.
+
+Corporate Treasury Adoption
+
+High-profile companies continued to accumulate bitcoin in their treasury, with Square buying $170 million worth of BTC and MicroStrategy performing the carry trade of the decade by taking out a $1.05 billion bond loan at 0% interest to buy bitcoin.
+
+The biggest splash this quarter was made by Tesla’s surprise bitcoin investment when they put $1.5 billion (7.7%) of their cash holdings into bitcoin, started accepting bitcoin payments for their cars (promising to not convert the proceeds into fiat) and, to top it off, contributed an important security patch to the open-source ecosystem’s BTCPay Server project. Just like that, the company owned by the world’s richest man established itself as a Bitcoin ally—from zero to 100, in less than a quarter.
+
+Other, smaller publicly traded companies also piled on: Marathon invested $150 million, Seetee with $58.6 million and Meitu with $17.9 million. It is reasonable to assume that more companies are accumulating bitcoin but do not plan to announce it. One such example is a New Zealand retirement fund which had allocated 5 percent to bitcoin back in October 2020 but was only recently reported or German company SynBiotic which did not disclose its holdings, just the intention to shift free capital into BTC.
+
+A survey showed that 5 percent of finance executives plan to hold BTC this year which is certainly a much larger number than the handful of organizations that have publicly announced holdings so far.
+
+Financial Institution Support
+
+Like a set of dominos, every financial institution seems to be scrambling to announce support for bitcoin as their competition is rushing to do the same, resulting in a whirlwind of announcements.
+
+Bank of New York Mellon, the world’s largest custodian with $41 trillion assets under management (AUM) and the US’ oldest bank announced that it will offer custody for digital assets like bitcoin.
+
+
+
+A day after, news broke about the sixth largest European bank—Deutsche Bank—prototyping its own digital custody platform and aiming to roll out a minimum viable product in 2021.
+
+Then news started flooding in:
+
+Even popular payment networks rushed to announce support for digital assets:
+
+Mastercard announced that they plan to integrate cryptocurrencies into their network.
+
+Visa announced support for USD Coin to be used to settle transactions on its payment network. Admittingly on the Ethereum blockchain, this is a large step forward for the industry; it is not a stretch to imagine them extending support for lightning. CEO Al Kelly mentioned that they are working on enabling bitcoin purchases on Visa credentials.
+
+PayPal launched a new service that allows US customers to seamlessly use bitcoin as payment to the company’s 29 million merchants while also signaling a desire to move into custody with their recent acquisition of Curv.
+
+Smaller banks around the world are also converging on bitcoin support, just not making the news. For example, a small private German bank, Donner & Reuschel, which has been in business for 223 years, is offering cryptocurrency buying and custody or Blue Ridge Bank, which became the first US commercial bank to provide branch ATM access to bitcoin at its ATMs, allowing people to purchase directly from their ATMs.
+
+Institutional Interest
+
+Institutions continued to show interest for the asset throughout 2021, with BlackRock, the world’s largest asset manager, admitting it started to dabble in bitcoin and Soros Fund Management implying that they already own bitcoin.
+
+Canada made headlines earlier this year with the approval of North America’s first bitcoin ETF, Purpose’s Bitcoin ETF, has amassed over $950 million ($1.2 billion Canadian dollars) of assets under management so far, beating Canada’s largest gold ETF which is at approximately $855 million (CA$1.08 billion) AUM. This product also broke the Canadian record for first-day trading volumes of an ETF by trading 10x the average first-day volume of an average Canadian ETF. Soon after, Canada saw two more bitcoin ETFs (Evolve and CI Galaxy) and is on track to have up to five ETFs with $1.6–2.4 billion (CA$2–3 billion) in AUM.
+
+Meanwhile, over in the United States, the SEC is drowning in bitcoin ETF applications. A US-based bitcoin ETF seems imminent. There are six firms that have filed applications to the SEC proposing bitcoin ETFs that either track and hold the underlying asset directly or have more indirect exposure through funds which invest in bitcoin. As of writing, the firms who have applied are Fidelity, Goldman Sachs, NYDIG, SkyBridge Capital, Valkyrie and Cboe.
+
+To scour the full continent, South America also approved its first ETF in Brazil and is set to go live in summer 2021.
+
+A View of the World in 2021
+
+Just as we were all ready to take a break from 2020, this year proved to be just as dynamic.
+
+It all started with the capitol riots and massive censorship of sitting president of the United States Donald Trump, where several high-profile internet platforms acted in a coordinated fashion to completely remove him from the mainstream internet, with some banks also announcing they would stop doing business with him. Regardless of your political views, this massively unprecedented event sent shocks throughout the world by exposing the scary power that these centralized platforms have. It only goes to show that a censorship-resistant and permissionless currency is desperately needed in a world which can erase even the most prominent figure in a matter of days.
+
+Countries burdened with inflation and a failing currency saw their bitcoin interest skyrocket, with Google searches for bitcoin in Argentina reaching peak popularity (300 percent-plus growth) and a spike in Turkey, where their currency lost 15 percent purchasing power in a single day. Bitcoin seems to be heavily favored compared to gold in such burdened countries, consistently surpassing gold’s Google search volume in Venezuela and Nigeria.
+
+In a world which seems broken, everything seemingly continues to head downhill. Broad money supply was already set to increase 12 percent year over year just from the current planned Federal Reserve purchases ($120 billion a month) when the International Monetary Fund (IMF) urged every country to take on more debt and “spend as much as it can.”
+
+This advice was seemingly taken, as the United States signed a $1.9 trillion stimulus package, followed up by immediately announcing a newly planned $2.3 trillion plan for rebuilding infrastructure. Modern monetary theory is in full effect, as the Federal Reserve is set to own more US treasuries than foreigners any minute now.
+
+As always, inflation numbers are unlikely to reflect what’s actually happening, as official numbers can rarely be trusted. The Federal Reserve’s chairman Jerome Powell asserts this belief as he publicly states that the real unemployment rate is closer to 10 percent compared to the officially stated one of 6.3 percent. If a government official cannot trust the publicly reported numbers, how can an average citizen?
+
+Fear, Uncertainty and Doubt
+
+It all started with this anonymously published fear-provoking article about Tether’s alleged instability which might have scared some investors temporarily but ultimately culminated with Tether finally settling their case with the New York Attorney General and promising to issue quarterly reports of what’s backing the stablecoin.
+
+This quarter we saw many government officials speak about bitcoin from Europe’s Christine Lagarde accusing bitcoin of being involved in “funny business” and the United States’ Janet Yellen suggesting curtailing use because cryptocurrencies are mainly used for “illegal financing.” Both of these statements are provably false by Chainanalysis’ latest report, which found that the criminal share of all cryptocurrency activity in 2020 was just 0.34 percent.
+
+Later, US officials began presenting the energy narrative, talking about how bitcoin is “extremely inefficient,” how it uses a “staggering amount” of energy and continued to speak condescendingly about it, with the Federal Reserve’s Jerome Powell implying it is as useless as gold.
+
+
+
+
+
+It is likely that officials are scared of the asset, as they know that banning it is futile.
+
+History, this quarter including, has proven that countries cannot outright ban bitcoin; they can only temporarily ban their citizens from participating in the network. Some countries like Nigeria realized this inevitability and backtracked on their previous ban within a month after announcing it.
+
+While noisy, this year did not bring any new content with relation to FUD, rather, it simply recycled old content that has long been debunked. Despite the unoriginal negative press, this quarter we saw many people write very eloquently and positively about bitcoin, in particular about its energy use.
+
+Worthy mentions include Stone Ridge’s annual letter, which changed many people’s minds about how eco-friendly bitcoin mining is and can grow to be. Later, Seetee followed up with a letter from its billionaire Norwegian founder citing similar arguments. Both letters were certain that bitcoin will enable many more renewable-energy projects than otherwise would be possible, mainly due to miners’ location-independent nature.
+
+Balaji Srinivasan also wrote an extensive piece about how India would be smart in canceling its proposed bitcoin ban and embracing the technology directly, going as far as to exhaustively describe what they should actually do.
+
+Regulations
+
+Some pro-bitcoin US politicians established key positions in the government, like Cynthia Lummis who joined the banking committee, Former TD Ameritrade Head of Digital Assets Sunayna Tuteja was named US Federal Reserve chief innovation officer and Gary Gesler, who has taught a blockchain course in MIT, is nominated for leading the SEC.
+
+There was mixed news regulations-wise. As we started the year with the FinCEN proposal that had an unreasonably short comment period of 14 days over the holiday season, the onslaught of comments from the community made it so that they had to considerably extend it, with the new Biden administration significantly extending the comment period by some 75 days.
+
+Throughout that period, there was a very positive regulatory change of the Comptroller of the Currency (OCC) providing guidance in having banks participate in public blockchain systems as another form of settlement infrastructure (like Swift and ACH).
+
+Further, Kentucky signed a bill into law that incentivizes bitcoin mining in the state by allowing for tax exemptions on property and electricity used in mining.
+
+Miami, the hosting city of the Bitcoin 2021 Conference, proved to capture attention in the Bitcoin space with the prolific mayor Francis Suarez actively engaging with the industry through Twitter and in-person meetings with famous Bitcoin proponents like the Winklevoss twins. Suarez has also publicly pushed back on some of the negative comments from Janet Yellen and has said to be actively exploring investing part of the city’s treasury into bitcoin. He said that they are procuring a vendor to offer employees to get a percentage of their salary in bitcoin, allow Miami’s residents to pay for fees in bitcoin, potentially also allow taxes to be paid in bitcoin and rumours say they’re working on giving mining incentives to attract investment.
+
+The city, which is aiming to become the crypto capital of the world, even hired a chief technology officer for the first time ever.
+
+With all this positive news, there was bound to be some negativity. The intergovernmental Financial Action Task Force, consisting of non-elected officials, formed ill-detailed crypto regulatory guidelines, with the risk of the current interpretation prohibiting KYC-free use of decentralized networks.
+
+Investments
+
+Throughout Q1, the Bitcoin industry continued to see a large amount of investments:
+
+Capitulations
+
+Throughout Bitcoin’s history, many pundits have openly dismissed the asset while bitcoiners have always seen their incompetence through the fallacy in their arguments.
+
+In a petty battle between Norwegian billionaires, Øystein Stray Spetalen was quick to reverse course after seeing the other Norwegian billionaire Kjell Inge Røkke’s company Seetee buy $58 million worth of bitcoin. In a conference in early March 2021, he expressed his negative views about bitcoin, but just a couple of weeks later, he realized he was wrong and bought some.
+
+Many previously outspoken opponents of bitcoin reversed course this quarter, like The Motley Fool which capitulated and bought $5 million worth of bitcoin, or all of the large banks:
+
+We’ve seen hugely respected names in the investment industry turn from skeptic to lukewarm, like Howard Marks who initially called bitcoin a pyramid scheme only to admit this year that he did not understand it. Ray Dalio has been trekking across the spectrum as well, most recently scheduled to speak at two crypto conferences: Texas A&M Bitcoin Conference inApril 2021 and Consensus in May 2021.
+
+Bitcoin has the power to convert even the most faithful gold believers, like long-time gold bull Jeffrey Gundlach who turned neutral on his views on gold and the dollar, admitting bitcoin may be the better bet which is no surprise considering the Bank of Singapore implied the same thing in a research note.
+
+Retail interest has been rekindled over the quarter as well, with many exchanges recording all-time high traffic and bitcoin-related social media seeing parabolic growth:
+
+/r/bitcoin subreddit subscribed growth. Source: https://subredditstats.com/r/bitcoin
+
+
+
+Conclusion
+
+In the same way that people never notice the “gradually” part of bankruptcy and are left struggling with solutions once the “suddenly” part hits, today’s market participants are scrambling to establish their position in this new Bitcoin world, be it as a service provider, investor or anything in-between.
+
+While the flurry of news can certainly seem like we are in the “suddenly” part of the spectrum, it is worth taking a step back, observing the bigger picture and realizing we still have a long way to go.
+
+Today, bitcoin's market cap is roughly 10 percent of gold's market cap, a five-time jump from where it was in May 2020 but still a far cry away from its first milestone of surpassing gold. Bitcoin’s market cap is still significantly less than the whole $1.9 trillion stimulus package that the United States printed out of thin air. Nevertheless, since 2020, there have been clear signs that bitcoin demand is growing incredibly fast, much faster than the market demand for gold, despite being worth only a small fraction of gold's market cap.
+
+My intuition tells me that we are still a fair amount of time away from jaw-dropping adoption. Money, after all, is humanity’s most valued asset, as the whole world readily trades its scarcest resource (time) for it. Bitcoin is a global permissionless network consisting of the soundest money the world has ever seen. Any quarter which truly embodies the “suddenly” part of the market penetration of this global asset will surely not be able to fit inside a single sub-3000-word piece.
+
+This is a guest post by Stanislav Kozlovski. Opinions expressed are entirely their own and do not necessarily reflect those of BTC Inc. or Bitcoin Magazine

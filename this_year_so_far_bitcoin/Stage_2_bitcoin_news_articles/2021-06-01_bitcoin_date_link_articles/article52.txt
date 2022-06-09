@@ -1,0 +1,15 @@
+Chinese bitcoin mining hardware maker Canaan Creative said, in its Q1 financial report, that the overseas market accounted for nearly four fifths of its sales in the quarter.
+
+The firm said on Tuesday that it made a gross profit of $29.6 million for Q1 on a net revenue of $61 million. In addition, due to a growing number of pre-orders from institutional buyers during the period, its contract liability increased from $67 million as of December 31 to $184 million as of March 31.
+
+“We delivered solid financial results in the quarter, with total net revenues increasing by 489.9% year over year," Canaan's CFO Tong He said in the report. "We have made meaningful progress in the expansion of our global customer base during the quarter"
+
+Notably, the overseas market made up 78% of Canaan's sales in Q1. That's up significantly compared to the first quarter of last year, when it was just 4.9%. This is in line with The Block's previous reports that European and North American institutions have been the dominant buyers of mining equipment over the past six months, investing billions of dollars in the newest generations of mining equipment.
+
+This appears to be the first time Canaan has reported that its domestic sales were eclipsed by its overseas business. Until recently, on-shore Chinese buyers had typically been the dominant forces buying the new generation of mining equipment from not only Canaan, but also Bitmain and MicroBT.
+
+Canaan added that the amount of computing power it sold in Q1 amounts to 2 exahashes per second, which is up 122% year-over-year.
+
+Three major Chinese manufacturers Bitmain, MicroBT and Canaan are set to record more than $1 billion combined in 2021 revenue, where the majority of the investment sources would come from overseas institutions.
+
+Meanwhile, China's recent bitcoin mining crackdown comment had also led to local bitcoin miners looking for back-up plans to brace for the impact, which may include relocating their equipment to facilities outside of China.

@@ -1,0 +1,67 @@
+Bitcoin trading on Coinbase Source: TradingView
+
+Bitcoin (BTC) trading around $63,462.44 as of 20:00 UTC (4 p.m. ET). Climbing 2.14% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $61,400.58-$63,464.66 (CoinDesk 20)
+
+BTC trades above its 10-hour and 50-hour averages on the hourly chart, a bullish signal for market technicians.
+
+The excitement around Coinbase’s direct listing appeared to be short-lived and bitcoin’s price movement appears to be stuck within the same range as a day ago when the big U.S. cryptocurrency exchange’s shares started trading on Nasdaq.
+
+Coinbase shares (NASDAQ: COIN) soared to as high as $429.54 in its first hours of trading on Wednesday but closed at $328, below the initial opening price at $381.
+
+The deflating passion was reflected Thursday in bitcoin’s spot trading activity: The daily spot trading volume from eight crypto exchanges tracked by CoinDesk dropped substantially, to below $2 billion, from near $5.5 billion on Wednesday.
+
+Source: CryptoCompare
+
+Galaxy Digital CEO Mike Novogratz expressed his concerns about a broader market pullback to MarketWatch earlier Wednesday, adding that many “weird coins” have had huge volume spikes from retail traders.
+
+Read More: Bitcoin in Stasis as Crypto Bull Mike Novogratz Warns of Market Washout
+
+Ether and altcoins
+
+Ether trading on Kraken. Source: TradingView
+
+Ether (ETH) trading around $2,482.15 as of 20:00 UTC (4 p.m. ET). Climbing 6.28% over the previous 24 hours.
+
+Ether’s 24-hour range: $2,316.67-$2,486.87 (CoinDesk 20)
+
+Ether trades above its 10-hour and 50-hour averages on the hourly chart, a bullish signal for market technicians.
+
+Ether outperformed bitcoin Thursday on a percentage basis gain.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+The center of attention for the No. 2 cryptocurrency by market capitalization was Ethereum’s Berlin hard fork. It went live early Thursday.
+
+The upgrade, which sets up the network for the much bigger London hard fork in July, incorporates four Ethereum Improvement Proposals (EIPs) that tinker with gas prices and allow new transaction types.
+
+Since the upgrade, a consensus bug was found with the Open Ethereum client, which disrupted block production. Coinbase disabled ETH and ERC-20 withdrawals on both Coinbase and Coinbase Pro.
+
+In the derivatives market, open interest in ether’s options market rose to a record $3.3 billion Wednesday. The cryptocurrency’s one-month implied volatility (IV) remained low, meaning that investors expect lower odds of price turbulence in the next month.
+
+Source: Skew
+
+Other digital assets on the CoinDesk 20 are mostly higher Thursday. Notable winners as of 20:00 UTC (4:00 p.m. ET):
+
+There were no notable losers as of 20:00 UTC.
+
+Other markets
+
+Equities:
+
+Asia’s Nikkei 225 closed up by 0.073%.
+
+The FTSE 100 in Europe was up by 0.63%.
+
+The S&P 500 in the United States closed in the green 1.11%.
+
+Commodities:
+
+Crude oil (WTI): +0.33% to $63.36/barrel.
+
+Gold: +1.67% to $1,764.82/ounce.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield fell Thursday to 1.547%.

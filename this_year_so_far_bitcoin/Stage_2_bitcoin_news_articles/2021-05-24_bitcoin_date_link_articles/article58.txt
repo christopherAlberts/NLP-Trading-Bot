@@ -1,0 +1,67 @@
+For more than 100 years, the stock market has been one of the greatest wealth creators in this country. Stocks might have taken a back seat to housing, oil, gold, or other assets for brief periods of time over the past century, but they've delivered the highest consistent returns of any investment vehicle.
+
+That is until cryptocurrencies came along a little over a decade ago.
+
+The emergence of Bitcoin (CRYPTO:BTC), Ethereum (CRYPTO:ETH), Dogecoin (CRYPTO:DOGE), and a host of other digital currencies have paved the way for once-in-a-lifetime gains. For instance, a $155 investment in Bitcoin at $1 would have been worth over $1 million when it hit $64,800 a token in mid-April.
+
+But over the past two weeks, cryptocurrencies have fallen off a cliff. Some would call this a natural pullback after a monstrous run higher. I have a different name for it: a popping bubble.
+
+While there is no shortage of enthusiasts who believe digital currencies are the greatest thing since sliced bread, I believe the crypto market is imploding for 10 very good reasons.
+
+1. There's very minimal real-world utility
+
+One of the biggest drawbacks of digital currency is that it's virtually useless outside a cryptocurrency exchange. Although we've seen a small number of high-profile companies or organizations accept Bitcoin or Dogecoin, the reality is that the total number of businesses accepting either is microscopic. Approximately 1,300 businesses globally have chosen to accept Dogecoin after eight years, while Fundera found that 15,174 businesses accept Bitcoin, as of December 2020. For some context here, there are an estimated 582 million entrepreneurs worldwide.
+
+2. Valuations, relative to transaction data, made no sense
+
+Even though valuation is somewhat subjective, one glance at transaction data for the three most popular cryptocurrencies, relative to payment processing juggernauts such as Visa (NYSE:V) and Mastercard (NYSE:MA), would leave anyone's jaw on the floor.
+
+The latest Nilson report found that 1.01 billion credit transactions were processed daily in 2018, 700 million of which were handled by Visa and Mastercard. By comparison, Bitcoin, Ethereum, and Dogecoin are processing in the neighborhood of 300,000, 1.4 million, and 50,000 respective transactions on their blockchains each day. All the major cryptos combined can't hold a candle to the processing potential of Visa or Mastercard, yet the Big Three of crypto have a higher combined market value than Visa and Mastercard. That makes no sense.
+
+3. Businesses have been slow to adopt blockchain
+
+On paper, blockchain sounds great. On the financial side of the equation, it's a way to expedite the validation and settlement of payments. Rather than waiting up to a week for cross-border payments to settle, they could be resolved in mere seconds or minutes. Blockchain also has nonfinancial applications. Ethereum's smart contract-driven blockchain might be the key to one day unlocking supply chain bottlenecks.
+
+However, what sounds great on paper doesn't always translate into real-world success. Blockchain continues to suffer from a Catch-22. Businesses won't adopt it till the technology is proven on a broad scale, but no businesses will abandon their existing (and proven) infrastructure to effectively be the guinea pig. Until blockchain matures, big business will keep its distance.
+
+4. There's virtually no barrier to entry
+
+Aside from minimal utility, my biggest personal gripe with crypto is there's no barrier to entry. Anyone with the time to code can develop a blockchain and, potentially, a tethered token. According to CoinMarketCap, there are almost 10,000 different cryptocurrencies in its system. While many aren't trading much, if at all, that's an insane number of potential competitors to Bitcoin, Dogecoin, and Ethereum, with the likelihood of many more to come.
+
+In short, the crypto space is constantly being diluted by an unlimited amount of competition.
+
+5. Centralization remains a problem
+
+One of the many goals of cryptocurrencies is decentralization. This is to ensure that no one person or small group of people controls a network. Yet according to data from BitInfoCharts.com, ownership in Bitcoin and Dogecoin is fairly centralized. Just 2,155 addresses own almost 42% of all Bitcoin, while 66.6% of all outstanding Dogecoin is owned by only 99 addresses. It's possible folks are waking up to the fact that these financial experiments aren't as decentralized as they were intended to be.
+
+6. Elon Musk is tugging at heartstrings
+
+Another reason the crypto bubble is bursting is that it's been artificially driven by tweets from Tesla CEO Elon Musk.
+
+At first, Musk was all aboard the Bitcoin train. He purchased $1.5 billion Bitcoin for Tesla's balance sheet in February and announced that the company would begin accepting Bitcoin for electric vehicle purchases a month later. Then, after 49 days, he tweeted that Tesla would no longer accept Bitcoin because of the adverse environmental impacts of mining it. He's since turned his attention to Dogecoin.
+
+The fact that tweets with little or no substance are creating and erasing hundreds of billions of dollars in crypto market value would seem to indicate that a bubble has been brewing for some time.
+
+7. Not all governments are OK with crypto
+
+The crypto bubble is also popping because some governments aren't OK with allowing cryptocurrencies to undermine their own central bank-backed currencies. Last week, China sent the crypto market into a tailspin after prohibiting banks and online payment channels in the country from offering any services related to the cryptocurrency industry. It should be noted that a lot of Bitcoin mining occurs in China.
+
+And China's far from alone. Turkey recently enacted a ban on crypto payments. Meanwhile, countries including Bolivia, Ecuador, Nigeria, and Algeria have effectively banned digital currencies. This trend makes the global use case for crypto unlikely.
+
+8. There are no identifiable real-world correlations
+
+Yet another issue with crypto is there are no readily identifiable real-world correlations.
+
+For example, we know that gold and the U.S. dollar have an inverse relationship to one another. When the dollar is declining in value, gold is very likely rising in value. This is a correlation that's been established over a long period of time.
+
+Bitcoin, Ethereum, and Dogecoin don't have these correlations. Enthusiasts like to point out how crypto is a hedge against inflation, but they forget that Bitcoin has both risen and fallen when the money supply expanded rapidly or slowly. Crypto is driven by emotion and technical analysis, primarily because it has no real-world correlations.
+
+9. Leverage is haunting the crypto market
+
+The cryptocurrency implosion can also be blamed on investors who are over-levered. Some of the most popular crypto exchanges will allow customers to use 50 to 125 times leverage on their actual account equity. While this isn't an uncommon amount of leverage in forex, where currencies move in fractions of a cent, it's absolutely ludicrous for crypto, which can move 3% in the blink of an eye.
+
+According to data from Bybt.com, via Bloomberg, over 887,000 accounts totaling $9.4 billion in aggregate crypto assets were liquidated as a result of leverage-based margin calls on May 19. Because of this insane leverage, it doesn't take much for things to go south quickly for the crypto market.
+
+10. Investors always overhype new tech
+
+Finally, investors frequently overestimate the adoption of new technology. Though there is no shortage of people hyped up about blockchain, it's been more than a half-decade and the blockchain buzz hasn't materialized into meaningful enterprise usage. It takes all next-big-thing technology time to mature, and crypto will be no different.

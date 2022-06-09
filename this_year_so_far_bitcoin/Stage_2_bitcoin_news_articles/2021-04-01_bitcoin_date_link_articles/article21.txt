@@ -1,0 +1,37 @@
+The Power of ETH and BCH: Smart Bitcoin Cash Project Highlights Innovative Sidechain
+
+On Thursday, Bitcoin Cash proponents were introduced to a new website that features a project called Smart Bitcoin Cash or Smartbch for short. Essentially, the project is a sidechain for Bitcoin Cash that is compatible with Ethereum’s EVM and Web3 API, which means people will soon be able to leverage decentralized applications (dapps) without paying lots of money for transaction fees.
+
+Bitcoin Cash Fans Introduced to a Unique Ethereum and Web3-Compatible Sidechain
+
+At the time of writing, Ethereum is the dominant chain when it comes to Web3 applications and decentralized finance. However, ethereum (ETH) fees to interact with a Web3 compatible dapp or some type of smart contract can be very expensive these days. The Smartbch project aims to change all that and the creators plan to make throughput as large as one billion gas every 15 seconds.
+
+The new website called smartbch.org says the sidechain will essentially maximize throughput of EVM and Web3 tools. The website gives a person a comprehensive look at what Smart Bitcoin Cash aims to accomplish with a FAQ, documentation, community resources, and even jobs and bounties.
+
+“Smart Bitcoin Cash’s innovation lies in libraries,” the core components mentioned in the project’s white paper notes. “Instead of inventing fancy consensus and cryptographic algorithms, we decided to adopt another methodology: to develop low-level libraries with an aim to fully uncover the hardware’s potential, especially its inherent parallelism. Ordinary users and developers are provided with a compatibility layer supporting EVM and Web3, so the optimized low-level “close to the metal” libraries themselves remain concealed by this layer of abstraction. During the implementation, we used the codename ‘Moeing,’ which is added to the libraries’ names as prefix.”
+
+Five Tools and Many Benefits
+
+Smartbch leveraged five tools that will be greatly beneficial to the sidechain’s ecosystem. MoeingADS single-layer architecture, the MoeingEVM parallelized execution engine, the MoeingDB application-specific database, MoeingKV storage, and the MoeingAOT compiler for the EVM. The project’s website notes that programmers can “build a new playground for Bitcoin Cash’s ecosystem and enlarge the user base.”
+
+Smartbch will also offer:
+
+EVM and Web3 compatible and has a short block interval to support defi-applications.
+
+The throughput will be as large as one billion gas every 15 seconds to allow more users to practice defi at a very low cost.
+
+Has been developed from scratch and is made of several low-level libraries which fully leverage the potential of hardware, especially its inherent parallelism.
+
+Earn an extra reward for Bitcoin Cash’s miners and holders, who can elect Smart Bitcoin Cash’s validators with hashpower and locked coins, respectively.
+
+Develop trustless non-custodian two-way pegged gateways, which can support any kinds of side chains of Bitcoin Cash for securely transferring BCH bidirectionally. This enables Bitcoin Cash to include more side chains for a richer ecosystem.
+
+Bitcoin.com’s newsdesk was the first to report on the Ethereum and Web3-compatible sidechain coming to Bitcoin Cash during the first week of March. Of course, the BCH community on Reddit loved the idea and many supporters wrote a comment about the project on r/btc.
+
+“We are working with the Smartbch team and have a test node running. Should have the Uniswap contract working this weekend,” one programmer wrote on the forum. The first release of version 0.1.0 of Smartbch is now available and developers can help test a dapp on Smartbch. Programmers can also download the source code and start a single node testnet. At the time of publication, bitcoin cash (BCH) is exchanging hands for $560 per unit, up 2.3% during the last 24 hours.
+
+What do you think about the Smartbch project and the Ethereum and Web3-compatible sidechain coming to Bitcoin Cash? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, Smartbch
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

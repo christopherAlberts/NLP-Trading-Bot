@@ -1,0 +1,17 @@
+The ongoing cryptocurrency boom has enraged gamers, with highly sought-after graphics cards like the GeForce RTX 3080 being snatched up en masse to work in mining builds. Technically though, you're not restricted to just using the latest computing components in these rigs, as is being proved by enthusiasts across the world.
+
+Programming YouTuber 8 Bit Show and Tell has modded his Commodore 64 to mine popular cryptocurrency Bitcoin, despite the almost 40-year-old computer rocking a 1MHz processor.
+
+This experiment appears very much to be a matter of seeing if he could rather than if it was something actually worth doing, especially as NoteBook Check points out the Commodore 64 is thousands of times less powerful than even a mediocre android phone.
+
+
+
+In fact, comically mining cryptocurrency on woefully underpowered hardware has made a few headlines this year, with mining on Raspberry Pi builds and Game Boys appearing across various social media sites.
+
+Should you bring your Commodore 64 out of retirement?
+
+In short – no. While it's becoming apparent that you can mine for Bitcoin on just about anything (including your fridge), you're unlikely to make a profit before our sun fizzles out of existance. In fact, mining on the Commodore 64 will take an estimated 758 million years for the setup to generate just $10 in profit, given it manages a hashrate of just 0.3 H/s.
+
+
+
+You'd also need to connect the 1982 hardware to a modern computer regardless to transfer the blocks by Python via serial link, so it would be far more practical to just mine on the connecting PC or laptop. Mining builds using unusual hardware like this certainly won't deter any miners from buying up any new gaming-optimized components, but it's an interesting perspective on just how far our tech has come in our lifetimes.

@@ -1,0 +1,31 @@
+Central Bank of Sweden Invites Financial Market Actors for Second Phase of E-krona Pilot
+
+Sveriges Riksbank, the central bank of Sweden, will carry out the next stage of its e-krona project with the help of two organizations from the financial sector. The move signals a transition from the initial in-house testing with simulated participants to cooperation with real, external partners.
+
+Riksbank to Work With Handelsbanken and Tietoevry to Test E-krona
+
+The main task during the new phase of the pilot will be to trial “the technical solution for the e-krona” with the participation of real market entities. To accomplish this, Riksbank has invited Handelsbanken, one of the country’s major banking institutions, and Tietoevry, a digital services and software company. In an announcement published Friday, the regulator noted:
+
+Involving external actors as participants in the test environment will make it possible for the Riksbank to evaluate the integration between the participants’ existing systems and the technical platform for the e-krona pilot.
+
+One of the elements that will be tested is the integration of the payment flows developed during the first year of the pilot with the internal systems of the new participants, Riksbank explained. The partners will simulate how banks might interact with the e-krona infrastructure, Tietoevry detailed in a separate press release, elaborating:
+
+Tietoevry will develop and test the process of interchangeability between commercial money and e-kronor and analyse how this can be carried out securely and efficiently.
+
+The Finland-headquartered company also noted its “unique position in the Nordic financial ecosystem” thanks to a large customer base consisting of banks and payment providers. Over 70% of all Nordic bank transfers go through its payment systems and the fintech enables the leading mobile payment providers in Sweden, Norway and Finland.
+
+Central Bank of Sweden to Integrate E-krona With Existing Banking Infrastructure
+
+“Our role in the Swedish payment infrastructure is well established, and Tietoevry is a natural partner when exploring how to integrate a digital currency with existing banking infrastructure,” said Christian Segersven, head of financial services solutions and software development. “We are looking forward to supporting this journey towards an inclusive digital currency that will open up for innovative and secure services,” he added.
+
+Svenska Handelsbanken, the other partner to get involved in the second stage of the e-krona pilot, is one of Sweden’s largest banks, with more than 400 branches across the country. Founded in 1871, it’s also the oldest company listed on the Swedish stock exchange. In the past couple of decades, Handelsbanken has been expanding its operations in other countries in the region as well as Netherlands and the U.K., where it has over 200 branches.
+
+Sweden’s plan to issue a central bank digital currency (CBDC) dates back to a few years ago. Towards the end of 2020, the government in Stockholm began exploring the feasibility of digitalizing the national fiat, the Swedish krona. Arguably, the Scandinavian country has already built the world’s most cashless society. The review should be conducted within two years of its launch.
+
+Last month, Riksbank announced the completion of the first phase of the study and released a report which highlighted the continuing decline of cash usage in the country. The central bank of Sweden emphasized the need to proceed with the project and facilitate the involvement of market actors expected to take part in the testing now and join the e-krona network in the future.
+
+What do you think about Riksbank’s plan to digitalize the Swedish krona? Let us know in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

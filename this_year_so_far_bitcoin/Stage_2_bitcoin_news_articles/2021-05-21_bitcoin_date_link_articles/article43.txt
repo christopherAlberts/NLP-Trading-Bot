@@ -1,0 +1,41 @@
+File photo by peshkov/ iStock / Getty Images Plus, St. George News
+
+FEATURE —Most people are clueless about Bitcoin. What does it do? Why is it so valuable? What is blockchain? And more important, how does this all affect my own money and retirement?
+
+Once relegated to the global financial system’s outermost fringes, cryptocurrencies such as Bitcoin and Ethereum have entered the mainstream consciousness in a dramatic and disruptive fashion.
+
+Many of us think of cryptocurrency as new. But the idea of creating a more open and accessible financial system, one with greater privacy and lower costs, dates back to the 1980s. Bitcoin was the first viable cryptocurrency, although there had been several previous attempts at designing more private ways to perform financial transactions.
+
+Initially, Bitcoin enthusiasts were a select group of early adopters, mainly programmers and technologists. Computer programmer Hal Finney was the first to download the original bitcoin software in 2009, receiving 10 bitcoins for his trouble.
+
+How does cryptocurrency work?
+
+I don’t want you to wind up in the weeds, so I will give only a brief overview of what makes cryptocurrencies tick.
+
+Bitcoin, as well as alternative cryptocurrencies, are built with something known as blockchain technology. Concisely defined, a blockchain is a type of digital ledger made up of records known as “blocks.” Blockchain software is a decentralized, distributed, typically public database that records transactions across multiple computers. No one can alter blocks on the chain retroactively without changing all the subsequent blocks.
+
+Blockchain isn’t limited to financial transactions, either. It also serves as a real-time ledger of things such as contracts and physical assets. Because it is open, anyone in the blockchain can see details of each block. When a block is stamped and encrypted, the only person who can make changes is the person who “owns” that block.
+
+Owners of blocks only gain access to them through a unique private key. When a block is edited, the entire blockchain is updated and synced in real-time.
+
+Banks and corporations are noticing blockchain. Blockchain technology could revolutionize the financial world. It cuts out intermediaries, reduces costs, saves time and provides greater financial privacy. Using blockchain reduces transaction complexity. For example, if you buy stock using blockchain, your transaction is settled in minutes, not hours. You don’t need someone else to process your stock purchase.
+
+Also, even though there is no such thing as something that’s “hack-proof,” blockchain appears to be a lot more secure than anything else available today.
+
+Currently, only about 0.5% of the world is using blockchain technology; however, it’s poised to go mainstream very soon. Big banks, insurance and technology companies and venture capitalists dedicate billions of dollars and hundreds of thousands of employee hours to blockchain projects each year.
+
+Experts estimate that the banking sector alone could save as much as $12 billion annually by switching to the blockchain ledger.
+
+Summing it up
+
+Cryptocurrency, based on blockchain technology, has the power to drastically change the way we do business and make even global transactions faster and more seamless.
+
+Cryptocurrency cannot be manipulated or controlled by a central bank like paper currency. It provides more security and privacy than our current system, and in many ways, it is freer and more democratic. As the technology evolves, transactions on the blockchain will become more straightforward and more accessible to ordinary individuals.
+
+If blockchain technology and cryptocurrency interest you, there are many excellent YouTube videos available to give you more in-depth information about this incredible new financial alternative. There are also websites to help you get a handle on the more technical aspects of the blockchain. If you are thinking about investing in cryptocurrencies, seek advice from a financial professional who has proven blockchain experience.
+
+Still confused? Most people are, but recent changes suggest that Bitcoin may be the next “gold” standard which will increase or decrease in value based on its perceived value. The valuation of Bitcoin is based on speculation. Many think that Bitcoin will continue to increase in value. This is not uncommon with other “Bitcoins” of the past; the Dutch Tulip Bulb Craze of the 1600s comes to mind.
+
+If you wish to buy bitcoin, a new company was recently listed on the New York Stock Exchange (COIN). Be careful.
+
+Copyright © Lyle Boss, all rights reserved.

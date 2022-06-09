@@ -1,0 +1,39 @@
+'Ossification Is Stupid:' Bitcoin Development Controversy Strikes 'Speedy Trial' Taproot Activation
+
+The well known software developer Luke Dashjr is in the midst of controversy over how to upgrade the Bitcoin network in order to add the Taproot protocol. Bitcoin Core developers want to upgrade with “Speedy trial,” which will allow miners to push the feature through. However, Luke Dashjr wants to upgrade in a different manner, and considers the proposal an “attack on Bitcoin” as it’s “not a good thing” from his perspective.
+
+Bitcoin Developers Find Controversy Over Taproot Activation
+
+Bitcoin developers have revealed “Speedy trial support for versionbits #21377,” which aims to implement Taproot via BTC miner activation. The activation would “Start soon: shortly after the release of software containing this proposed activation logic, nodes will begin counting blocks towards the 90% threshold required to lock in taproot,” David A. Harding’s description notes.
+
+A great number of developers have participated in the “Speedy trial” conversation including programmers like Jeremy Rubin, Sjors, AJ Towns, Max Hillebrand, and Michael Folkson.
+
+“Speedy trial merged into bitcoin core,” software and Bitcoin developer Ben Carman tweeted on April 14, 2021.
+
+Luke Dashjr responded to Carman’s tweet and said: “Community came to consensus on BIP8. These devs are IGNORING that and pushing their own agenda instead. It is an attack on Bitcoin, not a good thing.”
+
+Ben Carman disagreed and stated: “[I] disagree, without this, we’d still be bikeshedding over activation methods. I think the stuff you guys are doing with the UASF client is still good however, the correct safety net.”
+
+Another Bitcoin developer, Jeremy Rubin said to Dashjr that if he was right about this issue it wouldn’t matter.
+
+“Even if it doesn’t practically matter, it is still a violation of community trust in Bitcoin Core,” Dashjr replied.
+
+Cobra: ‘A Bit Dangerous to Run Different Consensus Rules’
+
+Following the banter on Twitter, Dashjr released his own “Bitcoin Core 0.21.0 build” and bitcoin.org owner Cobra said he was perplexed.
+
+“I’m confused, what’s going on?” Cobra asked. “Taproot activation,” Dashjr responded to the bitcoin.org owner. “Yeah but it’s a bit dangerous to run different consensus rules willy-nilly isn’t it? I mean this is a trillion-dollar network now,” Cobra said to the developer. “Ossification is stupid and suicide,” Dashjr insisted.
+
+“Luke is carrying out a personal vendetta at the expense of the community,” one person said in Dashjr’s Twitter thread. “The best analogy I can think of is a toddler throwing a temper tantrum,” he added. Dashjr responded to the statement and stressed: “That’s a lie.” “It’s not a lie, it just doesn’t fit your narrative,” the person remarked.
+
+The Bitcoin (BTC) network has not seen a major upgrade since Segregated Witness and the Segwit2x fiasco back in 2017. It has been said because of that situation, it may be hard for the BTC community to fork the chain going forward.
+
+This is not Luke Dashjr’s first entry into the land of controversy, as he’s made a number of controversial statements about Segwit and even talked about shrinking Bitcoin’s block size down even lower than 1MB per block.
+
+“So it turns out (not so surprisingly) that spammers are abusing Segwit’s block size increase to gain an advantage over legit Bitcoin users,” Dashjr insisted on September 17, 2019. “Reducing the block size limit could rebalance this unfair advantage / bad incentive Segwit has created,” he added at the time.
+
+What do you think about the controversy surrounding Taproot activation and Luke Dashjr’s recent statements? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

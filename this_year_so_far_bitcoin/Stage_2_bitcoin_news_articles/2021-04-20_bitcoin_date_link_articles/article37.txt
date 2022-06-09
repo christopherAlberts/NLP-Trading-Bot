@@ -1,0 +1,23 @@
+An ISIS-supporting cybersecurity group warned followers to avoid using Bitcoin because of the potential for jihadists to be tracked through use of the cryptocurrency.
+
+The Electronic Horizons Foundation, which launched in January 2016 as an IT help desk of sorts to walk ISIS supporters through how to encrypt their communications and otherwise avoid detection online while coordinating with and recruiting jihadists, has previously warned followers through its weekly Tech News Bulletin that law enforcement has been able to trace payments of Bitcoin, and thus site users, by following the flow of funds on the blockchain.
+
+Last summer, Akhbar al-Muslimin, a well-known ISIS-affiliated news website, stopped taking Bitcoin donations and moved to monero instead.
+
+In a new alert posted on the group’s website Saturday, the Electronic Horizons Foundation warned against using Bitcoin “for financial transactions and money transfer, as Bitcoin logs the financial records and transactions on the Blockchain, which is a database of Bitcoin transactions, and allows tracking of transfers from the sender and receiver.”
+
+“We also warn that the money transfer services and sites (exchanges) to Bitcoin logs IP addresses and the purchase data of (Bitcoin currency), and these sites also cooperate with government agencies,” the cyber group continued, advising “our brothers to follow the maximum possible security measures” and warning against “using common methods in financial transactions.”
+
+The notice was posted in Arabic, English, and French.
+
+EHF announced earlier this month that they launched their own cloud and chat platforms to help churn out new propaganda and allow followers of the terror group to better “close ranks” online.
+
+“In light of recent developments in the media arena and the restriction of technology companies to content, we resorted to developing solutions that provide a space for propagation between the fellow supporters and the general Muslim community, so that the benefits may prevail,” the Electronic Horizons Foundation said in its announcement posted online. “We developed the ‘Horizons Cloud Platform’ for advocates to use to upload and publish files on the Internet.”
+
+The group also developed an Element-based messaging and chat hub “to provide publishing rooms and continuous follow-up for news and content as an initiative to close ranks, and a starting point for the development of media work, Insha Allah.”
+
+EHF released a 24-page cybersecurity magazine for ISIS supporters last May that walks jihadists through step-by-step security for smartphones — while encouraging them to use a computer instead for more secure terror-related business — and warns of “nightmare” Microsoft Windows collecting user data from geolocation to browsing history.
+
+The group regularly issues cyber news, guidelines and advisories, such as an “important warning” earlier this year telling supporters that “spies of intelligence agencies are using a new method to track down supporters through Google Play Store.”
+
+(Visited 1,919 times, 1 visits today)

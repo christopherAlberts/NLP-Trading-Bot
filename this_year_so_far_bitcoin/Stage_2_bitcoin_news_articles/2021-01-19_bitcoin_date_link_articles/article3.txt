@@ -1,0 +1,27 @@
+What do the smart watch maker Garmin, the Israeli insurer Shirbit, the electronics manufacturer Foxconn, Pennsylvania’s Delaware county, the foreign exchange company Travelex, the alcohol producer Campari and the Baltimore Public School system have in common?
+
+They were all hit by ransomware attacks in the last year.
+
+Boaz Sobrado is a London-based data analyst and cryptocurrency enthusiast.
+
+Ransomware attacks are when hackers gain access to the computer systems of the victim, and threaten to expose them or render them useless unless the victim pays a ransom. The attacks are increasingly professional. Victims are directed to a “user support” site where they can chat with the ransomware operators. Sometimes they can see a ticking clock: If the ransom is not paid within 24 hours, the ransom amount doubles.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+The COVID-19 pandemic forced even reluctant companies to start working remotely, which was a blessing for ransomware operators. The average ransom payment in Q2 2020 was over $178,000, which is a 60% increase from Q1 2020. Ransomware operators have also improved on their methods. Whereas a few years ago attacks were largely “spray-and-pray,” hackers are now deliberately picking their targets and adjusting ransom amounts based on what they think those targets can pay. The ransom is often only part of the cost.
+
+The Danish facilities company ISS estimated that a ransomware incident in February will end up costing it between $45 million to $75 million in IT upgrades and other measures. These ransoms are almost always paid in bitcoin. It is estimated that ransomware operations will cause $20 billion in damages this year.
+
+See also: JP Koning – Ban All Ransomware Payments, in Bitcoin or Otherwise
+
+The ransomware industry is experiencing rapid growth, and governments are increasingly aware. On Jan. 6, the U.S. Federal Bureau of Investigation (FBI) issued a warning to the private sector about Egreror, a ransomware operator that has affected Barnes & Noble, Kmart and Ubisoft. CoinDesk columnist JP Koning has argued for a government ban on companies paying for ransomware, as a way to reduce the incentive for criminals to engage in these attacks. We are a high-profile hack away from ransomware being a topic in mainstream politics.
+
+We are a high-profile hack away from ransomware being a topic in mainstream politics.
+
+The emergence of bitcoin has facilitated a crime that previously was not possible. Yet, there is no reason why the use of bitcoin for ransom should be considered only for online crime. When an American businessman was kidnapped in Costa Rica in 2018, his kidnappers demanded (and received) a ransom in bitcoin. Known cases of kidnapping for bitcoin are rare as of now, but it is just a matter of time until kidnappers understand the product market fit. In fact, bitcoin adoption is growing fastest in countries like in Nigeria, where kidnapping has been called “a growth industry.”
+
+Bitcoin ransom payments may enable new forms of real-world crime. In the past, Somali pirates risked their lives for a ransom payment that had to be airdropped from a helicopter. In the future, pirates may simply steer an explosive-laden, remote-controlled ship next to an oil tanker and tweet a picture with a bitcoin address at the shipping company. Private jets flying out of Davos may find themselves approached by autonomous aircraft threatening to smash into the rudder unless demands are met.
+
+See also: Boaz Sobrado – DeFi Still Needs a Silk Road Moment
+
+Bitcoin is highly liquid, censorship-resistant digital cash. These properties make it attractive for criminals but also pro-democracy activists. The Human Rights Foundation championed bitcoin for its important role in helping protestors in Belarus, Hong Kong and Nigeria. Bitcoin is also gaining acceptance as an effective hedge against inflation and government confiscation on Wall Street.

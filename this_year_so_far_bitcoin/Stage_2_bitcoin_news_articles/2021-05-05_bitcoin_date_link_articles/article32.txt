@@ -1,0 +1,45 @@
+BOSTON--(BUSINESS WIRE)--State Street Corporation (NYSE:STT) today announced the launch of a new Bitcoin Thematic Indicator series to help contextualize the rising popularity of Bitcoin and how it is impacting more traditional financial markets. The series quantifies media coverage of Bitcoin, measuring the intensity or prevalence relative to all news of the day, as well as the sentiment of news over a period of time.
+
+This new indicator series expands the State Street MediaStats Thematic Indicators offering, which was launched in November 2020 in partnership with MKT MediaStats, a big-data information technology company specializing in financial markets. The indicators analyze hundreds of thousands of digital news sources to generate daily sentiment signals for various assets to help institutional investors form a more complete picture of what factors are driving their portfolios and overall markets. The new Bitcoin Indicator will capture vast information around the asset as well as its linkages to traditional currencies and emerging trends, which investors can leverage for portfolio planning and to gain indirect exposure through equity baskets.
+
+“Over the last few months, media coverage around Bitcoin has grown significantly relative to corporate, financial and economic media markets and continues to trend higher,” said Rajeev Bhargava, head of the Investor Behavior Research Team at State Street Associates. “Understandably, institutional investors are increasingly eager to learn how this rising attention is impacting traditional asset markets. Our newest Bitcoin series provides a quantitative and timely measure of the tone and intensity of media discussion and reveals additional transparency into this highly sentiment driven market, enabling our clients to make more informed investment decisions.”
+
+“Our indicators are built on a decade’s worth of natural language processing research combined with a strong academic underpinning,” said Dr. Gideon Ozik, managing partner and founder of MKT MediaStats. “Now, harnessing the power of vast data to provide real-time perspectives, we’re able to offer investors a tool they can leverage to make tactical and strategic judgments on key narratives that drive financial markets.”
+
+State Street MediaStats’ full range of indicators now includes:
+
+Thematic Indicators that track 77 overall broad market narratives, including Bitcoin.
+
+Central Bank Indicators that gauge the degree of hawkishness in the monetary tones of 12 global central banks.
+
+FX and Country Equity Media Indicators that use natural language processing and machine learning to analyze large sets of unstructured media data, comprising international and domestic media, social media, business news and trading media. These indicators measure intensity, sentiment and disagreement in media coverage to assist portfolio managers in assessing the outlook for 33 foreign currencies and 44 global equity markets.
+
+Macro Linkages Indicators that track inter-asset connectedness among country equity markets and currencies.
+
+Company Media Indicators that provide insights into company dynamics using proprietary algorithms to measure the abnormal intensity, conditional sentiment and disagreement in media coverage of approximately 3,000 US-listed individual companies.
+
+Media Indicators that generate measures of the abnormal intensity, conditional sentiment and disagreement in media coverage of US sectors, industry groups and industries.
+
+Linkages Indicators that gauge the strength and impact of inter-company relationships based on company co-mentions in media for approximately 500 US-listed large-cap companies.
+
+Aggregate Linkages Indicators that track the dynamic relationships between sectors, industry groups and industries based on constituent company co-mentions in media coverage.
+
+Earnings Prediction Technology, or EPTech, which analyzes large sets of consumer data to gauge patterns of digital consumption for approximately 350 large US-listed firms. These patterns, reflective of consumer behavior in the real economy, can provide investors with an additional, distilled input as they formulate quarterly earnings estimates.
+
+The State Street MediaStats indicators build on the capabilities of State Street’s hub for data science and academic partnerships, State Street Associates (SSA). SSA is an academic think tank which bridges the worlds of financial theory and practice, develops proprietary investment indicators, differentiated analytics applications and tailored investment strategies for institutional investors around the world. Click here to learn more about State Street Associates and the indicators.
+
+About State Street Corporation
+
+State Street Corporation (NYSE: STT) is one of the world's leading providers of financial services to institutional investors including investment servicing, investment management and investment research and trading. With $40.3 trillion in assets under custody and/or administration and $3.6 trillion* in assets under management as of March 31, 2021, State Street operates globally in more than 100 geographic markets and employs approximately 39,000 worldwide. For more information, visit State Street's website at www.statestreet.com.
+
+*Assets under management as of March 31, 2021 includes approximately $60 billion of assets with respect to SPDR® products for which State Street Global Advisors Funds Distributors, LLC (SSGA FD) acts solely as the marketing agent. SSGA FD and State Street Global Advisors are affiliated.
+
+About MKT MediaStats, LLC
+
+State Street partner MKT MediaStats, LLC is a technology and data analytics company, which combines expertise in data science and financial economics to extract financial markets insights from unique sets of untapped big data sources. MKT MediaStats LLC was founded by Gideon Ozik, affiliate professor at École des Hautes Etudes Commerciales du Nord (EDHEC) Business School and former hedge fund manager at Société Générale; Professor Ronnie Sadka, chair of the Finance Department at Boston College’s Carroll School of Management; Hadar Shezifi, technology entrepreneur and former architect at Neustar; and Professor Ken Froot, of Harvard Business School, who is also a founding partner of State Street Associates.
+
+© 2021 State Street Corporation - All Rights Reserved
+
+Expiration 5/5/2022
+
+3578526.1.1.GBL.RTL

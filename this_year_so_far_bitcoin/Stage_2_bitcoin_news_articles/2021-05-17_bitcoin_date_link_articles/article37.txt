@@ -1,0 +1,51 @@
+Bitcoin investors hit back at Elon Musk over Bitcoin comments (Source: Getty)
+
+Tesla CEO Elon Musk announced that the company would no longer accept Bitcoin as payment for its vehicles - seemingly backflipping on its stance since it purchased US$1.5 billion (AUD$1.93 billion) of the cryptocurrency.
+
+The price of Bitcoin took a massive hit following his comments.
+
+But what is Bitcoin mining and how does a digital currency affect the environment?
+
+What is Bitcoin mining?
+
+Bitcoin mining is the process of new Bitcoins entering into circulation, but is also a critical component of the maintenance and development of the blockchain ledger.
+
+According to Investopedia , it is performed using very sophisticated computers that solve extremely complex computational math problems.
+
+“Cryptocurrency mining is painstaking, costly, and only sporadically rewarding. Nonetheless, mining has a magnetic appeal for many investors interested in cryptocurrency because of the fact that miners are rewarded for their work with crypto tokens,” Investopedia said.
+
+“This may be because entrepreneurial types see mining as pennies from heaven, like California gold prospectors in 1849.”
+
+Watch: Fred Schebesta hits back at Elon Musk's comments about Bitcoin
+
+How does it affect the environment?
+
+In order to mine Bitcoin, a lot of computing power is needed and according to the Digiconomist this produces vast amounts of e-waste.
+
+“Within the Bitcoin network, all of the participating mining machines are competing with each other for the reward of generating a new block for Bitcoin’s underlying blockchain,” the Digiconomist said.
+
+Essentially, the process of creating a new block for the blockchain is proportional to how much computing power an individual has.
+
+This means that Bitcoin miners can only compete in terms of cost efficiency, the more computing power per unit of energy, the more profitable the machine can be.
+
+“This has caused a rat race to develop more efficient mining hardware,” the Digiconomist said.
+
+“The Bitcoin network does not just have an energy problem , but also generates significant quantities of electronic waste. The reason for this is that Bitcoin mining is done with specialised (singular purpose) hardware, which becomes obsolete roughly every 1.5 years.”
+
+Story continues
+
+Is it really bad for the environment?
+
+The founder of Finder, Fred Schebesta, who is an avid Bitcoin investor, said Musk is wrong and Bitcoin is actually forcing a move towards renewable energy.
+
+“The claim that Bitcoin mining uses too much fossil fuel has been debunked so many times. In fact, bitcoin is incentivising renewable energy,” Schebesta said.
+
+“It’s claimed that 75 per cent of bitcoin miners use renewable energy, Bitcoin mining uses about 10 times less energy than the banking system, and less than half of what gold mining uses.”
+
+Schebesta said that the focus should be on the banking system which is responsible for significantly more energy expenditure than the cryptocurrency.
+
+“The difference we're talking about here is monumental and if instead the banking system was transitioned to cryptocurrency, we'd have a way better power equation,” he said.
+
+“Bitcoin mining needs to be cheap, otherwise it can't actually work. It will be Bitcoin that will drive people to get cheaper energy because the cheapest energy is renewable.”
+
+Follow Yahoo Finance on Facebook, LinkedIn, Instagram and Twitter, and subscribe to the free Fully Briefed daily newsletter.

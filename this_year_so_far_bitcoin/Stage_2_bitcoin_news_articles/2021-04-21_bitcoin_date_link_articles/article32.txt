@@ -1,0 +1,25 @@
+Yes. According to Jackson Laskey, a partner at Unbounded Capital, it is.
+
+“Is Bitcoin the most eco-friendly technology ever? I think the answer might be yes, but let me make my case,” says Laskey in the first few minutes of Unbounded Capital’s webinar, titled “Is Bitcoin one of the Most Eco-Friendly Technologies?”
+
+Bitcoin and the environment
+
+The amount of energy that Bitcoin, especially Bitcoin mining operations, consume has been a hot-button issue since the inception of Bitcoin. Many environmentalists argue that something needs to be done about the amount of energy that Bitcoin consumes, and often bring up statistics that show that Bitcoin consumes more energy than small countries on a yearly basis.
+
+However, a majority of these arguments only look at Bitcoin’s energy consumption through the lens of “this is how much energy the Bitcoin network consumes in a year,” and they fail to look at the fruits of the labor, the benefits that Bitcoin provides to society.
+
+“I truly believe that Bitcoin has immense potential to benefit the environment,” said Laskey.
+
+“Environmental questions [are] always going to have some subjectivity. The question, ‘is activity X worth having environmental cost Y,’ is really hard to answer objectively.
+
+But [throughout this webinar] we are working within a framework that considers the following statements to be our axioms. The first is that with all else being equal, reducing total energy usage is good, and the other statement is that [with] all else equal, reducing carbon emissions is good–and we are going to accept both of these as true for the context of our presentation.”
+
+Laskey goes on to make a case for Bitcoin (BSV) that shows that it can disrupt a variety of industries in a way that will benefit the environment, such as by reducing the total amount of energy used and reducing carbon emissions. This is because Bitcoin can optimize a variety of industries in a way that will save energy compared to the alternative systems being used in Bitcoin’s place.
+
+“If Bitcoin transactions are a net energy saver vs. its alternatives, as Bitcoin is used more and more, it becomes more and more eco-friendly,” said Laskey.
+
+Laskey goes on to explain the benefits that Bitcoin can have on the environment at scale, the value in a proof-of-work consensus mechanism and why it cannot be replaced by proof-of-stake, and why the most efficient version of Bitcoin serves the environment in a way that the other versions of Bitcoin cannot.
+
+Laskey makes a compelling argument for why—contrary to popular belief—Bitcoin is environmental-friendly rather than harmful to the environment, and he also brings up the concern(s) he has for Bitcoin’s environmentally friendly future. To find out why Bitcoin’s energy consumption can be justified and why Bitcoin is an energy saver compared to its alternatives, you are going to want to watch Unbounded Capital’s “Is Bitcoin one of the Most Eco-Friendly Technologies?” webinar.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

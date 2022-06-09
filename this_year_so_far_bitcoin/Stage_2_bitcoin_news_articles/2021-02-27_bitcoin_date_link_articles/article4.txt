@@ -1,0 +1,51 @@
+There's a recent mania taking over the investing world, and it's called cryptocurrency. Since the domain name Bitcoin.com was registered in 2008, the world has seen Bitcoin (CRYPTO:BTC) rise and fall, hitting just under $50,000 per token on Feb. 15, 2021.
+
+While many people are bullish on Bitcoin's prospects, many others feel it's just too risky for an average investor to hold in their portfolio. Which side are you on? We asked three Motley Fool contributors whether they're planning to add it to their portfolios, and why or why not.
+
+The best cryptocurrency to buy
+
+Jon Quast: When building a portfolio, investors should be more focused on stocks than cryptocurrencies. Stocks represent ownership stakes in real companies with intrinsic value. By contrast, cryptocurrencies are just zeros and ones -- they don't own anything, generate revenue, or have visions for creating shareholder value. Some do have practical utility, which is great. But lack of intrinsic value makes cryptocurrencies risky investments; it's a key difference between them and stocks.
+
+That said, I would invest in a cryptocurrency, but Bitcoin is the only one I'd buy right now. Cryptocurrency prices are determined by supply and demand. The supply side of Bitcoin's equation is extremely simple. New tokens are continuously "unlocked" and released into circulation through mining. There are already 18.6 million in circulation, according to Blockchain.com, and there's only a trickle of about 900 new tokens per day as Bitcoin heads toward its ceiling. Its source code limits the total number of tokens to 21 million.
+
+Other cryptocurrencies also have limited supplies. However, demand for Bitcoin sets it apart -- this is the one people want to own. Many other cryptocurrencies have launched, addressing Bitcoin's various shortcomings. Nevertheless, Bitcoin remains the cryptocurrency with the most brand recognition. So it's still the one people consider buying first, and I don't see that changing anytime soon.
+
+Growing adoption creates a kind of network effect. After all, it's not so scary to buy a little Bitcoin once someone you know or trust has bought some. I believe we've seen this trend with individual investors in recent years. But in recent months, I think we've started to see it from Wall Street as well. Tesla wasn't the first public company to buy Bitcoin, but its $1.5 billion purchase could be a watershed moment.
+
+Tesla's management indicated it bought Bitcoin as a small hedge against inflation. What if more companies followed Tesla's lead, taking just 1% of their asset value and putting it into Bitcoin? If just a fraction of public companies did this, demand would easily outpace new supply for much of 2021, leading to higher prices. If adoption from institutions and companies grows like this, I wouldn't be surprised to see Bitcoin hit $100,000 per token this year.
+
+However, to be clear, I'm not personally buying Bitcoin right now because I already bought some in 2018. And its recent surge in price has elevated the cryptocurrency to a large position in my portfolio. With a winning stock, I'd be tempted to "double up" and add to my winner. But I don't plan to do that with a cryptocurrency like Bitcoin. I want to entrust the majority of my investing dollars to the companies creating shareholder value in the real world.
+
+In short, I believe there's a good case for owning some Bitcoin -- but not at the expense of holding ownership stakes in top companies that are changing our world for the better.
+
+Bitcoin for a retirement port?
+
+Barbara Eisner Bayer: About seven or eight years ago, a 20-something friend introduced me to a new type of currency that, in his opinion, was going to take over the world. It was Bitcoin, and he had purchased a bit of it, even though he had no investing experience. He wanted my opinion, and as a buy-and-hold investor, I felt that the cryptocurrency was too speculative and there was no way I would ever buy it.
+
+Fast-forward to today, and Bitcoin has come a long way. It made its TV debut on The Good Wife in 2012. Major companies like Microsoft, Burger King, and Home Depot started accepting it for payment, and Elon Musk's Tesla recently purchased a whopping $1.5 billion worth of it. Even Bill Gates said that "Digital money is a good thing."
+
+In other words, Bitcoin has gone mainstream. In fact, it recently traded for close to $50,000 per token, and venture capitalist Jeremy Liew claims that it could be worth $500,000 per token by 2030.
+
+I've been equally impressed and dumbfounded by Bitcoin's growth in the real world, and sometimes get a little upset that I didn't purchase some when my friend first mentioned it to me. But only a little upset, because my portfolio is on a focused path to funding my retirement, and I don't believe Bitcoin has a place there.
+
+First of all, it's extremely volatile. It's reached huge highs, yet once lost 80% of its value. For a retirement portfolio, that kind of fluctuation is too ulcer-producing -- especially since, as I get closer to living off my savings, I want to preserve my assets. With Bitcoin, the risks are just too high.
+
+Also, there's no guarantee that it will ultimately be successful as a means of currency, even though more businesses are beginning to take it. But you just never know. At this point, I see investing in Bitcoin as akin to gambling, and I'm not willing to take that chance right now.
+
+Call me chicken, call me shortsighted, call me old-fashioned: I'm staying far away from cryptocurrencies. As Bill Gates told Bloomberg, "If you have less money than Elon [Musk], you should probably watch out." Since my fortune is nowhere close to Musk's, I'm going to take the Microsoft founder's advice and sit on the sidelines.
+
+Passing up the hottest investment of the past decade
+
+Sean Williams: I won't beat around the bush: I have no intention of adding Bitcoin to my portfolio. While I believe there's a future for blockchain technology, and understand that Bitcoin is benefiting from its first-mover advantage in the crypto space, there are a handful of reasons I choose not to invest in the world's largest digital currency.
+
+Perhaps the biggest issue with Bitcoin is its utility. Although a greater number of businesses are willing to accept Bitcoin as a form of payment, or have even added it to their balance sheets, research from Fundera notes that only 2,300 businesses in the U.S. accept Bitcoin. That's out of more than 30 million registered businesses in the U.S., 7.7 million of which are large enough to have at least one employee.
+
+To build on this point, roughly 2% of all accounts that own Bitcoin hold more than 95% of the circulating supply, according to Flipside Crypto. Even though tokens are divisible down to eight decimal places (1/100,000,000 of a Bitcoin token is a "satoshi"), there aren't enough tokens to go around for Bitcoin to offer game-changing utility.
+
+I'm also concerned that Bitcoin lacks staying power. There's no question it's the most popular cryptocurrency at the moment. But among financial industry-focused blockchains, it's not even the best option. For instance, transactions on Stellar's (CRYPTO:XLM) network with the Lumen coin (XLM) can be validated and settled in mere seconds. Meanwhile, the average Bitcoin transaction takes closer to 10 minutes to validate and settle.
+
+That's a vast improvement over traditional banking networks, but nowhere near the best among financial-industry-focused blockchain projects. In my view, this makes Bitcoin replaceable -- especially considering the virtually nonexistent barrier to entry in the crypto space.
+
+History provides me with my final reason to stick to the sidelines. I've seen many next-big-thing investments ascend to the heavens -- the internet, business-to-business commerce, genomics, 3D printing, marijuana, and blockchain -- and the one constant is that all bubbles burst. This isn't to say winners won't eventually emerge from these trends, but investors almost always overestimate the speed of their uptake and their near-term potential.
+
+Instead of adding Bitcoin to my portfolio, I'm perfectly content buying and holding ancillary cryptocurrency stocks that'll benefit no matter what happens to Bitcoin. For instance, I purchased fintech stock Square (NYSE:SQ) during the March 2020 coronavirus crash, and would consider adding more on sizable pullbacks. Square's peer-to-peer payment platform Cash App has seen a major uptick in Bitcoin exchange over the past year, which is providing a big lift to revenue. And Cash App can remain a major growth driver, no matter what happens to the price of Bitcoin.

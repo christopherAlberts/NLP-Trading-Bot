@@ -1,0 +1,33 @@
+Developers Launch the First Hosted Noncustodial Payment Processor for Bitcoin Cash Payments
+
+Bitcoin Cash proponents have recently been introduced to a new noncustodial payment processor called Prompt.cash. The platform provides merchants with a simple way to accept peer-to-peer electronic cash payments and can also generate a new address per invoice.
+
+Prompt.cash: A Hosted Noncustodial Payment Processor for Accepting P2P Electronic Cash
+
+A number of innovative applications that leverage the crypto asset bitcoin cash (BCH) are on the horizon. In recent times, BCH fans have been introduced to a newly created payment processor called prompt.cash, a platform that allows people to accept BCH in a noncustodial fashion.
+
+The main developer behind the project is a well known programmer who goes by the name Ekliptor. The dev has 16+ years coding experience and has been working with bitcoin cash payment systems for years now. The engineer also developed cashtippr.com, a WordPress plugin that allows website owners to receive instant tips.
+
+Speaking with Bitcoin.com’s newsdesk, Ekliptor told us why he started working on the prompt.cash noncustodial payment processor. “My experience from this has been that many people in the BCH community asked for a simpler solution and one that they can also put onto non-Wordpress websites within a minute by just copy and pasting,” Ekliptor said.
+
+“Custodial payment processors (our competitors) are like a bank,” the developer added. “They own the money they receive and then later the merchant can withdraw the money into his or her own wallet (or not in case of compliance issues or a security breach). Our noncustodial processor works like ‘Software-as-a-Service’ instead of being a bank. This means every payment arrives directly in the wallet of the merchant. We can not freeze or hold the merchant’s money as we are not part of the transaction,” he added.
+
+Ekliptor continued:
+
+And all this in a more convenient and even easier setup than custodial processors without the usual banking/KYC paperwork.
+
+Digital Entrepreneurs Donate Funds to the Prompt.cash Flipstarter
+
+The Prompt.cash project also has a Flipstarter fundraiser going on right now, as the developers are raising 390 BCH. The Flipstarter description details that the team’s Prompt.cash platform is the first hosted noncustodial Software-as-a-Service payment processor.
+
+“[The application] allows integration without bureaucracy and enables our merchants to integrate us within minutes,” the Flipstarter descript explains. “We already have a working payment processor implemented in Go, following best practices and code standards.”
+
+So far, the Prompt.cash project has raised 206 BCH or over $100k worth of bitcoin cash. Bitcoin.com’s founder and angel investor, Roger Ver sent the project 101.15 BCH. The popular digital entrepreneur Kim Dotcom sent the Prompt.cash project 100.8 BCH. “Exciting times,” the creator of the content monetization platform K.im added in his comment.
+
+The Flipstarter also notes that the Prompt.cash application has been live for about a month so far and signed 50 merchants to-date. Bitcoin.com’s readers can read more about the Prompt.cash project and the Flipstarter fundraiser here.
+
+What do you think about the noncustodial payment processor project Prompt.cash? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, Prompt.cash, Flipstarter,
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

@@ -1,0 +1,25 @@
+Blockchain analytics firm Elliptic has studied the flow of bitcoins (BTC) taken from the $7 billion Bitfinex hack, revealing that only 21% of the total have been moved.
+
+The research shows that of the 120,000 bitcoins stolen from the Bitfinex hack in 2016, just under 96,000 still remain in the original wallet that the hacker used.
+
+Stolen Bitfinex bitcoins
+
+The firm notes that most of the funds are being withdrawn via the dark web and privacy wallets. Most of these have occurred in the past 12 months, indicating how difficult it is for these funds to be laundered. Furthermore, only 4% of these bitcoins have been laundered or exchanged.
+
+One of the more recent outflows of the BTC occurred in April 2021, when approximately 12,000 bitcoins were moved, worth about $774 million. This occurred as BTC’s price was rising, so it was clear that the bad actor(s) wanted to make the most of the market’s momentum.
+
+The Bitfinex hack in 2016 remains one of the largest cryptocurrency hacks that have ever taken place. At the time, it shook the market, and the hackers were never identified. At today’s prices, the total BTC amounts to about $7 billion.
+
+Elliptic also points out the pattern with which stolen funds are usually withdrawn. These hackers move the funds between addresses, sending out small portions to a destination in steps. They call this a “peeling chain,” which makes it hard to manually trace the funds.
+
+Tracing stolen bitcoins has been a difficult challenge for industry insiders and law enforcement agencies. In recent years, exchanges have teamed up to freeze funds from hackers attempting to cash out, and this has worked to a degree.
+
+However, coin mixing tools and newer protocols have made it possible for hackers to cash out pieces of their thefts.
+
+Crypto insurance coverage
+
+Hacks still occur fairly frequently in the market, and lately, many have focused squarely on the decentralized finance (DeFi) space. DeFi is a strong niche that is seeing a great influx of funds, and the novelty of some protocols makes it an easy target for sophisticated hackers.
+
+Blockchain analysis firm Messari noted that about $284 million has been stolen from the DeFi market since the start of 2019. Most recently, Spartan DeFi lost $30 million in a flash loan exploit—one of the most common attack vectors—on the Binance Smart Chain (BSC).
+
+As a solution, some projects have been begun integrating insurance coverage solutions, which compensate victims from a pooled fund should an incident occur. Yearn Finance, Celsius, and Bridge Mutual have already added coverage features.

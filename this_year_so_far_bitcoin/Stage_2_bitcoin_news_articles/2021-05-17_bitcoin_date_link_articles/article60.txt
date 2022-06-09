@@ -1,0 +1,31 @@
+Bitcoin Stock-to-Flow Still 'Intact' Says Creator, Crypto Fear Index Taps 12-Month Low
+
+The leading cryptocurrency bitcoin has dropped 20% in value after Tesla announced on May 12, the electric car firm would not be accepting bitcoin for purchases. Two days later, the creator of the notorious stock-to-flow cross-asset (S2FX) price model, Plan B, shared his model and said the S2FX was still “intact.” Plan B still shows confidence in the bitcoin bull run and expects another 5x in the next six months.
+
+S2FX Price Model Still ‘Intact’
+
+Despite the recent crypto market downturn, Plan B still seems positive that the bitcoin bull run is not quite over. “Plan B,” is a pseudonym leveraged by the Twitter account @100trillionusd and also the creator of the popular stock-to-flow (S2F) price model. This particular model leverages a ratio of bitcoin’s scarcity (BTC in circulation) to BTC issuance. At the time of writing, the Bitcoin network’s inflation rate per annum is approximately 1.77% and will continue to drop lower as time passes.
+
+Plan B first published his paper called “Modeling Bitcoin Value with Scarcity” on March 22, 2019. The stock-to-flow model or S2F, quantifies scarcity similar to assets like gold and silver. It takes the BTC in circulation and divides it by the annual issuance rate. When Plan B published that paper, bitcoin (BTC) had a market capitalization of $70 billion and today, the market valuation is $844 billion. Moreover, Plan B has updated the S2F model and now calls it the “BTC S2F cross-asset (S2FX) model.”
+
+“S2FX model enables valuation of different assets like silver, gold and BTC with one formula,” Plan B S2FX description explains.
+
+The day after Tesla announced it was not accepting BTC for purchases, Plan B took to Twitter sharing an S2FX chart and said: “S2FX intact … this is starting to look like 2013 bull market.” The following day Plan B shared another chart and gave his 467,000 Twitter followers another S2FX update:
+
+Net result (after Turkey ban, US tax FUD, Faketoshi law suits, Elon/Tesla energy FUD) is that bitcoin is 5x higher than ~6 months ago. And both S2FX model + onchain data indicate that we are only halfway this bull market. I would not be surprised to see another 5x next ~6 months.
+
+Crypto Fear & Greed Index Hits a 1 Year Low, Momentum Indicator Indicates ‘Typical Mid-Bull-Cycle Drop’ Says Plan B
+
+Furthermore, on May 17, the Crypto Fear & Greed Index (CFGI) shows a score of 27 pointing to “fear” and sentiment is the same as it was over a year ago today.
+
+The index, a metric that “analyzes the emotions and sentiments from different sources and crunches them into one simple number,” reached this same region on April 28, 2020. 30 days ago, CFGI data shows that the sentiment analysis was “extreme greed” or a score of 76. Seven-day statistics show that the CFGI score was 72 or “greed.”
+
+On Saturday, Plan B discussed bitcoin’s Relative Strength Index (RSI) and his thoughts on the next few months. The technical analysis tool dubbed the “Relative Strength Index” (RSI) is essentially a momentum indicator that can help analysts define oversold or overbought conditions in a market.
+
+“Bitcoin relative strength index (RSI),” Plan B said sharing another chart. “We are at the typical mid-bull-cycle drop in RSI (yellow circles), in between 2013 and 2017. Excited about [the] next couple of months,” Plan B added.
+
+What do you think about Plan B’s current market assessment? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, Plan B, Twitter, Crypto Fear & Greed Index
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

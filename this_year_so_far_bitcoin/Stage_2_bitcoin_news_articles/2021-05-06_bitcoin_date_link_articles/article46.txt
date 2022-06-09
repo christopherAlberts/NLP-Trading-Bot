@@ -1,0 +1,11 @@
+Investment firm Ten31 has announced it will be supporting Open Sats and Bitcoin Q+A with grant funds sourced from its management fees.
+
+Ten31, an investment firm focused on Bitcoin-native companies, has announced its first Bitcoin developer and community grants, which are sourced from its fund’s management fees.
+
+It will be supporting Open Sats, a nonprofit that funds Bitcoin contributors, as well as Bitcoin Q+A, a provider of accessible Bitcoin education content, with donations of undisclosed amounts.
+
+“We formed our first fund, the Low Time Preference Fund, with the express intention of investing in great Bitcoin companies we believe would form the future foundation of the global economic and monetary infrastructure,” according to a Ten31 press release shared with Bitcoin Magazine. “We did not set out to create another traditional venture capital firm. Instead, we wanted to create a fund backed by bitcoiners, supporting bitcoiners."
+
+In the release, Ten31 said it was inspired by similar grants distributed by groups like the Human Rights Foundation, Square and Brink. But its funding model appears to be novel for the space.
+
+"We had not seen any other funds leveraging this model, and part of our hope was that other funds would see what we were doing and consider doing the same,” per the release. Fund management fees are typically charged annually and used to cover overhead, compensation, administrative, compliance and other expenses. We thought it would be great to carve out a large allocation of our management fees for purposes of recurring grants to developers and open-source contributors."

@@ -1,0 +1,61 @@
+A new tool counts bitcoin mining activity and cross-references users’ locations to make a heat map of energy use by all bitcoin miners.
+
+counts bitcoin mining activity and cross-references users’ locations to make a heat map of energy use by all bitcoin miners. It turns out bitcoin mining uses more electricity than entire countries, including Argentina.
+
+Making a more efficient bitcoin-mining algorithm would go against the spirit of bitcoin mining.
+
+Scientists from the University of Cambridge Judge Business School have built an interactive analysis tool to calculate the real energy cost of bitcoin cryptocurrency. Using their energy use model, the researchers found that bitcoin mining uses more energy each year than the entire country of Argentina.
+
+That sounds like a wild stat, but energy use has always been a key part of bitcoin’s story. Let’s go back to the beginning and see how we got here.
+
+
+
+➡ Join Pop Mech Pro and get exclusive answers to your most pressing science questions.
+
+How Do You Mine Bitcoin?
+
+Bitcoin is a cryptocurrency, which means it’s a shared, encrypted, publicly available form of money made by building links in a longer and longer blockchain code. Blockchain refers to the collective record (called a ledger) that stores cryptocurrency transactions, like a communal Excel spreadsheet.
+
+This record is stored on volunteers’ computers, which run software that verifies transactions, checking to make sure that both parties agreed to the change and the buyer has enough currency to honor it. These volunteers are called miners, and the reward for volunteering their hardware is kickbacks in the form of more cryptocurrency.
+
+This content is imported from {embed-name}. You may be able to find the same content in another format, or you may be able to find more information, at their web site.
+
+If enough computers conclude that yes, this is a valid exchange, that verification joins the rest of the world’s recent transactions as a “block.” To prevent people from generating counterfeit currency, the math required to verify a transaction takes so much computing power that no one user or group could do it.
+
+People “mine” bitcoin, then, by tasking computers to process complicated math, usually in the background on real users’ computers or even on dedicated machines. Miners use high-end graphics cards, or GPUs, because these pieces of hardware are already made to churn through computer math as quickly as possible and with a lot of calculations running at the same time. Like a highway with more lanes, this reduces congestion and travel time. It also heats up your PC, usually requiring high-end fans to match.
+
+Lately, PC gamers have had trouble finding parts, like high-end Nvidia 3000 series and AMD 6800 series graphics cards, partly because cryptocurrency miners have snatched them up. That’s on top of a global microprocessor shortage .
+
+What Is the Energy Cost of Mining Bitcoin?
+
+The Cambridge team’s tool counts mining activity and cross-references users’ locations to make a heat map of energy use by all bitcoin miners.
+
+University of Cambridge
+
+University of Cambridge
+
+According to the BBC, Cambridge’s tool has ranked Bitcoin’s electricity consumption above that of the entire country of Argentina (121 terrawatt hours [TWh]), the Netherlands (108.8 TWh) and the United Arab Emirates (113.20 TWh), and it’s gradually approaching Norway (122.20 TWh).
+
+Because this model only considers bitcoin, however, that means the real energy cost of cryptocurrency overall is even higher. Bitcoin is just one example of an industry that includes dogecoin, marscoin, and so forth.
+
+➡ Stuff We Love: The Best Gaming Laptops
+
+Best Value Asus ROG Zephyrus G14 bestbuy.com $1,099.99 Buy Now Total Expert Score: 86/100 Don’t be fooled by the affordability, the G14 is a gaming beast. For Work and Play Dell XPS 17 bestbuy.com $2,899.99 Buy Now Total Expert Score: 90/100 Dell packed an incredible display and a sleek design with admirable gaming capabilities. Slimmest MSI GS75 Stealth amazon.com $2,999.11 Buy Now Total Expert Score: 80/100 With a 17-inch screen but thin design, this laptop balances performance and portability. Best Style Razer Blade 15 amazon.com $1,529.96 Buy Now Total Expert Score: 86/100 Razer has refined its Blade gaming laptop with more speed, battery life, and style. Premium Alienware Area 51M walmart.com $2,519.99 Buy Now Total Expert Score: 86/100 Beautifully designed and powerful to boot, the Area 51M is a true paragon of gaming.
+
+Now, China and the U.S. still tip the scales at well into the thousands of terawatt hours each year. But bitcoin algorithms are designed to be inefficient uses of energy with a lottery-like quality, critics say, meaning any amount of energy spent mining them is not worth its relative energy cost. Around the world, including in the U.S., about 40 percent of energy is still from coal power plants. “It’s very bad that all this energy is being literally wasted in a lottery,” blockchain expert David Gerard told the BBC.
+
+Can Bitcoin Mining Get Better?
+
+Is it possible to make a more efficient bitcoin mining algorithm? That would go against the spirit of bitcoin mining, so it’s hard to imagine. The whole point of mining is that it is slow and that it does involve tons of computation. “Bitcoin is literally anti-efficient, [so] more efficient mining hardware won’t help—it’ll just be competing against other efficient mining hardware,” Gerard said. “This means that Bitcoin’s energy use, and hence its CO2 production, only spirals outwards.”
+
+Why is that? Well, the Cambridge team explains that making mining a slow and arduous process is how bitcoin’s creators try to ensure the currency isn’t hijacked by malicious actors:
+
+“[I]n order to preserve its decentralised nature, and as a result its censorship resistance, Bitcoin precisely needs to be inefficient in order prevent a single entity or colluding group of actors to easily gain control and dominate the network.”
+
+That means the inefficiency is part of what bitcoin must do to exist, and we must grapple with its environmental costs firsthand instead of thinking of some shortcut solution.
+
+🎥 Now Watch This:
+
+Additional reporting by Alexander George
+
+This content is created and maintained by a third party, and imported onto this page to help users provide their email addresses. You may be able to find more information about this and similar content at piano.io

@@ -1,0 +1,57 @@
+Peter is the creator and editor of The Water Front Online , the region’s only news organization dedicated to environmental issues in the Finger Lakes and Upstate New York. Have a tip? Send it to peter@fingerlakes1.com .
+
+Bitcoin mining interests have called Watkins Glen officials in recent weeks to explore the possibility of setting up a cryptocurrency processing operation within the village to take advantage of its cheap electric rates.
+
+The village enjoys a monthly allocation of about 6 megawatts of hydroelectric power that costs residents only about 4 cents per kilowatt, well under half the rate NYSEG charges.
+
+Talks with the miners are at a preliminary stage, and there may not be any suitable sites, officials said. But the expressed interest prompted Schuyler County legislators to draft a resolution — tabled on April 12 — calling on the state Department of Environmental Conservation to issue statewide regulations for cryptocurrency mining.
+
+Meanwhile, the village trustees recently voted 3-2 against a resolution calling for a moratorium on expanding Bitcoin mining operation at the Greenidge Generation power plant in Dresden.
+
+The plant houses about 7,000 computer servers that validate and record Bitcoin transactions, using 19 megawatts of its total 106-megawatt capacity. The company is seeking local permits in Yates County to build four new buildings to add server capacity, and it has told potential investors that it expects its miners to draw 85 megawatts of power before the end of next year.
+
+Local environmental groups have sued to try to block the expansion. They have warned that the increased power use will boost warm water discharges, which may promote toxic algal blooms. Furthermore, added energy use will raise air emissions, likely leading to conflict with the state law that calls for a 40 percent cut in greenhouse gas emissions by 2030.
+
+Last week the law group EarthJustice and the Sierra Club warned that the DEC’s stance on Greenidge’s pending applications to renew its air permits would set an important precedent for nearly 30 other older fossil fuel power plants in New York State that could convert into energy-hungry Bitcoin mining or data center operations. With the price of Bitcoin more than doubling this year, conversions are particularly alluring.
+
+A spokesman for Greenidge dismissed the concern EarthJustice and Sierra Club raised in a letter to the governor and DEC officials.
+
+But in an application filed Thursday, a Canadian Bitcoin miner asked the state Public Service Commission to approve its planned takeover of a 55-megawatt natural gas-fueled power plant in North Tonawanda, just north of Buffalo.
+
+If and when the deal closes, it would create the state’s — and perhaps the nation’s — second Bitcoin miner-owed power plant. Greenidge was first.
+
+Digihost International, a British Colombia company, said in a Mar. 24 press release that it has agreed to buy the Fortistar plant for $3.5 million in cash and $750,000 in stock. Days later, it announced the purchase of 700 new mining machines.
+
+The company already mines Bitcoin in Buffalo. It reported collecting 105 coins in the first quarter and said the new machines were expected to raise its collection rate by nine coins per month.
+
+Digihost went public through a reverse merger last year. It said last week it was seeking to another $25 million (Canadian) through a private placement offering. The company has asked the PSC to rule by June 17 on its purchase, including the transfer of the plant’s certificate of public convenience and necessity.
+
+Michel Amar, Digihost’s CEO, owns about 27 percent of the company’s outstanding voting shares.
+
+Greenidge said it mined 1,186 Bitcoin in the 12 months ended in February. The company has announced plans to become a publicly traded company, like Digihost, through a reverse merger with support.com that’s set to close in the third quarter.
+
+Any Bitcoin operation in Watkins Glen would be far smaller than the power plant operations.
+
+“There have been inquiries from crypto-mining operations wishing to set up within the limits of Watkins Glen because of its cheap power,” Schuyler County Legislator Mark Rodinaro told Jimmy Jordan of WRFI Community Radio News recently. “None have come to fruition, but there have definitely been inquiries.”
+
+Rodinaro did not return calls from WaterFront.
+
+Minard LaFever, electric department supervisor for the Village of Watkins Glen, said he’d received two calls within the past three weeks from Bitcoin representatives — one seeking real estate information, the other asking about power sources.
+
+“They can’t just pop in anywhere because our infrastructure will not sustain loads in some areas,” LaFever said.
+
+During periods of peak demand, the village uses about 10 MW of power. For decades, it has received an allocation of about 6 megawatts of Niagara hydropower, which costs residents about 4 cents a kilowatt/hour.
+
+When the village exceeds its hydro allotment, it qualifies for purchased power from the New York Power Authority, which varies between 6-8 cents per kilowatt/hour, still far below the NYSEG rate of 14-15 cents.
+
+One major customer, WalMart, doesn’t share in the hydro power. It agreed to settle for a somewhat higher negotiated purchased power rate so that it didn’t consume the valuable discount that residents and small businesses enjoy.
+
+“If Bitcoin did come to Watkins,” LeFever said, “it would probably fall under the same or nearly same rate classification as WalMart.”
+
+Rondinaro told WRFI that if the hydro allocation were to expire or to be transferred, the cost of doing business in the village would jump.
+
+“Some of them might no longer be viable,” he said. “And those are operations that employ large numbers of people.”
+
+Asked if he considered the talks with the Bitcoin officials still active, LaFever said: “I’d say it is. It’s not run its course yet. Something could arise out of this.”
+
+The Schuyler County Legislature’s tabled resolution called for all cryptocurrency mining operations within New York State to be powered solely by renewable energy (wind, solar, geothermal or hydro).

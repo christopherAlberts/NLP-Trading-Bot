@@ -1,0 +1,35 @@
+The Fear Factor: A Volatility Index for Crypto Arrives
+
+As Coti ramps up efforts to bring a decentralized fear index to crypto, it has enlisted the help of Professor Dan Galai, one of the pioneering brains behind the Cboe Market Volatility Index (VIX), to help the organization develop a crypto-oriented version.
+
+VIX Co-Creator to Join Coti-Backed Volatility Project
+
+Since exchanges for cryptocurrencies first arose, the market and accompanying price action have proven to be among the most volatile around. Intraday swings of double-digit percentage rates are regular occurrences.
+
+While it might seem like outsized volatility given the market’s dramatic movements and momentum, volatility in and of itself is not unique to crypto. Volatility has also been a key metric for understanding certain markets, especially the options market.
+
+One of the foremost barometers for volatility in stock markets is the Chicago Board Options Exchange (Cboe) Market Volatility Index, or VIX as it’s more commonly known. The VIX tracks 30-day implied volatility in S&P 500 options.
+
+The idea for the VIX was originally developed by Professor Dan Galai and Menachem Brenner in the late 1980s before it was introduced to the options exchange in 1993. Since then, it has become a ubiquitous barometer for trader sentiment and those seeking protection during calamitous times.
+
+Often surging during periods of intense pickups in trading volumes and downward momentum in underlying stock prices, the VIX, which is also colloquially known as the “fear index,” represents how traders assess risk, fear, and stress in a market at any given point in time over the next 30 days.
+
+Now Coti, short for “currency of the internet,” is pioneering its own version for the crypto markets, filling an important need as cryptocurrency continues to mature.
+
+A New Means to Track Expectations and Hedge Cryptos
+
+Cryptos’ inherent volatility has presented Coti with a unique opportunity to fill a similar niche the VIX already controls in options markets. The organization, which aims to empower both centralized and decentralized finance through fast, scalable, efficient, inclusive digital infrastructure, is building a crypto fear index of its own, titled the “Crypto Volatility Index” or CVI for short.
+
+The volatility index, which represents 30-day implied volatility in bitcoin (BTC) and ethereum (ETH), will grant traders the ability to hedge against rising volatility or leverage it in their strategies. It is designed to echo the functionality of the VIX but in a completely decentralized format. High volatility is generally a sign that a market downturn could be around the corner, but correlation does not always equate to causation as evidenced by the VIX and its corresponding history.
+
+To bring its idea to fruition, Coti is adding Professor Dan Galai to its board of advisors. Galai, who commands deep expertise in risk management and financial derivatives, will help oversee the CVI project as it gradually rolls out the decentralized protocol.
+
+Professor Galai had this to say:
+
+As advisor to the Crypto Volatility Index project, I’m looking forward to helping design advanced risk management tools for investors in this new, and often wild asset class. I am confident the CVI team has the knowledge and capability to put theory into practice and build a truly useful product in the cryptocurrency space.
+
+Does the CVI risk management tool increase your confidence in crypto trading? Let us know in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, Fear Factor
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

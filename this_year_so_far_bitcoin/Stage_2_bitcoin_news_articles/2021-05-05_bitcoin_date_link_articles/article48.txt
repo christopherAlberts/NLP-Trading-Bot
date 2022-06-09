@@ -1,0 +1,37 @@
+https://www.youtube.com/watch?v=rezvcJ4j-7U Video can’t be loaded because JavaScript is disabled: Extended Address (https://www.youtube.com/watch?v=rezvcJ4j-7U)
+
+What if you could program a system that recognized a Bitcoin signing key as belonging to a certain owner, without that key ever existing previously on the blockchain? That’s one of the use cases in Episode #4 of “Bitcoin Class with Satoshi“, the new series of Bitcoin development videos featuring sCrypt founder Xiaohui Liu and Dr. Craig S. Wright.
+
+Dr. Wright reminds everyone that “Bitcoin addresses” as we may know them are not part of Bitcoin’s original design—in fact, the addresses we use to send and receive Bitcoin can take almost any form we like, as long as the private key used for signing can be validated.
+
+“It’s not part of Bitcoin, it’s not part of the template,” he says. “Too much effort has been put into these piffy little address functions I set up in 2009. It wasn’t meant to be the only way you do Bitcoin.”
+
+Address-masking methods could be useful in business for two parties who wish to transact (as payments or as contract conditions) without necessarily being online all the time or using the same address all the time. In fact, knowing what information to process on-chain and what to process off-chain is a key theme of the Bitcoin Class series.
+
+The question is, what methodology should we use to recognize who the owners of certain future keys are? Dr. Wright illustrates some examples of how. Some of these could be a hash of a key plus a salt that enables an authenticated hash—or one that’s linked to HMAC values.
+
+One party could provide the other in advance with a certain piece of information that allows them to decode the address, and know (and more importantly, prove) they’re dealing with you and not an imposter.
+
+Knowing the “root key” of deterministic addresses is possible, as long as that information is provided in a way the other party can verify it, but can’t see the actual root. They might not see any address at all; it could be masked in a way that only machines (via Bitcoin Script) can recognize.
+
+Dr. Wright provides a few more examples, such as sigX and sigY being too binary options—one party could declare “I attest to X or Y” in advance, even off-chain. There could be a conditional situation where “if event A occurs, an oracle performs one of the following scenarios.”
+
+This can be useful in a number of business documentation situations.
+
+“Alice can provide a hash of her invoice, that proves Bob has received it. Or she emails Bob her purchase order, which Bob has to open in order to get the purchase number. That way, Bob cannot say that he never received the order or saw the number.”
+
+“You can take it further: this (key) is a single-use transaction. Alice sends to a completely unique address for Bob,” one that has never existed on the blockchain previously.
+
+In another scenario, you could put down a small deposit for a good or service that you can get back later (or lose, if other events happen). One party could sign for a refund, one week into the future, to a unique address—simply by signing a hash. The originally-paying party can receive the refund if necessary, without the receiver ever knowing what it was, or seeing the address.
+
+Transactions are eventually performed and processed in the usual way, but it’s possible to set all sorts of rules beforehand, and have both parties (and their software) agree on them.
+
+Dr. Wright also addresses concerns people might have with performing such actions off-chain, detailing why it’s not necessary to perform every single function of a contract on-chain (as Ethereum attempts to do) so long as you can validate that certain events have occurred.
+
+“Bitcoin is a micropayment and web money system. It’s good for being a ledger, for micropayments,” he says. You don’t need to use Bitcoin for large purposes like paying for a house or car, as tempting as some seem to feel that is. It’s not that you can’t—it’s just not useful in that it doesn’t really take advantage of Bitcoin’s unique capabilities.
+
+Beware (or be comforted), this latest episode of “Bitcoin Class” features a whiteboard session, so come prepared for some math. But as usual, even if the mathematical parts of the episode are hard to follow, there are plenty of examples and scenarios to provoke some creativity.
+
+To watch previous episodes of the Theory of Bitcoin and Bitcoin Class with Satoshi, check out the Theory of Bitcoin YouTube channel here and the Bitcoin Class with Satoshi YouTube channel here.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

@@ -1,0 +1,15 @@
+Having covered cash management and treasury in-depth at CFO for years, I’ve been astounded by the statements of companies investing slices of their cash reserves in Bitcoin. Some business media outlets, too, suggest it makes perfect sense for a VP of treasury to take short-term cash residing in money market funds or time-bearing deposits and buy units of the cryptocurrency.
+
+In “Holding Bitcoin Still Risky,” we note why, unless a company expects cash inflows and outflows in Bitcoin, it would be a highly speculative, unsafe investment. As Marwan Forzley, CEO of Veem, told our reporter, “While Bitcoin’s price has gone up substantially, we have also seen significant drops that can produce quite a bit of losses.”
+
+Stop right there. Principal preservation is the sine qua non of short-term cash management. Lose more than a few million dollars of the cash to be spent on capital projects or sit on the balance sheet as a safety net, and you’ll be shown the door.
+
+We are more than a decade past the financial crisis, but I guess the freezing of the auction-rate securities (ARS) market in 2008 has been forgotten. Holding those debt instruments — which had a long-term nominal maturity but had an interest rate that regularly reset through a dutch auction — ultimately caused millions of dollars of corporate cash write-downs. Banks lost, too — corporate clients sued them for marketing ARSs as safe, highly liquid, and cash-equivalent securities.
+
+Bitcoin may be liquid, but it is far from safe, and the accounting is muddled. Despite being traded in an active market, Bitcoin is still considered an intangible asset. What’s more, the Financial Accounting Standards Board is in no hurry to set any new standards for it, says new FASB Chair Richard Jones.
+
+I fear the Bitcoin tribe will pressure treasurers and finance chiefs to allot some portion of their short-term cash to Bitcoin. But finance executives shouldn’t be swayed by faulty arguments such as that Bitcoin is an effective hedge against inflation. Based on no intrinsic value, Bitcoin’s price does not correlate with any asset prices or movements in inflation rates, so how can an investor structure a hedge with it?
+
+The arguments for holding Bitcoin ignore market realities and financial management principles. Only if a finance executive is OK with that should they consider adding cryptocurrency to a portfolio.
+
+This opinion piece originally appeared in the April/May 2020 print version of CFO.

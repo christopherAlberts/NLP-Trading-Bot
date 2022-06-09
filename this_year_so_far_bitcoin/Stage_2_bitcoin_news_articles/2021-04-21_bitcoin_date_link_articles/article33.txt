@@ -1,0 +1,29 @@
+I’ve been collecting coins since I was a kid, but not so much in the sense of looking for and assembling coins that are worth more than their face value. My coin collection, what my spouse refers to as a “collection of coins” is more what happens when one empties one’s pockets of change accumulated each day through the normal course of purchasing morning tea, paying for lunch, stopping after work to pick up groceries, that sort of thing.
+
+I’ve been returning quarters, nickels, and dimes to circulation and now I’m finally dealing with pennies, of which I estimate I have some tens of thousands. Mind you, I don’t want to give them back to circulation without some inspection and possibly finding a noteworthy or valuable coin; in essence, turning my collection of coins into a coin collection. So, I look at each one before putting it in rolls to take to the bank.
+
+This process stands in contrast to my reading about money in the news. The news today is about bitcoin, cryptocurrency, and a company called Coinbase that recently went public and instantly acquired an estimated value of $87.5 billion. That’s a lot of pennies. It is so new my spell-check wants to separate bitcoin into bit coin, and cryptocurrency into crypto currency.
+
+Anyway, as I pour over my pennies, one by one, I confess to a complete lack of understanding of what this new thing, “digital currency,” is and how it works. I suppose long ago people felt similarly about the invention of checks. “What, you’re giving me a piece of paper as payment? You’ve got to be kidding.” Or, further following the evolution of money and transactions, “Here’s my credit card. This piece of plastic is my promise to pay.”
+
+Which brings us to now. Seeking to make checks a thing of the past, if they aren’t more or less already, and to remove the role of banks in transactions involving credit cards, along comes digital currency, somewhat awkwardly labeled cryptocurrency. Awkward because “crypto” is defined by Merriam Webster’s dictionary as secret and sounds a bit nefarious.
+
+Anyway, the point I’m getting to is that I don’t really understand digital currency. This may be an evolution of money that in time becomes as familiar as checks and credit cards, but as of now, I’m pretty sure no one is using it to buy a cup of coffee.
+
+What caught my notice was a few articles about how much energy is required to run this new digital currency. Estimates are all over the map, and here are a couple of examples of that. Prepare yourself for a few words and terms that are very new, at least to me.
+
+A New York Times article explains how it works. “Cryptocurrencies use blockchain technology which relies on specialized computers racing to solve complex equations, making quintillions of attempts a second to verify transactions. It’s that practice, called cryptomining, that makes the currencies so energy-intensive.”
+
+This process relies on a concept called “proof of work,” a “computing method that’s intentionally designed to be inefficient to keep currencies transparent and decentralized.” Proof of work “forces miners to compete to solve cryptographic puzzles in an intense race of trial and error, their computers together making more than 160 quintillion attempts a second to produce a new block. This competition keeps immense numbers of computers working at top speed around the clock and all over the world.”
+
+Just to review, a quintillion is a number followed by 18 zeroes. It can also be expressed as “a million trillion” or a “billion billion.”
+
+According to the New York Times, “Researchers at Cambridge University estimate that Bitcoin, the most popular blockchain-based currency, uses more electricity than entire countries like Argentina do.” While this estimate has been challenged, no one disagrees that the computers require enormous amounts of electricity. The website Digiconomist estimates that “each Bitcoin transaction requires tens of thousands of times more electricity to process than each Visa credit card transaction.”
+
+The article also cites, but does not identify, a new study in which researchers “warned that, if left unchecked, Bitcoin mining in China — where an estimated two-thirds of the world’s blockchain mining takes place — could make it difficult for the world’s largest polluter to meet its climate goals” and that China’s Inner Mongolia region is moving to ban cryptomining “because it was hampering the province’s efforts to meet new carbon-emission targets set by the national government.”
+
+In all estimates, the energy usage, and greenhouse gas emissions, are a lot. But there’s another reason I’m not yet a Bitcoin person. There’s a guy in San Francisco who bought 7,002 bitcoins back in 2002 and wrote the password to his bitcoin wallet on a piece of paper he can no longer find. He gets 10 tries and has used eight with no luck. Two more and the password is wiped away forever and he loses an estimated $225 million.
+
+I’ll bet my penny jar looks pretty good to him right about now, and I’ll stick with my bank and their system of “Did you lose or forget your password?”
+
+— John Mott-Smith is a resident of Davis. This column appears the first and third Wednesday of each month in the print edition of the Davis Enterprise. Please send comments to johnmottsmith@comcast.net.

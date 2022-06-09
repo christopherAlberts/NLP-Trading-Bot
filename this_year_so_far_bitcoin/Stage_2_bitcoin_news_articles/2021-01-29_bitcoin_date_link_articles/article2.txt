@@ -1,0 +1,73 @@
+Analysts believe Elon Musk’s shout-out to crypto pushed bitcoin’s price upwards at a time when decentralized exchanges are experiencing record amounts of trading volume on the Ethereum network. Excessive fees could damp that, however.
+
+Bitcoin (BTC) trading around $34,616 as of 21:00 UTC (4 p.m. ET). Climbing 5.9% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $31,984-$38,566 (CoinDesk 20)
+
+BTC well above the 10-hour and 50-hour moving averages on the hourly chart, a bullish signal for market technicians.
+
+Bitcoin trading on Bitstamp since Jan. 26. Source: TradingView
+
+Bitcoin’s price jumped massively Friday. In the span of an hour, starting at 9:00 UTC (4 a.m. ET), the world’s oldest cryptocurrency gained 11%, going from $33,377 to $37,113 according to CoinDesk 20 data. Over the next five hours, bitcoin hit a 24-hour high of $38,566 before increased sell orders started to take over the market, with the price per 1 BTC at $34,616 as of press time.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Analysts point to the legendary social media habits of serial entrepreneur Elon Musk as a catalyst for bitcoin’s Friday price pop. “Elon’s ‘bitcoin’ logo added to his Twitter feed kicked us off on the aggressive move higher,” said Chris Thomas, head of digital assets for Swissquote Bank. “His comments triggered huge buy stop losses on Binance and likely the other Asian exchanges as leveraged traders had to close their short positions.”
+
+Indeed, total liquidations across the entire crypto market over the past 24 hours was the highest in three months, at over $850 million on the short side, according to aggregator Bybt. Liquidations are the crypto equivalent of a margin call: When a leverage trader’s position moves against price, it is bought or sold automatically to begin to wipe out any potential liability.
+
+Liquidations long (green) and short (red) with BTC price (orange). Source: Bybt
+
+“The red pullback is absolutely natural given how much we have moved,” Swissquote’s Thomas added. “We’ll likely find a new base – perhaps with $35,000 support – and trade sideways to slightly higher, assuming no more news.”
+
+Historical bitcoin price the past week. Source: CoinDesk 20
+
+Some good news for brokerages: Crypto spot volumes perked up Friday, to $8.7 billion as of press time, the second-highest level over the past month, according to the eight USD/BTC exchanges the CoinDesk 20 tracks.
+
+Spot volumes on major CoinDesk 20 exchanges. (Shuai Hao/CoinDesk) Source: CryptoCompare
+
+Prior to the Musk motions, the crypto market had been in the doldrums. “Investors were focused on other big events like earnings and the [Federal Reserve],” noted David Russell, vice president of market intelligence for trading platform TradeStation. “They would have come back to crypto regardless because of the institutional adoption trend, but Musk lit a fire under their feet.”
+
+Funding rates for long leverage are jumping to a level not seen since bitcoin’s record high Jan. 8, when the price hit $41,962, according to CoinDesk 20 data. It’s a sign traders are emboldened by the short liquidations to fuel up some long trades right now.
+
+Bitcoin swaps funding on major venues the past month. Source: Skew
+
+It will be interesting to see how bitcoin performs over the weekend because crypto never sleeps. Major equities indexes on Friday are awash in red. Could traders jump on cryptocurrency markets to find weekend opportunities?
+
+“This has been a tremendous week for retail trading across multiple asset classes,” noted James Putra, head of product strategy at Tradestation. “Since most other asset classes are closed later today, we are excited to see if the 24/7 crypto markets benefit from the retail trading enthusiasm.”
+
+DEX volumes hit $50 billion in January monthly volume
+
+Ether (ETH), the second-largest cryptocurrency by market capitalization, was up Friday trading around $1,348 and climbing 0.81% in 24 hours as of 21:00 UTC (4:00 p.m. ET).
+
+Monthly decentralized exchange, or DEX, volumes for major projects in the Ethereum ecosystem have eclipsed $50 billion, according to data aggregator Dune Analytics.
+
+In first place is long-standing bellwether Uniswap, with $23.3 billion for January so far, almost half of the total volume. Uniswap is followed by $10 billion by its smart contract fork rival SushipSwap and then $5.8 billion for stablecoin-focused exchange Curve. “I trade a lot on DEXs. They have deeper liquidity and less slippage than traditional exchanges,” noted Michael Gord, chief executive of trading firm Global Digital Assets.
+
+Decentralized exchange volumes the past two years. Source: Dune Analytics
+
+However, Peter Chan, head trader at quantitative firm OneBit Quant, cautioned that centralized exchanges (CEX) still rule despite the record volumes on DEXs. “This is remarkable and I am happy for the development of DeFi,” Chan told CoinDesk, referring to decentralized finance. “But it’s still a long way to go compared to volumes on a CEX.”
+
+According to CoinGecko, volume the past 24 hours on centralized exchange Binance was $34 billion as of press time.
+
+Chan noted that DEX fees can also be staggering. “Gas price is still going to be a major problem for DEXs. Especially for small trades, gas fees could take up to 20%-30% of the trade.”
+
+Other markets
+
+Digital assets on the CoinDesk 20 are mixed Friday, mostly higher. Notable winners as of 21:00 UTC (4:00 p.m. ET):
+
+In addition, meme-focused cryptocurrency dogecoin (DOGE), which is not currently part of the CoinDesk 20, has seen a price appreciation of over 120% over the past 24 hours, mostly because of high activity on social media.
+
+Read More: Dogecoin Becomes Most Mentioned Crypto on Twitter Ever as Price Soars
+
+Notable losers:
+
+Commodities:
+
+Oil was up 0.20%. Price per barrel of West Texas Intermediate crude: $52.18.
+
+Gold was flat, in the green 0.09% and at $1,843 as of press time.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield climbed Friday to 1.077 and in the green 2.8%.

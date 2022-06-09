@@ -1,0 +1,29 @@
+Rep. Andrew Clyde, R, represents a rural district of Georgia, speckled with only a few urban areas. A manufacturing company in his district "had a very detrimental attack" that "shut them down for almost six weeks," Clyde said during a Homeland Security Committee hearing Wednesday.
+
+The ransomware actors asked for $100,000 in Bitcoin, but recovery costs for the manufacturing company mounted to more than $1 million "in hard cash to replace their systems," Clyde said. "I think cryptocurrency is the common denominator in all ransomware."
+
+Clyde was among other members of Congress with constituents directly affected by ransomware attacks. Through monetary losses and stalled operations, members of Congress and their constituents have felt the effects of ransomware — and the anonymity of cryptocurrency is making the ransomware problem grow.
+
+"Two more recent factors have thrown fuel on the already smoldering heat [of ransomware]: the spread of cryptocurrencies that enable the transfer of funds largely outside the eyes of financial regulators and corrupt safe havens that don't mind if a little crime happens on their turf," Chris Krebs, former director of the Cybersecurity and Infrastructure Security Agency (CISA), said during the hearing.
+
+In the first quarter of 2019, 98% of ransomware payments were in Bitcoin, according to Emsisoft. "Bitcoin has become an inextricable part of the ransomware model," the firm said. In 2020, ransom payments reached $350 million in cryptocurrency, according to a report by the Ransomware Task Force, composed of members from the Global Cyber Alliance, Palo Alto Networks and the Institute for Security and Technology (IST). In Q4 2020, the average ransom was more than $154,000.
+
+The cryptocurrency ecosystem enables cybercriminals to hide in unregulated spaces. Despite gray, unregulated areas of the payment format, financial institutions such as Goldman Sachs are boosting or refreshing their tolerance of Bitcoin and crypto investments.
+
+With volatility refreshing mainstream enterprise interest, digital currency is hitting a "tipping point" this year, Citi said in a March report. The Office of the Comptroller of the Currency (OCC) in July published guidance for national banks engaging in crypto. Banks are permitted to work with legitimate businesses as long as risk and compliance are managed.
+
+"It is important to reinforce that cryptocurrency in and of itself is not a criminal enterprise, nor do I currently believe eradicating or regulating it to the point of uselessness is the answer," Krebs said.
+
+Regulation, please
+
+The rapid ascent of crypto, like other emerging technologies before it, has far outpaced the federal government's ability to regulate it. Because of the popularity, Congress and financial institutions may do well to focus less on downplaying digital currencies and more on the policies that will police them.
+
+Crypto payments travel through a series of entities before reaching the cybercriminal asking for it, the task force report said. The entities within this model often circumvent traditional standards.
+
+Criminals obfuscate detection and tracking by "chainhopping," or exchange their cryptocurrency for other forms. And they do it quickly. Other gangs hide behind privacy coins, such as Monero, though those coins lack the liquidity of Bitcoin.
+
+If governments and organizations can impose choke points within cryptocurrency, organizations might be better positioned to avoid a payment or, at least, trace payments. "Governments should require cryptocurrency exchanges, the crypto kiosk, the over-the-counter trading desk, to comply with existing laws," such as anti-money laundering or financing terrorism, John Davis, vice president of public sector at Palo Alto Networks, said during the hearing.
+
+"Those are good laws, they're just not effectively or consistently implemented in all cases," said Davis, a member of the ransomware task force. Sectors of the crypto market that host ransomware payments should be subject to these regulations.
+
+The kiosk or over-the-counter exchanges are where crypto and the conventional economy intersect, which makes financial regulation compliance easy to demand, Krebs said, adding that cryptocurrency "is here to stay … it is very likely going to be the future of financial transactions."

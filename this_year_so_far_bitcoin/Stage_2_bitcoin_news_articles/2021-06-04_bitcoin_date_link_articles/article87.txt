@@ -1,0 +1,7 @@
+SpaceChain has successfully sent a blockchain-enabled payload into space on Thursday aboard a SpaceX Falcon 9 rocket launched from NASA‘s Kennedy Space Center.
+
+SpaceChain will conduct the first demonstration of Ethereum cryptocurrency technology integration when the payload is installed at its destination — the International Space Station (ISS). This milestone follows SpaceChain’s in-space demonstration of Bitcoin technology back in 2019.
+
+Once installed, tested and activated, SpaceChain will allow customers to use the payload for enterprise business transactions and fintech applications. Nexus Inc., a digital asset management firm with offices in Melbourne, Dubai, Kuala Lumpur, and Singapore, will be the first SpaceChain customer to have direct access to the blockchain service.
+
+“We are thrilled in bringing the Ethereum platform to space and validating why a decentralized satellite infrastructure created with space technologies is vital to realizing the full potential of blockchain applications,” said SpaceChain Co-Founder and CEO Zee Zheng. “We launched a payload for bitcoin back in 2019 and today we are launching our second-generation payload with Ethereum. Bitcoin and Ethereum represent the two biggest ecosystems in the blockchain industry. With Ethereum’s smart contract platform running in outer space, it enables us to fortify blockchain applications and transactions with enhanced security and immutability, and allows more users and developers to get involved with our technology.”

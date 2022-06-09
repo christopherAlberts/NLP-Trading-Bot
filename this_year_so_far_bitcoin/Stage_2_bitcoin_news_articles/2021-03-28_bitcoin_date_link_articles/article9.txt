@@ -1,0 +1,13 @@
+Nothing is safe from cryptocurrency mining -- not even 32-year old tech. YouTuber stacksmashing (via TweakTown) has successfully repurposed his old Game Boy to mine Bitcoin. The mod won't turn you into a millionaire overnight, but it does prove that you can teach an old dog new tricks.
+
+First of all, the modder used a standard USB flash card to load the his compiled ROMs onto the Game Boy. If you're interested in the software aspect of the project, the YouTuber explains it pretty thoroughly in his video.
+
+An internet connection is one of the most basic requirements for mining cryptocurrencies. Since the Game Boy lacks wireless connectivity, the handheld gaming console is unable to communicate with the Bitcoin network without the help of a middle man. That's where the $4 Raspberry Pi Pico comes in to the rescue.
+
+The YouTuber modified a Nintendo Game Link Cable to serve as the highway for communication. The problem is that the voltage requirements for the Raspberry Pi Pico and the Nintendo Game Link Cable are completely different. The Raspberry Pi Pico operates at 3.3V, while the Nintendo Game Link Cable utilizes 5V logic levels. As a result, the modder implemented a simple four-channel, bi-directional logic shifter to do the voltage translation.
+
+The bi-directional functionality isn't necessary, but it's what the stacksmashing had at hand. The final setup finds the Game Boy connected to the Raspberry Pi Pico through the logic shifter with the Pico attached to a PC, which is where the Internet connection comes from.
+
+The Game Boy is equipped with an 8-bit Sharp LR35902 processor clocked at 4.18 MHz. The chip puts up a performance of approximately 0.8 hashes per second. For comparison, modern ASIC miners typically offer up to 100 terahashes per second. Therefore, the Game Boy is only 125 trillion times slower.
+
+The calculations reveal that it would only take a couple quadrillion years to eventually mine a single Bitcoin. On the bright side, ASIC miners are power-hungry monsters, while the Game Boy runs on four triple-A batteries.

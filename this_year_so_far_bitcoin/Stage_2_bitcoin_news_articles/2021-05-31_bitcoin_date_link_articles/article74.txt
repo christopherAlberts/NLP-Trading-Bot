@@ -1,0 +1,61 @@
+After its launch in 2009, Bitcoin ushered in a new era of blockchain technology and digital currencies. Given all the talk about Bitcoin, you’d think it would be everywhere. Is that really true? How much is Bitcoin worth? Perhaps more importantly, how much of the world’s money is in bitcoins? With the price of bitcoin at 34,843 U.S. dollars as of May 30, 2021, it is certainly worth our time to figure it out.
+
+Key Takeaways A bitcoin was worth 34,843 U.S. dollars as of May 30, 2021.
+
+All the bitcoins in the world were worth roughly $653 billion.
+
+The combined value of bitcoin was equivalent to just 1.7% of the world’s money.
+
+Bitcoin was worth only about 5.3% of the world’s gold supply.
+
+All cryptocurrencies combined accounted for less than 5% of the world’s money.
+
+How Much Is Bitcoin Worth?
+
+We will calculate the total value of Bitcoin first because that is the easy part. According to CoinMarketCap, the value of all the bitcoins in the world was $653 billion as of May 30, 2021. For comparison, Forbes estimated the net worth of Amazon (AMZN) founder Jeff Bezos at $177 billion. That makes the market cap of Bitcoin nearly four times larger than Bezos’ fortune.
+
+Bitcoin and the Money Supply
+
+To get a sense of how much of the world’s money is in bitcoins, we must determine the total amount of money. As it turns out, this is not the easiest question to answer. Such a calculation might take into account dozens of categories of wealth, including bank notes, precious metals, money market accounts, and debt. The Money Project attempted this computation in May of 2020 and estimated around $35.2 trillion in global narrow money.
+
+That leaves Bitcoin at about 1.8% of the estimated value of narrow money from The Money Project’s report.
+
+Market capitalization is considered a controversial metric, especially when applied to cryptocurrencies. Although it’s a convenient way to assess the total value of an asset, it is highly subject to manipulation.
+
+Bitcoin vs. Gold
+
+How does Bitcoin compare to gold? After all, some people still consider gold to be the real money. It is certainly the gold standard to which other currencies must be compared. We begin with the World Gold Council’s figures. They estimated that about 197,576 tonnes of gold had been mined throughout history as of the end of 2019. An average of around 2,500 tonnes are mined per year, so we can safely estimate around 200,000 tonnes of gold in existence at the end of 2020. There are 32,150.7 troy ounces of gold in one tonne, and the price of gold per ounce was $1,913. So, we can estimate the total value of all gold as:
+
+200,000 tonnes of gold x 32,150.7 troy ounces per tonne x $1,913 per ounce = $12.3 trillion.
+
+In total, the value of all bitcoin was about 5.3% of the value of all gold.
+
+Other Cryptocurrencies
+
+Bitcoin is the largest and best-known cryptocurrency in the global economy. However, it is far from the only one. If we combine Bitcoin with Litecoin, Monero, Ethereum, and all the other significant cryptocurrencies, the total value comes to roughly $1.5 trillion. That is still a bit less than 4.3% of the value of all narrow money given above.
+
+Warning Bitcoin and other cryptocurrencies are highly volatile and illiquid, and they are vulnerable to slippage and price manipulation. Before investing, make sure you understand the risks associated with virtual assets.
+
+Bitcoin’s Percentage of All Money FAQs
+
+What Percentage of All Money Is Bitcoin?
+
+As of May 30, 2021, the combined market value of all existing bitcoins (market capitalization) was equivalent to 1.8% of the combined value of the world’s narrow money supply.
+
+What Is the Total Value of All Bitcoins?
+
+As of May 30th, 2021, the combined market value of the world’s bitcoins totaled $653 billion U.S. dollars.
+
+How Much Does Bitcoin Sell For?
+
+Bitcoin prices are highly volatile and subject to market fluctuations. As of May 30, 2021, the global market price of bitcoin was $34,634.
+
+How Much Money Is There in the World Altogether?
+
+Based on estimates from The Money Project, the combined value of all the world’s narrow money (coins, currency, demand deposits and other assets held by central banks) was worth $35.2 trillion as of May 27, 2020.
+
+How Much Money Is in the US?
+
+According to the Federal Reserve Bank of St. Louis, the M1 Money Supply, or the total amount of money in the U.S., was $12.8 trillion in 2020.
+
+Investing in cryptocurrencies and other Initial Coin Offerings (“ICOs”) is highly risky and speculative, and this article is not a recommendation by Investopedia or the writer to invest in cryptocurrencies or other ICOs. Since each individual’s situation is unique, a qualified professional should always be consulted before making any financial decisions. Investopedia makes no representations or warranties as to the accuracy or timeliness of the information contained herein. As of the date this article was written, the author owns/does not own cryptocurrency.

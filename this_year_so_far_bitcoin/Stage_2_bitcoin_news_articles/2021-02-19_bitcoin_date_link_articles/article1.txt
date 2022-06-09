@@ -1,0 +1,67 @@
+Bitcoin broke briefly above a key resistance level at $56,000 on Friday, while ether’s slowly catching up to bitcoin’s gains.
+
+Bitcoin (BTC) trading around $55,512.76 as of 22:00 UTC (5 p.m. ET). Gaining 6.60% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $50,821.47-$56,283.55 (CoinDesk 20)
+
+BTC trades above its 10-hour and 50-hour averages on the hourly chart, a bullish signal for market technicians.
+
+Bitcoin trading on Bitstamp since Feb. 16. Source: TradingView
+
+Bitcoin volumes on eight major crypto exchanges since the beginning of February. Source: CryptoCompare
+
+Some are attributing the astonishing rise of bitcoin’s price, including a short time above $56,000, to the tremendous demand from buyers looking to hedge against inflation.
+
+“Through the insatiable buy-side pressure from exchange-traded fund (ETF) issuers, closed-end funds and large public corporations adding bitcoin to their positions, demand is massively outstripping supply,” said John Willock, chief executive at digital asset exchange Blocktane. “I feel confident that we won’t see a massive crash like post-2017.”
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+The first publicly traded bitcoin ETF in North America, managed by Canada-based Purpose Investments, saw an impressive $165 million worth trading volume on its first day of trading, well above a typical Day One for a Canadian ETF. (TradeBlock, a CoinDesk subsidiary, is the index provider of Purpose Investments’ bitcoin ETF.)
+
+Yet, there are still several psychological barriers for bitcoin to break, even as it passed a key milestone of $1 trillion in market capitalization.
+
+While the 10-figure market cap potentially makes bitcoin go from “a magic internet money meme” into a largely recognized investment asset, it also poses some psychological challenges to some buyers, who may sell some bitcoin for profit taking.
+
+In the derivatives market, bitcoin’s price could be tested at around $56,000, according to Andrew Tu, an executive at quantitative trading firm Efficient Frontier.
+
+Bitcoin options open interest by strike Source: Skew
+
+“Based on options open interest, it looks like $56,000 is the next big resistance,” Tu said.
+
+Some are taking it a step further. Michael Burry, “The Big Short” investor and founder of the Scion Asset Management, said in a now deleted tweet, “In an inflationary crisis, governments will move to squash competitors in the currency arena,” adding “$BTC #gold” to the end of the tweet.
+
+However, while many bought into bitcoin’s “digital gold” narrative at the beginning of the coronavirus pandemic, physical gold has lost value year to date while bitcoin has skyrocketed.
+
+Source: CoinDesk Research, St. Louis Fed, Yahoo Finance
+
+Ether near $2K, DeFi drives Binance’s BNB
+
+Ether (ETH), the second-largest cryptocurrency by market capitalization, was up Friday, trading around $1,951.37 and climbing 0.63% in 24 hours as of 21:00 UTC (4:00 p.m. ET).
+
+With ether’s new all-time high could be seen as a result of bitcoin’s surge, factors such as institutional interest and rapid growth of decentralized finance (DeFi) have also been moving its price higher.
+
+But much of the chatter in the altcoin market is centered on BNB, the native token to Binance, the No. 1 cryptocurrency exchange by spot trading volume. BNB saw a seven-fold return on a year-to-day basis and its market capitalization has passed that of the stablecoin tether (USDT) to take third place behind bitcoin and ether.
+
+BNB’s explosion is likely a result of an extraordinary growth in PancakeSwap, a DeFi project based on Binance’s Binance Smart Chain. Trading volumes on the Ethereum-based Uniswap’s clone have grown over 1,000% for the year to date, and its own CAKE token has shot up by over 2,000% year to day, according to Messari.
+
+Read More: PancakeSwap Brings Whopping DeFi Volumes to Binance Smart Chain
+
+CoinDesk previously reported that investors have bought centralized exchange tokens like BNB hoping to outperform bitcoin while acting more like equity. However, the risks are also obvious: unlike stocks, exchange tokens are unregulated. Thus, as they take on more equity-like behavior, the regulatory uncertainty only grows.
+
+Other markets
+
+Digital assets on the CoinDesk 20 are mixed on Friday. Notable winners as of 21:00 UTC (4:00 p.m. ET):
+
+Notable losers:
+
+Equities:
+
+Commodities:
+
+Oil was down 2.56%. Price per barrel of West Texas Intermediate crude: $58.97.
+
+Gold was in the green 0.34% and at $1781.33 as of press time.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield climbed Friday jumping to 1.34%.

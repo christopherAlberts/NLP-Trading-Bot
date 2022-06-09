@@ -1,0 +1,119 @@
+Seven primal elements of Bitcoin have combined to turn it into a belief system.
+
+The Seven Primal Elements Of The Bitcoin Brand
+
+People tend to be dismissive about new forms of money.
+
+This makes absolute sense because the value of a monetary asset resides primarily in the fact that other people are already using it.
+
+In this sense, any attempt at introducing a new form of money into the world has very slim chances of succeeding.
+
+In modern world history, governments have had a monopoly over money creation initiatives. Just imagine how everybody would react if a new monetary asset were to show up. If that asset were not even backed by a nation state, its chances of success would be even slimmer.
+
+So, how has Bitcoin grown so fast in just 10 years?
+
+There are several answers to that question. Most of them emphasize Satoshi’s genius of combining different technologies in a very unorthodox way.
+
+However, because of my history degree and interest in anthropology, I would like to focus on something that has nothing to do with Bitcoin’s technical aspects.
+
+In this article, I will argue that one of the main reasons for Bitcoin’s success is something that resonates with us as humans on a much deeper level: the primal elements of its brand, which when combined, turn it into a belief system.
+
+The idea that some brands are actually belief systems was advanced by Patrick Hanlon, and I first learned about it from his TED Talk. For those who have not watched it, the following quotes of “Primal Branding” will help you understand its core proposition:
+
+“All belief systems have seven pieces of code that work together to make them believable. The more pieces, the more believable the belief system becomes. When products and services have all seven pieces of code (the creation story; the creed; the icons; the rituals; the pagans, or nonbelievers; the sacred words; and the leader), they become a meaningful part of our culture.”
+
+“The seven pieces of primal code create together a sustainable belief system that provides the unarticulated, intangible emotional glue that attracts people and helps them feel that they belong. This sense of belonging manifests itself in evangelist tribes, cults, members of political parties, product geeks and enthusiasts.”
+
+Now that we know what Primal Branding is about, let us examine how each one of these elements are expressed in the Bitcoin brand.
+
+1) Story
+
+Satoshi Nakamoto was the pseudonym used by Bitcoin’s creator (or creators). No one knows his real identity, and we will probably never know. His anonymity and sudden disappearance fascinates people and has attracted much attention.
+
+Satoshi envisioned a new kind of monetary network that had almost no chance of working out. All previous attempts to achieve something similar had failed.
+
+He sought help from a cryptography mailing list, which was one of the few places where he could obtain help and be understood. Even there, he faced harsh criticism and disbelief.
+
+One of the few supporters was Hal Finney, who died of amyotrophic lateral sclerosis a few years later. For almost 2 years, bitcoin was exchanged back and forth between curious users. These coins were often given away in “bitcoin faucets” and had no market value.
+
+Such humble beginnings serve as a source of inspiration and motivation for Bitcoin enthusiasts.
+
+2) Creed
+
+Bitcoiners have the shared belief that every person can be their own bank, and that no government or entity can affect the Bitcoin network’s monetary policy. For them, bitcoin is the native money of the internet. It is secure, borderless, neutral, and censorship-resistant.
+
+The believers feel compelled to get together and to share the good news of Bitcoin with their family and friends.
+
+This doctrine is deeply rooted in the cypherpunk ethos, which can be summarized in the following quote:
+
+“The computer can be used as a tool to liberate and protect people, rather than to control them.” - Hal Finney
+
+3) Icons
+
+The orange ₿, along with the physical Casascius coins, have been used extensively as symbols for this new internet money.
+
+4) Rituals
+
+Bitcoiners celebrate special occasions through meetups and over the internet.
+
+The first special day in the Bitcoin community is January 3, 2009, the day the Genesis Block was mined by Satoshi Nakamoto. This event marks the official birth of the Bitcoin Blockchain.
+
+The second special day is May 22, 2010, also known as Bitcoin Pizza Day. On this day, the first real-world purchase paid in bitcoin was completed by Lazlo Hanyecz, who bought two Supreme pizzas for 10,000 bitcoin ($63.05 million as of April 13, 2021).
+
+However, the most important ritual in Bitcoin is the halving.
+
+The issuance of new bitcoin occurs according to a fixed schedule. These freshly minted coins are paid to miners, which are the computers that assure that the blocks added to the blockchain are legitimate. To perform this work, miners must spend a huge amount of energy. To cap the total supply at 21 million units, the reward paid to the miners is cut in half every 4 years.
+
+Users and investors from all over the world celebrate the halving. This voluntary sacrifice respects the system’s hard-coded monetary policy and maintains enforcement of the protocol’s rules.
+
+5) Sacred Words
+
+Unspent transaction output, blockchain, proof of work, private keys...
+
+These are some of the weirdest words that distinguish outsiders from those who belong to the Bitcoin tribe. If you want to be part of this group, you need to learn what these complicated expressions mean.
+
+Just don’t forget that they make sense in the context of Bitcoin and nowhere else.
+
+6) Pagans
+
+Every hero needs a villain. For the Bitcoin community, the first type of bad guys would be the bitcoin bears.
+
+Peter Schiff, Nouriel Roubini, and Paul Krugman are some of the most famous.
+
+One of the favorite activities of Bitcoin maximalists is combating anyone who claims that Bitcoin will eventually collapse. These hardcore Bitcoiners often behave like a mob on social media.
+
+They even build websites entirely dedicated to ridiculing the haters:
+
+There is also a second kind of villain, often considered with more disdain than the bears: the traitors.
+
+Seeking influence, fame or money, they betray the majority and split the network with the help of their followers. This results in a hard-fork, which is a non-backwards compatible ramification of the system.
+
+Some of these attempts are considered scams. But some are simply the result of people having different views on what kind of problem Bitcoin is supposed to solve. Nonetheless, it is safe to say that staying together and reaching consensus are core values of the bitcoin ethos.
+
+7) Leader
+
+Satoshi could enjoy everything that most of us seek in life: fame and money. He is responsible for creating the world’s first decentralized electronic monetary system. This is a big deal.
+
+However, he chose the path of self-sacrifice.
+
+Instead of becoming world-famous, he remained anonymous. Furthermore, instead of becoming one the world’s 20 richest people, he decided never to touch his bitcoin.
+
+His pain made Bitcoin’s origins immaculate. That is something that no other cryptocurrency can imitate.
+
+Conclusion
+
+If we really want to understand Bitcoin, we should approach it not as a pure technological transformation, but rather as a cultural phenomenon.
+
+As Yuval Noah Harari states in the book “Sapiens,”
+
+“We humans have this unique ability of mobilizing tribe members towards a common goal. Unlike other animals, we can do this with a larger number of individuals and in a flexible way. The belief in shared ideas is what makes this possible. The whole world around us is built upon our collective faith in ethereal concepts like 'democracy', ‘civil rights’, and ‘the government’.”
+
+In the same way, every monetary system is supported by the collective faith that people have in it. This means that we are witnessing a huge paradigm shift. For the first time in human history, people from all over the world are deciding to put their faith in a decentralized platform for storing and transferring value.
+
+In a completely spontaneous and leaderless process, Bitcoiners turned the cold content of a technical whitepaper into a vibrant social movement. This is the secret sauce that made Bitcoin spread like fire.
+
+The Voicepaper is a collaborative video recording of the Bitcoin whitepaper narrated by Bitcoiners. Each contributor recites a section from Satoshi’s document and pays their respect to what and who started it all.
+
+This project is first and foremost a celebration of the Bitcoin community, of its strength and unity, as well as its broad diversity of backgrounds, origins and aspirations. It is a statement that Bitcoin belongs to everyone, and that the meaning of the “vires in numeris” motto is contextually as computational as it is human.
+
+This is a guest post by Paulo Sacramento. Opinions expressed are entirely their own and do not necessarily reflect those of BTC, Inc. or Bitcoin Magazine.

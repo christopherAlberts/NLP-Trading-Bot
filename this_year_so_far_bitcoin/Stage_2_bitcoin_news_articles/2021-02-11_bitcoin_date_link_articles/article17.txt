@@ -1,0 +1,105 @@
+The two most important decisions the Biden FCC will confront early are the security and availability of broadband networks . The Trump FCC ignored the former and mismanaged the latter. The Build Back Better commentaries begin with the national cyber challenge.
+
+After four years of “unbuilding” by the Trump FCC, the new Biden Federal Communications Commission (FCC) faces significant challenges to Build Back Better. This is one of a series of blogs addressing a selection of those challenges.
+
+America’s networks are under attack. While there are multiple challenges facing the Biden FCC, the ongoing attacks and how cybersecurity was dismantled by the Trump FCC should move cybersecurity high on the new agenda.
+
+Long before the recent SolarWinds attack, President Trump’s National Security Telecommunications Advisory Committee reported in November 2018, “[T]he cybersecurity threat now poses an existential threat to the future of the Nation.” But for the last four years, the Trump FCC – the agency with regulatory responsibility for the nation’s networks – did little to address that existential threat, while also rolling back the cybersecurity efforts of the Obama FCC.
+
+Trump FCC Ignored Cybersecurity of Networks
+
+Networks have always been attack vectors. “All roads lead to Rome” because the Romans used the road network as pathways to conquer foreign lands. “Britannia rules the waves” because the British had to protect the trade network of the empire. Digital networks are the attack pathways of the 21st century.
+
+The FCC has both the responsibility and the authority to protect the nation’s networks. The opening lines—Page 1, Title I, Section 1—of the Communications Act establishes the FCC, among other reasons, “…for the purpose of the national defense, [and] for the purpose of promoting safety of life and property…” When those lines were written in 1934, no one could imagine the digital networks of today. Yet Congress recognized the potential ill effects of using networks against the national security and public safety. As a result, the statute gives the FCC responsibility and the broad authority to take action to preserve and promote these national purposes.
+
+“Digital networks are the attack pathways of the 21st century.”
+
+The Title I national security and public safety mandate is more important today than before. The pace of technological transformation punishes markets that do not address security early in the gestation of products and services. “Bolt-on” and “after-the-fact” cybersecurity remediation costs more and is less effective.
+
+The Trump FCC turned a blind eye to both the instructions of the Communications Act and the cyber realities of digital networks. This has created a challenge for the Biden FCC.
+
+The Trump FCC’s “unbuilding” of the agency’s responsibility for national security and public safety began with undoing the Obama FCC’s efforts to protect the national security and promote safety. The Trump FCC:
+
+Stopped the Commission order to address known security flaws in the Emergency Alert System (EAS). The result left EAS vulnerable to DDOS attacks.
+
+Removed cybersecurity from the considerations surrounding the new internet protocol-based television broadcast standard. A gift to broadcasters, it shut down FCC consideration of how the new network could create a backdoor into Wi-Fi and connected devices.
+
+Ignored the review of the agency’s Communications, Security, Reliability and Interoperability Council (CSRIC) of cyber experts and then gutted that body by removing strong consumer, privacy, and security advocates.
+
+Eliminated requirements that companies protect from cyberattack the personal information they collect from customers (this as a part of removing privacy protections from the users of broadband networks).
+
+Stopped work on a requirement to include cybersecurity failures in mandatory network outage reports to the FCC. This contradicts a 2018 White House report finding of “pervasive” underreporting of cyber events that “hampers the ability of all actors to respond effectively and immediately.”
+
+Rescinded the ongoing inquiry regarding how to make 5G networks secure and failed to take action on the cybersecurity shortfalls the record in the inquiry had generated.
+
+Ended meaningful FCC cyber engagement with 5G standards bodies and failed to even consider whether enhancements to the 5G standard developed to address cybersecurity should be mandatory for U.S. deployments.
+
+Attempted to remove from public view a study on the economics behind non-regulatory cyber protections and its conclusion that voluntary actions alone are not sufficient.
+
+Stopped considering the cybersecurity impacts when reviewing telecommunications mergers and acquisitions.
+
+Ended the practice of insisting on improved cybersecurity as a part of the negotiation of consent decrees related to avoidable network reliability failures.
+
+As commissioner, Trump FCC Chairman Pai opposed efforts to proactively deal with cybersecurity protection, arguing that the agency lacked the authority. Dissenting to the 2016 5G cybersecurity order, for instance, he said, “We lack the expertise and authority to dive headlong into this issue.” Once in the majority, the Trump FCC made this opinion into policy. Such action was in keeping with the position advocated by the telecommunications companies that cybersecurity issues should be dealt with by the Department of Homeland Security (DHS), certainly a well-qualified body, but one that lacks the regulatory powers of the FCC.
+
+The result of these and other actions meant that when the 2020 SolarWinds attack occurred the federal agency with regulatory responsibility for the nation’s networks was flying blind. Microsoft President Brad Smith described the attack as a “mass, indiscriminate global assault on the technology supply chain that all of us are responsible for protecting.” As the attack distributed malware into U.S. network infrastructure, however, the agency responsible for that infrastructure was AWOL. Following the attack, federal agencies are scrambling to assess the extent, impact and necessary remediation. There is no comparable, urgent effort at the FCC to ensure that the over 1,000 broadband network providers serving our nation eradicate the malicious compromise of networks that provide critical infrastructure capabilities.
+
+The Internet and Commercial Networks
+
+The term “internet” is a truncation of “internetworking,” the original label for how multiple unrelated networks interconnect to form a common whole. The importance of these interconnections has become manifest during the COVID-19 pandemic. At the same time, as high-profile cyberattacks have demonstrated, it is such interconnections that make networks vulnerable.
+
+“America is more reliant on financial, commercial and government networks than our adversaries,” a recent New York Times article warned. “American networks represent targets to our adversaries that are simply too soft, juicy and vulnerable to resist.”
+
+At the center of America’s networks are the commercial connections that tie everything together. Those networks are the regulatory responsibility of the FCC.
+
+The network used by the government’s Office of Personnel Management (OPM), for instance, may be a government-run network, but it relies upon independent commercial networks for traffic in and out. It was through those commercial networks that hackers attributed to China were able to steal the personal information of millions of government employees. Similarly, the government networks compromised in the SolarWinds attack attributed to Russia connect to the world over commercial networks run by the major telecommunications carriers. Whether a government or corporate network, it connects via commercial network providers subject to the jurisdiction of the FCC.
+
+While the Trump FCC proudly claimed to ground its regulatory approach in thorough economic analysis, it never publicly examined the impact of economic loss against the kind of risk reduction investments for which it was responsible. This included initially suppressing a study by FCC economists and security experts that concluded the economic environment in which telecommunications companies operate creates pressures against investments that do not contribute to profits. The study further concluded that protective cyber actions taken by one company can be undermined by the failure of other companies to take similar protections. Cyber accountability, it recommended, requires a combination of market-based incentives and appropriate regulatory oversight.
+
+Building Cyber Back Better
+
+There are two realities that govern commercial network cybersecurity:
+
+The nation’s commercial infrastructure is lightly defended, and
+
+“Cooperation” and “coordination” with commercial infrastructure providers is helpful but not sufficient; the federal government must incentivize early cyber risk reduction activities and establish enforceable expectations if companies fail to respond.
+
+The Cybersecurity and Infrastructure Security Agency (CISA) of the Department of Homeland Security has made solid progress securing federal systems and collaborating with commercial infrastructure providers. CISA is responsible for overseeing 16 critical infrastructure sectors, of which communications is one; yet it lacks meaningful enforcement authority to mandate its cybersecurity expectations for commercial networks.
+
+“The federal government must incentivize early cyber risk reduction activities and establish enforceable expectations if companies fail to respond.”
+
+There is only one agency with the requisite regulatory authority over America’s commercial networks and that is the FCC. Cybersecurity is a whole-of-government priority. DHS Secretary nominee Alejandro Mayorkas and the department’s cyber team can find an ally in the FCC. A cyber-responsive FCC could use its existing authorities in two specific applications: securing the telecommunications supply chain and defending commercial networks.
+
+Securing the telecommunications supply chain
+
+How software and hardware end up being used in or connected to the nation’s critical network infrastructure is the “supply chain.” The software and hardware delivered through the supply chain ultimately become an access point—and thus an attack vector—into the network itself. As network functions become increasingly “virtualized” in software, it becomes even more important that the integrity of the software virtualization is maintained throughout its lifecycle.
+
+With great fanfare, the Trump administration focused on the supply chain threat represented by equipment from Chinese manufacturer Huawei. The concern was well founded. However, “solving” the Huawei threat does not solve the broader supply chain cybersecurity threat. Worse yet, the attention paid to Huawei hid the administration’s and FCC’s failure to adequately deal with other supply chain threats.
+
+The administration’s focus on Huawei did, however, force the Trump FCC to at least partially recant its “lack of authority” claim about cyber issues. The Commission suddenly discovered its ability to ban Huawei equipment from its program of support for rural wireless providers. As the FCC applauded itself for dealing with Huawei (but never completing the network replacement), it continued its failure to address other pressing cyber challenges.
+
+A supply chain threat more subtle than Huawei was the 2016 cyberattack that took control of the computing power of millions of video cameras connected to the internet. These networked computing devices were harnessed to mount a massive DDOS attack and take down large parts of the internet. The Obama FCC proposed at the time that the agency consider expanding its certification program for equipment that could affect the airwaves to include equipment that could affect use of the internet. If the FCC was supervising inspection of radio-frequency emitting devices such as Tickle Me Elmo toys to assure they do not interfere with broadcast and wireless networks, it was logical it should have a similar review of the cyber vulnerability of devices that connect to the internet. When the Trump FCC took over the following month, it silenced such ideas.
+
+Cyberattacks begin with the exploitation of the commercial network supply chain. The FCC has an ongoing responsibility to properly oversee and incentivize supply chain protection at all levels.
+
+Defending commercial networks
+
+Network-based cybersecurity efforts are hard, make no mistake about it. The success of such efforts depends on far more than the application of technology; it also requires the enforceable establishment of behavioral expectations for the networks. Developing such oversight does not mean allowing the companies to do as they please; nor does it need to be an adversarial relationship between the FCC and the network providers.
+
+As the suppressed FCC paper on cyber oversight discussed, there is a tension within network companies about investing in non-revenue enhancing activities such as cybersecurity. This is further intensified by the “weakest link” reality that one company’s investment can be compromised by the failure of another company to make a similar commitment.
+
+An example of the Trump FCC’s failure to deal with the cyber threat is the December 2020 report of the agency’s Communications, Security, Reliability and Interoperability Council (CSRIC), a voluntary industry panel convened by the agency to tap the expertise of its industry members. With the expansion of 5G networks as well as network cybersecurity both pressing national concerns, the Trump FCC asked CSRIC to evaluate the optional cybersecurity elements that had been recently added to the 5G standard. The agency sat meekly by as the council produced a self-serving recommendation that while the new protections were important for the security of 5G networks, each company should be free to decide whether any of them are implemented. The result—a patchwork quilt of widely varying cyber readiness among interconnected networks—will lead to easily exploitable seams between providers.
+
+Such a decision is simply too important to be left to the individual determination of the companies themselves. The FCC is the agency with the authority and responsibility to establish enforceable cybersecurity expectations for the nation’s commercial networks. One of the reasons companies regulated by the FCC do not want it to exercise its cyber authority is because it is too rigid and bureaucratic. The companies’ complaint has some merit to it, but that does not mean the FCC should abrogate its responsibility. The Obama FCC exercised its cyber responsibility while responding to the industry’s complaint about rigidity through what it called “a new paradigm” that paired oversight with agility in order to keep up with changes in both technology and threats while not inhibiting industry innovation and investment.
+
+The long-term cyber goals of the FCC and industry should be in alignment. The FCC should not allow short-term profit considerations to detract from its responsibility to focus on long-term solutions. At the same time, the companies should recognize that secure networks generate consumer and investor confidence, subscriber usage, and economic growth.
+
+Thinking anew
+
+Build Back Better means thinking anew. The industry standard-setting process that produced the cyber option for 5G networks can be a model for how the FCC manages its cyber responsibilities. Old style regulation with its detailed compliance instructions can be replaced by applying to cyber the centuries-old common law duty of care. Such a duty of care holds that it is the responsibility of a provider of a commercial service to anticipate and mitigate the potential harmful effects of that service (e.g., negligence is an implementation of the duty of care). Failure to do so becomes an enforceable event.
+
+Simply establishing a cyber duty of care standard at the FCC would open the door to new cybersecurity engagements between the agency and the providers. The regulatory question would evolve from strict “thou shalt” micromanagement to a more agile oversight of whether an effective duty of care had been realized.
+
+The FCC is not the exclusive agency when it comes to networks cybersecurity, but it is the expert agency created by Congress with the necessary technical know-how and regulatory authority. When the Trump FCC suppressed its cyber activities, it suppressed national security.
+
+Recovering from the Trump FCC’s abrogation of cyber responsibility will be one of the major challenges of a Build Back Better Biden FCC. It begins with the recognition that the most important facilities in the information economy are under attack and the responsibility to protect the national security and public safety uses of those networks rests with the Federal Communications Commission.

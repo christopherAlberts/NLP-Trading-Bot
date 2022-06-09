@@ -1,0 +1,27 @@
+Bitcoin's total annual energy consumption surpassed that of the UAE just days after the cryptocurrency hit an all-time high of $64,869.
+
+Researchers at Cambridge University estimate that the electricity consumption of the Bitcoin network is almost 120 Terawatt-hours per year, more than the energy consumption of the UAE at 119.45 Terrawatt-hours, and on course to overtake Pakistan.
+
+Electricity is a primary input of Bitcoin and other cryptocurrencies. The coins are mined by computers that process complex algorithms in halls that span the area of several football pitches. As the market for cryptocurrency grows, so does Bitcoin's demand on energy grids.
+
+Citigroup found that Bitcoin mining now uses 66 times more electricity than in 2015 and carbon emissions from the process may face increasing regulation, Bloomberg reported.
+
+The enormous amounts of energy needed to mine Bitcoin have been blamed for causing power cuts in Tehran as recently as January, and led to increasing competition in so-called green mining, which uses renewable energy sources to mine cryptos.
+
+The researchers at Cambridge, who have endeavoured to provide a real-time estimate of the total electricity load and consumption of the Bitcoin network, say the model is based on an estimate, given that the exact electricity consumption cannot be determined.
+
+/
+
+The Cambridge Bitcoin Energy Consumption Index provides a range of possibilities consisting of a lower bound and an upper bound estimate to get a "best-guess" estimate of Bitcoin’s real annual electricity consumption.
+
+The lower bound is based on the "best case" assumption that all Bitcoin miners are always using the most energy-efficient equipment available on the market.
+
+The upper bound estimate is based on the "worst case" that all miners always use the least energy-efficient hardware available on the market as long as running the equipment is still profitable in electricity terms. The "best-guess estimate" is based on the assumption "that miners use a basket of profitable hardware rather than a single model", according to the CBECI website.
+
+Cryptocurrencies have emerged as an alternative investment for the past decade, but have been characterised by volatility. But in the last year Bitcoin's value has increased more than seven-fold on hype from the likes of Elon Musk and increasing support from large institutional investors.
+
+Goldman Sachs Group and Morgan Stanley plan to offer their clients access to crypto investments. Tesla earlier this year disclosed a $1.5 billion investment in Bitcoin and now accepts it as payment for its electric cars.
+
+On Tuesday, 3iQ Corporation, the world's first Bitcoin fund to trade on a major exchange, said it will list on Nasdaq Dubai this quarter.
+
+Bitcoin's market cap surpassed $1 trillion last week, exceeding that of Facebook.

@@ -1,0 +1,35 @@
+The Bitcoin (CRYPTO: BTC) mine was stealing thousands of pounds worth of electricity from the main supply, police said.
+
+What Happened: The West Midlands Police in central England, looking for a cannabis farm, has found an illegal bitcoin mine located in an industrial unit on the outskirts of Birmingham.
+
+They found banks of computers illegally tapping the electricity needed to mine for Bitcoin, West Midlands Police said in a statement.
+
+Police were alerted of numerous people visiting the location at different times of the day. Wiring and ventilation ducts that were visible and voluminous also raised concerns.
+
+Following these suspicions, the police flew a drone above the location, which picked up a considerable heat source from above.
+
+Upon raid, police discovered a bank of around 100 computer units as part of what's understood to be a bitcoin mining operation.
+
+"It's certainly not what we were expecting," Jennifer Griffin, Sandwell police sergeant, said in a statement. "It had all the hallmarks of a cannabis cultivation set-up, and I believe it's only the second such crypto mine we've encountered in the West Midlands."
+
+Read: What is Cryptocurrency Mining?
+
+"We've seized the equipment and will be looking into permanently seizing it under the Proceeds of Crime Act," Griffin said.
+
+"No one was at the unit at the time of the warrant, and no arrests have been made – but we'll be making inquiries with the unit's owner," Griffin added.
+
+Western Power, the electricity distribution operator for the Midlands, revealed that the electric supply had been bypassed, and thousands of pounds worth had been stolen to power the crypto mine.
+
+Why It Matters: According to the Cambridge Bitcoin Electricity Consumption Index, Bitcoin's electricity consumption is currently greater than The Netherlands'.
+
+Mining for Bitcoin requires massive amounts of power to solve complex mathematical equations for transactions.
+
+Governing bodies have raised concerns about the enormous energy consumption needed to mine cryptocurrencies.
+
+Iran has banned cryptocurrency mining ahead of an anticipated surge in electricity demand.
+
+New York legislators are considering a bill that would place a three-year moratorium on crypto mining until the state has assessed its impact on the environment.
+
+China's Inner Mongolia region is heading for a crypto-mining ban by setting up a hotline for the general public to report suspected activity.
+
+Photo: West Midlands Police Website

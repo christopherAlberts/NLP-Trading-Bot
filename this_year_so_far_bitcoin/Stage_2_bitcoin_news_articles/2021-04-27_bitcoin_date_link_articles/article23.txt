@@ -1,0 +1,35 @@
+Bitcoin has begun the monthly options expiry week on a positive note, rising from $48,000 to over $54,000.
+
+Further gains may remain elusive for a while or unfold at a slower pace, as the max pain point for Friday’s $4.2 billion options expiry is $54,000.
+
+As discussed last month, call and put sellers, typically institutions with ample capital supply, often manipulate and pin the price of the underlying toward the max pain point while heading into the expiry.
+
+Related: Bitcoin Rallies From Oversold Levels; Resistance Around $56K
+
+Doing so ensures that maximum options expire worthlessly – buyers lose maximum money, that is, the premium paid while purchasing options, while sellers or recipients of premium make the most.
+
+In other words, buyers of call and put options expiring on April 30 will suffer maximum loss if bitcoin settles at $54,000 on Friday. Meanwhile, sellers would make the highest profit. Therefore, option writers may try and keep prices around $54,000.
+
+It is difficult to prove whether max pain pinning is real or coincidental, as bitcoin’s options market is still relatively small for the expiry to have a sizeable impact on the spot price.
+
+At press time, the total number of outstanding bitcoin options contracts – or open interest – is around $13 billion or 1.3% of bitcoin’s total market capitalization of $1.03 trillion, according to data source Skew.
+
+Related: Mastercard Revealed as Partner on Gemini Crypto Credit Card
+
+Further, only 77,000 contracts worth $4.2 billion are set to expire this Friday. That’s 0.3% of bitcoin’s market capitalization.
+
+Nevertheless, traders can benefit from keeping an eye on the max pain, especially as expiry nears.
+
+“Options and futures are new critical datapoints for traders. While bitcoin was up +103% in the first quarter, we saw huge pullbacks end of each month,” Messari researcher Mira Christanto recently noted in a tweet thread detailing the effect of max pain on bitcoin’s price.
+
+Story continues
+
+The month-end pullbacks happened as back then the max pain point was well below the spot price. For instance, the cryptocurrency fell from nearly $60,000 to $50,000 in the six days leading up to the March 26 expiry but did not go all the way down to the then max pain point of $44,000.
+
+The max pain turned out to be a temporary bearish hangover, as the cryptocurrency reversed course after the expiry and clocked highs above $60,000 on April 2.
+
+This time, the cryptocurrency has bounced to the max pain point ahead of the expiry. At press time, bitcoin is changing hands near $54,500, representing a nearly 1% gain on the day. Prices rose 10% on Monday, the biggest single-day percentage gain since Feb. 8, according to CoinDesk 20 data.
+
+Also read: Bitcoin Price Jumps 9%, Most Since Early March
+
+Related Stories

@@ -1,0 +1,79 @@
+Cryptocurrencies opened the week jumping big, a reversal from a weekend market dive.
+
+Yearn.Finance (YFI) trading around $50,951 as of 21:00 UTC (4 p.m. ET). Jumping 76% over the previous 24 hours.
+
+Ether (ETH) trading around $2,668 as of 21:00 UTC (4 p.m. ET). In the green 34% over the previous 24 hours.
+
+Ether’s 24-hour range: $1,970-$2,668 (CoinDesk 20)
+
+Bitcoin (BTC) trading around $39,801 as of 21:00 UTC (4 p.m. ET). Gaining 19% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $33,141-$39,801 (CoinDesk 20)
+
+DeFi tokens explode
+
+Yearn.finance (purple) and uniswap (yellow) performance so far in 2021. Source: TradingView
+
+The decentralized finance, or DeFi, sector of the cryptocurrency market is making major performance jumps Monday. The token of lending protocol Yearn.Finance is up over 76% as of press time. In addition, UNI, the token of the leading decentralized exchange by volume, Uniswap, has climbed 54% as of press time.
+
+According to charting software TradingView, so far in 2021 both yearn and uniswap have made triple digit percentage gains, but volatility in the market has actually sapped some of their juicy returns. For example, in early May Uniswap was up over 700% before a precipitous fall, then rebounded with Monday’s bull crypto market.
+
+“DeFi tokens, like most altcoins, are lower market capitalized, possess lower liquidity and thus have higher volatility,” said Brian Mosoff, chief executive officer of investment firm Ether Capital. “This past week saw a sharp decline, with these types of assets being hit harder than blue-chip crypto, such as bitcoin and ether. But as things seem to be rebounding the lower liquidity leads to a faster bid up on price.”
+
+DEX volumes at record in May
+
+Decentralized exchange volumes since January 2019. Source: Dune Analytics
+
+The trading volume numbers for Ethereum-based decentralized exchanges are hitting record highs in May, with the total trading tally well over $100 billion, according to data aggregator Dune Analytics. Leading the way is bellwether Uniswap with a whopping $61 billion in volume this month.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Juicy opportunities in the crypto market this month have led to recording trading volumes on centralized exchanges as well, with the highest amount of bitcoin changing hands on those venues just last week. Large-scale capital inflows continue unabated and if anything, are now able to benefit from these slightly softer spot prices before all the weak hands are shaken out and we solidify a floor for this volatility.
+
+John Willock, CEO of crypto custody provider Tritum, says lots of new entrants during this bull cycle flooding into the market is what’s causing record volume numbers across the board.
+
+“Large-scale capital inflows continue unabated and if anything, are now able to benefit from these slightly softer spot prices before all the weak hands are shaken out and we solidify a floor for this volatility,” Willock told CoinDesk.
+
+Ether volatility rising
+
+Ether’s hourly price chart on Bitstamp since May 21. Source: TradingView
+
+The second-largest cryptocurrency by market capitalization, ether, was trading around $2,668 as of 21:00 UTC (4:00 p.m. ET), gaining 34% over the prior 24 hours. The asset is well above the 10-hour moving average as well as the 50-day, a bullish signal for market technicians.
+
+While bitcoin’s 30-day volatility continues to increase, up to over 88% as of closing data from Sunday, ether is showing even greater choppiness. With an over-150% 30-day volatility metric, it is ether where traders are looking to generate big-time returns from its up-and-down nature as of late.
+
+Bitcoin (black) and ether (blue) volatility the past month. Source: CoinDesk Research
+
+“We’ve had a few bumps in the road over the last few days and corrections are healthy,” said Tritum’s Willock. “Most of the recent volatility can be attributed to overextended leveraged speculators who got liquidated and caused a cascading trigger of drops for a lot of other participants who were on margin in some capacity, be it futures or spot markets.”
+
+Bitcoin jumps, leverage cost levels off
+
+Bitcoin’s hourly price chart on Bitstamp since May 21. Source: TradingView
+
+Bitcoin, the world’s largest cryptocurrency by market capitalization, was up Monday by 19% as of press time. BTC was high above the 10-hour moving average and the 50-day, a bullish signal for market technicians.
+
+BTC gained from $33,141 24 hours ago to $38,669 by 12:45 UTC (8:45 AM ET), a 16.6% increase during that time based on CoinDesk 20 data. Bitcoin slipped, then rebounded to $39,801 as of press time.
+
+Swaps funding in the bitcoin market across major venues. Source: Skew
+
+While crypto has gone mega-bullish Monday, the funding rates to leverage up in the bitcoin market, known as perpetual swaps, are still near zero. This suggests the recent spot market pop has not been the result of traders borrowing crypto to leverage up long – yet.
+
+“The market recently crashed in a ‘W’ type shape with the first leg going as low as $30,000,” said Elie Le Rest, an executive at crypto quantitative firm ExoAlpha. “This ‘W’ bottom allowed the market to bounce back with a de-leveraged state to build more sustainable growth.”
+
+Other markets
+
+Digital assets on the CoinDesk 20 are all green Monday. Notable winners as of 21:00 UTC (4:00 p.m. ET):
+
+Equities:
+
+Commodities:
+
+Oil was up 3.2%. Price per barrel of West Texas Intermediate crude: $65.94.
+
+Gold was in the green 0.15% and at $1,883 as of press time.
+
+Silver is gaining, up 0.85% and changing hands at $27.77.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield climbed Monday to 1.601 and in the red 1.1%.

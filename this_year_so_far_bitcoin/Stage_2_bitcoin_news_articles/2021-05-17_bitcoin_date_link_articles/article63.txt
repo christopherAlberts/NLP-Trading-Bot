@@ -1,0 +1,19 @@
+width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen">
+
+There’s a major use case for Bitcoin SV (BSV) in an area that’s both niche, and worth billions of dollars: it’s Islamic Finance. Luckily for Bitcoin, one of Japan’s leading experts on the topic also happens to be the Bitcoin Association Ambassador for Japan and Malaysia. It’s Masumi Hamahira, who has pioneered Islamic Finance concepts in Japan for the past decade and says the BSV network is perfect for powering the kinds of contracts its structures are based on.
+
+Hamahira began working for MUFG, one of Japan’s largest banks, in the late 1990s. In 2011 the bank sent him to Kuala Lumpur, Malaysia, to found its new Islamic Finance division—the rationale being that Japan lacks natural resources and needs an edge in energy commodities deals to keep its economy running. Since a large portion of the world’s oil and gas comes from countries where Islamic Finance is widely practiced in banking and business, it was a great opportunity.
+
+Ten years later, Hamahira has explored blockchain concepts and says BSV is the perfect network to create efficiencies in Islamic Finance deals. In this industry, financial arrangements are often governed by Sharia law—which prohibits interest, shuns gambling and vice industries, and in which commodities must be owned outright by each dealer along the chain before reaching their ultimate destination.
+
+This includes concepts like Murabaha, or business financing, Wakalah contracts, and Sukuk (often called “Islamic bonds”). Hamahira arranged the world’s first-ever sukuk issance denominated in Japanese yen in 2014, and over the past decade has won a number of awards for the deals he’s closed for MUFG.
+
+Hamahira was recently appointed the Bitcoin Association’s official Ambassador for Japan and Malaysia, and also sits on the Bitcoin SV Technical Standards Committee. He’s keen to introduce BSV’s capabilities to the Islamic Finance world, saying it’s perfect for an industry that relies on contracts, commodity swaps, and proof of ownership.
+
+Only BSV has the processing capacity to handle large numbers of complex contracts, and the ability to tokenize real-world assets make it perfect for commodity deals.
+
+There are a few hurdles along the way though, which Hamahira explains in this interview. It’s a fascinating world that remains largely unknown to many outside the regions where it’s influential, but with the right education to the right people, could lead to some interesting business models for BSV. Find out all about it by watching the full episode of The Bitcoin Bridge, and let us know what you think.
+
+The Bitcoin Bridge comes out every Monday on Streamanity and also on YouTube; remember to subscribe to the CoinGeek channel so you don’t miss an episode.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

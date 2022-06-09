@@ -1,0 +1,27 @@
+Sleeping Bitcoins Worth $40 Million Move- Mystery Miner Spends Another 1,000 BTC From 2010 Block Rewards
+
+On January 10, another strange string of 20 bitcoin block rewards from 2010 was spent after sitting idle for over ten years. The spending of 1,000 decade-old bitcoins worth over $39 million today, follows the recent string of 1,000 units transferred on the 12th anniversary of Bitcoin’s genesis block launch.
+
+Seven days ago an old-school miner spent 20 block rewards from 2010 that held approximately 1,000 decade-old bitcoins. The interesting spending took place on January 3, 2021, on the 12th anniversary of the Bitcoin network’s start.
+
+Following that string of 2010 block rewards moved, on Friday, January 8, a block created on June 21, 2010, was spent at block height 665,055 and was likely a different entity than the mysterious miner news.Bitcoin.com has been following since March 2020. However, two days later after the single block spend, it seems the mystery miner has appeared once again spending a massive 1,000 decade-old bitcoins that sat idle for ten years.
+
+On Sunday, precisely one week later at 1:08 a.m. (EST), 20 block rewards were transferred to this shortened address “3Fwhd.” News.Bitcoin.com leveraged the onchain blockchain parser Btcparser.com, which once again caught the ‘sleeping bitcoin’s’ movements on Sunday morning. The consolidation address that once held 999.999 BTC or over $39 million using today’s exchange rates, shows the coins were then sent to multiple addresses.
+
+Just like the previous string of 2010 block rewards transferred on Bitcoin’s 12th anniversary, the coins were split into fractions of 10 BTC per address. At press time, the bitcoin addresses that hold 10 BTC worth roughly $395k each remain unmoved and sit idle. It is likely that during the course of today, similar to the prior strings of 2010 spends, the 10 BTC addresses will also be drained as well.
+
+As usual, the mystery miner also spent the corresponding bitcoin cash (BCH) block rewards too. Just like the last few string movements of 2010 block rewards, the bitcoinsv (BSV) remains unspent. Similar to the previous ten-year-old 20-block string spends, today’s 1,000 bitcoin move stemmed from blocks mined in August, September, and October 2010.
+
+Alongside the parsed data caught by Btcparser.com, the web portal that hosts the “Satoshi Bags Tracker” shows a visual perspective of the string of 2010 spends. This particular 1,000 coin spend was similar to the string of coins moved on November 7 and 8, 2020, as the two 1,000 bitcoin movements happened back to back over a two-day span.
+
+There have been a number of coincidences and circumstantial evidence that leads this reporter to believe that all the 20-21 block reward spends from 2010 stem from the same entity. The miner or group of miner’s block rewards all derive from the same months ten years ago and usually, the transfers happen very early in the morning (EST).
+
+Following the split of the previous 1,000 BTC spend, the 10 BTC addresses saw the coins spent hours later. The same pattern happened with all the other prior strings of 2010 block reward spends. Further, the corresponding bitcoinsv (BSV) from the previous string spends remain untouched.
+
+Whoever the old school miner is the entity has amassed a great number of block rewards from the time when Satoshi Nakamoto still spent time with the community. So far in 2021, there’ve been around 43 block reward spends from 2010 all spent during the first week of the new year. Further since March 12, 2020, otherwise known as ‘Black Thursday,’ there’s been a total of seven string spends from 2010 spent by this entity.
+
+What do you think about today’s 1,000 bitcoin spend from the 2010 block rewards? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, Btcparser.com, Bitcoin.com, Holyroger.com,
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

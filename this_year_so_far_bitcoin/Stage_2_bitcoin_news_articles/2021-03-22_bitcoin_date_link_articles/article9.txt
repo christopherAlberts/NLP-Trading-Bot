@@ -1,0 +1,29 @@
+Bitcoin might be diminishing in a quality that’s long been a sore spot for criticism: volatility. One critical gauge shows the cryptocurrency’s expected price swings are now at their lowest point in three months.
+
+The cryptocurrency’s implied volatility, or expectations for price turbulence, declined to an annualized 75% early Monday, based on calculations using options premiums with a one-month horizon. That’s the lowest since Dec. 25, according to data provider Skew. They peaked above 145% in mid-January.
+
+“The declining trend suggests that markets are expecting sideways price action,” Denis Vinokourov, head of research at trading sentiment data provider Trade the Chain, told CoinDesk in a Telegram chat.
+
+Related: Teller Finance's Mainnet Launch Puts NFTs to Work – But Not How You Expect
+
+Bitcoin is currently stuck in a narrowing price range, with both bulls and the bears unwilling to lead, as seen below.
+
+Vinokourov expects a “pickup in downside protection flow,” given the lack of clear visible upside.
+
+In plain English, traders could buy put options amid signs of bull fatigue. A put option is a derivative contract that gives the purchaser the right but not the obligation to sell the underlying asset at a predetermined price on or before a specific date.
+
+At press time, one-, three-, and six-month put-call skews, which measure the cost of puts relative to calls, are at negative values, indicating greater demand for call options or bullish bets.
+
+Related: Who Created the Ethereum Ecosystem?
+
+Also read: This Ether Options Play by Institutions Has Lottery Ticket Potential
+
+The market bias for calls would strengthen if the cryptocurrency breaks out of the narrowing price range with strong spot market volumes, opening the doors for substantial gains above $60,000. On the flip side, a range breakdown may invite stronger chart-driven selling pressure, leading a deeper pullback. According to one analyst, the cryptocurrency could drop to $47,000 if the support at $55,000 is breached.
+
+Story continues
+
+A prolonged period of below-average volatility often paves the way for violent price action on either side. However, that’s not the case right now. While the implied volatility has come off sharply from its January highs, it’s still hovering near its lifetime average.
+
+Bitcoin is currently trading near $56,800, representing a 1% drop on the day, according to CoinDesk 20 data.
+
+Related Stories

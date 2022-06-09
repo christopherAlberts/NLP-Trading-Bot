@@ -1,0 +1,121 @@
+Bitcoin (BTC) was higher, pushing back toward $40,000 after a 9.9% surge on Wednesday, the biggest calendar-day gain in a month.
+
+Such a powerful recovery after a steep sell-off earlier in the week has quickly reinvigorated trader spirits. “This bubble doesn’t look set to burst,” said Don Guo, CEO of Broctagon Fintech Group, which helps smaller cryptocurrency exchanges tap into bigger pools of liquidity available from large exchanges.
+
+In traditional markets, U.S. government bond yields rose along with stocks after CNN reported that President-elect Joe Biden will unveil on Thursday a new coronavirus relief proposal, and that his advisers have told allies in Congress to expect a price tag around $2 trillion. Gold weakened 0.2% to $1,841 an ounce.
+
+Market moves
+
+Before the coronavirus hit last year, a big conversation among financial-industry executives, lawmakers and regulators was just how to regulate libra, the proposed digital currency from Facebook.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+“With Facebook’s very large network of more than a billion people, a stablecoin could have systemic implications very quickly,” Federal Reserve Chair Jerome Powell said in a September 2019 webcast discussion in Zurich with Swiss National Bank Chairman Thomas Jordan. “Libra would have to be held to the highest regulatory standards and expectations.”
+
+Fast forward and the Facebook-sponsored token (since retooled and rebranded) still hasn’t launched. Instead, it’s now bitcoin, the original and largest cryptocurrency, suddenly attracting the overseers’ notice.
+
+Bitcoin is a “highly speculative asset,” European Central Bank President Christine Lagarde said Wednesday at a Reuters event. According to the news service, she joined a number of regulators from across the world in calling for implementing global rules for cryptocurrencies.
+
+“There has to be regulation,” Lagarde said. “This has to be applied and agreed upon.”
+
+A doubling in prices for bitcoin in 2019, a quadrupling last year and another 32% gain just in the first two weeks of 2021 have quickly given the cryptocurrency a $709 billion market value.
+
+Everybody knows bitcoin’s price is volatile, which was less of a concern a couple years ago when it was just one of those “no value” cryptocurrencies. A little extrapolation shows why the topic is getting harder to ignore.
+
+Another quadrupling in price (hypothetically speaking of course) would push bitcoin’s market capitalization to nearly $3 trillion. That’s roughly the same amount of new money the Federal Reserve printed last year and then pumped into traditional financial markets last year to keep them from faltering.
+
+A big number, in other words. So-called leveraged loans, which banks provide to junk-grade companies and then sell to investors for trading on Wall Street, grew so fast over the past decade that the Federal Reserve warned in early 2019 of the growing risks. The total outstanding amount of these junk loans currently stands at about $1.7 trillion.
+
+Inverted-scale bitcoin price chart shows how the dollar and euro have plunged in bitcoin terms. Source: TradingView/CoinDesk
+
+With the coronavirus dimming the appeal of paper bills, central banks around the globe have accelerated efforts to develop or at least study digital versions of their own currencies. China’s is already in trials. Earlier this week the Fed’s New York branch, which handles the U.S. central bank’s money-market operations, announced it had retained the recruiting firm Heidrick & Struggles to recruit an inaugural director for a planned New York Innovation Center, which will “develop in-depth insights into critical trends in financial technology.”
+
+A big dilemma regulators face is the Bitcoin blockchain was designed as an autonomous, peer-to-peer electronic payment system using distributed-ledger technology – theoretically beyond the control of any person, business or government. So the Fed can’t just order bitcoin to stand down, as it essentially did to Facebook.
+
+But according to a report published Wednesday by analysts with Macquarie, the big Australian investment bank, “private cryptocurrencies” like bitcoin are fast making inroads into electronic commerce, and it looks unlikely a digital dollar or digital euro could launch until 2022 at the earliest.
+
+“We think the use cases for private crypto could come to fruition if commerce becomes too accustomed to private crypto use prior to a central bank digital currency alternative launching as a stable, legitimate alternative,” the Macquarie analysts wrote. “U.S. regulatory officials wield quite a bit of power over how cryptos function and how their ecosystems develop. This becomes less meaningful as the network effect of cryptos grows, utility and acceptance broaden, and fiat potentially loses some demand for commerce.”
+
+The acting U.S. comptroller of the currency, Brian Brooks, who is a former general counsel of the cryptocurrency exchange Coinbase, has used the final days of President Donald Trump’s four-year term to expound on the virtues of cryptocurrencies.
+
+“Crypto is about freedom,” Brooks said in a livestreamed event hosted by blockchain analysis firm Elliptic, as reported by CoinDesk’s Nikhilesh De. In a Financial Times op-ed, Brooks wrote of the potential opportunity from “self-driving banks” built atop decentralized-finance networks.
+
+“Their greater efficiency would free significant amounts of capital that is lost to operating costs today or slowed by decisions dependent on human grey matter,” Brooks argued. He plans to step down from the regulatory role on Thursday.
+
+Charlie Morris, CEO of the cryptocurrency fund manager ByteTree, wrote Wednesday in his weekly newsletter that bitcoin might be “ready to challenge the financial system.”
+
+“It is an open-source project, which has attracted some of the finest minds in the world,” Morris wrote. “This leads to continuous improvement, which means an infinite number of applications lie ahead. The massive development effort has centered around bitcoin, as opposed to other cryptos, because it dominates the ecosystem and faces the power laws behind the network effect.”
+
+Also, Bloomberg News, citing a report from the publicly traded hedge fund Man Group, reported Wednesday that bitcoin differs from other investment bubbles like tulips, railroads and dot-com stocks, in that it has “survived three peak-to-trough drawdowns of over 80%” in fewer than 10 years.
+
+Indeed, one thing that might be troubling regulators and bankers alike is the growing conviction among both crypto-industry executives and some big investors that the growth cycle in digital assets is still in its early stages.
+
+“How long until the entire legacy financial system migrates over to a digital Internet on the Web 3.0 based on distributed-ledger technology?” Mati Greenspan, founder of the foreign-exchange and cryptocurrency analysis firm Quantum Economics, wrote Wednesday. “My feeling is that we’re still early.”
+
+– Bradley Keoun
+
+Bitcoin watch
+
+Chart of daily bitcoin trading volumes with price chart superimposed, showing how low the volume has been during bitcoin's latest rally over the past two days. Source: Skew.
+
+Bitcoin jumped above $38,000 early Thursday, erasing a significant chunk of Monday’s drop from $40,000 to $30,305.
+
+However, the quick recovery has been charted on the back of low trading volumes, as noted by the crypto derivatives research firm Skew. A low-volume bounce is often short-lived.
+
+That said, the options market is betting on a continued rally and is assigning a 20% probability of the cryptocurrency rising above $50,000 by Jan. 29 (monthly expiry).
+
+The 20% probability looks impressive, considering the monthly expiry is just two weeks away, and the cryptocurrency is currently down 31% from $50,000.
+
+The bullish sentiment is quite strong, as indicated by increased demand for higher strike call options.
+
+“In the past 24 hours, the $52,000 call option has registered a buying volume of 2,059 contracts. Meanwhile, the $36,000 call has seen a buying volume of 1,211 contracts,” Swiss-based data analytics platform Laevitas told CoinDesk
+
+– Omkar Godbole
+
+What's hot
+
+Deribit exchange raises maximum bitcoin options strike price to $400K (CoinDesk)
+
+Anchorage becomes first federally chartered crypto bank in U.S. (CoinDesk)
+
+Winklevoss twins open to taking Gemini, their cryptocurrency exchange, public (Bloomberg)
+
+Grayscale begins dissolution of XRP Trust, citing Ripple SEC suit (CoinDesk) (EDITOR’S NOTE: Grayscale is a unit of Digital Currency Group, which owns CoinDesk.)
+
+Crypto buyers face ‘possible limitations’ on eToro this weekend (CoinDesk)
+
+IHS Markit will likely join cryptocurrency index game, executive says (CoinDesk)
+
+Aragon faces wave of resignations and it’s not clear why (The Defiant)
+
+Decentralized-exchange aggregator 1inch, founded in 2019, reaches $10B in trading volume (CryptoSlate)
+
+Digital-asset investment firm Arca raises $10M in series A funding (Press release via Cision)
+
+Cryptocurrency trading platform CrossTower launches capital markets desk for institutional clients (CoinDesk)
+
+U.S. SEC Commissioner Hester “Crypto Mom” Peirce says regulators can take a “fresh look” at crypto regulation under President-elect Joe Biden (Decrypt)
+
+These DeFi tokens have double-digit gains as bitcoin’s growth tapers (CoinDesk)
+
+Inside Colombia’s race to become a major regional crypto market (CoinDesk)
+
+Trading Hall of Fame: The bitcoin options bet that made $58.2M profit on just $638K (CoinDesk)
+
+Analogs
+
+The latest on the economy and traditional finance
+
+U.S. Senate Democrats plan quick action expanding coronavirus relief payments to $2,000 (NYT)
+
+Newly appointed director of the U.S. National Economic Council, Brian Deese, says focus will be on domestic investment in tech sector, not tariffs on China (Nikkei Asia Review)
+
+U.S. budget deficit hits $573B in first fiscal quarter (October-December), a record for the period and up 61% from a year earlier, as outlays rise from coronavirus relief spending and unemployment benefits (Bloomberg)
+
+Raising suspicions of money laundering, Australia’s financial watchdog jointly reviewed funds sent from the Vatican from 2014-2020 that were much less than initially claimed (Reuters)
+
+Federal Reserve balance sheet to hit $8.8T at year-end 2021, with no tapering of asset purchases until 2022, Bank of America economists predict.
+
+Projected pace of U.S. Treasury-bond purchases by the Federal Reserve, as estimated by Bank of America economists. Source: Bank of America
+
+Tweet of the Day

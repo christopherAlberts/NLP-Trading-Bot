@@ -1,0 +1,49 @@
+While a vast majority of crypto enthusiasts around the globe seem to be gushing about Ether (ETH) at the moment and how its upcoming London hard fork stands to push the premier altcoin’s value even higher, reports have recently surfaced that suggest Bitcoin’s much-awaited Taproot upgrade will go live also sometime by the end of this year.
+
+In this regard, many Bitcoin (BTC) mining pools seem to already be signaling their support for the activation and as per data available on Taproot.watch, a website designed by core Bitcoin developer Hampus Sjöberg, Taproot signaling currently accounts for about 56% of BTC’s total hashing power.
+
+It should be mentioned that two of the largest Bitcoin mining pools by hash rate — AntPool and F2Pool — have been major proponents for this upgrade from the very beginning. Even other relatively large mining operators, such as Foundry USA and Slush Pool, have also expressed their support for the activation.
+
+What exactly is Taproot?
+
+In its most basic sense, Taproot can be thought of as the latest step in Bitcoin’s evolutionary path because the upgrade seeks not only to enhance the overall usability of the network by making transactions cheaper, faster and easier to deploy but also eventually allow for the deployment of smart contracts.
+
+Furthermore, Taproot also proposes significant privacy promises — i.e., it seeks to make all transactions look the same to everyone except the transacting parties. This potential camouflage-based framework seems as though it has been inspired by security-centric crypto offerings available in the market today, thus potentially moving Bitcoin closer to some privacy-focused coins, at least from a design standpoint.
+
+On the subject, Antoni Trenchev, co-founder and managing partner at crypto lending platform Nexo, told Cointelegraph that the proposed Taproot update is proof of Bitcoin’s decentralized nature and that the network is always looking to improve and grow. He also believes that the upgrade serves as a reminder to investors that, unlike gold, Bitcoin is a dynamic store of value in every sense, adding:
+
+“All these admittedly major improvements pave the way for even wider Bitcoin adoption and continued price appreciation. In all, Taproot is one of BTC’s most anticipated updates since the block size upgrade of 2018.”
+
+Joel Edgerton, chief operating officer of cryptocurrency exchange bitFlyer USA, told Cointelegraph that even though most in the crypto community seem to be focused on Bitcoin’s price action at the moment, what they are overlooking is the fact that BTC’s underlying technology is what actually gives it its value, and Taproot is an important development, for several reasons:
+
+“Firstly, it reduces transaction data size, which could lower transaction fees for complex transactions. Additionally, it increases privacy on multisig and time-locking wallets by making it difficult to distinguish them from simple, single-sign wallets while also allowing for increased wallet functionality by allowing developers to use vaulting logic.”
+
+In Edgerton’s view, Taproot demonstrates the Bitcoin community’s maturity and how everyone seems to have learned valuable lessons from the Bitcoin upgrade wars of 2017 — i.e., it is of utmost importance to plan and implement upgrades via the use of a decentralized, community-based vote.
+
+Back in 2017, Bitcoin underwent a hard-fork, resulting in the creation of a new cryptocurrency called Bitcoin Cash (BCH). Although the process was quite straightforward, the period leading up to the hard fork was full of strife, with many core community members clashing with one another.
+
+A technical breakdown
+
+On paper, Taproot is an elegant engineering solution that has been devised using proven cryptographic foundations that can help provide several evolutionary improvements to the Bitcoin protocol.
+
+Lior Yaffe, CEO of blockchain software company firm Jelurida, pointed out to Cointelegraph that by combining Schnorr signatures and Merkelized Abstract Syntax Trees, or MAST, Taproot is able to convert the representation of complex Bitcoin transactions, such as multi-signature transactions and transactions used to set up a Lightning channel, to look just like a regular Bitcoin transaction when submitted on-chain.
+
+In cryptography, a Schnorr signature is easily “provably fair” and is functionally superior to conventional logarithmic signatures, which are routinely faced with intractability-related issues. Similarly, MAST are unique digital offerings that allow for the deployment of various user-selected conditions that must be fulfilled in order for an encumbered number of Bitcoins to be spent.
+
+Overall, this reduces storage and can indirectly lower fees for these transaction types. Also, in the long run, when its usage becomes widespread, Taproot may be able to significantly improve privacy for Lightning and multi-signature users. “From an ecosystem perspective, I view Taproot as an all-in attempt by the Bitcoin devs and community to finally make the Lighting network a mainstream payment platform,” Yaffe added.
+
+How will Taproot affect BTC?
+
+Another aspect of the proposed upgrade worth considering is whether or not Taproot will have any major effect on Bitcoin’s future price action. In this regard, Edgerton does not see the activation having any sort of short-term impact on Bitcoin’s value. He does believe, however, that the “under the hood” changes that will come as a result of this update will make the Bitcoin network way more functional and competitive.
+
+Yaffe believes that in the long term, improving Lightning network adoption — i.e., by reducing transaction fees and settlement times — will keep Bitcoin and its ecosystem as a relevant internet era payment method, adding further:
+
+“Given that the recent surge in Bitcoin price can be attributed more to its potential use as a store of value and to adoption by institutional investors, I don’t expect Taproot to have any meaningful short-term price impact.”
+
+Lastly, Siddharth Menon, co-founder and chief operating officer of cryptocurrency exchange WazirX, told Cointelegraph that since 2010, the latest Taproot upgrade has been highly anticipated and stands to have a positive impact on the currency. “Slowly but steadily, this network gets better every day,” he added.
+
+Other important aspects of Taproot worth considering
+
+Per Bitcoin’s community consensus, the aforementioned Taproot activation will only be given the green light if 90% of all mined blocks include an activation signal within a difficulty adjustment window (2,016 blocks). More specifically, the consensus agreement needs to take place during one of the difficulty epochs between now and Aug. 11 so that the network upgrade can go ahead as planned in November.
+
+As of May 7, a total of 327 signaling blocks have emerged in the current window, while miners responsible for 610 blocks have chosen not to include a “signal bit.” The “no” votes issued by these miners currently account for 30% of the 2,016 blocks in the current difficulty window. Some pools that have so far voted against the activation include big names such as Poolin, Binance Pool, BTC.com, viaBTC and HuobiBTC.

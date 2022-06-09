@@ -1,0 +1,43 @@
+We know from blockchain research firm Glassnode that a high percentage of newcomers to bitcoin are currently underwater as a result of the May 2021 price crash.
+
+Bitcoin dropped 47% from its February peak to its May trough, which is by no means unusual, but what is a record was the $11 506 single-day drop in price on May 19.
+
+As the bitcoin volatility index chart below shows, the recent bull market was by no means exceptional in terms of volatility, which is still well below bitcoin’s 2013 and 2018 peaks, which were followed by dramatic price drops. However, there have also been occasions when the volatility index was above 4 (as in 2020) which had virtually no effect on the bull market just getting underway.
+
+Bitcoin volatility index (measured by % change in price)
+
+Chris Harmse, global head of trading at crypto arbitrage provider Coindirect, notes that crypto arbitrage opportunities have remained relatively unaffected whether bitcoin is in a bull or a bear market.
+
+“In fact, what we have observed in recent weeks in the midst of a crash in the bitcoin price, is that arbitrage opportunities have been better than they were earlier in the year.”
+
+Arbitrage is the exploitation of price differences in bitcoin trade on local and overseas exchanges. That price difference typically ranges between 2% and 5% and went momentarily to 15% in recent weeks. Harmse explains that there is a time lag on SA crypto exchanges as bitcoin prices drop. “Bitcoin is generally more expensive on SA exchanges than overseas ones, and we assist our clients to harvest that price difference without incurring directional price risk.”
+
+After the price run-up in the early part of 2021, bitcoin failed to break decisively above $65 000. The price remained range-bound for several months, resulting in volatility falling. That changed in May 2021 when Elon Musk reversed an earlier decision to allow customers to purchase Tesla vehicles using bitcoin, and the Bank of China cautioned against the use of cryptocurrencies as a means of payment.
+
+The bitcoin price promptly dropped 44% (due to retail liquidations of leveraged positions) from its May peak, driving millions of bitcoin newcomers underwater.
+
+Those who took advantage of the arbitrage opportunities were able to not only protect their capital but increase their equity by 2-3% over the last three weeks, according to Harmse.
+
+Why arbitrage is the antidote to bitcoin volatility
+
+Harmse says arbitrage is the antidote to bitcoin volatility for the following reasons:
+
+Coindirect clients are exposed to the bitcoin market for no more than a few minutes, thereby vastly reducing the risk of getting caught in a market crash. Clients can set their desired net minimum profit, within reason (for example, by instructing Coindirect not to execute trades that will yield a net profit of less than 2%). Arbitrage profits reflect in the client’s account within minutes. Coindirect uses its own bitcoin and cash liquidity to create a “closed-loop” arbitrage where it is able to use its own balance sheet to facilitate trade execution within minutes, eliminating the need to wait for forex to be shipped abroad, or for bitcoin to be shipped to its SA exchange. This is how it is able to offer clients a three-minute arbitrage from start to finish. For the above, Coindirect charges a flat 1% of the capital invested. There is an additional Swift fee of R500 plus 0.35% handling fee, making a total charge of 1.85% per trade. Clients need a minimum of R100 000 to take advantage of the arbitrage service. South Africans are able to use their R1 million a year discretionary allowance (no permissions required from the authorities), plus R10 million foreign investment allowance (FIA), for which you need tax clearance from the South African Revenue Services. Coindirect has engaged the services of tax specialists to assist in obtaining tax clearance for the R10 million FIA.
+
+
+
+About Coindirect
+
+Coindirect recently raised €1 million (R17 million) in a seed funding round led by Concentric, with participation from Blockchain.com and Andreessen Horowitz backed MakerDAO.
+
+With its head office in London, Coindirect has been expanding and now has offices in the UK, SA, New York and Hong Kong.
+
+In addition to its arbitrage service, it provides a platform for its 321 000 users to buy and sell more than 40 cryptocurrencies and provides a cross-border payment service with same-day settlement.
+
+It also operates an over-the-counter (OTC) desk for businesses and private clients to conduct large volume crypto transactions. Since its launch in 2017 Coindirect has moved more than €300 million (R5.1 billion).
+
+Any returns are indicative and based on past performance. Past performance is not a guarantee of future returns. You accept all associated risks with trading.
+
+Brought to you by Coindirect.
+
+Moneyweb does not endorse any product or service being advertised in sponsored articles on our platform.

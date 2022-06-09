@@ -1,0 +1,23 @@
+Patrick Christie: Bitcoin – Looks like garbage, sounds like garbage, smells like garbage
+
+Yet some believe it’s pure gold?
+
+I suppose I’ve given my position away early with the title, but let me explain why I consider there to be something quite sinister about Bitcoin. It is an ‘investment’ (Bitcoin simply does not meet the criteria to be considered an asset) I would recommend to no one who did not have the capacity for loss of Elon Musk.
+
+For something to be an asset class it must give you a future stream of income, e.g. bonds entitle you to coupon payments and property can give you an entitlement to rental income. Owning a Bitcoin does not give you the right to future Bitcoins nor does it generate an income. Speculative Bitcoin purchases rely on someone being willing to pay more for your Bitcoin in the future; one could argue this is a bubble no different from the tulip bubble of the 17th century or the Victorian fascination with the pineapple.
+
+Let us start with ethical considerations. Currently, fossil fuel reserves are considered a positive in terms of a company’s pricing. In the future, however, fossil fuels may be devalued with increasing carbon taxes and the social costs of heavy fossil fuel burning. Why is this relevant? Bitcoin is the world’s most polluting currency. I will not pretend to understand how the blockchain works, but it uses immense computer power. Bitcoin uses roughly the same number of terrawatt hours (a measure of electricity consumption) as Argentina (a country of 45 million people). If Bitcoin were a country, it would be the 28th most energy-consuming country in the world. This ranking uses conservative estimates from the University of Cambridge (Cambridge Bitcoin Electricity Consumption Index). Using the higher end of the estimates, it takes 11th place, just ahead of Saudi Arabia and the UK.
+
+For those even moderately concerned about the environment or troubled about future carbon taxes, Bitcoin has some large red flags.
+
+Bitcoin also has issues in terms of money laundering and criminal financing. IMF estimates suggest the UK money laundering problem represents approximately 2 per cent – 5 per cent of GDP, i.e. between 2 per cent and 5 per cent of the UK’s money is used in some form of criminal financing. The extent of Bitcoin’s illicit use is difficult to estimate, owing to the inherent secrecy of transactions, but a recent University of Oxford study estimates that 46 per cent of Bitcoin transactions are illicit (Foley, Karlsen and Putnins (2018)). In buying Bitcoin, ‘investors’ create demand which ultimately increases prices. Knowing Bitcoin purchases will drive up the price for those engaging in criminal activities (think recent large scale hacks with ransom demands for payment in Bitcoin, the NHS data lockout, child trafficking, terrorist financing), can you really be comfortable buying Bitcoin?
+
+Bitcoin highs and lows
+
+At WealthFlow, these issues would immediately exclude Bitcoin as an ‘investment’ (we’ll pretend it is a viable asset class), but if your interest remains, let us dig a little deeper into the financial side. Let us consider the month to month gain/loss from 2014 (from when we have reliable pricing information). Over 40 per cent of months show losses, with one month showing a loss per Bitcoin of over $3,000. Whilst it is undeniable Bitcoin has grown hugely, that growth is incredibly volatile. Even the most courageous investor might baulk at a product showing sustained losses month to month of over 20 per cent. Investing in Bitcoin seems almost as likely to lose you money as make you money.
+
+This combination of environmental failings, ethical issues, and questionable financials shows Bitcoin for what it is: a gamble, bad for people, bad for the planet and possibly your pocket.
+
+Warren Buffet on Bitcoin: “It draws in a lot of charlatans. It’s something where people who are of less than stellar character see an opportunity to clip people who are trying to get rich because their neighbour’s getting rich buying this stuff that neither one of them understands. It will come to a bad ending.”
+
+Patrick Christie is a graduate intern at WealthFlow

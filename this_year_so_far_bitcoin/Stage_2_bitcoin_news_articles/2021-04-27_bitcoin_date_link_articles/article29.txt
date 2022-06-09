@@ -1,0 +1,33 @@
+NEW YORK--(BUSINESS WIRE)--Hash Hive, a wholly owned subsidiary of the global digital asset trading network Apifiny, today announced it will launch the Hash Hive Standard Hashrate Token (BTCHV), the first perpetual, compliant, and standardized token collateralized by Bitcoin hash rate. Hash Hive standardizes the Bitcoin hash rate and allows investors to buy and stake BTCHV for daily Bitcoin rewards based on the amount of mining power staked. Each BTCHV is collateralized with 0.01 TH/s of Bitcoin mining power.
+
+Interest in investing in Bitcoin mining has increased during the past year as prices have surged. More people from outside the crypto world are asking, “how can I start my own Bitcoin mine or invest in one” to lock in a steady stream of Bitcoin rewards while prices increase. However, options are limited and far from ideal.
+
+Unlike other approaches that tokenize mining machines, Hash Hive tokenizes the Bitcoin hash rate. This increases liquidity, provides investors with better Bitcoin returns compared to other mining-related investments and allows them to quickly enter and exit exposure to Bitcoin mining. Investing and staking BTCHV is like buying hens that produce eggs, where BTCHV is the hen and Bitcoins are the eggs, providing a more efficient and less risky way to invest in global Bitcoin mining.
+
+A perpetual, standardized, and compliant hashrate token like BTCHV can quickly expand the Bitcoin ecosystem, helping professional miners to hedge risk and inviting everyday investors to own liquid shares in mining business. In addition, BTCHV aims to be the basis for bitcoin mining financial products, including an investment product that asset management companies can include in their clients’ portfolios.
+
+“Much like standardized units allow energy to be publicly traded, we are standardizing the Bitcoin hash rate,” said Haohan Xu, chief executive officer of Apifiny. “We’re essentially building a bridge between Bitcoin mining and public investors, allowing anyone to profit from Bitcoin mining in a more efficient way.”
+
+BTCHV is the first perpetual standard hashrate token, meaning that the hashrate is guaranteed in perpetuity. Others tokenize mining machines, whose value will depreciate without guaranteeing the hashrate and often have lengthy lockup periods. In contrast, BTCHV is guaranteed and perpetual in both words and actions. BTCHV tokens are backed by a trusted platform:
+
+Custody in compliant, 3rd party Trust -- ensures asset safety with enterprise-grade security
+
+-- ensures asset safety with enterprise-grade security 3rd party Audit -- regular auditing ensures accuracy of hash rate and BTC rewards
+
+-- regular auditing ensures accuracy of hash rate and BTC rewards Minimum 20% Reserve -- ensures the token can still be anchored with the full hash rate even if some machines are offline due to a power outage or equipment malfunction
+
+-- ensures the token can still be anchored with the full hash rate even if some machines are offline due to a power outage or equipment malfunction Distributed Custody -- Miners are placed in self-owned or trustworthy mining farms in different locations to mitigate outage risk
+
+-- Miners are placed in self-owned or trustworthy mining farms in different locations to mitigate outage risk 100% Ownership of BTCHV mining machines -- no franchise or leased mining model
+
+of BTCHV mining machines -- no franchise or leased mining model Stable Regulation -- machines in locations with stable regulatory environments ensures machines are much less likely to be shut down.
+
+Each BTCHV can generate a constant percentage of Bitcoin hash rate across the network on any given day. For example, for March 15, 2021, the daily global hash rate for Bitcoin was 156.27 EH/s (source: Ycharts). Each BTCHV can be staked to generate 0.01 TH/s.
+
+Therefore, each BTCHV earns (0.01 TH/s ➗ 156.27 EH/s) x 900 BTC that day, before deducting any direct and indirect mining operating cost and reserve. This represents each token’s gross fair share of the 900 mined Bitcoin, which fluctuates depending on the number and total EH/s applied by miners that day. A portion of the Bitcoin mined will be sold to cover the energy and operating costs before BTCHV allocation occurs.
+
+In the U.S., the BTCHV token will be available only to accredited investors on Apifiny.com. Outside the U.S., BTCHV will be available for retail (non-accredited) and accredited investors and open for trading on major exchanges. BTCHV plans to go live this month.
+
+About Apifiny and Hash Hive
+
+Hash Hive, a wholly owned subsidiary of Apifiny, is focused on building Bitcoin hash rate products. Apifiny is a leading, global digital asset trading and mining network. Apifiny unifies fragmented global trading marketplaces to provide professional traders and digital asset exchanges with simpler, faster, and more cost-effective, global trading and liquidity solutions. The company connects centralized financial institutions with decentralized networks to reimagine the global liquidity and trading value chains. Apifiny's trading network enables professional traders to execute global, multi-exchange strategies, access deep global liquidity, superior price discovery, normalized market data, tighter spreads, and higher fill rates and capital utilization. For more information, visit https://www.apifiny.com/.

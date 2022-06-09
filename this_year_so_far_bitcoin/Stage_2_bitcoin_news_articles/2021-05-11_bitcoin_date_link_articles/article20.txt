@@ -1,0 +1,27 @@
+There exists a security problem inherent to Bitcoin’s transparency that needs to be addressed by the community.
+
+Bitcoin has a fungibility issue; it is transparent, which can be both good and bad. Transparency allows everyone to check how many bitcoin are in circulation and to ensure that nobody is cheating.
+
+But it also allows bad actors (such as governments) to monitor the chain and compromise users' privacy.
+
+When a new user buys bitcoin using a regulated, know your customer (KYC) exchange, his information (including Bitcoin address, government ID and other identifying information) is being provided to his local government. This information allows them to view the activity of his wallet, since his coins are linked to his identity. It also allows easier seizure in case of a government ban on bitcoin.
+
+This is obviously dangerous, especially if you live under an authoritarian government. There are options available for buying bitcoin without revealing your identity and compromising your privacy, but those are less popular and are usually harder to follow.
+
+This calls for a privacy standard in Bitcoin: Where a majority of wallets enable privacy features by default, making it much harder for chain analysis firms to link transactions and wallets to real-life identities and/or previous transactions. Users must make sure each and every one of our transactions are private. This can be achieved by utilizing tools like CoinJoins, PayJoins and other privacy enhancing techniques. While these tools are no silver bullet, using them in the right way can allow users to achieve a remarkable amount of privacy. Stealth addresses also have an important role in the privacy standard, as they allow users to share their addresses without needing to worry about them being linked to their digital or physical identity. Running your own node will also play an important part, dramatically reducing the possibility that a node will be used to link your transaction history to your real-life IP address, which can be used to deanonymize your transactions.
+
+If we are able to do that, we will be able to disarm chain analysis companies. Chain analysis firms specialize in invading Bitcoin users' privacy. They do it using publicly available on-chain data and then cross reference it with other data, such as KYC records, in order to establish a deterministic link between a user's wallet activity and his real-life identity.
+
+The worst thing about those companies is that they don't work exclusively for governments, they work with whoever is willing to pay them. Whether it's a government, advertising company or a creepy stalker, it doesn't matter to them. Those companies are pure poison for Bitcoin and are completely unnecessary in the Bitcoin ecosystem; they only bring harm and suffering to it.
+
+There are plenty of users that are targeted by these companies simply because they stated they hate the idea of chain surveillance; a good example for this would be DarkDotFail's donation address being flagged in multiple exchanges that have a partnership with these companies. Chain surveillance is not about money laundering, crime or any other illegal activity, it's about creating an age where nobody has the right to keep their finances private. A Bitcoin privacy standard aims to kill these purely evil companies; but this requires the Bitcoin community to come together, put the ego aside and work together to create, use and promote tools that will enable this effort.
+
+The hardest part of standardizing Bitcoin privacy would be making people acknowledge Bitcoin's faults when it comes to privacy. Many will just avoid talking about it, and some don't even know it exists! Creating such a standard would require large community consensus, not because we need to change the protocol, but because we need to make people acknowledge the fact that their privacy is being compromised. A privacy standard would also discourage discrimination against those who want to keep their bitcoin finances private (see this post).
+
+They can censor a minority but not a majority.
+
+We need more wallets like this, and more enthusiasm toward building and using Bitcoin privacy tools. Number-go-up is not all that matters in this peaceful revolution; privacy matters too.
+
+This is a guest post by Yonatan. Opinions expressed are entirely their own and do not necessarily reflect those of BTC, Inc. or Bitcoin Magazine.
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.

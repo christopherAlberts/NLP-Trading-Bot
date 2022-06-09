@@ -1,0 +1,93 @@
+The cryptosphere is on fire! This week dozens of coins have hit all-time highs (ATHs).
+
+And with big industry players like Square and PayPal getting on board with cryptocurrencies, alongside interest and adoption by banks like JPMorgan Chase, Goldman Sachs, and Citigroup, crypto's winning streak appears to be set to continue.
+
+There are a few reasons why this past year, specifically, there has been such an influx of cash into the crypto industry:
+
+The pandemic
+
+The recession
+
+The hype
+
+The investment climate
+
+Let’s break it down a bit.
+
+The pandemic and associated recession have led to an abnormal investment climate in the stock market, and people are looking for alternative investment options.
+
+Then there’s the hype surrounding Non-fungible tokens (NFTs) and a growing interest in Decentralized Finance (DeFi) — a way to execute financial transactions that cuts traditional institutions out and instead uses the blockchain. Coinbase, the largest crypto exchange in the U.S., went public on the Nasdaq in April with an initial valuation of $85 billion.
+
+Three less-talked-about cryptos: Cardano, Binance Coin, and Monero
+
+If you’ve been reading Crypto-Savvy, you know that in recent weeks we’ve touched on Bitcoin, Bitcoin Cash, Ether, Litecoin, Dogecoin, and a few other cryptocurrencies. Now, we want to introduce three less-talked-about cryptocurrencies:
+
+Cardano (ADA) Binance Coin (BNB) Monero (XMR)
+
+These coins have strong use cases and forward-thinking development teams — both vital features that play a part in the search for ‘the next big thing.’ ADA, BNB, and XMR aren't your average “shitcoins” (a term used in the industry to describe cryptocurrencies with “little to no value or no immediate, discernable purpose.”)
+
+Cardano, Binance Coin, and Monero — which would you use? Getty Images
+
+CRYPTO-SAVVY is an occasional series from Inverse that explains the world of cryptocurrency and where it’s going next.
+
+Cardano (ADA)
+
+While some coins have substantial amounts of money flowing into them, many don’t have solid, real-world use cases (*cough* Dogecoin) . Cardano, the sixth-largest cryptocurrency by market capitalization, does.
+
+The company behind Cardano, IOHK, is building a platform to accommodate usage in the education, retail, finance, and healthcare sectors. In April IOHK’s blockchain was picked to revamp the country of Ethiopia’s education system. The technology will form the backbone of a system to verify grades, monitor school performance, and boost education for five million students and teachers nationwide.
+
+The news may have played a role in Cardano’s recent price performance: The coin increased in value by over 30 percent last week and on Sunday it hit an ATH of a little more than $1.80 in value. The milestone followed news that Cardano founder Charles Hoskinson dined with Wyoming Governor Mark Gordon, blockchain advocate Caitlin Long, and University of Wyoming President Edward Seidel, among others.
+
+Wyoming has been dubbed “the promised land for Bitcoin investors,” thanks to its cutting-edge legal framework for cryptocurrencies and blockchain tech.
+
+An important characteristic of ADA is the max supply cap of 45 billion coins. Coins such as Dogecoin have no supply cap — about 5 billion DOGE are put into circulation every year. When a coin doesn’t have a max supply cap, they are inherently less scarce and, in turn, arguably, less valuable.
+
+Cardano coin. Shutterstock
+
+Binance Coin (BNB)
+
+Binance Coin, the third-largest cryptocurrency by market capitalization, was created to offer traders an alternative way to pay for fees charged to use Binance, the world's most-used crypto exchange. For some perspective, Binance has had over $62 billion flow through it in the past 24-hours — that’s almost three times more than the second most-used crypto exchange, Huobi Global.
+
+According to a press release, in June the exchange will launch its own marketplace where users can create, buy, and sell NFTs, as well as a trading market that anyone can use to mint new tokens. These additions should serve the exchange and, in turn, BNB very well: sales of NFTs exceeded $2 billion in the first quarter of this year. That’s more than twenty times the volume of the previous quarter. Likely (at least in part) because of this news, Binance Coin hit an all-time high of $685 on Monday.
+
+BNB initially operated on the Ethereum blockchain, but it moved to its own blockchain, Binance Chain, which does not (on its own) support smart contracts. However, one of the most significant competitive advantages of Binance as an exchange is its focus on development, highlighted by the more recent deployment of the Binance Smart Chain (BSC).
+
+BSC is best described as a blockchain that runs in parallel to the Binance Chain — the added bonus being that BSC boasts smart contract functionality.
+
+BNB is an integral part of the successful functioning of many Binance side-projects
+
+Binance is not just a crypto exchange — it has an entire ecosystem of projects and protocols for its users. These include the aforementioned BSC, the Binance Academy, Binance Research, and the so-called Trust Wallet, among others.
+
+Binance Coin, like Cardano, also has a max supply cap. As noted above, this is an important feature of a coin when looking at its long-term value. In a separate attempt to combat depreciation, Binance plans to, over time, burn half of its coins .
+
+BNB burning events are scheduled to occur every quarter until 100 million BNB are destroyed, equating to 50 percent of the total BNB ever issued (200 million BNB). These periodic burns, meant to help stabilize the price of the cryptocurrency, are another reason why Binance Coin is likely to have robust long-term prospects.
+
+Binance Coin Shutterstock
+
+Monero (XMR)
+
+Monero, a privacy and security-focused cryptocurrency, sits a little further down the list compared to Cardano and Binance Coin: It currently ranks twenty-fourth by market capitalization. But it’s still worth talking about, even if it’s for this reason alone: Last year, the IRS offered a “bounty” of $625,000 to anyone who could crack the Monero network’s security features and reveal its users.
+
+Cryptocurrencies like Bitcoin are only semi-private. While the protocol doesn't reveal a user’s real name, transactions can still be linked back to individuals. In fact, some blockchain analytics firms specialize in deanonymizing Bitcoin activity and selling the information to law enforcement.
+
+With Monero, a wallet’s contents, the number of transactions made, and the addresses of the senders and recipients of the coins are obfuscated. This is made possible by a protocol called Ring Confidential Transactions (RCT).
+
+The U.S. government is actively trying to “crack the code”
+
+Monero has a passionate and dedicated base of advocates and users, but the coin can be used for illicit activities (ransomware being one), and it is often used for more secure purchases on dark web illicit drug marketplaces and the like. Because of this, the coin catches some flak. And the U.S. government is actively trying to “crack the code.”
+
+The IRS’s proposal was as follows: an initial $500,000 payment for developing and proving a working concept, and then a $125,000 payment after the successful completion of a pilot test. The organization’s application deadline was September 16, 2020, and the pilot test had to be completed within eight months. So we won’t know for sure if anyone was successful — at least for a week or two.
+
+A coin that offers truly confidential transactions?
+
+On May 7, Monero hit an all-time high of $515, spurred by increasing demand for a coin that offers confidential transactions. The coin has seen 190 percent gains over the past three months, and other privacy-centered coins like Zcash, Verge, and Horizen have seen significant gains as well. This despite increasing attention and concern from authorities about its use and a decreasing number of exchanges that offer the coins.
+
+When posing the question “does Monero have a max supply cap?” The answer is “yes, sort of.” The coin’s max supply cap of 18.4 million is expected to be reached in May 2022. But after that, miners will be incentivized using so-called “tail emissions.” These are a mechanism by which a tiny amount of XMR is indefinitely fed into the system every minute as a reward for miners. So while there will be some Monero distributed after the supply cap is reached, the amount is minuscule.
+
+Monero is on this list because, in my opinion, it plays an important role in the crypto ecosystem. While it’s true that it has a reputation as one of the go-to coins for cybercrime, at least from my own philosophical perspective, a truly private cryptocurrency is necessary to hedge against the all-seeing eyes of big data and big brother. And it’s important to remember, too, that XMR could also be useful in countries where freedoms are limited by the government. For example, a journalist who needs to utilize a virtual private network can use it to purchase the application anonymously.
+
+Monero coin. Shutterstock
+
+As I write in my last story, “Can Bitcoin Cash ever challenge Bitcoin's dominance?,” with so many players and variables involved, it’s basically a full-time job to monitor the prices and rankings of the cryptocurrency market. So I’m not going to offer any predictions for future price movements.
+
+But Cardano, Binance Coin, and Monero — with their strong use cases and forward-thinking development teams — are certainly three coins to keep an eye on.

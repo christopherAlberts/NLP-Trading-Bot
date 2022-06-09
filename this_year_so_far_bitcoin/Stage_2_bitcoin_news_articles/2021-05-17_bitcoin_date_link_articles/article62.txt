@@ -1,0 +1,19 @@
+Data acquired and calculated by Finbold indicates that bitcoin’s estimated annual electricity consumption of 143 TWh as of May 5, 2021, is at least eight times higher than Facebook and Google’s combined consumption of 17 TWh.
+
+The social network consumption stands at 12 TWh while Google’s annual energy usage is at 5 TWh.
+
+Elsewhere, bitcoin’s consumption trails China’s 6,453 TWh by at least 45 times. Furthermore, bitcoin’s consumption is at least 27 times less than that of the United States’ 3,990 TWh. Germany’s consumption is also higher than bitcoin’s at 524 TWh. The asset’s consumption also accounts for about 69% of all the energy used by world data centres at 205 TWh.
+
+Bitcoin’s power consumption estimates are higher than Norway’s 124 TWh, Bangladesh’s 71TwH, and Switzerland’s 56TwH
+
+Bitcoin’s power consumption increases alongside surge in value
+
+The debate on bitcoin sustainability has been elevated further, especially with the asset’s surge in value.
+
+According to the research report: “Bitcoin power consumption usually correlates with a surge in value. It becomes more profitable to mine the asset because more people are selling and buying the crypto to leverage the high price movement. This calls for more miners to confirm the transactions. Therefore, the more miners, the more computing power is needed to solve computing problems.”
+
+Elsewhere, crypto proponents believe that bitcoin mining power consumption will reduce with the emergence of renewable energy sources. The approach mirrors the energy consumption of tech companies that are shifting towards renewable sources.
+
+The report notes that: “In general, tech companies’ electricity consumption is projected to rise due to increasing internet traffic and data loads. However, these companies are countering the increased power consumption by switching to efficient means. Besides investing in renewable energy sources, the companies are also shutting down older facilities favoring ultra-efficient centers. In general, consuming less energy has become part of Facebook and Google’s corporate social responsibility efforts.”
+
+It is essential to note that the bitcoin energy consumption debate might be around for long, especially with the asset rising in value and increased mainstream adoption.

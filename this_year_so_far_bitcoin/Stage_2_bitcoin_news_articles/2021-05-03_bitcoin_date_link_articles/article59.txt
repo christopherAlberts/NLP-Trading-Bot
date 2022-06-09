@@ -1,0 +1,119 @@
+On January 3, 2009, the first Bitcoin mining operation went underway, and a 50 BTC reward was sent to address 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa. Although unconfirmed, it most likely went to the mysterious Satoshi Nakamoto, the inventor of Bitcoin. While no official transactions were recorded in the genesis block, the embedded text, “The Times 03/Jan/2009 Chancellor on brink of second bailout for banks” was a nod to the financial crisis of the time, and a major motivator behind the decentralized currency’s inception.
+
+Fast forward to May 2021, and those 50 bitcoins would collect you a cool $2.9 million USD. However, due to either a quirk in the system or an intentional implementation in the code, the first 50 BTC can’t be spent. Instead, the first mining operation launched what would become global recognition of Satoshi Nakamoto’s vision of a decentralized currency, and become a financial and technical force to be reckoned with.
+
+Today, there are at least 1 million unique “miners” for Bitcoin alone, not to mention all the other crypto currencies in existence. These miners are typically in the news for the wrong reasons: expending terawatt-hours of energy annually (.51% of the global electricity production) for mining purposes; gulping up GPUs on launch day despite the silicon shortage; and introducing novel, yet somewhat controversial, digital use cases such as CryptoKitties and non-fungible tokens (NFTs).
+
+How is this all happening? What role is the miner playing? And how might this change the landscape of computing in the future?
+
+Before diving into the details of crypto currency mining, it is worth understanding Satoshi’s original vision regarding the motivation of a cryptocurrency, and the use of the blockchain to address a set of very specific technical problems.
+
+Satoshi’s Vision
+
+According to the original whitepaper, Bitcoin is “a purely peer-to-peer version of electronic cash” aimed directly at modern financial institutions which act as middlemen for financial transactions. The primary issue regarding modern financial institutions, according to Satoshi Nakamoto, is the inherent trust required for all transactions.
+
+This trust could potentially lead to unidentifiable fraud by the middleman, incur a high cost of mediation between customers, or involve complexity even with small, casual transactions as common as a wire transfer.
+
+To address these issues, Satoshi described a distributed (i.e., not centralized) electronic payment system based on cryptographic proof instead of trust. Such a scheme, he argued, would make financial transactions immutable and “computationally impractical to reverse” and help protect against fraud. All this while also getting rid of the need for a trusted third party during transactions.
+
+While great in theory, there was one minor technical challenge that needed ironing out. Namely, in a public ledger, anyone could claim a transaction even without the necessary funds. Who is there to arbitrate and assert that all transactions being performed are backed up by the appropriate amount of funds?
+
+For example, if Alice has $100 at the beginning of the day, she could promise Bob, Charlie, and David independently that she’d send them each $100 by the end of the day. While Alice could show them that she owns $100 and they’d all be content and agree to the transaction, Alice only has $100. Thus, if at the end of the day, the public ledger (which once finalized is set in stone, so to speak) includes 3 transactions initiated by Alice for $100, the system would be broken and no one would want to use it.
+
+With a centralized system such as in modern day banks, there would exist a single ledger that can validate how much money a certain individual has, and thus it can guarantee that the customer cannot spend more than they own. When talking about a decentralized, peer-to-peer system, however, who’s there to stop a clever individual from spending their money multiple times quickly before getting caught?
+
+To address this potential issue, crypto miners enter the playing field. Essentially, miners play the role of the decentralized banker, and will perform the required gruntwork to ensure that the system is functioning as expected without double-spending. In return for their work, they will be rewarded with some cryptocurrency.
+
+Image: Elena Tarasova
+
+For Bitcoin specifically, miners originally competed for a 50 BTC reward approximately every 10 minutes. Today, that reward has seen 3 “halvings,” which reduced the reward from 50 BTC down to 6.25 BTC. The next halving event is expected in 2024, and miners will continue to experience halving events until all 21 million Bitcoins are mined (expected to be around 2040).
+
+As Vitalik Buterin, the creator of Ethereum, puts it, “the motivation behind halvings events is to keep inflation under control.” Once all Bitcoins (or any cryptocurrency) are mined, the network will continue to run on transaction fees.
+
+But why does all of this complexity even exist? Double-spending, cryptographic proof of trust, halvings, a limited supply of crypto coins, an immutable ledger, and a distributed blockchain? This all goes back to Satoshi’s original paper which aimed to create an electronic cash system with proper checks-and-balances, while moving financial power from centralized forces to the distributed masses.
+
+Whether that vision has been accomplished or hijacked is still up for debate. However, economics aside, how did such a system force itself into existence from a simple 9-page white-paper?
+
+Let’s take a technical deep-dive into the inner workings of what computation miners are doing (whether knowingly or inadvertently) to enable the cryptocurrency revolution.
+
+Bringing the Crypto into Cryptocurrency
+
+The original Bitcoin paper did not mention the word GPU at all. In fact, it focused entirely on CPUs as the go-to hardware for miners. Now, even GPUs might be outdated, as hardcore miners probably need FPGAs or ASICs to be competitive and strike gold to win the mining reward. What is the major difference between these different architectures, in the context of cryptocurrency mining? The answer: a high level of parallelism for the specific task of solving a difficult math problem.
+
+The job of the miner is twofold. (1) To validate data blocks and add transactions to the blockchain. Only one miner can actually perform this operation at a time and add a new block. Thus, in order to have the honor of arranging the next block of transactions, the miner must (2) be the first to find the correct 64-digit hexadecimal number (a “hash”) that completes a numeric problem.
+
+The good news for the miner is that the math problem is actually not that difficult. The goal is to find the right number (traditionally called the “nonce”) which when plugged into a cryptographic function (SHA-256, in the case of Bitcoin) will produce a number that is less than a defined value. The bad news is that identifying the correct nonce is practically guesswork, since it is a cryptographic function after all.
+
+What miners are essentially doing with their massive computational processors and lots of electricity is guessing many nonce’s in parallel. However, the nonce itself is just a means to an end: what the miner is really after is the correct hash value that is computed as a result of the correct nonce.
+
+To make this more concrete, take a look at the following block from the Bitcoin blockchain:
+
+You’ll see many things in the block, but if you look at the Hash, you’ll find the target number which miners are after. One thing you may notice that stands out is the number of leading zeros in the Hash: this is not by accident, and it in fact is what helps determine the difficulty of the mining algorithm. More on this in a bit.
+
+The nonce that was used to generate Block 678411 was 2,217,356,589 (or 0x842a2d2d in hexadecimal). The nonce is used in conjunction with multiple other values (including things such as the previous block hash, the Merkle root, a timestamp, etc) such that the Hash of these entities will together produce a value less than a specific target of 00000000000000000006c9fad44b7f37429b239d99d50396df13f8c4f4fa9194.
+
+To understand the computational complexity of this cryptographic function, here is a handy calculator which can be used to compute the SHA-256 of an arbitrary message.
+
+Now, imagine the “message” is a summary of multiple transactions (such as Alice sent Bob $100) and various metadate (previous blocks hash, Merkle Root, timestamp, etc) and the nonce. The challenge is to identify the correct nonce which when included as part of the message will produce an output with 19 leading zeros.
+
+You’ll notice that while playing with this calculator that this is practically “random”, and will require an extremely large number of guesses to land any set of leading zeros, let alone at least 19. In fact, at a high level, by changing the number of leading zeros, you can increase the difficulty involved with mining the block, and hence keep the target of “10 min per block” in check, especially as more miners enter the field.
+
+You’ll also see in Block 678411 that the mining reward was 6.25 BTC, plus an additional Fee Reward of approximately ~1.11 BTC. At the time of this writing, 6.25 is the standard bitcoin reward, which will eventually halve a few more times until all BTC are mined. After all BTC are mined, the network will run exclusively on transaction fees, giving miners a fraction of the transactions in the block for their work.
+
+This system of mining is typically called a “Proof-of-Work” (PoW). The idea actually goes back to the concept of trust: rather than trusting a centralized entity to perform all transactions and taking their word as “proof” that nothing malicious transpired, the PoW system demands to know that the miner put in the right amount of work as a trustworthiness metric. Since cryptographic functions require a ton of work to be “solved”, by identifying the correct nonce, the miner effectively proved that they did the necessary computational work behind the scenes.
+
+Other systems include Proof-of-Stake (which Ethereum will be migrating to eventually as ETH2), which actually changes the role of the miner to be proportional to the number of coins held.
+
+The cryptographic algorithm is at the core of cryptocurrency. There are certain attributes that make cryptographic algorithms ideal for the “math problem” miners are solving, including:
+
+They are not practical to compute backwards (starting from the target value and obtaining the nonce)
+
+It requires a lot of guesswork to compute in the forward direction
+
+The mining difficulty can be adjusted to make it more difficult to guess as more miners enter the playing field. This helps make the network more secure against attacks.
+
+The blockchain is immutable, and attempting to chain any previous transaction would actually break all following transactions mathematically.
+
+SHA-256 isn’t the only mining algorithm used for cryptocurrencies. As mentioned earlier, one of the pitfalls of bitcoin mining is that most miners now use ASICs, which are specialized hardware that can be solely designed to be efficient at SHA-256 computations. Ethereum, for example, uses the Dagger-Hashimoto algorithm, which is aimed to be ASIC-resistant by design. Monero, ByteCoin, and Dashcoin all use the CryptoNight algorithm, which is also considered ASIC-resistant and uses blockchain obfuscation for better privacy. The landscape grows almost exponentially from there, in terms of cryptocoin objective, mining algorithm, and various other technical details.
+
+The Mining Landscape: Philosophical and Technical Differences
+
+Although Bitcoin started the mining craze of the 21st century, today we find more than 4,500 different types of cryptocurrencies in the wild. Since it is relatively easy to create a new cryptocurrency, many are indeed scams and it is critical to do your research before either buying or mining a coin. But why are there so many crypto currencies in the first place?
+
+Behind every new coin is a developer (or multiple developers), and this can lead to different personal or financial agendas. For example, many cryptocoins came to surface after ASICs entered the mining field, in order to return the distributed nature of the blockchain to the masses, rather than few entities with enough capital to throw at ASIC farms.
+
+Others, like Litecoin, actually differed very little from previous coins, and sought to address a more fundamental technical issue. In the case of Litecoin, it was a spinoff of Bitcoin which decreased the block generation time to ~2.5 minutes, in order to make it more liquid for transactions. To that end, it also increased the total number of coins from 21 million to 84 million, among other technical changes.
+
+As the crypto community grew, so did opinions on what the ideal cryptocurrency should be. Should BTC continue to be based on Satoshi’s original ideas and implementation in 2009? Or should it adapt to the times? The latter ended up resulting in a fork of Bitcoin into Bitcoin Cash, which changed the blockchain from having 1 MB block sizes to a maximum of 32 MB block sizes. Essentially, this allows more transactions to fit into each block of the blockchain.
+
+When 19-year old Vitalik Buterin couldn’t convince Bitcoin developers to adopt a programmable cryptocurrency into the Bitcoin blockchain, he set about making his own. Now, the Ethereum network is the 2nd largest cryptocurrency by market size, and also has a valuable blockchain feature, namely smart contracts (or programmable money). Later, Fabian Vogelsteller, an Ethereum developer, created the ERC-20 standard, allowing practically anyone to make a cryptocurrency “token” which runs on top of the Ethereum blockchain.
+
+ERC-20 led to an influx of many new cryptocurrencies as initial coin offerings (ICO). Depending on who you ask, ICOs are either largely scams with very few practical currencies, or generally practical with scam-coins far and wide in between. Regardless, ERC-20 led to the creation of at least 800 token-based projects on the Ethereum main network, including Tether, Binance coin, wrapped bitcoin (WBTC), and USD coin. The future of Ethereum is now transitioning into a Proof-of-Stake (PoS) system, as directed by a consortium of academic and financial minds at the Enterprise Ethereum Alliance.
+
+Should You Be a Miner?
+
+Before diving into the mining world, there are many questions you ought to ask yourself. It might be quite expensive to even get into the game (given a world-wide shortage of GPUs amid supply-chain issues), but even if you have a spare GPU laying around, other questions such as electricity cost can come into play. Mining is an extremely computationally expensive process, and would practically max out any CPU or GPU.
+
+There are also cryptocurrency choices to make. Bitcoin, for example, is very hard to mine as an individual today due to the widespread use of ASIC miners. Other coins, such as Ethereum and Monero, might only be profitable if joining a pool of miners, and sharing mining power. The result is a shared profit, which (although smaller) is more likely to occur given the combined hashing rate of a mining pool.
+
+To make a decision, you should consider many of the following and perhaps use a calculator:
+
+hash rate of your rig
+
+block reward
+
+current mining difficulty
+
+electricity cost
+
+power consumption (W)
+
+mining pool fees
+
+cryptocurrency price
+
+difficulty increase (rate of miners)
+
+The last two points are often the most variable, and are the hardest to predict. Then again, if profit is secondary and you are a believer in Satoshi’s vision of a truly distributed, peer-to-peer cash system, perhaps identifying the right coin and mining it is your calling. Regardless, it always makes sense to understand the technical details and differences of cryptocurrencies, in order to make an informed judgement of the currency being invested in.
+
+Masthead credit: Timofei Rostilov

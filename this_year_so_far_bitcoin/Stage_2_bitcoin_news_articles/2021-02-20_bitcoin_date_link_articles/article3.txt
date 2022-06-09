@@ -1,0 +1,65 @@
+Earlier this week, Bitcoin (CRYPTO:BTC), the largest cryptocurrency in the world by market cap, hit a milestone. It handily topped the psychological $50,000 level. As I write this on Feb. 17, it's closing in on a market value of $1 trillion (about $25 billion away).
+
+Bitcoin has gotten an extra bump in recent weeks from a handful of brand-name companies adding it to their balance sheets or accepting it as a form of payment. Tesla (NASDAQ:TSLA) purchased $1.5 billion worth of Bitcoin to add to its balance sheet, with enterprise software company MicroStrategy buying in excess of $1.1 billion worth of tokens in December.
+
+Even The Motley Fool has decided to purchase $5 million worth of Bitcoin to add to its balance sheet.
+
+But at The Motley Fool, we strongly believe in understanding both sides to every investment. Personally, I don't think highly of Bitcoin. I have 10 reasons why I'll never buy it for my portfolio.
+
+1. Its scarcity is a myth
+
+Bitcoin optimists often cite its 21 million token limit. With 18.6 million Bitcoin already in circulation, it'll take close to 120 more years before the remaining 2.4 million are mined and put into circulation. The argument is that Bitcoin's fixed token count will help fight against the ongoing devaluation of the U.S. dollar as the money supply expands.
+
+The flaw in this thesis is that Bitcoin's scarcity is nothing more than an illusion. While unlikely, community consensus could decide, at some point in the future, to increase Bitcoin's token count. Without any physical scarcity to speak of, a promise is all that keeps its token count from rising.
+
+2. Its real-world utility is minimal
+
+Though companies like Tesla are adding fuel to the Bitcoin craze, the reality is that it's not exactly a preferred form of payment. An analysis from business funding company Fundera found that approximately 2,300 U.S. businesses accept Bitcoin. There are more than 30 million businesses in the U.S., including sole-proprietorships, and about 7.7 million that employ at least one other person. After a decade, Bitcoin has hardly made a dent on the utility front.
+
+Also, don't forget that a vast majority of tokens aren't actually in circulation. Investors are holding on to them, which further limits Bitcoin's ability to be a medium of exchange.
+
+3. The barrier to entry is almost nonexistent
+
+Want to start your own digital token? If you've got money and time on your hands, you can create your own digital currency with tethered blockchain. The barrier to entry in the crypto space is exceptionally low, meaning there could be dozens of superior alternatives to Bitcoin or its blockchain in development or available for use. Having virtually no barrier to entry suggests that Bitcoin's first-mover advantage isn't a selling point.
+
+4. It's difficult to short-sell, which leads to inefficient markets
+
+In recent weeks, retail investors (who also happen to be the core fans of Bitcoin) have been in an all-out war with short-sellers -- i.e., investors who profit when the price of a security falls. Some even view short-sellers as evil. But short-selling is a natural part of the investing cycle that helps lead to price discovery.
+
+Bitcoin is really difficult to short-sell on most platforms, which means we're not getting anywhere near a true price discovery. This market inefficiency is one of the reasons Bitcoin is so exceptionally volatile.
+
+5. It isn't even the best option among financial networks
+
+Bitcoin's network has been touted as a game changer for financial payments. Rather than using traditional banking networks and waiting up to one week for payment to be validated and settled, Bitcoin can do so in an average of 10 minutes.
+
+However, Bitcoin's usage is strictly limited to the payments side of the equation, and it's not even the best network at what it does in the financial space. Stellar (CRYPTO:XLM) can settle validate and settle financial transactions in mere seconds with its Lumens coin. Meanwhile, Ethereum (CRYPTO:ETH) provides nonfinancial blockchain applications with the addition of smart contracts -- commands that are executable once all predetermined conditions are met. Once again, Bitcoin may have first-mover advantage, but it's not the most innovative or functional kid on the block by a long shot.
+
+6. Blockchain has been an enterprise bust thus far
+
+Don't overlook that the Bitcoin story is really about advancing its underlying digital ledger, known as blockchain. With blockchain, transactions can be validated and stored forever in a transparent and immutable way.
+
+While there are plenty of applications for blockchain on paper, we haven't seen these ideas translate into real-world functionality. Businesses have been unwilling to replace their proven network infrastructure with untested blockchain technology, creating something of a Catch-22. CoinDesk reported that tech stalwart IBM (NYSE:IBM) practically dismantled its blockchain division, according to four people familiar with the matter.
+
+In short, enterprise blockchain has been a gigantic flop thus far.
+
+7. Storage and security issues are worrisome
+
+This is a bit more personal, but I have no desire to deal with the complexities of storing and protecting Bitcoin from hackers. Bitcoin must be stored in a digital wallet kept on a hardware-based platform or on the web. Either way, it can be far less secure than most folks realize.
+
+An estimated $1.36 billion worth of crypto tokens, including at least 46,000 Bitcoins, were stolen in the first five months of 2020, according to CipherTrace. You'll get absolutely no protection from the Federal Deposit Insurance Corporation, either.
+
+8. The tax situation can be burdensome
+
+If you think you hate doing your taxes now, try getting involved with Bitcoin. Since the Internal Revenue Service views cryptocurrency as property, all dispositions must be accounted for via capital gains and losses. You'll have to report more than just buying and selling Bitcoin. If you purchase Bitcoin and sell it to buy another cryptocurrency or a good/service, you'll have to report your cost basis and disposition price. It sounds burdensome, especially if you're using Bitcoin to buy goods and services.
+
+9. It's driven purely by emotions and technical analysis
+
+There are only two true drivers to Bitcoin's value: investor emotions and technical analysis (i.e., pretty charts). Neither of these is a particularly intriguing reason to buy in, especially since neither will help over the long run.
+
+Fear of missing out (FOMO) and cheerleading from the likes of Tesla CEO Elon Musk have fueled this record run higher in Bitcoin. As noted earlier, utility remains poor, scarcity is a myth, and the barrier to entry is virtually nonexistent. What we're seeing is day traders having a field day, and that's not something I want my money in.
+
+10. History is undefeated
+
+Finally, history is undefeated when it comes to next-big-thing investment bubbles bursting. You can look back more than a quarter of a century to the birth of the internet, business-to-business commerce, genomics, 3-D printing, marijuana, and even blockchain. No matter what the next great advancement was, the bubble eventually burst. These trends did eventually produce winners, but history suggests that parabolic moves in assets tied to next-big-thing trends aren't sustainable.
+
+For these 10 reasons, I don't plan to invest in Bitcoin.

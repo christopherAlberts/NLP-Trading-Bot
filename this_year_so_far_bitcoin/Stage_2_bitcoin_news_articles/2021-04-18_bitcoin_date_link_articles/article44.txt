@@ -1,0 +1,29 @@
+Popular crypto market analyst Willy Woo noted reports identifying the blackouts were published late last week, with the power outages occurring to facilitate safety inspections in response to a recent flooding accident at a local coal mine that saw 21 miners temporarily trapped underground after power and communications went down.
+
+According to the Cambridge Bitcoin Energy Consumption Index, or CBECI, Xinjiang represents nearly one-quarter of the global hash rate.
+
+The analyst noted that yesterday saw the largest daily drop in total Bitcoin network hash rate since November 2017, with hash rate plummeting from 172 million terahashes per second to less than roughly 154 million TH/s, according to Ycharts.
+
+Woo has attributed Sunday’s violent cryptocurrency crash to a sudden drop in hash rate resulting from a power outage in the Chinese region of Xinjiang.
+
+Bitcoin hash rate: Ycharts
+
+Woo points to 9,000 BTC that was transferred to Binance on Friday, speculating the funds were likely sent by a “whale with closer knowledge to happenings in China.”
+
+Coupled with heavy selling in the quarterly futures markets, the downward momentum drove $4.9 billion worth of Bitcoin liquidations and a further $4.4 billion in margin calls in the altcoin markets — with a record 1 million accounts being liquidated.
+
+However, not everyone agrees with Woo’s analysis, with Cinneamhain Ventures partner Adam Cochran describing “the idea that a power outage last night in a mining region in China led to the dop in $BTC” as “utter nonsense.”
+
+1/15
+
+
+
+You might have seen charts around claiming that there is some sort of link between the mining hash-rate and Bitcoin's price drop.
+
+
+
+I've seen all sorts of words thrown around with this chart including 'causations' and 'correlations' by a lot of people who don't math. pic.twitter.com/Gfog3Sk8Wo — Adam Cochran (@adamscochran) April 18, 2021
+
+Woo noted that long-term whales who rarely sell have been buying heavily amid the dip, adding that the lower $50,000 range is forming “the largest cluster of price discovery since BTC was below $10k.”
+
+“Validation of BTC as a trillion dollar asset is immensely strong,” he said, adding that 13.5% of the entire BTC supply has been moved on-chain while Bitcoin’s capitalization has exceeded $1 trillion.

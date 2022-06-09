@@ -1,0 +1,33 @@
+It is already impossible for a single entity to kill bitcoin and its underlying blockchain technology, so state governments and regulators should embrace blockchain technology and cryptocurrencies, said the chief executive of the world’s biggest cryptocurrency exchange.
+
+“I don’t think anyone can shut it down now, given that this technology, this concept, is in 500 million people’s heads,” Binance CEO Changpeng “CZ” Zhao said in a pre-recorded interview shown during CoinDesk’s Consensus 2021 virtual conference. “You can’t erase that.”
+
+Fighting off bitcoin and other cryptocurrencies now would be similar to refusing to accept Amazon’s internet business model when the e-commerce giant first started in the early 1990s, according to Zhao. Cryptocurrencies are not here to kill traditional finance or government-backed fiat currencies, but to provide more “freedom of money.”
+
+Cryptocurrency is “just a new tool that can increase the freedom of money all around the world,” Zhao told CoinDesk adviser Nolan Bauerle. “I don’t view them as competing with regulators … and there is a way for us to work together.”
+
+Zhao’s claim comes as Binance, the biggest cryptocurrency exchange by volume, faces increased regulatory scrutiny. Bitcoin and other cryptocurrencies are facing their own regulatory hurdles after becoming more popular than ever.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Zhao said his company does not intend to fight against any governments or countries, adding the doubts about how Binance operates are likely due to a lack of regulatory clarity.
+
+“We are not going against governments,” Zhao said. “There are times where the regulators or rules are not super clear. They are still being established in most parts of the world so there are some gray areas. But [we’ve] just got to experiment and work together and figure that out.”
+
+The Binance way
+
+Zhao does not appear to have a clear strategy for his company, even though Binance is highly involved in almost every trendy crypto innovation, whether it is decentralized finance (DeFi), non-fungible tokens (NFTs) or tokenized real-world assets.
+
+“I’m not smart enough to predict what’s gonna happen, which one’s gonna be hot, which one users [are] gonna adopt,” Zhao said. “The way Binance is organized is that we just have lots of experiments.
+
+Zhao said he has been trying to make fewer “top-down” decisions, especially when it comes to what he called “big” projects such as Binance Smart Chain (BSC), a public blockchain gaining steam as one of the more competitive rivals to the Ethereum blockchain.
+
+“Binance Smart Chain came out of nowhere,” Zhao said. “It wasn’t my idea.”
+
+His clarification seems to be a response to an increasing number of hacks or exploits recently on DeFi protocols built on BSC including some of the biggest monetary exploits in DeFi history. With BSC’s name associated with Binance directly, many have criticized Zhao and demanded he and Binance take responsibility for the exploits.
+
+“Binance Smart Chain is an independent blockchain, [and] we don’t have control over it,” Zhao said. “The projects on there are running very independently. If I talk to them, they will talk to me. But I don’t talk to them at all.”
+
+Zhao did, however, say he and his company benefit from BSC’s success because Binance coin (BNB) is the native crypto supporting BSC. Both Zhao and Binance remain large holders of BNB.
+
+Unlike Ethereum, BSC runs on a Proof-Of-Staked-Authority (PoSA) consensus mechanism, which is controlled by 21 node operators that are elected by BNB holders. Some analysts have speculated that BSC’s validators could be in some way connected or tied to Binance.

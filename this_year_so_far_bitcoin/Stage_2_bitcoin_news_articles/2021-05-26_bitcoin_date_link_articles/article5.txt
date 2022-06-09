@@ -1,0 +1,87 @@
+The crypto market bounced then lost steam over the past 24 hours, perhaps fueled by the behavior of new market participants joining this current bull cycle. Meanwhile, market data continues to suggest more and more ether being deployed and traded on the spot market to rival BTC.
+
+Bitcoin (BTC) trading around $38,224 as of 21:00 UTC (4 p.m. ET). Gaining 1.3% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $37,600-$40,702 (CoinDesk 20)
+
+Ether (ETH) trading around $2,720 as of 21:00 UTC (4 p.m. ET). up more than 5% over the previous 24 hours.
+
+Ether’s 24-hour range: $2,542-$2,895 (CoinDesk 20)
+
+Bitcoin over $40K, then under
+
+Bitcoin’s hourly price chart on Bitstamp since May 23. Source: TradingView
+
+Bitcoin, the world’s largest cryptocurrency by market capitalization, was up Wednesday by 3.3% as of press time. BTC was below the 10-hour moving average and the 50-hour, a bearish signal for market technicians.
+
+BTC climbed from $37,600 at 20:15 UTC (4:15 p.m. ET) Tuesday to as high as $40,702 by 00:45 UTC Wednesday (8:45 p.m. ET Tuesday), an 8.2% increase based on CoinDesk 20 data. Bitcoin has settled at $38,224 as of press time.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+The announcement of a council to address problems associated with energy-intensive proof-of-work cryptocurrency mining led to a bounce in bitcoin’s price. However, the run-up couldn’t sustain itself.
+
+“We expect the selling to resume as this bounce fades off and BTC will test recent lows again,” said Pankaj Balani, chief executive officer of crypto venue Delta Exchange. “BTC will find a lot of resistance above $50,000 anyway and it will take some doing for BTC to move above the previous high.”
+
+Lack of bitcoin dry powder
+
+Amount of bitcoin daily transfers to exchanges in the past six months. Source: Glassnode
+
+The total daily flow of bitcoin to exchanges is dipping. “Dry powder” refers to liquid assets waiting to be deployed; in the case of crypto that’s a balance on a wallet somewhere, and the amount being piled into exchanges seems to be slackening. Flow into exchanges suggest holders are planning to do something with the asset, i.e., sell.
+
+On Sunday, 52,895 transfers were made to exchanges, the lowest amount since January 24 according to data aggregator Glassnode. Tuesday was also quite low, with only 53,326 transfers. For comparison, the average daily number of BTC exchange deposits in the past six months was 72,361 transfers.
+
+Over-the-counter crypto trader Henrik Kugelberg thinks new entrants into crypto might be losing interest in the up-and-down nature of BTC and that might be contributing to a slowdown in flow as selling has ensued.
+
+“It’s the weak hands and newbie investors with little or no experience of the bitcoin roller coaster that panicked,” Kugelberg said.
+
+Ether volumes dwarf BTC’s
+
+Ether’s hourly price chart on Bitstamp since May 23. Source: TradingView
+
+The second-largest cryptocurrency by market capitalization, ether, was trading around $2,720 as of 21:00 UTC (4:00 p.m. ET), gaining more than 5% over the prior 24 hours. The asset is below the 10-hour moving average but above the 50-hour, a sideways signal for market technicians.
+
+Ether jumped from $2,542 at 20:15 UTC (4:15 p.m. ET) Tuesday to $2,895 at 00:45 UTC Wednesday (8:45 p.m. ET Tuesday), a 13.8% climb based on CoinDesk 20 data. ETH is at $2,733 as of press time.
+
+The cryptocurrency market opened the week with bitcoin and ether volumes almost equal. Tuesday brought a major jump in ether volumes, much higher than BTC, according to CoinDesk Research data from major spot exchanges. For Tuesday, bitcoin volumes were at $49,553,564,503 versus ether’s $88,323,977,568 tally.
+
+Bitcoin (black) and ether (red) daily exchange volumes the past month. Source: CoinGecko
+
+The reversal in volumes between the two assets, which are rare but becoming more common, just proves traders in the crypto market aren’t just focused on BTC since there are alternatives, according to Sarah Potter, president of crypto educational platform YouCanTrade.
+
+“From a traders’ point of view, you have a lot of choices to find a cryptocurrency that works for you,” Potter said. “And ether has potential.”
+
+Ether held in DeFi dumps
+
+Amount of ether locked in DeFi the past three months. Source: DeFi Pulse
+
+Since hitting an all-time high of 11.1 million ETH “locked” in decentralized finance (DeFi), on April 19, that number has steadily fallen, and was down more than 15% to 9.4 million ETH as of press time.
+
+Investors “lock” crypto in DeFi to generate a return in exchange for liquidity across these platforms. And while the total value locked in DeFi, which includes bitcoin and stablecoins, is trending up, it seems ether holders have decided to deploy their balances elsewhere.
+
+Jason Lau, chief operating officer of San Francisco-based exchange OKCoin, suggests that some ether holders might have some trepidation about the process of locking, given crypto’s notorious price gyrations.
+
+“I think the market is going to take some time to find the right balance given the violent drop last week,” Lau said.
+
+Read More: Mark Cuban Invests in Ethereum Layer 2 Polygon
+
+Total crypto value locked, in dollars, over the past three months. Source: DeFi Pulse
+
+Other markets
+
+Digital assets on the CoinDesk 20 are in the green Wednesday. Notable winners as of 21:00 UTC (4:00 p.m. ET):
+
+Equities:
+
+Read More: Ripple to Deliver Payments From Oman to India Using Blockchain
+
+Commodities:
+
+Oil was up 0.25%. Price per barrel of West Texas Intermediate crude: $66.16.
+
+Gold was in the red 0.11% and at $1,896 as of press time.
+
+Silver is falling, down 1% and changing hands at $27.68.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield climbed Wednesday to 1.577 and was in the green 1.2%.

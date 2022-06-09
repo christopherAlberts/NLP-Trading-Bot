@@ -1,0 +1,57 @@
+As prices for bitcoin and other cryptocurrencies continue to surge this year, many traders are looking for any indicator for when – or if – the bull market will come to an end. Some are convinced they have the answer: They are examining polkadot (DOT), the native token of the Polkadot blockchain, as a potential canary in the coal mine for cryptocurrency.
+
+As of press time, polkadot’s price was at $12.49, up 12.40% in the past 24 hours, according to Messari. It reached its all-time high of $13.22 during early trading hours in the U.S., just six days after bitcoin’s price reached a new all-time high.
+
+(Shuai Hao, CoinDesk Research) Source: Nomics
+
+(Shuai Hao, CoinDesk Research) Source: Nomics
+
+The market capitalization of Polkadot has surpassed XRP and litecoin and is now the fourth-biggest cryptocurrency by market cap, according to Messari’s asset tracker.
+
+Following in the 2017 footsteps of EOS
+
+Those using polkadot to prognosticate bitcoin’s price point to parallels with another altcoin, EOS.
+
+Sources who spoke to CoinDesk as well as social media users, especially on Chinese-language platforms, see parallels between the 2017 bull market prices of bitcoin and EOS, the native cryptocurrency for the EOS.IO blockchain platform. They said Polkadot, a project started by Ethereum co-founder Gavin Wood and considered to be one of the so-called “Ethereum killers,” shares similar features and goals of the EOS.IO project, which was also born with the ambition of replacing Ethereum.
+
+A screenshot of a Jan. 14 post on Weibo (China’s Twitter) that claims polkadot is one of the so-called “marketing-oriented” tokens that could give retail investors a chance to make “quick money” right after the bitcoin’s bull run. “If you miss the opportunity now, there won’t be a chance for you to get rich fast after the bull market ends,” it wrote in Chinese. (Weibo)
+
+A screenshot of other posts on Weibo show warnings from some crypto users in China about Polkadot’s potential downfall, citing its similarities to EOS in 2017’s bull run. (Weibo)
+
+After bitcoin’s price reached its peak in 2017’s bull run, many investors and traders took their profits and moved them into tokens like EOS, a period of time now called “alt season.” Prices for EOS reached an all-time high at the end of April 2018, after which “crypto winter” was said to have started.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Claims that EOS and bitcoin prices were related in 2017 and 2018 are contentious.
+
+“Correlation, not causation,” said Terry Wilkinson, chief executive officer at the Tokyo-headquartered investment firm Anchor Value. EOS “was the latest greatest pie-in-the-sky protocol at that time and as such garnered a lot of hype during that cycle. The bull run did not end because EOS stopped pumping. It was kind of the poster child for that run.”
+
+Block.one created EOS.IO in September 2017. The blockchain provides a platform for developers to create decentralized apps (dapps) with the promise of improved scalability compared with Ethereum. The project was also known for its initial coin offering (ICO), which ran from summer 2017 to June 2018, arguably the longest-running ICO in history.
+
+With a large amount of its tokens being turned over to hedge funds to manage and make the majority of the investments in the building the EOS.IO ecosystem, traders and investors took EOS’s price as an indicator of capital inflows to crypto at the time. When EOS’s price stopped pumping, many took it as a sign to exit the market.
+
+EOS.IO “failed to catch up to Ethereum’s position and hype,” Jason Kim, chief investment officer at Anchor Value, added. “Speed alone did not persuade enough people to buy into EOS’ rosy projections.”
+
+Polkadot’s bull case in 2020’s bitcoin rally
+
+Similar to EOS.IO, Polkadot is touted as a promising blockchain that may replace Ethereum’s dominance. It particularly caught the attention of many savvy digital asset investors when decentralized finance (DeFi) exploded in the past summer.
+
+Most DeFi projects are built on the Ethereum blockchain, the second-largest blockchain, which is thought of as a “world computer” due to its versatility and programmability. Yet, some projects have chosen Ethereum alternatives for better scalability and end-user experience, with Polkadot being one of the more popular ones.
+
+As a result, just as many investors back in 2017 were making bets on EOS.IO for its promise to grab market share from Ethereum at the time, investors now have shown a “strong” appetite for Polkadot’s DOT, as CoinDesk reported two months ago.
+
+With that said, many have expressed their doubts about DOT’s possible correlation with bitcoin’s latest bull run. The main drivers of this round are significantly different from 2017, which were then stirred up by retail investors for the ICO boom.
+
+These days, the market has mostly agreed that large institutional investors and the explosive DeFi sub sector took off in the past summer are the primary power behind the latest bull market.
+
+The logic behind the two bull runs are completely different, according to Simons Chen, executive director of investment and trading at Hong Kong-based crypto lender Babel Finance. Investors who bought bitcoin in this round have not been taking profits from many altcoins such as polkadot.
+
+“[DOT] certainly fills the same slot as EOS did last bull run,” Wilkinson said. “There are parallels to draw since [Polkadot] probably has the highest expectations as the new chain on the block, but my opinion is that this bull run is different than the last mainly because of the involvement of institutional money that was largely vacant during the 2017 run.”
+
+And unlike the ICO boom, many traders and analysts say, the fast-growing realm of DeFi – semi-autonomous exchanges and lenders – has shown much more potential with an ambitious goal to replace the traditional financial world one day.
+
+Indeed, while the “summer of DeFi” cooled down, the sector still remains quite active. Multiple DeFi tokens have seen double-digit growth in the past few days. Brian Brooks, the outgoing acting head of the U.S. Office of the Comptroller of the Currency (OCC), wrote in a Financial Times op-ed about a future of “self-driving” banks backed by the DeFi sector.
+
+Thus the rapid price growth in DOT could just be a reflection of the DeFi’s continuing growth, as well as new upgrades and improvements on the project.
+
+Denis Vinokourov, head of research at Bequant, said a recently released 2021 roadmap by SushiSwap, a decentralized exchange which includes an integration with Polkadot, could be the reason why DOT’s price has been up.

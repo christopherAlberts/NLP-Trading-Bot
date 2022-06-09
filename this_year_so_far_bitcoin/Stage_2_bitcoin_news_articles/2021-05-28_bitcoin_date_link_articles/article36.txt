@@ -1,0 +1,45 @@
+Bitcoin's wild price moves stem from its design — and you'll need strong nerves to trade it.
+
+Bitcoin's wild price moves stem from its design — and you'll need strong nerves to trade it....
+
+Aside from being an exciting new vessel to make a buck, part of what makes cryptocurrency so appealing is the anonymity.
+
+The ability to make online transactions in absence of a central bank has been a major draw for privacy-savvy crypto adopters since bitcoin’s inception in 2009. However, the blanket statement claiming cryptocurrencies will keep you hidden online has some holes.
+
+Hackers are using highly complex methods to backtrack transaction data to identify the original spender, through a method known as “dusting”.
+
+What in the hell is dusting, I can hear you ask.
+
+The total amount of bitcoin in circulation is growing by the day as miners around the world join the game. With a single coin worth roughly around $49,300 AUD at the time of writing, the amount of divisible units used to represent the bitcoin is growing.
+
+Tiny values of these units, or “Satoshis” (named after the illusive originator of the world’s first crypto), can accumulate at the bottom of people’s crypto wallets unawares.
+
+The amounts are often so tiny, people barely take notice.
+
+This is due to the fact the minimum unit of bitcoin, 0.00000001 BTC, is currently worth around $0.0005 AUD, making it almost impossible to trace. Some online wallets even hide small balances where the total amount is negligible.
+
+But hackers have seen the value in the “dust” accumulating across the world, using the peculiar phenomenon to compromise the privacy of a number of crypto users by sending tiny amounts of digital currency to wallets and finding the transaction on the blockchain.
+
+RELATED: Enormous surge in crypto prices
+
+RELATED: Aussie homeowner’s crazy crypto move
+
+Blockchain technology is the foundation cryptocurrency is built upon, storing market activity across a large network of computers, which allows bitcoin and other cryptocurrencies to operate without the need for a central authority.
+
+When a user makes a transactions, a unique code called a public key is generated and recorded on the blockchain, rather than their personal information.
+
+By linking the transaction up on the blockchain, hackers are effectively able to track specific wallets’ prior spending information.
+
+Wallet provider Samurai Wallet first reported dusting attacks in 2018, warning clients to be on the lookout for tiny amounts of crypto being dumped in their wallets.
+
+“If you have recently received a very small amount of BTC in your wallet unexpectedly, you may be the target of a “dusting attack” designed to deanonymise you by linking your inputs together,” SamuraiWallet’s official account tweeted. “Samourai users can mark this as ‘Do Not Spend’ to nip the attack in the bud.”
+
+If you have recently received a very small amount of BTC in your wallet unexpectedly, you may be the target of a "dusting attack" designed to deanonymise you by linking your inputs together - Samourai users can mark this utxo as "Do Not Spend" to nip the attack in the bud. pic.twitter.com/23MLFj4eXQ — Samourai Wallet (@SamouraiWallet) October 25, 2018
+
+“To spot one, a dust transaction typically has one address on the sender side and hundreds or thousands of addresses on the other with the same small traces ent to them,” Crypto News explains.
+
+While the overall threat to regular crypto users’ privacy appears slim at this stage, the dusting phenomenon has exposed a very real hole in the claim cryptocurrencies are 100 per cent private.
+
+The takeaway is, if you’re up to something truly nefarious with your cryptocurrency, there is still potential for you to be linked back to your online deeds.
+
+RELATED: Biggest cryptocurrency tax mistake

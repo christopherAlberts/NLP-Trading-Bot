@@ -1,0 +1,22 @@
+Digital currency group Diem Association, formerly known as Facebook's Libra project, plans to launch a US dollar stablecoin as it scales back its global ambitions to focus on the United States, the group said on Wednesday.
+
+The association, which comprises 26 financial firms and non-profits, said it was relocating its main operations from Switzerland to the United States and withdrawing its payment system license application with the Swiss financial regulator.
+
+Diem Networks US, a unit of the Deim Association, will run a blockchain-based payment system that allows real-time transfer of Diem stablecoins and will register as a money services business with the US Department of the Treasury's Financial Crimes Enforcement Network, the group said.
+
+Stablecoins are digital currencies pegged to a fiat currency. California-based Silvergate Bank will issue the Diem USD stablecoin and manage the Diem USD reserve. Diem said it would launch a pilot of the stablecoin, but it did not say when.
+
+"We are committed to a payment system that is safe for consumers and businesses, makes payments faster and cheaper," the association said.
+
+In a statement, the Swiss Financial Market Supervisory Authority confirmed Diem's decision to withdraw its application for a payment license.
+
+"Diem is planning to launch the payment system from the USA in a first phase because initially the project will focus on the USA as its target market," it said.
+
+Facebook first unveiled plans for Libra in June 2019, part of an effort to expand beyond social networking into e-commerce and global payments. It said Libra, alongside partners like payment firms and credit card companies, would create a digital token backed by a wide mixture of currencies and short-term government debt. The social media giant said it hoped Libra would power transactions between consumers and businesses around the globe, and offer more people access to financial services. But the project immediately ran into fierce opposition from policymakers globally, who worried it could erode their control over the money system, enable crime, and harm users' privacy.
+
+In April 2020, Libra and its partners abandoned plans to hold a basket of currencies and sovereign debt in favour of stablecoins backed by major currencies and sought the Swiss regulator's approval. In December, Libra rebranded as Diem in a renewed effort to gain regulatory approval, with its scope scaled back further to a single dollar-backed digital coin.
+
+Currently, Facebook's digital wallet Novi is one of Diem's 26 members and a minority investor.
+
+© Thomson Reuters 2021
+

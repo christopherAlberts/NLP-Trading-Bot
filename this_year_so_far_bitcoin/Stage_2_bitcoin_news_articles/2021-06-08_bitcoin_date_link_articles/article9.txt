@@ -1,0 +1,81 @@
+A double-digit cryptocurrency market capitalization drop is being attributed to a major shift to bearish sentiment. Bitcoin volumes and volatility are still lower than ether’s but Ethereum-based opportunities have analysts optimistic for the future.
+
+Bitcoin (BTC) trading around $32,938 as of 21:00 UTC (4 p.m. ET). Losing 7.6% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $31,277-$35,614 (CoinDesk 20)
+
+Ether (ETH) trading around $2,502 as of 21:00 UTC (4 p.m. ET). In the red 8.2% over the previous 24 hours.
+
+Ether’s 24-hour range: $2,328-$2,721 (CoinDesk 20)
+
+Bitcoin’s volume the highest in over a week
+
+Bitcoin’s hourly price chart on Bitstamp since June 5. Source: TradingView
+
+Bitcoin, the world’s largest cryptocurrency by market capitalization, was down Tuesday by 7.6% as of press time. The price was above the 10-hour moving average and the 50-hour, a sideways signal for market technicians.
+
+BTC fell from $35,614 at 20:15 UTC (1:15 p.m. ET) Monday to $31,277 by 18:30 UTC (11:30 a.m. ET) Tuesday, a 12% drop based on CoinDesk 20 data. Bitcoin then regained some of those losses, at $32,938 as of press time.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Continued concerns about the regulatory regime for crypto in China were among the reasons for many investors to turn bearish on bitcoin. Some traders are also worried about the possibility of tighter monetary policy from the U.S. Federal Reserve, which might put downward pressure on risky assets, including cryptocurrencies.
+
+As the price of BTC fell over the past 24 hours the trading volume rose, reaching $2.9 billion as of press time on Tuesday, the most since May 28. For 2021 so far, daily averages have been at a much loftier level, around $4.9 billion, based on spot markets tracked by the CoinDesk 20.
+
+“Bitcoin has found its footing since becoming oversold from an intermediate-term perspective within its long-term uptrend,” said technical analyst Katie Stockton of Fairlead Strategies. “As it stands, we would look for bitcoin to establish a lower high versus April without damaging the long-term uptrend.”
+
+BTC volumes on major spot exchanges. Source: CryptoCompare
+
+When will ether volumes drop below bitcoin’s?
+
+Ether’s hourly price chart on Bitstamp since June 5. Source: TradingView
+
+The second-largest cryptocurrency by market capitalization, ether, was trading around $2,502 as of 21:00 UTC (4:00 p.m. ET), slipping 8.2% over the prior 24 hours. The asset is above the 10-hour moving average and the 50-hour, a flat signal for market technicians.
+
+Ether dropped from $2,721 at 23:15 UTC (4:15 p.m. ET) Monday to $2,328 by 16:15 UTC (11:30 a.m. ET) Tuesday, a 14% fall based on CoinDesk 20 data. ETH has climbed a bit since, at $2,502 as of press time.
+
+“Ether’s short-term momentum has improved with the rebound, but intermediate-term momentum has deteriorated, supporting a lower high versus the May peak near $4,380,” noted Fairlead’s Stockton.
+
+Ether’s momentum, in the form of volume, continues to beat bitcoin’s. For 10 straight days , the number of ETH changing hands has exceeded BTC volumes. Analysts are beginning to think this may be a longer-term trend, especially considering how much higher bitcoin volumes had been for most of the year.
+
+Ether and bitcoin spot volumes on major venues in 2021. Source: CoinGecko
+
+Constantine Kogan, a crypto investor and founder of investment community BullPerks, thinks ether’s upstart rise in 2021 as an institutional asset is just beginning.
+
+“Long term, I think Ethereum will grow, as proof-of-stake is proving to be a more scalable consensus mechanism,” Kogan said of the blockchain.
+
+“Price action right now has been stronger for ETH than for BTC, and it’s shown up in the BTC/ETH correlation as well as in the derivative markets,” added Nathan Cox, chief investment officer of crypto fund Two Prime.
+
+Read More: Ether Price Indicator Turns Bearish for First Time Since October
+
+Hedgers paying a premium
+
+Ether options open interest at various strikes. Source: Skew
+
+In the ether options market, strikes below the $2,560 price level are heavily favoring puts because traders are preparing for any possible scenario, including over 64,000 ETH total open interest at the ludicrously low $400 strike.
+
+“The recent volatility has left traders a little spooked and willing to pay up for downside protection,” said Two Prime’s Cox. “But volatility levels all around have basically collapsed at this point, with BTC [volume] trading back to the low end of the range.”
+
+Indeed, after jumping to over 170% in 30-day annualized volatility in late May, ETH’s price gyrations are declining, to 162% as of Monday, based on the most recent data from CoinDesk Research. Also, bitcoin’s price volatility has flattened as of late, to 89%.
+
+“I expect some rangebound trading from here as new hands are hesitant to commit new capital, and long-term HODLers are deciding if this is the right price to continue accumulating,” said Cox. “Short term, I think you see ETH continue to outperform.”
+
+Other markets
+
+Total cryptocurrency market capitalization the past three months Source: CoinGecko
+
+The total crypto market cap declined on Tuesday by over 7%, according to data aggregator CoinGecko. In the market for alternative cryptocurrencies, or altcoins, Fairlead’s Stockton sees a mostly flat-to-bullish outlook for the week ahead.
+
+“Most cryptocurrencies have crossed bullish thresholds versus bitcoin, excluding stellar and cardano, which have neutral relative strength outlooks, and tether, which should remain out of favor while the oversold bounce persists in the space,” noted Stockton. “The cryptocurrencies pointing up and to the right should outperform, whereas downturns in uniswap and chainlink suggest they may lag.”
+
+Digital assets on the CoinDesk 20 are all down Tuesday. Notable losers as of 21:00 UTC (4:00 p.m. ET):
+
+Equities:
+
+The S&P 500 in the United States closed up 0.20% as stocks in the airline sector eked out some gains Tuesday.
+
+Commodities:
+
+Gold was down 0.30% and at $1,893 as of press time.
+
+Treasurys:

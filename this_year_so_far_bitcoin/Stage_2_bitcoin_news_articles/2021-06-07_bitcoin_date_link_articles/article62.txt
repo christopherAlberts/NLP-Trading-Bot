@@ -1,0 +1,25 @@
+What happened
+
+Shares of Coinbase Globa; (NASDAQ:COIN) fell 20.5% in May, according to data from S&P Global Market Intelligence. The ascendant cryptocurrency exchange had gone public in April to much fanfare, but ran into a double-whammy of falling cryptocurrency prices and investor skepticism over high-multiple growth stocks in May. This was in spite of a first-quarter earnings report that showed booming revenue growth and profitability.
+
+So what
+
+During the first quarter, Coinbase reported some ridiculous growth figures amid high-profile crypto buy-ins from the likes of Tesla CEO Elon Musk, who bought $1.5 billion in Bitcoin (CRYPTO:BTC) in February with Tesla's corporate cash. Also in the first quarter, investment bank Morgan Stanley became the first large U.S. bank to offer crypto funds to its wealth management clients. While the asset is only available to Morgan's wealthy clients, the first endorsement by a large U.S. banking institution was another sign of Bitcoin's potential as a legitimate institutional asset class.
+
+Coinbase's first-quarter earnings report reflected this big institutional buy-in:
+
+Metric Result Net revenue $1,597 million Net revenue growth (YOY) 792% Net income $771 million Net income growth (YOY) 2,309%
+
+Amid such incredible growth, why did the stock fall in May? Well, subsequent to quarter-end, Bitcoin and other cryptocurrencies plunged in value. On May 13, Elon Musk reversed Tesla's policy on accepting Bitcoin payments, citing the "insane" energy consumption required for Bitcoin mining. That in turn caused the price of Bitcoin to plunge about 35% from levels prior to those comments through the end of the month.
+
+Coinbase earns the vast majority of revenue from commissions charged as a percentage of crypto assets traded, so when the value of crypto assets goes down, Coinbase's commissions will likely follow. It's not a one-for-one comparison, because Coinbase also benefits from trading volume and volatility, but falling crypto prices have tended to depress interest in crypto in the past as well.
+
+Now what
+
+After Coinbase's May plunge, shares currently trade around $229, below its $250 IPO price. Given its blockbuster first-quarter results as well as its more modest share price, some may think Coinbase's plunge is a big buying opportunity. For instance, Cathie Wood's ARK Innovaton ETF scooped up more shares as the stock fell in May, and Coinbase now makes up about 3.5% of ARKK, making it its 10th-largest position.
+
+And unlike many other high-growth software-as-a-service stocks, Coinbase is actually profitable. Currently, the stock goes for about 30 times this year's earnings estimates, which is quite reasonable if the stock continues to experience strong growth.
+
+However, Coinbase's future earnings power is a huge question mark. Estimates for 2022 range from a net loss of $5.23 per share to positive net income of $12.10 per share. That's because Coinbase's earnings power is tied to crypto interest and asset prices, both of which are highly volatile. In addition, some are concerned about competition eating into Coinbase's commission rates, which are usually much higher than a typical brokerage commission for equity trades. In fact, many brokerages now offer free equity trades.
+
+Coinbase, like cryptocurrencies, has a massive range of outcomes. That means investors should put Coinbase into the speculative portion of their portfolios, and be wary of sizing such a position accordingly.

@@ -1,0 +1,59 @@
+(Miss this week’s The Leadership Brief? This interview below was delivered to the inbox of Leadership Brief subscribers on Sunday morning, April 25; to receive weekly emails of conversations with the world’s top CEOs and business decisionmakers, click here.)
+
+Like many CEOs on the West Coast, Dan Schulman has a sort of a uniform: blue jeans, black sweater and ostrich-skin cowboy boots. When it came time to replace his boots, Schulman, the CEO of PayPal, used one of the company’s new services to make the purchase. With a few clicks, in a few seconds, he bought the boots and paid for them with Bitcoin. “Boom,” he says. “It was pretty cool.”
+
+The fintech giant had a record year as the pandemic drove shoppers from stores. Instead, they bought groceries, movies and underwear on their phones and computers. PayPal does business in more than 200 countries and deals in more than 100 currencies. It did a staggering amount of business last year, processing transactions at a rate of 1,000 per second during the peak holiday shopping season. In total, PayPal processed 15.4 billion payments, with a value of $936 billion last year. PayPal also had the most new product launches in its history, including launching QR-code payments in 20 markets around the world in response to demand for germ-free transactions. Another big initiative: helping move digital currency into the mainstream, by adding cryptocurrency services. Schulman recently joined TIME for a conversation on the future of cash, central banks and the security of digital currency.
+
+(This interview is edited and condensed for clarity.)
+
+How much did fear of infection during the pandemic drive lasting changes in how people shop and pay for things?
+
+There were two things that dramatically accelerated the trend of digital payments by as little as three years and maybe as much as five years. And by the way, that’s just continuing to grow at an accelerating rate. The first is, we had no choice. We were all quarantined in our homes. We needed to live. We needed to buy things, and everybody had to buy things online. Eventually that turned from this necessity to convenience. People realized, you don’t have to wait in line at a cashier; it can be delivered whenever you want, you have more choice, more different deals.
+
+No. 2 is everything started to go digital, even in-store, because of hygiene. People wanted to be sure that they could protect their cashiers, and customers wanted to be sure that they were going to be safe. Nobody wanted to touch cash, and that led to a large increase in use of digital forms to not just pay, but to look at menus and to look at offers and that kind of thing in stores.
+
+What does your business look like in the next five to 10 years?
+
+First of all, retail fundamentally changes. It moves from a strategy of, How do I attract people to my storefront?, to basically, How do I optimize for home delivery? How do I optimize around all things digital, online and offline? Effectively the differentiation between those two things disappears. And that means that retailers need to think about, Where do they meet consumers? Consumers aren’t just going to go to their website. They’re going to be in large consumer platforms like TikTok or PayPal or others. The reason Walmart wanted to buy part of TikTok is they wanted to kind of put shopping into that platform. We call it contextual commerce.
+
+It’s the same thing inside PayPal. We know that people will start to utilize wish-list shopping tools, and wish lists are really a form of creating an individualized demand curve. This is what you want. This is the price point that you want it; retailer, if you can give me that, I’ll buy it. And so retailers are coming to where you are looking individually, personalizing offers to you. Retail is going to shift dramatically.
+
+And how are we going to pay for things?
+
+There are probably going to be six to 10 superapps that evolve. You won’t have 50 apps on your phone, because you can’t remember 50 usernames and passwords; you don’t want to put in your financial information into every single one of them; you can’t remember the nav system on all of them. These superapps that will basically intermediate other apps, so you log in once, you have a common password, you have all of your data and information in one place that can be used to feed products and services on that platform. It will make it simpler and easier for the consumer.
+
+So cash is no longer king?
+
+Ten years from now, you will see a tremendous decline in the use of cash. All form factors of payment will collapse into the mobile phone. Credit cards as a form factor will go away, and you will use your phone because a phone can add much more value than just tapping your credit card. And so when all of those things start to happen, then central banks need to rethink monetary policy as well, because you can’t just issue more paper money into the system because people aren’t using paper money. And so this is the advent of digital currencies.
+
+What does this pending shift to digital currencies mean for the financial system as we know it?
+
+In the next five to 10 years, you’re going to see more change in the financial system than you have over the past 10 to 20 years. How do we think about modernizing the existing financial infrastructure? It needs modernization, because it’s inefficient today. If you cash a check, it can take three days for you to get your money. If you do an international remittance, it can take seven days to get your money. And it’s too expensive. The “take rate” across the financial system throughout the world is about 2.8%. For the last 10 years, which, by the way, you’d expect with volume and technological improvements that would drop, but the worst part about the 2.8% is that if you have less income, or are outside of the system, and you’re not affluent, then that take rate is like 1,000 basis points; it’s not 280 basis points. And if you’re really affluent, the take rate is 25 basis points. And so, when you think about it being expensive, exclusionary and efficient, we really need to start to think about, How do you modernize that system? Is there a way that you can do things more efficiently, with less cost, more inclusively, and add more utility into the system?
+
+What is the difference between Bitcoin and other cryptocurrencies from central bank–issued digital currencies?
+
+Central bank–issued digital currencies can also take advantage of distributed ledger technology [DLT] or other modern technologies, but they’re basically digitizing a fiat currency like the U.S. dollar. A digital dollar would be fully backed by the U.S. government, but done in a digital fashion, and that might allow the government to open up Fed funding to other institutions besides banks, potentially companies like PayPal, where you could fund straight from the Fed right into a digital wallet. You wouldn’t have to send out stimulus checks in the mail—just go directly into their digital wallet through a digital currency, instantaneous access, no cost and friction.
+
+Demand on the crypto side has been multiple-fold to what we initially expected. There's a lot of excitement. - Dan Schulman, CEO of PayPal
+
+You’ve taken a very deliberate approach to digital currency, investing heavily before introducing a consumer product. Why now?
+
+We’ve been looking at digital forms of currency and DLT for six years or so. But I thought it was early, and I thought the cryptocurrencies at the time were much more assets than they were currency. They were too volatile to be a viable currency. And it was still a little bit too much of people not really understanding what they were going to get into, and what we really wanted to do is make sure that it became a little more mainstream so that we would work hand in hand with regulators before we put anything out into the market.
+
+What’s the demand been like for these new services?
+
+Demand on the crypto side has been multiple-fold to what we initially expected. There’s a lot of excitement.
+
+How do we defend against more and more sophisticated cybercrime as all our assets move to digital?
+
+We need to battle cyber in two ways. One, you have to create wide moats and high towers and turrets to try and keep as many bad people out as possible. But it’s impossible to keep bad people out because usernames and passwords are stolen. So the real trick of this is how do you keep data from moving outside. So if you make a transaction [using PayPal], it’s not your username and password that’s giving you permission to do that. It is 130 different variables that we look at on every single transaction, in milliseconds, to be sure that it’s you. It’s this idea of Big Data of really understanding who you are, not who you said you are. Things like two-factor authentication, that’s grade-school stuff. It needs to be much, much more sophisticated than that, and we’ve spent as much as we need to spend to ensure that we do our very best to not allow data to leave our system that isn’t valid. But I will say this for every company around the world: this is an issue that should be front and center.
+
+When did you decide on your look?
+
+I don’t really call it a look. I call it very comfortable. I started this when I was running Virgin Mobile, a long time ago. I’ve been wearing cowboy boots forever. I’ve been wearing jeans and like a black sweater forever. Some people say, “Oh, you went to Silicon Valley.” No, no. This was me way before then.
+
+Subscribe to The Leadership Brief by clicking here.
+
+The Leadership Brief. Conversations with the most influential leaders in business and tech. Please enter a valid email address. * The request timed out and you did not successfully sign up. Please attempt to sign up again. Sign Up Now An unexpected error has occurred with your sign up. Please try again later. Check the box if you do not wish to receive promotional offers via email from TIME. You can unsubscribe at any time. By signing up you are agreeing to our Terms of Service and Privacy Policy . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Thank you! For your security, we've sent a confirmation email to the address you entered. Click the link to confirm your subscription and begin receiving our newsletters. If you don't get the confirmation within 10 minutes, please check your spam folder.
+
+Contact us at letters@time.com.

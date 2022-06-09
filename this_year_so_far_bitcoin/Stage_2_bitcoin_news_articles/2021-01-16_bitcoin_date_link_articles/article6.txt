@@ -1,0 +1,29 @@
+A Russian Operation Is Mining Bitcoin in the Arctic Circle for Cheap Electricity
+
+A Russian company is leveraging the Siberian city of Norilsk located above the Arctic Circle in order to mine bitcoins. Bitcluster, the owner of the crypto mining operation, plans to expand the firm’s activities after launching the facility in late 2020. According to the company’s website, the datacenter is getting electricity rates as low as $0.03 per kilowatt-hour (kWh).
+
+Mining Precious Crypto Assets in the Arctic Circle
+
+This week the Russian mining operation Bitcluster was featured in a Bloomberg video-report that highlights the company’s Norilsk bitcoin mine. The city of Norilsk is considered one of the world’s most northerly settlements and it is known for hosting the metal mining company MMC Norilsk Nickel PJSC. MMC Norilsk Nickel is the world’s largest palladium producer and it also produces colossal amounts of nickel, copper, and platinum.
+
+Now Bitcluster is bringing the polar region a new type of precious-asset mining by setting up shop mining cryptocurrency in Norilsk.
+
+Bitcluster’s cofounder Vitaly Borschenko detailed in an interview that the Norilsk bitcoin mine is being contracted by international interests located all around the world. Despite the fact that the arctic region of Norilsk is extremely cold, the temperatures benefit the bitcoin mining operations according to Bitcluster as it helps the cooling aspect of the process.
+
+Bitcluster’s webpage details that the company uses a special canopy in order to protect the facility from the cold corridor. “The warm air from the miners is mixed to prevent the snow from falling,” Bitcluster notes.
+
+Polar Region Power Is 25% Cheaper Than Russia’s Grid, Norilsk Creates Its Own Electricity Via Natural Gas and Hydropower
+
+The Russian firm says it also leverages Antminer S19s and they constructed modular data centers in order to accommodate the ASIC devices. The Bloomberg video-report also shows that the company is getting very cheap electricity by mining in Norilsk.
+
+According to the recent report, Electric is 25% cheaper than anywhere else in Russia, as Norilsk creates its own electricity. Natural gas and hydropower is the most dominant source of electricity in the Arctic Circle territory. Bitcluster’s site notes that the firm is obtaining electricity for as low as 2.75 rubles or $0.039 per kWh.
+
+The report also indicates that the bitcoin mining operation is using an abandoned Norilsk Nickel plant that was closed in 2016. “The place is perfect for crypto mining: it’s cold and the area has [a] power supply that’s not linked to any of Russia’s power grids,” Borschenko detailed.
+
+Bitcluster also claims, that next to the metal mining firm Norilsk Nickel, the bitcoin mining operation will be the Norilsk region’s second-largest power consumer. The company uses repurposed shipping containers to house the Antminers dedicating hashpower to the Bitcoin network. At current exchange rates, the network’s difficulty, and $0.039 per kWh, an Antminer S19 (110 Th/s) will produce $25 per day in bitcoin.
+
+What do you think about the bitcoin mining operation in the Arctic Circle region of Norilsk? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, Bitcluster website,
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

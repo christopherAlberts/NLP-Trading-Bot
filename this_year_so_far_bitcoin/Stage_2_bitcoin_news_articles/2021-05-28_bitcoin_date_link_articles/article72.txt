@@ -1,0 +1,37 @@
+Last week the crypto markets plunged, with major cryptocurrencies losing over half their value when compared to their recent highs. But savvy investors could leverage those losses for tax benefits, due to the fact that cryptocurrencies aren’t subject to the SEC’s “wash sale rule,” as reported by CNBC.
+
+The Wash Sale Rules
+
+A “wash sale” occurs when an investor sells a security at a loss, then buys back the same security or a substantially similar one within 30 days, per the SEC website.
+
+Although investors can usually deduct capital losses, that’s not allowed for losses related to wash sales. In fact, wash sales can even incur penalties.
+
+However, the wash sale rule only applies to securities—e.g., stocks. The SEC has argued that cryptocurrencies are commodities, not securities; and the IRS taxes crypto as property.
+
+The benefits are two-fold for cryptocurrency investors: they are able to sell crypto at a loss and use that loss to mitigate or even eliminate their overall capital gains tax burden.
+
+Secondly, they can almost immediately buy back into the crypto they sold, so as to catch any rebound.
+
+“This is a loophole, so to speak,” said Ivory Johnson in an interview with CNBC. Johnson is a certified financial planner and founder of Delancey Wealth Management in Washington. “It’s heads I win, tails you lose.”
+
+Here’s how it works. If an investor bought into Bitcoin at its height of $64,000, then sold at its recent low of $30,000, they would have incurred a $34,000 loss.
+
+If, at the same time, this investor had also sold their stocks, booking a net $34,000 capital gain, then their Bitcoin-incurred losses would cancel the gain from the stocks, argued CNBC.
+
+The investor could then turn around and re-purchase the Bitcoin close to the price they sold it at, ensuring they’d capitalize on rebounds the cryptocurrency made.
+
+If Bitcoin were subject to the wash sale rule like traditional stocks, then the investor would have to sit out for 30 days, missing out on a month’s worth of movement and potential gains.
+
+The Risks and What Doesn’t Apply
+
+It is important to note that the wash sale exemption only applies to cryptocurrencies themselves such as Bitcoin and Ethereum. It does not apply to crypto-related securities such as Coinbase.
+
+While regulators may change their tune on crypto and the wash sale rule in the future, it’s unlikely that any transactions that happened before the clampdown would be overturned.
+
+Investors also need to exercise caution when taking advantage of this loophole. Cryptocurrency transactions would still need to have “economic substance” to them, meaning the investor would still need to bear some risk of loss according to Jeffrey Levine, a CFP, accountant, and chief planning officer at Buckingham Wealth Partners in New York.
+
+In other words, there would need to be some time gap between when the cryptocurrency was sold and when it was bought back, to avoid the IRS writing off the trade as a “sham” transaction.
+
+“Time is always your best argument,” Levine said. “A day is more than sufficient,” he added. “I’d feel comfortable defending that to the IRS.”
+
+For more news, information, and strategy, visit the Crypto Channel.

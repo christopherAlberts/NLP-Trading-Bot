@@ -1,0 +1,27 @@
+A constantly changing narrative is a telltale sign that something is a bad investment. The argument for bitcoin a few years ago was that it would replace fiat currencies like the U.S. dollar. It didn't, and it probably never will. No one's going to use a currency that wildly gyrates in value and isn't backed by anything at all.
+
+Now, bitcoin is apparently "digital gold," a store of value that can protect investors from inflation. Like real gold, there's a finite quantity of bitcoin that can ever exist. But unlike real gold, there are an infinite number of potential competitors. Cryptocurrencies are a dime a dozen, and there's really nothing special about bitcoin other than its name recognition.
+
+The price of bitcoin has soared over the past year, up from less than $10,000 at the beginning of 2020 to nearly $40,000 today. I would wager that most people buying bitcoin are doing so because the price is going up, not because they actually believe in its utility. That's what happens during a bubble -- the rising price becomes the narrative, the fear of missing out overwhelms rational thought, and people concoct all sorts of post hoc justifications for investing in things with little to no substance.
+
+There's no telling how high bitcoin will soar before the bubble finally bursts. Plenty of people will make a lot of real money, but many more will be badly burned. You could ride the frenzy and hope to get out in time, or you could invest in a leading company using the blockchain technology that underlies cryptocurrencies like bitcoin for real-world applications. One such company is International Business Machines (NYSE:IBM).
+
+The blockchain leader
+
+The global market for blockchain-related products and services is expected to grow from a mere $3 billion last year to nearly $40 billion in 2025, according to projections from MarketsAndMarkets. That estimate could be way off base, but explosive growth is certainly a possibility. The banking and financial services industries are expected to account for the largest portion of this spending over the next five years as blockchain technology is used to secure transactions.
+
+IBM is an early leader in the blockchain space. An analysis from Everest Group Research performed at the end of 2019 put IBM at the top of the pack in terms of market adoption and just behind Microsoft in terms of ease of use.
+
+IBM has worked on over 500 blockchain projects so far. Notable projects include:
+
+TradeLens, a blockchain platform that aims to digitize the global shipping industry. TradeLens had over 150 members using the platform as of March 2020, including more than 100 ports and terminals, more than 20 ocean carriers and intermodal providers, and more than 10 government authorities.
+
+Food Trust, a blockchain platform that tracks food throughout the supply chain. The system aims to, among other things, greatly speed up the process of tracking down the source of food-borne illnesses. Companies using Food Trust include mega-retailer Walmart and Nestle .
+
+and . World Wire, a blockchain platform for moving money across borders. World Wire is capable of clearing and settling cross-border payments in seconds using cryptocurrencies that are pegged to a real-world currency.
+
+With the financial services industry expected to be a big customer for blockchain services, IBM's existing relationships with financial companies give the company a major advantage. One example: IBM's mainframe systems handled nearly 90% of all credit card transactions as of 2018, and the systems processed close to $8 trillion worth of payments annually.
+
+Shares of IBM have not performed well over the past few years as the company worked to shift its focus to growth areas like hybrid cloud computing, artificial intelligence, and blockchain. That transformation is ongoing, and the company's financial results haven't been particularly impressive as of late.
+
+But IBM is positioned at the center of what could be an explosive growth market over the next five years. If blockchain really does take off, IBM will one of the biggest beneficiaries.

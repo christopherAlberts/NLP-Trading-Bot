@@ -1,0 +1,17 @@
+A report from cryptocurrency exchange Coinbase shows that the U.S. is the most aggressive in seeking information about bitcoin traders.
+
+Major cryptocurrency exchange Coinbase has released its latest “transparency report,” providing data on customer information requests it received from government and law enforcement agencies between July 1, 2020 and December 31, 2020.
+
+Among the insights into who requested user information from Coinbase, it’s clear that the U.S. remains the most interested in tracking the activity of bitcoin traders. While Coinbase facilitates the trading of many cryptocurrencies, bitcoin makes up more than 12% and $1 billion of its volume.
+
+“There were a total of ~4,227 requests in 2020, 54% of those requests made during the time period covered by this report,” according to a Coinbase blog post sharing the insights. “The FBI (Federal Bureau of Investigation) and HSI (Homeland Security Investigations) comprise the majority of U.S. law enforcement information requests at ~50.9%. ~51% of total requests during this period came from U.S. agencies.”
+
+U.S. law enforcement agencies made some 1,197 requests for user information, while the U.K. made the next most law enforcement requests of any country at 597, according to the post. The U.S., U.K. and Germany made about 90% of all requests in this time period.
+
+In addition to the FBI and HSI, Coinbase received information requests from the IRS, U.S. Department of Justice, U.S. Securities and Exchange Commission and state and local agencies.
+
+In its own transparency report for 2019, cryptocurrency exchange Kraken noted that the U.S. made 61% of total requests for user information.
+
+While Bitcoin is built on a public and easily-auditable ledger, it is designed to be leveraged pseudonymously and without interference from any third party, including governmental and law enforcement agencies. Many within the Bitcoin space see such information requests (which could also be interpreted as demands) as overreach from agencies that have no place in the use of a free and open-source financial tool.
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.

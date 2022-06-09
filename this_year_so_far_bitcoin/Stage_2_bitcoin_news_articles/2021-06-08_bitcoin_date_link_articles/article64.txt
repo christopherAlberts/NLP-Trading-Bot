@@ -1,0 +1,49 @@
+Mike Novogratz, Galaxy Digital Founder and CEO joins Yahoo Finance's Zack Guzman at the 2021 Bitcoin Conference to discuss the latest in the cryptocurrency industry.
+
+Video Transcript
+
+MIKE NOVOGRATZ: Well, listen, first of all, sustainability is a big issue for the whole planet, not just for the crypto industry or the Bitcoin mining industry. And when we look at it in context, I think our community needs to do something, just like every other community does, traditional banking.
+
+YouTube uses 2 and 1/2 percent of all electricity. That's a crazy statistic. YouTube, we're not going to ban YouTube. YouTube is awesome. I will literally bow down at the altar of YouTube. There's unbelievable utility from it.
+
+There's also unreal utility from the Bitcoin blockchain. It cost a lot to mine. It uses a lot of electricity because it was designed that way. If we want something to secure trillions of dollars of wealth, you don't want a guy with a popgun, right? You want a robust system.
+
+And so I think it's inherent on the communities-- the community to be responsible to move our industry, like all industries, towards a greener future. And I think you're going to see all kinds of initiatives come out soon.
+
+ZACK GUZMAN: All weekend, I've been hyping you up as the Warren Buffett of crypto, which is ironic because we all know his take on crypto. But you're involved in so many different areas. I don't know if it's a fair comparison.
+
+MIKE NOVOGRATZ: Well, I am the oldest guy in crypto. And so maybe Warren is maybe the oldest guy in traditionally-- well, Charlie Munger. Listen, we decided at Galaxy that we wanted to be an ecosystem company. And the thesis was, let's take our own money-- it started as my family office. And it's now a public company.
+
+Our own money invested in the coolest projects, the cutting edge technologies, in coins, in custody solutions. You name it, we're trying to invest in it. And we want to take the understanding we learn and then transmit that to our clients, our clients from the investment banking division, our asset management division, our sales and trading clients.
+
+Story continues
+
+And so what I found is everybody enters this space goes on a similar journey. They start with bitcoin. Whoa, this is pretty cool. And they might have different opinions. Is it going to be digital gold or decentralized money?
+
+And then they're, like, whoa, what's that Ethereum thing? And as they go down this path of understanding how this ecosystem lays out-- we couldn't have any NFT without Satoshi. A lot of the artists don't think they're bitcoiners. They are. Everyone's a bitcoiner in this whole ecosystem because Satoshi's white paper gave us this brilliant, of one-sentence takeaway. It was the first digital signature you couldn't counterfeit.
+
+ZACK GUZMAN: Yeah, it was the spark that kind of lit the whole fire there. And it's an onramp for a lot of different technologies. But you similarly, I guess, have built Galaxy as the onramp for a lot of institutions. And you're also kind of, in the way that this billion-dollar deal-- more than $1 billion deal with BitGo really increases your guys' connections with some of those more established investors.
+
+I mean, talk to me about how that changes the landscape because some people might say that we got to 60,000 in Bitcoin or above it because of institutional money coming in. How important is it?
+
+MIKE NOVOGRATZ: Institutional money is wildly important. So let me give you some numbers. Total crypto market cap-- that's Bitcoin and everything else-- is about a trillion and a half dollars. That's 30 basis points of total global wealth, 30 basis points, nothing.
+
+Listen, for that to shift to 2%, 3%, which I'm fundamentally of the belief that it will, you need institutions. They own all the money. And so Bitcoin is still a 95%-plus retail-dominated ecosystem, maybe a little less, maybe 90%. But as institutions are slowly moving in--
+
+They take time. They don't wake up one night and say, hey, buy me yards of Bitcoin. I mean, unless they're Elon, right? They put a little in. They do the same thing everyone else has done on this thing.
+
+They put something on the board so they start understanding it more. Then they get more confidence. And what you'll see is you'll see higher prices when we get more people entering the market.
+
+ZACK GUZMAN: Yeah. It sounds like we're kind of stuck now in this $35,000 range when it comes to that. And some people might point to the ESG concerns that institutional investors have as maybe a problem to get back to where we were before. I mean, do you see that playing out? Or how big of an issue is it?
+
+MIKE NOVOGRATZ: So what happens in markets is you get a new group of investors that come in, they get excited. And then they push the market higher. So if you think about when Paul Tudor Jones bought Bitcoin and he famously published that paper, I think Bitcoin was about $8,000 or $9,000.
+
+A lot of hedge funds got in at that zone. Well, a year later, it's at $60,000. The urge to ring the cash register is such a deep-seated human urge, that that's what happens. People made a lot of money in something. They sell some. They sell some to buy a house, to buy their girlfriend a ring, to diversify their portfolio so they're not 90% Bitcoin, right?
+
+And so we see these kind of step function moves. And then we'll see a long period of consolidation. And what happens there, you're turning over, old guys selling, new guys buying. And you're waiting for the new narrative to arrive. That brings the next wave of money in. And I think we're in one of those periods right now.
+
+ZACK GUZMAN: When we look beyond Bitcoin to-- obviously, there's a lot of enthusiasm in DeFi and some other chains. I know you guys have invested in a lot of very cool projects. Tare is one that we've discussed to you before. I mean, how important is that maybe-- I don't want to say it's stealing the attention away from Bitcoin. But maybe the enthusiasm there for what the future looks like in attracting capital--
+
+MIKE NOVOGRATZ: Listen, the way markets work is when energy pushes them up, supply responses happen. What happened in 2017 is everyone thought everything was Bitcoin. Litecoin was the poor man's Bitcoin, right? Ethereum was the better Bitcoin. Floyd Mayweather Coin was the boxing Bitcoin. And so you had this giant supply response which collapsed prices.
+
+This time around, we've learned some but not enough, right? You can differentiate the type coins right. There are store of value coins. I put Bitcoin in that but I'd also put Litecoin and Dogecoin. And I think those things pull away from Bitcoin.

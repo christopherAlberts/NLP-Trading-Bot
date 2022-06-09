@@ -1,0 +1,35 @@
+Lately, it seems everyone has an opinion on Bitcoin (CRYPTO:BTC). At the Berkshire Hathaway (NYSE:BRK.A)(NYSE:BRK.B) annual meeting this weekend, Charlie Munger offered his. To the surprise of no one, it was salty and pulled no punches. The 97-year-old billionaire and partner to Warren Buffett gave a stark assessment:
+
+I don't welcome a currency that's so useful to kidnappers and extortionists and so forth, nor do I like just shuffling out of your extra billions of billions of dollars to somebody who just invented a new financial product out of thin air. I think I should say modestly that the whole damn development is disgusting and contrary to the interests of civilization.
+
+It's not surprising someone who was a child during the Great Depression and nearly 50 by the time the U.S. abandoned the gold standard isn't excited about digital currency. Rather than chalk it up to a generational misunderstanding, let's look at three things that support Munger's skepticism.
+
+1. It's a speculative asset
+
+The original design of Bitcoin limited the amount that could ever be created. The fixed supply changes the way people use it -- or don't use it. The focus on a set amount of coins has turned it into a speculative asset. People are derided for not holding on, or in Bitcoin parlance, "hodling." Terms like "diamond hands" have become synonymous with someone who isn't selling his or her Bitcoin investment. Not only are those folks not selling; they aren't using it as a currency either. Instead, they're planning to sell it to someone else in the distant future for more than they paid. That is the very definition of speculation.
+
+For those wondering, "Isn't that exactly why people hold stocks?" the answer is yes and no. Stock investors may want to sell shares at a later date for a higher price, but those shares are a claim on actual cash flows and dividends. It's similar to real estate, where the value is (theoretically) derived from the property's ability to produce rent. Bitcoin has no such cash-generating potential.
+
+2. It's less secure than the current system
+
+One thing Bitcoin proponents laud is its security. Without the digital key, a criminal can't access funds held in Bitcoin. One of Munger's favorite mental models is to invert a problem -- to think about it both forward and backward. In this case, if one digital key secures all your Bitcoin, the opposite is also true. All your Bitcoin can be stolen or lost with one digital key.
+
+Early Bitcoin platform Mt. Gox "lost" 650,000 coins after being hacked in 2013. It declared bankruptcy in 2014, freezing hundreds of thousands more coins. There have been numerous stories of holders who lost hundreds of millions of dollars by accidentally throwing away the hard drive with their digital key or forgetting their passwords.
+
+In traditional banking, there is no one password that gives people access to all of their funds. In addition, artificial intelligence and two-factor authentication make stealing a password harder and harder. The digital key may be a single point of access, but that also makes it a single point of failure. That's something designers in all fields, physical and digital, are taught to avoid.
+
+3. The beginning of the end
+
+The argument has been made that if someone wanted to guarantee humans would destroy the earth, the best way would have been to invent Bitcoin. It's a dramatic claim, but isn't as outlandish when piecing together the energy requirements of mining it, the slowing rate of creation, and the speculative zeal humans have demonstrated through the ages.
+
+The annual energy consumption of mining Bitcoin is already comparable to that of many countries. Environmental groups have estimated that Bitcoin alone could increase global temperatures by 2 degrees by 2050. Even if that's an exaggeration, the amount of energy consumption for no actual economic production raises questions about how governments might regulate it in the future. Several countries, including Turkey, have already banned the cryptocurrency because of its lack of central authority. It doesn't take much imagination to see others jumping on board over environmental concerns as the frequency and severity of natural disasters continues to worsen. Energy consumption will only increase with a slowing rate of creation.
+
+There can only ever be 21 million Bitcoins. The creators programmed the rate of creation to get cut in half for every 210,000 Bitcoins mined. This process is called "halving," and the last time it happened was May 2020. So far, it has happened roughly every four years. The halving last year dropped the amount for each block mined to 6.25 Bitcoins. Originally, miners earned 50 Bitcoins for each block. That limit is one of the reasons speculators are convinced that the digital currency will continue increasing in value over time. So far, they've been right.
+
+Stories of people getting rich buying cryptocurrencies mirror history's other bubbles. Whether it was tulips in the 1630s, gold in the 1840s, internet stocks at the turn of the century, or real estate in the 2000s, people just can't stand to watch others get rich without participating. That combination of envy and greed fuels speculation and drives some to truly remarkable ends to claim their share of the riches. There are already Bitcoin mining companies throughout the world wherever there is cheap electricity. One even recently opened in Siberia. Imagine the lengths people would go to if the price were 10 times or 20 times what it is today.
+
+The rest of the story
+
+Of course, for every nonagenarian saying Bitcoin is bad for civilization, there are probably hundreds of thousands of young, naive investors expecting Bitcoin to go to the moon. Munger's skepticism is rooted in his century of life experience. Ironically, so is the view of many holding Bitcoin.
+
+Since 2007, they have seen the Federal Reserve backstop Wall Street through a financial crisis and watched while the supply of money rose more than 100%. That was before the pandemic. Assets have risen in concert, and this generation is likely to want a wealth creator of its own. Many are buying Bitcoin not because they understand the technology, but because they see it as a way to afford the American dream they were raised to covet. After all, if you're constantly seeing stories of people getting rich in a way you have access to, it might seem crazy not to try. That's not as true for someone who has experienced the pain of financial loss. As Morgan Housel points out in his best-selling book The Psychology of Money: "[P]eople do some crazy things with money. But no one is crazy."

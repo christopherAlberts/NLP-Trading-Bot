@@ -1,0 +1,55 @@
+The price of a bitcoin has fallen back this week from its record high at $63,000 that it reached on April 13.
+
+Bitcoin is at this writing priced at €40,795 and $48781. But analysts say that the pullback is temporary, and that the original cryptocurrency is headed higher in the coming months.
+
+Timothy Peterson, Global Macro Manager at Cane Island Alternative Advisors, who predicted bitcoin’s meteoric rise this year, sees bitcoin’s price rising steadily, and over 15 to 30 years. He justifies his analysis (“Estimating Bitcoin’s Adoption Curve and Maximum Price” in a paper published in December 2020.
+
+“Bitcoin’s adoption curve follows a path very similar to that of internet adoption. Both adoption functions can be modeled with a Gompertz curve, (this tracks growth based on intense activity at the start and end of a given period).
+
+Peterson’s model forecasts a scramble for price growth at the end of bitcoin production, and beyond, one that will push the price to at least $1 million within 15 to 30 years. Peterson sees the possibility of it going as high as $10 million over that period.
+
+Reaching that point does depend somewhat on events. Negative events would further reduce the value of the bitcoin network. These obstacles include internet access, government intervention, competition, and obsolescence, Peterson warns.
+
+Most of us, however, invest for not quite such long periods as the 15 to 30 years Peterson takes for analysis.
+
+However, in the short-term, most analysts see the recent pullback as a short-term event. Profit-taking and consolidation are at work again, as in most recent pullbacks, a number of analysts agree.
+
+Data website CoinMarketCap, along with a number of other analysts, cited a blackout in China’s Xinjiang region, due to a series of fires in local coal mines, as part of the cause for the bitcoin price pullback. “The blackout halted no less than one-third of all of Bitcoin’s global computing power. We’d seen estimates that high, but this shutdown confirms them,” says Alex de Vries, an economist who runs the website Digiconomist, which tracks Bitcoin’s energy consumption.”
+
+Katie Stockton, senior analyst at Fairlead Strategies, agrees that sentiment is still strong for bitcoin. “Despite the pickup in short-term volatility, Stockton sees intraday declines of about 3 per cent to 6 per cent as not impacting the longer-term price movements.
+
+“The breakouts that we’ve already seen in bitcoin have already been exceeded,” said Stockton in an interview on CoinDesk TV‘s “First Mover.” Stockton thinks that bitcoin is currently in a consolidation phase, and she expects to see a decisive breakout from the current phase in the near term.
+
+Technical issues ironed out
+
+Positive forecasts for bitcoin take into account that most of the technical issues in the Bitcoin network have been resolved. “Early on, major concerns revolving around Bitcoin were, ‘Will it get hacked?’, ‘Is decentralisation a truly workable solution’, ‘will halving break the system?’ etc. Now a decade down the road, many of these issues have been answered. Bitcoin works on reliable technology, and it does not break,” insists one analyst.
+
+However, there are technical issues that continue to make bitcoin hard to work with.
+
+“There are issues regularly discussed in the industry,” warns blockchain technology expert Jack Tanner. They are:
+
+“Bitcoin cannot scale well enough to be used as a global currency;
+
+Bitcoin consumes a huge amount of energy, about the same amount as the country of Chile, and with the effective carbon footprint of New Zealand;
+
+The cryptocurrency is extremely slow at processing transactions, making it difficult to use;
+
+Bitcoin has account names in the form of cryptographic keys which are difficult to understand;
+
+The Bitcoin network expects users to be solely responsible for their account management, making the loss of funds and key management difficult;
+
+The network has high transaction fees, which would be even higher if it were to be more adopted;
+
+Bitcoin also has extreme price volatility making it too unpredictable to be used as a currency (that most people in the industry do not think that Bitcoin is/can be a day-to-day currency).”
+
+Bitcoin is still an inflation hedge
+
+Many hedge funds are buying up bitcoin as an inflation hedge, and these investors support the rise in price for the coin. There is considerable concern among investors that the extensive quantitative easing programme that the Federal Reserve and the European Central Bank are undertaking will lead to an increase in prices.
+
+In the US, the Federal Reserve has cut short-term interest rates to near zero and is increasing liquidity with its bond purchases. As the economy recovers, Federal Reserve governor Jerome Powell announced that the Fed might allow inflation to run higher than its initial two-per cent target before raising interest rates again. This unprecedented approach sparked a safe-haven search among investors.
+
+One such is billionaire fund manager Paul Tudor Jones, who has been buying up Bitcoin in May in anticipation of rising inflation – he currently holds about $400 million in the coin.
+
+“The reason I recommended Bitcoin is because it was one of the menu of inflation trades, like gold, like TIPS breakevens, like copper, like being long yield curve, and I came to the conclusion that Bitcoin was going to be the best inflation trade,” Jones told CNBC last month.
+
+As Stockton points out, there is always day-to-day volatility with bitcoin, far more than one would see in other types of investment. The trick is to keep an eye on longer term trends.

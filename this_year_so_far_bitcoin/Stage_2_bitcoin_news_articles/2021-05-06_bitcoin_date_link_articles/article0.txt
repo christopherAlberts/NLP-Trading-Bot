@@ -1,0 +1,49 @@
+New York (CNN Business) Bitcoin may be the king of cryptocurrencies, but it's facing an environmental backlash over the energy-intensive technology underpinning it.
+
+A new crypto called chia says it's the eco-friendly alternative.
+
+Like most digital currencies, chia runs on a decentralized ledger system known as blockchain. But unlike bitcoin, chia, which was founded by the inventor of BitTorrent, claims it has a much smaller carbon footprint with its mining process of verifying and recording transactions.
+
+Chia logged its first trades this week, joining a crowded crypto scene at a time of frenzied investor interest in alternative digital assets.
+
+What is chia?
+
+The Chia Network created the coin in 2017 with a focus on the environmental implications of digital currency "mining" — the highly specialized, energy-intensive computing process that creates new coins by solving complex equations.
+
+The key difference between chia and other cryptos, according to its founders, is its "proofs of space and time" method of verifying transactions that utilizes unused disk space on users' hard drives and is more energy-efficient than bitcoin's "proof of work" model.
+
+The Chia Network was founded by Bram Cohen, who also invented the peer-to-peer file-sharing system BitTorrent, and has already won backing from prominent investors such as Andreessen Horowitz and Naval Ravikant.
+
+How does the process work?
+
+Every cryptocurrency has its own method for verifying transactions, typically by using the collective computer power of miners, who are paid for their help in cryptocurrency. The chia mining process, which the Chia Network calls "farming," relies on using empty computer storage space instead.
+
+Chia's "proof of space and time" process allows network participants to show that they have been physically storing data over a certain period of time, according to Coin Market Cap
+
+This doesn't resemble the mining process of cryptocurrencies like ethereum , for example. In its current iteration, ethereum uses proof-of-work, which requires a massive amount of computer power to harvest and mine the decentralized coin. The proposed ethereum 2.0, however, would use a proof-of-stake model, which is allegedly more energy-efficient.
+
+Part of the appeal of cryptocurrencies is that people can send or receive money without the involvement of traditional banks or government bodies, unlike a fiat currency controlled by a central bank. All transactions are verified and recorded by huge networks of computers, using a database called blockchain. Typically that process requires a huge amount of electricity to power those computers — some estimates put bitcoin mining's carbon dioxide output as equivalent to New Zealand's.
+
+Cohen told CNN Business he hopes to have chia listed on crypto exchanges soon, including Coinbase, the digital currency exchange that went public in April
+
+Ready to 'farm'?
+
+Chia is meant to be accessible.
+
+"We've designed our software with the intention of it being usable by anyone who can use the internet," Cohen told CNN Business. Since "farming" doesn't require massive amounts of power, Cohen said "it can be done in a normal apartment."
+
+The Chia Network has a blockchain transaction platform called Mainnet, which can be downloaded on the network's website, chia.net . To start farming, you have to download the program to your computer and allocate a certain amount of space to the network through the user interface.
+
+"It involves completely normal hardware rather than super custom and expensive stuff," Cohen said. "Most people have some amount of unused storage space they can do it with already."
+
+And since "farming" doesn't use a ton of energy, you can fire up your laptop and get to work. Some other cryptocurrency mining processes, however, require complex machinery and will send your electricity bill through the roof.
+
+Bitcoin miners typically have to have their machines running 24/7 "to have the best odds of getting a return on the investment and maximize profitability," digital currency economist Alex de Vries told CNN Business.
+
+Will it save energy?
+
+The chia "farming" process is a greener mining alternative, but it does still require electricity.
+
+When it comes to cryptos, "environmentally friendly" is a "relative term," said Nick Spanos, CEO of Blockchain Technologies Corp, a software company. Computers need power to run, and natural resources are used to build hard drives, "much in the same way that electric vehicles and windmills still require too much resources to truly be environmentally friendly."
+
+"Plotting," the process of creating files that are later harvested as part of the farming process, still uses computer hard drive space and CPU power, but it requires significantly less energy than what is required for the mining process for other proof-of-work cryptocurrencies.

@@ -1,0 +1,27 @@
+This week, CNBC host Jim Cramer announced that he had sold half of his bitcoin to pay off a mortgage. "It was like phony money paying for real money,” he said. “I think I won."
+
+While Cramer, the well-known host of “Mad Money,” has quite an impressive background having graduated from Harvard University and later running his own hedge fund, his choice to sell bitcoin to pay down a mortgage is a classic example of a misunderstanding of monetary economics, and the dynamics of currency competition.
+
+This piece isn’t meant to focus solely on Cramer, but rather to provide analysis as to why this is an example of a shortsighted investment decision that will prove to be quite costly in hindsight.
+
+Good Money Drives Out Bad
+
+While Cramer serves as the example, more broadly, economic calculation using bitcoin as the measure for opportunity cost is a must if one wishes to maintain purchasing power into the future. This is because money is always in direct competition with all other forms of money/currency. The money with the most sound monetary properties will outcompete those with inferior monetary properties and assurances, and this dynamic will be reflected in the pair’s exchange rate. Decisions and economic calculation do not exist in a vacuum. Thus, it is imperative that the most sound monetary medium is used to measure opportunity cost and to make economic calculations. By using bitcoin as a unit of account over a medium-to-long-term time horizon, the opportunity cost is quite clear.
+
+What many (potentially including Cramer) fail to understand is that nearly everyone is a leveraged bitcoin holder. While holding bitcoin as an asset on the left side of one's balance sheet, any liabilities an individual holds mean that this particular person is a leveraged bitcoin holder/investor.
+
+“On the liability side of the Bitcoiner's balance sheet there are mortgages, student loans, car loans, credit cards, etc. Everyone admonishes people to not borrow in order to buy bitcoins. The reality is that money is fungible: if you buy bitcoins instead of paying down your mortgage's principal, you are a leveraged bitcoin investor. Almost everyone is a leveraged bitcoin investor, because it makes economic sense (within reason). The cost of borrowing (annualized interest rates ranging from 0% to 25%) is lower than the expected return of owning bitcoins. How leveraged someone's balance sheet is depends on the ratio between assets and liabilities. The appeal of leveraging up increases if people believe that fiat-denominated liabilities are going to decrease in real terms, i.e., if they expect inflation to be greater than the interest rate they pay. At that point it becomes a no-brainer to borrow the weak local currency using whatever collateral a bank will accept, invest in a strong foreign currency, and pay back the loan later with realized gains. In this process, banks create more weak currency, amplifying the problem.” -“Speculative Attack” by Pierre Rochard.
+
+While it no doubt may feel good to pay down liabilities or debt of any sort, selling bitcoin to do so, which has returned 200% compounded annually over the past decade, is quite a poor decision.
+
+While it obviously is impossible to sustain this rate of growth forever, expecting bitcoin adoption to increase at a rate that outpaces mortgage rates is quite a good bet to place. With this assumption about increased bitcoin adoption, the value of one bitcoin over the long term will appreciate more than mortgage rates, as the terminal inflation rate of the Bitcoin network is 0%, with the current forward inflation rate at 1.78%.
+
+Of course, this comes during a time when mortgage rates are at historic lows, with the average 30-year mortgage rate at about 3%. To put this into perspective, over a five-year time frame, selling bitcoin to pay down a 3% fixed-rate mortgage would only yield a positive ROI if bitcoin was trading at $71,500 or below in 2026. If the price is any higher, then selling to cover the mortgage ended up costing you bitcoin.
+
+While no one can be exactly certain what the price action of bitcoin will bring into the future, the December 2021 BTC futures market is currently trading at about $75,500.
+
+With the bitcoin futures market pricing in annualized yields of about 30% to part with your bitcoin at a given point into the future at the time of writing, drawing down your exposure to pay down a mortgage (that is already collateralized by the home itself) is clearly a poor decision, and will very likely serve Cramer along with others who have made similar decisions a lesson in monetary economics and opportunity cost.
+
+Many market participants fail to understand what is taking place with the ascension of bitcoin. Money is once again a free market phenomenon, and as a result, so is the time value of money. I can assure you, no bitcoin holder is willing to give up their bitcoin for a fixed 3% dollar-denominated return over the next 30 years.
+
+In hindsight, maybe the money that is issued by a private bank, with a board of directors that has a stated goal of devaluing its value in perpetuity, will be remembered as the more “phony money…”

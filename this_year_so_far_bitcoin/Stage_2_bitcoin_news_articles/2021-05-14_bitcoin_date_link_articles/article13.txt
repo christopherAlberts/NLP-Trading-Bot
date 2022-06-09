@@ -1,0 +1,97 @@
+Dogecoin soared on Friday but the cryptocurrency’s circulation ownership raises questions. Ether pops as its futures market hits a record. Bitcoin faces pressures from its options market and a downward trending dominance percentage.
+
+Dogecoin (DOGE) trading around $0.56 as of 21:00 UTC (4 p.m. ET). Gaining 47% over the previous 24 hours.
+
+Dogecoin’s 24-hour range: $0.39-$0.58 (CoinDesk 20)
+
+Bitcoin (BTC) trading around $50,263 as of 21:00 UTC (4 p.m. ET). Gaining 3.2% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $49,009-$51,502 (CoinDesk 20)
+
+Ether (ETH) trading around $4,055 as of 21:00 UTC (4 p.m. ET). Gaining 10.6% over the previous 24 hours.
+
+Ether’s 24-hour range: $3,641-$4,165 (CoinDesk 20)
+
+Dogecoin correlation to BTC near zero as asset pumps
+
+Dogecoin’s performance on Binance so far in 2021.
+
+Meme-friendly cryptocurrency dogecoin bounced back in a big way Friday, up 47% as of press time. The expectation that Coinbase would list and begin trading the asset in the near future was likely one culprit for the FOMO. So far in 2021, dogecoin is up over 12,000% on Binance, according to data provided by charting software provider TradingView.
+
+Not all industry participants are amused by dogecoin’s tricks, however.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+“Being something of a crypto old-schooler I am really troubled by the comical approach taken to dogecoin,” said over-the-counter bitcoin trader Henrik Kugelberg. “As if it’s somehow not actual people’s money being the victim of extremely rich peoples’ whims and fooling around.”
+
+Interesting to note from Kugelberg is the sheer concentration of wealth in the dogecoin ecosystem. According to blockchain data from Bitinfocharts, one person owns 28.8% of all doge in circulation, and just 102 wallet holders own another 38.5%. So 67% of all dogecoin is effectively controlled via 103 wallets.
+
+On-chain info regarding doge holders. Source: Bitinfocharts
+
+“I am staying far from DOGE,” added Kugelberg.
+
+What may be of interest to larger holders, however, is that dogecoin does not move in tandem with bitcoin. At least not anymore. According to CoinDesk Research, dogecoin’s correlation with bitcoin has fallen to near zero, which means the two cryptocurrencies are both marching to the beat of their own drums, at least since October 2020 when the two were closely correlated.
+
+Dogecoin’s correlation with bitcoin since the start of 2020. Source: CoinDesk Indexes
+
+“At this point the financial future of doge could very much be dictated by Elon [Musk, the Tesla CEO] and others who unilaterally decide to adopt it as their currency of choice,” said John Willock, chief executive officer of crypto custody provider Tritum. “That decision is likely not to be based on merit of the traditional sort but, rather, just because they like it.”
+
+“As far as our portfolio, we aren’t specifically long dogecoin but may trade its volatility in a delta-neutral manner if it suits us,” Willock added.
+
+Ether futures explosion
+
+Ether’s hourly price chart on Bitstamp since May 11. Source: TradingView
+
+The second-largest cryptocurrency by market capitalization, ether, was trading around $4,055 as of 21:00 UTC (4:00 p.m. ET), up more than 10% over the prior 24 hours. The asset is above the 10-hour moving average as well as the 50-day, a bullish signal for market technicians.
+
+“Regarding ETH, for the rest of this cycle at the least I expect that it will continue to lead BTC, as it’s the more speculative asset,” said Andrew Tu, an executive at quant fund Efficient Frontier. “It also benefits from the growth of apps built on top of it,” most notably decentralized finance (DeFi).
+
+Speculative indeed. On Thursday, the last day for closing data at press time, ether futures hit $100 billion for the first time. By comparison, bitcoin futures on Thursday were at $132 billion.
+
+Ether futures volume the past three months. Source: Skew
+
+Ether futures volume was the highest in three months. More futures and more exchange traded funds, or ETFs, which allow investors a more regulated way to pour money into ether, might mean more bullishness ahead for ETH.
+
+“More institutional investors view ether as a serious asset,” said David Russell, vice president of market intelligence at TradeStation Group. “There’s also been increased engagement after Canada allowed the launch of three ethereum exchange-traded funds,” he added. “And just last week, ETF sponsor VanEck filed with the Securities and Exchange Commission to launch a similar fund. It’s one more potential positive for the digital asset.”
+
+Bitcoin options market, dominance in the dumps
+
+Bitcoin’s hourly price chart on Bitstamp since May 11. Source: TradingView
+
+The world’s largest cryptocurrency by market capitalization, bitcoin, was up Friday by 3.2% as of press time and at a $50,263 spot price. The largest cryptocurrency by market cap was near the 10-hour moving average and the 50-day, a sideways signal for market technicians.
+
+One culprit for bitcoin struggling to make gains versus other crypto assets: the options market. Fredrick Collins, a seasoned options trader and researcher at Glassnode, noted heavy short-selling might be putting bear pressure on BTC. “Market makers were heavily short puts in the range of $52,000 to $50,000, and I estimate were forced to sell nearly 2,900 bitcoin during the crash to offset the short gamma exposure,” Collins told CoinDesk in a Twitter chat. “That likely exacerbated the bearish move.”
+
+Another factor: Altcoins are more exciting. According to charting software TradingView, bitcoin’s dominance, its share of the greater cryptocurrency market, is down 2.9% Friday and has fallen this year over 42% since Jan. 1.
+
+Bitcoin market capitalization dominance so far in 2021. Source: TradingView
+
+Jason Lau, chief operating officer for San Francisco-based exchange OKCoin, says differentiation between various crypto assets such as BTC, ETH and DOGE is what is causing bitcoin’s tepid market while ether and doge continue to pop.
+
+“It’s market and trader segments that have settled into three different types of crypto investors,” Lau told CoinDesk. “There is the longer-term store of value, which is BTC. Then there is the ecosystem, application-driven, which is ETH. Then you have the meme and momentum-driven, which is DOGE.”
+
+For retail traders, or anyone with access to a stock brokerage account, there might be an opportunity to buy bitcoin on the cheap right now. The Grayscale Bitcoin Trust (GBTC) currently has a discount that represents the difference between the price of the underlying bitcoin assets and the value that’s implied from the price of the trust’s shares. (Grayscale is owned by Digital Currency Group, of which CoinDesk is an independent subsidiary.)
+
+Other markets
+
+Terra, a three-year-old project from the South Korean developer Terraform Labs, is built to support a basket of decentralized stablecoins. Demand has surged in cryptocurrency markets for Terra’s LUNA token, which works as part of an automatic balancing system that helps to keep prices for the stablecoins, well, stable.
+
+The LUNA price has climbed a flabbergasting 25-fold this year, outpacing the already-impressive sevenfold gain for larger rival MakerDAO’s maker (MKR) tokens. LUNA’s market capitalization has jumped to about $6 billion from $300 million in less than five months, overtaking MKR at $4.7 billion.
+
+Digital assets on the CoinDesk 20 are all in the green Friday. Notable winners as of 21:00 UTC (4:00 p.m. ET):
+
+Equities:
+
+Commodities:
+
+Oil was up 2.5%. Price per barrel of West Texas Intermediate crude: $65.35.
+
+Gold was in the green 0.90% and at $1,842 as of press time.
+
+Silver is gaining, up 1.1% and changing hands at $27.39.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield fell Friday to 1.632 and in the red 1.6%.
+
+Muyao Shen contributed to this report.

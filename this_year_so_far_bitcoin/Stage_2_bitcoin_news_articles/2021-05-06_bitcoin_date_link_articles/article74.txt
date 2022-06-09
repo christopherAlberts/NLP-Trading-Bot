@@ -1,0 +1,51 @@
+The Bitcoin SV Technical Standards Committee hosted its webinar introduction to the world of technical standards for Bitcoin SV, setting out the mechanisms in place for developing technical standards for greater interoperability across the ecosystem.
+
+Focusing on the need for standardization and the advantages of a unified code of technical standards, the event looked at how accessibility was key to unlocking the full power of Bitcoin SV, with its low transaction fees, fast settlement times and unbounded scaling.
+
+The event laid out the Technical Standards Committee’s proposed roadmap, before inviting input from stakeholders keen to help shape the future direction of the Bitcoin SV ecosystem.
+
+In particular, the representatives from the committee were keen to stress the value of input from across the community, both on the broader TSC roadmap, and within the format of individual working groups, set up to explore standards within the key priority areas.
+
+The webinar was kick-started by Steve Shadders, Chief Technical Officer at nChain. He began by introducing the work of the committee, and the members of the committee present for the discussion, before quickly moving to provide an overview of their objectives—particularly important in light of the fast growth rate of BSV.
+
+He discussed the origins of the Technical Standards Committee, from the early days as a cooperative of developers working on standard wallet interoperability, through to setting the technical agenda for standardization across the whole BSV ecosystem.
+
+“When the decision was made to form the TSC, one of the core things was to work out what its function is. And that core goal is to let the people who need to do technical collaboration to improve interoperability within the ecosystem, focus on exactly that.”
+
+Stressing the TSC does not itself determine what the standards should be, Shadders said the body’s role was to help industry decide which standards it should set and how they should work to foster the growth and development of Bitcoin SV as a whole.
+
+Next, Two Hop Ventures co-founder Alex Fauvel took the virtual floor, setting out the value of technical standards for those building technologies on top of the Bitcoin SV platform. Noting the role of industry experts in shaping the rules, Fauvel said the decentralized approach to developing standards was key to their strength and, ultimately, their effectiveness.
+
+“The strength of Bitcoin SV technical standards is that they are all developed by the people that need them—industry experts are involved at all stages.”
+
+Describing the process for establishing the technical standards, Fauvel said it was designed to be open, and to encourage all interested parties to have a voice in shaping the direction of technical standards.
+
+“This is a collaborative and open process, so all interested parties should get involved as much as possible. Developing the standards is consensus-based, so the comments from stakeholders at all stages are taken into account.”
+
+Meanwhile, The Hopper CTO James MacLeod discussed the TSC’s roadmap, which has been opened up to community consultation until May of this year.
+
+‘The way we see it, blockchain is the new Internet. We are only at the point of starting to discover its utility now.’ – James McLeod – CTO, The Hopper Find out how you can get involved in shaping the bright future ahead for #BitcoinSV: https://t.co/W5F7FBtsF8 pic.twitter.com/0z4kg7XP82 — Bitcoin Association (@BitcoinAssn) April 20, 2021
+
+The roadmap as envisaged covers five fundamental areas of standardization—regulation and compliance, wallet services, client services, tokenization and mining.
+
+“We have identified two strategic objectives. Firstly, provide a summary of areas within the industry that require attention with a focus on addressing the major barriers to adoption for Bitcoin SV. Secondly, identify areas of concern with unimplemented or poorly implemented parts of the network model.”
+
+“Getting involved gives you a voice at the table and allows you to enter the dialogue and be involved in the conversation about something that is important to you and your business.”
+
+Centbee co-founder and CEO Angus Brown stepped in to chair the Q&A session, helping provide more clarity around the comments of other speakers, as well as fielding questions from those watching the session.
+
+A number of questions were raised and addressed by Brown, including queries on the process for establishing standards, and whether membership of Bitcoin Association was a prerequisite to involvement in shaping the overall direction of technical standards in any of the five key areas.
+
+He was also asked to comment on the time commitment in participating in any of the workgroups, which he suggested should be around a couple of hours per month—and certainly “shouldn’t get in the way of your day job.”
+
+Returning to close the event, Steve Shadders said that the role of the Technical Standards Committee was to work alongside industry players to encourage collaboration, remove unnecessary red tape, and help guide the process towards the creation of effective, workable technical standards for the benefit of the Bitcoin SV ecosystem as a whole.
+
+“If you get involved in a workgroup, you are going to spend 99% of your time focusing on the technical detail and not wasting your time with administrative details that can easily be taken care of by the TSC.”
+
+Noting that the mission was to improve the usability of Bitcoin SV for everyone, Shadders said he was keen for as many community stakeholders as possible to get involved in helping to shape the technical standards.
+
+“I really do encourage everybody to participate. We really want this process to be driven by the industry. The ultimate goal is that we improve the usability of Bitcoin SV so that it can reach the global adoption we are all working towards.”
+
+Learn more about the Bitcoin SV Technical Standards Committee here.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

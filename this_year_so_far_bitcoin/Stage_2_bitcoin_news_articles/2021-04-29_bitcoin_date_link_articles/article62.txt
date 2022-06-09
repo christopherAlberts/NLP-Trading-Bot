@@ -1,0 +1,49 @@
+Whether you're a relatively new investor or someone who's been putting their money to work on Wall Street for decades, there's always something new and interesting to see. Last year, it was the unparalleled uncertainty that arose from a once-in-a-century pandemic. In 2021, it's been the rise of the retail investor.
+
+While a lot of retail investors have been focusing on stocks with high levels of short interest -- e.g., GameStop and AMC Entertainment -- we've also witnessed a huge bump in cryptocurrency valuations as a result of young investors putting their money to work. In recent weeks, Bitcoin (CRYPTO:BTC), the world's largest digital currency, nearly hit $65,000, while Ethereum surpassed $2,600.
+
+But it's not Bitcoin or Ethereum that are creating the loudest buzz among crypto enthusiasts at the moment. That title belongs to Dogecoin (CRYPTO:DOGE).
+
+At one point last week, Dogecoin tokens were going for north of $0.43. That may not sound like a lot, but it gave the digital currency a market cap of more than $55 billion. To put this into some context, Dogecoin was worth more than the market value of companies like Kraft Heinz, Ford, and Twitter. It also briefly made Dogecoin one of the five most-valuable digital currencies.
+
+Daily trading volume has also gone through the roof. Roughly one year ago, 200 million to 300 million Dogecoin were traded daily. Over the past two weeks, we've witnessed anywhere from 11.9 billion to 69.4 billion Dogecoin change hands on a daily basis. In short, it's become the poster child of crypto momentum in a matter of months.
+
+But even with a roughly 11,000% gain over the trailing-12-month period, Dogecoin has all the look of a pump-and-dump asset that investors should avoid like the plague. Here are five key reasons Dogecoin belongs nowhere near investors' portfolios.
+
+1. Extremely limited utility
+
+Arguably the biggest knock against Dogecoin, and crypto in general, is that there's virtually no real-world use for these tokens. According to online business directory Cryptwerk, in the neighborhood of 1,300 businesses now accept payment or tips in Dogecoin. Meanwhile, International Business Times listed 48 companies that took Dogecoin as payment six weeks ago.
+
+Neither figure is very high when you consider that the U.S. has more than 32 million businesses by itself and there are an estimated 582 million entrepreneurs worldwide. The point is this: Dogecoin is a novelty "currency" that has virtually no use.
+
+2. Unlimited supply
+
+Like Bitcoin, Dogecoin is a decentralized network that utilizes proof-of-work as a means to validate transactions. This means cryptocurrency miners use high-powered computers to solve complex equations to validate groups of transactions, known as a block. For doing so, they're given a block reward, which currently equates to 10,000 Dogecoin (worth about $2,500).
+
+Here's where things get interesting: A block reward is handed out every minute. That's 600,000 new Dogecoin every hour, 14.4 million new tokens every day, and close to 5.26 billion new Dogecoin being virtually minted every year.
+
+There's no supply cap on how many Dogecoin can circulate. With 129.3 billion Dogecoin already in supply, as of this past weekend, investors are constantly seeing the value of their holdings diluted with each new block reward.
+
+3. A lack of differentiation
+
+If you need another good reason to avoid Dogecoin like the plague, take a gander at its backstory. In 2013, two software developers -- Billy Markus and Jackson Palmer -- came up with the idea of combining two of the buzziest things on the internet at the time into one. They took the extremely popular Shiba Inu dog meme and, after three hours of writing code, turned it into its own cryptocurrency.
+
+Not too long after creating Dogecoin, Markus and Palmer stepped away, leaving community developers to fill the void and ensure the lights stayed on, so to speak. These multiple years without true development have left Dogecoin without much differentiation. This is to say that it's no different than dozens of other tradable cryptocurrencies.
+
+4. No fundamental catalysts
+
+A fourth reason to be highly skeptical of Dogecoin is the lack of true fundamental catalysts. Although the phrase "fundamental catalyst" has a completely different meaning for digital currencies, tangible drivers can be found within the crypto movement. For example, Tesla Motors buying $1.5 billion in Bitcoin and announcing it would accept payment in Bitcoin stands out as a real-world catalyst.
+
+Comparatively, Dogecoin has no real-world catalysts. Its ascent has been driven by social media hype, with none other than Tesla CEO Elon Musk behind most of the pumping.
+
+Since the vast majority of Dogecoin is owned by retail investors and not institutions, emotions have also played a key role. The thing about emotions is that they're short term in nature and can shift at any moment.
+
+5. Even its codeveloper is taken aback by its valuation
+
+If all of this is still not enough to convince you that Dogecoin is an awful investment, listen to what someone who might know a thing or two about Dogecoin had to say: codeveloper Billy Markus. This week on Twitter, Markus, who is no longer involved with the development of Dogecoin, told me that he "like[s] the coin" and that "it's worth whatever people buy it for."
+
+But in an interview with The Wall Street Journal following Dogecoin's ascent to $0.08 earlier this year, Markus proclaimed:
+
+The Idea of Dogecoin being worth 8 cents is the same as GameStop being worth $325. It doesn't make sense. It's super absurd. The coin design was absurd.
+
+Dogecoin may have partially outgrown its meme status, but it'll always be that digital currency founded as a joke that lacks the differentiation and utility to be meaningful in the real world.

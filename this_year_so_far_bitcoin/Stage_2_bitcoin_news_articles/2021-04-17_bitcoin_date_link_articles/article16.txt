@@ -1,0 +1,57 @@
+Speculation about the duration of the current run is endless, with Bitcoin now a stable news item even in the mainstream press. But what’s keeping the BTC price up? Is it simply the relentless slew of good news, or are there on-chain indicators that can predict future price moves?
+
+Since retesting the $50,000 barrier in early March, the price of Bitcoin (BTC) has held pretty consistently above that level. Even a pullback in the last week of March couldn’t sustain, with bulls pushing the price back up toward a new all-time high close to $65,000.
+
+The FOMO effect
+
+The argument that good news is buoying the market is self-evident simply because it’s undeniable that we’ve seen a kind of FOMO snowball effect among institutions over recent months.
+
+The bull run kicked off in the last quarter of 2020, and the fact that prices suddenly spiked in October amid news that PayPal was entering the crypto space cannot be ignored. Further bullish action followed when JPMorgan launched its long-awaited JPM coin.
+
+This year, MicroStrategy went on an epic buying spree, accompanied by Tesla’s endorsement with a $1.5-billion investment. The big banks, including Goldman Sachs and Citigroup, expanding their service offerings to cryptocurrencies has added further credibility to the argument that crypto is taking its place as an established asset class. Most recently, the excitement of Coinbase’s listing on Nasdaq — the first of its kind in the crypto industry — has also played a part in ensuring that digital assets remain firmly on the global news agenda.
+
+On a macro level, the ongoing push to get a Bitcoin ETF approved by United States regulators also provides further bullish sentiments. — although, in the view of one analyst, it could still be another two years before approval is forthcoming.
+
+Was $25,000 an institutional price trigger?
+
+While the theory that good news is propping up Bitcoin prices may not create a long-term bull case in and of itself, the market action has evidently been sufficient to make big investors and institutions sit up and take notice. A report from eToroX published in January, which interviewed institutional players, seems to agree with this notion.
+
+The report found that BTC had to reach a high enough price to make it attractive to institutions when balanced against other barriers to entry, such as regulatory risk, the potential for fraud and access to the necessary infrastructure. One respondent had even gone as far as defining a price threshold of $25,000, indicating that the current prices are more than enough to keep institutional investors engaged.
+
+Johnny Lyu, CEO of KuCoin, also believes that underlying fears regarding the state of the broader markets are playing a part in institutional cryptocurrency adoption, telling Cointelegraph: “The recent rise is related to the fear of long-lasting quantitative easing and global inflation.” He further gave an inside look by saying that “trading behavior on KuCoin shows that Western investors are more involved in this run compared to their Asian counterparts.”
+
+The rationale here is that Western countries have proven less capable of handling the spread of COVID-19, resulting in more government spending and a heavier economic impact. However, Robbie Liu, a market analyst at OKEx Insights, pointed out that there’s still significant interest from Asian investors. He highlighted that the appetite for stablecoins is a bullish signal:
+
+“In the Asian market, USDT also entered a positive premium since March, meaning one USDT has traded above one U.S. dollar. This premium similarly reflects strong demand for access to the cryptocurrency space.”
+
+When good news isn’t necessarily good news
+
+The problem with the idea that prices are driven entirely by positive sentiment resulting from news headlines is that it doesn’t create a case for long-term price sustainability. Put simply, if the good news dries up, prices could reverse, creating a similar snowball effect of bad news in a plummeting market.
+
+From this perspective, it’s worth examining some of the on- and off-chain fundamentals that could be driving prices. Here, there are many reasons to remain positive. However, there are still fundamentals that suggest the 2021 bull run is far from over. Glassnode data shows that the volume of BTC held on exchanges is on a continuous downward trajectory, reducing liquid supply.
+
+However, the number of addresses holding over 1,000 BTC recently hit an all-time high, indicating that more whales than ever are choosing to hodl. Miners have also recently joined the trend, stacking more BTC than they’re selling. If to use the theory of market cycles, it seems inevitable that the bull run will end at some point — the question is when.
+
+All signs point to hodling
+
+If selling activity is any indicator, the peak is still some way off. According to a recent report, long-term hodlers are proving reluctant to let go of their investments, which typically occurs during the second half of a market cycle as they seek to take profits. Therefore, this bull run is particularly unusual, based on previous price peaks. Profit-seekers usually cash out after holding between one week and one month. In this case, they’re hodling firm.
+
+The realized hodl ratio chart also backs up this view, as it’s reliably correlated to all of the previous reversals in BTC macrocycles. As can be seen from the chart below, when the ratio reaches a level above 50,000, the bull market is about to reach its peak.
+
+If history can foretell the future, it will show that the bull run is only around halfway through this cycle, indicating that a $100,000 BTC before the end of this year is well within the realms of possibility. Jason Deane, Bitcoin analyst at crypto advisory firm Quantum Economics, demurred on providing a price prediction. But when speaking to Cointelegraph, he stated:
+
+“Over the longer term, the continued reduction in available Bitcoin on exchanges is very likely to become a bigger factor in price discovery as more and more is removed for very long-term cold storage and new supply, via future halvings, continues to reduce.”
+
+Igneus Terrenus, head of communications at Bybit exchange, considers that the current speculation seen on the derivatives markets can reveal much about what to expect from the rest of 2021. He told Cointelegraph that: “With June, September and December futures trading at high premiums, we can surmise that the market is betting on the bull run to continue for the rest of 2021.” He further added that: “In the longer term, where BTC price goes is as much dependent upon its fundamentals as the strength of the [U.S.] dollar.”
+
+$500,000 and beyond?
+
+According to quant analyst PlanB, the stock-to-flow predictions reveal that the bull run is in an even earlier part of the cycle than the hodl stats indicate. The analyst’s “Situational Awareness Stock-to-Flow Cross-Asset Model” chart has tracked previous bull cycles with eye-opening precision, and hopes are high among the hodlers that this one will not be any different.
+
+My favorite chart for Situational Awareness: S2FX for rough long term level forecast (white line), combined with accurate on-chain bull/bear recognition signal (color overlay). #InOrbeTerrumNonVisi pic.twitter.com/KZcZCzldgI — PlanB (@100trillionUSD) April 4, 2021
+
+Extrapolating the current bull/bear recognition signals out, PlanB’s forecast using the S2FX model calls a 2021 high of $288,000. However, the price peak during this Bitcoin mining reward halving cycle could go as high as $576,000, with the 2021 high forming an average for the entire cycle.
+
+If this seems ambitious, then bear in mind that there’s no precedent in Bitcoin’s history for the kind of institutional inflows that are currently being seen, let alone the lack of liquidity as investors seek to hoard their holdings. So, even previous bull patterns may not be the most reliable predictors for this cycle.
+
+Overall, the solid fundamentals combined with a continuing sense of FOMO from institutions mean that there’s a solid case for believing that this bull market will keep running for quite some time to come.

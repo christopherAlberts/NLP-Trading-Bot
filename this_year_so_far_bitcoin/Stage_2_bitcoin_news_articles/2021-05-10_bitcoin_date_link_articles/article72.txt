@@ -1,0 +1,51 @@
+It's not a bitcoin ETF, but it might be the closest thing we'll have to it right now.
+
+Bitwise Asset Management, the cryptocurrency index provider, is planning on launching the Bitwise Crypto Innovators ETF (BITQ) this week. It's not necessarily the elusive bitcoin ETF that the market has been clamoring for, but it is designed to target companies that operate within the crypto and blockchain spaces.
+
+According to the SEC filing from Bitwise:
+
+"Crypto Innovators" include parties that operate crypto asset trading platforms, custodians and wallets; financial services providers leveraging crypto assets and/or blockchain technology, or other financial institutions principally servicing clientele involved in the crypto ecosystem; distributed ledger infrastructure and transaction validation services (e.g., crypto asset “miners”); and technology hardware, software and solutions providers to participants of the crypto ecosystem. These companies also include issuers that own a material amount of crypto assets or otherwise generate revenues relating to crypto asset or distributed ledger technology.
+
+Dogecoin
+
+As is often the case with funds that target a narrow segment of the market, that companies that qualify for the index is a combination of those tightly and loosely tied to the industry.
+
+The inclusion of crypto trading platforms and custodians makes sense as does the inclusion of blockchain tech companies. Defining "technology hardware, software and solutions providers" can get a little more dicey. A qualifying company may indeed have a presence in the space, but if it's a relatively small portion of their overall business, it could water down the degree of pure crypto exposure.
+
+The index uses a rules-based methodology that segments companies into two primary market segments.
+
+"Tier 1 Companies (“Crypto Innovators”). Companies that: (a) derive more than 75% of their revenue directly from the crypto ecosystem; or (b) have more than 75% of their net assets accounted for by direct holdings of bitcoin, ether, or another liquid crypto asset and, in either case, are not involved in bankruptcy proceedings. Crypto Innovators will make up 85% of the Index at the time of each rebalance."
+
+This segment is your more direct exposure to the crypto space. I'd expect this group to consist of a number of small-cap names, but the 75% requirement helps insure that you're not saturating the fund with ancillary tech companies with a comparatively small presence in the space.
+
+Tier 2 Companies. Companies that are not classified as Crypto Innovators, have a market capitalization of at least $10 billion, and either: (a) have a significant dedicated business initiative explicitly focused on the crypto ecosystem that is reported in at least one of the company’s official quarterly or annual filings from the past 12 months, including initiatives involving the purchase, sale, development, custody, mining, trading, transacting in, processing transactions with, or holding of crypto assets or derivative instruments that track the value of crypto assets; or (b) hold at least $100 million of bitcoin, ether, or another liquid crypto asset as a balance sheet asset. Tier 2 Companies will make up 15% of the Index at the time of each rebalance.
+
+This is the segment that I think needs to be watched carefully. The $10 billion minimum market cap requirement means you're going to have a lot of large-cap tech and financial services companies in this group. It's a similar criticism I have with the Capital Link NextGen Protocol ETF (KOIN). It considers itself a blockchain ETF, but its requirements for what constitutes a presence in the blockchain space are so loose that it ends up looking like a plain vanilla large-cap tech ETF. If you're top holdings are Microsoft, Intel, Visa, NVIDIA and PayPal, how much blockchain exposure are you really getting? The qualification of companies that simply hold at least $100 million of crypto assets could also create some interesting inclusions.
+
+We'll need to see what the fund's composition ends up looking like, but I think the 85/15 allocation target makes sense at a high level and should allow from some pretty direct exposure to the space. It's also worth noting that the fund does not plan on holding cryptocurrencies directly.
+
+Conclusion
+
+Bitwise is a leader in the crypto index space and they've done a real nice job with some of the other indexes they've created, so I'm inclined to believe that this index and this fund will look appropriate to its objective.
+
+I imagine that the fund has the potential of looking a little top heavy. There are only so many companies out there with 75% of their revenue being derived from this space and the fact that 85% of the fund's allocation will go to these companies can heighten concentration risk.
+
+While this ETF likely won't garner the interest that a pure bitcoin ETF would, if it were ever to finally be approved, it should be an intriguing alternative to those still looking for exposure.
+
+Also read:
+
+ARKK Is Down 30% From Its Highs; Is It Time To Sell?
+
+This Multi-Asset ETF With A 10% Yield Could Be Just What Your Portfolio Needs
+
+Top Performing ETFs For April 2021
+
+Bottom Performing ETFs For April 2021
+
+6 ETFs For Giving Your Portfolio Cash A Yield Boost
+
+3 Dividend ETFs To Buy And Hold
+
+A 7% Yield Solution If You're Starting Late Saving For Retirement
+
+10 ETFs Trading For Less Than Book Value

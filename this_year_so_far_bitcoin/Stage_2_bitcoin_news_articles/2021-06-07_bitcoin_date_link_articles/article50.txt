@@ -1,0 +1,43 @@
+Two months have passed since a court first ruled to give Ripple Labs access to the U.S. Securities and Exchange Commission’s internal communications about Bitcoin, Ether and XRP, but the SEC has yet to turn over those documents and the two sides are again “at an impasse,” according to a new legal filing.
+
+“The SEC has yet to produce to Defendants a single OIEA [Office of Investor Education and Advocacy] response or a single internal document,” wrote Ripple’s defense attorneys in a letter to U.S. Magistrate Judge Sarah Netburn on June 4.
+
+In a ruling on April 6, Netburn ordered the SEC to reveal the contents of its communications with third parties as well as within the agency on Bitcoin, Ether and XRP. She reaffirmed her ruling on May 6 and clarified that while informal intra-agency emails need not be searched or logged, “intra-agency memoranda or formal position papers discussing Bitcoin, Ethereum, and XRP must be searched for and produced subject to a privilege assertion.”
+
+Ripple’s defense attorneys are now asking the court to order the SEC to search for and produce documents about Bitcoin, Ether and XRP from the SEC’s FinHub electronic mailbox, the SEC’s internal trading policies, and prescribe a deadline for the SEC to produce the documents.
+
+“The Court should — for a third time — require the SEC to produce these communications with third parties, and should grant any additional relief it deems appropriate in light of the SEC’s repeated noncompliance,” Ripple’s defense attorneys wrote.
+
+“The SEC has repeatedly delayed its production, while telling Judge Torres that the ordered discovery was “irrelevant and needless,”… and asking the Court to extend the discovery deadlines based, inter alia, on the fact that Defendants ‘have raised a number of concerns regarding the SEC’s review and production of internal documents and communications responsive to Judge Netburn’s April 6, 2021 order,'” Ripple’s defense attorneys wrote. “The SEC cites its own delay as a reason for extending the schedule. The only way to solve this problem is with strict deadlines.”
+
+Read more about the SEC and Ripple seeking extensions to deadlines
+
+Why the SEC’s communications on XRP, Bitcoin and Ether matter
+
+The SEC’s internal communications on Bitcoin and Ether has been one of most heated areas of contention in the litigation. Last December, the SEC filed a lawsuit against Ripple alleging that its sale of XRP was an unregistered securities offering worth over US$1.38 billion. The SEC also named Garlinghouse and Larsen as co-defendants for allegedly aiding and abetting Ripple’s violations.
+
+Ripple contends that XRP — like Bitcoin and Ether — is not a security, and the SEC had failed to provide fair notice that XRP transactions violated the law. Ripple also says the agency’s earlier determinations that Bitcoin and Ether were not securities led it to believe that XRP too, would not be deemed a security.
+
+See related article: SEC seeks to knock out Ripple defense, says no duty to warn over XRP
+
+“We are seeking documents exchanged between the SEC and third-parties about Bitcoin and Ether and why they are not securities so that we can apply that to our own XRP,” said Michael Kellogg, one of the attorneys representing Ripple at the April 6 hearing.
+
+At the same hearing, Judge Netburn suggested that the information could be critical to the outcome of the case, as it goes to the heart of Ripple’s defense.
+
+“It is relevant to the Court’s eventual analysis with respect to the Howey factors, but I also think it is relevant as to the objective review of defendants’ understanding in thinking about the aiding and abetting charge or aiding and abetting count. I also think it is relevant to the fair notice defense that Ripple is raising.”
+
+Ripple is also seeking to find out the SEC’s internal employee policies related to the trading of digital assets or virtual currencies — which the SEC has refused to reveal, arguing such information is irrelevant.
+
+“The SEC’s treatment of the trading in digital assets, including any distinctions it draws between XRP and other digital assets, is directly relevant to show the SEC’s own perspective on digital assets, which is relevant both to the applications of the Howey test and Ripple’s fair notice defense,” wrote Ripple’s defense attorneys.
+
+SEC says ‘vast majority’ of responsive documents already produced
+
+But the SEC took issue with Ripple’s assertions that the SEC had failed to comply with its discovery obligations.
+
+“Your complaint that the SEC’s production of external communications is “lacking”… seems largely based on the fact that you have not found the documents you imagined you would in the SEC’s production,” the SEC wrote, in a May 26 email Ripple’s defense attorneys attached as an exhibit to their letter. “The reality is that we have produced to you the vast majority of responsive, non-privileged external e-mail communications for the 19 custodians ordered by the Court.”
+
+The email also revealed that the SEC has provided Ripple with documents received from fintech companies MercuryFX, BC Remittance, GateHub, Revolut and Transpaygo through its requests for assistance from foreign regulations.
+
+The SEC said that it is making “rolling productions of responsive documents,” and “will make every effort to complete our production as soon as possible, and no later than June 18 — two weeks before the current close of discovery and the date Defendants have committed to complete their productions.”
+
+See related article: Are 73 SEC actions against crypto enough warning to Ripple about XRP?

@@ -1,0 +1,37 @@
+She’s launched a line of cheetah-print face masks, strutted on Dancing With the Stars and sold personalized videos of herself to fans via Cameo.
+
+Now Big Cat Rescue founder Carole Baskin is getting into cryptocurrency. Or as she calls it, “purr-ency.”
+
+This week Baskin announced the launch of $CAT, a new digital fan token for supporters of Big Cat Rescue. NFTs, or non-fungible tokens, are coming in a few weeks.
+
+Not sure what any of those words mean? Here’s a quick rundown.
+
+What is cryptocurrency?
+
+Bitcoin is a cryptocurrency founded in 2009.
+
+“The purpose really is to have a decentralized system that people can transact with each other freely,” said Tao Li, assistant professor of finance at the University of Florida’s Warrington College of Business. “We don’t have to go through the traditional financial institutions like a bank or a credit card company.”
+
+Bitcoin transactions are logged in a blockchain, which is essentially a public ledger. Bitcoin miners around the world verify whether these transactions are legit by completing sophisticated mathematical questions. It’s a competition to see who can verify the fastest — whoever wins is rewarded with newly minted bitcoins, Li explained.
+
+Altcoins, also known as creator coins, emerged in 2018 as a Bitcoin alternative. These tokens are based on their own blockchains and have different purposes, Li said. Here’s where Baskin’s $CAT comes into play — although the announcement on Big Cat Rescue’s website calls it “not a currency nor investment, but rather is a purr-ency and the first of its kind as a fan token for supporters of Big Cat Rescue.”
+
+“There are five other animal themed tokens to date: Dogecoin (dog), TrueFlip (dolphin), Nyancoin (cat), Pandacoin (panda) and Neucoin (squirrel) but none of these represent a fanbase for a non profit sanctuary nor an organization dedicated to protecting animals,” reads the announcement.
+
+What does it get you?
+
+$CAT can be purchased for $5 on Rally.io, a website that allows people to launch their own digital currency. According to Big Cat Rescue’s Rally page, $CAT will grant access to virtual visits with the animals at the sanctuary, as well as live walkabouts and conversations with Carole Baskin. Buyers will be able to join premium rooms and experiences with Baskin on Clubhouse, access to private chats and participate in AMAs, or “ask me anything” sessions.
+
+There will also be an augmented reality zoo where users can collect exotic cats and play a virtual reality game.
+
+“Gaming can reach younger audiences with the message that big cats are not to be held hostage, and virtual big cats could be pre programmed to resist such egomaniacal efforts through peeing on and constantly attacking their owners. (Just like in real life!)” the Rally page reads. “The ultimate goal of all of this is to end the abuse inherent in holding wildcats captive and creating remote camera feeds that bring the wild cats into your headsets and hands doing what they naturally do in the wild.”
+
+What about NFTs?
+
+Bitcoins are fungible, meaning they can be traded for another identical bitcoin or divided up into smaller pieces. Non-fungible tokens, or NFTs, are also on blockchains, but each is unique and cannot be sold as smaller parts, Li explained. Instead, buyers can own a unique piece of information written into something, like the first Tweet that Twitter founder Jack Dorsey ever sent out.
+
+How does this impact the environment?
+
+Baskin hopes to use $CAT to raise awareness for animal conservation. However, cryptocurrency is known for its negative impact on the environment. As miners are solving a block and competing for a reward of new Bitcoins, high-powered computers are consuming a lot of electricity.
+
+“I actually haven’t seen very good ways to bring down the cost of electricity as long as somebody is using high power computing facilities,” Li said.

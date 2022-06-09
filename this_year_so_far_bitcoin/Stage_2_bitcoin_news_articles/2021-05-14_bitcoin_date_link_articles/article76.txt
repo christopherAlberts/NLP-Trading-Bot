@@ -1,0 +1,57 @@
+By Tuong Nguyen, Senior Principal Analyst at Gartner, Inc.
+
+In today’s fast-paced digital world, the most impactful technologies and trends are quickly evolving and have the potential to disrupt and transform business markets. Gartner has identified 23 technologies on the Gartner Emerging Technologies and Trends Impact Radar for 2021, which will have a broad influence across industries, organizations and consumer interactions.
+
+Some of these technologies, such as advanced virtual assistants, are right around the corner. Others, including AR cloud, are further out. Overall, these technologies align to three themes:
+
+Interfaces and experiences : Technologies that are fundamentally changing the way we interact with the world.
+
+Business enablers : Technologies that impact enterprises by changing practices, processes, methods, models or functions.
+
+Productivity revolution : The confluence of multiple technologies and trends that help organizations quickly, accurately and in greater volume, classify, predict and solve problems that humans cannot.
+
+Product leaders must explore these critical emerging technologies now to remain competitive, capitalize on market opportunities and differentiate their offerings. Here are four of the key technologies from the Gartner 2021 Emerging Technologies Impact Radar that could have an impact on existing products and markets in the coming years.
+
+Advanced virtual assistants
+
+Time to market: 1-3 years
+
+Advanced virtual assistants, sometimes referred to as AI conversational agents, process human inputs to deliver predictions and decisions. They are powered by a combination of conversational user interface, natural language processing (NLP), and semantic and deep learning techniques, such as deep neural networks (DNNs), prediction models, decision support and personalization.
+
+The estimated time to market is driven by the expansion of current, limited function virtual assistants (which have been around for years now) to advanced virtual assistants that target a multitude of jobs and functions; the latter will propel the expansion of AI conversational agents into every sphere of consumer lives, business interactions and operations.
+
+The impact potential of advanced virtual assistants is high because the technology can be utilized in nearly every vertical segment and almost all disciplines; this has the potential to transform the nature of how an application is used for the workforce and how consumers interact with devices and the IoT (Internet of Things) while enhancing customer experience and engagement.
+
+Transformer-based language models
+
+Time to market: 1-3 years
+
+Transformer-based language models are DNNs that process words as sequences in a sentence; this approach preserves the context or meaning of surrounding terms and also substantially improves translation, transcription and natural language generation. Transformer-based language models are trained on enormous datasets of billions of phrases.
+
+The time to market is driven by the effectiveness of the training tools, runtime efficiency and ease of deployment. Models, such as GPT-3, have the capability to generate paragraphs of text that are indistinguishable from those written by a well-educated human.
+
+The impact potential of transformer-based language models is very high because they are displacing recurrent neural networks (RNNs) systems at a surprising rate. Further, new tools deliver substantial improvements in advanced text analytics and all related applications, such as conversational user interfaces, intelligent virtual assistants and automated text generation.
+
+Packaged business capabilities
+
+Time to market: 3-6 years
+
+The composable business enables organizations to create custom application experiences from application components that they buy or build. To support the composable business, technology providers should deliver packaged business capabilities, which represent a well-defined set of features that are recognizable as such by a business user.
+
+The time to market is driven by the high number of vendors that have modularized their offerings. That being said, despite this progress, smaller providers and providers transitioning from older technologies still find themselves in the earliest stages of API adoption.
+
+The impact potential of packaged business capabilities is medium because the technology typically represents a repackaging of existing capabilities, but the widespread implementation of the composable business will transform the way that traditional providers market, sell and deliver their solutions.
+
+AR Cloud
+
+Time to market: 6-8 years
+
+AR cloud enables the unification of physical and digital worlds by delivering persistent, collaborative and contextual digital content overlaid on people, objects and locations to provide users with information and services directly tied to every aspect of their physical surroundings.
+
+For example, any individual can receive fare, route, schedule and routing information about public transit based on their context (personal status, geolocation, calendar appointment, travel preferences, etc.), by simply “looking at” a bus or bus station with your phone, tablet or head-mounted display (HMD). Further information can be crowdsourced, such as how often the bus has been late in recent weeks.
+
+The time to market depends on numerous, underlying elements such as edge networking, high bandwidth and low-latency communications, standardized tools and content types for publishing to the AR cloud. Management and delivery of content, and interoperability to ensure seamless and ubiquitous experiences are critical factors as well.
+
+The AR cloud’s potential impact is very high because it will transform how people will interact with the world around them. The AR cloud will provide a digital abstraction layer for people, places and things and its impact will span business, consumer applications and every industry regardless of geography; this will enable new experiences and, in turn, new business models and ways to interact and monetize the physical world.
+
+Tuong Huy Nguyen is a Senior Principal Analyst at Gartner, Inc. and part of Gartner’s Emerging Technologies & Trends team, where he leads research on immersive technologies, computer vision and human-machine interfaces. Gartner analysts will provide additional analysis on how technology service providers can accelerate growth, drive product innovation and leverage emerging technologies at the Gartner Tech Growth & Innovation Conference 2021, taking place virtually July 20-21 in the Americas.

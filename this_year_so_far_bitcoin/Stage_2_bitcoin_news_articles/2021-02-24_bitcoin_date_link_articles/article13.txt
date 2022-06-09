@@ -1,0 +1,35 @@
+Bitcoin’s rapid recovery from the biggest two-day sell-off in almost a year shows the power of a recently overlooked factor in cryptocurrency markets: demand from Chinese retail traders.
+
+Prices for the largest cryptocurrency were higher on Wednesday, stabilizing around $49,000, after tumbling 15% in the prior two days.
+
+The sudden demand for bitcoin (BTC) from Chinese traders, possibly motivated by the price drop, can be viewed through a hitherto largely ignored metric: the “tether premium” – or the difference between prices quoted in yuan on the dollar-linked stablecoin tether (USDT) by over-the-counter cryptocurrency traders, and the implied yuan-denominated price for tether based on the prevailing rate in global markets.
+
+Related: Canada's CI Global Files for What Would Be World's First Ether ETF
+
+Under normal market conditions, tether should have depreciated against the yuan because the Chinese currency was appreciating against the dollar in foreign-exchange markets. However, tether denominated in Chinese yuan has traded at a premium since last week, ostensibly due to elevated demand from the country’s traders, who routinely use the stablecoin as an on-ramp to crypto markets. The practice of trading directly from government-issued currencies is still banned in China.
+
+“More Chinese investors have begun to enter the market, even though the bull market since 2020 has been mainly driven by U.S.-based institutional investors,” Flex Yang, founder and chief executive officer of Hong Kong-based crypto lender Babel Finance, told CoinDesk. “Chinese investors, especially those with very little bitcoin exposure, are now looking for channels to buy bitcoin. And buying bitcoin through USDT is the most direct channel, which led to an increased demand for USDT in the [over-the-counter] market.”
+
+Tether has been sold at premium on Huobi OTC since last Friday, according to a spokesperson from the parent crypto exchange Huobi. The premium went as high as 2% on Tuesday. Under normal market conditions, the premium is zero or negligible.
+
+Story continues
+
+“As people rush into the market in a bull run, the demand for USDT rises significantly,” Ciara Sun, vice president of Huobi Global Markets, told CoinDesk. “OTC merchants will also take the opportunity to raise prices that are far beyond the exchange rate.”
+
+Related: Coinbase's Financials Are Now Public Ahead of Stock Market Listing
+
+At OKEx, another Asia-focused cryptocurrency exchange, its over-the-counter desk also saw rising prices for tether, when denominated in Chinese yuan.
+
+“Some traders are buying tether in order to buy the general dip in the market,” said Robbie Liu, a market analyst at OKEx Insights.
+
+Liu said the so-called tether premium doesn’t simply imply rising demand for cryptocurrencies from new investors because during a volatile market many experienced traders will buy more tether to maintain margin requirements on leveraged positions.
+
+The renewed interest in bitcoin and other cryptocurrencies from the retail market in China, which was the main driver of the last crypto bull market in 2017, might stem from mainstream media coverage in China, said Mable Jiang, a principal at crypto investment firm Multicoin Capital. She pointed out that people in China have been buying the market dip in the past few days.
+
+In a rare report on Sunday, CCTV 2, the state-controlled finance television channel, gave an update on the bitcoin market, claiming the cryptocurrency’s return since March 2020 has surpassed 1,300%. The stated performance record reflects what is perhaps the most bullish framing of bitcoin’s price run because it uses last year’s lows as the starting point and goes through the recent all-time high price above $58,000. But it’s not wrong.
+
+The TV channel’s report continued by elaborating on Bill Gates’ changing attitude towards bitcoin (he’s neutral now instead of negative) and ARK Investment’s Cathie Wood’s support of bitcoin.
+
+“As bitcoin continues rising, more and more corporates have announced that they are considering bitcoin as part of their asset allocation,” the news anchor said on CCTV 2.
+
+Related Stories

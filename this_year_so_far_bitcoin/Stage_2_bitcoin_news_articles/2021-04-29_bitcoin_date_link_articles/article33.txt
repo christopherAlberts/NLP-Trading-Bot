@@ -1,0 +1,43 @@
+Cryptocurrency traders were agog last August when prices for the digital token serum (SRM) jumped 10-fold on its first day of trading after being listed on Binance, the world’s largest cryptocurrency exchange by volume.
+
+But another 10-fold increase since then is sparking a new wave of speculation among digital-market analysts over the token’s future – apparently tied to the growing popularity of the affiliated decentralized exchange Serum, which is built on top of the Solana blockchain, and championed by Sam Bankman-Fried of the FTX crypto exchange and Alameda Research trading firm.
+
+Prices for the SRM token shot up Tuesday to an all-time high of $11.13, according to the data firm Messari. The market capitalization now sits around $500 million, well below the $22 billion for the leading decentralized exchange Uniswap’s UNI token but still enough to turn heads. As of press time, SRM was changing hands at around $9.27.
+
+Related: Why Is Ether Rising, Bitcoin Stalling? BNY Mellon on Its Move Into Crypto
+
+Some analysts have attributed the recent success of the Serum project and Solana blockchain to their association with Bankman-Fried, who garnered headlines recently for his $135 million deal to name the basketball team Miami Heat’s home arena after the FTX exchange. According to a blog post last July, FTX and Alameda support Serum and choose Solana as its foundational blockchain.
+
+“Traders perhaps saw Alameda Research-related names as safe havens” during last week’s crypto-market sell-off, said Mira Christanto, a research analyst at Messari.
+
+Bankman-Fried, who serves as CEO of FTX, told CoinDesk in a LinkedIn chat that he isn’t sure why serum has surged this week in particular, but he said it was “probably” following Solana’s SOL tokens, which have climbed 24-fold this year, for a market value of between $12 billion and $22 billion, depending on how it’s calculated.
+
+Story continues
+
+Earlier this month, Alameda Research led investors in a $2 million fundraising round for Step Finance, a trading dashboard born out of a Solana-focused hackathon. The Solana Foundation, which supports development on the Solana blockchain, received $40 million in fresh funding in March.
+
+Related: Commerzbank, Deutsche Börse Team Up for Tokenized Real Estate and Art Marketplace
+
+A key talking point on Serum is that it provides a user experience similar to what traders see on big centralized cryptocurrency exchanges. That could make the project more attractive to traders who seek transactions that are faster and cheaper but also easier to use when compared with other decentralized exchanges, such as PancakeSwap on the Binance-backed blockchain Binance Smart Chain.
+
+PancakeSwap has received criticism for being a copycat of Uniswap, which sits atop the Ethereum blockchain.
+
+“Serum is very different from Ethereum-based DEXs because it built a central limit order book (CLOB), which is what you would typically see in centralized exchanges,” Christanto said. “This isn’t possible on Ethereum or Binance Smart Chain, where automated market makers (AMMs) are more popular.”
+
+A central limit order book is possible on Solana partly because of its high scalability, supporting 50,000 transactions per second (tps). On Binance Smart Chain, the maximum is 300 tps. On Ethereum, it’s 18 tps.
+
+“Solana isn’t as fast as centralized exchanges, like FTX, but it is the first decentralized exchange to be able to provide a CLOB,” Christanto said.
+
+Read More: PancakeSwap, Uniswap, SushiSwap and More: What to Consider When Parking Crypto in a DeFi Exchange
+
+Danny Kim, head of revenue at crypto prime dealer SFOX, said serum’s recent price gains may also be the result of excitement over Step Finance, which offers up to 3,500% annual percentage rate (APR) on deposits of its STEP tokens. All asset pools, liquidity and swaps on Step Finance are routed via Serum, according to Step Finance’s website.
+
+As Anatoly Yakovenko, co-founder of Solana Labs, wrote in a post on Medium, if the first phase of decentralized finance – DeFi 1.0 as it were – was focused on innovation in money markets, including lending and borrowing, then DeFi 2.0, as powered by Serum, would bring “high-speed trading and derivatives.”
+
+“Solana has become a protocol for traders, with a number of projects being built to focus on what traders and investors will need in DeFi,” SFOX’s Kim said. “Fast, secure and scalable.”
+
+Automated market makers “have grown in popularity on Ethereum primarily because they make it easy for yield and risk-insensitive asset owners to provide liquidity to the market,” Yakovenko wrote. “However, that doesn’t mean that AMMs are the optimal mechanism to provide liquidity. AMMs are obviously lacking in many dimensions. Most notably, capital efficiency.”
+
+It’s still wait-and-see whether Serum will eventually pose any real threats to popular DEXs on Ethereum and BSC. Data from CoinGecko shows that Serum has about $52 million in daily trading volume, while on Ethereum-based Uniswap, the 24-hour trading volume was at more than $1.3 billion at press time, according to Dune Analytics.
+
+Related Stories

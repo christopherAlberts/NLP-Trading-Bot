@@ -1,0 +1,36 @@
+SINGAPORE, Jan. 7, 2021 /PRNewswire/ -- EQUOS, the cryptocurrency exchange of Diginex Limited (Nasdaq: EQOS), the digital assets financial services company, announced today that it has launched its Bitcoin (BTC) Perpetual Futures Contract (BTC/USDC(F)).
+
+The successful launch of the BTC Perpetual is a major milestone in the roadmap of derivative products that are being introduced by EQUOS. Derivatives linked to traditional financial assets like equities, commodities or foreign exchange often eclipse the value traded in the underlying spot markets by hundreds of times.
+
+Derivative products are nascent in the digital asset industry and are presently not offered by some of the major digital asset exchanges. From near nonexistence only a few years ago, the size of the virtual currency derivatives market has begun to show signs of its immense growth potential, growing at over four times the spot market during the third quarter of 2020[1] and reaching a volume peak of $67 billion in a day at the end of November[2].
+
+The Perpetual contract is well suited to the current trading environment and can be conveniently used for macro position taking as well as for risk management purposes. The product is designed to ensure that professional traders and institutional investors can always benefit from transparent and fair market conditions. Prices and liquidity on the EQUOS exchange are only provided by independent market makers and EQUOS does not make markets on its own platform, ensuring that all traders always have equal visibility of the orderbook.
+
+In addition, the EQUOS BTC Perpetual contract is underpinned by a Liquidation Platform that is exclusively dedicated to handling liquidation events. Pricing in the pool is provided by several independent market makers that add depth and price competition to ensure that liquidation orders are executed at the market price. If there is insufficient liquidity to handle the size of liquidated positions, the main EQUOS order book can act as a backup. EQUOS also provides a final backstop for liquidation events through its Liquidation Reserve, which is part funded by liquidation fees and a portion of trading revenues.
+
+Richard Byworth, CEO of Diginex commented: "A functional, robust derivatives market is critical to providing liquidity and risk management opportunities for traders and is key to attracting institutional investment into cryptocurrencies and digital assets more broadly."
+
+"Our goal is to develop product with functionality that will facilitate wider institutional and professional trader adoption of cryptoassets. This is just the first in a product suite that will offer investors more dynamic hedging tools, fairer liquidation, a platform that is not trading against its users and reputational protection for investors seeking a KYC/AML compliant ecosystem."
+
+Neil Sheppard, COO Financial Services at Diginex said: "We are pleased to bring to the market a perpetual product which is uniquely designed to ensure that we can deliver optimal opportunities to manage risk and exposure for professional and institutional traders as well as retail customers, while also providing a fair liquidation process."
+
+"In this way, traders will be able to gain exposure to the largest cryptocurrency by market capitalization, and benefit from price movements in a controlled environment."
+
+About Diginex
+
+Diginex is a digital assets financial services company focused on delivering a cryptocurrency and digital assets ecosystem offering innovative product and services that are compliant, fair and trusted. The group encompasses cryptocurrency exchange EQUOS.io as well as an over-the-counter trading platform. It also offers a front-to-back integrated trading platform Diginex Access, a securitization advisory service Diginex Capital, market leading hot and cold custodian, Digivault and funds business Bletchley Park Asset Management. For more information visit: https://www.diginex.com/
+
+Follow Diginex on social media on Twitter @DiginexGlobal, on Facebook @DiginexGlobal , and on LinkedIn . Follow EQUOS.io on social media on Twitter @EQUOS_io and on LinkedIn .
+
+Forward Looking Statements
+
+This press release includes forward looking statements that involve risks and uncertainties. Forward looking statements are statements that are not historical facts. Such forward-looking statements are subject to risks and uncertainties, which could cause actual results to differ from the forward-looking statements. These risks and uncertainties include, but are not limited to, those factors described in the section entitled "Risk Factors" in Diginex's Registration Statement on Form F-4 jointly filed bv Diginex and 8i Enterprises Acquisition Corp. ("8i")pertaining to the Business Combination (the "Form F-4"). Important factors, among others, that may affect actual results or outcomes include; the inability to recognize the anticipated benefits of the proposed transaction, which may be affected by, among other things, the amount of cash available following any redemptions by 8i shareholders; the ability to meet Nasdaq's listing standards following the consummation of the proposed transaction; and costs related to the proposed transaction. Important factors that could cause the combined company's actual results or outcomes to differ materially from those discussed in the forward-looking statements include: Diginex's limited operating history and history of net losses; Diginex's ability to manage growth; Diginex's ability to execute its business plan; Diginex's estimates of the size of the markets for its products; the rate and degree of market acceptance of Diginex's products; Diginex's ability to identify and integrate acquisitions; potential litigation involving Diginex or the validity or enforceability of Diginex's intellectual property; general economic and market conditions impacting demand for Diginex's products and services; and such other risks and uncertainties as are discussed in 8i's prospectus filed in connection with its initial public offering and the proxy statement to be filed relating to the business combination.
+
+Diginex expressly disclaims any obligations or undertaking to release publicly any updates or revisions to any forward-looking statements contained herein to reflect any change in the Diginex's expectations with respect thereto or any change in events, conditions or circumstances on which any statement is based.
+
+SOURCE Diginex Limited
+
+Related Links
+
+https://www.diginex.com/
+

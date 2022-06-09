@@ -1,0 +1,47 @@
+It has been a big year for cryptocurrency. Bitcoin is worth six times what it was 12 months ago, and the joke currency Dogecoin has seen a hundredfold increase in price. A boom in “non-fungible tokens”, or NFTs – tradable tokens based on the same technology as cryptocurrency – is transforming the art market.
+
+With this growth has come renewed scrutiny, with critics attacking Bitcoin in particular as a speculative bubble that uses vast amounts of electricity and produces no real value.
+
+A new cryptocurrency called Chia, which has just begun trading, sets out to remedy these flaws while upholding cryptocurrency’s promise of a secure, decentralised form of payment.
+
+Chia is the brainchild of Bram Cohen, who invented the BitTorrent peer-to-peer filesharing system. He claims it will be more reliable than other cryptocurrencies, and more environmentally friendly too.
+
+What is cryptocurrency?
+
+Unlike traditional currencies such as the dollar or euro, which are issued by central banks and rely on trust in governments, cryptocurrencies rely on a decentralised database called a blockchain, secured by sophisticated cryptographic tools.
+
+The first cryptocurrency was Bitcoin, released in 2009, and today there are at least 5,922 cryptocurrencies available. Bitcoin is still by far the biggest; the total value of all Bitcoin now in existence is some US$1.2 trillion.
+
+Read more: Demystifying the blockchain: a basic user guide
+
+Despite this booming popularity, very few retailers accept cryptocurrency as payment.
+
+Governments around the world are also exploring digital currencies. The Bank of England is hiring a dedicated team to explore the possibilities in this area, while the Australian Stock Exchange is reviewing applications for a cryptocurrency-based exchange-traded fund. Germany is one of the frontrunners in embracing crypto, and is heavily investing in blockchain solutions for institutional investment.
+
+How is Chia different from Bitcoin?
+
+Bitcoin and most other cryptocurrencies use a system in which currency is created or “mined” using computers to solve mathematical puzzles. These are known as “proof of work” systems — solving the puzzle is proof that your computer has done a certain amount of work.
+
+Read more: The 'utopian' currency Bitcoin is a potentially catastrophic energy guzzler
+
+Doing this work takes specialised hardware and lots of energy. Bitcoin mining has helped create shortages of graphics processors, and by some estimates it is more energy-intensive than copper mining and uses more electricity than some entire countries.
+
+Chia runs on a system that should use less energy, called “proof of space and time”. In this system, users need to show they have reserved a specific amount of hard drive space at a precise time.
+
+So Chia won’t use huge amounts of electricity, and won’t see miners buying up every graphics card in sight. But the requirement for hard drive storage space may lead to other drawbacks.
+
+Hard drive price surge
+
+Even before its official launch, Chia has used more than an exabyte of data storage. That’s the equivalent of about a million of the 1 terabyte hard drives you might find in an average desktop computer.
+
+According to the South China Morning Post, hard drive prices in China have begun to soar as Chia miners stockpile storage. The price of 12-terabyte drives has increased by 59% since Chia was announced in February this year, and most professional-quality hard drives with more than 8 terabytes of capacity are sold out.
+
+Vietnam is also seeing hard drive shortages as a result of China’s Chia craze.
+
+Shutterstock
+
+We may well see similar effects in other countries in the not too distant future. At present, Chia lacks the name recognition and celebrity endorsements that have helped the likes of Bitcoin and Dogecoin to soar, but it has a clear cost advantage.
+
+We can expect cryptocurrency miners will be inclined to try Chia, as a cheaper option than established cryptocurrencies. Eventually, hard drive manufacturers may also revise their prices to increase their own revenue.
+
+Time will tell how Chia ends up performing on the market. If it takes off, we can expect a boom in hard drive prices. But on the flipside, it might also mean graphics processor prices come back down.

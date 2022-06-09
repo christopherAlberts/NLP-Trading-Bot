@@ -1,0 +1,17 @@
+Bitcoin’s falling market liquidity – how much is available for trades – is raising the risk of wild price swings, according to analysts at JPMorgan.
+
+“Market liquidity is currently much lower for bitcoin than in gold or the S&P 500, which implies that even small flows can have a large price impact,” bitcoin’s falling market liquidity – how much is available for trades – makes it prone to wild price swings, JPMorgan’s Nikolaos Panigirtzoglou wrote in a note on Friday, as reported by Bloomberg.
+
+While bitcoin has rallied by over 300% since mid-October, the number of coins held in exchange addresses has declined by 6.6% to 2.38 million, according to Glassnode data. This sell-side liquidity shortage has been exacerbated by strong institutional demand, allowing the steep price rally to record highs over $58,000 Sunday.
+
+Related: Shares in Iced-Tea Maker-Turned Blockchain Firm Delisted by SEC
+
+The low liquidity is also evident from bitcoin’s average daily spot and futures market volume of $10 billion, which is just 10% of gold’s $100 billion, according to Panigirtzoglou. Hence, relatively few large buy or sell orders could lead to significant price moves either way.
+
+Also read: Bitcoin Scales $58K for First Time; YTD Gain Over 98%
+
+Bitcoin’s three-month realized volatility, its level of actual price fluctuation over the past 90 days, stood at 92% on Sunday, the highest since June 9, 2020, according to Skew. Meanwhile, the three-month implied volatility, or investors’ expectations of price swings over the next 90 days, was 94%.
+
+At press time, bitcoin is trading near $54,070, representing a 5.7% drop over 24 hours, according to CoinDesk 20 data.
+
+Related Stories

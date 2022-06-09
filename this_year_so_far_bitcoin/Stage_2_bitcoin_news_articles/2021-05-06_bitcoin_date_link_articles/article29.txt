@@ -1,0 +1,77 @@
+Most of the subjects we tackle here in Know Your Options are about equity options. The bulk of Zacks’ research is in equities, so I assume that most of our readers who trade options are looking to speculate on a stock, protect a position in a stock or make income from selling options on a stock.
+
+Lately, though, there’s been a lot of interest in trading futures and options on cryptocurrencies like Bitcoin. So I’m going to do a multi-part series on the trading instruments and venues available to traders.
+
+I’ll start with a quick primer on how someone might speculate or hedge with exchange-listed commodity options.
+
+Trading futures and futures options can seem intimidating, but the basic concepts aren’t really all that different from equity options. You’ll just need to familiarize yourself with some small mechanical differences.
+
+If you have an opinion on the direction of commodity prices, you’ll find liquid futures and options available on the CME Group’s (CME) Globex trading platform. In the late 1970’s, the CME pioneered the development of futures contracts that had a financial instrument as the underlying rather than a physical commodity. You can trade futures and options on bonds, interest rates, stock indices and even the weather.
+
+Those product offerings now include futures and options on Bitcoin. They offer a “full-size” Bitcoin contract for which the underlying is 5 Bitcoin and a “micro” contract for 0.1 Bitcoin. Both are quoted in terms of the price one coin. Because of the opportunity for traders to make low-risk arbitrage profits if the prices were to diverge, you’ll find that the prices on the two contracts are almost always identical.
+
+Options are only available on the full-size contracts.
+
+Futures
+
+First, you’ll need to be able to trade futures in your brokerage account. This process is different at each brokerage house, but almost all the popular online brokerages now offer futures trading.
+
+Story continues
+
+Next, you’ll need to understand the contract specifications. In the case of Bitcoin, each contract is for 5 Bitcoin and the prices are quoted per/coin. So if you were to buy one Bitcoin futures contract for a price of $55,000, you now own 5 coins for a total notional value of $275,000. If the price increases to $56,000/coin and you sell, your profit would be $5,000 (net of commissions and fees.)
+
+The important thing to remember is that these are big contracts. When the price of Bitcoin moves $1, you make or lose $5. At $58,000 and moving $1,000 or more during nearly every trading session, the p/l will pile up fast!
+
+Note: With commodity options, you’re generally going to want to close a futures position prior to expiration. Though there are colorful anecdotes about a trader who neglects to close a position and has 5,000 bushels of corn deposited on his front lawn and it’s good comedy, it’s not true. Physical delivery occurs at railway junctions or ports and if you accidentally take delivery, it’s not going on your lawn, but you will pay steep fees to re-sell the physical product.
+
+In the case of Bitcoin, this is less of an issue. Because the final settlement happens in cash, you could simply let contracts expire and the clearing house will post a credit or debit in US dollars to your account.
+
+You may still observe extreme price volatility in the expiring contracts as they are about to expire, so it’s still a good idea to either close a position or “roll” it forward to another contract month before expiration.
+
+Options
+
+CME’s options contracts settle to futures contracts. That means that if you own a call option that expires in the money, you are now long a futures contract at the strike price. In the same example as above, if you purchased a call with a strike of $55,000.
+
+If the price of a Bitcoin was $56,000 when the call expired, you’d buy one futures contract for $55,000 which you could either liquidate for a total profit of $5,000 ($1,000 per coin times 5 coins) or which you could continue to hold.
+
+Bitcoin options are European-style, so they can only be exercised/assigned at expiration.
+
+If you didn’t want the futures contract, you could simply sell the option in the open market prior to expiration. If it’s in the money, there’s a good chance it will be trading for very close to its intrinsic value on the final day of trading.
+
+All the terminology regarding bid/ask spreads, multi-leg spread trading, and the general mechanics of the market are the same as equity options. Just as with stock options cleared by the Options Clearing Corporation, the CME Clearing Corp acts as the counterparty to all transactions, guaranteeing the trades by requiring margin deposits. There is no counter-party risk.
+
+CME
+
+Your most important resource is going to be the CME’s website. It’s full of information about contract specs and the mechanics of trading and expiration – including especially dates and times.
+
+Trading futures and options on futures doesn’t need to be confusing. If you’re aware of the differences between having futures as the underlying instead of shares of stock and the different contract specifications, it’s really not any more complicated than trading options on individual equities.
+
+Just make sure you’re acquainted with the products you’re trading and then go take your position.
+
+Next week in Know Your Options, we’ll take a look at some ways to gain Bitcoin price exposure using conventional equity options. If you have any specific questions about trading crypto options, drop me a line at dborun@zacks.com and I'll do my best to address them.
+
+-Dave
+
+David Borun runs the Zacks Marijuana Innovators Portfolio as well as the Black Box Trading Service and the Short Sell List Trading Service. Want to see more articles from this author? Scroll up to the top of this article and click the “+Follow” button to get an email each time a new article is published.
+
+Want to apply this winning option strategy and others to your trading? Then be sure to check out our Zacks Options Trader service.
+
+
+
+
+
+
+
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+
+
+
+CME Group Inc. (CME) : Free Stock Analysis Report
+
+
+
+To read this article on Zacks.com click here.
+
+
+
+Zacks Investment Research

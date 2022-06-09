@@ -1,0 +1,59 @@
+Some 15% of the American public owns some form of cryptocurrency – and a large part of that group jumped on the bandwagon in the last two years. The digital currencies – Bitcoin is the most famous, but there are scores of others – offer users a distinct set of advantages, based on their blockchain technology. First, the crypto coins are secure – as a digital technology, blockchain is notoriously difficult to break. Second, the coins have the chief attribute of any store of value: scarcity. There is a mathematical limit to how many Bitcoin, for example, will ever exist – and that limit gives them their value. People want a secure online currency, are willing to pay for it, and the relatively scarce (compared to traditional fiat currencies) crypto coins offer both attributes. The result, in recent years, has been a boom as investors have started looking seriously at the crypto sector.
+
+Of course, any digital currency is going to need a range of services to be usable. Financial companies, to back it, and payment servers, to handle transactions, to name just two. Other companies and major business figures – Elon Musk comes readily to mind – will invest heavily in it. All of this creates a landscape in which investors can profit from crypto without ever buying an actual coin. They can buy into the companies that are poised to ride the cryptocurrency boom to higher profits.
+
+How big is crypto? The market for it surpassed $2 trillion earlier this month, a number that’s hard to get your head around. So, as usual, we’ve turned to the TipRanks platform to help us make sense of the equity landscape as pertains to crypto. We’ve located three stocks – from different sectors – that according to some of the Street’s top analysts are all set to deliver crypto charged gains. Let’s dive in.
+
+Silvergate Capital (SI)
+
+We’ll start in the financial world, fitting when we’re discussing a new financial asset like crypto. Silvergate Capital is a commercial bank, chartered in California and providing financial services and infrastructure to customers in the digital currency industry. Silvergate has been in the finance industry for over 3 decades and has turned a profit every year for the last 21 years.
+
+Story continues
+
+Silvergate got into digital currency in 2013, with an active pursuit of digital currency customers. Today, the company has over 1,100 customers in this sector. In March of this year, Silvergate expanded its digital currency services, using a custody service to hold Bitcoin as collateral for US dollar commercial loans. The service offers large Bitcoin holders a way to access liquid capital without selling off the underlying cryptocurrency. Silvergate provides custody for the Bitcoin collateral through Coinbase and Fidelity Digital Assets.
+
+In the recent financial release, for 1Q21, Silvergate reported EPS of 55 cents per share, beating the industry estimates by 14% and better yet, growing 139% year-over-year. Supporting the earnings growth, Silvergate recorded 29% customer base growth year-over-year. Digital currency deposits grew from $5 billion at the end of December to $6.8 billion at the end of March.
+
+The company’s rapid growth can also be seen in the share value, which is up an astounding 582% in the past 12 months.
+
+5-star analyst Joseph Vafi, of Canaccord Genuity, is impressed by Silvergate’s growth in digital currency banking, and writes, “Silvergate delivered again in Q1, highlighted by another near 40% sequential increase in deposits on top of the 130+ % q/q increase in Q4. This impressive deposit growth was driven by similarly strong growth in demand for use of the Silvergate Exchange Network (SEN) as institutional interest in bitcoin continues to accelerate. Just as important are the implications of the two strategic deals with Fidelity and Coinbase inked in Q1. In our view, it is becoming clear that not only is it emerging as a key financial services cog across all of institutional cryptocurrency trading, but SI is now becoming the key partner for cryptocurrency custodians seeking to offer margin lending. Importantly, Silvergate has a core competitive cost advantage in crypto margin lending, given its underlying bank charter which provides a very low cost of capital via raising zero interest customer deposits.”
+
+Vafi, who is rated in the top 100 of Wall Streets analysts, puts a Buy on SI shares, and his $150 price target suggests the stock has room for 36% growth this year. (To watch Vafi’s track record, click here.)
+
+Canaccord’s Vafi is no outlier in his bullish views. Silvergate has 5 recent reviews, and they include 4 Buys against a single Hold, for a Strong Buy consensus rating. The stock’s share price is $107.22, and the average price target of $158 implies a 45% upside – even more bullish than Vafi allows – for the coming year. (See Silvergate’s stock analysis at TipRanks.)
+
+PayPal Holdings, Inc. (PYPL)
+
+While Silvergate is hardly a household name, PayPal has become one. The company is the market leader in online payment processing, a booming industry in itself, and its top line revenue grew from $17.7 billion in 2019 to $21.4 billion in 2020. The company recorded sequential increases in revenue the second, third, and fourth quarters of last year, and saw Q4 EPS reach $1, up from 43 cents in the prior’s year’s first quarter.
+
+That PayPal’s growth has come during the pandemic is unsurprising. We all know e-commerce boomed last year, benefitting from social lockdown policies, and e-commerce requires online payment processors. PayPal has a leading role in that industry, with over 377 million active accounts, conducting 4.4 billion payment transactions totaling $277 billion in payment volume.
+
+In a major development for the company, PayPal announced in April that its mobile payment app, Venmo, will now offer users the ability to buy, sell, and hold four crypto currencies: Bitcoin, Ethereum, Litecoin, and Bitcoin Cash. According to one survey, some 30% of Venmo’s users already deal in crypto; this move makes their transactions more convenient, and opens an easy avenue to crypto for Venmo’s full 70-million-strong userbase.
+
+BTIG analyst Mark Palmer, points out a key factor in PayPal’s new Venmo feature when he writes, “The move marked the first time that consumers will be able to use crypto to make purchases at a large array of merchants. The crypto option is now available in the U.S. with more than half of PYPL’s 29mm merchants, with the company stating that more would be added soon.”
+
+Palmer believes that this move toward crypto will be a net positive for PayPal, and he backs that with a Buy rating and $345 price target implying a one-year upside of 31%. (To watch Palmer’s track record, click here.)
+
+That Wall Street agrees with Palmer is obvious from the Strong Buy consensus rating on the stock, supported by new fewer than 29 recent Buy ratings. These outweigh the 4 Holds that have also been set here. PYPL shares are trading for $262.29, and their $310.68 average price target suggests the stock has room to grow 18% this year. (See PayPal’s stock analysis at TipRanks.)
+
+CleanSpark (CLSK)
+
+Last up, CleanSpark, is both a software company and a clean energy company. That makes more sense than at first would be apparent – CleanSpark’s software products are designed to control microgrid and distributed energy systems. These systems allow users to go off-grid, opting out of traditional power distribution to tap into cleaner green energy sources. CleanSpark provides the control software for these systems.
+
+Earlier this year, CleanSpark made a couple of bold moves that made waves in its own industry, and in crypto. In March, the company put an offering of public shares on the market – more than 9 million common shares – at $22 each, raising more than $200 million before expenses. That alone got notice from investors.
+
+In addition, the company started using the funds to buy up more Bitcoin mining rigs. These are the computer systems through which new bitcoins are generated. They draw massive amounts of power, put out a lot of heat – and CleanSpark has invested heavily, not only in the computational mining rigs, which will slowly produce new bitcoins, but in the clean energy infrastructure to make the company’s Atlanta mining location 95% carbon-free. The company’s latest investment in Bitcoin mining will start to take physical shape later this year.
+
+And finally, in April, CleanSpark announced that it had secured contracts for an additional 22,680 Bitcoin miners. When all of the new rigs are installed, up and running, CleanSpark expects to increase its Bitcoin mining production to more than 3.2 EH/s. In the quarter ended March 31, CleanSpark produced 144 Bitcoins, and has produced a total of 205 Bitcoins since it began mining ops in December.
+
+In all of this, CleanSpark has not lost sight of its original focus. The company also announced in April that it had secured a net $16.2 million increase in its microgrid contracts, a year-over-year increase of 220%.
+
+In coverage of this stock for H.C. Wainwright, top analyst Amit Dayal writes, “We believe CleanSpark's execution on the microgrid and Bitcoin mining fronts could position the company to exceed our expectations for FY2021, as our assumptions now appear relatively conservative. The stock has pulled back since its January 2021 highs alongside some other Bitcoin mining comps, and general weakness across small-cap names. However, we believe, with Bitcoin prices remaining well above our assumptions, no known changes to mining operations, and the company adding to its microgrid backlog, the operational side of the story appears to be intact. We believe CleanSpark's valuation remains compelling at current levels with the company set for YoY revenue and earnings growth of more than 150% and more than 1,000%, respectively, in FY2022.”
+
+In line with his upbeat outlook, Dayal gives CLSK shares a Buy rating with a $50 price target that indicates confidence in a robust 135% upside in the next 12 months. (To watch Dayal’s track record, click here.)
+
+There are only two recent reviews on this stock – including Dayal’s – but both agree: this is one to Buy. CLSK shares are currently trading for $21.26 and the price target averages to $47.50, suggesting an upside of 123% this year. (See CleanSpark’s stock analysis at TipRanks.)
+
+To find good ideas for stocks trading at attractive valuations, visit TipRanks’Best Stocks to Buy, a newly launched tool that unites all of TipRanks’ equity insights.
+
+Disclaimer: The opinions expressed in this article are solely those of the featured analysts. The content is intended to be used for informational purposes only. It is very important to do your own analysis before making any investment.

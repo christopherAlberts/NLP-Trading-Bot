@@ -1,0 +1,45 @@
+Bitcoin is still "halfway" through its current bull market, and this week's price dip turned out to be a "win" for hodlers, according to on-chain analyst Willy Woo.
+
+In the latest edition of his market updates, which he made publicly accessible, the popular statistician outlined multiple factors that all suggest that Bitcoin (BTC) is anything but bearish.
+
+Woo: BTC price did not reach "mania top"
+
+BTC/USD recovered strongly after hitting lows of $30,000 on May 19, preserving its gains after the sharpest recovery in its history.
+
+"Are we in a bull market? Long range macro indicators like NVT ratio are very healthy, that remains unchanged," Woo wrote.
+
+"So yes, this is not a mania top which all BTC bull markets end in, price is BELOW fundamentals, not above it. We are still halfway."
+
+NVT, or network-value-to-transaction ratio, is a popular metric that aims at identifying profitability among hodlers. As Cointelegraph reported earlier this week, even before the dip NVT was signaling a buying opportunity at price levels around $42,000.
+
+NVT price, which Woo calls an "organic" valuation of Bitcoin, still lies at $55,000, which along with stock-to-flow-based projections of $60,000 suggest that BTC/USD is considerably undervalued.
+
+The largest cryptocurrency may already have the tools it needs to regain its lost ground, thanks to a shakeout of leveraged traders and the now-muted effects of Elon Musk tweeting negative comments.
+
+In fact, the dip may have been just what Bitcoin needed.
+
+"Newish whales dumped out, retail bought a chunk of the dip, coins getting more distributed, I'll take that as a win," Woo added.
+
+Bitcoin funding rates history. Source: Bybt.com
+
+Notably, the sharp drop to $30,000 resulted in Bitcoin funding rates flipping negative across the board to record lows, which could provide fuel for a massive short squeeze.
+
+"That cleanse set up Bitcoin for $100k. Funding rates largely reset," Messari analyst Mira Christanto commented regarding the latest Bitcoin funding rate data. She added:
+
+"The shakeout before the breakout."
+
+$4 billion in irrational trades disappear
+
+On the topic of a trader shakeout, fresh data from Glassnode shows just how much leverage was flushed from the market during the drop to $30,000 and the rise back to $40,000.
+
+Over the course of the day, open interest in Bitcoin futures fell from above $17 billion to below $13 billion and stayed at those levels.
+
+"Goodbye leverage," analyst William Clemente commented regarding the figures.
+
+Bitcoin futures open interest chart. Source: William Clemente/Twitter
+
+For new buyers entering the space, Blockstream CEO Adam Back, meanwhile, had some cautionary words.
+
+"Thoughts on leverage. *don't*!" he summarized in a series of tweets.
+
+"Better just hodl, dca, cold store. if you're gonna use leverage for fun/profit, you're increasing risk a lot. do it with max 10% of coins (or less). never place a leverage trade without a limit stop, or implicit stop from small position liquidation."

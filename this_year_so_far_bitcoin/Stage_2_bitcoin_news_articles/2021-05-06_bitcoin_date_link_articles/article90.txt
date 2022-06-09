@@ -1,0 +1,31 @@
+Mertz is the president and chief investment officer of Emerald Advisers, a $4.7 billion asset manager based in Leola, Pennsylvania, a community of about 7,500 situated 66 miles west of Philadelphia. The company prides itself on its “proprietary 10-step research process" and “fundamental approach to choosing securities." Mertz is a CFA charterholder who was the chief investment officer of the Pennsylvania State Employees’ Retirement System for seven years before joining Emerald. He’s held a variety of board positions. His resume all points to a traditional, longtime investor at a modest-sized firm.
+
+Then there’s his $256 million Emerald Banking and Finance Fund.
+
+It’s the second-largest public holder of Grayscale Ethereum Trust, which tracks the cryptocurrency that has soared to record highs this week. It’s one of the biggest mutual-fund owners of Grayscale Bitcoin Trust. As of March 31, it has 192,020 shares of the Purpose Bitcoin exchange-traded fund (ticker: BTCC) and 48,520 shares of the Canadian Bitcoin ETF (ticker: EBIT). As you might expect, this has paid off big: The fund has surged 133% over the past year, easily beating every other U.S. domiciled open-end mutual fund focused on financial stocks, according to data compiled by Bloomberg. It’s almost double the return of the Vanguard Financials Index Fund, which itself is up a remarkable 74% in the past 12 months.
+
+Riding the crypto wave more than just about any other mutual fund has come at a cost, however. Morningstar Inc. published a scathing report that downgraded the fund’s cheapest share class to neutral from bronze, stating in bold letters on the first page that “big changes diminish this strategy’s appeal." The first sentence of the analysis says in no uncertain terms that “Emerald Banking & Finance has moved outside its circle of competence."
+
+Here’s Morningstar analyst Eric Schultz on why the fund’s investment process is now deemed below average:
+
+Co-managers Kenneth Mertz and Steven Russell historically focused on U.S. banks with market caps between $50 million and $2.5 billion, using Emerald’s 10-step process to find the best names. These steps include extensive interviews with management, board members, customers, vendors, and competitors. The team also assesses competitive positioning and growth prospects, then builds valuation models estimating future cash flows and earnings to arrive at a target price and evaluate downside risk.
+
+The recent shift into cryptocurrencies calls the discipline of the approach into question. The managers often diversified their core regional bank holdings with an eclectic mix of other businesses such as REITs, financial technology, insurance, and even gold miners. But these bets were at the margins and prudently sized. Cryptocurrencies have no cash flows or management teams to assess, so with nearly 5% of portfolio assets directly betting on their price, the move seems more speculative rather than a diversifying extension of the existing process.
+
+It’s true: you can’t sit down and interview a Bitcoin. You can’t size up Ethereum’s management team. It’s hard not to see Emerald’s decision to load up on cryptocurrency ETFs as something akin to a YOLO bet you’d find on Reddit. The difference is it comes in a mutual fund that Mertz has managed for 23 years, not in the Robinhood account of a 23-year-old.
+
+Mertz didn’t respond to Bloomberg instant messages or an email to his Bloomberg address. “Since this fund was founded, it seeks growth in the financial service sector — and it hasn’t changed," read a quote from Mertz in The Wall Street Journal. Morningstar’s report notes that Russell is the one who tends to focus on banks “and recently cryptocurrencies." The fund managers argue that investments in Voyager Digital and Mike Novogratz’s Galaxy Digital Holdings are based on following them for years and wagering that they could move beyond crypto and into more traditional financial services. They also say they were concerned about banks with large exposure to commercial real estate during the pandemic and now might feel more comfortable investing in them again.
+
+I suppose that’s believable (though just this week Galaxy agreed to buy crypto custodian BitGo Inc., hardly a sign of a pivot into more typical banking). Either way, it doesn’t seem as if it truly matters. According to the fund’s prospectus, “it will, under normal conditions, invest at least 80% of the value of its assets in stocks of companies principally engaged in the banking or financial services industries." It considers Voyager Digital and Galaxy Digital “investment services," according to a fact sheet, while Morningstar labels Voyager a tech stock. Even after paring back some of its exposure to Voyager, which has gained a staggering 12,873% over the past year, it remains far and away the largest holding in the fund. Emerald also holds some of the company’s shares in its Growth Fund and Insights Fund.
+
+The next several months should be telling. Given that Emerald Banking and Finance Fund is a mutual fund with a minimum $50,000 investment in its retail share class, it seems unlikely to attract cryptocurious buyers to the same extent as Cathie Wood’s ARK Innovation ETFs, which have a much lower barrier to entry. But given its massive gains, do current investors lock in their profits and exit, or ride this out a bit longer? Bitcoin, for its part, isn’t providing the boost to returns it once was, with its price fluctuating while other options such as Dogecoin soar.
+
+I’m not sure which way the flows will go, but Morningstar is spot on to warn that this fund isn’t quite what it claims to be. Perhaps it’s just a sign of the times that even long-tenured investment managers can be drawn to crypto.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+Brian Chappatta is a Bloomberg Opinion columnist covering debt markets. He previously covered bonds for Bloomberg News. He is also a CFA charterholder.
+
+This story has been published from a wire agency feed without modifications to the text.
+
+Subscribe to Mint Newsletters * Enter a valid email * Thank you for subscribing to our newsletter.

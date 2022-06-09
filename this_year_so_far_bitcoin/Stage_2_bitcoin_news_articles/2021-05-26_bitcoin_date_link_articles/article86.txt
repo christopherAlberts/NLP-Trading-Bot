@@ -1,0 +1,15 @@
+The Bitcoin and blockchain industry continues to thrive, and with this has come a spike in demand for blockchain talent. Working in the nascent industry gives anyone the opportunity to create an equitable future. With Bitcoin Association’s jobs board, you can easily keep up with the best jobs in the space from market leaders including Fabriik, UNISOT and Unbounded Enterprise.
+
+Bitcoin Association launched the jobs board in early March and it was soon filled with exciting opportunities for developers, product managers, analysts, UX designers and more.
+
+Fabriik has been one of the companies that have been on a hiring spree. The company, which is one of the biggest players in the Bitcoin tokenization awakening, has listed several opportunities on the jobs board. They include a director of payments who will provide leadership and strategy for the firm’s consumer-facing payment services. The successful applicant will work closely with the company’s chief financial officer to develop short and long-term payment strategies and operational capabilities.
+
+Other opportunities at Fabriik include community manager, paid media manager, software engineer in charge of operations and PR communications manager. All roles at Fabriik are fully remote, making them even more lucrative.
+
+Bitcoin SV transaction processor and services provider Unbounded Enterprise is also seeking to fill a number of roles. These include a software developer, a graphic designer, a back-end developer, a UI/UX designer and a product manager.
+
+For the front-end developers, Relica is offering an opportunity to form the future of social media. The company, based in Melbourne, Australia, is seeking an experienced JavaScript developer who is proficient with React.js as it builds the second phase of its social media application.
+
+sCrypt, the company redefining smart contracts on Bitcoin, is seeking a crypto engineer who will conduct research on applied cryptography and turn this research into working smart contract libraries. To qualify, one must have proven experience with existing zero knowledge proof toolsets such as snarky, libsnark and bellman.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

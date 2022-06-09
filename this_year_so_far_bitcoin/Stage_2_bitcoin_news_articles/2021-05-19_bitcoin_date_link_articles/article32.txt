@@ -1,0 +1,109 @@
+An unusual confluence of bearish fundamentals caused all cryptocurrencies to fall Wednesday, but traders seem to be scooping up cheaper crypto, sparking something of a rebound.
+
+Bitcoin (BTC) trading around $39,461 as of 21:00 UTC (4 p.m. ET). Down 8.7% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $31,926-$43,602 (CoinDesk 20)
+
+Ether (ETH) trading around $2,609 as of 21:00 UTC (4 p.m. ET). Losing 23.1% over the previous 24 hours.
+
+Ether’s 24-hour range: $2,089-$3,447 (CoinDesk 20)
+
+‘Cascading liquidations’
+
+Bitcoin’s hourly price chart on Bitstamp since May 16. Source: TradingView
+
+Bitcoin, the world’s largest cryptocurrency by market capitalization, was in the red Wednesday by 8.7% as of press time. BTC was above the 10-hour moving average and below the 50-day, a sideways signal for market technicians.
+
+The total drop for bitcoin in the past 24 hours was 26.7%, going from a high of $43,602 around 21:15 UTC (5:15 p.m. ET) to as low as $31,926 around 13:15 UTC (9:15 a.m. ET), according to CoinDesk 20 data. Bitcoin has recovered somewhat from that low, at $39,461 as of press time.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Bitcoin has fallen almost 50% from its high on April 12, said Zachary Friedman, chief operating officer for quantitative firm Global Digital Assets.
+
+“What we saw today was a black swan event of cascading liquidations,” Friedman said.
+
+Trading volumes surge
+
+Bitcoin daily volumes on major USD/BTC spot exchanges. Source: CryptoCompare
+
+However, BTC is trending back up. Wednesday is shaping up to be the highest spot volume day for bitcoin in 2021. As of press time, daily volume is over $14 billion on the eight major exchanges tracked by CoinDesk.
+
+Global Digital Asset’s Friedman sees price support at $37,000, where traders will keep scooping up more bitcoin should the price head back down to that level.
+
+“We have more than likely seen the bottom here,” Friedman said.
+
+Bitcoin 'scare factor' proven on exchanges
+
+The amount of transfers to exchanges the past week. Source: Glassnode
+
+Over the past week, and based on closing data from Tuesday, activity involving investors depositing bitcoin on exchanges has declined by about 40% to around 51,000 transactions, according to data aggregator Glassnode.
+
+“A huge market is scared,” said Greg Magadini, chief executive officer for data aggregator Genesis Volatility.
+
+Magadini said fear that China may be cracking down on crypto after it reiterated its previous crypto bans is just one of the catalysts that may have caused newer entrants to sell. This may further reduce exchange activity over time, an interesting data point to watch.
+
+“China has played this game before where they have banned crypto and brought it back,” said Steve Ehrlich, chief executive officer for financial service firm Voyager Digital. “There are reports that China is focused on their own digital currency within the government, so it’s possible that this was the motive.”
+
+Bitcoin dominance roars back
+
+Bitcoin’s dominance in the crypto market in 2021. Source: TradingView
+
+After briefly touching 40% Tuesday, according to data from charting software TradingView, bitcoin’s dominance (its share of the greater crypto market capitalization) is flashing green, up four percentage points to 44.01% as of press time.
+
+Mostafa Al-Mashita, vice president of trading at Global Digital Assets, saw Wednesday as value-buying day, with some market participants rotating back into the supposed safe haven of bitcoin, waiting out what entrepreneur and amatuer crypto troll Elon Musk might say next on Twitter.
+
+“Buyers today will be rewarded, at least short term, for picking up coins at discount prices,” Al-Mashita said. “Elon’s tweets are quite eccentric and unfounded from his end, but show the fickle nature of this market reacting to a single participant.”
+
+Ether still outperforming bitcoin
+
+Ether’s hourly price chart on Bitstamp since May 16. Source: TradingView
+
+The second-largest cryptocurrency by market capitalization, ether, was trading around $2,609 as of 21:00 UTC (4:00 p.m. ET), slipping 23.1% over the prior 24 hours. The asset is above the 10-hour moving average as well as the 50-day, a sideways signal for market technicians.
+
+The total drop for ether in the past 24 hours, going from a high of $3,447 around 21:30 UTC (5:30 p.m. ET) Tuesday to as low as $2,089 around 13:15 UTC (9:15 a.m. ET) Wednesday was 39.3%, according to CoinDesk 20 data. ETH has recovered somewhat from that low, at $2,609 as of press time.
+
+Despite a more precipitous fall Wednesday, ether has been destroying bitcoin in terms of overall performance this year. As of press time, ETH’s percentage gain is in the triple digits, while bitcoin has eked out a gain of around 59% this year.
+
+An era of hot money
+
+Bitcoin (gold) versus ether (blue) in 2021. Source: TradingView
+
+In its latest investor note, quantitative trading firm QCP Capital questioned why, in an era of hot money, only bitcoin has been labeled the inflation buster of crypto.
+
+“We were always of the opinion that the biggest misconception out there is that BTC is a safe haven or inflation hedge,” the note states. “The moves in the last few months validate this entirely while the BTC enthusiasm has been sucked out last week by the confluence of Elon’s corporate ESG stamp of disapproval [and] the [U.S. Federal Reserve] running way hotter, leading to much lower real yields.”
+
+DeFi deflates, ETH fees explode
+
+Amount of crypto, in USD value, locked in DeFi the past three months. Source: DeFi Pulse
+
+As the crypto market dumps Wednesday, the amount of cryptocurrency held in decentralized finance, or DeFi, has decreased by $20 billion in the past week. Some of this is due to falling crypto valuations but might also have to do with investors pulling out ASAFP.
+
+One indicator to watch are the ridiculously high fees exacted on Ethereum of late. According to data aggregator Dune Analytics, a simple ether transaction cost $38.10 Wednesday. Trading on decentralized exchange Uniswap carries a hefty $230.25 fee.
+
+The need for alternative blockchains besides Ethereum to run DeFi is clear during market downfalls, noted crypto venture capitalist Constantin Kogan.
+
+“This is why a lot of DeFi projects are moving to Binance Smart Chain or Polkadot, etc.,” said Kogan. “The future is multichain.”
+
+The DeFi market also experienced a high number of liquidations Wednesday, the most since Feb. 22.
+
+Cost for using the Ethereum network Wednesday. Source: Dune Analytics
+
+Other markets
+
+Digital assets on the CoinDesk 20 are all red Wednesday. Notable losers as of 21:00 UTC (4:00 p.m. ET):
+
+Equities:
+
+Read More: Bitcoin Proxy Stocks Tumble as BTC Tanks
+
+Commodities:
+
+Oil was down 2.8%. Price per barrel of West Texas Intermediate crude: $63.40.
+
+Gold was in the green 0.07% and at $1,870 as of press time.
+
+Silver is falling, down 1.5% and changing hands at $27.71.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield climbed Wednesday to 1.680 and is in the green 2.6%.

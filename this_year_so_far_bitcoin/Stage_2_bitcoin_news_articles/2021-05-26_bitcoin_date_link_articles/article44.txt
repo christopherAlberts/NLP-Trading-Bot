@@ -1,0 +1,33 @@
+GEORGE TOWN, Cayman Islands, May 26, 2021 /PRNewswire/ -- The VeriBlock Foundation, a nonprofit dedicated to promoting the development and adoption of VeriBlock's Proof-of-Proof® ("PoP®") security technology, today announced a new initiative to secure Dogecoin using Bitcoin.
+
+VeriBlock
+
+VeriBlock developers are currently working on integrating Proof-of-Proof into the Dogecoin codebase, and they plan to present an open-source beta to the Dogecoin community soon for testing and feedback. The team will also perform a public "51% attack" on the PoP-enabled version of Dogecoin to showcase how their technology protects blockchains from the same attacks, which have been used to steal over $30M by targeting high-profile projects including Ethereum Classic, Bitcoin Gold, and other projects with multi-billion-dollar marketcaps.
+
+"Bitcoin has been under public fire recently for the large carbon footprint of its Proof-of-Work mining protocol," explains VeriBlock Co-Founder and Chief Technical Officer Maxwell Sanchez. "VeriBlock reuses Bitcoin's mining power to secure the world's blockchains, amortizing the per-transaction environmental cost to levels far below what legacy financial systems provide while enabling Bitcoin to easily meet the requirements demanded by many Fortune 500 companies interested in blockchain technology. As Bitcoin becomes better utilized through technologies like Proof-of-Proof, it has the potential to become the world's most efficient and secure financial platform while providing solutions that transcend finance to fight police corruption, enforce digital property rights, and more. We hope that our work can help to realize Bitcoin's potential as the security backbone for the digital ecosystem of tomorrow."
+
+"Dogecoin already utilizes a shared security model by merge-mining with Litecoin, making it a perfect candidate for VeriBlock's security inheritance technology," Sanchez noted. "Merge-mining has several critical security issues and decoupling Dogecoin from Litecoin will significantly benefit the security profile of both projects while making Bitcoin eco-friendly."
+
+VeriBlock's technology enables any blockchain to inherit Bitcoin's security in an entirely Decentralized, Trustless, Transparent, and Permissionless ("DTTP®") manner, adhering to the same core attributes which make Bitcoin the world's most powerful digital data integrity solution.
+
+While some projects in the blockchain ecosystem utilize Proof-of-Stake ("PoS"), Proof-of-Capacity ("PoC"), and other alternative security protocols in their quest for perceived efficiency improvements, the VeriBlock team argues that these solutions are fundamentally opposed to the decentralized ethos that Bitcoin was founded upon. "Without a Proof-of-Work component, PoS and PoC are fundamentally insecure and is more analogous to the traditional finance world where financial institutions can hold funds hostage and blackball transactions at whim," Sanchez said. "These alternative security protocols don't solve the same problems or provide the same benefits of Bitcoin's Proof-of-Work, so comparing their 'efficiency' to Bitcoin is a non-starter. However, using a technology like Proof-of-Proof backstops these weakly-subjective security protocols with a Proof-of-Work component, making them viable."
+
+The VeriBlock team plans to continue developing technologies that leverage Bitcoin to provide creative solutions to improve the security of financial, law enforcement, and intellectual property infrastructure.
+
+About the VeriBlock Foundation
+
+The VeriBlock Foundation is a Cayman Islands nonprofit committed to increasing awareness and adoption of the VeriBlock Blockchain and its Proof-of-Proof security protocol. VeriBlock inherits security from Bitcoin in a completely Decentralized, Trustless, Transparent, and Permissionless ("DTTP®") manner, following the same attributes that made Bitcoin great, and allows any other blockchain to reinforce their existing security with the full Proof-of-Work power of Bitcoin in the same manner.
+
+Media Contact
+
+Alexis Quintal
+
+[email protected]
+
+Related Images
+
+veriblock.png
+
+VeriBlock
+
+SOURCE VeriBlock

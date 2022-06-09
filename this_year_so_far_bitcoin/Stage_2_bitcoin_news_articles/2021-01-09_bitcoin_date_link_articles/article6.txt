@@ -1,0 +1,35 @@
+Bitcoin’s mining difficulty just reached a record high above 20.6 trillion as more people are mining at a larger scale than ever before thanks to ballooning mining revenue and bitcoin’s parabolic price rally.
+
+“A new difficulty all-time high is no surprise considering mining revenue has tripled in recent months,” said Edward Evenson, business development lead at Braiins, a mining software company that recently acquired full ownership of leading pool Slush Pool after being majority stakeholders since 2013.
+
+Saturday’s adjustment at block 665,280 marks an 11% increase from the last adjustment on Dec. 27.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Difficulty is a relative measure of the amount of resources required to mine bitcoin that climbs or falls depending on the amount of computing power consumed by the network, known as its hashrate.
+
+As bitcoin’s price continues to soar – almost touching $42,000 Friday – miner revenues keep pace, incentivizing even more participants to mine. Twelve months ago, bitcoin’s difficulty was below 15 trillion.
+
+“I see this trend continuing in the first half of 2021,” Evenson told CoinDesk.
+
+'Show me the money'
+
+Signalling even more upward difficulty adjustments in the future, mining companies plan to capitalize on higher revenues at such a scale that their orders for new machines have left leading manufacturers like Bitmain sold out until August even after nearly doubling the price of some models.
+
+“ASIC manufacturers have had to turn away more than half a billion dollars in mining equipment orders in Q4 2020 alone,” Evenson said. “Hardware supply chains are currently overloaded by immense demand.”
+
+Companies like Core Scientific are handily contributing to the overload with massive 59,000-machine orders from Bitmain, which are set to triple its mining capacity.
+
+Based on the ongoing mining frenzy, Bitcoin’s hashrate is “likely to at least double in 2021,” Evenson predicts.
+
+Historical bitcoin mining difficulty and price Source: Coin Metrics, CoinDesk Research
+
+A major miner problem
+
+More than an inconvenience, the current ASIC shortage signals a deeper fundamental weakness in the mining sector amid soaring revenues and activity.
+
+“Right now, the biggest risk to the mining business is the ASIC shortage,” said Steve Barbour, president of portable mining infrastructure manufacturer Upstream Data, in a direct message with CoinDesk.
+
+Barbour said he doesn’t see “any signs yet” that manufacturers are “ramping up fast enough” to meet the yet unabated surge in demand for machines. They aren’t even pursuing temporary solutions like offering mid-tier machines for “miners who aren’t interested in high-priced, high-efficiency gear.”
+
+With no signs of replenished supplies, miners have been scavenging secondary markets for any available and working machines, causing prices of some models to reach 12-month highs, per CoinDesk’s prior reporting.

@@ -1,0 +1,77 @@
+If you’re looking to start trading cryptocurrency you’ve likely come across Coinbase.
+
+The largest cryptocurrency exchange in the U.S. is a place to buy, sell and hold digital currencies like Bitcoin and Ethereum. Bitcoin’s price regularly makes financial headlines, and altcoins, cryptocurrencies that aren’t Bitcoin, are grabbing attention too. Dogecoin surged 8,000% in the first few months of 2021.
+
+Now that cryptocurrency is going more mainstream, there are several ways to buy and sell coins on your own, whether it be via Venmo, Cash App or a trading app like Robinhood. But Coinbase is a popular option, touting 56 million verified users.
+
+Here’s everything you need to know about trading cryptocurrency on Coinbase.
+
+What is Coinbase?
+
+Coinbase is a trading platform that allows users to buy, sell and store more than 30 different digital currencies. Coinbase is more geared towards beginners while Coinbase Pro, the premium service, is for avid and experienced traders who make high volume transactions and want more trading options.
+
+Investing on apps like Robinhood is booming. Cryptocurrency is no exception, and Coinbase is reaping the benefits. The company’s estimated revenue topped $1.8 billion in the first quarter of 2021. Coinbase is now available in more than 100 countries.
+
+The platform is pretty straightforward. Like many trading apps, users can see their balance and a watchlist, which allows them to track the prices of different kinds of cryptocurrencies. Traders can also check which cryptocurrencies are the biggest movers. The company is also introducing Coinbase Card, a Visa debit card that users can use to earn rewards for spending the assets in their portfolio.
+
+Is Coinbase free?
+
+Coinbase charges a fee for trading via the platform (unlike apps like Robinhood, which touts “free trading”).
+
+The fees differ for trading on Coinbase and Coinbase Pro, and those for Coinbase can be higher and more complicated. Coinbase charges what’s called a spread of about 0.50% when you buy or sell cryptocurrencies, as well as a Coinbase Fee, which is a flat fee or determined by factors like where you’re based and what type of payment you’re using.
+
+That flat fee depends on the transaction amount and is laid out by Coinbase on its fee page. Here’s an example: if a customer wants to buy $100 of bitcoin with a U.S. bank account or digital wallet, the flat fee would be $2.99 and the variable fee would be $1.49, so the customer would pay a $2.99 fee on the transaction. But if the customer wanted to pay with a debit card, the variable fee would jump to $3.99, so that’s what they would pay (in addition to the spread).
+
+For larger transactions, Coinbase Pro has a simpler tiered fee system with fees between 0% and 0.50% per trade and lower costs for larger dollar transactions. For example, a transaction of less than $10,000 has a 0.50% fee, while a transaction between $10,000 and $50,000 has a 0.35% fee.
+
+Coinbase doesn’t charge users to hold their assets in a digital wallet or to transfer cryptocurrency from one wallet to another within the Coinbase network, like from Coinbase to Coinbase Pro. But Coinbase’s fee can definitely chip away at your winnings, especially if you’re not using Coinbase Pro.
+
+How to open a Coinbase account
+
+Opening a Coinbase account is pretty straightforward. You’ll need a government-issued photo ID, as well as information like your phone number and the last four digits of your Social Security number. Also be ready to answer questions about what you’ll use the platform for. When choosing a password, use proper cyber hygiene — like a unique password you haven’t seen elsewhere and multi-factor authentication — to avoid hackers getting ahold of your account.
+
+Before you begin trading, you’ll need to attach a payment method to your Coinbase account. In the U.S., you can use a bank account, debit card, wire transfer or PayPal account (you can’t currently sell digital currency using a PayPal account, but you can make withdrawals).
+
+Once you have your digital wallet set up, you’re ready to trade. Coinbase doesn’t offer trading for all cryptocurrencies, but the exchange does regularly add new coins.
+
+Ads by Money. We may be compensated if you click this ad. Ad Investing made easy - Get mobile access to the markets and choose how much you want to invest. Robinhood allows you to invest commission-free in individual companies or bundles of investments (ETFs). Begin Investing
+
+How to buy and sell cryptocurrency with Coinbase
+
+It’s time to pick your cryptocurrencies.
+
+Bitcoin, Ethereum, Litecoin and Bitcoin Cash — the four types of cryptocurrency available for PayPal customers to buy and sell — are among the safest Hanna Halaburda, an associate professor at NYU Stern School of Business, previously told Money. Since they’re among the most popular and expensive cryptocurrencies, there is more computational power put into maintaining their blockchain, the technology behind cryptocurrencies, making them more expensive for hackers to attack. They have also been around for years, so if there was a bug, we would likely know about it, she adds.
+
+For most investors, buying a bitcoin which has had a price as high as $63,000 per coin likely isn’t an option. Ethereum costs more than $2,000 per coin and even Litecoin, at over $200, may be more than you want to spend. But Coinbase allows users to buy a small fraction of a coin. It’s common for investing apps like Robinhood to allow traders to buy fractional shares — like investing $25 in Amazon instead of the more than $3,000 you would need to buy a full share. With Coinbase, traders can buy or sell as little as $2 worth of digital currency.
+
+But that doesn’t mean there are no concerns in general. Cryptocurrencies have proven to be volatile — just look at the recent surge in Dogecoin’s price, or how Bitcoin was at a record high in December 2017 before plunging 50% the next month.
+
+The digital currencies also aren’t regulated in the same way as other assets. Before a company sells its stock to the public, it needs to go through strict scrutiny by the Securities and Exchange Commission. Before an investment advisor can recommend that stock, they need to be confident it’s in the investor’s best interest. There are a lot of protections for investors that you don’t have with crypto, says James Angel, a finance professor at Georgetown University.
+
+Plus, cryptocurrencies don’t actually have any intrinsic value, so the speculative asset is completely at the whim of the value the market attributes to it. All this to say, only invest as much as you’re willing to lose.
+
+“Any person who goes in should basically be well aware that they’re playing a game of financial musical chairs,” Angel says.
+
+Is it safe to buy and sell cryptocurrency with Coinbase?
+
+To buy and sell cryptocurrency, you’ll need a digital wallet where you’ll hold your currency between transactions. Unlike a regular wallet, a digital wallet has an added concern: is the wallet safe from hackers?
+
+There are a few options, each with their own security measures.
+
+If you don’t want to worry about keeping cryptocurrency separate from the Coinbase app, you can use what is called a hosted wallet. This wallet is held for you by a third party — in this case, Coinbase — which means you don’t have to worry about forgetting your password doesn’t mean losing all your cryptocurrency. (That’s a real concern: some crypto investors have lost millions of dollars because they can’t remember how to get into their wallets.)
+
+Cryptocurrency isn’t insured by the Federal Deposit Insurance Corporation (FDIC) or the Securities Investor Protection Corporation, like your bank account or investment portfolio. But Coinbase says that it insures all digital currency against theft from a security breach or hack, employee theft or fraudulent transfer, but not unauthorized access to your account. The company also says that it keeps 98% or more of its customers’ digital currency offline. A dollar balance of up to $250,000 is FDIC-insured for both Coinbase and Coinbase Pro.
+
+If you want full control of your cryptocurrency without a third party’s involvement, you can opt for what’s called a non-custodial wallet. While you don’t have to worry about the third party being hacked, you do have to remember your password yourself, or risk losing your cryptocurrency. But having more control means you can participate in more advanced activities, like yield farming, which allows the cryptocurrency owner to lend out their assets to generate higher returns. Coinbase customers can choose to download the Coinbase Wallet, separate from the app, which is a non-custodial wallet.
+
+If you want security from even your computer being hacked, you can go for a cold wallet — also called a hardware wallet — which is physical device like a USB that’s not connected to the internet. They can be pricey; the Ledger Nano X is $119 and the Trezor Model T is $179 as of this writing.
+
+Resources Download Money’s 21 Smartest Money Moves for 2021 Fine tune your financial life this year with Money’s expert advice on investing, retirement, building credit, and more. It even comes with a handy checklist. Best of all? It costs you nothing. Get Money’s Toolkit Download Money’s 21 Smartest Money Moves for 2021 Fine tune your financial life this year with Money’s expert advice on investing, retirement, building credit, and more. It even comes with a handy checklist. Best of all? It costs you nothing. Get Money’s Toolkit By clicking "Get Money's Toolkit," I would like to receive relevant marketing communications from Money and selected partners. I understand I can opt-out by clicking unsubscribe in any email. I have read Money's Privacy Notice and consent to the processing of my personal information. Success! Check your inbox or begin downloading your 2021 Toolkit now be selecting the button below. Download now
+
+More from Money:
+
+You Can Buy Bitcoin on Venmo Now. Should You?
+
+3 Ways to Bet on Bitcoin Without Actually Buying Bitcoin
+
+Robinhood for Beginners: A Complete Guide to Investing With the Controversial Stocks App

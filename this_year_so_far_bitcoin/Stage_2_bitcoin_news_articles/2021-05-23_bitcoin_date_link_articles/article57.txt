@@ -1,0 +1,29 @@
+How do cryptocurrency markets react to cyberattacks — theft of digital coins? A new paper shows a surprising delay in their response to such events, measured by the market’s volatility.
+
+It’s estimated that around 1.1 million bitcoins were stolen between 2013 and 2017 — a figure that has only gone up since. At today’s prices, this is equivalent to losses of more than $44 billion, which is quite a lot of money, and the problem seems to grow up in scale as Bitcoin continues to surge. You’d expect markets to clamp up immediately after each such event but, according to Dr. Klaus Grobys at the University of Vaasa, Finland, this isn’t the case.
+
+Markets do respond to such events, as measured through their levels of uncertainty, but much slower than expected.
+
+ADVERTISEMENT
+
+Bitprices
+
+Dr. Grobys analyzed 29 hacking incidents in the Bitcoin market that occurred over that timeframe, finding that it doesn’t respond, volatility-wise, for roughly 4 days after a cyberattack. Bitcoin volatility did rise substantially on the fifth day after such an event, however. This pattern remained valid even after controlling for the volatility seen immediately after an attack, he explains.
+
+This delay in feedback, Dr. Grobys explains, points to inefficiencies in the market: the fact that shocks need time to be fully integrated or priced into the market is a strong indicator of such inefficiencies.
+
+Get more science news like this... Join the ZME newsletter for amazing science news, features, and exclusive scoops. More than 40,000 subscribers can't be wrong. Daily Weekly I have read and agree to the terms & conditions. Leave this field empty if you're human:
+
+Another interesting finding of the paper is that hackings in the Bitcoin market also influenced the value of other cryptocurrencies. Dr. Grobys says there is a ‘contagion effect‘ in cryptocurrency volatility associated with hacking events. For example, volatility in the Ethereum market increased dramatically with the same 5-day time delay after a hacking event in the Bitcoin market.
+
+ADVERTISEMENT
+
+One possible explanation for this is that people are using one cryptocurrency to cash out on the other, stolen one. This, in effect, shifts demand from the cryptocurrency that was hacked to the other.
+
+“My study is a first attempt to reveal potential risk factors and their effects on the new emerging digital financial markets—cyberattacks is only one of these new risk factors. From my point of view, much more research needs to be done on this issue,” says Dr. Klaus Grobys.
+
+Bitcoin is the largest player on the cryptocurrency market currently, and Dr. Grobys explains that it’s not yet clear whether a less-known one would show the same ‘contagion effect’ — future research will have to explore this.
+
+Another observation he makes is that “Bitcoin is traded on multiple exchanges but the attacks are always limited to one exchange”. In the future, he plans to see how Bitcoin volatility behaves at the exchange where the attack took place, not the whole market, after a theft.
+
+The paper “When the blockchain does not block: on hackings and uncertainty in the cryptocurrency market” has been published in the journal Quantitative Finance.

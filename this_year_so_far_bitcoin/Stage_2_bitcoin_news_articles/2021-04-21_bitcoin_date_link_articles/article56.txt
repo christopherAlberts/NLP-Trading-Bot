@@ -1,0 +1,57 @@
+Below is the definition of the Consumer Price Index (CPI) by the U.S. Bureau of Labor Statistics:
+
+“The CPI represents changes in prices of all goods and services purchased for consumption by urban households. User fees (such as water and sewer service) and sales and excise taxes paid by the consumer are also included. Income taxes and investment items (like stocks, bonds, and life insurance) are not included.” - U.S. Bureau of Labor Statistics
+
+However, the definition was different 20 years ago. Shadowstats goes into more depth here. Current CPI is simply based on a basket of goods, as defined by the BLS; it does not directly reflect inflation because there are many other assets that hold the money supply. So, the basket of goods on which the CPI is based seems to be a bit arbitrary. To explore this, we will examine the old ways in which CPI was calculated before 1980.
+
+Shadowstats 1980-Based Inflation
+
+In 2011, CNBC published an article on the Shadowstats website and how its inflation calculation is much different than that of the current CPI post-Great Recession. According to Shadowstats, inflation is much closer to 10% based on the methods by which the Bureau of Labor Statistics used to calculate it back in 1980.
+
+Image via ShadowStats.com
+
+This is much higher than the 1%–2% goal of the U.S. Federal Reserve (Fed), and it begs the question of whether the dollar, although it has been the strongest currency for the past century or more, may not be as strong as the Fed leads us to believe.
+
+Asset Inflation And The Democratization Of Technology
+
+The CPI doesn't include housing or other assets we use to store our wealth. This is important because goods are not the only place people put their money. Instead, many people use stocks, real estate, gold, and other financial instruments as forms of savings, sometimes because they have no choice and are forced into higher-growth assets.
+
+The official inflation figure based on CPI was 1.6% in 2000, but the average US housing price increased by 12.8%, and stocks, as measured by the S&P 500, increased by 16.3%. Some of these assets have risen in price despite the economy being ravaged by shutdowns and economic restrictions. In response to this, The US government decided to mint checks and send them to people in need, but the majority of Americans received checks despite still being employed. This excess money flooded into bitcoin, stocks, and real estate.
+
+When people take their freshly minted dollars and throw them into stocks to maintain their wealth, the stocks’ valuations do not grow because the stocks are good. It simply expands the overall market by the amount of new dollars. This is known as asset inflation. If assets grew in value with no change in the money supply, that would be a different story. But that is not the case.
+
+The figure below shows how the prices of US consumer goods have changed over the years. The dispersion of prices can be related to a number of different factors, but we can simplify one of them by better understanding democratization. The Cantillon Effect explains how monetary inflation affects certain baskets of items.
+
+Image via https://www.commodityresearchgroup.com/a-look-at-inflation-carpe-diem/
+
+
+
+The reason why many items (i.e., those that are below the inflation line) have become more affordable is because technology is inherently deflationary. This is otherwise known as democratization of technology. The definition states that production of a technology gets cheaper as more of it is produced. For example, even though manufacturers are getting better at making televisions and cellphones, the money supply is still inflating. Therefore, the inflation of the money supply is offset dramatically by the deflationary nature of production and technological innovation. This may even be one of the fundamental truths of capitalism: competition drives innovation, and the prices of goods fall over time.
+
+Monetary Inflation And The Money Supply
+
+With Shadowstats focusing on the 1980s definition of CPI, and asset inflation seeming pervasive, there must be another direct way to calculate inflation.
+
+*M2 has entered the chat*
+
+According to Longtermtrends.net, M2 measures the amount of currency in circulation, and the measure has historically grown in times of war and during recessions. In 2020–2021, M2 grew by more than 27%, and it was recently discontinued as an official statistic. This metric seems to come the closest out of anything we have to measuring monetary inflation, yet it was discontinued at the point at which it showed the most weakness.
+
+Image via https://www.longtermtrends.net/m2-money-supply-vs-inflation/
+
+
+
+If M2 measures the amount of currency in circulation, then the amount of money in existence saw a 25% expansion in 2020–2021. Wherever this inflation shows up, your energy is being leached from your dollar amount and pushed into other places. The dollar isn't a good store of value; most investors could have told you that. Famously, Ray Dalio said that “Cash is trash” shortly before the pandemic started. So, if this is the case, where can you store your hard-earned money, where it's safe from inflation?
+
+Energy-Output Preservation With Bitcoin
+
+The Fed bases its policies on how close the economy is to 2% inflation based on the CPI. In the Fed’s eyes, inflation is under control, even though old metrics show extreme levels of inflation, along with the monetary inflation of close to 25%. According to Michael Saylor, monetary inflation for the next five years will likely be 15%–20% year over year in reaction to the pandemic.
+
+So when the entire Fed and government use a monetary measuring instrument that leaves out large portions of the economy, you might ask a few questions to find out why this may be the case. Money is the output of energy saved into a transferable instrument, and people are looking for the instrument that best holds their value.
+
+Bitcoin has a strict monetary policy with an exponential drop in inflation. Every 4 years, the amount of bitcoin mined gets cut in half, resulting in a hardening effect.
+
+You can never print more bitcoin unless you mine it, and there will never be more than 21 million. Even gold has an inflation rate of close to 2%. But the key difference between dollars, gold, and bitcoin is that the supply of bitcoin can be easily and automatically audited. Historically, the Fed has refused to be audited. Bitcoin is not only extremely verifiable, with a transparent blockchain, but it is audited every 10 minutes with each block. Everyone has the same copy of the network, and it is being audited every hour of every day, 365 days/year, forever.
+
+Bitcoin is the most scarce, verifiable, and sovereign technology ever created. It continues to manifest itself in different ways, but throughout the 2020–2021 pandemic, it has become a monetary anchor at a time when monetary expansion seems to be infinite. Bitcoin adoption will continue to grow, and the demand continues to expand at an exponential rate, as suggested by Metcalfe's Law. Being the most scarce asset in the world, bitcoin is a way in which you can preserve your energy output without fear of exploitation or excessive supply expansion.
+
+This is a guest post by Mitch Klee. Opinions expressed are entirely their own and do not necessarily reflect those of BTC, Inc. or Bitcoin Magazine.

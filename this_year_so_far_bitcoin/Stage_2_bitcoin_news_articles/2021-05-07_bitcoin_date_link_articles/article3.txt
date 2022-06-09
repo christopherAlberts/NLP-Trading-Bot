@@ -1,0 +1,35 @@
+A trader works at the Goldman Sachs stall on the floor of the New York Stock Exchange.
+
+Goldman Sachs has formally kicked off the cryptocurrency trading era on Wall Street.
+
+The bank informed its markets personnel on Thursday that a newly created cryptocurrency desk had successfully traded two kinds of bitcoin-linked derivatives, according to an internal memo obtained exclusively by CNBC.
+
+The crypto team exists within the firm's global currencies and emerging markets trading division, reporting to Goldman partner Rajesh Venkataramani, who wrote the memo, and is part of the bank's overall digital assets effort led by Mathew McDermott.
+
+Goldman Sachs, a dominant global investment bank for trading fixed income and equities, had been mulling the creation of a bitcoin trading desk since at least 2017. The firm tabled those plans initially and restarted the crypto trading team in March, Reuters reported earlier this year. Thursday's memo was the first time New York-based Goldman officially acknowledged its involvement in crytpocurrency trading.
+
+Under CEO David Solomon, Goldman has said it is seeking to broaden its market presence by "selectively onboarding" crypto trading institutions to expand offerings. The firm also said it launched a new software platform this week that provides the latest cryptocurrency prices and news to clients.
+
+Banks, including Goldman and rival Morgan Stanley, had announced plans to offer bitcoin investments to rich clients in their wealth management divisions but have mostly stayed away from the volatile asset in their Wall Street trading operations. Traders at firms including JPMorgan Chase have been asking managers when they could begin handling bitcoin, CNBC has reported.
+
+The derivatives Goldman traded, bitcoin futures and nondeliverable forwards, are ways to wager on the price of bitcoin. The contracts are settled in cash and don't require that Goldman deals with actual bitcoin, called "physical bitcoin" in the industry, because the bank isn't yet in a position to do so, Venkataraman noted in the memo.
+
+Here is the memo:
+
+
+
+May 6, 2021
+
+Formation of Cryptocurrency Trading Team
+
+I am pleased to announce the formation of the firm's cryptocurrency trading team, which will be our centralized desk for managing cryptocurrency risk for our clients. The Crypto trading team will be a part of Global Currencies and Emerging Markets (GCEM), reporting to me, within the firm's Digital Assets effort led by Mathew McDermott.
+
+As part of our initial launch, we have successfully executed Bitcoin (BTC) NDFs and CME BTC future trades on a principal basis, all cash settling. Looking ahead, as we continue to broaden our market presence, albeit in a measured way, we are selectively onboarding new liquidity providers to help us in expanding our offering.
+
+In addition, yesterday we launched our Digital Assets dashboard which provides daily and intraday cryptocurrency market data and news to our clients. We invite you to highlight the dashboard to your clients. For more information on trade approval and onboarding, contact the Digital Assets team.
+
+Please note, the firm is not in a position to trade bitcoin, or any cryptocurrency (including Ethereum) on a physical basis.
+
+
+
+Rajesh Venkataramani

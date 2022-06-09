@@ -1,0 +1,49 @@
+Crypto arbitrage has become a massive international business.
+
+It involves exploiting price differences in the same asset in different markets. It generally means buying bitcoin overseas and shipping it to an SA exchange where it can often be sold for a 2-5% premium to overseas exchanges.
+
+The holy grail of arbitrage trading is to remove as many of the risks as possible: the longer you are left holding bitcoin, the greater the risk of an adverse price move wiping out your arbitrage profit.
+
+Crypto platform Coindirect set out to solve this problem and came up with the three-minute arbitrage using a closed-loop system where bitcoin is purchased offshore from the company’s liquidity and simultaneously sold – again from its own liquidity – in SA to achieve an almost instantaneous arbitrage.
+
+Own platform
+
+The entire arbitrage process remains in the Coindirect platform, which makes it easier (and less risky) to keep track of each leg of the trade.
+
+Clients need a minimum of R100 000 to take advantage of the service, and Coindirect charges 1% of the capital on each arbitrage trade. That does not include the R500 Swift fee plus 0.35% for forex handling, making a total of 1.85%.
+
+Historically, Coindirect says it has achieved a net 3.24% for clients after all costs per trade. So if an individual was trading with R100 000, each trade would have made them R3 240 and theoretically it’s possible to do 110 trades in a year
+
+While there is no guarantee this will be achieved in future, Coindirect’s global head of trading, Chris Harmse, says by reducing the arbitrage trade to a few minutes, the company has removed many of the risks associated with arbitrage: “The biggest risk you face in any arbitrage is the length of time exposed to the market.”
+
+He adds: “Anyone attempting to do this on their own would have to purchase foreign exchange and ship that abroad to an overseas crypto exchange, and that normally takes several hours but can be up to 24 hours in some cases, during which time the arbitrage opportunity might have disappeared. The volatile rand might have also moved against you and eaten into your crypto profit.
+
+“Assuming the arbitrage premium is still attractive, you then have to purchase bitcoin at a lower price than is available in SA and ship it to a South African crypto exchange – that can take an additional hour by which time you are again at risk of the bitcoin and forex price moving against you and wiping out the arbitrage opportunity.
+
+“The way we are able to do this is to use our own balance sheet to hedge clients’ exposure. This way we can eliminate the directional crypto price and currency risk to which you would normally be exposed in arbitrage. Of course, we cannot fully eliminate the crypto security exchange risk, but that is something that applies to any exchange.”
+
+A built-in benefit
+
+Another benefit Coindirect offers its clients is the ability to preselect the desired minimum net profit. For example, where clients select a target net profit of 2%, Coindirect will not execute a trade until the arbitrage gap is wide enough to cover its own costs and deliver a 2%-plus profit to the client.
+
+To take advantage of bitcoin arbitrage, South Africans are required to make use of their R1 million a year discretionary allowance (which requires no approval from the SA Reserve Bank). A further R10 million is available under the foreign investment allowance (FIA) for those who have tax clearance from the South African Revenue Service. Coindirect has engaged the services of tax specialists to assist customers in applying for the FIA.
+
+Big backers
+
+Coindirect recently raised €1 million (R17 million) in a seed funding round led by Concentric, with participation from Blockchain.com and Andreessen Horowitz-backed MakerDAO.
+
+The cryptocurrency platform was founded by Donald Jackson (CTO) and Jesse Hemson-Struthers (CEO), both serial entrepreneurs with multiple exits to JSE-listed companies (Naspers, Blue Label Telecoms and Niveus Investments).
+
+With its head office in London, Coindirect has been expanding and now has offices in the UK, SA, New York and Hong Kong.
+
+In January this year, the Financial Conduct Authority in the UK required all crypto asset service providers to apply for temporary registration, pending a permanent licensing requirement which is soon to be implemented.
+
+In addition to its arbitrage service, Coindirect provides a platform for its 321 000 users to buy and sell more than 40 cryptocurrencies and provides a cross-border payment service with same-day settlement. It also operates an Over-The-Counter (OTC) desk for businesses and private clients to conduct large volume crypto transactions. Since its launch in 2017 Coindirect has moved more than €300 million (R5.1 billion).
+
+To register for Coindirect’s arbitrage service, sign up here.
+
+Any returns are indicative and based on past performance. Past performance is not a guarantee of future returns. You accept all associated risks with trading
+
+Brought to you by Coindirect.
+
+Moneyweb does not endorse any product or service being advertised in sponsored articles on our platform.

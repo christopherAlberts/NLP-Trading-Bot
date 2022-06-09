@@ -1,0 +1,17 @@
+Upstart cryptocurrency exchange LVL is opening pre-orders for a Mastercard debit card linked to bitcoin and fiat accounts.
+
+The card is among Mastercard’s premium products and can be used anywhere globally, said LVL CEO Chris Slaughter. Mastercard did not respond to requests for comment by press time.
+
+“It took a couple of months to get [Mastercard] to be comfortable with it being connected to crypto,” Slaughter said. “Convincing them that it was aligned with their premium brand was more involved because their view on crypto businesses is that they’re transactional businesses, not member services businesses. … We’re a subscription service, which is analogous to having a premium card membership in Mastercard’s eyes.”
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+The debit card is part of LVL’s aim to bring traditional banking services and crypto closer together for the average consumer. In November 2020, the firm removed trading fees on its platform in favor of a subscription-based service. Slaughter said he expects the debit card to generate a “substantial portion” of the firm’s revenue.
+
+On most exchanges, cash is held in “for benefit of” (FBO) accounts. Such accounts are opened in the company’s name and have sub-accounts for individual users. In contrast, Slaughter said, LVL offers demand deposit accounts that are opened in the customer’s name and can’t be controlled by LVL.
+
+LVL’s back-end bank is Evolve Bank & Trust, a community bank based in West Memphis, Ark., that the exchange accesses through San Francisco fintech firm Synapse. (Synapse offers APIs that allow other companies to add bank services like checking accounts to their platforms.)
+
+“Other people want to do crypto-linked debit cards but [LVL] is the fastest to market on this,” said Synapse CEO Sankaet Pathak. “One functionality that people constantly desire in the crypto space is the same thing that happened with E-Trade and Schwab – they want deposit capabilities, direct deposit and card issuance linked to their accounts.”
+
+Last month, BlockFi announced plans for a bitcoin rewards credit card.

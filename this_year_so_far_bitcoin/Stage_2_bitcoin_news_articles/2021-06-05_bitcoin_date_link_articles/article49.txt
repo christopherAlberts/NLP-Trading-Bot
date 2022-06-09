@@ -1,0 +1,23 @@
+Digital asset firm Gemini announced on June 3, 2021 that they are pleased to confirm the sponsorships of Bitcoin Core Developers Dhruv Mehta and Jarol Rodriguez.
+
+As mentioned in an update from the company, these sponsorships, made via the Gemini Opportunity Fund, will continue to offer support to the fund’s goal and mission to enhance the scalability, security, and sustainability of the Bitcoin (BTC) Network.
+
+As noted by the Gemini team:
+
+“Our sponsorship of Dhruv is in partnership with Square Crypto and the Human Rights Foundation and will support his efforts to improve the security of Bitcoin Network nodes. Dhruv’s work relates to the susceptibility of the Bitcoin Network to DNS and border gateway protocol attacks on Bitcoin seed nodes.”
+
+Gemini’s blog post also mentioned that their sponsorship of Jarol has been made directly via the Gemini Opportunity Fund. Jarol was recently part of a Chaincode Labs study group and “plans to focus on providing support for open issues, reviewing and testing pull requests, as well as improving the Bitcoin Network’s graphical user interface.”
+
+Dhruv and Jarol’s sponsorships will begin this month, and they will reportedly join Amiti Uttarwar as the first three Bitcoin Core Developers “sponsored by the Gemini Opportunity Fund.”
+
+As explained in the announcement, the Gemini Opportunity Fund is “a donor-advised fund focused on making Bitcoin more scalable, secure, and sustainable through grants, fellowships, and donations.”
+
+Established in December of last year, the Gemini Opportunity Fund has pledged almost $1.5 million toward Bitcoin Core development to date, and “plans to continue to support Bitcoin and the developer community going forward.”
+
+The Gemini team added:
+
+“We are thrilled to collaborate with Dhruv, Jarol, and Amiti as we continue on our mission to empower the individual through crypto.”
+
+The team at Gemini has been quite active during the unprecedented Bitcoin, Ethereum, and wider crypto market bull run (which has now slowed down considerably and gone through a significant correction).
+
+As reported recently, Gemini’s credit card waitlist now has more than 250,000 signups. The company recently surpassed $30 billion in crypto under custody and Gemini Earn introduced (in May 2021) interest earning opportunities for DogeCoin (DOGE), SushiSwap (SUSHI), and Injective (INJ).

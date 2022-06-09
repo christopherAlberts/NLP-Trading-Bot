@@ -1,0 +1,37 @@
+Sign up for our regular free newsletter for court stories sent straight to your inbox Invalid Email Something went wrong, please try again later. Subscribe Thank you for subscribing We have more newsletters Show me See our privacy notice
+
+Action Fraud has issued tips on how to identify password scams where fraudsters attempt to extort money in Bitcoin payments.
+
+One common phishing scam identified by the National Fraud Intelligence Bureau is known as "sextortion". The scammers email their potential victim with a genuine password that the victim has used, and then attempt to blackmail them by claiming they hacked into the victim's computer and recorded them watching pornographic videos.
+
+The emails usually contain the victim's own password in the subject header. The passwords are often sourced after data breaches from websites which the victim uses.
+
+The scammer then asks for the victim to make a Bitcoin crypto currency payment, other wise they threaten to send the video to the victim's contacts.
+
+An example email reads:
+
+“It Seems that, XXXXXX, is your password.
+
+"I require your complete attention for the upcoming 24 hrs, or I may make sure you that you live out of guilt for the rest of your lifetime.
+
+"Hey, you do not know me personally. However I know all the things concerning you. Your present fb contact list, mobile phone contacts along with all the digital activity in your computer from past 176 days.
+
+"Which includes, your self pleasure video footage, which brings me to the main motive why I’m composing this particular mail to you.
+
+"Well the last time you went to see the porn material websites, my malware ended up being activated inside your computer which ended up documenting a beautiful footage of your self pleasure play by activating your cam. (you got a unquestionably weird taste by the way haha)
+
+"I have the full recording. If, perhaps you think I am playing around, simply reply proof and I will be forwarding the particular recording randomly to 8 people you know.”
+
+Action Fraud has advises anybody who receives a similar email to NOT pay the ransom. Instead report the scan to report@phising.gov.uk.
+
+Head of Action Fraud, Pauline Smith, said: “Sextortion scams are a type of phishing attack where people are coerced to pay a ransom, normally in Bitcoin. The messages can look particularly convincing because they often include the recipient’s genuine password.
+
+“The criminals sending these emails are ruthless, unscrupulous individuals who don’t care about the impact of their actions on victims. They seek to exploit people’s emotions - shaming and scaring the recipient enough, that they make a payment.
+
+“If you receive an email that threatens you, your family, or your property in any way, and asks you to make a Bitcoin payment, don’t take the bait.”
+
+What to do if you get an email which attempts to extort Bitcoin from you
+
+Action Fraud has issued to the following advice for Bitcoin 'sextortion' scams.
+
+Action Fraud says:

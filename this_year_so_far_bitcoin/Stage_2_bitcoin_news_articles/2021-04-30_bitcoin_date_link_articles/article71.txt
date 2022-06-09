@@ -1,0 +1,57 @@
+Peer-to-Peer Internet ThreeFold Goes Multichain to Accelerate Token Accessibility
+
+press release
+
+PRESS RELEASE. Peer-to-peer internet ThreeFold integrates with several popular blockchain ecosystems in an effort to increase adoption for the world’s largest such network
+
+29th April 2021, Dubai, United Arab Emirates – ThreeFold plans to integrate its peer-to-peer internet platform with three of the leading blockchain ecosystems in the decentralized finance (DeFi) space; Binance Smart Chain (BSC), Ethereum, and Huobi’s ECO Chain.
+
+ThreeFold is set to integrate BSC in the next couple of weeks, with Ethereum and Huobi’s ECO Chain following shortly later on in Q2. These integrations will provide the ThreeFold ecosystem access to a wide array of DeFi applications. In turn, this will allow ThreeFold to be more accessible to the DeFi world and provide ThreeFold Farmers and users with more platforms to exchange TFT.
+
+ThreeFold’s bold move comes while the wider cryptocurrency market is booming. The total value of all cryptocurrency-related or blockchain-based projects has surpassed $2.1 trillion in recent weeks, as market leaders, such as Bitcoin and Ethereum, set new all-time highs. Accordingly, interest in blockchain technology is soaring as the number of active projects in the space nears 9,000.
+
+Moreover, in an environment in which internet use for all aspects of life is soaring owing to COVID-19 restrictions, ThreeFold’s main value proposition – a truly peer-to-peer internet platform – is gaining traction. ThreeFold sees the sustainability of internet services in the long-run and its decentralization as inseparable.
+
+Democratizing the Internet
+
+But why is this needed? The internet today is hosted by a small group of well-resourced companies that are responsible for the maintenance of data centres which provide the server and storage space for the vast quantity of content on the internet. In addition, these same companies are finding a way to monopolize the network connections that allow data to flow around the globe.
+
+As a result, decisions made by these companies have the power to entirely change the landscape of the internet unilaterally, without contest. Given the fact that the internet is now integral to much of the world’s industry, as well as many ways of life, the disproportionate power that these companies wield make them the de facto governors of the future of humanity’s development.
+
+Just as Satoshi Nakamoto envisioned the democratization of the financial system through decentralization, ThreeFold is on a similar quest to democratize the internet with a unique combination of autonomous and blockchain technology. The benefits would be clear. More internet users would benefit from a neutral peer-to-peer platform on which to store their data and run their applications privately and securely.. Moreover, decentralization removes the internet’s singular potential points of failure which could seriously disrupt the global Internet and Cloud industry.
+
+A Multichain Future
+
+ThreeFold’s upcoming integration with BSC, Ethereum and Huobi’s ECO Chain is a critical part of continuing to grow and cultivate the world’s largest peer-to-peer internet platform. Ethereum is the number one platform for decentralized applications (dApps) in the cryptocurrency and blockchain space as of today.
+
+Accordingly, ThreeFold’s platform will be put on the radar of the vast number of Ethereum users who could quite effortlessly become the much-needed nodes in its vision of a decentralized internet. Furthermore, there is a wealth of decentralized development expertise concentrated in the Ethereum-sphere, as well as in both Binance’s and Huobi’s blockchain ecosystems. In addition to improving compatibility with these platforms, ThreeFold will be able to tap into these development skills, inviting experienced dApp developers to build their applications on top of the ThreeFold Grid.
+
+Comparatively, ThreeFold’s ambitious integration plans put it far ahead of similar projects in the decentralized internet space, who are traditionally Ethereum-based. However, with the increasing cost of Ethereum-based development and its slower than required scalability updates, ThreeFold’s peer-to-peer Internet will remain affordable, scaleable and simple for developers.
+
+About ThreeFold
+
+ThreeFold is developing a peer-to-peer internet platform that aims to liberalize what it labels as a centralized and unequally distributed internet. Its platform, called the ThreeFold Grid, comprises over +600 servers in 25+ different countries around the world, delivering approximately 80 PB in storage and over 16,000 CPU cores worldwide, making it the largest storage and compute peer-to-peer internet network in the world. See ThreeFold Grid’s statistics in more detail using their explorer here.
+
+Each server runs ThreeFold’s stateless and lightweight open-source operating system, Zero-OS, and is set up and operated by independent individuals and organisations called Farmers. Farmers earn rewards in TFT – the platform’s native token – for their participation. TFT is the currency of the ThreeFold Grid, with each token representing a unit of storage and compute on the platform. Grid users can use these tokens to reserve the storage and compute they need to store, build and share on the platform’s internet network.
+
+ThreeFold’s ultimate vision is to be part of the movement to fully democratize the internet worldwide.
+
+To learn more about how ThreeFold plans to democratize the internet, visit their website here. For more information on TFT and how it fits into ThreeFold’s overall plans, see this page.
+
+Follow ThreeFold on Twitter: https://twitter.com/threefold_io
+
+Read ThreeFold’s documentation on Github: https://github.com/threefoldfoundation
+
+Like ThreeFold’s page on Facebook: https://www.facebook.com/threefold.io
+
+Media Contact Details
+
+Contact Name: Amazix Press Team
+
+Contact Email: press@amazix.com
+
+THREEFOLD is the source of this content. This Press Release is for informational purposes only. The information does not constitute investment advice or an offer to invest.
+
+This is a press release. Readers should do their own due diligence before taking any actions related to the promoted company or any of its affiliates or services. Bitcoin.com is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in the press release.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons

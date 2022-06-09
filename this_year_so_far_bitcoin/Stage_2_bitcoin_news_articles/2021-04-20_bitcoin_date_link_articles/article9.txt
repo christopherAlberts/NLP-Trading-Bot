@@ -1,0 +1,31 @@
+Some bitcoin traders appear to be locking in options market bets to protect themselves from further price drops in the wake of the cryptocurrency’s recent slide to three-week lows.
+
+Short-term put options on bitcoin, or bearish bets, are drawing higher prices than calls, or bullish bets. The one-week “put-call skew,” which measures this dynamic, has jumped to 26%, the highest since Oct. 2, according to data provider Skew. The one-month gauge has risen to a three-week high of 8%.
+
+Bitcoin (BTC) tumbled 6.3% on Sunday, the biggest single-day decline in almost two months, after disruptions at coal plants in Xinjiang and other parts of China last week knocked out bitcoin miners in the region. The Bitcoin blockchain’s hash rate – the amount of computing power devoted to securing the network – slid by 46% to 106 exahashes (quintillion computations) per second, the lowest since November.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Bitcoin was trading near $56,300 at press time after sliding as low as $53,400 earlier Tuesday, according to CoinDesk 20 data.
+
+The put-call skew is a gauge of the value of puts relative to calls; a positive skew implies that demand for puts (bearish options bets) is outstripping calls (bullish bets).
+
+Positive one-week and one-month skews do not necessarily mean that traders have turned bearish on the cryptocurrency. They could be buying “protective puts” – purchasing puts against long bitcoin positions in the spot or futures market.
+
+“Puts at $52,000 and $54,000 strikes for April 23 and April 23 expiry have been in demand since last week, which has caused the short-term skews to go into positive territory,” Swiss-based data tracker Laevitas told CoinDesk.
+
+Bitcoin: One-week put-call skew Source: Skew
+
+Some institutional investors bought bitcoin on Sunday as prices dipped to $51,248.
+
+“Our desk has been a net purchaser over the past 24-48 hours,” Greg Cipolaro, global head of research at NYDIG, a bitcoin-focused investment manager, wrote Monday in an email to subscribers.
+
+Some bitcoin buyers may have bought put options for downside protection, pushing up the put-call skew. The one-week gauge has increased from roughly 6% since Sunday
+
+While demand for short-term puts has spiked, long-term put-call skews remain well below zero, indicating continued bias for calls.
+
+Bitcoin put-call skews Source: Skew
+
+Some bitcoin miners may also have been purchasers of downside protection, traders said.
+
+“The trend in the hashrate does have a positive correlation with the price movement but usually on a longer-term perspective,” Marcie Terman, COO of crypto hedge fund Panxora Group said in a LinkedIn chat. “Our risk models use it as one of the inputs, and it has a positive correlation weight.”

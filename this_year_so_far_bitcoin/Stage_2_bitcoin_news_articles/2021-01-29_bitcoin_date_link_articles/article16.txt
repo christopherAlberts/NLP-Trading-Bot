@@ -1,0 +1,21 @@
+Bitcoin Miners Strain Under Semiconductor Supply Crunch, Second-Hand Mining Rig Prices Soar
+
+Bitcoin mining rig manufacturers are dealing with a semiconductor supply crunch according to regional reports stemming from China. There’s been a global semiconductor supply shortage and it’s affecting nearly every type of business in the supply chain that manufactures cars, PCs, laptops, smartphones, and cryptocurrency mining devices. Moreover, the recent shortage has invoked the demand for second-hand and older generation mining rigs.
+
+Semiconductor Shortage Complicates Mining Rig Manufacturing
+
+Currently, the world is dealing with a semiconductor supply crunch which has been spurred by the aftermath of Covid-19 and the lockdowns. Automobile makers, PC manufacturers, smartphone production, and almost every electronics manufacturer under the sun is dealing with this issue. For instance, reports detail that auto giants like Toyota Motors, Nissan, Ford, Volkswagen, and more have been chomping at the bit to obtain microchips from suppliers like TSMC. On January 27, 2021, the financial reporter from China, Iyke Aru, reported on how the microchip supply shortage is “taking a toll on Chinese bitcoin miners.”
+
+“The unique case of mining is complicated as a result of the coincidence with the increasing demand for Bitcoins and the associated expansion of the mining industry.” Aru details. Moreover, Aru also noted that because of the shortage “Chinese cryptocurrency miners are already scrambling for second-hand machines just to keep up with industry requirements.”
+
+Second-Hand Machines, Older Generation Rigs, and ‘Too Many People Going for the Same Foundries’
+
+Meanwhile, manufacturers and industry executives are hoping for other solutions to appear. During the second week of January, Nvidia revealed some cheaper types of semiconductors for computers that could possibly help the supply crunch, according to reports. Patrick Moorhead, principal analyst at Moor Insights and Strategy told Marketwatch in an interview that the shortage has impeded businesses working with semiconductor foundries. “There is not enough capacity at TSMC and at Samsung,” Moorhead explained. “There are too many people going for the same foundries.”
+
+The scramble for second hand and older generation mining rigs has not just affected China but second markets in Europe and the U.S. have seen increased prices. For example on Ebay, there are hundreds of results for pre-owned S9s and even people selling bulk packages as well. Mining rig prices can be 2x to even 10x higher than what they were before the crypto economy’s bull run. The quantity of second-hand mining machines is far larger when it comes to older generation mining rigs, as new releases are much harder to obtain. There are far fewer listings on secondary markets and direct from the manufacturer deliveries are sold out until spring 2021.
+
+What do you think about the semiconductor shortage taking a toll on the bitcoin mining industry? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

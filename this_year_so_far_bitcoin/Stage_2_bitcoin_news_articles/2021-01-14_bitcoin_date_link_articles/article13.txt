@@ -1,0 +1,29 @@
+Passwords are ubiquitous in modern life, controlling access to bank accounts, email accounts and even phones. However, they matter a great deal more in cryptocurrency investing than other assets. Mint explains their significance in the cryptocurrency world.
+
+Is bitcoin held on crypto exchanges?
+
+Bitcoin can be held in an online wallet with a cryptocurrency exchange. In technical terms, this is similar to holding shares in a demat account or mutual funds with a Registrar and Transfer Agent (RTA). If you lose your password to your broking account, demat account or mutual fund portal, you can retrieve it by emailing or calling the relevant intermediary (broker/distributor/depository) and generating a new password. Similarly, you can contact the crypto exchange and get a new password. In technical terms, a bitcoin/crypto password is called a private key and this is known to the platform in question.
+
+Can it be held outside the crypto exchanges?
+
+Yes, you can move your bitcoin to a non-custodial wallet, which is also called a cold wallet or cold storage. These wallets tend to be hardware devices or even pieces of paper with QR codes. They are not connected to the internet, except when you are actively conducting a transaction in and out of them and hence cannot be hacked into. However, if your device or paper is stolen, then your private key can be stolen by a thief. Such a theft would have to be physical. You might also lose the paper/device. But as long as you remember the password, the public key can be retrieved, even if the paper or hardware storage is lost/destroyed.
+
+View Full Image Mysterious findings
+
+Should we hold bitcoin on exchanges or off them?
+
+The answer depends on how frequently you transact in bitcoin. Frequent users will find the convenience of online exchange-held wallet attractive. However, if you are a long-term investor, you may want to move cryptocurrency to a cold (offline) wallet. This removes the risk of online hacking. On the flip side, you still run the risk of the wallet being stolen or forgetting password.
+
+What happens when passwords go missing?
+
+Unlike exchanges, cryptocurrency held in cold storage simply gets lost. It continues to exist on the blockchain without any owner. This is like cash or gold which is buried in a forest and its location forgotten. No government or company can take control of it. This is unlike bank accounts or mutual funds lying dormant where regulators take possession of such money and transfer it to investor protection funds. Also, since such bitcoin cannot be spent, it tends to reduce the supply of bitcoin in the system and cushions the price.
+
+Can any precautions be taken by investors?
+
+If you have moved cryptocurrency into cold storage, treat the wallet in question like cash or gold. Keep it in a locker at home or in a bank where it cannot be easily stolen. Do not trust anyone with the password. Once cryptocurrency is seized from you by a third party, it cannot be recovered by a court order. The courts or police cannot ‘freeze’ the crypto account of the thief because, in this instance, the cryptocurrency is not held by a regulated entity. Instead, it is directly held by the person who has the private key, like cash/gold.
+
+
+
+
+
+Subscribe to Mint Newsletters * Enter a valid email * Thank you for subscribing to our newsletter.

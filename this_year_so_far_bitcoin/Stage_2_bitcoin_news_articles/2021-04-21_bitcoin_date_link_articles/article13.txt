@@ -1,0 +1,45 @@
+Coindesk Director of Research Noelle Acheson joined Yahoo Finsance Live to break down the state of crypto.
+
+Video Transcript
+
+ADAM SHAPIRO: Some people are investing their money in cryptocurrency-- especially Bitcoin-- about $55,000 right now for a coin. Let's talk about what's going on in the broader crypto market. And we're going to help, or at least get some help, to do that from Noelle Acheson, Coin Desk Director of Research.
+
+It's good to have you here-- also the author of the "Crypto Long and Short" newsletter. And the reason we invited you into the stream is we get all of these predictions-- I mean, the latest is get ready for a 50% pullback, which seems a bit extreme. But we've seen things like that before. So what should we as, perhaps, crypto investors be paying attention to?
+
+NOELLE ACHESON: Hi, Adam. Thank you very much for having me. It's a pleasure to be here with you. And, yes, we have seen moves like that before. Bitcoin is volatile. And at some stage, it will have a correction. Although, I'd personally be very surprised to see that steep fall when sentiment is still bullish, when institutions are still leaning into investment as well as growing out crypto services when mainstream interest is-- really, mainstream investors are coming in by hordes, and on-ramps are rolling out for them almost every month-- when we also have regulatory tailwinds at the industry's back.
+
+Historically, Bitcoin has moved in four-year cycles. This is an important detail to bear in mind. And we're two years into this one. Could it be cut short? Yes, maybe, but that's extremely unlikely. And we also have to bear in mind that it has a lot to do with what's going on in the broader markets as well.
+
+While Bitcoin is presented as sort of the antidote to traditional markets and traditional assets, it is going to move in-line. We saw this last March-- when everything went south, Bitcoin went south as well. And sentiment out there may be jittery, but, again, we can't really say that it has turned bearish just yet.
+
+Story continues
+
+SEANA SMITH: Noelle, you mentioned the fact that there's more institutional investors coming in, and we've covered that time and time again here at Yahoo Finance. But how do you see that affecting-- or do you see it affecting the volatility at all? Is it going to help stabilize things?
+
+NOELLE ACHESON: Volatility right now is a lot lower than it was at the beginning of the year. It's a lot lower than it was at the end of January-- almost half what it was. Volatility has been trending down over time as more liquidity comes into the industry, as the capital markets infrastructure becomes more sophisticated, as there are more derivatives with which to hedge positions as well as take some directions.
+
+And well, it will always be a lot more volatile than some of the traditional assets that we know because of the lack of what traditional investors call fundamentals, because it is very narrative driven as well, and because it tends to move on sentiment. It will always be a lot more volatile, but that volatility is trending down.
+
+ADAM SHAPIRO: When we read notes from different analysts that point out, Bitcoin up about 90% year to date. It was over $60,000. But then they say, if it doesn't break $60,000 again soon, the momentum to go higher is gone. Those of us who aren't crypto investors but want to get in on this, how do we make heads or tails of it?
+
+NOELLE ACHESON: Adam, I'm actually-- I confess, I'm kind of with you on that. The psychological barriers and directions that the technical analysts talk about, I listen, I understand that psychology is very important. 60's a nice round number. But the trends, and the support, and the tailwinds-- I confess, I don't understand them either. There's so many variables in play at the moment in the crypto industry.
+
+It is not a market that is exclusively driven by technical analysis, as much as that may work in other markets, because it is so young, it is changing, it is not just a new type of asset. It's a new type of technology. And this is something that many of us tend to overlook at times.
+
+SEANA SMITH: Noelle, we saw Bitcoin hit an all-time high earlier this week. Since then, it's pulled back just a bit-- it's off another 10% right now. When you take a look at Dogecoin, does it have a purpose, do you think?
+
+NOELLE ACHESON: No, it doesn't. The fascinating thing about Dogecoin is that it has done so well, it has lasted so long, and it has such a loyal following without a clear purpose. And what it is doing-- and this is really fascinating-- is calling into question our understanding of value.
+
+It doesn't really have a purpose. Even its founders disavowed the project a very long time ago-- but there it is. There are many that believe it has value. Therefore, it has value-- calling into question our long-standing assumptions how markets should move, is, I think, Dogecoin's use case, really.
+
+ADAM SHAPIRO: OK, so we all know the childhood story-- Goldilocks, the three bears, too hot, too cold, just right. Is Ether-- I mean, Ether is, what, around $2,000 at this point. Does that make more sense for the investor who might want to start putting their toes-- I mean, that's still a lot of money. But it's not $55 grand and it's not Dogecoin either.
+
+NOELLE ACHESON: That's very true. One thing that many people misunderstand about Bitcoin, for instance, is that you don't have to buy a whole Bitcoin. Yes, it may be well over $50,000-- you don't have to spend a minimum of $50,000 to get involved. You can spend a fraction of that. Ether is a very different investment proposition.
+
+It is riskier. Its volatility is much higher. Its returns are much higher too, as one would expect from a riskier asset if moving in the right direction. But while Bitcoin is seen largely by investors today as a store of value first, Ether is more the technology play. Ether is undergoing a very radical, experimental transformation of its underlying consensus algorithm. It's very exciting.
+
+How often do we get to see this kind of transformation happening in real time in an asset that actually already has a very liquid market? It's something that we've never been able to witness before. And the potential of Ether to transform how finance works, how value is shared, and even how identity and many other aspects of our society function is interesting.
+
+It's really fascinating. It's risky, because it is so new. So is Ether a better bet than Bitcoin? It entirely depends on whether you're going to choose a store value proposition or whether you are more interested in getting in early on a liquid technology play. I should caveat that nothing I say is investment advice and my opinions are mine not those of my employer.
+
+ADAM SHAPIRO: Yeah, I totally understand that. And perhaps next time you come on, we can talk about one way to minimize that risk-- perhaps using that newly launched Ether ETF. But we have to say, thank you, right now. Noelle Acheson, Coindesk's Director of Research, good to have you here. We look forward to you returning.

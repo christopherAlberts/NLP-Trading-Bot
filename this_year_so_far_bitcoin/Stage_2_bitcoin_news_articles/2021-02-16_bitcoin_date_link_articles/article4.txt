@@ -1,0 +1,57 @@
+NEW YORK (Project Syndicate)—On Feb. 8, Elon Musk’s electric-car firm Tesla TSLA, +1.28% announced that it had invested $1.5 billion of its cash reserves in bitcoin back in January. The news helped to boost the cryptocurrency’s already skyrocketing price BTCUSD, +1.02% by a further 10%, to a record high of more than $44,000. But, especially in bitcoin’s case, what goes up can just as easily come crashing down.
+
+Bitcoin was invented in 2008 and began trading in 2009. In 2010, the value of a single bitcoin rose from around eight-hundredths of a cent to 8 cents. In April 2011, it traded at 67 cents, before subsequently climbing to $327 by November 2015. As recently as March 20 last year, bitcoin traded at about $6,200, but its price has since increased more than sevenfold.
+
+Today, bitcoin is a perfect, 12-year-old bubble. I once described gold GC00, +0.18% as “shiny bitcoin,” and characterized the metal’s price as a 6,000-year-old bubble. That was a bit unfair to gold, which used to have intrinsic value as an industrial commodity (now largely redundant), and still does as a consumer durable widely used in jewelry.
+
+Its value is whatever the markets say it is
+
+Bitcoin, by contrast, has no intrinsic value; it never did and never will. It is a purely speculative asset—a private fiat currency—whose value is whatever the markets say it is.
+
+Yabba dabba doo: Don’t fall for the bitcoin bubble, even the Flintstones had a better system, warns economist Nouriel Roubini
+
+But bitcoin is also a socially wasteful speculative asset, because it is expensive to produce. The cost of “mining” an additional bitcoin—solving computational puzzles using energy-intensive digital equipment—increases at such a rate that the total stock of the cryptocurrency is capped at 21 million units.
+
+Now read this: Electricity to power bitcoin surges to new heights as price gets Tesla boost
+
+Of course, even if bitcoin’s protocol is not changed to allow for a larger supply, the whole exercise can be repeated through the issuance of bitcoin 2, bitcoin 3, and so on. The real costs of mining will thus be replicated, too. Moreover, there are already well-established cryptocurrencies—for example, ether ETHUSD, +2.60% —operating in parallel with bitcoin.
+
+“ Lacking any obvious fundamental value anchor, bitcoin is likely to remain a textbook example of excess volatility. ”
+
+Looking for a equilibrium
+
+But as the success of government-issued fiat currencies shows, the universe of speculative bubbles is by no means restricted to cryptocurrencies such as bitcoin. After all, in a world with flexible prices, there is always an equilibrium where everyone believes the official fiat currency has no value—in which case it consequently has no value. And there are infinitely many “nonfundamental” equilibria where the general price level—the reciprocal of the fiat currency’s price—either explodes and goes to infinity or implodes and falls to zero, even when the money stock remains fairly steady or does not change at all.
+
+Finally, there is the unique “fundamental” equilibrium at which the price level (and the value of the currency) is positive and neither explodes nor implodes. Most government-issued fiat currencies appear to have stumbled into this fundamental equilibrium and stayed there. Keynesians ignore these multiple equilibria, viewing the price level (and thus the price of money) as uniquely determined by history and updated gradually through a mechanism like the Phillips curve, which posits a stable and inverse relationship between (unexpected) inflation and unemployment.
+
+Regardless of which perspective one adopts, real-world hyperinflations—think of Weimar Germany or the recent cases of Venezuela and Zimbabwe—that effectively reduce the value of money to zero are examples not of nonfundamental equilibria, but rather of fundamental equilibria gone bad. In these cases, money stocks exploded, and the price level responded accordingly.
+
+“ Tesla’s recent bitcoin buy-in shows that a large additional buyer entering the market can boost the cryptocurrency’s price significantly, both directly (when markets are illiquid) and indirectly through demonstration and emulation effects. ”
+
+Private cryptocurrencies and public fiat currencies have the same infinite range of possible equilibria. The zero-price equilibrium is always a possibility, as is the unique, well-behaved fundamental equilibrium.
+
+Bitcoin clearly is exhibiting neither of these equilibria at the moment. What we have instead appears to be a variant of a nonfundamental explosive price equilibrium. It is a variant because it must allow for bitcoin to make a possible, if unexpected, jump from its current explosive price trajectory to either the nice fundamental equilibrium or the not-so-nice zero-price scenario. This multiple-equilibrium perspective doubtless makes it appear risky to invest in intrinsically valueless assets like bitcoin and other private cryptocurrencies.
+
+Illiquid market: Who owns bitcoin? Roughly 80% are held by long-term investors
+
+The real world is of course not constrained by the range of possible equilibria supported by the mainstream economic theory outlined here. But that makes bitcoin even riskier as an investment.
+
+Market swayed by opinions, not fundamentals
+
+Tesla’s recent bitcoin buy-in shows that a large additional buyer entering the market can boost the cryptocurrency’s price significantly, both directly (when markets are illiquid) and indirectly through demonstration and emulation effects. But an exit by a single important player would likely have a similar impact in the opposite direction. Positive or negative opinions voiced by market makers will have significant effects on bitcoin’s price.
+
+The cryptocurrency’s spectacular price volatility is not surprising. Deeply irrational market gyrations like the one that drove GameStop’s share price to unprecedented highs in January (followed by a significant correction) should serve as a reminder that, lacking any obvious fundamental value anchor, bitcoin is likely to remain a textbook example of excess volatility.
+
+This will not change with time. Bitcoin will continue to be an asset without intrinsic value whose market value can be anything or nothing. Only those with healthy risk appetites and a robust capacity to absorb losses should consider investing in it.
+
+Willem H. Buiter is a visiting professor of international and public affairs at Columbia University.
+
+This commentary was published with permission of Project Syndicate—Schrödinger’s Bitcoin.
+
+More ideas about investing
+
+Index funds don’t buy IPOs but here’s why they should
+
+The stock market rightly sees an economic rebound—but is overlooking this worrisome development
+
+Why gold and platinum prices are taking the shine off of stocks

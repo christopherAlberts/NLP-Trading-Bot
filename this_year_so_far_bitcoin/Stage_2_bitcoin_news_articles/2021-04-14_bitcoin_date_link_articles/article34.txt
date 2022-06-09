@@ -1,0 +1,39 @@
+The year 2009 was declared by the US National Aeronautics and Space Administration (NASA) as the then second warmest year on record. The same year, the world’s first bitcoin was mined.
+
+Bitcoin is the leading cryptocurrency that offers a novel type of transaction method, as it does not involve the exchange of conventional currencies. Digital currency has the potential to revolutionize the economy in many ways.
+
+Bitcoin’s total worth is about $1 trillion. The cost of it, however, is the environment. In an interview, Bill Gates said, “Bitcoin uses more electricity per transaction than any other method known to mankind, and so it’s not a great climate thing.” Some researchers have claimed that the cryptocurrency alone could shatter global climate goals.
+
+Bitcoins or other cryptocurrencies are not printed by state institutions. They are generated via a process called mining. Mining refers to the use of supercomputers to verify bitcoin transactions by solving highly complex mathematical equations. In return, the miner is rewarded with some bitcoins. These computers are connected to cryptocurrency networks. The faster the computing, the higher the processing capability. To increase their likelihood of winning bitcoins, miners have established large-scale warehouses and industrial parks.
+
+Almost all mining processes run on supercomputers called mining machines. These computers consume an enormous amount of energy. The consumption increases with the deployment of additional equipment necessary for the maintenance of the computers. Coolants are among the essentials to keep the computers’ temperature low for efficiency. For this reason, many miners tend to move towards cooler areas to set up their mining networks. Iceland, for instance, has giant hubs of mining.
+
+The consumption of mass scale electricity creates a significant amount of carbon footprint. It is estimated that ten minutes of mining costs GBP200,000 worth of electricity. Bitcoin mining power usage per year is more than twice the amount of power consumed by Amazon, Apple, Facebook, Microsoft and Google combined. This is equivalent to 120TWh (Tera Watt Hour) of electricity. This figure roughly represents the amount of electricity used by Norway per year. Some sources have matched bitcoin's energy draining to that of Switzerland’s.
+
+Increase in temperature by 1.5 C is catastrophic for climate. It is noteworthy that the contemporary stage of cryptocurrency mining is just the tip of the iceberg. With the increasing operations of e-cash mining, global temperature could increase by 2 C.
+
+Carbon emission is not the only environmental hazard of bitcoin mining. The devices installed in the process are not reusable. The devices become part of electronic waste once they become out of date. Only 20 percent of electronic waste is recycled worldwide. The rest adds to the electronic waste pollution as many components are made up of plastic and other non-recyclable materials.
+
+China and the United States remain the key contributors of carbon footprints. Being the world’s largest producer of carbon dioxide emissions, China carries out 75 percent of global bitcoin mining. More than half of the mining energy comes from coal in China. Electricity is cheap there, which is feasible for miners. The growing scale of mining combined with industrial projects of its Belt and Road Initiative (BRI) will exponentially augment the environmental waste.
+
+The mayoral candidate of New York, Andrew Yang, has announced that they plan to invest in making the city a hub for bitcoin and other cryptocurrencies if elected. The US already ranks the world’s second largest carbon emitter. If the world’s financial capital, New York City, becomes the next BTC hub, the emissions will increase. Following New York’s new financial model, other parts of the world will also pitch in their fair share of the extensive CO2 emissions.
+
+According to a study by Cambridge University, 39 percent of bitcoin generating energy is renewable. The other 61 percent, however, is fossil fuels. Bitcoin’s defenders mining argue that the process uses surplus part of energy once the primary requirements of power supply are fulfilled. This may be true, but it is, nevertheless, a motivator for production of more energy which is not possible without the yield of additional harmful greenhouse gases. It is not hard to figure out the guaranteed beneficiaries of mining – the petroleum industry.
+
+Bitcoin is an innovation in the financial sector, but it does not necessarily need to be supported. By consuming far less energy, VISA (a financial services company) processes 1700 transactions per second, whereas bitcoin consumes an enormous amount of electricity to give mere 3.3 to 7 transactions per second.
+
+Elon Musk and other technology tycoons have started accepting digital cash as payment methods in their billion-dollar enterprises. Recently, his automobile manufacturing company, Tesla, purchased $1.5 billion worth of bitcoins, which spurred their demand. Tesla, whose purpose is to make the road mobility pollution-free by manufacturing green vehicles, has started to exchange bitcoins in exchange for its products.
+
+A green company is endorsing an environmental-unfriendly payment method. Irony is ineluctable.
+
+The Task Force on Climate-Related Financial Disclosures (TCFD) is an organization that is working on making a global standard for corporations regarding climate change. If this standard is adopted, the companies will have to disclose their carbon footprint to investors. This could be bad for cryptocurrency, but better for the environment. Multinational Corporations (MNCs) like BlackRock seek to assess their future investments on the basis of meeting the climate challenge.
+
+The whole sector of cryptocurrency is decentralized. This is one of the fundamental challenges in restricting the mining activities. The decentralization has given the cryptocurrency immunity over harming the climate through emissions from its power consumption.
+
+To curb the emissions, some authors of the scientific journal ‘Joule’ suggest the imposition of carbon tax by regulating this ‘gambling-driven’ source of CO2 emissions. Taxing cryptocurrency would require centralizing its operations which would defeat the purpose of a decentralized financial exchange. Bitcoin, or cryptocurrency as a whole, is not in itself hazardous to the environment. The colossal utilization of energy for mining and the subsequent emission is inherently the problem. The Intergovernmental Organizations (IGOs) on climate, like the Paris Climate Agreement, need to set goals for the regulation of cryptocurrency.
+
+Still, the most damaging agents for the climate are sectors like oil and gas. Dr Garrick Hileman, head of research at Blockchain.com and visiting fellow at the London School of Economics, is of the view that unlike traditional financial systems, the functioning of bitcoin is transparent. That is why it is an easy prey as compared to other industries. Had the energy consumption data of all corporations ‘readily available for scrutiny’, bitcoin’s perception might have been slightly different.
+
+The bitcoin mining rush poses a threat to the climate goals of the Paris Climate Agreement. Bitcoin will not kill our environment overnight, but it has the ability to impact climate change seriously. Unless the power usage of bitcoin mining is significantly reduced, it can hardly be perceived as an environment-friendly future currency.
+
+The writer is an engineer and scholar of history and politics. Email: naumanahmadbhatti@ gmail.com

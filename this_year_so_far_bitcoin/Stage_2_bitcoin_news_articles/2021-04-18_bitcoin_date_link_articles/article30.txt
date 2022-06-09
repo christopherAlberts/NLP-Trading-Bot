@@ -1,0 +1,55 @@
+MicroStrategy’s continuous Bitcoin acquisition has drawn the ire of investment banking giant HSBC. Despite being one of the largest business intelligence firms in the world, HSBC has stated that MicroStrategy is now a “virtual currency product,” a designation akin to the pseudo-Bitcoin exchange-traded fund status attached to the company on account of its sizable Bitcoin (BTC) balance sheet.
+
+Since August 2020, MicroStrategy has embarked on a Bitcoin acquisition spree and now holds more than $5 billion worth of BTC. Michael Saylor, the company’s CEO, has also become an outspoken Bitcoin proponent. Saylor’s Bitcoin evangelism has included attempts to encourage other publicly listed firms to add BTC to their balance sheet. Indeed, some other companies in the United States have emulated Saylor’s Bitcoin adoption.
+
+With corporate Bitcoin adoption becoming commonplace, the conversation appears to be shifting toward life and annuity companies and sovereign wealth funds to see where the next wave of institutional BTC investment will emerge. However, for legacy players like HSBC, Bitcoin and cryptocurrencies, in general, remain anathema even if the actions taken thus far appear to be arguably arbitrary.
+
+HSBC blacklists MicroStrategy stock
+
+HSBC blacklisted MicroStrategy’s stock, preventing customers of the bank’s online retail trading platform in Canada from acquiring the company’s shares. While HSBC did not respond to Cointelegraph’s request for confirmation on the report, the bank has publicly verified the news using similar statements contained in the original message shared by customers on Twitter.
+
+In the message sent to HSBC InvestDirect customers who already hold MicroStrategy (MSTR) stock, the bank revealed that additional MSTR purchases will no longer be possible on the platform. The communique stated that such customers could hold their current MicroStrategy stock balances or sell their shares.
+
+According to HSBC, the blacklisting was in line with the bank’s crypto restrictions enacted back in 2018. An excerpt from the bank’s policy as contained in the message to HSBC InvestDirect, or HIDC, customers reads: “HIDC will not participate in facilitating (buy and/or exchange) product relating to virtual currencies, or products related to or referencing to the performance of virtual currency.”
+
+Reacting to the news, Stuart Hoegner, general counsel at crypto exchange platform Bitfinex, told Cointelegraph that the decision was a “regressive step” in the context of the growing appeal of cryptocurrencies in the mainstream arena, adding:
+
+“Instead of refusing to participate in products relating to virtual currencies, HSBC should instead focus on delivering optimal services to its customers, many of whom pay high fees and interest rate charges on the bank’s loans and credit card products. In fact, it is blockchain technology’s capacity — by virtue of removing intermediaries — that can enhance levels of inclusion, accessibility and transparency in financial products.”
+
+Making sense of it all
+
+In singling out MicroStrategy, HSBC referred to the company as a “virtual currency product,” hence its decision to prevent customers from buying MSTR. However, HDIC lists shares of several companies with significant cryptocurrency involvement including Tesla, Square and Hut 8 Mining, to mention a few.
+
+Elon Musk’s electric vehicle manufacturing giant, Tesla, acquired about $1.5 billion worth of Bitcoin back in February. Hut 8 is a Bitcoin mining establishment, while Square operates Cash App, an avenue for buying BTC that also contributes greatly to Square’s revenue bottom line.
+
+Unlike MicroStrategy, which only holds Bitcoin on its balance sheet while still carrying out its function as a business intelligence firm, some of the tradable stocks on the HDIC platform belong to companies, like Hut 8, that derive value directly from cryptocurrencies.
+
+Commenting on the lack of clarity in HSBC’s decision, Jeffrey Wang, head of Americas at crypto finance provider Amber Group, told Cointelegraph: “It’s a very slippery slope for HSBC. Will they publish a clear set of defined rules for what they deem to be companies that derive value from virtual currencies?”
+
+He questioned further: “Why haven’t they also put this trading restriction on other companies that have publicly disclosed holdings of Bitcoin like Tesla? Will they block trading in Coinbase?” As an HDIC customer, Wang also expressed displeasure at the uneven application of HSBC’s anti-crypto policies, adding:
+
+“I think this is HSBC overstepping its reach on its retail brokerage offering. If a company is lawfully listed on the Nasdaq and is in compliance with any regulatory requirements, the decision to buy this stock should be left up to the end-user and not the brokerage.”
+
+HSBC’s ban on MicroStrategy stock trading becomes even more bizarre, given that customers can still buy exchange-traded funds that contain MSTR on the platform. Indeed. According to ETF.com, 88 ETFs hold MicroStrategy shares.
+
+The MSTR blacklisting is hardly the first negative consequence of MicroStrategy’s Bitcoin investment push. In December 2020, Citibank downgraded the company’s stock citing MicroStrategy’s “disproportionate” focus on BTC.
+
+New layers of legitimacy
+
+HSBC’s action puts the bank firmly in the corner of legacy financial institutions still averse to Bitcoin and cryptocurrency innovation. The move offers the latest indication of the bank’s repudiation of digital currencies following efforts to block customers from repatriating crypto trading profits from exchanges to their bank accounts earlier in the year.
+
+Meanwhile, several major players in the traditional finance arena are increasingly becoming more exposed to Bitcoin and cryptocurrencies as the novel technology gains new layers of legitimacy. From offering custody services for digital currencies to establishing digital asset exchange platforms, banks across the United States, Europe and Asia are showing a greater appetite for digital currencies.
+
+For Wang of Amber Group, HSBC is holding fast to a shrinking position of being a banking institution that remains averse to cryptocurrencies, telling Cointelegraph:
+
+“I think HSBC will be in the tiny minority — if not the only brokerage — that will restrict its retail investors from buying shares in publicly traded and regulated companies due to exposure to virtual currencies.”
+
+Recently, European investment banking giant Société Générale issued a tokenized security representing one of its structure products — investment packages linked to assets and derivatives — on the Tezos blockchain. The news marked a third consecutive year of a blockchain-related financial product being issued.
+
+In a message to Cointelegraph, Jean-Marc Stenger, managing director of digital capital markets at Société Générale and head of its fintech startup subsidiary, SG Forge, remarked that crypto companies will challenge legacy finance players that are slow to adapt to the emerging digital financial landscape. Rather than advocate for eschewing digital assets, Stenger identified the advantages held by traditional finance in real-world asset-based tokenization, adding:
+
+“Traditional financial institutions know how to structure regulated digital assets and how to cope with related requirements (investors protection, rules for markets integrity, compliance, KYC, continuity plans). But more importantly, they have origination and distribution capabilities and day-to-day business relationships with their clients.”
+
+While Société Générale’s digital asset offerings are not tied to cryptocurrencies, major U.S. investment banks such as Goldman Sachs and Morgan Stanley are looking to offer their clients exposure to Bitcoin funds.
+
+Amid the continued influx of institutional actors into the Bitcoin space, the question of whether governments will invest in BTC is likely becoming a matter of “when” and not “if.” With insurance companies and pension funds dipping their toes in the Bitcoin pool, sovereign wealth funds appear to be not too far behind.

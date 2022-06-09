@@ -1,0 +1,35 @@
+BTC Mining Devices 'Out of Stock' Worldwide- 6 Chinese Mining Rig Makers Dominate the ASIC Industry in 2021
+
+While bitcoin prices have slid in value and the high network difficulty, the leading crypto asset is still quite profitable to mine according to current data. Despite the profitability, these days there are only a few manufacturers producing application-specific integrated circuit (ASIC) machines.
+
+Microbt, Bitmain Sell the Most Profitable Bitcoin Miners on the Market, But Product Is Sold Out Across the Board
+
+Bitcoin (BTC) prices have seen some significant losses during the past two weeks but network participants, particularly bitcoin miners, continue to support the cryptocurrency network. Bitcoin miners have to leverage lots of capital and a great deal of ASICs to compete with the industrial speed and innovation this sector has captured. In the early days, a great number of ASIC manufacturers existed but these days, there’s only a small pack of mining rig manufacturers producing these devices.
+
+The top cryptocurrency ASIC manufacturers in 2021 include companies like Microbt, Bitmain, Canaan, Innosilicon, Strongu, and Ebang. Similar to 2020 statistics, this year Microbt and Bitmain continue dominate the market, as far as the most powerful and most profitable ASIC bitcoin mining rigs are concerned.
+
+Data shows the Microbt manufactured Whatsminer M30S++ produces around 112 terahash per second (TH/s), and uses around 3,472 watts of energy off the wall. Using today’s BTC exchange rates and an electricity rate of around $0.12 per kilowatt-hour (kWh), a single M30S++ released in October 2020 makes around $11.11 per day.
+
+A single Whatsminer M30S++ is not cheap as the company sells machines for $17,240 per unit. Every series of Whatsminers are currently sold out from the official manufacturer (Microbt) and the only way to obtain them is through secondary markets. The official distributor Microbt has made multiple deals with institutional buyers that have purchased thousands of these machines.
+
+Another dominant force in the world of ASIC manufacturing is Bitmain. The company is one of the oldest bitcoin mining rig makers and its track record shows it has consistently created some of the world’s most profitable machines year after year. In 2021, Bitmain is also sold out of all the Antminer series mining rigs it creates, as institutional buyers have purchased thousands of Antminers from the Chinese firm.
+
+At press time, Bitmain’s top machine, the Bitmain Antminer S19 Pro, gets around 110 TH/s and $11.38 per day in profit while paying $0.12 per kWh. Bitmain also has another model called the S19j Pro (100 TH/s) and while paying $0.12 per kWh, a single S19j Pro miner should get around $7.61 per day profit.
+
+Bitmain S19j models are out of stock and the company website doesn’t show how much a single unit can cost from the official distributor. Just like the M30S++, second market prices show the S19j machine sells for $17k per machine.
+
+Canaan, Innosilicon, Strongu, and Ebang,
+
+Canaan also has one of the top machines today, as the firm’s Avalonminer 1246 produces around 90 TH/s and pulls around 3,420 watts off the wall. Canaan has recently celebrated its eighth anniversary and has been competing against firms like Bitmain for quite some time. The Avalonminer 1246 was released in January 2021 and as always the company does not list prices on the website.
+
+In order to find out how much an Avalonminer 1246 is from the official distributor, an interested customer is required to fill out a consultation form. Canaan’s website does not say the company is “out of stock” or “sold out,” but the only way to find out is via “business cooperation and product consultation.” Second market prices show the Avalonminer 1246 selling for $9k to upwards of $12k per unit. Using current BTC exchange rates and an electrical cost of around $0.12 per kWh, a single Avalonminer 1246 should get around $7.12 per day in profit.
+
+Bitcoin mining machines made by a few other firms are still profitable using today’s BTC exchange rates. Strongu’s Hornbill H8 released in October 2020, produces around 74 TH/s and could get around $4.38 per day. Both Innosilicon and Ebang have lower-end models as far as hashrate is concerned but they are still profitable. The Innosilicon T3+ produces roughly 52 TH/s which can get $3.47 every 24 hours. Ebang’s Ebit E12+ is around two terahash less at 50 TH/s and produces $2.59 per day.
+
+The aforementioned six ASIC mining rig manufacturers are the top five producers today. Any company below the six bitcoin mining device producers has a long way to go to even dent the dominance these firms currently hold. Much like the Chinese mining pools that capture a large percentage of the global SHA256 hashrate, China’s ASIC manufacturers also command the issuance of the world’s machines.
+
+What do you think about the top five ASIC mining manufacturers and the machines they produce? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, Bitmain, Canaan, Microbt, Ebang, Strongu, Innosilicon,
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

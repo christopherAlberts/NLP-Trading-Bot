@@ -1,0 +1,37 @@
+Square (NYSE:SQ) recently added $170 million in Bitcoin (CRYPTO:BTC) to its balance sheet, marking a big jump from its $50 million in Bitcoin purchases in the fourth quarter of 2020.
+
+That investment wasn't surprising, since Square's CEO Jack Dorsey is a big backer of the world's top cryptocurrency -- but investors shouldn't read too much into this big Bitcoin bet, for three simple reasons.
+
+1. It's just a sliver of its cash equivalents
+
+Square ended 2020 with $3.16 billion in cash and cash equivalents. Its total Bitcoin holdings only accounted for about 5% of that total. Therefore, Square isn't aggressively converting all of its cash to Bitcoin -- it's merely keeping some on hand as a long-term bet on the cryptocurrency's future.
+
+2. Square sells its Bitcoin back to Cash users
+
+Square's own Bitcoin holdings aren't significantly boosting its revenue or earnings. Instead, Square generates revenue by buying Bitcoins and selling them back to its Cash App users with a slight markup. It doesn't charge any additional transaction fees for those purchases.
+
+The Cash App's surging Bitcoin sales offset a pandemic-induced slowdown in Square's seller-based transaction business, which provides its point-of-sales payment processing services, over the past year.
+
+In fiscal 2020, the Cash App's Bitcoin revenue rose ninefold to $4.57 billion, or 48% of its top line. Its Bitcoin gross profits surged 12-fold to $97 million, but that accounted for less than 4% of its total gross profit.
+
+Therefore, Square's low-margin Bitcoin revenue won't ever replace its higher-margin transaction and subscription-based revenue. That's why its total gross margin plunged from 40.1% in 2019 to just 28.8% in 2020, even as its total revenue more than doubled year over year.
+
+3. Buying Bitcoin brings more users to the Cash App
+
+Square's Cash App, which provides peer-to-peer payments, grew its gross profit 168% to $1.23 billion -- or 45% of the company's total gross profit -- in fiscal 2020. By comparison, Square's seller ecosystem -- which includes its merchant-based transaction fees, subscriptions, and services -- only grew its gross profit 8% to $1.51 billion.
+
+The Cash App surpassed PayPal's (NASDAQ:PYPL) Venmo in cumulative downloads back in 2018, according to Sensor Tower, and ended 2020 with 36 million transacting users, up 50% from a year ago. Cash generates most of its profits from its transaction fees, but it's locking in users with new features like Bitcoin purchases and free stock trades.
+
+That might seem like a costly strategy, but Square consistently sells its Bitcoins to users at a profit. Three million of Cash's users traded Bitcoin in 2020, and its total Bitcoin trading volumes jumped 2.5 times in the fourth quarter alone. Those rising engagement rates are likely locking more users into its app.
+
+As for stock trades, Square mimics Robinhood and sells its users' order flows to market makers. This business model isn't well-suited for unusually high trading volumes, as we recently saw in the Reddit-fueled buying frenzy in certain "meme stocks," but it enables Square to incur minimal costs while allowing its Cash users to trade stocks for free.
+
+That's how Square kept its acquisition cost per active transacting customer below $5 throughout all of 2020, even as it expanded Cash's ecosystem into adjacent markets. Simply put, Bitcoin is merely another brick in Cash's wall of fintech services which will support its ongoing transformation into an online bank.
+
+The bottom line
+
+During Square's fourth-quarter conference call, Dorsey explained the company's $170 million investment in Bitcoin in simple terms: "We believe the internet needs a native currency, and we believe Bitcoin is it."
+
+Dorsey said Bitcoin had "the highest probability of empowering more people in the economy in a fair way" and that by "owning Bitcoin, our incentives are aligned with skin in the game."
+
+Dorsey is clearly a big believer in Bitcoin, but investors should keep two facts in mind: Bitcoin only represents a sliver of Square's cash and equivalents, and its main interest in Bitcoin is its ability to expand Cash's user base and ecosystem. In short, investors shouldn't overreact and believe Square's latest Bitcoin investment will directly boost its revenue or earnings -- even if the cryptocurrency's price continues to soar.

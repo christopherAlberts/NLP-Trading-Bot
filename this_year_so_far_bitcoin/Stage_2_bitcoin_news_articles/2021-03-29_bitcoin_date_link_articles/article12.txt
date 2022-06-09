@@ -1,0 +1,39 @@
+Cryptocurrency traders might be shifting their primary focus back to bitcoin after several weeks focused on ether, alternative digital assets and even non-fungible tokens (NFTs).
+
+That might be one takeaway from an obscure data point pulled from the market for cryptocurrency options: the spread between the one-month implied volatility (IV) for ether (ETH) and bitcoin (BTC). It’s a measure of expected relative price turbulence between the two, and it has dropped to 8%, the lowest since Dec. 8, according to the data provider Skew.
+
+Historically, the implied volatility spread has proven a reliable indicator of upcoming shifts in market leadership. In September the ether-bitcoin implied volatility spread fell to multi-month lows, signaling a change in traders’ focus to bitcoin from ether and decentralized finance (DeFi); some even called it the end of the “Summer of DeFi.” Then, during the final three months of 2020, bitcoin surged 168%, outperforming ether and other major cryptocurrencies.
+
+Related: Canadian Bitcoin ETF Hasn’t Had a Single Day of Outflows
+
+Implied volatility is investors’ expectation of how risky or volatile an asset would be over a specific period, and is driven by net buying pressure for options and historical price volatility. In this case, the focus is on the difference, or spread, between the implied volatilities of the two crypto assets.
+
+At the most basic level, the drop in the spread to three-month lows indicates that options traders foresee ether and other coins trading in line with bitcoin, the biggest cryptocurrency by market capitalization.
+
+So cryptocurrency markets in the coming months might trade more in line with bitcoin’s fundamental drivers, which last year became more closely tied with economic data, because a growing number of large investors and institutions started buying the largest cryptocurrency as a hedge against inflation. Analysts say bitcoin has matured as a macro asset, with several public-listed companies such as Tesla adding it to their balance sheets.
+
+Story continues
+
+Factors such as monetary and fiscal policy expectations, news flow related to institutional adoption and traditional market action could have a bigger sway in determining prices for bitcoin and other cryptocurrencies, at least over the next four weeks.
+
+Related: Avanti's Caitlin Long on the Crypto Bank's $37M Raise
+
+Ether is the second-largest cryptocurrency by market value, and many other so-called altcoins are built atop Ethereum’s blockchain technology. As such, many alternative cryptocurrencies tend to trade in line with ether.
+
+The volatility spread climbed to record highs in January, suggesting scope for bigger percentage moves in ether and other alternative cryptocurrencies.
+
+The volatility gauge peaked at a record high of 58% on Jan. 20 and has been falling ever since. Three- and six-month spreads are also on a declining trend.
+
+While bitcoin has gained 100% this quarter, names like ether, XRP and chainlink (LINK) have chalked out more significant gains.
+
+One giant caveat: While the compression of the ether-bitcoin implied volatility spread suggests low expectations for ether price turbulence relative to bitcoin, it doesn’t necessarily say anything about the direction of impending moves.
+
+So bitcoin could go higher or lower, with ether and other coins likely to follow suit, and possibly charting smaller percentage moves than the crypto market leader.
+
+Also read: Bitcoin Breaks Out, Near $58K, After Visa Adds Support for Stablecoin USDC
+
+That said, April is a historically bullish month for bitcoin, and some options traders are buying $80,000 call options expiring April 30 in anticipation of a price rally.
+
+Bitcoin is already on the offensive heading into the seasonally bullish period. The cryptocurrency jumped to $58,000 on Monday, breaking out of a two-week-long bearish trend, after payments giant Visa added support for the stablecoin USDC. The announcement was seen as a sign of growing mainstream adoption of digital assets.
+
+Related Stories

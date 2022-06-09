@@ -1,0 +1,29 @@
+Bitcoin is now 12 years old. Although it has managed to fend off all newcomers to date, its time at the top may be coming to an end. That’s according to Fahad Kamal, the Investment Chief at private bank Kleinwort Hambros.
+
+Kamal likens the situation to the tech boom of the late nineties going into the new millennium. Not only was it a time of massive capital inflow, as we see now in crypto, but history shows that many pioneering projects faded as the competition got better. From a technical standpoint, Bitcoin is a dinosaur compared to the latest third-generation blockchains. While nothing matches its network effect at present, is Bitcoin on a downward path?
+
+“The cryptocurrency space today looks very similar to the internet space in 1997. In 1997, we thought Netscape Navigator was by far the most advanced sophisticated browser and there would never be anything to compete with that.”
+
+Bitcoin Under Pressure
+
+With the green plan, it’s difficult to ignore Bitcoin’s massive energy consumption due to its power-hungry Proof-of-Work consensus algorithm.
+
+Over time as its price has gone up, so has its energy consumption. Current estimates put its annual energy consumption at 135 TWh. For comparison, that’s more than the electricity used by Sweden, at 132 TWh.
+
+Kamal sees the energy conundrum Bitcoin faces as a significant factor in its breakdown. There’s also the broadening narrative surrounding its use in illicit activities. While this is an industry-wide problem, and one that is disputed, with data from Chainalysis estimating less than 1% of Bitcoin transactions involved in criminality, that in itself doesn’t matter.
+
+What matters is how governments interpret the data and enact legislation taking into account other agendas. Kamal mentioned the tougher regulations coming in from both Turkey and India.
+
+Ethereum to Take Over Top Spot?
+
+ETH 2.0 will see Ethereum switch from a Proof-of-Work protocol to a more environmentally friendly Proof-of-Stake model. Phase 2, the final phase, is penciled in for a 2022 rollout.
+
+While some expect Bitcoin to follow suit and make significant protocol changes to move with the times, the founder of Bitcoin Suisse, Niklas Nikolajsen, said that as the dominant chain carrying the most value, it’s logical that Bitcoin is the most conservative in terms of changing its formula.
+
+However, Nikolajsen doesn’t rule out a change altogether. He believes new technological advancements in computer science, cryptography, and mathematics could inspire change.
+
+“I believe that it is entirely possible that if one day new consensus algorithms and advancements are proven to possess the right balance of qualities such as a high degree of decentralization, scalability and security, these will in time inspire BTC and its forks.”
+
+Since the start of April, Ethereum is up 40% versus a 7% drop for Bitcoin. Based on current market caps, if there’s one cryptocurrency to displace Bitcoin, it’s Ethereum.
+
+JP Morgan echoes this sentiment. They see Ethereum’s superior utility as a factor in Bitcoin losing out in the long term.

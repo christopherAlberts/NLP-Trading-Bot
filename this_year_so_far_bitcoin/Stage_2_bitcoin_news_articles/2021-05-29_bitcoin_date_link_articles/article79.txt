@@ -1,0 +1,17 @@
+Bitcoins on derivatives exchanges are at their highest level since May 19, signaling a volatile weekend ahead.
+
+Historically, derivatives exchanges like Binance Futures, BitFinex, and BitMEX are able to create massive price movements (a single entity or group of entities can create huge swings using a relatively low number of coins) thanks to the provision of massive amounts of leverage. These exchanges allow margin trading of even over 100X leverage.
+
+Bitcoin had already seen much volatility over the past 24 hours, following a price decrease of 6% recording a 5-day low beneath $34K, as of writing these lines.
+
+Market manipulation is still rampant in the cryptocurrency market, both at the exchange level and the sphere of public awareness, as famous figures in the cryptocurrency space created shockwaves in the Bitcoin ecosystem with large announcements throughout May.
+
+May 19th, 2021, was a day of massive volatility where BTC briefly dipped under $30K. It was demarcated by a large number of bitcoins on derivatives exchanges, as can be seen on the following chart, presumably allowing whales to create large swings.
+
+Notably, spot exchanges also saw a massive inflow of bitcoins on the 19th. On spot exchanges, bitcoins can only be used to create downward pressure (without derivatives, BTC can only be sold, and can’t be used to create leveraged long positions).
+
+Although derivatives volume is about to spike, indicated by the inflow of bitcoins into derivatives exchange, the similar inflow has not been noticed on spot exchanges (bitcoins on the latter are still at relatively low levels compared to the 19th).
+
+This matches the volatile Saturday we are already witnessing, while we can expect further volatility over the next short term.
+
+The coming days will likely showcase some huge swings, with volume coming in from both directions. Given the relatively low number of bitcoins on spot exchanges, the net move may not necessarily be bearish at all, moving onwards from now.

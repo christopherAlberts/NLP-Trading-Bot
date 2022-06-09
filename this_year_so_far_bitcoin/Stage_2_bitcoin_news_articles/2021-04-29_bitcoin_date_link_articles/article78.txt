@@ -1,0 +1,49 @@
+Ethereum has been a tear recently, rising more than 63% over the past month.
+
+Technical analyst Julius de Kempenaer told us why he thought it would surge to $3,000.
+
+He also broke down how he traded cryptocurrencies based on price momentum and relative strength.
+
+See more stories on Insider's business page.
+
+The price action of bitcoin and other cryptocurrencies tends to be highly volatile.
+
+While many say the digital-currency space has long-term tailwinds and a strong fundamental investment case, its up-and-down nature in the short term can be difficult for some investors to stomach.
+
+But for near-term-minded investors, these price swings can be an opportunity to make money. Using technical analysis, traders can pick up on momentum patterns that tell them when the best times to buy and sell are.
+
+One technical-analysis tool is the Relative Rotation Graph, or RRG, which looks at the cyclical nature of asset prices. Its creator, Julius de Kempenaer, who is a senior technical analyst at StockCharts (where traders can use the RRG tool), shared with Insider how he used the apparatus to predict where prices might go next.
+
+The RRG is divided into four quadrants: lagging, improving, leading, and weakening. The two axes it sits on measure price momentum (vertical) and relative price performance to another asset (horizontal).
+
+In the example below, the performance of the market's biggest tech stocks relative to the performance of the S&P 500 are shown.
+
+Stockcharts.com
+
+While they don't go in a perfect circular shape, assets typically move around the chart, touching all four quadrants. In the chart above, Facebook would be the safest buy, de Kempenaer said, as it is on its way to the "leading" quadrant. Buying when a stock enters the "leading" quadrant is also safe, but investors lose out on much of the gains by this point, he said.
+
+But assets can change from their expected trajectories and present investors with further opportunity even while in the "leading" quadrant.
+
+This is what's happening with the cryptocurrency ethereum at the moment. In the chart below, which has prices of multiple cryptocurrencies' performance relative to bitcoin, ethereum is the only asset changing course and moving back upward, meaning it's likely to see better gains than the other cryptocurrencies in the near term (movement to the right signifies higher upward price momentum).
+
+Stockcharts.com
+
+"In this universe, ethereum stands out," he said. "It's a very short tail. The other ones are much longer. It's the only one moving to the right."
+
+When de Kempenaer notices a trend like this in a cryptocurrency, he then looks at its price chart relative to bitcoin. Shown below, ethereum's price relative to bitcoin has upward momentum.
+
+Stockcharts.com
+
+"We are breaking an almost 2 1/2- to three-year base," de Kempenaer said. "When you see a stock price breaking out of such a long base, people get very excited."
+
+But de Kempenaer is also bullish on ethereum from its price trends alone. He said he expected it would continue its rise until at least $3,000, based on its prior breakout range from about $2,000 to $2,500, before it briefly sold off to $2,100 in mid-April.
+
+He said: "$3,000 is your first target. That comes from the height of that prior range that's around 2,000 to 2,500. Very often you can project that range on top of the breakout level. We saw a little bit similar when we had that break above 2,000. The lowest low off of that was 1,400."
+
+Ethereum's price action over the past year. Markets Insider
+
+He added that its upward path of reaching higher highs and higher lows signified it was in a bullish trend because sellers were willing to unload the asset only after it reached new highs, and buyers were willing to step into it at higher prices than prior corrections.
+
+Another technical analyst — Katie Stockton of Fairlead Strategies — also said this week that price momentum would carry ethereum to above $3,000.
+
+Some of the biggest banks have also had increased interest in it, which perhaps boosts its fundamental bull case in terms of wider-spread adoption.

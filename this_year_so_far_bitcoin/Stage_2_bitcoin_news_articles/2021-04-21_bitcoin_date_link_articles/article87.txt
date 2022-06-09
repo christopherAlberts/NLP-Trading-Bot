@@ -1,0 +1,47 @@
+Technology How Bitcoin trade is hurting climate change mitigation
+
+By FAUSTINE NGILA
+
+More by this Author Summary To keep the Bitcoin blockchain up and constantly running, it requires enormous computing power, consuming huge amounts of hydroelectricity in the process.
+
+Global Bitcoin mining and trade consumes 121.36 terawatt-hours (tWh) of electric energy per year, which is more than 15 times the electric power consumed by Kenya annually (7.86 tWh).
+
+The Bitcoin cryptocurrency has made it easier to become a millionaire in Kenya, appreciating more than 1,200 per cent since March last year to hit an all-time-high of Sh6.9 million last week, but that has come at the expense of climate change mitigation efforts.
+
+To keep the Bitcoin blockchain up and constantly running, it requires enormous computing power, consuming huge amounts of hydroelectricity in the process.
+
+Global Bitcoin mining and trade consumes 121.36 terawatt-hours (tWh) of electric energy per year, which is more than 15 times the electric power consumed by Kenya annually (7.86 tWh), according to the University of Cambridge’s Bitcoin Electricity Consumption Index.
+
+A Nature Communications research paper estimates that between January 1, 2016, and June 30, 2018, up to 13 million metric tonnes of carbon dioxide emissions were due to the Bitcoin blockchain.
+
+China, boosted by affordable electricity, controls the biggest share of Bitcoin mining at 75 per cent, hurting its commitment to the Paris Agreement.
+
+“By investigating carbon emission flows of Bitcoin blockchain operation in China with a simulation-based Bitcoin blockchain carbon emission model, we find that without any policy interventions, the annual energy consumption of the Bitcoin blockchain in China is expected to peak in 2024 at 296.59 tWh and generate 130.50 million metric tonnes of carbon emission correspondingly,” forecasts the report.
+
+Internationally, this emission output would exceed the total annualised greenhouse gas emission output of the Czech Republic and Qatar.
+
+“I think Bitcoin consumes half as much energy as all the world’s data centres at the moment,” says DigiEconomist founder Alex de Vries.
+
+Kenya is second in Africa after Nigeria in Bitcoin trade, registering more than Sh6 billion in transactions between 2015 and 2020, according to an analysis by Bitcoin trading platform Paxful.
+
+In 2020, despite the economic hardships caused by the pandemic and the Central Bank of Kenya’s advisory against the use of cryptos, there was more Bitcoin trading in the country than ever before, with trade volumes reaching Sh5.1 billion, a 472 per cent increase from 2019.
+
+“Kenya has traded a total of 5,895 Bitcoins between 2015 and 2020, with Nigeria exchanging Sh63.15 billion worth of Bitcoin in 2020. South Africa is third at Sh2.1 billion with Morocco fourth at 229.8 million,” Paxful data shows.
+
+Bitcoin mining uses more power than entire sub-Saharan Africa, according to data by British energy analytics platform Power Compare.
+
+A single Bitcoin transaction uses roughly 707.6 kilowatt-hours of electrical energy, equivalent to more than twice (208 kWh) the power consumed by an average Kenyan household in 30 days, according to Digiconomist.
+
+Benjamin Arunda, Nairobi-based author Understanding the Blockchain told Digital Business that even when all Bitcoins have been mined, the energy required to maintain the network and keep it secure will remain the same.
+
+“It is through Bitcoin transactions where miners and energy consumption come in. Miners have to approve the buying and selling of Bitcoin, which involves solving complex mathematical algorithms that need high power consumption,” he says.
+
+Mr Arunda adds that the mitigating factor lies in moving to clean energy sources such as solar, wind and geothermal.
+
+“I expect more use of Bitcoin in the coming years, meaning the energy demand will soar. Reducing power requirements would need you to reduce the mathematical complexity of the algorithm, which would now compromise the security of all Bitcoins,” he says.
+
+George Mwakisha, business development manager for Kenya at Chinese cryptocurrency platform Binance told the Business Daily that the lack of regulation has made it difficult for Bitcoin mining companies to come together to agree on the use of clean energy.
+
+“The world needs a consensus in the use of clean energy to reduce these emissions.
+
+“Affordable solar power infrastructure across mining countries would be a big step towards green Bitcoin mining and moving away from polluting the environment in the name of acquiring money,” he observes.

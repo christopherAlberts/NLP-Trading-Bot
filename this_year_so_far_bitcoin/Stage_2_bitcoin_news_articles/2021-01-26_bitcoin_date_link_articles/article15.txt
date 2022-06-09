@@ -1,0 +1,13 @@
+Is this the point we're at now? Building mining rigs in odd places just to annoy gamers. Well, here's one guy doing it just to further frustrate people. Simon Byrne has fitted six Nvidia RTX 3080s into his BMW i8, and he says the hybrid car is able to run the rig, too.
+
+The mining rig (spotted by HardwareTimes) is fitted into the trunk of the car and can be powered by the car's internal battery. It isn't particularly practical, however, as the boot (or trunk, for you Americans) has to remain open or else the whole thing overheats.
+
+But it's not about being practical, so says Byrne, it's about aggravating gamers, apparently. Tom's Hardware reached out to Byrne to check the system was real and operational, and Byrne responded saying "Indeed, just to annoy gamers."
+
+He also claims to have visions of a utopian world run by cryptocurrency, although what sort of utopia involves spite building mining rigs in the boot of your car I don't know.
+
+The mining rig comes in rather shy of the 78 RTX 3080 mining farm that Byrne also operates, all fitted with the same PNY graphics cards.
+
+There's undoubtedly new pressure from bots on graphics card supply not only to resell for a profit but to build cryptocurrency mining rigs. Similarly, there have been reports of bulk sales further down the supply chain for use in mining farms, meaning fewer cards end up reaching retail. The impact of either of these practices is not precisely known, and with ongoing component shortages also playing a large part in shortages it's tough to see the wood from the trees as to a root cause.
+
+It's not an easy time to buy graphics cards, and once again we're seeing some hit from the recent price increase of Bitcoin. The crypto-coin is extremely volatile, however, and can seemingly crash overnight, shaving thousands off its value. It's also once again raised the ire of regulators, who would like to see crypto come under governance—a bit of a nightmare scenario, for some.

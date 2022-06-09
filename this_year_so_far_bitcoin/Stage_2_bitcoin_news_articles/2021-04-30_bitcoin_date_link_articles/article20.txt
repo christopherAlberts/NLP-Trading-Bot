@@ -1,0 +1,135 @@
+Personal Finance Insider writes about products, strategies, and tips to help you make smart decisions with your money. We may receive a small commission from our partners, like American Express, but our reporting and recommendations are always independent and objective.
+
+Best crypto exchanges of June 2021
+
+Exchange Fees Best for Coinbase 0.50% spread for buy/sell transactions; transaction fee from $0.99 to $2.99; up to 0.50% for Coinbase Pro Bitcoin-focused individuals and institutions Binance.US 0.1% spot trading fee; 0.5% instant buy/sell fee (4.5% fee for deposits with US debit card) Low fees Kraken 0% - 0.26% Futures and margin traders Cex.io 0.16% - 0.25% maker/taker transaction fees (2.99% deposit) Large cryptocurrency selection Gemini $0.99-$2.99% fee for web and mobile transactions between $10 and $200 (1.49% fee for transactions over $200); 0.50% convenience fee; 3.49% debit card transfers Bitcoin and Ethereum traders Bittrex 0-0.35% maker/taker fees Account security
+
+Understanding cryptocurrencies alone can be daunting, and if you're new to crypto trading, finding the right platform to buy and sell popular assets like Bitcoin, Ethereum, and Litecoin can be another challenge.
+
+Most crypto exchanges also offer features like staking rewards (for holding a crypto asset for a set period of time), margin trading, crypto trading tools, and more.
+
+We've compiled some the best cryptocurrency exchanges for buying and selling crypto assets. Keep reading to find the best option for you.
+
+Coinbase: Best for Bitcoin-oriented traders
+
+Coinbase Account minimum $2 Fees 0.50% spread for buy/sell transactions; transaction fee from $0.99 to $2.99; up to 0.50% for Coinbase Pro Features Coinbase Earn rewards, Coinbase Pro advanced account, user-controlled storage, Stablecoin, staking, and institutional trading tools Open account
+
+Why it stands out: Coinbase offers more than 50 cryptocurrencies, including Bitcoin, Ethereum, Litecoin, Dogecoin, and Ripple. The exchange also offers multiple investment options for individual and institutional clients. Some of its account features include staking rewards, iOS and Android mobile apps, and a Coinbase Earn account option that pays you in crypto assets for watching educational videos.
+
+Coinbase also offers two other options: Coinbase Pro for advanced traders and Coinbase Prime for institutions and high-net-worth clients (individuals with at least $1 million). Coinbase Pro users get access to more advanced features like secure trading bots, charting tools, and real-time order books.
+
+In addition to the Prime cryptocurrency trading platform, institutional clients can utilize commerce services, cold storage (offline storage for crypto assets), and an Asset Hub that allows issuers to list and grow their products on the platform.
+
+What to look out for: If you regularly use margin accounts to trade, Coinbase isn't the best choice. The exchange doesn't let you temporarily borrow money to trade crypto assets, nor does it offer futures (legal contracts that give you the choice to exchange a security at a specific price on a forthcoming date).
+
+Binance: Best for low fees
+
+Binance.US Account minimum $10 Fees 0.1% spot trading fee; 0.5% instant buy/sell fee (4.5% fee for deposits with US debit card) Features Automated recurring buys, over-the-counter trading, staking rewards, crypto pairs, institutional trading services Open account
+
+Why it stands out: Binance.US was formed in 2019 after Binance halted its services to US traders. The exchange primarily caters to US investors, and it supports more than 50 cryptocurrencies. Like Coinbase, it offers investment options for both individuals and institutions.
+
+Some of its account perks include staking rewards, recurring buys (an automated feature that gives you the option to automatically invest on a set schedule), OTC trading, crypto trading pairs, and Stablecoins (assets that are backed by US dollars).
+
+When it comes to staking rewards, you can earn from 1-10% for holding different crypto assets over a period of time. For instance, if you held 20 QTUM, you'd earn 1-2% back as an annual reward. If, however, you instead purchased and held at least 0.5 ATOM, you'd be eligible for an estimated annual reward of 6-9%.
+
+Binance.US also offers a wide range of features for institutional clients. These include its Websocket feed that produces real-time market data, a trading API, OTC trading portal, institutional monthly staking rewards, and 24/7 customer service.
+
+It also offers mobile access for iOS and Android devices.
+
+What to look out for: Though Binance.US solely serves US clients, it has a few geographic limitations. For example, you won't be able to use its services if you're a resident of Connecticut, Hawaii, Idaho, Louisiana, New York, Texas, or Vermont. In addition, Binance.US may not be the best choice for beginner traders since its educational offerings are limited.
+
+Kraken: Best for futures and margin traders
+
+Kraken Account minimum Depends on type of cryptocurrency Fees 0% - 0.26% Features Nearly 60 cryptocurrencies, margin and futures trading, OTC trading; account management for high-net-worth individuals and institutional clients; multiple trading platforms, educational resources, and staking rewards Open account
+
+Why it stands out: Like the exchanges above, Kraken has 50+ cryptocurrencies with an array of options both for retail investors and institutional investors. But when it comes to global support, Kraken has a bit more reach than Binance.US. The exchange currently supports traders in nearly 200 countries.
+
+Kraken also offers margin trading and futures trading. With its margin accounts, you can borrow up to five times your account balance to trade crypto assets. Futures trading — contracts which allow you to buy or sell an asset at a set price on an upcoming date — is available for Bitcoin, Ethereum, Litecoin, Bitcoin Cash, and Ripple.
+
+The exchange also offers its own futures trading platforms. But institutional clients can take advantage of expert insights, one-on-one consultations, account management support, and more.
+
+All clients can utilize Kraken's staking rewards, iOS and Android mobile app access, and educational resources.
+
+What to look out for: Kraken's futures mobile platform isn't currently available to US traders. In addition, only institutional and high-net-worth clients can utilize the exchange's consultation and account management services.
+
+CEX.IO: Best cryptocurrency selection
+
+Cex.io Account minimum $20 minimum daily deposit Fees 0.16% - 0.25% maker/taker transaction fees (2.99% deposit) Features More than 80 cryptocurrencies, margin trading, staking rewards, crypto-backed loans, institutional services Open account
+
+Why it stands out: Based in London, CEX.IO is a global crypto exchange supporting traders in more than 99% of countries worldwide, including 48 US states, according to its website. The exchange also gives you access to Bitcoin and more than 80 other crypto assets.
+
+All users can access CEX.IO's instant buy feature (this is only for credit and debit card purchases), mobile app, staking rewards, and crypto-backed loans. But more advanced traders might prefer CEX.IO's spot trading feature (this option lets you place different types of crypto market orders) and margin trading accounts. Institutions and businesses can use its aggregator and payment management services.
+
+It's also important to point out CEX.IO's fee schedule. The exchange has a maker/taker schedule that's based on your 30-day trading volume. Maker orders can't be executed immediately since there are no other orders to match with them; however, taker orders match immediately, according to CEX.IO.
+
+Its maker fees range from 0-.016%, and its taker fees span from 0.1-0.25%. You can also access CEX.IO on iOS or Android devices.
+
+What to look out for: Transactions with debit or credit cards can be pricey at CEX.IO. For deposits, you'll be have to pay a 2.99% fee. Withdrawals for US residents using a Visa card include a service charge up to 3% plus an additional $1.20 and commission up to $3.80. Mastercard users can expect a service charge up to 1.8% plus an additional $1.20. There's also a commission up to 1.2% plus $3.80.
+
+Gemini: Best for Bitcoin and Ethereum traders
+
+Gemini Account minimum $0 Fees $0.99-$2.99% fee for web and mobile transactions between $10 and $200 (1.49% fee for transactions over $200); 0.50% convenience fee; 3.49% debit card transfers Features Trading options for beginners, experts, and institutions; Gemini Earn, Gemini Wallet, and $200 million insurance in Gemini Custody Open account
+
+Why it stands out: Gemini offers a wide variety of crypto trading services for individuals and institutions. Traders can take advantage of multiple platforms, including the Gemini web exchange, Gemini iOS and Android mobile apps, Gemini Active Trader platform, Gemini Fund Solutions, and institutional trading tools.
+
+But the exchange also provides a few other notable features: Gemini Wallet, Gemini Earn, Gemini Clearing (brokerage services for off-exchange crypto trades between parties), Gemini Custody, Gemini Pay, and Gemini Dollar (a digital asset backed by US dollars).
+
+Though Gemini isn't strictly a personal wallet service, its two storage and custody options — Gemini Wallet and Gemini Custody — give you the choice of online storage or institutional offline storage for your crypto assets. Gemini custody also offers $200 million in cold storage insurance coverage.
+
+Gemini Earn gives you the option to receive up to 7.4% interest on your crypto balance, while Gemini Pay gives you the option to use your assets for purchases at more than 30,000 retail facilities across the US.
+
+What to look out for: Gemini has multiple fee schedules for different accounts and account actions. While you won't be charged for transferring funds through ACH or wire methods, credit or debit card transfers have a 3.49% fee. The exchange also has a limited number of cryptocurrencies (see its full list of supported assets here).
+
+Bittrex: Best for account security
+
+Bittrex Account minimum $3 Fees 0-0.35% maker/taker fees Features Instant buy/sell, highly secure cold storage, mobile access Open account
+
+Why it stands out: When it comes to account security, Bittrex is difficult to beat. In addition to two-factor authentication, the exchange says it uses a multi-stage wallet strategy to make sure funds are kept in secure, cold storage (offline storage). Bittrex's transaction fees are also notably lower compared to other exchanges.
+
+Like CEX.IO, the exchange utilizes a maker/taker fee schedule that's based on your 30-day trading volume (the amount of crypto assets you've exchanged over the past 30 days). But unlike many of the investment apps listed above, Bittrex charges absolutely nothing for deposits (USD deposits and withdrawals have no fees either). Blockchain/crypto withdrawals, however, have small network fees.
+
+Bittrex also offers an Instant Buy & Sell feature that lets you exchange Bitcoin and other assets with the click of a button. You can access Bittrex on iOS or Android phones.
+
+What to look out for: Bittrex may not be the best option if you're looking for a vast collection of tradeable cryptocurrencies. The exchange currently offers fewer than 25 assets.
+
+Other exchanges we considered:
+
+Bitstamp: Bitstamp is a Luxembourg-based company offering close to 20 cryptocurrencies, with options for advanced traders and institutional traders. US clients can trade crypto assets through its subsidiary, Bitstamp USA. While the lowest fees start at 0.5%, you'll need at least $50 to trade.
+
+Bitstamp is a Luxembourg-based company offering close to 20 cryptocurrencies, with options for advanced traders and institutional traders. US clients can trade crypto assets through its subsidiary, Bitstamp USA. While the lowest fees start at 0.5%, you'll need at least $50 to trade. SoFi: SoFi is more of an online brokerage than a cryptocurrency exchange, but it currently offers three crypto assets: Bitcoin, Ethereum, and Litecoin. The investment app also charges a 1.25% markup on all crypto transactions, meaning you'll receive an additional 1.25% on the final price of your share(s). The only downside is that SoFi's crypto options are limited, and its fees are a bit higher than other exchanges.
+
+SoFi is more of an online brokerage than a cryptocurrency exchange, but it currently offers three crypto assets: Bitcoin, Ethereum, and Litecoin. The investment app also charges a 1.25% markup on all crypto transactions, meaning you'll receive an additional 1.25% on the final price of your share(s). The only downside is that SoFi's crypto options are limited, and its fees are a bit higher than other exchanges. eToro: The eToro crypto exchange offers a highly secure and easily navigable interface that gives you access to roughly 16 crypto assets. The exchange also supports traders in 140 countries, but you'll need at least $50 to deposit funds and $25 to trade. eToro also doesn't currently support traders in New York, Delaware, Minnesota, New Hampshire, Nevada, Puerto Rico, Tennessee, Hawaii, Guam, American Samoa, and the US Virgin Islands.
+
+The eToro crypto exchange offers a highly secure and easily navigable interface that gives you access to roughly 16 crypto assets. The exchange also supports traders in 140 countries, but you'll need at least $50 to deposit funds and $25 to trade. eToro also doesn't currently support traders in New York, Delaware, Minnesota, New Hampshire, Nevada, Puerto Rico, Tennessee, Hawaii, Guam, American Samoa, and the US Virgin Islands. Webull: This online brokerage only requires $1 to start trading crypto, but its investment selection is limited. Webull may not be the best crypto option if you want to trade assets other than Bitcoin, Dogecoin, Bitcoin Cash, Ethereum, Litecoin, Zcash, or Stellar.
+
+This online brokerage only requires $1 to start trading crypto, but its investment selection is limited. Webull may not be the best crypto option if you want to trade assets other than Bitcoin, Dogecoin, Bitcoin Cash, Ethereum, Litecoin, Zcash, or Stellar. Robinhood: This brokerage's commission-free structure has quite the appeal for those who prefer low-cost investments, but like SoFi and Webull, Robinhood's cryptocurrency selection is on the shorter side. The investment app only offers Bitcoin, Bitcoin Cash, Bitcoin SV, Ethereum, Ethereum Classic, Dogecoin, and Litecoin.
+
+Frequently asked questions
+
+Why trust our recommendations?
+
+At Personal Finance Insider, we aim to help smart people make the wisest decisions with their money. We also know that the word "best" is often subjective, so we make sure to highlight both the benefits and drawbacks of crypto exchanges.
+
+We spent hours comparing and contrasting the features and product offerings of various crypto exchanges so you don't have to.
+
+How did we choose the best cryptocurrency exchanges?
+
+We researched several exchanges to find the best options for cryptocurrency availability, low fees, asset/account security, user interfaces, and mobile access.
+
+We also explored whether exchanges offered services both for individuals and institutions, and we paid close attention to other account options like staking rewards, margin trading, and Stablecoin support.
+
+What is a cryptocurrency exchange?
+
+A cryptocurrency exchange is like an online brokerage for cryptocurrencies, tokens (virtual assets created through existing blockchains), and other digital assets. Many of these exchanges offer investment options for active traders looking to buy, sell, or hold digital assets like Bitcoin, Ethereum, and Litecoin.
+
+Most exchanges also offer custody and storage options for users looking to safely protect their crypto assets against theft and hacks. But then again, most exchanges aren't solely personal wallet services. If you want to set up an external wallet with a Bitcoin wallet provider or another storage wallet service, you can do so while maintaining your crypto exchange account.You can simply transfer assets between your exchange account and crypto wallet when necessary.
+
+Are cryptocurrency exchanges worth it?
+
+This depends on your investment goals and needs. You can invest in cryptocurrencies in more than one place. For instance, both PayPal and SoFi aren't strictly crypto-focused companies, but both offer digital assets.
+
+And if you're interested in low-cost options, note that you can also trade cryptocurrencies with fee-free brokerages like Webull and Robinhood. The catch with taking this route is that you won't have as many crypto-specific features as you would with a Kraken or Gemini.
+
+You would essentially sacrifice a wider range of investments and account features for lower fees and limited cryptocurrency options. If you're looking for a wider range of crypto-specific trading tools and account features, a cryptocurrency exchange may be the best option.
+
+Rickie Houston is a wealth-building reporter at Personal Finance Insider who covers investing, brokerage, and wealth-building products.

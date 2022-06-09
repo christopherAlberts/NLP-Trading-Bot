@@ -1,0 +1,47 @@
+Kim Dotcom Publishes a Website That Highlights the Benefits of Bitcoin Cash
+
+On February 12, the founder of the now-defunct file-sharing website Megaupload and cryptocurrency proponent, Kim Dotcom tweeted about a new website he created that shows the upside of bitcoin cash. The web portal whybitcoincash.com highlights why people should join the digital money revolution and how “cryptocurrencies stand to transform the way business and individuals exchange value.”
+
+Kim Dotcom Launches Whybitcoincash.com
+
+In mid-January, news.Bitcoin.com chatted with Kim Dotcom and he discussed how he planned to “accelerate” the mission of peer-to-peer electronic cash. Dotcom has been very vocal about his support for bitcoin cash (BCH) and before our interview, the internet entrepreneur said his next-generation content monetization app K.im will see bitcoin cash (BCH) integration. Dotcom has continued to pursue accelerating bitcoin cash adoption and on Friday, Dotcom told his 700,000 Twitter followers about his new website.
+
+“Many people are asking me why I’m supporting Bitcoin Cash and why I think it has the biggest upside potential,” Dotcom tweeted. “Good question. I made this little website for you.”
+
+The website is called whybitcoincash.com and it explains the many benefits bitcoin cash (BCH) has to offer in contrast to bitcoin (BTC). The website explains that BCH is just like BTC, but with a number of adjustments making it the “digital equivalent of cash.”
+
+The website details how BTC can be considered the “digital equivalent of gold.” BCH, on the other hand, has stayed consistent with Satoshi Nakamoto’s white paper, which is a “purely peer-to-peer version of electronic cash.”
+
+The whybitcoincash.com site also explains the differences between each network, as BCH has 100 transactions per second (tps), while BTC’s tps is 3-7. The website also highlights that BTC is impractical for micro-transactions with fees fluctuating between $5 to even $50 per transfer. Moreover, people often assume the gold market is massive, and it’s true a market valuation of $10 trillion is still much larger. If bitcoin managed to acquire a market capitalization of that size, it still wouldn’t be as large as the worldwide cash market at $100 trillion.
+
+Whybitcoincash.com emphasizes that the global transaction market is roughly around 3 trillion transactions per year. 75% are cash transactions, 13% are done with credit cards and another 12% are done with some other form of payment.
+
+If the Bitcoin Cash network was able to capture just 1% of the global transactions, BCH would take on 82 million transactions per day. Bitcoin cash wants to be a lean mean transaction machine, and during the stress tests in September 2018, the blockchain processed 2.2 million transactions in 24 hours on the first day of the month. While the week-long stress test took place, the median BCH transfer fees were only about $0.001 per transaction.
+
+“Bitcoin Cash wants to be carbon neutral, and put in everyone’s hands the power to create a positive impact,” Dotcom’s whybitcoincash.com site says. To top it all off, the website highlights that BCH has more than 100,000 merchants that accept the crypto asset, it is borderless, uncensorable, and peer-to-peer electronic cash that allows individuals to send “directly from one party to another without going through a financial institution.”
+
+Bitcoin Cash Values Jump
+
+After Kim Dotcom shared the new website, bitcoin cash markets jumped over 9% during the 24-hour time period. At 9:02 p.m. (EST) on Friday evening, BCH touched a daily high of around $585 per unit and was up 27% for the week. At press time on Saturday, BCH is just above the $560 per unit price range.
+
+BCH jumped 4.51% against BTC and 15.12% during the last seven days against ethereum (ETH). Monthly stats show BCH has gained 10% but during the last 90-days, bitcoin cash has also increased by 136% against the U.S. dollar. Bitcoin cash has an overall market capitalization of around $11.22 billion, as it ventures into the weekend trading sessions.
+
+Holders’ Composition by Time Held stats for bitcoin (BTC), according to Into the Block insights, shows that BTC has 60% for a 12 month period, while bitcoin cash (BCH) has 91%.
+
+Meanwhile, BTC’s seven-day stats for transactions greater than $100k shows $176 billion has been settled. Bitcoin cash has 24.43% of that settlement as $43 billion has been processed during the last week as far as transactions greater than $100,000.
+
+Rising Daily Transactions, Privacy and the Ability to Forge Tokens
+
+Recently, news.Bitcoin.com reported on how BCH transactions were steadily rising and catching up to BTC’s transactions per day (tpd). This trend has continued and on Friday evening fork.lol data had shown BCH did more transactions during the 24-hour time period. Friday evening’s stats (EST) show that BCH processed 365,975 transactions and BTC processed 354,065.
+
+In addition to the descriptive website and Dotcom’s tweet on Friday showing the new domain to his followers, some individuals mentioned that BCH also has privacy and the ability to issue tokens.
+
+BCH supporters regularly leverage a protocol called Cashfusion and it has been noted to offer superior mixing techniques in comparison to traditional Coinjoin methods. For instance, on January 29, 2020, data analyst and BTC proponent, James Waugh, said that Cashfusion was far more practical than other Coinjoin protocols.
+
+The Bitcoin Cash network also has Schnorr Signature capabilities as well. As far as tokens, the Simple Ledger Protocol (SLP) has seen extensive development during the last few years. A myriad of SLP tokens built on top of the BCH network already have real-world value and there are a couple of SLP-built stablecoins, including more than six million tether (USDT). Check out the video below with Bitcoinbch.com’s CEO, Hayden Otto discussing Kim Dotcom’s new website.
+
+What do you think about the whybitcoincash.com website? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, Coin Dance, Fork.lol, Tradingview, Whybitcoincash.com, Kim Dotcom,
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

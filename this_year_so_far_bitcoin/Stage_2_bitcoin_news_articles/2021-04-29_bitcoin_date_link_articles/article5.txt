@@ -1,0 +1,13 @@
+The Department of Justice said it has arrested a Russian-Swedish national who allegedly operated a long-running cryptocurrency laundering site. According to a news release from the DOJ, Roman Sterlingov ran Bitcoin Fog, a cryptocurrency tumbler or “mixer”— which hides a cryptocurrency’s source by mixing it with other funds.
+
+Bitcoin Fog gained “notoriety as a go-to money laundering service for criminals seeking to hide their illicit proceeds from law enforcement,” according to the DOJ. The department says over the course of 10 years, Bitcoin Fog moved more than 1.2 million bitcoin, valued at the time of the transactions at around $335 million.
+
+Bitcoin Fog has received a fair amount of coverage from cryptocurrency blogs and news sites since its inception, with some recommending it as the best option for hiding the origin of bitcoin. The blockchain keeps track of bitcoin transactions, making services like Bitcoin Fog key for those looking to do business on the black market.
+
+“The bulk of this cryptocurrency came from darknet marketplaces and was tied to illegal narcotics, computer fraud and abuse activities, and identity theft,” the DOJ said.
+
+According to the IRS, the largest senders of bitcoin through Bitcoin Fog were “darknet markets, such as Agora, Silk Road 2.0, Silk Road, Evolution, and AlphaBay, that primarily trafficked in illegal narcotics and other illegal goods.”
+
+The IRS said it appeared from Bitcoin Fog transaction activity that Sterlingov took commissions of as much as $8 million on the bitcoin he helped clients launder. The current value of the Bitcoin Fog cluster — the large database of transactions — is about $70 million, the IRS said.
+
+Sterlingov is charged with money laundering, operating an unlicensed money transmitting business, and money transmission without a license in the District of Columbia.

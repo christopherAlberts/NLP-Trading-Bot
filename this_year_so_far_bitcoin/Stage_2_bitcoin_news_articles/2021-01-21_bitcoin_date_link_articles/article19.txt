@@ -1,0 +1,75 @@
+Bitcoin fell to lows last seen on Jan. 11. Some analysts point to Treasury Security nominee Janet Yellen’s ominous “concern” over crypto as the reason for the sell-off.
+
+The recent pullback has some formerly bullish analysts, such as Guggenheim, speculating on whether the cryptocurrency could retrace its 2021 gains in the short term.
+
+Elsewhere, a Bitcoin copyright debate is driving people to host their own versions of Satoshi’s white paper while BlackRock, the world’s largest asset manager, gave the green light for two of its funds to trade BTC futures.
+
+Top shelf
+
+Crypto state
+
+President Joe Biden has frozen all agency rulemaking, including former Treasury Secretary Steven Mnuchin’s controversial proposal on “unhosted wallets,” according to a prominent cryptocurrency lawyer. While not out of the woods yet, the pause on the proposal – which would require exchanges to add stringent surveillance to privately held wallets – is being celebrated as a minor victory. Elsewhere in the Biden administration, former Treasury official and onetime member of Ripple’s board of advisers Michael Barr will reportedly replace Brian Brooks as Comptroller of the Currency. Separately, Nebraska is pitching itself as the next Wyoming.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+White paper woes
+
+Bitcoin.org has refused to comply with Craig Wright’s demand to take down a copy of the Bitcoin white paper. Wright, who claims to be Bitcoin’s pseudonymous creator Satoshi Nakamoto, also claims he owns the copyright to the source document. Bitcoin.org said the white paper is published under the permissive and free MIT license, making Wright’s claims meritless, though Wright has taken steps to patent Bitcoin’s technology among an alleged 100-200 other blockchain-related patents. In what is seen as betrayal by some, Bitcoin Core removed the paper, references to it and merged the changes on GitHub, according to Bitcoin.org.
+
+No blackout
+
+BlackRock, the world’s largest asset manager with $7.81 trillion under management, appears to have granted at least two of its funds the ability to invest in bitcoin futures. “Certain Funds may engage in futures contracts based on bitcoin,” the prospectus reads, including the BlackRock Global Allocation Fund Inc. and BlackRock Funds V. It’s unknown if and when an allocation is coming but the door is open. Meanwhile, eToro, a popular brokerage, surveyed 25 institutional players and found pension funds and endowments are warming to crypto.
+
+Quick bites
+
+BASIC OPTIONS: Deribit’s explainer on options trading. (Deribit)
+
+BITCOIN IN AFRICA: Trading crypto is a way to boost income, for some. (CoinDesk)
+
+THREE WEEKS: Tron USDT volume continues to beat tether totals on Ethereum. (CoinDesk)
+
+NOT BITCOIN: Yearn, once seen as the kin of Bitcoin’s fair launch, may see $200 million in token issuance. (CoinDesk)
+
+ASSET MANAGEMENT: Crypto finance firm Amber Group crosses $530 million in managed assets. (Modern Consensus)
+
+ASIAN BEARS: Market insiders struggle to explain Asia’s typically bearish crypto trading sessions. (The Block – paywalled)
+
+Market intel
+
+Skewing bearish
+
+Bitcoin options traders are casting bearish bets because the spread between short-term puts and call prices has risen to a five-week high of 14%. “Over 380 contracts of the Jan. 29 expiry $30,000 calls have been bought today,” Swiss-based data analytics platform Levitas told CoinDesk. These contracts account for 50% of total trading volume on major exchanges, according to Skew.
+
+At stake
+
+Penny hoarders?
+
+While some crypto traders look at fundamentals like bitcoin’s deflationary attributes when placing bets, it’s possible many are investing based only on a token’s price.
+
+That was the conclusion drawn by Wall Street Journal columnist James Mackintosh in a Tuesday report for how the traditional stock markets moved in 2020. “Stock-market performance this year has been driven by the raw share price, with lower-priced stocks doing better and higher-priced worse,” he wrote.
+
+With people sheltering in place, there was a well-documented surge in the number of retail investors signing up for free trading apps. eToro, for one, a Robinhood competitor that was quick on the draw to add crypto services, saw more than half a million new registrations in the first 17 days of 2021, Bloomberg reported.
+
+The influx of inexperienced investors looking to ride the green wave of asset prices is, as Mackintosh argues, a market failure. Instead of considering the basics of what makes a sound business sound, like its “future cash flow, valuation, brand power, management skill or even political sensitivity,” many are looking only at the ticker price – with those under $5 seeming like bargains.
+
+And it’s paid off! As Bloomberg put it in June, “Dumb money is looking a lot smarter in never-ending stock rally.” Still the idea of “aping into” an asset based solely on its current price is an affront to some analysts. Mackintosh called it a blatant misallocation of capital.
+
+Stock prices are basically meaningless. Companies can, and do, do things like stock splits (creating more shares to cut their price) and reverse stock splits (consolidating outstanding shares to buoy the price) without affecting the company’s underlying value proposition. It’s just arithmetic!
+
+Of course, cryptographic tokens are not equivalent to the little certificates of ownership over a publicly traded company called stock. Tokens and cryptocurrencies are typically programmable assets that are issued based on how a blockchain is programmed.
+
+Many tokens serve a function, like dai, which is an algorithmic U.S. dollar stablecoin. Bitcoin was the first fully decentralized, peer-to-peer currency system. Social tokens, like $ALEX, are bets on a particular community or individual’s future market value. None of these are claims on an underlying company, because there is no company. (This is setting aside some of the securities concerns hanging over some crypto companies.)
+
+As CoinDesk previously reported, in times of market exuberance, many new crypto entrants look at a token’s price as the primary reason to invest. “Some entry-level investors viewing the high-numbered trading price of bitcoin – unaware that it can be bought in minute fractions – take to altcoins because their relatively low price make them appear affordable,” CoinDesk reporter Muyao Shen wrote.
+
+It’s for this reason that the U.K.’s financial watchdog issued a warning stating that “if consumers invest in these types of product, they should be prepared to lose all their money.” The Financial Conduct Authority said a lack of consumer protections and high volatility are particular worries.
+
+That said, many analysts claim crypto markets are moving away from the FOMO-driven speculation that made markets in 2017. In a new report, CoinShares, a digital asset management firm, said the uptick in corporate and institutional interest in bitcoin is sustainable.
+
+“What was typically a desire to speculatively invest has now become one of being fearful of extreme loose monetary policy and negative interest rates, with clients looking for an anchor for their investments,” James Butterfill, CoinShare investment strategist, wrote.
+
+This doesn’t discount the idea that crypto retail traders are following the penny-stock investment playbook. However, it does complicate the complaint that crypto is pure speculation.
+
+With the rise of fractional stock programs, which allow small buyers to buy a percentage of a stock, the question arises: What’s really the dividing line between the old and new markets? The “dumb” and the “smart” money? As my colleague Noelle Acheson often says, does anyone know what’s going on anymore?
+
+Who won Crypto Twitter?

@@ -1,0 +1,57 @@
+What role will bitcoin play in the future? According to WisdomTree’s Jason Guthrie, head of capital markets and digital assets, the cryptocurrency is like digital gold – but with a caveat.
+
+Federal Reserve chair, Jerome Powell, recently described bitcoin as "essentially a substitute for gold rather than for the US dollar”, leading to some mild confusion to say the least. This confusion was driven by remarks earlier in the same statement where Powell asserted that, owing to its volatility, bitcoin was not a good store of value.
+
+How can something be a substitute for gold, a store of value for thousands of years, yet not be a store of value? Is the implication that gold isn’t a store of value? Does he think the dollar should be viewed as a store of value even while inflating the M1 – highly liquid – money supply? And what are the consequences of all of this for anyone looking to make an investment in bitcoin?
+
+Comments like this highlight just how hard it is to capture the essence of bitcoin in a 30-second soundbite. People reach for analogies to explain one element of it but then expect that analogy to explain everything. This predictably falls short. I’ve observed plenty of smart people dismiss bitcoin because someone’s analogy didn’t address a question they have, and they have walked away as a result. So, let’s try and address some of these questions, starting with the obvious:
+
+Is bitcoin digital gold?
+
+Yes, but with a caveat. The analogy to gold is helpful to understand the qualities that make “good money” durability and a high difficulty to create/counterfeit. These are the qualities that made gold a historically desirable medium for a store of value and medium of exchange - qualities shared with bitcoin. The high difficulty to create/counterfeit – or more simply, the limited supply – is also what makes an asset inflation resistant.
+
+This equivalence gives people something conceptually they can wrap their head around and a starting point for the basis of bitcoin’s value but that’s where this comparison stops. There are two major differences that need to be acknowledged whenever we talk about bitcoin as “digital gold”:
+
+1. Gold has had thousands of years to organically establish as store of value.
+
+2. Gold is impractical to use in modern transactions and is generally inaccessible to everyday people.
+
+The first leads us to think about what characteristics we expect of a nascent asset experiencing a period of rapid global adoption. The second speaks to the potential uses and value-add bitcoin may provide to individuals within the global financial system. This takes us well beyond gold as it exists today.
+
+These points, and the associated questions, provide a good framework to think about bitcoin and to start layering understanding on top of the digital gold analogy.
+
+What about bitcoin’s volatility?
+
+It’s absolutely true that bitcoin is one of the most volatile asset classes out there, but I would ask what do people expect to see in an asset class that’s only 10 years old? This isn’t an easy question to answer as we don’t really have a frame of reference; we have never seen the introduction of a new asset class being introduced into an already globalised financial system.
+
+I would argue that the path to mass adoption from zero is far from linear, shrouded in uncertainty and a multi-decade process. Bitcoin volatility at this point is par for the course.
+
+The criticism that comes with this point is that bitcoin can’t be a store of value if its volatile, but I would also challenge this. Volatility’s effect on the efficacy of an asset as a store of value is a factor of your holding period. This means that the timing at which you will consume the value matters.
+
+For example, if you have two dollars today and wish to purchase a cup of coffee priced in dollars tomorrow then bitcoin is unlikely to be a good store of value; it would essentially be a 50/50 chance as to whether you would be able to purchase the coffee or not. But if you don’t plan to buy the coffee for 3 years, then bitcoin would be a great option as a value store.
+
+Over time the volatility of bitcoin will decrease, we have seen this happening over the last 10 years. The lower the volatility the shorter the time period over which it will be effective as a store of value which, in turn, will increase the cryptocurrency’s appeal to a wider group of users.
+
+Can the bitcoin network process enough transactions for daily consumption?
+
+Taking the discussion about bitcoin beyond the comparison to gold immediately leads to discussions about its transferability. Unfortunately, this often leads to further comparisons, this time to payments networks such as MasterCard or Visa.
+
+Transferability is used to say that the bitcoin network can only process a fraction of the transactions of these networks (which is true) and it therefore can’t be used to easily transfer value. This is a false equivalency.
+
+Bitcoin doesn’t need to rival these networks for throughput in order for its transferability to add large amounts of value to those using it. Payments require a discrete set up and merchants will be serviced by business regardless of the asset used to make the payment. Indeed, there are already layers built on top of bitcoin that solve for this.
+
+Where its fundamental transferability really bites is in the nature of the ecosystem that can be built; the financial system and institutions that develop change greatly if the store of bitcoin’s value is practical (gold is not), and not centrally controlled by an oligopoly (think banks).
+
+What you end up with is a universally transferable and accessible store of value that will be able to natively underpin a digital financial system. For western economies we can potentially move to a world where transactional services are decoupled from the fractional reserve system, this is hugely powerful for increasing competition and reducing costs for consumers. In developing parts of the world there is the additional benefit of having a way to store and grow wealth outside the control of authorities that can’t be trusted.
+
+How does this impact my investment thinking?
+
+Whilst I’m positive on bitcoin you can’t ignore the risks. The internet is littered with boom-and-bust stories of people betting it all, but most investors take a risk-adjusted approach to allocating to the digital asset class.
+
+Bitcoin’s volatility itself is one factor of the risk but it’s also important to recognise that this comes from the fact that it is nascent, and the future is uncertain. As a result, I have observed institutional investors allocation between 1-5% of a given portfolio to bitcoin with more risk-tolerant individuals allocating up to 10%.
+
+Moderate allocations at this point mean your downside is capped, but can provide exposure to the great potential bitcoin represents.
+
+*Jason Guthrie is head of capital markets and digital assets at WisdomTree.
+
+© 2021 funds europe

@@ -1,0 +1,29 @@
+Venture capitalist Calvin Ayre spoke in an interview with The Early Stage Investor, looking at why Bitcoin SV is the world’s most valuable blockchain network.
+
+A prolific investor in the Bitcoin space, Ayre has a specific investment and business focus on fintech innovations, data management, cyber security and transactable digital tokens. His interview began by setting out the use case for Bitcoin SV, and why it is technologically superior to other blockchains, such as BTC and ETH.
+
+Ayre said all other blockchain networks have decided to take the original Bitcoin vision and have tried to apply their own ‘improvements’ to the technology, as first detailed in Dr. Craig Wright’s original Bitcoin whitepaper.
+
+In so doing, they have failed to recognize what makes Bitcoin special—its scaling superpowers. The need for and mechanism to scale was mentioned in the original whitepaper, but according to Ayre, has been ignored by those developing other public blockchains.
+
+In the case of both BTC and BCH, developers have actually disabled elements of the scaling properties that make Bitcoin so special. As a result, only Bitcoin SV has the capacity to scale—and without the ability to scale, it becomes impossible for any other blockchain to compete.
+
+Ayre said BSV will change the way data is managed and valued. The network has a global monopoly on enterprise level data management and valuation, with all other networks described as “hobby platforms” at best. As soon as an app is successful on one of the other blockchains, it needs to be ported to BSV as the only public blockchain with the scale potential to handle it.
+
+In fact, Bitcoin SV is already so far ahead of the crowd that it is now impossible for any other platform to catch up, he said. Even in the event another blockchain was able to figure out a way to scale, Ayre believes this would likely infringe intellectual property held by nChain.
+
+Bitcoin SV will help companies manage their data at scale more effectively, eliminating data silos which can lead to inefficiencies while posing significant technical challenges. According to Ayre, the technology tidies up disjointed data systems to create more streamline solutions.
+
+Ayre spoke about a new platform preparing for launch, developed by the team at nChain. The technology is expected to be released in the next eight weeks or so, and will sit on top of Bitcoin SV to allow companies with enterprise data problems access to a modular solution. The platform aims to make it simple for enterprise clients to solve complex data problems, making it easier than ever before to solve problems with BSV.
+
+On the growth of BSV, the Ayre Group founder said there is a lot of misinformation out there holding back on educating people about BSV. However, he believes the BSV story is so powerful, it will ultimately triumph. Once people learn how strong the technology is with its monopoly on data management powers, it cannot be unlearned.
+
+He suggested the break out for Bitcoin SV will come when mainstream media understands it and starts talking about it properly.
+
+Ayre said ultimately, all tokens on all exchanges are the same—they can’t do anything, beyond just being gambling tokens. When mainstream media starts covering the topic more effectively, Ayre believes the narrative will change. Only when companies roll out use cases and prove this can and is being done on the BSV platform, will the mainstream wake up to the benefits of the technology.
+
+For Ayre, greater regulation of digital currency is an inevitability. Drawing parallels with his experience in the early days of the online gaming industry, he said regulators will eventually get the digital currency markets under control. The BSV ecosystem is already prepared for this, according to Ayre, the whole cryptocurrency sector could be banned globally, yet Bitcoin SV would still have a reason to exist, as the world’s most effective data management platform.
+
+Watch Calvin Ayre’s interview with The Early Stage Investor here:
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

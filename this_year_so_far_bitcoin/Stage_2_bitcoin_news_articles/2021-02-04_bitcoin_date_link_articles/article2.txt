@@ -1,0 +1,75 @@
+Three stories
+
+1. Qualified investors are plowing money into cryptocurrency-focused investment funds. Yesterday, macro trader Dan Tapiero, most known for his DTAP Capital fund and eye for gold, announced a new $200 million fund called 10T Holdings that will make bids on crypto startups.
+
+CrossTower, a Bermuda-based capital markets firm, is launching a bitcoin (BTC) hedge fund that will compete against Grayscale’s Bitcoin Trust (GBTC). The firm has $20 million in assets under management from early investors, with minimum buy-ins set at $100,000. (Grayscale and CoinDesk are both owned by Digital Currency Group.)
+
+Meanwhile, Stone Ridge Asset Management’s existing bitcoin unit, NYDIG, could see more than $25 billion worth of bitcoin under management, based on current demand. NYDIG currently manages $6 billion in bitcoin for 280 institutional clients, CEO Ross Stevens said at a MicroStrategy event yesterday.
+
+But is this the right time to crowd into crypto? In other words, are we at a market top? Well, famed rapper and entrepreneur LL Cool J (along with Paul Tudor Jones and others) signed onto North Island Ventures’ new $72 million fund.
+
+2. PayPal’s cryptocurrency business has beat expectations, according to CEO Dan Schulman during the company’s Q4 earnings call. Launched late last year, PayPal’s (PYPL) crypto services – buying, selling and transacting – volumes have “greatly exceeded” the firm’s initial projections.
+
+Customers who purchased crypto through the platform have been logging into PayPal twice as often as they were before buying crypto, the company said in its investor update. PayPal gained 16 million new active users since launching crypto, though there may not be a direct causal relationship.
+
+PayPal Chief Financial Officer John Rainey didn’t deny the possibility of M&A deals in the crypto space while prices are high, but called it part of a “multi-year” strategy. Notably, PayPal’s spending in technology increased year over year by more than 30% to $732 million.
+
+3. Only 16 nations have specific tax policies regarding cryptocurrency, according to a U.S. Library of Congress report examining 31 different jurisdictions. The library’s law division released a report detailing the differences between how nations tax “block rewards.”
+
+The report found there is a specific disparity between jurisdictions that set policies for coins acquired through mining versus staking, with the latter often being undefined. There is also little unified thinking on whether crypto is taxed as income, capital gains and value-added tax for mined tokens.
+
+“In order for these technologies to thrive and reach their revolutionary potential we must have the knowledge and organizational landscape of the approaches to regulation,” U.S. Congressman Tom Emmer said in a press release on Wednesday.
+
+At stake
+
+Great debate?
+
+Earnings season is upon us, meaning the latest snapshot of publicly traded companies’ financials will come into view. This includes the handful of firms playing around with crypto. As mentioned above, PayPal has seen explosive growth in its newly launched crypto services business.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+The fintech giant enabled buying, selling and holding for a number of large-cap cryptos for its 350 million users on Nov. 12, 2020. While the total number of crypto users on the platform or the profitability of this business line aren’t known, the company executives seemed pleased with the decision to enter the market.
+
+In CoinDesk reporter Nathan DiCamillo’s terrific rundown of the company’s earnings report, he included comments from Susquehanna Financial Group regarding merchant crypto adoption on PayPal.
+
+Comparing PayPal’s trading services to Square’s (SQ), Susquehanna noted that the latter’s bitcoin business hasn’t been all that profitable. Although revenues have been growing every quarter, Square doesn’t “really mark it up,” meaning it’s not bringing in much cash from CashApp.
+
+It’s for this reason that Susquehanna is interested in PayPal merchants accepting crypto as part of their business. “Trading is interesting but it’s not nearly as interesting to us as a payments acceptance device. … [PayPal has] incredible merchant volume,” James Friedman, a senior fintech research analyst at Susquehanna, said.
+
+As DiCamillo notes:
+
+"In December 2020, Susquehanna surveyed more than 120 small to medium-sized business owners to poll their interest in adopting bitcoin payments.
+
+
+
+"More than 70% of respondents said they would accept bitcoin for payment at checkout if PayPal or Square enabled it, but around half of respondents said they believed there would be no impact on their business if they added the feature.
+
+
+
+"Susquehanna also surveyed more than a 100 American adults on attitudes toward cryptocurrencies… [and] found that nearly half of respondents would not purchase a product or service with cryptocurrency, while 5.5% of them would do so 10 or more times per year."
+
+The sample size is small, though largely matches the sentiment about bitcoin. Although initially figured as a “peer-to-peer” cash system, in Satoshi’s white paper bitcoin is increasingly seen as a store of value.
+
+Many of the market entrants in 2020 that made headline splashes pointed to bitcoin’s prospects as “digital gold.” Bluford Putnam, chief economist and managing director of CME Group, for instance, went on record saying bitcoin is an “emerging competitor” to gold.
+
+For some bitcoin OGs or outside watchers this trend could subvert the aspects that make bitcoin such a powerful tool for financial freedom.
+
+Responding to Francis Pouliot, CEO of Bull Bitcoin, who said “The next attack [on bitcoin] could very well come from self-proclaimed Bitcoin Maximalists under the cover of the corporate store of value narrative,” Bloomberg’s Joe Weisenthal noted:
+
+“This has been my theory as well. With Bitcoin becoming increasingly corporate, some players in the space may find the cypherpunk/censorship-resistance angle to be an embarrassing distraction.”
+
+“‘Why have private wallets, when Bitcoin can be a SoV in an ETF?’” he said. (The U.S. has yet to accept a bitcoin exchange-traded fund application.)
+
+As mentioned before, PayPal doesn’t let users move bitcoin they’ve purchased off its platform. This introduces a middleman to what exists on its own as a self-contained and uncensorable payments system.
+
+It should be said the bitcoin codebase has been running for 12 years, without downtime, allowing anyone to transact with anyone, without exception. But the corporate environment around bitcoin is still emerging and it’s unknown the total impact it may have on the ecosystem. The tension between corporate actors and a fully decentralized system will be a thing to watch.
+
+Market intel
+
+Yesterday, Ethereum miners earned $27.75 million in transaction fees as the blockchain’s native currency, ether (ETH) rallied. The average transaction fee was as high as $23.43, the highest it’s ever been (it’s never been above $20, in fact), according to crypto data provider Blockchair. This means it’s more expensive than ever to actually run decentralized applications or send funds using Ethereum – a blessing and curse, experts say.
+
+“Ethereum miners have been a primary beneficiary of the fee spike,” CoinDesk’s Will Foxley wrote. The industry earned some $830 million in ether last month with 40% attributed from fees alone.
+
+Quick bites
+
+Who won Crypto Twitter?

@@ -1,0 +1,15 @@
+Investors in bitcoin and other digital currencies are empowering online hackers, the founder of the Securities and Exchange Commission's internet enforcement office warned Thursday.
+
+"Ransomware is hitting everywhere and they're all collecting it in bitcoin because there's no way they're going to get caught. So you're also enabling it," John Reed Stark, now head of an eponymous cybersecurity consultancy, told CNBC's "Squawk on the Street."
+
+Stark said cryptocurrencies have almost no practical use, likening trading in them to the speculation that recently carried AMC Entertainment and other meme stocks to incredible heights.
+
+Cryptocurrencies also lack registration and other requirements that bring more transparency to U.S. capital markets, he added.
+
+"At least with GameStop and AMC you're not necessarily hurting anyone. ... But with crypto, you are really hurting a lot of people, and that sort of risk I don't think is a good one for society," Stark said. He also called crypto the "essence of ransomware," a type of malicious software that can disrupt and even block computer networks.
+
+In the latest of a string of cyberattacks, Brazil's JBS — the world's largest meatpacker — has resumed most production after a weekend ransomware attack. JBS blames hackers with ties to Russia.
+
+Colonial Pipeline, the largest U.S. fuel pipeline, last month paid ransomware demands after its operations were closed for nearly a week. The FBI believes a group with ties to Russia called DarkSide carried out the attack on Colonial Pipeline, which paid $5 million to restore services. DarkSide later closed up shop after collecting $90 million of payments in the cryptocurrency.
+
+"The country is kind of falling apart from ransomware all because of crypto, and the main reason people own crypto is because they think someone else will buy it and make the price higher," said Stark, who spent 18 years at the SEC's Enforcement Division. "There's no other reason to invest in it," he said.

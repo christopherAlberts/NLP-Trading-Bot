@@ -1,0 +1,39 @@
+Eric Voskuil is a veteran Bitcoin developer and one of the lead maintainers of Libbitcoin, the first implementation of the Bitcoin source code. He’s the author of “Cryptoeconomics: Fundamental Principles of Bitcoin,” a deeply researched and reasoned take on Bitcoin’s core mechanics, Austrian economics and anarchy. He also founded the CryptoEcon professional conference, which took place in Hanoi, Vietnam, in early 2020.
+
+This article is excerpted from The Node, CoinDesk's daily roundup of the most pivotal stories in blockchain and crypto news. You can subscribe to get the full newsletter here.
+
+The topic of funding Bitcoin development is important. Some companies will hire a Bitcoin dev, some won’t. How do you incentivize firms to “give back” to the open source commons?
+
+If they see an advantage to doing so, they will do it. The developer must be able to provide value that a company needs, like any other employee. Developers can’t support themselves on charity. The tragedy of the commons is often interpreted as a market failure, but this is not the case. A commons is property owned by the state, as in a “public” grazing land. People don’t pay for it and all must use it, or their competitors will do so and put them out of business.
+
+So the commons either fails to be useful, either due to overuse and arbitrary constraint, or becomes private property again (paid for). The market determines the price that ensures supply and satisfies demand. If companies need it, they will pay for it. A lot of people work on open source because they want to and can afford to. Others get paid for it. I don’t see any reason or way to improve upon basic market rationality.
+
+Are there any lessons or takeaways from the Taproot upgrade process?
+
+I could see during the SegWit [Segregated Witness] activation process that a lot of people were drawing false conclusions. Those then predictably surfaced during the Taproot process. For some reason the developer community, which surely knows better, didn’t speak up when clear errors had become accepted truths. I can’t count the number of people who told me that they were surprised to hear that soft forks are not “backward compatible” unless enforced by majority hash power. A fork is a fork; if you change the rules, you are on a new coin. The only question becomes how many people will join you. Hash power enforcement is the only way to ensure that everyone comes along. Once people started to understand this, momentum shifted rapidly.
+
+Bitcoin will only thrive to the extent that it can operate outside of what are ultimately political strictures. That is, after all, why it exists.
+
+People had been led to believe it was just a choice, and that “user activation” had been done before BIP [bitcoin improvement proposal] 16, which is not the case. Core devs certainly understand this, but for some reason did not speak up – though they did show significant resistance to shipping code that they knew could easily cause a chain split. While the Bitcoin Core team is very diverse, there are real pressures. This is why Amir [Taaki] started Libbitcoin (and the BIP process). If anything, we should take away that it’s healthy to have truly independent developers, which necessarily means independent projects.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Is there anyone “in charge” of Bitcoin Core, considering only a handful have “commit access” to the GitHub?
+
+There are way too many people who want to commit code – into what is in many ways a fragile codebase – for nobody to be in charge. There is necessarily a small group of people who ultimately decide what gets in and what doesn’t. This isn’t a problem, as there is nothing stopping someone from doing exactly what Amir [Taaki] and others have done. It’s only a matter of time before other implementations mature to the point where there will be a competitive market. The idea, heavily promoted by many Bitcoin Core devs, that consensus criticality precludes competition is self-serving and ultimately irrelevant. There are many versions of Bitcoin Core, some of which have shown themselves (even in a single version, as a result of platform dependencies) to not be consensus-consistent. Dave Collins wrote a good article about it back in 2015.
+
+Edward Snowden, for one, has said on-chain privacy should be the biggest priority in Bitcoin development. There are more users than ever, a greater interest in bitcoin among regulators and law enforcement and an industry made out of on-chain surveillance. Why have Bitcoin developers shied from implementing privacy features at the protocol level?
+
+I’m not aware that they have. It’s really the central aspect of core development.
+
+The common view is that miners are Goliath to users’ David. You said this morning it’s more of a Goliath versus Goliath situation. Could you add a little more here?
+
+The term “user” is ambiguous. The people who matter in the context of rule changes are miners (those who are presently confirming transactions) and merchants (those who are presently accepting bitcoin). The latter category is likely at least as centralized and state-regulated as mining. The sea of HODLers has no say whatsoever in such changes. If they aren’t accepting bitcoin (themselves, not via exchanges) they don’t have any ability to reject invalid coins. That is the purpose of validation and the essence of enforcement.
+
+Will miner-enforced upgrades become the norm as the network gets bigger? Or will there be a place for user activated soft forks?
+
+It’s already the norm. User activation does also happen, resulting in altcoins. The question is always how to get everyone to change their rules and at the same time. You can either get greater than 50% of hash power (miners) or 100% of the economy (merchants). A soft fork is a new coin. The benefit to using soft forks is that majority hash power can bring everyone else along. If they don’t, you have an altcoin. It’s certainly possible that the old coin could die out, or the new. But with hashpower signaling, a large part of the economy can start enforcing (or activate) at the same time and the rest of the economy can change the rules over time. Without hashpower enforcement, chain splits are practically inevitable.
+
+Any thoughts on the Musk/Saylor Bitcoin Mining Council? Or on the larger conversation of Bitcoin’s energy consumption?
+
+I’ve written on energy waste theories. They really just don’t make any sense. There is a cost to securing all things, and that cost is what the threat must exceed to be successful. Those costs are all grounded in energy. Bitcoin suffers from a PR problem in that its costs are entirely visible.

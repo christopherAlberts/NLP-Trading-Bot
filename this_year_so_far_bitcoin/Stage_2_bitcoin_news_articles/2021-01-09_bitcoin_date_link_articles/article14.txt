@@ -1,0 +1,23 @@
+This Bitcoin Ransomware Rakes in $150 Million in BTC
+
+A new report by two cybersecurity firms has revealed that one ransomware family is particularly successful, raking in over $150 million in bitcoin. The ransom payments “sometimes amount to millions of dollars and typically run in the hundreds of thousands range.”
+
+Ransomware Makes $150 Million in Bitcoin
+
+The Ryuk ransomware family has raked in $150 million in bitcoin, according to a joint report by cybersecurity firms Advanced Intel and Hyas. “The Ryuk family of ransomware has been particularly successful in economic terms as well as having a disruptive impact on many industries around the world,” the report authors described, adding:
+
+Our research involved tracing payments involving 61 deposit addresses attributed to Ryuk ransomware. The Ryuk criminals send a majority of their bitcoin to exchanges through an intermediary to cash out.
+
+The ransomware family Ryuk was first discovered in the wild in August 2018. Its targets tend to be high-profile organizations, including hospitals and newspapers.
+
+The report authors explained that “Significant volumes of bitcoin move from the laundering service to Binance, Huobi, and crime markets that we have identified through traced payments.” Besides the two crypto exchanges, “there are significant flows of cryptocurrency to a collection of addresses that are too small to be an established exchange and probably represent a crime service that exchanges the cryptocurrency for local currency or another digital currency.”
+
+Furthermore, the report notes that “Ryuk receives a significant amount of their ransom payments from a well-known broker that makes payments on behalf of the ransomware victims. These payments sometimes amount to millions of dollars and typically run in the hundreds of thousands range,” adding:
+
+After tracing bitcoin transactions for the known addresses attributable to Ryuk, the authors estimate that the criminal enterprise may be worth more than $150,000,000.
+
+What do you think about this ransomware raking in $150 million in bitcoin? Let us know in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

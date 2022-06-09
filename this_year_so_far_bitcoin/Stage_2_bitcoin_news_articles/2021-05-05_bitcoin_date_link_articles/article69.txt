@@ -1,0 +1,31 @@
+Researchers Spot New Cryptocurrency Stealing Malware Advertised Under a Subscription Model
+
+A cryptocurrency-related malware program has been advertised on darknet forums as the “leading way to make money in 2021,” raising alarms among the cybersecurity community. Palo Alto Networks published a report on the malicious app Westeal, detailing the author’s ties with other types of malware that steals major streaming services accounts.
+
+Westeal Claims to Be Immune Against Major Antivirus Software
+
+According to the cybersecurity firm, “Westeal” is an evolution of “Wesupply Crypto Stealer,” another malicious crypto software that has been sold since May 2020. Findings suggest that Wesupply’s evolution has been advertised since mid-February 2021.
+
+The study points out that Westeal was designed to basically steal bitcoin (BTC) and ethereum (ETH) coming in and out of the victim’s wallet through their clipboard.
+
+Moreover, people who acquire the malicious app get access to a web panel to handle all the operations, including a “victim tracker panel.”
+
+A detail that raises concerns from Palo Alto Networks is the fact that Westeal is reportedly immune to major antivirus software.
+
+The malware works with a subscription model, and “Complexcodes,” the anon author of the app, profits by charging 20 euros ($24) monthly, 50 euros ($60) for three months, and 125 euros ($150) yearly.
+
+The Malware Is a ‘Shameless’ Crypto Stealer, Researchers Say
+
+The cybersecurity firm provides more details on the malware:
+
+In order to “steal” cryptocurrency from a victim, Westeal uses regular expressions to look for strings matching the patterns of bitcoin and ethereum wallet identifiers being copied to the clipboard. When it matches these, it replaces the copied wallet ID in the clipboard with one supplied by the malware. The victim then pastes the substituted wallet ID for a transaction, and the funds are sent instead to the substitute wallet.
+
+Still, Palo Alto Networks qualifies Westeal as a “shameless” malware:
+
+Westeal is a shameless piece of commodity malware with a single, illicit function. Its simplicity is matched by a likely simple effectiveness in the theft of cryptocurrency. The low-sophistication actors who purchase and deploy this malware are thieves, no less so than street pickpockets. Their crimes are as real as their victims. The fast and simple monetization chain and anonymity of cryptocurrency theft, together with the low cost and simplicity of operation, will undoubtedly make this type of crimeware attractive and popular to less-skilled thieves.
+
+What are your thoughts on this cryptocurrency malware recently spotted? Let us know in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

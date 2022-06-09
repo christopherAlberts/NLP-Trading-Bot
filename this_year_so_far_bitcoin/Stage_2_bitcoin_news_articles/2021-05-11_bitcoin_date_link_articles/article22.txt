@@ -1,0 +1,45 @@
+The most recent Bitcoin mining subsidy halving took place one year ago today, and its price has risen dramatically since.
+
+The most recent Bitcoin mining subsidy halving occurred officially one year ago today, on May 11, 2020. In recognition of the event, let’s take a look back at what has transpired in the Bitcoin market over the last year and a look forward to what it could have in store.
+
+The Importance Of The Halving’s Quantitative Tightening
+
+Following the record plunge across all asset classes during the global liquidity crises at the beginning of March 2020, record monetary and fiscal stimulus had bitcoin trading around the $8,000 level at the halving on May 11, 2020. Investors around the globe began to understand that they needed a place to seek refuge and insulate themselves from the unprecedented monetary expansion, and bitcoin undergoing a quantitative tightening event — whereby the supply issuance of new bitcoin is cut by 50% irrespective of the choice of any policy makers — was quite the contrast.
+
+Inflation rate of bitcoin (log)
+
+
+
+What Has Transpired Since The 2020 Halving
+
+Federal Reserve balance sheet, May 11, 2020 to May 11, 2021
+
+
+
+What has transpired since that Halving event was that investor sentiment around the record monetary expansion on the horizon has been proven to be correct. The Federal Reserve (and other major global central banks) continued to inject liquidity into the financial system to keep borrowing conditions loose, and this played a major role in the adoption of bitcoin as an alternative monetary asset that exists outside the system.
+
+At the time of writing, bitcoin has gained 533% since the halving event, as the supply and demand dynamics of a surge in demand coupled with an inelastic (and 50% reduced) supply issuance caused the price of the asset to skyrocket above a $1 trillion market cap.
+
+Price of BTC/USD since the start of 2020
+
+
+
+Before the Halving event, legendary Wall Street manager Paul Tudor Jones published a report titled “The Great Monetary Inflation,” in which he outlined his beliefs about the incumbent monetary system and the path that it was headed on going forward, and why he believed Bitcoin was the “fastest horse.”
+
+Shortly thereafter, in what will be remembered as a watershed moment in the ascent of Bitcoin, MicroStrategy, led by now prominent Bitcoin proponent Michael Saylor, announced that it was adopting bitcoin as a treasury reserve asset.
+
+In what has since become an increasingly accepted view, Saylor and MicroStrategy decided that CPI was not an accurate measure of inflation and rather decided to use M2 monetary base as a measure for the inflation rate.
+
+“Once the real yield on our treasury got to more than negative 10%, we realized that everything we are doing on P&L is irrelevant,” Saylor said. “We really felt we were on a $500 million melting ice cube.”
+
+Are Future Halvings Priced In?
+
+Bitcoin stock-to-flow model
+
+
+
+Leading up to the Halving last year, many in the Bitcoin community and more broadly in the financial system were debating whether the Halving was “priced in,” as the event is known well into the future. While I won't delve into my personal opinion on the debate, due to the nuance and all of the exogenous variables and factors that play into the price of bitcoin, it is extremely fascinating that price seems to be tracking the stock-to-flow model that was first introduced by the pseudonymous Twitter account Plan B back in March 2019.
+
+Are future Halvings priced in? Who knows? But what is known is that with the 2024 Halving just 156,872 blocks away, it might be a good idea to front-run the event...
+
+Remember, if you’re not long bitcoin, you’re short. Happy one year post Halving!

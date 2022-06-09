@@ -1,0 +1,41 @@
+Originally slated for Dec. 1, 2020, Bitcoin Core version 0.21.0 is now available for download, and includes a handful of notable changes to Bitcoin’s primary software implementation. Most notably, Bitcoin now supports Tor’s latest address format, Taproot’s code is now live for testing and Bitcoin Core finally gets manual fee setting.
+
+With bitcoin’s price pumping, these new features don’t grab headlines every day, but the improvements they make to the Bitcoin network’s privacy, tooling and complex transaction logic are building a stronger foundation as the cryptocurrency sees a new wave of investor interest.
+
+Taproot is one step closer
+
+The consensus rules for the highly anticipated Taproot upgrade, which will allow for more complex smart contracts using Schnorr signatures, have been slightly tweaked since they were merged into Bitcoin Core in October. Taproot is also now fully live on Bitcoin’s signet, a sandbox network for developers to test new software and upgrades before pushing them to Bitcoin’s mainnet.
+
+Related: First Mover: Biden's $1.9T Plan Shows 'Blue Wave' Bitcoiners Saw Coming
+
+With the code now ready for testing, developers can now test the feature before activation begins later this year.
+
+Fees get a makeover
+
+Another change some 3.5 years in the making, Bitcoin Core now allows its users to set manual fees which are denominated in satoshis (Bitcoin’s smallest unit) instead of in bitcoin. Before, Bitcoin Core relied on a fee estimator for transactions, and these fees were set by specifying a bitcoin amount (say, 0.00001 BTC) instead of satoshis (1000 sats).
+
+Privacy
+
+Additionally, the new version supports privacy browser Tor’s V3 address. Before this update, Tor V3 addresses could not fit into the message data that Bitcoin nodes share to connect with each other. Core now has a new method to transport these addresses so that nodes can establish peer-to-peer connections through them, a necessary addition as Tor V2 address will no longer be functional by next year.
+
+Story continues
+
+The release also introduces a new block-filtering system for “light clients” (wallets that do not keep a full history of Bitcoin’s transaction ledger but queries data as needed from a full node). Instead of using so-called “bloom filters” to query whatever blocks these wallets need to make transactions, now, a process called “compact client-side block filtering” makes this possible.
+
+Related: Biden's $1.9T Relief Package Proposal Fails to Stir Bitcoin Market
+
+This new method is more privacy-preserving for light clients, because the nodes create the block filters ahead of time for the wallets, and the wallet will request block data on a case-by-case basis to retrieve the specific transaction data they need. The old process had wallets requesting specific block data from their peer nodes.
+
+Bitcoin gets a new sandbox
+
+Bitcoin is also getting a new testing network. Signet, as it’s called, is now operational and takes its place beside Bitcoin’s other test-only blockchains, regtest and testnet.
+
+The new signet is centrally controlled and so is more reliable than Bitcoin’s other testing grounds; there is currently one public signet available, though developers can spin up their own, as well.
+
+Other notable changes to Bitcoin Core
+
+Bitcoin Core now supports descriptor wallets, as well. These wallets use scripts instead of keys to execute functions, so this – among other things – will make it easier for Bitcoin Core wallets to partake in things like multi-signature transactions; it will also pave the way for hardware wallet integration.
+
+In addition to many other minor tweaks, Bitcoin Core now supports the SQLite database, as well as a feature that reduces the amount of rebroadcasting attempts a node makes when it fails to broadcast a transaction to its peers. It also comes with a new dashboard for easily viewing network information and peer node data.
+
+Related Stories

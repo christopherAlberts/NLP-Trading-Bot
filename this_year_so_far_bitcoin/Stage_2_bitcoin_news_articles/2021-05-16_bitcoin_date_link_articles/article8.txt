@@ -1,0 +1,25 @@
+Galaxy Digital has released a report on Bitcoin energy consumption, detailing how it consumes less than traditional financial industries and the value it can bring.
+
+The analysis uses several calculations to ascertain how much energy the Bitcoin network uses and how it stacks up against the banking and gold industries.
+
+In the opening section, the authors note that the energy usage criticisms are not usually applied to traditional industries. It lauds Bitcoin (a carbon footprint that’s been compared to Las Vegas) for being transparent, while incumbent companies are opaque and don’t often disclose their energy footprint.
+
+Gold and banking systems
+
+The authors accept that the Bitcoin network consumes a great deal of energy, but assert that this is exactly what secures the network and makes it so robust. By Galaxy Digital’s calculation, the annual electricity consumption of Bitcoin is estimated to be 113.89 TWh/yr. For some perspective, the energy consumption of always-on devices in the US is 1,375 TWh/yr — 12.1 times that of Bitcoin’s consumption.
+
+The consumption of the gold and banking industries are hard to estimate because of a lack of data on energy usage. This makes it difficult to “have an honest conversation” about Bitcoin’s energy use.
+
+For the gold industry, the analysts took a look at all of the processes involved, including those directly emitting greenhouse gasses, those indirectly emitting them, and emissions stemming from refinement and recycling. Multiplying the total 100,408,508 tCo2 in emissions with the global IEA carbon intensity multiplier, it estimates the total energy consumption of the gold industry to be 240.61 TWh/yr.
+
+The report describes the banking industry as being harder to gauge because it does not directly report electricity consumption data. However, it takes banking data centers, bank branches, ATMs, and card network data centers. With this rough categorization of sources of power consumption, the banking industry’s energy consumption estimate is 238.92 TWh/year — 2.3 times that of Bitcoin.
+
+Story continues
+
+Narrative now centering on Bitcoin’s energy usage
+
+The report follows Tesla’s decision to stop accepting BTC for payments out of concerns for its energy usage. Bitcoin’s energy consumption has been a narrative thread for years, but only with recent headlines has it become a prominent one.
+
+However, the real argument supporting Bitcoin’s energy consumption is that the value it brings can justify it to some degree. Galaxy Digital notes that value is subjective and that the mainstream public is still on the fence about Bitcoin’s utility.
+
+Galaxy Digital’s report considers the arguments posed by detractors, those who see it as complementary to incumbent systems, and ardent supporters. To detractors, it says that Bitcoin can bring financial inclusion and families in economically and politically unstable countries.

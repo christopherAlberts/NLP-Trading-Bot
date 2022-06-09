@@ -1,0 +1,17 @@
+A federal grand jury has accused 22 people of spending more than $2 million of bitcoins to access thousands of payment card accounts stolen from Kmart in a hack that victimized at least 80 of the retailer’s Chicago-area customers.
+
+U.S. District Judge John Kness unsealed a 53-page indictment Monday after prosecutors told him all but two of the defendants charged in the case had been rounded up. Three additional “co-schemers” — including one who paid $4 million of bitcoin cryptocurrency for the payment card data — are not named or charged in the indictment.
+
+The two charged defendants who have not been arrested are believed to be living in a foreign country, according to a filing by Assistant U.S. Attorney Peter Flanagan.
+
+Authorities seized proceeds of the scam in several locations across the country, according to the indictment. It says agents have collected payment cards, laptops and designer beauty products from addresses in California, New York, New Jersey, Michigan, South Carolina, Georgia, Florida and Virginia.
+
+Kmart is identified in the indictment only as “Company A.” Representatives of the retailer did not immediately comment Tuesday. In May 2017 its then-parent company, Sears Holdings, acknowledged it had discovered a malware breach that may have compromised credit card numbers, according to news reports at the time.
+
+The scheme alleged in the indictment revolves around the use of payment cards including credit, debit and gift cards. It says someone identified only as “Co-Schemer A” installed malware on Kmart computers between August 2016 and April 2017 allowing that person to capture payment card data from more than 3 million cards from Kmart computers, including card data belonging to the 80 Chicago-area victims.
+
+Another individual, identified only as “Co-Schemer B,” then paid $4 million of bitcoin to “Co-Schemer A” in exchange for the stolen data. “Co-Schemer B,” in turn, allegedly sold data from more than 6 million payment cards — including the 3 million stolen from Kmart — on two websites to more than 3,000 website users.
+
+The indictment goes on to accuse 22 individuals of purchasing data from more than 80,000 payment card accounts, including more than 56,000 accounts from Kmart, in exchange for $2.1 million of bitcoins. The lead defendant in the case, Barry Shi, allegedly paid $507,273 of bitcoins for 18,742 payment cards, including 13,429 from Kmart, between January 2017 and January 2020.
+
+Court records show some of the defendants were arrested in California, as well as in Georgia, Virginia, North Carolina, South Carolina and New York. The indictment says law enforcement recovered property “traceable to the offense” in November 2019 and January 2020, including payment cards; laptops; a Cartier watch; purses from Coach, Michael Kors, Gucci and Bally; Prada and Ray-Ban sunglasses; cosmetics from Lancome and Estee Lauder; and a bottle of 2013 Opus One wine purchased for $1,092.

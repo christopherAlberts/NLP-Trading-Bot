@@ -1,0 +1,93 @@
+Bearish news is causing the crypto market to dip and uncertainty reigns as to when prices might pick up again.
+
+Bitcoin (BTC) trading around $35,889 as of 21:00 UTC (4 p.m. ET). Slipping 7.6% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $35,453-$39,053 (CoinDesk 20)
+
+Ether (ETH) trading around $2,506 as of 21:00 UTC (4 p.m. ET). In the red 9.3% over the previous 24 hours.
+
+Ether’s 24-hour range: $2,443-$2,784 (CoinDesk 20)
+
+Bitcoin dumps on doubt
+
+Bitcoin’s hourly price chart on Bitstamp since May 25. Source: TradingView
+
+Bitcoin, the world’s largest cryptocurrency by market capitalization, was down Friday by 7.6% as of press time. BTC was below the 10-hour moving average and the 50-hour, a bearish signal for market technicians.
+
+The price of BTC fell from $39,053 at 22:30 UTC (6:30 p.m. ET) Thursday to as low as $35,453 by 12:00 UTC (8:00 a.m. ET) Friday, a 9.2% slip based on CoinDesk 20 data.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+“It could be a difficult weekend for crypto investors,” said David Russell, vice president of market intelligence at brokerage TradeStation Group. “The mid-May sell-off left some technical scars that may need time to heal. Bitcoin is under $40,000 and dragging on the space.”
+
+On May 23, bitcoin fell to a one-month low of $33,140, according to CoinDesk 20 data.
+
+Historical bitcoin price the past month. Source: CoinDesk 20
+
+BTC calls piled up at $100K
+
+Bitcoin options open interest by strike price. Source: Deribit
+
+In the bitcoin derivatives market, the top positioning on bellwether options venue Deribit is at a looks-pretty-far-from-here $100,000 strike price. Over 8,000 calls with a notional value of $305 million are at that six-digit strike, according to Deribit data.
+
+“You can see there’s even a $400,000 strike, which is ridiculous,” said Nathan Cox, chief investment officer of crypto fund Two Prime.
+
+Diving deeper, data aggregator Genesis Volatility provides implied volatility metrics based on Deribit data of expirations. On the June 11 expiration, for example, the skew is bearish, seen by a large amount of implied volatility oriented at the $20,000 strike price.
+
+Skew of bitcoin option strikes expiring June 11. Source: Genesis Volatility
+
+However, when looking deep into the future, implied volatility skews mega-bullish at a $400,000 strike for the March 23, 2022 expiration.
+
+Skew of bitcoin option strikes expiring March 25, 2022. Source: Genesis Volatility
+
+It’s a short-term bearish outlook but long-term hyper bull mode for options traders, according to Cox. And he believes there may be more downside ahead before a reversal.
+
+“So it’s like, yes, we all believe in the macro case for bitcoin,” Cox told CoinDesk. “But the question is, how do you trade it right now? And the answer is maybe a little bit more nuanced than what most think, which is, strap in because we’re not done yet.”
+
+Ether volumes above bitcoin for third straight day
+
+Ether’s hourly price chart on Bitstamp since May 25. Source: TradingView
+
+The second-largest cryptocurrency by market capitalization, ether, was trading around $2,506 as of 21:00 UTC (4:00 p.m. ET), slipping 9.3% over the prior 24 hours. The asset is below the 10-hour moving average but above the 50-hour, a sideways signal for market technicians.
+
+Ether dipped from $2,784 at 22:00 UTC (6:00 p.m. ET) Thursday to $2,443 by 12:00 UTC (8:00 a.m. ET) Friday, an 8.2% dump based on CoinDesk 20 data. ETH has since gone up and down but settled higher, $2,506 as of press time.
+
+Spot ether volumes were higher than bitcoin for the third straight day on Thursday, based on the last available data from CoinDesk Research. BTC’s $40 million tally Thursday was 8% lower than ether’s $44 million in trading volume, a sign traders are continuing to find highly liquid crypto opportunities outside of bitcoin.
+
+Bitcoin and ether spot volumes on major exchanges. Source: CoinGecko
+
+While this development might concern some long-term bitcoin holders, Nick Mancini, a research analyst for signals firm Trade the Chain, pointed out that BTC dominance, or its share of the overall cryptocurrency ecosystem, is steady – it’s actually up by 0.30% as of press time Friday.
+
+Bitcoin dominance so far in May. Source: TradingView
+
+“If bitcoin dominance continues to rise we expect BTC to lead the way for ETH and other large-caps,” Mancini said. “And we expect both ETH and BTC sentiment and price action to stay correlated through the weekend.”
+
+A use case for bitcoin: Ethereum
+
+Various bitcoin tokens on Ethereum since the start of 2020. Source: Dune Analytics
+
+Over 230,000 BTC as of press time is “wrapped” on Ethereum, a record high. Wrapped bitcoin is held in escrow in a custody wallet, and tokens are created on the Ethereum network to represent that value and deployed across various decentralized finance, or DeFi, applications like lending, trading and derivatives.
+
+At over 184,000 bitcoin, the most popular wrapped project is wBTC. It’s a joint effort of BitGo, Kyber Network and Republic protocol, according to the white paper.
+
+Brian Mosoff, chief executive officer of Ether Capital, says wrapped bitcoin is hitting records because of BTC’s continuing digital gold and treasury narratives, and that this particular technology could become of interest to financial incumbents over time.
+
+“These are brand-new systems and pieces of software,” said Mosoff. “Watching a global community address these issues in a decentralized way, making the tooling more robust, will lead to prime time when traditional finance is ready to plug in their infrastructure and bridge the two worlds.”
+
+Read More: Uniswap Holders Vote to Deploy on Ethereum Scaler Arbitrum
+
+Other markets
+
+Digital assets on the CoinDesk 20 are all lower Friday. Notable losers as of 21:00 UTC (4:00 p.m. ET):
+
+Equities:
+
+The S&P 500 in the United States gained 0.30% as investors hit the buy button on optimism of an economic recovery from the coronavirus pandemic.
+
+Commodities:
+
+Gold was up 0.37% and at $1,903 as of press time.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield fell Friday to 1.591 and lower by 1%.

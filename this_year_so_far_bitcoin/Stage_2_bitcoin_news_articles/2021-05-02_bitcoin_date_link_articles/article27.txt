@@ -1,0 +1,35 @@
+Bitcoin Miners Start Signaling for Taproot Activation, People Prep for BTC's Largest Update in 4 Years
+
+Bitcoin miners have started to signal for Taproot activation and crypto supporters are looking forward to the largest bitcoin update in almost four years. The mining operation Slush Pool mined the first block signaling for Taproot and since then the pools Foundry and F2pool have joined in on signaling as well.
+
+Bitcoin Block: 681,458 Signals for Taproot
+
+It’s been a long time since the Bitcoin network has seen a major upgrade and the last time it happened was in 2017, back when BTC participants activated Segregated Witness (Segwit). Since then, bitcoiners have been discussing the next major upgrade Taproot. The Taproot proposal was introduced in January 2018 by software developer and Bitcoin Core contributor Gregory Maxwell.
+
+Last October, Taproot was introduced into the Github repository as a pull request initiated by Bitcoin Core programmer Pieter Wuille. Ostensibly, Taproot can help BTC scale and bitcoin transactions can become more private. The protocol that will be deployed if it comes to consensus, is a soft fork that improves the blockchain’s scripts for privacy-centric and complex transactions.
+
+“Taproot is a proposed Bitcoin protocol upgrade that can be deployed as a forward-compatible soft fork,” the Github “Taproot-Activation” documentation notes. “By combining the Schnorr signature scheme with MAST (Merklized Alternative Script Tree) and a new scripting language called Tapscript, Taproot will expand Bitcoin’s smart contract flexibility, while offering more privacy by letting users mask complex smart contracts as a regular bitcoin transaction.”
+
+In Order to Upgrade Network Participants Must Come to Consensus
+
+Following the traditional rules, in order for the Taproot activation to happen, miners need to adopt the new consensus rules by a certain period of time. At the time of writing, more than a dozen blocks have been mined with blocks signaling for the activation of Taproot. The three distinct pools known as F2pool, Foundry, and Slush Pool have all started signaling. F2pool is currently the largest mining pool by hashrate on the BTC network, as far as hash distribution is concerned.
+
+If you're new to Bitcoin and concerned about the Taproot activation debate, don't be. Decision making in Bitcoin is decentralized and consensus emerges naturally as the collective of individuals in the community weigh up the various competing proposals. It's messy, but it works. — Cøbra (@CobraBitcoin) March 4, 2021
+
+While a great number of BTC supporters are positive about Taproot activation, how to upgrade BTC has already come with controversy. In mid-April Bitcoin.com News reported on software developer Luke Dashjr and his angst against miners upgrading with the “Speedy trial” activation method. In a post six days ago, Gregory Maxwell otherwise known as “nullc” on Reddit, got into a heated debate in a thread called “Taproot activation status.”
+
+New block signaling readiness for Taproot by F2Pool! About 25% of hashrate signaling now. pic.twitter.com/5IGYeknCG1 — Murch 🥕🟩 (@murchandamus) May 2, 2021
+
+It’s been a while since Bitcoin (BTC) has upgraded and per usual, people are skeptical about blockchain participants coming to consensus following the Segwit2x battles in 2017. The stubbornness and length of time have led people to talk about things like ossification, bitrot, and bitcreep. Moreover, at the end of 2020 Blockchair’s lead developer, Nikita Zhavoronkov ferociously criticized Taproot on Twitter.
+
+Despite some disagreements, many people think that coming to consensus over Taproot and even with the debatable activation methods, the upgrade will happen this year. Krakenfx Editor Pete Rizzo recently wrote a comprehensive Twitter thread about the Taproot consensus subject after doing a Clubhouse event in March.
+
+“Yes, there are differences in opinion. No, this does not resemble debates that have led to past network splits,” Rizzo said.
+
+As of Sunday, May 2, 2021, around 25% of the network’s SHA256 hashrate approves of the Taproot activation. There is a signaling period of 2,016 blocks and “1,802 Taproot blocks left until [the] soft fork is locked in,” the web portal taproot.watch says. “Taproot will not lock in with the current signaling ratio (7.14%),” the page adds.
+
+What do you think about the Bitcoin network upgrading? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

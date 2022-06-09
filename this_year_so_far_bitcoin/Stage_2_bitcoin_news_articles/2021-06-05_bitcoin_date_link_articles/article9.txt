@@ -1,0 +1,81 @@
+Hello friends, and welcome back to Week in Review!
+
+Last week, I wrote about tech taking on Disney. This week, I’m talking about the search for a new crypto messiah.
+
+If you’re reading this on the TechCrunch site, you can get this in your inbox from the newsletter page, and follow my tweets @lucasmtny.
+
+The big thing
+
+Elon has worn out his welcome among the crypto illuminati, and the acolytes of Bitcoin are searching out a new emperor god king.
+
+This weekend, thousands of crypto acolytes and investors have descended on a Bitcoin-themed conference in Miami, a very real, very heavily-produced conference sporting crypto celebrities and actual celebrities all on a mission to make waves.
+
+Even though I am not at the conference in person (panels from its main stage were livestreamed online), I have plenty of invites in my email for afterparties featuring celebrities, open bars and endless conversations on the perils of fiat. The cryptocurrency community has never been larger or richer thanks to its most fervent bull run yet, and despite a pretty noteworthy correction in the past few weeks, people believe the best is yet to come.
+
+Despite having so much, what they still seem to be lacking is a patron saint.
+
+For the longest bout, that was SpaceX and Tesla CEO Elon Musk who bolstered the currency by pushing Tesla to invest cash on its balance sheet into bitcoin, while also pushing for Tesla to accept bitcoin payments for its vehicles. As I’ve noted in this newsletter in the past, Musk had a tough time reconciling the sheer energy use of bitcoin’s global network with his eco-warrior bravado, which has seemed to lead to his mild and uneven excommunication (though I’m sure he’s welcome back at any time).
+
+Goods & services are the real economy, any form of money is simply the accounting thereof — Elon Musk (@elonmusk) June 5, 2021
+
+There are plenty of celebrities looking to fill his shoes — a recent endorsement gone wrong by Soulja Boy was one of the more comical instances.
+
+Crypto has been no stranger to grift — of that even the most hardcore crypto grifters can likely agree — and I think there’s been some agreement that the only leader who can truly preach the gospel is someone who is already so rich they don’t need more money. It’s one reason the community has offered up so much respect for Ethereum founder Vitalik Buterin, who truly doesn’t seem to care too much about getting any wealthier — he donated about $1 billion worth of crypto to COVID relief efforts in India. A Musk-like cheerleader serves a different purpose though, and so the community is in search of a Good Billionaire.
+
+The best runner-up at the moment appears to be one Jack Dorsey, and while — like Musk — he is also another double-CEO, he is quite a bit different from him in demeanor and desire for the spotlight. He was, however, a headline speaker at Miami’s Bitcoin conference.
+
+Dorsey gathers the most headlines for his work at Twitter but it’s Square where he is pushing most of his crypto enthusiasm. Users can already use Square’s Cash App to buy bitcoin. Minutes before going onstage Friday, Dorsey tweeted out a thread detailing that Square was interested in building its own hardware wallet that users could store cryptocurrency like bitcoin on outside of the confines of an exchange.
+
+Square is considering making a hardware wallet for #bitcoin. If we do it, we would build it entirely in the open, from software to hardware design, and in collaboration with the community. We want to kick off this thinking the right way: by sharing some of our guiding principles. — jack (@jack) June 4, 2021
+
+“Bitcoin changes absolutely everything,” Dorsey said onstage. “I don’t think there is anything more important in my lifetime to work on.”
+
+While the billionaire Dorsey seems like a good choice on paper — he tweets about bitcoin often, but only good tweets. He defends its environmental effects. He shows up to House misinformation hearings with a bitcoin tracker clearly visible in the background. He is also unfortunately the CEO of Twitter, where the company’s desire to reign in its more troublesome users — including one very troublesome user — has caused a rift between him and the crypto community’s very vocal libertarian sect.
+
+Dorsey didn’t make it very far into his speech before a heckler made a scene calling him a hypocrite because of all this with a few others piping in, but like any good potential crypto king would know to do, he just waited quietly for the noise to die down.
+
+Other things
+
+Here are the TechCrunch news stories that especially caught my eye this week:
+
+Facebook’s Trump ban will last at least 2 years
+
+In response to the Facebook Oversight Board’s recommendations that the company offer more specificity around its ban of former President Trump, the company announced Friday that it will be banning Trump from its platforms through January 2023 at least, though the company has basically given itself the ability to extend that deadline if it so desires.
+
+Nigeria suspends Twitter
+
+Nigeria is shutting down access to Twitter inside the country with a government official citing the “use of the platform for activities that are capable of undermining Nigeria’s corporate existence.” Twitter called the shutdown “deeply concerning.”
+
+Stack Overflow gets acquired for $1.8 billion
+
+Stack Overflow, one of the most visited sites of developers across the technology industry, was acquired by Prosus. The heavy hitter investment firm is best known for owning a huge chunk of Tencent. Stack Overflow’s founders say the site will continue to operate independently under the new management.
+
+Spotify ups its personalization
+
+Music service Spotify launched a dedicated section this week called Only You, which aims to capture some of the personalization it has been serving up in its annual Spotify Wrapped review. Highlights of the new feature include blended playlists with friends and midyear reviews.
+
+Supreme Court limits US hacking law in landmark case
+
+Justices from the conservative and liberal wings joined together in a landmark ruling that put limits on what kind of conduct can be prosecuted under the controversial Computer Fraud and Abuse Act.
+
+This one email explains Apple
+
+Here’s a fun one, the email exchange that birthed the App Store between the late Steve Jobs and SVP of Software Engineering, Bertrand Serlet as annotated by my boss Matthew Panzarino.
+
+Extra things
+
+Some of my favorite reads from our Extra Crunch subscription service this week:
+
+For SaaS startups, differentiation is an iterative process
+
+“The more you know about your target customers’ pain points with current solutions, the easier it will be to stand out. Take every opportunity to learn about the people you are aiming to serve, and which problems they want to solve the most. Analyst reports about specific sectors may be useful, but there is no better source of information than the people who, hopefully, will pay to use your solution.”
+
+3 lessons we learned after raising $6 million from 50 investors
+
+” … being pre-product at the time, we had to lean on our experience and our vision to drive conviction and urgency among investors. Unfortunately, it just wasn’t enough. Investors either felt that our experience was a bad fit for the space we were entering (productivity/scheduling) or that our vision wasn’t compelling enough to merit investment on the terms we wanted.“
+
+The existential cost of decelerated growth
+
+“Just because a technology startup has a hot start, that doesn’t mean it will grow quickly forever. Most will wind up somewhere in the middle — or worse. Put simply, there is a larger number of tech companies that do fine or a little bit worse after they reach scale.”
+
+Again, if you’re reading this on the TechCrunch site, you can get this in your inbox from the newsletter page, and follow my tweets @lucasmtny.

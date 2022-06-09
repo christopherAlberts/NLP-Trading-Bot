@@ -1,0 +1,49 @@
+While bitcoin is poised to revamp and upend global finance, the massive power demands of its blockchain network could undermine the world’s efforts to keep global warming in check.
+
+Credit: Quote Inspector.
+
+In February, the bitcoin network consumed as much energy as Argentina, a country of 44 million people, according to researchers at Cambridge University. By 2024, if this trend continues, cryptocurrency mining in China alone could use as much power as Italy uses in a whole year. The resulting CO2 emissions would be equal to those of the Czech Republic.
+
+Increasingly, the energy (and climate) impact of bitcoin is compared to that of countries. So what can be done about that?
+
+ADVERTISEMENT
+
+Some analysts think this is fine. Research by ARK Investment Management, which holds a lot of crypto assets, found that the bitcoin ecosystem consumes less than 10% of the energy required by the traditional banking system.
+
+However, billions of people use traditional banking services whereas only one million bitcoin addresses are active on a daily basis, according to CoinMetrics data. If the sector were to grow, its consumption would also grow.
+
+Get more science news like this... Join the ZME newsletter for amazing science news, features, and exclusive scoops. More than 40,000 subscribers can't be wrong. Daily Weekly I have read and agree to the terms & conditions. Leave this field empty if you're human:
+
+It is also true that, like with any new industry, the requirements for implementing early infrastructure are particularly intense, so going forward each new bitcoin mined should use increasingly less energy and generate fewer carbon emissions — at least that’s the plan.
+
+ADVERTISEMENT
+
+But in any event, the bottom line is that the bitcoin network eats up a lot of power and its appetite is only increasing. In a new study recently published in Nature, researchers at the University of Chinese Academy of Sciences in Beijing have proposed some solutions that could perhaps mitigate some of the crypto network’s massive environmental footprint.
+
+Rather than taxing bitcoin mining, as some have proposed earlier, the Chinese researchers claim a better strategy may be encouraging miners to shift their operations to regions that are powered by ‘green’ energy.
+
+Data from the Cambridge study indicates Chinese bitcoin mining is responsible for 65% of the network’s power. North American miners make up roughly 8% of the global hash rate, followed closely by miners in Russia, Kazakhstan, Malaysia, and Iran.
+
+A bitcoin mining rig from 2015. Credit: Wikimedia Commons.
+
+There are a few reasons why China is dominating this space. One explanation is that the Chinese government was quick to offer subsidies for the mining industry. Chinese miners also have access to computer chips at a discount straight from the world’s most important manufacturers. Last but not least, electricity in some of the most important mining provinces, such as Xinjiang, is dirt cheap, trading at least five times cheaper than in North America. The price of bitcoin surged since 2020 after millions of first-time retail investors began purchasing crypto with their phones on apps like BitQT, as well as a result of large institutional investors moving their assets away from stocks and bonds into the burgeoning crypto space.
+
+Much of this energy is sourced from coal, although a study estimated up to 73% of bitcoin miners use at least some renewable energy as part of their power supply, including hydropower from China’s massive dams. But overall, much of the energy still comes from dirty sources.
+
+Shouyang Wang, one of the new report’s authors and chair professor at the Academy of Mathematics and Systems Science at the Chinese Academy of Sciences in Beijing, wanted to see if there’s any way to make bitcoin mining operations both profitable and sustainable in the future.
+
+Wang and colleagues performed simulations finding that if bitcoin mining is allowed to grow business-as-usual, it would peak in 2024 at nearly 300 terawatt-hours of electricity, or as much as a medium-sized country, and generate nearly 130 million metric tons of carbon emissions. Since most of the mining would take place in China, this would completely derail the country’s efforts to decarbonize its energy system.
+
+At its address to the 75th session of the UN General Assembly (UNGA 75) in February, Chinese President Xi Jinping declared that China will ‘aim to have CO2 emissions peak before 2030 and achieve carbon neutrality before 2060.’
+
+“It is important to note that the adoption of this disruptive and promising technique without [taking into account] environmental concerns may pose a barrier to the worldwide effort on GHG emissions management in the near future,” Wang told Forbes, adding that the research team was “surprised by the energy consumption and carbon emission assessment results of bitcoin blockchain operation in China.”
+
+The solution is moving from a punitive tax policy to a site regulation policy that motivates miners to move their operations in an area that guarantees a high rate of renewable energy.
+
+The simulation showed that under such a policy, only 20% of miners remained in coal-intensive energy regions. Under the site regulation model, the researchers found bitcoin operations generated 100.61 million metric tons at peak, as opposed to 105.19 million tons under an additional taxation scenario.
+
+“Site regulation should be carried out by the government, placing limitations on bitcoin mining in certain regions that use coal-based heavy energy,” Wang explained. “That being said, we think that there are enough benefits to this policy which will incentivize the miners to move their operation willingly. For example, since energy prices in clean-energy regions of China are lower than that in heavy-energy regions, the miners can effectively lower their individual energy consumption cost, which would increase their profitability.”
+
+The supply of new bitcoin halves every four years, which also means the miners’ rewards get halved. The next time this will happen will be 2024 — this is the forecasted peak of bitcoin mining. After 2024, the authors of the new study believe that it will no longer be cost-effective to mine bitcoin. This is why competition is so fierce nowadays, with miners buying every rig they can get their hands on so they mine as much as they can before 2024.
+
+This also means that, at least partly, the bitcoin network is self-regulating. In time, the network will use less and less energy and generate fewer carbon emissions. But until it peaks, regulators have their work cut out for them.

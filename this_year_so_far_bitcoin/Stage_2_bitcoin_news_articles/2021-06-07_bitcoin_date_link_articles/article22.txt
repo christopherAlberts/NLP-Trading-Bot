@@ -1,0 +1,31 @@
+The cryptocurrency sell-off has been swift and brutal. The two largest tokens by market capitalization, Bitcoin (CRYPTO:BTC) and Ethereum (CRYPTO:ETH) have suffered a 43% and 36% drawdown, respectively, from their all-time highs in less than two months. Yet even with that decline, both cryptocurrencies are handily outperforming the S&P 500 so far in 2021.
+
+Bitcoin and Ethereum routinely swing 5% to 10% or more in a day. And unlike the U.S. stock market, which is open less than 40 hours a week, cryptocurrency markets are open 24/7, which only adds fuel to the volatility fire. As with any asset, earning interest would add stability by giving investors income no matter how crazy the price action is. Here's how you can earn 8% interest on Bitcoin and Ethereum, but why you may not want to.
+
+Leading interest rate offerings
+
+Just like a savings account, the interest rate provided on a token varies based on the custodian you choose to safeguard your investment. Below are estimates of the interest rates and other metrics by some of the top crypto custodians and exchanges that are available in the U.S.
+
+Exchange Bitcoin Interest Rate Ethereum Interest Rate Year Began Offering Crypto Trading Users Assets Nexo 8% 8% 2018 1.5 million $15 billion BlockFi 5% 4.5% 2017 <1 million $15 billion Gemini 2.1% 3.1% 2014 13 million $30 billion Robinhood 0% 0% 2018 13 million $20 billion Coinbase (NASDAQ:COIN) 0% 0% 2012 56 million $223 billion
+
+Higher interest rates tend to be paid by smaller, younger providers with fewer assets under management (AUM). Nexo and BlockFi are two of the leading up-and-coming exchanges that offer attractive interest rates on Bitcoin and Ethereum and even higher rates on altcoins and stablecoins.
+
+Gemini is the largest "established" custodian where U.S. citizens can earn interest rates on Bitcoin and Ethereum. A 2.1% interest level on Bitcoin may not seem like much, but it's actually more than the average dividend yield in the S&P 500.
+
+Robinhood is a bit hard to pinpoint since many of its users (and much of its AUM) aren't tied to crypto. Although the platform doesn't have trading fees, it also doesn't pay interest on Bitcoin or Ethereum.
+
+Then there's Coinbase, the largest crypto exchange and custodian available for use in the U.S. Not only does Coinbase not pay interest on Bitcoin or Ethereum, but it also charges a minimum trading fee of 1.49% per transaction.
+
+Reading between the lines
+
+In the cryptocurrency world, reputation means so much more than just AUM and user count. Security (most notably through preventing hacks), as well as limiting downtime, providing payment protection, guaranteeing ease of use, allowing tokens to be liquid, and other intangibles are core reasons why exchanges like Coinbase are able to charge the fees they do.
+
+Another reason why some exchanges pay high interest rates and others do not has to do with varying business models. Zero- or low-fee exchanges (which is basically every player other than Coinbase) make money by lending assets to retail, institutional, or corporate borrowers at higher interest rates than they pay. Famous for its user-friendly platform and free trading, Robinhood makes most of its money on margin interest, which allows users to use their equity or crypto assets as collateral for a loan to buy even more. Coinbase offers collateralized loans, too, but only with Bitcoin, not other tokens.
+
+If an exchange is too generous with the leverage it allows clients to use, it may find itself overexposed to volatility or unable to process order flows. This can lead to exchanges downright suspending trading (as we saw Robinhood do with GameStop in January) or temporarily crashing (as BlockFi, Coinbase, and others did the morning of May 19).
+
+Where to go from here
+
+Similar to the allure of high-yield dividend stocks, it's probably not a good idea to invest in Bitcoin or Ethereum just to bag a high interest rate. If you're a fan of both tokens, it's important to consider the pros and cons of different exchanges and prioritize the features that mean the most to you. For the ultra risk-tolerant, that could mean searching for a high yield.
+
+But for most investors, especially those investing in Bitcoin and Ethereum for the first time, it's probably best to accept the transaction fees and lack of interest rates and go with a more established platform that's easy to use, provides accurate reporting, and take cyber security very seriously. Cryptocurrency is still in what could be the early innings of mainstream adoption. If it's successful, we'll likely see improvements in safety and security, and potentially higher interest rates as competition among exchanges grows.

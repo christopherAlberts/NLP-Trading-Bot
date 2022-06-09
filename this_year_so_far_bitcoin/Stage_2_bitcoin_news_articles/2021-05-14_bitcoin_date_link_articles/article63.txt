@@ -1,0 +1,9 @@
+SayPal, a concept app, says it will pay users in Bitcoins every time they utter the name of their sponsored brands in regular conversations. The Internet is awash with reports of users accusing tech giants of listening in to their intimate conversations in order to serve them hyper-targeted advertisements. SayPal claims that it will pay users for saying what it wants to listen. Redpepper, the developers behind SayPal, says that the upcoming app is currently in phase 1 prototype mode.
+
+In a teaser video on YouTube, redpepper, details how it is going to pay and for what. The video begins with a clear message, “Your device is listening, and all you get are creepy targeted ads.” Then a speaker takes the name of brands such as McDonald's, Nike, and Coke, and his account gets compensated in Bitcoins (price in India) for each brand name-dropping.
+
+In a blog post, redpepper said the difference between them and Big Tech firms is that users will "know exactly what was heard and get immediate compensation in return.” The app uses voice recognition to detect specific brand keywords being mentioned during conversations. SayPal includes an inbuilt Lightning wallet to store the earnings.
+
+The biggest challenge for the company is to distinguish natural name-drops from someone staring at their phone and repeating words on purpose. This issue was highlighted in the comments section of the YouTube video promoting the app. A user, OhTheyAteMyCat, commented, “And, how will you avoid people from spamming and abusing at the end? Could I just put my phone in front of my radio all day and get money?”
+
+There's no information from the company on when SayPal will see a public rollout.

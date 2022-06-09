@@ -1,0 +1,157 @@
+Are you interested in Bitcoin (CRYPTO:BTC) but don't know where to begin? Or do you feel completely lost when it comes to the basics of the digital currency? In this Fool Live interview, recorded on March 18, senior analyst John Rotonti and lead analyst of Motley Fool Deutschland Bernd Schmid cover a wide range of topics to help answer any questions Bitcoin beginners might have.
+
+John Rotonti: Fools, I'm John Rotonti kicking off our Bitcoin theme day on Motley Fool Live and I'm here with Bernd Schmid, the lead analyst from Motley Fool Deutschland. Welcome, Bernd.
+
+Bernd Schmid: Hi John, and thanks for pronouncing my name correctly.
+
+Rotonti: I try because people butcher my last name all the time so it's something that I try to be cognizant of. Bernd, let's just get started with, what is Bitcoin?
+
+Schmid: Well, I look at Bitcoin, there are so many different answers you can give to this simple question, and it really depends on what you're looking at it but if you want to understand exactly from a basic, you don't have any clue. You've never heard the term. I would describe it as it's a network of computers who are all running the same software and running the same database and the database essentially stores transactions in terms of, you can send stuff with digital money around, let's call it like this. These computers, this network, they are ensuring the security of the network and then making sure that transactions are valid. Also in the process of doing that, they're creating this money called Bitcoin. Yeah, I think that's a good way to frame this.
+
+Rotonti: Awesome, so it's digital money or digital currency that runs off of a network of computers. If someone was to ask you, how does Bitcoin work? Would that be your answer, that it's this network of computers and that's the foundation of how it works?
+
+Schmid: Yeah, I think so. I think you can call it currency. There is a lot of arguments. What is the currency and so on, but for the sake of argument or for simplicity, let's think of it as a currency. What do you want to do with it? You can make transactions on this network and you have a ledger which tells you what is the balance essentially of everybody's money like who has how much of it and also securing and making sure that all this data is consistent. How does it work? It's essentially everybody can send transactions to this network and then you have people they are called, not people, it's computers they're called miners. They're trying to validate, is this a valid transaction? Does it come from somebody who has this amount of Bitcoin? Is it really this person who can do it? Who is it sending it to and if they come to the conclusion yes, it's a valid transaction. They will add this transaction to the database and this database, maybe one thing because probably many people have had to turn blockchain and Bitcoin is essentially the state. It's essentially a database based on the blockchain and a blockchain really does or is what the name says. It's a chain of blocks. Essentially every block from the original contains new transactions. Essentially right now you have a number of blocks. I'm not sure where we are right now. A couple of 100,000 blocks. If you make new transactions, the miners come in, they validate transactions, and then they're adding all-new valid transactions to this chain as a new block.
+
+Rotonti: A couple of terms you used, I want to ask you more about first is you said the database and the ledger, are those the same thing?
+
+Schmid: Yes.
+
+Rotonti: OK, just wanted to make sure. That's the blockchain. It's in your database or a ledger so those are synonymous. Then you also said you have Bitcoin miners which are verifying the transaction so my follow-up is, how do you mine Bitcoin, what is happening?
+
+Schmid: That's great. Yeah. Miners are essentially the integral part of this network of computers, so they're part of this network. How it works, is a miner, they earn money, essentially they earn Bitcoin by validating transactions and adding them to the blockchain. About how it works is you or I, whoever creates new transactions, we're sending this essentially to this network. The miners are collecting all these new transactions and then they are trying to create this new block. This trying to create a new block is actually quite a difficult thing. Essentially what you need to do to create this new block, a valid block, you need to solve the puzzle, a mathematical puzzle, and the miners are specialized to solve these puzzles essentially. You're creating all these new transactions, let's say it's 1,000 transactions. You're trying to solve this mathematical puzzle, which is very specific and once you have solved it, you can say, "Oh, great, I've got the solution here." The solution, you are sending it to the network and then all the other miners they can validate, like is the solution the correct one this validation process, it's very easy. If you can see in an instant, by a simple calculation whether this solution that this miner claims to have found, is the correct one for the transaction you wanted to validate or not? If everybody essentially agrees, yes, this is the correct solution then this block is added to the blockchain, you have extended the blockchain and the miner who has successfully solved this puzzle will get the reward, which is new Bitcoins being created. Currently, exactly 6.25 Bitcoin.
+
+Rotonti: Question that just came to my mind. You may or may not know the answer to this. Are there public companies that are Bitcoin miners? Can I buy stock in a Bitcoin miner?
+
+Schmid: Theoretically, you could actually do it yourself. You can buy a piece of hardware, you can even run it on your laptop. This actually worked up until a couple of years, ten years ago, Bitcoin was still in the beginning. It was created around 2009, I think beginning 2009 if not mistaken. It was still very easy to solve this puzzle. But what essentially happens, the difficulty of this puzzle-solving algorithm or the difficulty of the puzzle, it's adjusted based on how many people want to try to solve this puzzle. Of course, since you get that, I mentioned that you get six Bitcoin or 6.25 Bitcoin, which right now has a value of more than $300,000. You can imagine that everybody would like to have this and solve the puzzle. Of course, people try to extend the hardware. You buy as much hardware as you can afford and think it's still economic to do that, and this is essentially what is happening. So yes, there are actually public companies, they're buying a lot of hardware and they're participating in this mining process. I have to admit I don't remember the name. I know there's a Canadian company. You can look it up, which is a pure Bitcoin mining company. You can buy shares in it.
+
+Rotonti: Fantastic.
+
+Schmid: Yeah.
+
+Rotonti: Awesome. So how do I buy Bitcoin? What do I need to do?
+
+Schmid: Yeah, that's a great question and also, there are many different answers. I think the easiest way I would do it, I would really like to own the Bitcoin itself, you can go to a so-called exchange. It's not like a New York Stock Exchange but it functions a bit similarly. Essentially, you can create an account with them. Coinbase would be one of them, probably many people have heard it, or Kraken.com. There are many exchanges, some are more trustworthy, some are less. I would always go for the bigger ones. So you go to Coinbase or Kraken. You create an account there and then you can send your dollars there, your fiat currency. You can send it there via credit card or bank wire. Then essentially, like if you buy a stock, you say, "I want to buy this many Bitcoin," and click "Buy" and then there we go. They will add it to your Coinbase wallet or account, so to say.
+
+Rotonti: Okay, so that was my next question. What is a Bitcoin wallet? It's just your account at the exchange?
+
+Schmid: In this case, yeah. So a Bitcoin wallet, let's start with the basic. It's essentially your access to your Bitcoin, your money. How it actually works is you can think of it as a bank account. It's never a perfect analogy if you try to compare it with a, let's call it legacy financial system, but for the sake of understanding, I think it works well. You think of it you have a bank account and then you have a bank account number and you have a personal identification number with which you can verify that you can access this bank account. The wallet is essentially a device, it can be a software running on your computer, on your mobile phone, or there's also hardware wallets, it's like USB sticks. These sticks, they contain your bank account number. It's called public address in the Bitcoin jargon and your personal identification number, which only you should know. This is the private key essentially. The wallet has these two things. So if you have the wallet, you know your public number, your public key and your private key, your bank account number, and your personal identification number and via this you can access essentially the Bitcoin which are stored under this address.
+
+Rotonti: Yeah, and you don't want to forget your password. You don't want to forget your private ID, right?
+
+Schmid: No. That's exactly the thing. If you lose your private key, your Bitcoins are lost, that's what everybody says. There are some security mechanisms. That's a whole topic we could discuss for 45 minutes and I'm probably not the best person to do it. There are different ways to secure these things, but it's not like with the bank. There's a big difference. You cannot call Bitcoin and say, "Hey, I lost my key. Please help me to restore my Bitcoin."
+
+Rotonti: Right.
+
+Schmid: I want to add one thing. Many people consider this important is if you buy it via these exchanges, Kraken or Coinbase, it's actually not your wallet. But how they generally work is they have one big wallet where all the Bitcoin are stored with the ones you buy, the ones I buy, everybody who buys them on Coinbase, and they're stored in one wallet. It's essentially the Coinbase wallet. Coinbase makes internally sure via their own database that you have access to the amount of Bitcoins you've ever bought. You don't really own them if you leave them on Coinbase. That's why many people argue and I think I'd do the same. You can buy or download your own wallet and always transfer it from Kraken or Coinbase to your own wallet so you really own them yourself.
+
+Rotonti: What is the Grayscale Bitcoin Trust (OTC:GBTC), and how is that different from buying the actual Bitcoin through Coinbase or another exchange?
+
+Schmid: Grayscale is essentially a trust or it's a fund which buys in, and the shares of this fund are traded in the stock exchange. I think it's New York Stock Exchange. You can go to your broker and buy stocks in this trust, essentially shares in this trust. By this way, you have exposure to Bitcoin because you know that this trust, is backed by Bitcoin. What's different is you only trade the shares of this trust, and the shares that might trade above the value of the Bitcoin that's actually owned by this trust, and I think currently, they're even trading below the value. It's called net asset value. You get actually quite good exposure to the Bitcoin price movement to it. Not exact, but if you just want to get exposure to Bitcoin, see how it feels, the price swings that you experience, you can do that, but you don't own the Bitcoin yourself. You cannot call Grayscale and say, "Can you please send me my Bitcoin?" If you want to use the Bitcoin, you cannot do it. You essentially would have to sell the shares in this trust, get your money back, and then use your money for whichever you want to do. That's the main difference. If you have the Bitcoin in your wallet, you can do something with the Bitcoin.
+
+Rotonti: Fantastic. If I were to buy shares in the Bitcoin Trust today and in 10 years, Bitcoin was much, much, higher, if that happened, I would benefit from that, from owning the shares in the Bitcoin Trust?
+
+Schmid: Yeah.
+
+Rotonti: In Grayscale.
+
+Schmid: Exactly.
+
+Rotonti: If I hold the shares throughout that period and Bitcoin is much higher in the future, then I did have good exposure?
+
+Schmid: Yes.
+
+Rotonti: OK.
+
+Schmid: That's right.
+
+Rotonti: Fantastic. What are the risks and opportunities to investing in Bitcoin?
+
+Schmid: So this depends on the belief, and I think later today, you will hear a lot of people talking about opportunities, and things will come up like a whole new financial system, which is being based on Bitcoin. I personally think something like this is actually quite likely to happen. This is how I think about it, you get an option on investing into this new financial system which might be created around Bitcoin. Not only Bitcoin, let's call it cryptocurrency in general. The benefits or the opportunities are quite high because if this really happens, you could imagine that the value of Bitcoin is going much higher. Right now, it's about one billion U.S. dollars I think, the market cap of Bitcoin.
+
+Rotonti: Trillion, is that right? One trillion?
+
+Schmid: Sorry. Yes. I'm German, and in German, it's actually in a billion, but the billion and trillion is different, of course.
+
+Rotonti: So U.S. dollar's market cap around a trillion?
+
+Schmid: It is important, of course, 1 trillion. But just to get a reference, for example, gold, right now, I think you can think of Bitcoin might be something like a digital gold. That's how you can compare just to get a sense of what the value could be. The value of all the gold, which has been mined historically, I'm not 100% sure, but it's about 7-10 billion. Only this would be a 10X from now, but potentially, Bitcoin could be bigger.
+
+Rotonti: Wow.
+
+Schmid: As I mentioned before, I consider it just as a call option. So that means you have the option that this happens, but the risk is that Bitcoin will not be the center of this whole thing and it might be completely valueless in a couple of years. I think this risk is still there, so you could lose all your money as well.
+
+Rotonti: Interesting to think, several decades ago, gold was like the basis of the U.S. financial system and then we got off the gold standard, but if this is digital gold, that there is a call option there.
+
+Schmid: Yeah. That's how I see it. You have to talk to other people. I think later today, you will hear some people think of it that Bitcoin might become the pristine collateral that you could own. Essentially, right now, the most pristine collateral that you could own as a bank or a big company is U.S. bonds. But if you now look at the market cap of all bonds, which I think goes into the hundreds of trillions, if I'm not mistaken, it's even much bigger and some people think that these dimensions could happen. I don't know if this is likely, if this is possible. I think anything is possible, I don't know if it's likely. A lot of things might happen in the coming years.
+
+Rotonti: Can you discuss the scarcity factor? Aren't there like a maximum number of Bitcoins allowed?
+
+Schmid: Yes.
+
+Rotonti: Why does that matter? How does that factor in?
+
+Schmid: The software essentially, that I was mentioning in the very beginning, which all these notes, this network is running, this has defined, there will be 21 million Bitcoins created, and then it will be finished. They are created by this mining process I described earlier. Every time you mine, a new block is being created, which happens on average every 10 minutes, 6.25 new bitcoins are being created. There's an algorithm which reduces this number every four years, more or less, until I think it's in about 100 years when no more Bitcoins are going to be mined. This will be when you reach the 21 million Bitcoin, and that's it. So why is this important or why is this the deal? I think right now, the main deal about it is that this is the argument for people saying, look, this is something scarce. Something which is scarce has a certain value. Look at gold. The amount of new gold that is being dug out of the ground every year is about 1-2% of the gold that has been dug out of the ground historically. It is relatively scarce. Actually, there's somebody under the pseudonym PlanB, who has created a model, it's called Stock-to-Flow. A Stock-to-Flow is what I just described, how much stock do you have and how much flow of new supply is coming in. For gold, this would be 1-2% per year. I think for silver, it's in the 5-10% range. For Bitcoin, the 6.25 Bitcoin per block, it actually amounts also to about what gold is right now, 1-2% per year, and people ascribe value to it. I think this was a long story. I could've made a shorter, but to bring the point home is, people use this as an argument. Look, this is scarce, this has value. There's a finite supply of it. You cannot just create it out of thin air like U.S. dollars. That's why it's useful buying that. You will later hear I think, today, if you listen to Michael Saylor of MicroStrategy, he will I think bring home this point.
+
+Rotonti: I personally own stock in Square and Tesla. Both those companies have invested in Bitcoin. They've bought some Bitcoin as part of their business model or to keep on their balance sheet. If I want exposure to Bitcoin, do I have adequate exposure indirectly by owning Tesla and Square, or should I just go buy some Bitcoin?
+
+Schmid: I would say it like this, it depends what else you own in your portfolio and how much exposure you want to have to Bitcoin. But generally, I don't have the exact numbers in mind. I would look at the market cap of Square and Tesla. I think for Tesla, it's also almost a trillion or a couple of hundred billions right now.
+
+Rotonti: It's high. Yeah.
+
+Schmid: It's very high.
+
+Rotonti: Six hundred billion, 700 million, something like that.
+
+Schmid: Great. So 600, that's easy. I think they own $1.5 billion of Bitcoin, so the market cap is, help me out with that, 400 times higher than the number of Bitcoin they own. It's about zero point something percent of exposure that you have to Tesla stock. For Square, I'm not sure about the number, but that's probably similar. Essentially, if you want to own Tesla anyway and you're happy with, like, it's still a call option that you own. If you trust that actually, Tesla keeps this Bitcoin on their balance sheet, which I don't know whether it's going to happen or not.
+
+Rotonti: That's a good point.
+
+Schmid: It's certainly something I would consider.
+
+Rotonti: There are other cryptocurrencies. One of the ones that I hear the most about is Ethereum (CRYPTO:ETH). What are the differences between Bitcoin and Ethereum, or Bitcoin and other cryptocurrencies?
+
+Schmid: This is a great question and very difficult to answer. Nonetheless, for me, I am an engineer actually, and even now, I'm trying to frame it from an investment perspective. Ethereum is also based on a blockchain. I'm not sure if you could call it the cryptocurrency, if it's a currency or not. What is a currency? Ethereum was designed about 6-7 years ago, I think 2014, 2015, if I'm not mistaken. Based on the idea, Bitcoin is great, but I would like to make this programmable. For example, I would like to make an automatic program, a code which is like, you want to borrow me some Bitcoin, we have to orally agree and we have to sign an agreement or something like this. The creator for Ethereum was thinking, "Hey, why don't we just make this as a code on the blockchain?" When both people agree to borrow Bitcoin, that this will be recorded on the blockchain and the transfer happens automatically. So the whole process will be automated. I think this was the main idea behind Ethereum, and Ethereum is actually more like a platform. It's a platform for building such kind of contract like I was just describing, like lending contracts, or you could build decentralized exchanges like completely automated, like you have an exchange which is running just based on code on the Ethereum blockchain, so to say. This is what Ethereum was designed for. You could theoretically do the same thing with Bitcoin or these things could be delivered with Bitcoin. The Bitcoin community, the guys who run the notes, right now at least, they want to keep Bitcoin basic. They don't want to add functionality. So Bitcoin is just useful currently as buying it, storing it, and transferring it to somebody else. You cannot do much more with it on the Bitcoin network.
+
+Rotonti: If Ethereum is programmable and it's a platform to build other things on top of, but Bitcoin currently doesn't have that functionality, what is the use case? Is it just as an asset to own? Is that the best use case right now for Bitcoin?
+
+Schmid: Of Bitcoin?
+
+Rotonti: Yes.
+
+Schmid: Yes, exactly. So I say the same thing as Michael Saylor. If you want to own cash or you don't want to be exposed to stocks too much or something, you want to have some alternative or see it really as a call option for this financial system that's being created. I think Bitcoin is just the way, at least to start. Bitcoin, I see it as a store of value. You store this value and this value still highly fluctuates a lot. There's a high volatility in Bitcoin. I think it's going to be going forward, so it's not a fixed value that you're going to store. But if you believe that this is something that could develop into something long term, this is how I would see Bitcoin as a store of this value that can be created.
+
+Rotonti: So Bitcoin's price has skyrocketed recently. I think it's somewhere around $60,000 US per coin. Is it too late for investors to get in?
+
+Schmid: I don't think so. I personally don't buy it anymore. It always depends when you get in. I look at it from a portfolio perspective. But I think how I look at it, what could happen to Bitcoin with short-term or in the longer-term, the one thing I mentioned before, is the 1 trillion market cap compare it to what Bitcoin might be in the future. I think a very likely use case is Bitcoin could be the digital gold. Then it could still 7X from today until whenever this might happen, or it could, like I mentioned, if it replaces more than just gold, the value could theoretically be even higher. I think it's the best way to get at least the gauge of could this thing be worse. It's certainly not too late, and this is what I want to mention, based on historical cycles, there's about a four-year cycle, which Bitcoin has, and Bitcoin has actually dropped every four years by about 80-90%.
+
+Rotonti: Where are we in that cycle? Do you know where we are in that cycle? Year two, year three?
+
+Schmid: Yes. Actually, the pool part of the cycle is quite short. I think it's about a year, don't fix like I'm not 100% sure. But we are like in the middle of same, in the beginning to middle. Actually, I have a chart what I did and actually PlanB, who I mentioned before, he does as well. I did it myself. I chartered the last two cycles and the average of the last two cycles. Right now and the last two cycles you have from the start of the cycle about a 30 to 50x in terms of price movement. So from whatever, from $100 to $5,000 for last time, I think the top was about $20,000. At the cycle started with around between five and $10,000. So if you account the 20x, you would be somewhere between $100 and $200,000, that's where this can go into the cycle. even when we talked about this cycle, I personally, if you think the Tupperware we reached in the same timeframe like last two cycles shifted, it will be reached about mid-to-end or begin mid-end. Two to three times increase of Bitcoin until the toughest being reached in a couple of months. But then be aware, you never know what's going to go. You don't know if the top is here, maybe even sooner, and there might likely, I think there will be a drop by 80% at some point of time myself. I still believe.
+
+Rotonti: That's fascinating Bernd and I love how you scale it by comparing it to real gold. Because if this is the digital gold and it's currently got a $1 trillion market cap. I think you said so far we've mined about seven to $10 trillion worth of gold, right? so if there's a potential 7-10X run from here, potentially.
+
+Schmid: You know, if you look at it from a value investor's perspective, you actually know that's tough, actually. Only goes to the value of actually has it always overshoots and undershoots. So it's quite likely that you go even beyond that. You just never know when all these things are going to happen. But one thing is certain, or relatively certain is that we will have very high volatility. you might be down 50% in a short amount of time. You have to stomach these kind of things and considered if you invest into it.
+
+Rotonti: For sure we have probably time for one or two more questions Bernd. What is a non-fungible token or NFT? What is the connection between cryptocurrencies and NFTs?
+
+Schmid: Yeah. NFT is essentially a token, you can call Bitcoin also a token and Bitcoin is not really fungible, but what's the fungibility means? Fungibility means you can have one Bitcoin I have one Bitcoin, and it actually doesn't matter which Bitcoin we have. You can argue this goes into to a different direction but you argue that actually Bitcoin it's not really fungible, that's not the point for us. That's considered I don't care if you own Bitcoin a mine Bitcoin it became exchanges. I have to say in value a non-fungible token is a the thing that already exist once. So they can't be anything behind it. I think it's really crazy what's going on right now in this space, it's probably even a hype. But there's like digital artist that create like images or some kind of gifts, small movies or something like this and they sell this on the blockchain, so to say for whoever is going to get most countries ahead, you will be the owner of this thing I just created. This thing is the non-fungible token. If you buy it with your [inaudible] or Bitcoin address or just whatever will be, you will be recorded on the blockchain and you will be the owner of this token. You own this and the conduct to blockchainers is recorded on the blockchain. So in this database. So you can be identified as the owner and if you can prove you're the owner and everybody knows you're an owner. I think the best analogy to the real world, this or the analog world is art. You know, there's one Mona Lisa. If you own it, if you can prove that you own it, and you can sell it. I mean, this has some value to you. I think it's the same with these NFTs, somebody probably subscribed some value to whatever is being credit because he likes it for whatever reason. I'm not an art person. So I personally, I'm not into this. But some people consider this digital art as something unique that want to own.
+
+Rotonti: That fantastic, and I heard you mentioned Ethereum in there. Once again, sort of referencing how a Ethereum can be a platform because these NFTs are being, Ethereum is being used, correct?
+
+Schmid: To be honest, I'm not sure on which blockchain this is running. I just assume it's Ethereum because it's mostly used even though I think Ethereum is not the most efficient one, there's much better ones out there. I know another blockchain, Theta, for example, is one of my favorite once. They also create, it's also a platform so to say. They also create this space where you can create these NFTs and trade them in the end. So there's a lot of blockchains and this space is developing so fast. It's really tough to keep up with it. It could be Ethereum, but they run often. let's say Ethereum like blockchain in the end and this is I think where will go and has to go in the end. If you buy in this digital art, you're like something I think the NBA is doing selling certain slam dunks, they sell these and you could be the owner of this. For you is usually you actually don't care on which blockchain this is being recorded, as long as we can prove that you're the owner.
+
+Rotonti: Awesome and in about 25 and 30 seconds that we have remaining. What are you watching going forward? What are you monitoring regarding Bitcoin or cryptocurrency?
+
+Schmid: All right. So I personally, I'm looking into the adoption being increasing. That's a really great study by a guy called [inaudible]. He's an ex-hedge fund manager. Sorry, I think I will go probably 30 seconds beyond these 30 seconds we still have.
+
+Rotonti: No problem.
+
+Schmid: But I think this is quite important. What is the value of such a network? So in the very beginning first question, I described this like a network of computers, but it's also a network of people who use this network, right? As the more people use Bitcoin, the more value it has the network effect essentially, and actually you can show, [inaudible] has shown that, that actually the market cap of these blockchains it actually trends quite well with the number of users. [inaudible] , I forgot the name, law, [inaudible] law. It's fascinating. so what I'm, that I mentioned it because what I'm watching, is actually how good is the adoption of Bitcoin going forward are more people using it? This is all transparent. You can look at how many active addresses are there. How many people are using this blockchain. I'm looking at how fast this is growing, is this growing at all. One very specific thing is I'm also looking at how is it being adopted now by institutional investors like companies, are there going to be more companies like Tesla, Microstrategy, Square buying Bitcoin for the sake of having a store of value on their balance sheet. I think if Bitcoin should have at least a medium-term use case, and this going to be successful medium-term. This is something that they're supposed to be happening within the next one, two, three years continuously, if this wouldn't happen like this. There wouldn't be more companies, or there would be more doubts in the next, say, two years than I would become quite skeptical about Bitcoin.
+
+Rotonti: Bernd, this was fantastic. Thank you so much for sharing this half hour with us and telling us all about Bitcoin and cryptos and NFTs and everything that you've been studying over the past years. Thank you. Bernd.
+
+Schmid: It was a pleasure, John. Thanks for the great questions. I hope my answers can be useful for most of you guys listening.
+
+Rotonti: For sure. Bye-bye.
+
+Schmid: Thanks, John. See you.

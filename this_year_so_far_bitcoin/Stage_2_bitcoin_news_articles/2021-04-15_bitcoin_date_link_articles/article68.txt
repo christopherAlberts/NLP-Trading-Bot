@@ -1,0 +1,39 @@
+Maximizing TPS: Smartbch Developer Explains Project's Potential, Metamask Capabilities Seen in the Wild
+
+During the first week of April, Bitcoin.com News reported on the sidechain project Smart Bitcoin Cash Project (Smartbch), as the community has been very excited about this new venture. Smartbch aims to connect Ethereum’s EVM and Web3 APIs to a smart sidechain built using the Bitcoin Cash network. On April 7, 2021, Smartbch’s lead developer Wang Kui was interviewed by Satoshi’s Angels’ cofounder Cindy Wang and he explained the many benefits Smartbch will bring to the crypto ecosystem.
+
+Smartbch: Maximizing TPS With Bitcoin Cash
+
+There are many reasons why people are bullish about bitcoin cash (BCH), as the digital asset has been processing more transactions per day than BTC since February. Moreover, proponents like internet entrepreneur, Kim Dotcom has been telling the world about the many benefits BCH has to offer. Dotcom plans to leverage BCH for his content monetization application K.im. Furthermore, BCH supporters have been excited about the decentralized finance (defi) project Anyhedge and the noncustodial platform Detoken.
+
+But a new announcement in recent times has BCH fans talking about a sidechain that will connect with Ethereum in a very inexpensive fashion, because it leverages the Bitcoin Cash (BCH) blockchain. The Smart Bitcoin Cash Project or Smartbch is a unique Ethereum and Web3-compatible sidechain that plans to make throughput as large as one billion gas every 15 seconds. This week, the project’s lead engineer Wang Kui discussed the Smartbch project with Cindy Wang, a cofounder of Satoshi’s Angels as well as a crypto educator and writer.
+
+Wang Kui says that the Smartbch project came together organically and since mid-2018, he’s been working on methods to maximize TPS (Transactions Per Second). By the second half of 2020, Wang Kui said he figured out a way to maximize TPS and after discussing the solution with colleagues, they “decided to deliver [his] research results by launching Smartbch.” The reason Bitcoin Cash (BCH) was chosen is because of the block size capacity and the network’s alignment with Satoshi’s vision.
+
+“The main reason for choosing [Bitcoin Cash] is that it is featured with big blocks,” Wang Kui emphasized. “Based on my professional background and work experience, I think optimization measures should be taken to give full play to the ability of the computing system itself. In English, we call it ‘brute force.’ But Ethereum prefers ‘subtle’ ways like sharding, layer2. I’m a big supporter of [Bitcoin Cash], and I think it is most in line with the original vision of Satoshi, which is to ‘serve as many people as possible,’” the developer insisted.
+
+Decentralization: One of the Major Advantages of Bitcoin Cash
+
+Rumor has it that Bitmain’s Jihan Wu has some ties to the project but Wang Kui stressed that Smartbch is more of a community endeavor.
+
+“You can say Binance Smart Chain (BSC) belongs to CZ or Binance. But you can’t say Smartbch belongs to Jihan Wu or Matrixport,” Wang Kui said to the Satoshi’s Angels’ cofounder. “Eventually, I would like Smartbch to be a project for the entire BCH community. At the moment, it is still very small and a lot of technical decisions depend on my own decisions. This is natural as well, as Linus Torvalds made decisions in the early days of Linux.”
+
+Cindy Wang also asked Wang Kui about the advantages of running decentralized finance projects and non-fungible token (NFT) asset solutions using Bitcoin Cash (BCH).
+
+“There are two major advantages [to utilizing Bitcoin Cash],” Wang Kui remarked. “One is that [Bitcoin Cash] is completely decentralized. For those who believe in decentralization, I don’t think they want their NFT works to have a tight connection with certain companies. The other is high TPS. Smartbch didn’t simply fork from Ethereum as Heco and BSC did. They offer cheap gas fees at the early stage, but as transactions increase or token price grows, they will end up with high fees like Ethereum,” Wang Kui added.
+
+The Smartbch lead developer further said:
+
+This won’t happen to Smartbch. When traffic grows, we will use optimization software in a ‘brute force’-style to achieve ‘high transactions, but low fees.’ Ethereum seeks to solve high gas fees in subtle ways like sharding and rollups. But I believe a single chain could make high performance with better operability, interaction, and user experience.
+
+The Satoshi’s Angels’ cofounder also asked the Smartbch developer if the team felt pressured by the expectations the BCH community may have about the project. Wang Kui said “a little bit,” but to him and the Smartbch team “it’s not about worrying about my personal fame.” “It’s more about how we received a lot of warm-hearted help from the community and we don’t want to disappoint them,” the developer concluded.
+
+After the project launched, users were able to start a single node private testnet. Moreover, software developer Josh Ellithorpe had shown the BCH community how he connected Smartbch to the popular Metamask wallet. A great number of BCH supporters see massive potential in the Smartbch project and it’s been a trending topic in recent times within the BCH community.
+
+Bitcoin.com News readers interested in checking out the interview with Smartbch developer Wang Kui and Satoshi’s Angels’ cofounder Cindy Wang in full can read the conversation here on the BCH-fueled blogging web portal read.cash. Cindy Wang’s interview with Wang Kui received $1,081 in bitcoin cash (BCH) tips on the read.cash platform after the article was published.
+
+What do you think about the Smart Bitcoin Cash Project (Smartbch)? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, Noise.cash, Smartbch, Cindy Wang, Satoshi's Angels, read.cash,
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

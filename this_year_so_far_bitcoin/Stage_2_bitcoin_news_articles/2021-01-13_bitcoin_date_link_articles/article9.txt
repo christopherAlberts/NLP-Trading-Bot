@@ -1,0 +1,59 @@
+Bitcoin is making gains, though much of the day saw the cryptocurrency in a holding pattern. Meanwhile, a quarter of ether options are expiring in March, meaning traders are making some bets on the first fiscal quarter of 2021.
+
+Bitcoin (BTC) trading around $36,286 as of 21:00 UTC (4 p.m. ET). Gaining 5.5% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $32,463-$36,552 (CoinDesk 20)
+
+BTC above the 10-hour and 50-hour moving averages on the hourly chart, a bullish signal for market technicians.
+
+Bitcoin trading on Bitstamp since Jan. 10. Source: TradingView
+
+Bitcoin was able to recover from a drop in price Wednesday. After going as low as $32,463 around 01:00 UTC (8 p.m. ET Tuesday), it was able to stay in a $34,500-$35,000 range before breaking out to $36,464 before settling at $36,286 as of press time.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Despite the past few hours of price gains, analysts refer to a day of little price action as a “sideways” or “flat” market. It’s not clear after so much excitement for the world’s oldest cryptocurrency in the first few days of 2021 what might happen next for the price, according to Misha Alefirenko, founder of crypto market maker VelvetFormula.
+
+“I have no clear view at the moment,” Alefirenko told CoinDesk. “Looks like big guys stepped away to wait and see. The market has to find its own balance.”
+
+Bitcoin spot volumes were clearly taking a breather after Monday’s record-high daily zenith of $13.5 billion for the eight exchanges tracked by the CoinDesk 20. For Wednesday, the tally was at $4 billion as of press time, closer to the past month’s $3.8 billion daily spot average.
+
+Daily BTC/USD volumes on major exchanges the past month. (Shuai Hao/CoinDesk Research) Source: CryptoCompare
+
+However, Constantin Kogan, partner at crypto investment firm Wave Financial, has a bearish view of the bitcoin market. “We may go even lower to $23,000,” Kogan said. Because “buy the dip” is a strategy deployed in the crypto market if digital assets start dumping, prices may eventually find their near-term bottom. “There is a zone from which they (traders) will start to actively buy back,” Kogan added.
+
+Another chart to note as bitcoin’s price has lifted over 23% so far this year is that of the dollar index (DXY), a measure of the greenback’s strength versus a basket of other fiat currencies. This time last year, the DXY index price was over 97. So far in 2021, it’s struggling to stay above 90.
+
+The US Dollar index 4-hour chart the past year. Source: TradingView
+
+Wave Financial’s Kogan also noted there has been a closer, albeit opposite, relationship between United States duckets and bitcoin of late. “The decline in bitcoin Monday occurred simultaneously with the strengthening of the dollar index,” he said. “As a result, the two largest currencies – digital and traditional – once again showed an inverse correlation.”
+
+Ether options expirations piling up in March
+
+The second-largest cryptocurrency by market capitalization, ether (ETH), was up Wednesday, trading around $1,110 and climbing 2.5% in 24 hours as of 21:00 UTC (4:00 p.m. ET).
+
+The amount of open interest in ether options is heavily favoring the March 21 expiration. That is where 25% of current options open interest are to be found, according to data from aggregator Skew.
+
+Ether options open interest by expiration date. Source: Skew
+
+“Mostly it’s rolling,” said Vishal Shah, founder of derivatives exchange Alpha5, referring to a strategy where traders “roll up” to a higher strike price. And while most strikes are favoring a sub-$800 spot price, the majority of the trades for Wednesday were calls (62%) versus puts (39%).
+
+Current-day option flow orientations. Source: Skew
+
+Shah told CoinDesk the March 21 expiration date pile-up correlates nicely with the end of the fiscal quarter and may explain why it’s taking the lion’s share of ether options open interest. “Quarterly expirations are typically larger than monthly, and March is now the nearest quarterly expiry,” he said.
+
+Other markets
+
+Digital assets on the CoinDesk 20 are all green Wednesday. Notable winners as of 21:00 UTC (4:00 p.m. ET):
+
+Equities:
+
+Commodities:
+
+Oil was down 0.75%. Price per barrel of West Texas Intermediate crude: $52.86.
+
+Gold was in the red 0.35% and at $1,848 as of press time.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield fell Wednesday dipping to 1.090 and in the red 3.3%.

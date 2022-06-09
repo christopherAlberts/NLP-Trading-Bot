@@ -1,0 +1,67 @@
+New York (CNN Business) Investing in cryptocurrencies requires an appetite for risk and a whole new vocabulary. Here's a beginner's guide to the fundamentals of crypto lingo.
+
+Bitcoin
+
+Bitcoin is a cryptocurrency created in 2009 by an unknown person (or people) using the alias Satoshi Nakamoto. Unlike traditional currencies such as the US dollar, bitcoin isn't controlled by a bank or government. Bitcoin is by far the most valuable and popular cryptocurrency in use today.
+
+Blockchain
+
+A blockchain is a digital ledger and the key technology underpinning most cryptocurrencies, non-fungible tokens (more on those later) and other unique digital items.
+
+Blockchain can be used to store all kinds of information, but so far its most common use is in recording cryptocurrency transactions. Once a transaction is made, it's entered on this public ledger, which is managed by a global peer-to-peer network — millions of computers, in bitcoin's case.
+
+Blockchain is fundamental to bitcoin's appeal: As a decentralized database, it can't be controlled by any one person or group — unlike a fiat currency such as the US dollar, which is managed by a central bank.
+
+Buy the f****ing dip (BTFD)
+
+A rally cry for crypto bulls that urges investors to buy coins when prices drop.
+
+Coinbase
+
+The leading cryptocurrency exchange platform. The company went public in April , an event that many viewed as a turning point in the story of cryptocurrencies' journey into the mainstream marketplace.
+
+Cryptocurrency
+
+An all-digital money system made up of "coins" or "tokens" that are controlled by a decentralized ledger.
+
+Dogecoin
+
+The oddball of the crypto family began as a joke based on the "doge" meme in 2013. But as cryptos have broadly gained mainstream interest, dogecoin has emerged as an unexpected heavy hitter. It now has a market cap of more than $30 billion and it has surged more than 5,000% so far this year. And unlike its more popular brethren, a single dogecoin is still cheap — it hit an all-time high of about 45 cents in April. Whether or not its a smart investment remains an active question.
+
+Elon Musk
+
+Tesla CEO whose tweets have been known to spark rallies in cryptocurrencies such as bitcoin and dogecoin.
+
+Ethereum
+
+An open-source blockchain-based software that controls the cryptocurrency Ether. It is the second-largest digital currency by market cap at nearly $300 billion.
+
+FUD ("fear, uncertainty, doubt")
+
+In crypto parlance, FUD refers to negative information that weighs on an asset's value.
+
+HODL
+
+Depending on whom you ask, this is either a typo that stuck or an abbreviation of "hold on for dear life." Bitcoin bulls often tweet "HODL" as a reaction to FUD.
+
+The typo lore dates to a 2013 post on the forum bitcointalk titled, "I AM HODLING." In it, an apparently drunk bitcoin investor ranted about holding onto the crypto even as it fell drastically. Memes were created, and the term became a shorthand for an investment strategy.
+
+Mining
+
+The complicated process by which new bitcoins are entered into circulation. Mining is not for amateur enthusiasts: It requires high-powered computers that solve complex mathematical puzzles to create a new "block" on the blockchain.
+
+The mining process eats up a lot of computing power and electricity, which has led to concerns about bitcoin's environmental impact.
+
+NFT
+
+Non-fungible tokens, or NFTs, are pieces of digital content linked to the Ethereum blockchain. "Non-fungible" essentially means one-of-a-kind, something that can't be replaced, unlike, for example, a dollar bill that you can replace with any other dollar bill. In the simplest terms, NFTs transform digital works of art and other collectibles into one-of-a-kind, verifiable assets.
+
+Satoshi Nakamoto
+
+The pseudonym that refers to the person (or people) who invented bitcoin. Their real identity remains unknown.
+
+Satoshis, aka "Sats"
+
+The smallest unit of bitcoin ever recorded on the blockchain, equal to one one-millionth of a bitcoin.
+
+Wallet

@@ -1,0 +1,23 @@
+SYDNEY, Australia--(BUSINESS WIRE)-- Fantom has begun working with RenVM allowing for the use of their technology which supports cross-chain functionality. This marks a massively significant advancement in Fantom’s infrastructure, which allows currencies from other blockchains to be exchanged on their blockchain as well. Integrating these new currencies allows Fantom to use them as well and brings a stable, secure trading platform to their technology.
+
+CryptoCurrency exchanges exist primarily on their own blockchain networks and they are not as easily exchanged between tokens that exist in another blockchain. With the integration of RenVM bridge, Fantom’s already popular DeFi ecosystem can carry out instant exchange between many more major inter-chain crypto currencies. By utilizing the expanding space of Fantom’s blockchain network they can support thousands of transactions occurring simultaneously between tokens from different blockchains, between users. This will open up Fantom not just as a developer platform that gives excellent speed and fees but as a global trade broker between investors and spenders as well.
+
+Direct usage of BTC, BCH etc avoids the lengthy process and transaction fees for having crypto exchanged using multiple platforms. Fantom streamlines the process and the exchange will be nearly instant. This has also opened the door for Fantom to look forward to new projects and assets to assist in this development.
+
+Because of RenBridge, Bitcoin, Zcash, Bitcoin Cash and Dogecoin, the more popular cryptocurrencies on the market, will be supported on Fantom, with additional integration of more tokens to follow as RenVM adds support for them. Fantom’s open-source, decentralized network is highly inviting for these new digital currencies and allows users to keep their assets in their own wallets and not in centralised exchanges.
+
+This venture also links Fantom to other established blockchain applications centered around distribution and ease of control over digital assets. More RenVM integrated platforms will be able to connect with Fantom’s expanding blockchain network to allow faster communication and more secure peer-to-peer sales and connections.
+
+For Fantom, this deal invites them into the same suite of applications and established programs which handle high volume blockchain activity, allowing its network to become more versatile while also integrating cryptocurrencies from other blockchains to its list of beneficial assets.
+
+Fantom Foundation seeks to make the best possible blockchain solutions for all problems, including trading, accessible for the whole world.
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20210529005014/en/
+
+Simone Pomposi
+
+pr@fantom.foundation
+
+https://fantom.foundation
+
+Source: Fantom

@@ -1,0 +1,13 @@
+Blockchain technology has been used in the development of cryptocurrencies, such as Bitcoin.
+
+AUSTIN, Texas — Researchers at Dell Medical School are researching technology linked to Bitcoin to help improve access to health care for the Austin area's homeless population, according to a report from KVUE's news partners at the Austin American-Statesman.
+
+The report states that Dr. Tim Mercer, global health program director at the school's population health department, is working with his colleagues to use blockchain technology as a way for those experiencing homelessness to have their identities verified by their health care providers. That information would then be securely shared throughout the health and human services network.
+
+Dr. Mercer told the Statesman that the lack of proper identification has been a big barrier in providing health care to locals experiencing homelessness. In fact, a study by the school found that one-third of that population entering the health and human services system did not have a basic identity document.
+
+"It's a major issue. ... I wouldn't have realized it if I was not there on the front lines," Mercer told the Statesman.
+
+According to the report, by using this technology, a patient's identity would already be verified each time they are checked in to a medical or service provider. They wouldn't have to repeatedly give their providers a photo ID, and each transaction between patient and provider would create a new block in the chain of information about that patient.
+
+To read the Statesman's full report, click here.

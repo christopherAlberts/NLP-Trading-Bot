@@ -1,0 +1,15 @@
+In mid-May, Elon Musk announced on social media that Tesla would stop accepting ‘bitcoin’ payments until the cryptocurrency sorted out its sustainability issues. In addition, China, a country that is home to a large part ‘bitcoin’ mining farms, announced a sweeping ban on ‘bitcoin’ trading that could also have an impact on its production, which has caused some of the largest mining farms in the world to halt their activity temporarily.
+
+These two announcements caused ‘bitcoin’ prices to plunge by up to 50% in mid-May compared to April figures, evidencing its high volatility. ‘Bitcoin’ is the world’s top cryptocurrency by market capitalization.
+
+Fossil fuels to generate digital assets
+
+Digital coins BBVA launches its first commercial solution for the trading and custody of bitcoin in Switzerland BBVA has begun to roll out the trials of what will become its first commercial service for the trading and custody of digital assets. The new service, which is to be offered through BBVA Switzerland, will make it possible to manage bitcoin transactions and have deposits in this cryptocurrency.
+
+One ‘bitcoin’ is generated with ‘blockchain’ technology by means of a mining process based on the so-called ‘proof-of-work’ (PoW) mechanism, a consensus mechanism that requires all involved technological units to solve increasingly complex mathematical operations. In this way, transactions are validated in a secure and decentralized way, but, as more ‘bitcoins’ are generated and more miners enter the scene, these operations become more complex. For this reason, mining requires increasingly powerful computers and tech resources, and this is causing demand for the energy required to power them to skyrocket.
+
+According to the Cambridge Centre for Alternative Finance, ‘bitcoin’ accounts for 0.59 percent of the world’s energy consumption. In 2020 alone it went from 71 terawatt hours (Tw/h) to 128 Tw/h, a trend that can do nothing but increase: an article published in ‘Nature’ in April indicated that annual energy consumption of the Bitcoin blockchain in China is expected to peak in 2024 at 296 Twh and generate over 130 million metric tons of carbon emissions: an amount that exceeds the total annualized greenhouse gas emission output of the Czech Republic and Qatar.
+
+The exceptional power requirements that mining applications demand has caused many farmers to move or set up their operations in China, where electricity is very cheap but also more polluting as the country relies heavily on fossil fuels – largely coal – for energy production.
+
+In addition, mining operations require specialized high-performance computers that need to be subject to constant upgrades. Obsolescence periods are very short and units cannot be repurposed for home use, because they are specifically designed for cryptocurrency mining purposes. As a result, as of March 2021, it was estimated ‘bitcoin’’s hardware waste footprint had reached 58,000 tons, 47 percent of which were generated in the last year alone.

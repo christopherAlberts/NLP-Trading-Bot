@@ -1,0 +1,17 @@
+Department of Justice says it recovered 63.5 bitcoin paid by Colonial Pipelines after May attack shut down energy deliveries to most of East Coast for several days.
+
+The Department of Justice said Monday it had seized most of a ransom payment made by Colonial Pipelines last month, after a ransomware attack forced the shutdown of the largest pipelines supplying energy to the East Coast.
+
+The department said it recovered 63.5 bitcoin of the 75 bitcoin ransom the company paid -- worth about $4.4 million at the time it was paid.
+
+Crypto? Non-fungible tokens? Meme stocks? Jim Cramer says pick one, because sometimes riding the throng is as good as riding a stock. Read more of what he writes about these alternatives and where he thinks the institutional money is. Check out his columns on Real Money.
+
+Colonial shut down its pipelines for several days in early May after an attack on its systems by the so-called Dark Side hacker group. Privately held Colonial is partially owned by Koch Industries.
+
+The FBI recovered the coins from a web address for which it holds the private key, according to an affidavit filed in support of the seizure.
+
+Even as bitcoin has gained prominence, it remains subject to criticism because of its widespread use among cybercriminals seeking to avoid detection.
+
+“By going after the entire ecosystem that fuels ransomware and digital currency, we will continue to use all of our tools and all of our resources to increase the costs and the consequences of ransomware attacks and other cyber-enabled attacks,” Deputy Attorney General Lisa Monaco said at a news conference about the operation, the AP reported.
+
+The value of bitcoin has fallen sharply since the original ransom of $4.4 million was paid. The recovered coins have a value of roughly $2.1 million, based on current prices. Bitcoin prices fell about 5% to $33,935 after the seizure report.

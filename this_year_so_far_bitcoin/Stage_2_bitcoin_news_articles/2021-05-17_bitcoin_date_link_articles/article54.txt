@@ -1,0 +1,41 @@
+The Bitcoin “bubble burst” appears to be in progress, with signs pointing to a $15,500 support level for the No. 1 cryptocurrency, according to a May 16 tweet by Puru Saxena, an investment portfolio manager and popular investment commentator.
+
+Bitcoin prices were down Monday by as much as 34 percent from a peak of $64,829.14 in mid-April. Bitcoin was trading at $44,832.21 as of this writing, but rose as high as $49,275.60 in the past day and saw a 24-hour low of $42,212.56.
+
+Some of the weekend volatility is credited to a tweet from digital-asset bull and Tesla CEO Elon Musk that was interpreted by some as a threat to unload the $1.5 billion investment in bitcoin that the company announced in February. Musk tried to clarify the exchange later, saying Tesla still has its bitcoin.
+
+An asset’s support level is created by buyers entering the market whenever the asset dips to a lower price. A support level refers to the price level that an asset does not fall below for a period, according to Investopedia. In technical analysis, the support level can be charted by drawing a line along the lowest lows for the period being considered. The support line can be flat, slanted up or down with the overall price trend.
+
+Saxena’s tweet included a graph showing a support line slanting up gradually, then more sharply. “During prior busts, the 200-week EMA provided support (black arrows),” Saxena said in reference to the graph. “Today, that is ~$15,500.”
+
+#Bitcoin (weekly chart) –
+
+
+
+The "bubble burst" appears to be in progress.
+
+
+
+Note bearish signal (bottom panel). During prior busts, the 200-week EMA provided support (black arrows).
+
+
+
+Today, that is ~$15,500. pic.twitter.com/0UrFoFF6KV — Puru Saxena (@saxena_puru) May 17, 2021
+
+An EMA (exponential moving average) is a moving average that relies wholly on historical data and places a greater weight and significance on the most recent data points. This technical indicator is used to produce buy and sell signals. Traders often use several different EMA lengths, such as 10-day, 50-day, and 200-day moving averages.
+
+Generally, 200-day EMAs are used as indicators for long-term trends, according to Investopedia. When a stock price crosses its 200-day moving average, it is a technical signal that a reversal has occurred.
+
+“Note bearish signal (bottom panel),” Saxena tweeted. Saxena is the founder of Puru Saxena Limited, his Hong Kong- based firm.
+
+Traders who use technical analysis find moving averages useful when applied correctly, according to Investopedia. However, by the time a moving average shows that a trend has changed, the optimal time has often passed to enter the market. “They also realize that these signals can create havoc when used improperly or misinterpreted. All the moving averages commonly used in technical analysis are, by their very nature, lagging indicators.”
+
+Tesla’s Musk made a U-turn on bitcoin last week, saying that he will no longer allow his company’s electric vehicles to be bought using the cryptocurrency over environmental concerns. Hundreds of billions of dollars were wiped off the entire cryptocurrency market within hours of Musk’s tweet.
+
+Listen to GHOGH with Jamarlin Martin | Episode 74: Jamarlin Martin Jamarlin returns for a new season of the GHOGH podcast to discuss Bitcoin, bubbles, and Biden. He talks about the risk factors for Bitcoin as an investment asset including origin risk, speculative market structure, regulatory, and environment. Are broader financial markets in a massive speculative bubble?
+
+Bitcoin is supposed to be an asset uncorrelated with equity markets or any other traditional asset, Marketwatch reported. However, some analysts say the cryptocurrency has traded in step with other market turbulence in equities as investors try to make money in an economy recovering from the worst pandemic in living memory.
+
+In a Sunday blog post, Mott Capital’s Michael Kramer said bitcoin’s recent breakdown could signal risk a transition in risk appetite on Wall Street towards bearishness.
+
+“Bitcoin is telling us the risk sentiment of the market overall is shifting, and we care about bitcoin because we care about risk sentiment,” Kramer wrote.

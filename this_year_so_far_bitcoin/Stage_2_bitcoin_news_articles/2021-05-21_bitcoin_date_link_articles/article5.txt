@@ -1,0 +1,39 @@
+Blockchain data shows large investors remain confident of bitcoin’s long-term prospects and continue to accumulate coins on dips, shrugging off concerns about the negative environmental impacts of cryptocurrency mining.
+
+Wallets linked with over-the-counter (OTC) desks registered an outflow of 10,292 BTC on Wednesday, when bitcoin tanked from $43,000 to nearly $30,000. That was the largest single-day outflow from OTC addresses in 3.5 months, according to data tracked by Glassnode.
+
+Daily transfer volume from OTC desk wallets Source: Glassnode
+
+The number rose further to 11,056 BTC on Thursday, hitting the highest level since Dec. 31 and taking the six-day tally to nearly 35,000 BTC.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Institutions or large investors typically make investments through OTC desks to avoid influencing asset prices on exchanges. Thus, outflows from OTC desks are widely taken to represent institutional buying – large traders moving coins from OTC addresses to their wallets.
+
+The number of daily transfers from OTC desks (outgoing transactions) rose to a record high of 245 on Thursday, marking a 10-fold rise in six days.
+
+“Once again [there is] strong institutional demand,” Glassnode founders Jan Happel and Jann Allemann said in a tweet, taking note of the spike in outgoing OTC transactions. “Whatever bitcoin lows we will see this summer, they won’t be for long. Might as well hold through.”
+
+Bitcoin: Seven-day average of daily transfer volume from OTC desks Source: Glassnode
+
+Institutions have exhibited a strong buy-the-dip mentality this year. For example, the seven-day moving average of daily OTC desk outflows rose as the cryptocurrency suffered price pullbacks in the second half of February and after Coinbase’s debut on Nasdaq.
+
+The average more than doubled to over 5,000 BTC during the drop from May 12’s $58,000 to $30,000.
+
+The latest bargain hunting is notable as it shows large investors aren’t too concerned about corporate distancing from bitcoin due to environmental concerns.
+
+The market mood soured last week after Tesla, the Fortune 500 company headed by Elon Musk, suspended vehicle purchases using bitcoin, citing environmental concerns. The surprise announcement came three months after Tesla announced bitcoin as a payment alternative, and weakened hopes for wider corporate adoption.
+
+As such, the uptrend-fatigued market fell and witnessed the worst episode of selling since the March 2020 crash.
+
+While institutions remain bullish on the cryptocurrency, some analysts do not foresee a quick recovery.
+
+“We believe that most of the leverage is out of the system now, and bitcoin should start to form a base here,” Pankaj Balani, CEO of Delta Exchange, told CoinDesk. “However, the sharp fall – 40% between Sunday and Wednesday – has eroded confidence, and it will take some time for bitcoin to regain upward momentum.”
+
+Exchanges liquidated nearly $10 billion worth of derivatives positions on Wednesday, leaving the market in a much healthier state than it was a week ago.
+
+Balani foresees a rise to $45,000, or even $50,000, heading into the monthly options expiry due next Friday, but sees a deeper drop if support at $36,000 is breached.
+
+“A conclusive break below that would signal that this correction is bigger than a short-term, bull-market pullback and all bets are off,” Balani said.
+
+At press time, bitcoin is changing hands near $41,000, still up 40% on a year-to-date basis. Technical indicators are signaling oversold conditions and scope for a bounce.

@@ -1,0 +1,51 @@
+Bitcoin In Contango: How Pricing Differences Can Foreshadow Further Gains
+
+Major differences in the spot price for bitcoin and the cost of buying the cryptocurrency in the futures market create unique opportunities for traders. Several factors may be behind this development, but it could be bullish for the bitcoin price outlook no matter the catalyst.
+
+Curious Developments Could Highlight Supply Shortage or Heightened Derivatives Demand
+
+As bitcoin gradually matures and the ecosystem surrounding it expands further, the original cryptocurrency is increasingly behaving like a commodity. Thanks to a robust futures market that continues to grow, derivatives contracts on bitcoin also gain popularity and meaningfully impact its pricing structure.
+
+This has resulted in a unique development that has unfolded over the last several months. Known as “contango,” bitcoin futures contracts to be settled months down the road are trading at a significant premium to spot prices. This delivers a serious arbitrage opportunity that could temporarily result in relatively high returns with minimal risk.
+
+Contango Explained
+
+In more traditional financial markets, primarily for commodity futures contracts, the future pricing structure can vary dramatically compared to that commodity’s spot price. One of the most common examples of contango involves oil prices. Let’s say that spot oil is trading at $50 a barrel, and a contract due in three months is trading at $55 a barrel.
+
+This $5 delta (the difference between the futures price and spot price) represents a chance for traders to capture most of that $5 delta by selling (shorting) the futures contract at $55 a barrel and buying oil in the spot market for $50 a barrel simultaneously. Futures prices are higher than spot prices can be attributed to several factors, but this pricing scenario is called “contango”.
+
+For instance, some market analysts may believe that future demand will be higher than current demand, resulting in traders pushing up prices in the future compared to today’s prices. In other cases, analysts may believe that supply is set to fall in the future, creating a shortage that can also cause costs to rise in the future relative to the present.
+
+Other factors influence contango trades and diminish their profitability in traditional markets, among them being storage costs. In the oil example, selling futures contracts might require the seller to physically deliver the oil to the buyer at contract settlement. In the case of contango, it would require a trader to take physical possession of the oil bought in the spot market today to deliver against the short futures contract set to expire in a few months.
+
+This means the trader must store the oil over that period to capture the price differential, creating costs that eat away at the $5 difference between spot and futures prices. However, unlike oil, other energy commodities, metals, or agricultural products, bitcoin has no storage costs, whether we are discussing 1 bitcoin to 10,000 bitcoins.
+
+A Risk-Free Cryptocurrency Trade
+
+Bitcoin futures turnover accounts for a significant amount of daily cryptocurrency volume. According to Skew’s figures, futures volume surpassed $50 billion almost every day for the last four weeks after reaching a whopping $184 billion on February 23rd.
+
+Concerning contango, futures prices are trading steeply above spot prices, in some instances to the tune of 15% to 20%. This presents a nearly risk-free trading opportunity for traders with access to futures contracts and spot prices.
+
+Suppose a trader can buy bitcoin in the spot market and sell in the futures market for a contract that expires in three or six months simultaneously. In that case, they can easily capture that percentage difference when the trade is unwound during contract settlement (the day the contract expires and is settled in cryptocurrency or fiat).
+
+While it’s hard to define any trade as entirely risk-free, this transaction, when done repeatedly, can result in significant returns without having to necessarily expose an investment portfolio to the volatility present in bitcoin. By buying in one market and selling in another, the trader is effectively hedged and can capture the difference.
+
+Reasons for Contango
+
+Contango has already defined bitcoin pricing for a considerable period and could continue, but how long remains the chief question on traders’ minds. The reasons attributed to this pricing differential are numerous, but it’s hard to pin down one exact catalyst given the decentralized nature of cryptocurrency and lack of data.
+
+Some market participants and analysts have pointed to the recent accumulation by corporations, including Tesla, Microstrategy, and Grayscale Bitcoin Trust demand as one factor behind a shortage that has helped push prices higher. If accompanied by miners “hodling” bitcoin in the hopes of further price increases due to the lower mining rewards precipitated by the halving, it could also result in a significant supply shortage.
+
+If there is a supply shortage in the spot market that makes bitcoin challenging to purchase, some investors may be buying at a premium in the futures market, driving up futures prices. Moreover, as futures trading gains more popularity, collateralization of futures contracts with bitcoin itself could also influence prices. Collateral, which is effectively an asset that fiat money or cryptocurrency are borrowed against, serves as traders’ financial guarantee when they open a position.
+
+By locking up crypto as collateral and using this collateral to buy futures contracts with leverage, these two factors in tandem could be driving prices higher. However, the emergence of contango itself could also be a factor. Suppose traders see this disparity and rush to take advantage of the arbitrage opportunity. In that case, they could be buying up bitcoin in bulk in the spot market and selling an equivalent amount in the futures market. This scenario could generate a self-fulfilling shortage whereby prices continue to rise.
+
+However, arbitrage opportunities typically do not last over a long time horizon. As more market participants enter the trade, there is the possibility that the delta (difference) between spot and futures prices will narrow significantly, ending the high profitability that currently characterizes the trade.
+
+Still, given the possibility of a serious shortage of coins, hesitant miners, more significant corporate accumulation, and higher participation in the bitcoin derivatives market, this specific pricing scenario could persist for the foreseeable future. Because of bitcoin’s finite supply parameters and booming demand, the situation is ripe for scarcity which could elevate prices indefinitely.
+
+Do you think that due to the current market forces explained here bitcoin’s price will indeed continue to rise indefinitely? Let us know in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

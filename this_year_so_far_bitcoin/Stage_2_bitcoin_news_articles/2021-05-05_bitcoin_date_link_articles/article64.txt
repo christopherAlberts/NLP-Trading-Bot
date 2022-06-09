@@ -1,0 +1,47 @@
+Tuvalu may be the fourth smallest country in the world, but it hasn’t let that get in the way of its giant ambitions. The island nation announced in December 2020 that it plans to create the world’s first national digital ledger, using Bitcoin SV (BSV) blockchain technology.
+
+The plan is to migrate to a completely digital infrastructure, with Tuvalu choosing BSV for its scalability and efficiency. The news has already made waves in the BSV ecosystem but could it go further and show the world what can be done on BSV?
+
+One of those behind the project, Brendan Lee, CEO of Elas Digital, certainly thinks so. He told Charles Miller, on this week’s episode of CoinGeek Conversations that he is confident the project will be an “eye-opener to other people who are looking in, at just what’s possible when you use Bitcoin in this way.”
+
+He believes that the scheme is “a fabulous opportunity… to demonstrate what’s possible” and hopes that the success of the project will encourage other nations, even the U.S., to follow suit.
+
+The digital transformation is being led by a partnership between Elas Digital, developers nChain, BSV consultancy firm Faiā and the Tuvaluan government.
+
+Brendan first heard about the project after seeing an article on Medium by his former colleague, the MD of Faiā, George Siosi Samuels. He was intrigued and reached out to George who was keen to involve him.
+
+The three companies all bring unique strengths to the project. Elas has been integral in designing the initial concept, nChain brings developmental expertise and Dr. Craig Wright’s Metanet while Faiā’s community-driven approach will ensure the project’s utility for the people of Tuvalu.
+
+They aim to build “the highest velocity financial and administrative service in the world.” This will include the digitization of government documents and the introduction of a tokenized cash system which will sit on top of the Tuvaluan currency (the Australian dollar).
+
+The digitization of government records will make it easier for the government to access and verify the source of data. And Brendan believes that a digital cash system will also prove extremely valuable for Tuvalu, a country which has “a very difficult time actually keeping enough cash in circulation for the economy to function properly.”
+
+Brendan explains that his understanding of the islands’ needs is derived from public consultations and ongoing dialogue with government ministers.
+
+He has also been able to lean on George’s Tuvaluan heritage. George’s mother was born on one of the islands. This has allowed the team to approach the project with a better understanding of what’s appropriate and how the ledger will fit into islanders’ lives.
+
+This has been vital as one of Brendan’s core goals is eventually “handing it over to them and allowing them to use it to build a record of their own culture and heritage.”
+
+Brendan also addressed Charles’s concern about privacy, explaining that the Metanet will be key in restricting access to citizens’ details. He said that the Metanet “allows us to be very, very particular about who can see what… and so we would use that particular technology really to manage those access rights.”
+
+At the moment, Brendan is focusing on a few starter projects, including a portal for citizenship applications which he hopes to have up and running by the end of the year. After that, he is confident that the process will speed up and prove to the world just what’s possible on BSV.
+
+Hear the whole of Brendan Lee’s interview in this week’s CoinGeek Conversations podcast or catch up with other recent episodes:
+
+You can also watch the podcast video on YouTube.
+
+Please subscribe to CoinGeek Conversations – this is part of the podcast’s fourth season. If you’re new to it, there are plenty of previous episodes to catch up with.
+
+Here’s how to find them:
+
+– Search for “CoinGeek Conversations” wherever you get your podcasts
+
+– Subscribe on iTunes
+
+– Listen on Spotify
+
+– Visit the CoinGeek Conversations website
+
+– Watch on the CoinGeek Conversations YouTube playlist
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

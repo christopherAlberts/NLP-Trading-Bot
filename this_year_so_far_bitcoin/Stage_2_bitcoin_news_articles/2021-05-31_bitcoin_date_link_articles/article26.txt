@@ -1,0 +1,65 @@
+Described by some as an investment roller coaster ride, the value of bitcoin and its unabating volatility can be difficult to comprehend.
+
+The fluctuations in bitcoin’s value acts as both a draw and a deterrent to investors, in what has been described by many commentators as a modern-day gold rush. The true extent of bitcoin’s investment volatility can be best understood by examining two hypothetical investment scenarios:
+
+Investor A bought $10,000 worth of bitcoin on March 14, 2020. At the time, they were able to buy roughly two bitcoin. Having held them for exactly twelve months, he exchanged their bitcoin back to U.S. dollars on April 14, 2021, receiving $112,000, and generating a profit of $102,000, or an annualized return of 1,120%.
+
+Investor B bought $10,000 worth of bitcoin on April 14, 2021, the same date Investor A chose to sell. They were able to buy roughly one quarter of a bitcoin. Just 5 weeks later, their bitcoin holdings have dropped in value by 18% and are worth around $8,200, representing a loss of $1,800 if sold then.
+
+With its capacity to deliver such lucrative returns, it's easy to understand the allure of bitcoin investing, and why many overlook the risks associated with its volatility.
+
+However, it is more difficult to comprehend why the value of bitcoin is so volatile. To do so, it’s necessary to examine the fundamental principles underpinning the Bitcoin phenomenon.
+
+What Is Bitcoin?
+
+In simple terms, bitcoin is a cryptographically secure currency which mimics cash’s function as final settlement, and only bitcoin does so digitally, allowing for worldwide transactions. Whilst digital currencies do not have a physical form, they offer a medium through which payments for goods, services, or other standard forms of currency can be made without the spender and receiver being present together in the same physical location.
+
+Launched in 2009, Bitcoin was the first “cryptocurrency.”Although many other forms of digital currency have been introduced both before and after this, bitcoin remains by far the most valuable and high profile, and this trend appears to be continuing.
+
+Its skyrocket rise in popularity is divisive amidst commentators and public figures, with opponents suggesting that the historic trajectory of its value growth is unsustainable in the long term.
+
+This argument is combated by Bitcoin’s supporters, who believe that bitcoin's fundamental scarcity and limitations in supply will continue to drive its value up for many years to come.
+
+Despite being a non-physical asset, bitcoin is a finite resource. This serves to further increase its appeal amongst investors, keen to buy in at the right time. The factors underpinning this scarcity are inherent within Bitcoin’s design.
+
+Why Is Bitcoin A Finite Resource?
+
+Mining costs
+
+“Mining” is the process through which bitcoin is produced and enters into public circulation.
+
+Bitcoins are awarded as a prize, known as a “Bitcoin block reward” to individuals referred to as “miners” for solving complex algorithmic equations using specially adapted, high powered computers.
+
+This process becomes exponentially more difficult and resource-intensive as time progresses, requiring more powerful hardware and consuming more energy. As a consequence, the average cost of creating bitcoin increases on a daily basis.
+
+Limited supply
+
+Unlike traditional forms of currency, the supply of bitcoin is limited by design. Based on the current protocols, the total number of Bitcoins that can ever come into existence is capped at 21 million.
+
+Over 18.6 million Bitcoin (89% of the total available supply) are already in circulation, and as outlined above the mining process is becoming slower and more expensive.
+
+Halving events
+
+The rate at which Bitcoin is released into circulation is cut in half on a cyclical basis. This process, known as “halving,” makes the mining of Bitcoin less rewarding and more costly over time.
+
+Historically, halving events have resulted in extreme short term upward fluctuations in value which have eventually stabilized and resulted in a longer term increase. According to Forbes, after the first halving, Bitcoin prices jumped from $11 to $1,100, a pattern which has been replicated in subsequent events.
+
+Does Scarcity Create Volatility?
+
+The above factors all serve to reinforce the perception that bitcoin is becoming increasingly scarce. However, a lack of supply does not create volatility by itself. It is, instead, the combination of supply inflexibility, mixed with extreme fluctuations in investor demand, that gives rise to market swings.
+
+Just like traditional products traded on the stock exchange, bitcoin’s price fluctuations are driven by investor demand. This is heavily influenced by public perception and with its high profile and regular press coverage, it is arguable that bitcoin is disproportionately impacted by investor sentiment.
+
+Widespread skepticism regarding the long-term future and fundamental purpose of bitcoin creates uncertainty in the market, as the technology is new to the world.
+
+This fundamental uncertainty within a reactive pool of investors, mixed with scarcity in supply, are the driving forces behind bitcoin’s volatility.
+
+Indeed, the direct link between public perception and bitcoin’s value was recently demonstrated when Elon Musk, who had previously shown his public support of bitcoin creating a surge in value, said in a tweet that Tesla would stop accepting bitcoin as a payment method because of the enormous amount of energy needed to mine. Such a statement caused a dip in Bitcoin’s price.
+
+Conversely, suggestions that governmental legislative reforms will further regulate digital currencies are often attached to a decline in bitcoin’s perceived dollar value.
+
+Conclusion
+
+It is clear that the bitcoin roller coaster ride is far from over and those aboard should prepare themselves for a bumpy ride. Still, it represents an opportunity to invest in a future of freedom, built on Bitcoin. By simply educating yourself about Bitcoin, you have already taken the first step in preparing for this future.
+
+This is a guest post by Mauricio Carrillo. Opinions expressed are entirely their own and do not necessarily reflect those of BTC, Inc. or Bitcoin Magazine.

@@ -1,0 +1,61 @@
+Bitcoin was trading within a narrowed range on Thursday, as investors and traders were cautiously optimistic after the latest pullback, which took bitcoin’s price down close to $45,000 earlier this week.
+
+Bitcoin (BTC) trading around $49,194.33 as of 21:00 UTC (4 p.m. ET). Slipping 0.13% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $48,091.13-$52,076.32 (CoinDesk 20)
+
+BTC trades below its 10-hour and 50-hour averages on the hourly chart, a bearish signal for market technicians.
+
+Trading volumes were far lower than earlier in the week when traders scrambled to adjust positions as the market fell 15% in two days, the biggest such decline since the coronavirus-driven sell-off of March 2020. The eight exchanges tracked by CoinDesk had a combined spot-trading volume of less than $4 billion on Thursday as of press time. The figure had surged above $10 billion on Monday and Tuesday and was slightly above $5 billion on Wednesday.
+
+In the derivatives market, bitcoin’s options open interest is slowly returning after it dropped Tuesday slightly from an all-time peak of about $13 billion on Sunday.
+
+Related: Funding Culture and Empowering Artists With NFTs, Feat. Lethabo Huma and Cuy Sheffield
+
+“Bitcoin’s market is rather quiet today,” Yves Renno, head of trading at crypto payment platform Wirex, said. “Its derivatives market is going back to normal after the severe contract liquidations suffered a few days ago. Close to $6 billion worth of long future contracts were liquidated. The market is now trying to consolidate above the $50,000 level.”
+
+“Traders are still cautious today,” Renno added. “It’s ‘wait and see.’”
+
+As CoinDesk reported earlier, traders are also watching closely for any potential impact of surging bond yields on bitcoin. U.S. stocks opened lower on Thursday on investors’ rising concerns about the sharply growing 10-year U.S. Treasury yields. Some analysts in traditional markets have predicted that rising yields, often a precursor of inflation, might prompt the Federal Reserve to tighten monetary policy, which could send stocks lower.
+
+Story continues
+
+Surging bond yields seemed to have less of an impact on bitcoin’s price on Thursday. The No. 1 cryptocurrency briefly surpassed $52,000 during early trading hours, moving in the opposite direction of equities.
+
+Related: OpenSea Adds 'Collector Drops' to NFT Marketplace With Shawn Mendes Wearables
+
+“Every time bitcoin goes below $50,000 there are players accumulating, thus bringing the price back around $50,000,” Andrew Tu, an executive at quantitative trading firm Efficient Frontier, said.
+
+Several market indicators suggest that traders and investors remain largely bullish after a volatile price run earlier this week.
+
+Large outflows from institution-driven exchange Coinbase Pro to custody wallets imply that institutional investors are confident about bitcoin’s long-term value.
+
+On the options market, the put-call open interest ratio, which measures the number of put options open relative to call options, remains below 1, meaning that there are still more traders buying calls (bullish bets) than puts (bearish bets) despite the latest sell-off.
+
+Ether moves with bitcoin amid a quiet market
+
+Ether (ETH), the second-largest cryptocurrency by market capitalization, was lower on Thursday, trading around $1,575.65 and sliding 2.12% in 24 hours as of 21:00 UTC (4:00 p.m. ET).
+
+The market for ether was largely quiet on Thursday, mirroring the activity in the bitcoin market and moving in a narrowed range of $1,556.38-$1,672.60 at press time.
+
+“It’s notable that most of ether’s price action is actually driven by bitcoin, as it’s still stuck in the range that it has had versus bitcoin since late 2018,” said Jason Lau, chief operating officer at San Francisco-based exchange OKCoin. “I would continue to look at the ETH/BTC pair.”
+
+Other markets
+
+Digital assets on the CoinDesk 20 were mostly in green Thursday. Notable winners as of 21:00 UTC (4:00 p.m. ET):
+
+Notable losers:
+
+Equities:
+
+Commodities:
+
+Oil was up 0.28%. Price per barrel of West Texas Intermediate crude: $63.40.
+
+Gold was in the red 1.84% and at $1771.46 as of press time.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield climbed Thursday to 1.525%.
+
+Related Stories

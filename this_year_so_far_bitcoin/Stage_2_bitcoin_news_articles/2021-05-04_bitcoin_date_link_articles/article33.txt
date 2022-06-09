@@ -1,0 +1,31 @@
+Bitcoin (BTC) has been struggling to sustain the $55,000 support level for the past 16 days, or basically since the April 17 record-high $5-billion long contracts liquidation. The rejection that took place after the $64,900 all-time high had a devastating impact on the sentiment of retail traders, as measured by the significant drop in the perpetual futures funding rate.
+
+However, despite Bitcoin's recent underperformance and May 4's 6.5% drop, pro traders have been buying the dip for the past 24 hours. These whales and arbitrage desk movements are reflected in the OKEx futures long-to-short ratio, as well as Bitfinex's margin lending markets. As this buying occurs, retail traders are mainly quiet, which is reflected in the neutral perpetual funding rate.
+
+USDT-margined perpetual futures 8-hour funding rate. Source: Bybt
+
+As depicted above, the perpetual futures (inverse swaps) 8-hour funding rate has been below 0.05% for the past couple of weeks. For the end-of-month contracts, prices vastly differ from regular spot exchanges, reflecting the imbalance from longs and shorts leverage.
+
+This discrepancy is why retail traders tend to prefer perpetual futures, albeit with the varying carry cost caused by the funding rate changes.
+
+The current eight-hour fee is equivalent to a 1% weekly rate, signaling a slight imbalance on longs. However, this level is well below the 0.10% and higher rates seen in early April. This data is clear evidence that retail traders aren't comfortable adding Bitcoin long positions despite the 9% correction in two days.
+
+On the other hand, the top traders' long-to-short indicator reached its highest level in 30 days, signaling buying activity from whales and arbitrage desks. This indicator is calculated by analyzing the client's consolidated position on the spot, perpetual and futures contracts. As a result, it gives a clearer view of whether professional traders are leaning bullish or bearish.
+
+OKEx top traders long-to-short ratio. Source: Bybt
+
+As shown above, the current OKEx futures long-to-short ratio currently favors longs by 94%. This buying activity was initiated in the early hours of May 4 as Bitcoin broke below $55,000. More importantly, it signals even more confidence than April 14 when BTC hiked to its $64,900 all-time high.
+
+However, to confirm whether this movement is widespread, one should also evaluate margin markets. For example, the leading exchange (Bitfinex) holds over $1.8 billion worth of leveraged Bitcoin positions.
+
+BTC price (orange, left) vs. Bitfinex long-to-short margin ratio (blue, right). Source: TradingView
+
+Bitfinex shows spectacular growth in the BTC margin markets, with longs over 50 times the amount borrowed by shorts. These levels are unprecedented in the exchange's history and confirm the data from OKEx's futures markets.
+
+There's no doubt that professional traders are ultra-bullish despite May 4's Bitcoin dip. As for the lack of appetite from retail traders, their focus seems to be currently on altcoins.
+
+Currently, 18 of the top 50 altcoins have rallied 45% or higher in the past 30 days.
+
+The question is, can the altcoin rally continue if BTC fails to produce a new all-time high over the next couple of weeks?
+
+The views and opinions expressed here are solely those of the author and do not necessarily reflect the views of Cointelegraph. Every investment and trading move involves risk. You should conduct your own research when making a decision.

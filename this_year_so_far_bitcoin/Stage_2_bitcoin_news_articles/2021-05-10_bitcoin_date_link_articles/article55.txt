@@ -1,0 +1,55 @@
+The past 12 months have been the busiest yet for Bitcoin SV, as the blockchain and wider ecosystem continues to march towards the global mainstream. Coinciding with a year of significant economic and social upheaval across the globe, the challenges of the pandemic have in many ways helped accelerate the journey towards blockchain technology, with Bitcoin SV continuing to lead the charge as the enterprise blockchain of choice.
+
+Bitcoin Association published their Annual Report Year 2 (2020), looking at the progress of Bitcoin SV during this most challenging of years. In his President’s Message, Founding President of Bitcoin Association Jimmy Nguyen said both the organization, and the BSV ecosystem as a whole, had made great strides during the period.
+
+“As an organisation, Bitcoin Association made great strides after transitioning to its new Swiss non-profit structure, adding first-class talent in several key departments, as well as establishing important frameworks and platforms for future growth in the education, policy, media and developer spaces.”
+
+“In 2020, we also saw the maturation of several BSV businesses, with start-ups becoming scale-ups, to go along with the emergence of new entrants in new industry verticals—all demonstrating in different ways the disruptive potential blockchain technology offers.”
+
+Network development
+
+The Bitcoin SV network progressed through several key development phases in 2020, starting with the Genesis protocol restoration in February, which introduced the power of unbounded scaling for the first time with the removal of the hard cap block size. This allowed a new world record to be set in May for the largest ever block processed on the BSV network, running at 1.3 million transactions for a block size up to 369MB.
+
+The Rails release in September made nano-payments viable for the first time, allowing for transactions as small as a single satoshi to be processed feasibly on the network. Mid November saw the launch of SPV Channels CE v1.0.0, introducing a series of new use cases based on true P2P transactions.
+
+Overall, the report says 2020 was a strong year for the network, reflected in strong usage stats, high average block sizes and transaction volumes that outstrip other networks.
+
+Events
+
+On the events side, Bitcoin Association and CoinGeek began the year on a high, with in-person events in London, China and Slovenia. However, with the onset of the coronavirus pandemic, a pivot to online events was required. In the new webinar format, Bitcoin Association and CoinGeek were able to adapt to put together some of the biggest events in the BSV community to date, including CoinGeek Live.
+
+Broadcast from studios in New York and London, the event attracted some 30,000 delegates from around the world, on the theme of “One World Chain,” connecting the world through Bitcoin SV.
+
+A range of other events, webinars and virtual meetups took place throughout the year, reflecting the growth in interest around Bitcoin SV over 2020. The calendar for 2021 looks set to be even bigger.
+
+Ecosystem
+
+By the end of 2020, the ecosystem had exceeded some 400 companies, in only the second full year since Bitcoin Association began. The numbers reflect the rapid pace of development within the BSV community over the period, supported by the work of Bitcoin Association in raising the profile of the technology within developer, business and academic spheres worldwide.
+
+A number of mining pools expanded their focus to cover BSV over the period, as well as an expansion in the number of custody and institutional wallet providers, including the likes of Fabriik, Bitcoin Suisse and Bequant.
+
+Technical Standards
+
+2020 also saw progress with technical standards, following the establishment of the Bitcoin SV Technical Standards Committee in late 2019. The formation workshop in January 2020 saw the team come together to shape its mission. By June, Steve Shadders, Technical Director of the Bitcoin SV Infrastructure Team, was appointed Chair of the committee on a three year term, alongside ten other founding members appointed for an initial three-year term.
+
+The Technical Standards Committee was set up to establish common standards and principles for access and interoperability, with the remit of facilitating industry participation to ensure the most practically focused standards for BSV development.
+
+Education and Public policy
+
+Bitcoin Association invested heavily in the creation and launch of Bitcoin SV Academy, a central resource of knowledge and learning for skilling up developers on building for Bitcoin SV.
+
+Alongside this resource, Bitcoin Association also worked closely with academic institutions including Cambridge University Metanet Society, Renmin University in China and the creation of the first ever massive open online course (MOOC) in Bitcoin SV, in partnership with Saxion University of Applied Sciences in the Netherlands.
+
+Public policy and China
+
+The report highlights the ongoing efforts of Bitcoin Association in advising and shaping policy direction through its public policy work, another strong area for growth in 2020. Over the course of the year, the group worked with a prominent Washington D.C.-based PR firm to help represent the interests of the BSV community, while raising the profile of Bitcoin SV more broadly.
+
+Bitcoin Association was also drafted in to help shape legislation in Antigua & Barbuda in the form of the Digital Assets Business Bill 2020.
+
+The organization has also been focusing keenly on expansion within China, identified as a key growth market for Bitcoin SV, on account of its huge developer and blockchain ecosystem. This is work Bitcoin Association expects to continue over 2021 and beyond, as part of its ongoing bid to take Bitcoin SV to the global mainstream.
+
+The Annual Report charts out a busy year of achievements for Bitcoin SV, despite the limitations posed by the pandemic. With Bitcoin Association having hit the ground running in 2021, BSV looks set for an even bigger year to come.
+
+Check out the full Bitcoin Association Annual Report Year 2 (2020) here.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

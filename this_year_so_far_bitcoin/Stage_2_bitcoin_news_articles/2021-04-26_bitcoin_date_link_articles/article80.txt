@@ -1,0 +1,25 @@
+Tokens, contracts and how they all need to interact: The Bitcoin Bridge talks to Gu Lu of SatoPlay
+
+width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen">
+
+We’re talking contracts and tokens on The Bitcoin Bridge this week. Our guest is Gu Lu, co-founder of SatoPlay who’s more recently been working on SensibleContract. Watch the latest episode to hear about how Gu and his team have been using their projects to discover what they can do with Bitcoin, how it can be used in games and businesses, and how it will eventually create better experiences for users.
+
+Like several of our recent guests, Gu recently attended the Bitcoin Association’s Bitcoin SV Bootcamp in China, where developers had a whole week to interact in person and discuss new ideas. Gu tells us what his personal highlights were, and what he learned there.
+
+SatoPlay is a platform for casual gaming, and after receiving positive feedback on the initial prototype, Gu and his team began experimenting with different features and integrations with other BSV services. He tells us how SatoPlay integrated DotWallet’s Badge protocol last December to create in-game tokens that can be owned and transferred across games. This year the testing with new token types and features will continue with NFTs, interactions between pairs, trading, and more.
+
+About SensibleContract
+
+SensibleContract, in its 10-page white paper, is introduced as “a feature-recognition based backward-traceable and collaborative contract model.” Put simply, it allows for more interaction between contracts and even different BCPs (Bitcoin Contract Protocols) to avoid the siloing that occurs when the various contract/token protocols that exist today aren’t compatible with each other.
+
+SensibleContract “starts with token solutions, but doesn’t end with it,” Gu says. Its developers have worked with SatoPlay itself, as well as the ShowApp team and Volt wallet, all of which are using SensibleContract right now.
+
+A few developers have raised questions about how SensibleContract actually works, and Gu explains it in this episode. Compared to other contract protocols, SensibleContract runs more of its critical logic within Bitcoin Script, rather than relying on off-chain systems.
+
+Would SensibleContract actually require a change to the Bitcoin protocol to achieve its full vision? Gu explains that proposed op-codes that aren’t in BSV right now would make some things easier, but he realizes that’s unlikely to succeed. In any case, his team isn’t actually advocating for a hard fork. SensibleContract is just as capable of running without any changes, as it does. Watch the interview to find out all those details.
+
+It’s the interactions between contracts and other contracts, and the way they use Bitcoin transactions to communicate with each other and external parties, that really creates the magic Bitcoin can do. “This inspires us,” Gu says, telling us how the contract developer’s role is to keep things simple for the user.
+
+Check out previous episodes of The Bitcoin Bridge on Streamanity.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

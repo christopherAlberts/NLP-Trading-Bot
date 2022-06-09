@@ -1,0 +1,43 @@
+The popularity and hype around cryptocurrencies is undeniably high these days. What came into existence just 10 years ago, has now emerged as one of the most traded commodities across the world. Perhaps the biggest reason for the popularity of cryptocurrencies as a trading commodity is the fact that it is accessible to just about everyone, compared to conventional commodities such as stocks.
+
+Cryptocurrencies have become increasingly popular, with new ones emerging frequently and the existing ones gaining value rapidly. Earlier this year, a lot of cryptocurrencies including Bitcoin, touched new highs, which indicates that cryptocurrencies will go a long way.
+
+Bitcoin
+
+Bitcoin was the pioneer of digital currencies, when it first surfaced in 2009. Currently, Bitcoin is the largest and the most valuable cryptocurrency in the world, by total market capitalization. The total market capitalization of Bitcoin stands at $764 Billion and the price of one bitcoin is currently $41,000. Currently, there are 18,713,700 bitcoins in circulation.
+
+Bitcoin Cash
+
+Bitcoin cash came into existence in 2017 and claimed to have solved some problems that were inherent in the Bitcoin system. Bitcoin cash is the tenth largest cryptocurrency by total market capitalization. The total market capitalization of Bitcoin Cash stands at over $15 Billion and the price of a single bitcoin cash is $824. Currently, there are 18,742,075 bitcoin cash circulating in the cryptocurrency market.
+
+Bitcoin or Bitcoin Cash: The differences
+
+Value
+
+To begin with, the most obvious difference in both of these coins is that of price and total value. While Bitcoin is the largest cryptocurrency in the world, bitcoin cash isn’t far behind, and occupies the 10th sport as of now.
+
+There are stark differences between the current prices and total market capitalization values as well, as Bitcoin is higher in both, compared to Bitcoin cash.
+
+Platforms
+
+Being the most popular and widely accepted cryptocurrency, the number of platforms that accept bitcoin is significantly higher than the number of platforms that accept Bitcoin cash. Almost all of the cryptocurrency exchanges accept Bitcoin, but the same cannot be said for Bitcoin cash.
+
+Even though there are platforms such as Bitcoin Future that allow you to trade Bitcoin cash as well as Bitcoin itself, and utilize AI-based algorithms to make profitable trades by cashing in on the volatility, a lot of platforms still require you to purchase Bitcoin first and then use it to purchase other crypto currencies.
+
+Acceptability
+
+Since Bitcoin is the most popular cryptocurrency out there, it certainly is ahead as far as its acceptability is concerned. Bitcoin is more widely accepted as a medium of exchange and means of transaction, compared to Bitcoin Cash, which is still lagging behind. 2021 has been a good year for Bitcoin as far as its acceptability is concerned, as large-scale companies such as Microsoft, Paypal, Tesla, AT&T etc. started accepting Bitcoin for transactions.
+
+Transaction Speed
+
+Even though Bitcoin has undergone two upgradations, Bitcoin cash is still the faster of the two. The Bitcoin network first received a segregated witness upgrade, followed by the lightning network, which is a second-layer protocol aimed at reducing future concerns about the scalability and rigour of the bitcoin network.
+
+However, Bitcoin cash still has the ability to process transactions faster than Bitcoin itself. The transaction processing time for bitcoin cash is shorter as compared to Bitcoin and the transaction fees are lower as well.
+
+Block size of Blockchain
+
+In order to provide a level and fair playing-field for anyone that wants to trade bitcoins, the creator of bitcoin limited the block size of the blockchain to 1MB. While this ensured that bitcoin would be accessible to just about everyone, the transactions per block are limited from 1000 to 1500, which isn’t enough to support the scale at which bitcoin transactions are currently happening.
+
+Bitcoin Cash on the other hand, comes with a larger block size. The block side of the blockchain of Bitcoin cash was 8MB when it was first introduced, which was then upgraded to 32 MB. Consequently, a stress test suggested that the Bitcoin Cash network was able to handle 25,000 transactions per block, which is a stark improvement over that of what Bitcoin can handle.
+
+(Syndicated press content is neither written, edited or endorsed by ED Times)

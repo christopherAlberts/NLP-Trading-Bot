@@ -1,0 +1,141 @@
+Peter is the creator and editor of The Water Front Online , the region’s only news organization dedicated to environmental issues in the Finger Lakes and Upstate New York. Have a tip? Send it to peter@fingerlakes1.com .
+
+Editor’s Note: This story was originally published by New York Focus, written by Peter Mantius. His blog Water Front Online covers the region and state’s most important environmental issues.
+
+A decade ago, the bankrupt owner of the Greenidge power plant in Dresden, New York, sold the uncompetitive coal-fired relic for scrap and surrendered its operating permits.
+
+For the next seven years, the plant sat idle on the western shore of Seneca Lake, a monument to the apparent dead end reached by the state’s fossil fuel infrastructure.
+
+But today, Greenidge is back up and running as a Bitcoin mining operation. The facility hums with energy-hungry computers that confirm and record Bitcoin transactions, drawing power from the plant’s 106-megawatt generator now fueled by natural gas.
+
+The mining activity is exceptionally profitable, thanks to an 800 percent rise in Bitcoin’s price since last April. Seeking to ride the boom, the plant’s new owners plan to quadruple the power used to process Bitcoin transactions by late next year.
+
+Environmental advocates view Greenidge’s ambitions, if left unchecked, as an air emissions nightmare.
+
+And they fear that dozens of other retired or retiring fossil-fueled power plants across New York could follow Greenidge’s example, gaining new life by repurposing as Bitcoin miners or other types of energy-intense data centers.
+
+Greenidge’s pending applications to renew its air emissions permits promise to bring the issue to a head.
+
+Judith Enck, a former regional administrator for the U.S. Environmental Protection Agency, believes the state’s stance on those permits will reflect how committed the administration of Gov. Andrew Cuomo is to the Climate Leadership and Community Protection Act, a landmark 2019 law requiring the state to dramatically slash air pollution.
+
+“Greenidge is a test for the Cuomo Administration as to how serious they are or are not about achieving greenhouse gas reduction goals,” Enck said.
+
+In a letter sent to Governor Cuomo last week, the environmental law group EarthJustice and the Atlantic Chapter of the Sierra Club warned that nearly 30 other upstate New York power plants could be converted to run full-time as data centers, with catastrophic consequences for statewide CO2-equivalent emissions.
+
+Michael McKeon, a spokesman for Greenidge, dismissed those concerns.
+
+“This group has flailed around trying to find anything to oppose our environmentally-sound operation for years; nothing has worked because their claims have no legal or factual basis,” McKeon said in reference to the Sierra Club’s previous unsuccessful efforts to overturn Greenidge permits in court.
+
+“No room for a massive expansion”
+
+Atlas Holdings, a Greenwich, Conn. private equity firm, bought the plant in 2014 and converted it to burn natural gas rather than coal before restarting it in 2017. Over the next two years, the plant’s focus gradually shifted from providing intermittent power to the grid to processing Bitcoin transactions.
+
+Bitcoin is a digital currency without a central storage location, like a bank, where transactions are recorded. Instead, the data ledger is distributed to a network of computers worldwide. Miners are rewarded with Bitcoin when their computers validate and record network transactions.
+
+While Bitcoin processing is extremely power intensive, it has also become immensely profitable as its price has risen from $3,729 in December 2018 to more than $62,000 this week.
+
+Now Atlas sees a chance to capitalize on Bitcoin’s soaring value by taking the operation public. In a planned reverse merger announced last month, Greenidge Generation Holdings LLC expects to be trading as a NASDAQ stock by September, with Atlas retaining a majority interest.
+
+In touting the deal to potential investors, the Greenidge team described the plant as a national model. Their stated plan was to expand it 25-fold — using at least 500 megawatts of power in Dresden and elsewhere — by 2025.
+
+Cornell University biochemist Robert Howarth—one of 22 members on the state’s Climate Action Council, which is charged with developing the plan to meet CLCPA targets—said the planned expansion isn’t compatible with New York’s clean energy goals.
+
+“There really is no room for a massive expansion of fossil fuel use in any sector, let alone one with so little true value to New York as represented by a cryptocurrency,” Howarth said.
+
+Howarth noted that the law requires a 40 percent reduction in greenhouse gas (GHG) emissions by 2030, a difficult target to meet even without the data center threat.
+
+Last year, Greenidge’s GHG emissions were far below the plant’s annual allowance of 641,000 tons of CO2-equivalent gasses. But as Greenidge ramped up Bitcoin transaction processing throughout 2020, its rolling 12-month GHG emissions average soared nearly tenfold, from 28,000 tons in January to 243,000 tons in December.
+
+Greenidge told potential investors on March 22 that its mining machines were drawing 19 megawatts of power — less than one-fifth of the plant’s permitted output capacity. Company officials stated that would rise to 41 megawatts by June 30 and to 85 megawatts by the end of next year as they added new mining machines.
+
+The more energy generated, the more emissions rise. EarthJustice has estimated that if the plant runs near its full capacity, its CO2-equivalent emissions will soar to 1.063 million tons a year, 65 percent above its current permit.
+
+Greenidge applied last month to renew its current air permits, which expire in September. Conor McMahon, the governor’s Finger Lakes representative, said the state Department of Environmental Conservation (DEC) is reviewing the applications for completeness before developing drafts for public consideration.
+
+In a statement to New York Focus this week, a DEC spokesperson said: “DEC strictly oversees Greenidge Generation’s operations and its compliance with requirements to protect public health and the environment. This facility is currently operating in compliance with its DEC permits.”
+
+Enck, who as a federal EPA administrator skirmished with the DEC for months over Greenidge’s current Title V air permit, said the DEC often takes a year or more to consider an application for a permit renewal.
+
+DEC is under little pressure to complete its review and formally renew the Title V permit by September. State administrative law allows a company to operate under an expired permit if its renewal application is filed on time and is under agency consideration.
+
+“So, the question is,” Enck said, “would DEC allow them to emit more while they consider a modification to the Title V permit?”
+
+Howarth said the DEC is in an awkward spot because the Climate Action Council hasn’t yet delivered its draft plan for meeting CLCPA requirements. That’s due later this year.
+
+“But I believe they should do all they can in the meantime to make decisions that are consistent with CLCPA,” Howarth added.
+
+A Regulatory Helping Hand
+
+The Cuomo administration hasn’t allowed expired permits to slow Atlas in the past. Four years ago, the DEC gave Greenidge the green light to restart nearly a year before it formally approved up-to-date water discharge and intake permits.
+
+That relaxed approach to water regulation was one of a series of accommodations the Cuomo Administration made to enable Atlas to rescue, convert, restart and repurpose the Greenidge plant.
+
+The DEC waived an environmental impact statement for the plant’s restart; excluded the plant’s coal ash landfill from its environmental review of the restart; and granted the plant five years to fully comply with federal Clean Water Act regulations on water intake screens to protect aquatic life in the lake.
+
+During the months these concessions were being hammered out, Atlas Holdings and its co-managing partners, Andrew Bursky and Timothy Fazio, contributed $120,000 to Gov. Cuomo’s re-election campaigns. Meanwhile, Greenidge paid a Cuomo-friendly lobbyist’s firm more than $500,000.
+
+A spokesman for Cuomo did not return emailed questions about whether those expenditures by Atlas influenced regulatory decisions.
+
+Efforts by Atlas representatives to sway state and local officials date back to 2013—nine months before Atlas bought Greenidge—when an attorney asked the DEC to allow Greenidge to avoid regulation under EPA’s strict “new source review” standard.
+
+The DEC flirted with that softer stance until Enck sent a letter in 2015, demanding “new source” treatment.
+
+Atlas had hired Mercury Public Relations, McKeon’s firm, in March 2014. McKeon, who had served as executive director of Republicans for Cuomo in his 2010 campaign, took the lead role on the Greenidge account.
+
+During the nearly two-year period that Mercury collected $20,000 a month from Atlas, the firm achieved several wins for its client, including a DEC consent agreement for the plant’s coal ash landfill and a pair of Favorable PILOT (payment-in-lieu of taxes) deals with the Yates County Industrial Development Agency for the plant and a new 4.6-mile natural gas line pipeline that serves it.
+
+In 2020, Greenidge paid a total of $146,150 to Yates County, the Town of Torrey and the Penn Yan School District on the plant and pipeline PILOTs. That was only 15 percent of the total $968,006 paid to the same entities by AES Greenidge in 2010 before it closed the plant and filed for bankruptcy.
+
+Records show Mercury’s McKeon and Cassie Prugh, a former Cuomo aide, had lobbied Yates officials in the fall of 2015 as the PILOTs were being negotiated.
+
+In December 2015, the final month of Greenidge’s $20,000-per-month retainer agreement with Mercury, the Cuomo Administration announced a $2 million grant in support of Atlas’ restart of the plant.
+
+That gift of state taxpayer money was sufficient to cover all campaign contributions from Atlas officials, all Greenidge lobbying payments to Mercury and roughly a decade of plant and pipeline PILOT payments to local entities.
+
+
+
+$50,000 Profit Per Coin
+
+Keeping expenses in check was particularly important to Greenidge after the market for the energy it offered for sale on the grid began to dry up. The plant’s capacity factor—a measure of how much energy it generates as a proportion of the maximum amount it could produce—dropped from 17.8 percent in 2017 to just 6 percent in 2019, according to NYISO Gold Book data.
+
+If the expansion is allowed to proceed, that number could rise dramatically.
+
+“Clearly, under the Greenidge cryptocurrency proposal, this inefficient fossil fuel plant will be operating at a significantly higher capacity factor, resulting in a marked increase in greenhouse gas emissions,” Irene Weiser, coordinator of Fossil Free Tompkins, wrote to the PSC last June.
+
+Weiser warned that Greenidge could be the first of host of new air emission threats, given that “multiple data center projects are being proposed at old power plant sites in upstate New York, each with significant load projections.”
+
+Data centers are needed by multiple industries and do not necessarily involve Bitcoin. But mining the cryptocurrency is especially attractive today, given its skyrocketing price.
+
+The Greenidge team told potential investors last month that the plant had mined 1,186 bitcoins at an average net cost of about $2,869 for the 12 months ending in February. At this week’s Bitcoin price, that would translate into a profit margin of about $60,000 per mined coin.
+
+Greenidge is currently seeking local approval to build four buildings adjacent to the plant, which would house new mining machines.
+
+When the trustees of the Village of Watkins Glen considered a resolution in support of a moratorium on expanding the Bitcoin operation in Dresden last week, the manager of the plant, Dale Irwin, told them that the authors of the resolution had “zero credibility” and that “there is zero evidence that the facility affects the air quality in the region.”
+
+In Albany’s Times-Union newspaper, Greenidge recently won notice as “a model for innovation” in an opinion column by Gavin Donohue, executive director of the Independent Power Producers of New York.
+
+Donohue, another of the 22 members of the state’s policy-shaping Climate Action Council, noted that the plant will continue to supply some power to the grid even as an increasing share of its generated power goes to process Bitcoin. He wrote that the plant has “demonstrated to other generators the possibilities that exist for them in the 21st-century economy.”
+
+Donohue declined to respond to emailed questions.
+
+Whether Greenidge’s model can be reproduced at other fossil fuel plants in New York may depend not only on DEC air emission decisions, but also on how the Public Service Commission regulates “behind-the-meter” energy produced by power plants.
+
+Despite stiff public opposition, the PSC granted Greenidge a certificate of public convenience and necessity to sell generated power on the grid in 2016. Opponents had said there was not enough market demand for energy to justify the restart of an emissions-producing fossil fuel plant. Last summer, the PSC voted unanimously to rule that Greenidge’s Bitcoin operation was outside its jurisdiction because the energy it used never reached the grid.
+
+John B. Howard, interim chair of the PSC and another member of the Climate Action Council, voted for the 2020 ruling but also offered a warning that the case may set a dangerous precedent. “High-load data servers running on fossil generation, I don’t think is a very good long-term play,” he said at the time.
+
+As Greenidge seeks a local permit to add the four new buildings to house Bitcoin processing servers, the DEC has allowed the Planning Board of the Town of Torrey, population 1,241, to conduct the environmental review.
+
+By declining to exercise its legal right to step in as lead agency in the environmental review, it acquiesced to the decision by Torrey officials to skip an environmental impact statement—again. In their recent letter to the governor and DEC officials, EarthJustice and the Sierra Club called for an environmental impact statement addressing the pending renewals of Greenidge’s air permits.
+
+Meanwhile, the Committee to Preserve the Finger Lakes has sent letters to Cuomo signed by several hundred businesses and individuals protesting Greenidge’s “reckless” Bitcoin mining operation.
+
+Last September, the group asked DEC to suspend, revise or revoke Greenidge’s permits. The DEC rejected the request a month later, stating that “the facility is in compliance with the terms and conditions in all permits.”
+
+The DEC has never analyzed for a Greenidge permit whether the plant’s daily discharges of tens of millions of gallons of warmed water tend to promote toxic algal blooms.
+
+Tests have shown several blooms near Dresden, including five that exceeded the DEC’s threshold for “high toxin” in 2018.
+
+Irwin, the plant manager, has repeatedly denied any link between the plant’s warmed water and the blooms. But Gregory Boyer, a biochemist at SUNY-ESF and an expert in algal blooms, has stated in sworn affidavits that warmed waters from the plant are likely to increase the chance of blooms in Seneca Lake around Dresden.
+
+The DEC argued in legal briefs that a judge should discount Boyer’s affidavit on the grounds that it was not filed on time. Last year, DEC discontinued its statewide funding of toxicity tests for suspected algal blooms.

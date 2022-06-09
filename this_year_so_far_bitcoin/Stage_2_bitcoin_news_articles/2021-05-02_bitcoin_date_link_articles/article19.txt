@@ -1,0 +1,25 @@
+OPINION: Bitcoin’s price is extremely volatile. It ended the last seven days a full 20 per cent above the week’s low point. Such dramatic moves within short periods are not unusual and make it much more volatile than share investments – Bitcoin’s 20 per cent move compares to moves closer to 1 per cent for the New Zealand and US share markets.
+
+Regardless of the volatility, some financial institutions and corporates like JP Morgan, Microsoft, Morgan Stanley and Tesla are taking Bitcoin seriously, leading investors to ponder whether Bitcoin is the currency and investment of the future. But we should also be pondering whether energy demands from Bitcoin mining are positive for our planet’s future.
+
+If Bitcoin was a country, it would be one of the 30 largest countries ranked by electricity usage. It would rank slightly ahead of Norway, which has a population marginally larger than New Zealand.
+
+This is because mining new Bitcoins consumes immense amounts of power. Google is a large company with 100,000 employees and power-hungry data centres worldwide, yet Bitcoin mining consumes ten times as much power.
+
+Unlike mining conventional resources, Bitcoin are ‘mined’ when computers solve complex algorithms and new Bitcoin are released as a reward. Mining new coins has become increasingly hard, requiring ever greater amounts of computational power and energy.
+
+In a world concerned with climate change, burning coal to generate power for Bitcoin mining is questionable if not crazy. According to a University of Cambridge study, just over 60 per cent of power for Bitcoin mining comes from non-renewable sources.
+
+Some of the biggest brains in investing and innovation think Bitcoin’s immense power needs could be positive.
+
+A recent paper supported by Elon Musk from Tesla and Cathie Wood from ARK, claims Bitcoin mining is an ideal complement to solar or wind power projects especially if backed by battery-storage technology.
+
+It’s argued that where proposed large-scale renewable plants in Europe, Asia and the US are held back by concerns of power oversupply, Bitcoin can step up. The belief is that Bitcoin mining should be clustered near new renewables projects to solve electricity oversupply issues and encourage more green energy. This claim is a stretch.
+
+Drawing a link between Bitcoin mining and the future growth of green energy seems a fanciful way to justify the massive amount of non-renewable energy that Bitcoin mining currently consumes.
+
+Putting its energy needs aside, the value of Bitcoin is ultimately as an investment or currency. Back in January the Bitcoin price was US$38,000 (NZ$53,000) and we speculated that the price could easily double – or halve. Bitcoin nearly achieved this – from early January to mid-April it rose close to 70 per cent before dipping over the last two weeks.
+
+Bitcoin’s strong price moves for investors, both up and down, have overall been very positive for long-term holders. But with Bitcoin mining’s massive non-renewable power footprint, it doesn’t feel like such an overwhelmingly positive story for our planet.
+
+John Berry is the chief executive at ethical fund manager and KiwiSaver provider Pathfinder Asset Management, which is part of Alvarium Wealth.

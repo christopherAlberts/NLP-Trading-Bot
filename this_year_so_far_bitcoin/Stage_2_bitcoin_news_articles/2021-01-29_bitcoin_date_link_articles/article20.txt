@@ -1,0 +1,17 @@
+Hacken, a prominent cybersecurity, blockchain and cryptocurrency community is organizing the First Grey Hat Hackers Idea Competition where hackers and computer enthusiasts can submit their ideas to detect and counter vulnerabilities in crypto and DeFi projects. The hackathon offers Grey Hat hackers an opportunity to implement their ideas with the support of the Hacken community as legitimate White Hat hackers.
+
+Starting Jan 19, 2021, Hacken community started accepting submissions of ideas for the hackathon on its website. As applications gradually started pouring in, someone found an innovative way to submit their application, which involved hacking into the website and posting a message containing information about their idea for the hackathon.
+
+The message left by the hackers on the website said that the site has been hacked, and they thought that by hacking into the website to submit their idea, they stood a better chance of winning the contest. These innovative applicants plan to develop a project that uses Artificial Intelligence and Machine Learning to secure DeFi projects built on Ethereum and Polkadot. As a part of this project, they intend to create a global on-chain database of wallets holding illicit funds so that the DeFi solutions can combat money laundering.
+
+Following the hack, Hacken’s team worked along with its community to restore access to the website. Meanwhile, Hacken’s CEO Dyma Budorin acknowledged the unique application submitted by the hackers saying:
+
+“We have helped our community restore the work of the site. That has not been a typical hacking. The hackers have decided to present themselves and apply for participation in the hackathon in such a way. We have contacted them to clarify the project’s details. Although we do not support hackings, the project in question devotes attention. We suggest that the project has the potential to have an impact on the further development of the DeFi market.”
+
+Hacken also confirmed that all applications received till the incident are intact, and they will be reviewed as per the standard procedure. Applications for the First Grey Hat Hackers Ideas Competition will be open till Jan 31, followed by the announcement of shortlisted ideas on Feb 3, 2021.
+
+The winning team will receive a reward of 600,000 HAI, while the second and third position will get 300,000 HAI and 100,000 HAI, respectively. A special prize of 5000 USDT is also in the offering. Participate in the Grey Hat Hackers Idea Competition at – https://ihktn.com/
+
+Image by Ryan McGuire from Pixabay
+
+Source

@@ -1,0 +1,17 @@
+The price of the token of decentralized finance (DeFi) protocol Yearn.Finance (CRYPTO: YFI) saw a significant surge over the past 24 hours.
+
+What Happened: According to CoinMarketCap data, Yearn.Finance surged by 44.66% from $35,931 to a high of $51,980 before settling at a price of $47,027.65 as of press time.
+
+This places the token's value above that of Bitcoin's (CRYPTO: BTC), with each YFI being equivalent to over 1.26 BTC as the top cryptocurrency is currently priced at about $38,200.
+
+Chief executive officer of crypto investment firm Ether Capital Brian Mosoff told Coindesk that "DeFi tokens, like most altcoins, are lower market capitalized, possess lower liquidity and thus have higher volatility."
+
+“This past week saw a sharp decline, with these types of assets being hit harder than blue-chip crypto, such as Bitcoin and Ether. But as things seem to be rebounding, the lower liquidity leads to a faster bid up on price,” he explained.
+
+Why It Matters: According to the report, this growth comes as volumes reported by Ethereum-based (CRYPTO: ETH) decentralized exchanges (DEXs) — a major application of DeFi technology — hit record highs this month, with the total trading volume of over $100 billion.
+
+What Else: Yearn.Finance is a set of Ethereum-based DeFi protocols meant to allow its users to earn the highest possible rates by lending out their digital assets and find the best exchange rates on DEXs.
+
+Instead of just creating a new service altogether for its users, this protocol is meant to distribute user funds among other DeFi protocols in a way that provides them with the highest returns.
+
+The project's developers are now also working on a product called yInsure, which is meant to provide insurance to DeFi users, and another one called StableCredit, which aims to facilitate decentralized lending and borrowing.

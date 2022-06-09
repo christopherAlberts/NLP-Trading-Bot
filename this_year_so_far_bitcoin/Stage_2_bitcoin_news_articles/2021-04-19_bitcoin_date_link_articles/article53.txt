@@ -1,0 +1,125 @@
+Rule I: Do Not Carelessly Denigrate Governments Or Bitcoin
+
+A reimagination of Beyond Order by Jordan Peterson through the lens of Bitcoin.
+
+Preface
+
+This is part 1 of a 12-part series. In an imaginary Venn diagram of Bitcoin and Beyond Order, this writing would reflect the shared values contained in the center. All quotes are credited to Jordan Peterson. All reflections are inspired by Satoshi Nakamoto.
+
+Loneliness and Confusion
+
+“People depend on constant communication with others to keep their minds organized. We all need to think to keep things straight, but we mostly think by talking.”
+
+Recall the first time you tried explaining how Bitcoin works. Remember, humbly, how much you didn’t know. Looking forward, the only way to make sense of profound subject matter is to discuss it openly and figure out what you don’t know. You will feel exposed, vulnerable, or embarrassed—good. That signal is your precursor to growth. Don’t waste that opportunity. Follow through by seeking the answers. Expose your ignorance through conversation. That takes courage, not stupidity. Blind spots will appear, illuminating your learning path. Rinse and repeat—it becomes cathartic.
+
+Join the conversation on Twitter or Clubhouse to immerse yourself in the community. If you’re not sure whom to follow, I made this Twitter list, Bitcoin Starter Pack, to give you a head start.
+
+Sanity As A Social Institution
+
+“What we deem to be valuable and worthy of attention becomes part of the social contract…”
+
+Bitcoin is a digital organism that maintains a decentralized consensus. This is valuable and worthy of attention because it is by far the cleanest known implementation with respect to governance and money. This is why it’s possible for Bitcoin to be the mutual money of enemies. Traditional organizations are structured in pyramid-shaped hierarchies. The shape of Bitcoin’s hierarchy is a three-circle Venn diagram representing nodes, miners, and developers. It’s fitting that Travis Kling chose the three-circle ikigai, a Japanese concept that means “a reason for being," as his brand. Bitcoin’s gravitas draws from the Borromean rings, an ancient mathematical pattern representing the sacred trinity, meaning “three are one.”
+
+Systems of centralized trust are societal norms. America’s founding fathers knew the importance of weaving checks and balances through our power structure to decrease the possibility of corruption and tyranny. Our forefathers knew that dissipating centralized power would come at the cost of decision-making speed. This new social contract was an intentional design choice to benefit individuals. Bitcoin is a technological continuation of this American spirit, and this is why it is imperative to run a Bitcoin full node. Running a full node is the act of hoisting the flag, and it grants the owner full membership in the Bitcoin social contract.
+
+Two quick-start full node services for the non-technical crowd are Umbrel and MyNode. The more adventurous can set up a node from scratch via Bitcoin Core. If you feel out of your league setting up something so in-depth, check out BTC Sessions’ node setup tutorials on YouTube.
+
+The Point Of Pointing
+
+“We compete for attention personally, socially, and economically. No currency has a value that exceeds attention.”
+
+The internet we know today—the “internet of communication”—removes barriers to entry, enabling the best content creators to rise to the top of the attention economy based on merit. Bitcoin is the “internet of money” because it takes the shackles off of money. It gives everyone open access to a superior form of money that offers freedom and fairness. If you thought the internet of communication reshaped our lives, imagine what happens when the internet of money takes center stage.
+
+If you are puzzled by the term “internet of money”, Andreas Antonopoulos explained it best in his “Introduction to the Internet of Money.”
+
+“The words we employ are tools that structure our experience.”
+
+Code is the language of programming. Bitcoin is code, an invisible product of imagination, that offers an upgrade path spanning the digital and physical worlds. Bitcoin’s proof-of-work (PoW) design connects the physical and digital worlds through energy input . PoW interlinks the digital world with the analog world for the first time, resulting in a transparent, verifiable trust network between these worlds. This digital trust tool has profoundly restructured our experience.
+
+There is a voluminous amount of writing about Bitcoin by deep thinkers. These works are anchored to historical, biological, and mathematical fundamentals. The wisdom these writings offer has the capacity to meaningfully transform politics, economics, philosophy, and history. To ignorantly deny Bitcoin is to cling to an unbearable present because you fear the unknown potential that this technology offers the future.
+
+I found inspiration in these works:
+
+At What Should We Point?
+
+“… there are unlimited problems… but there are a comparatively limited number of solutions that work practically, psychologically, and socially simultaneously.”
+
+Bitcoin’s discovery of digital scarcity was a precious, one-time phenomenon. It offers a solution that works practically, psychologically, and socially for the greater human good. The Bitcoin network has operated uninterrupted for over 12 years, the highest uptime of any internet-based application ever created. The enigmatic origin story of Satoshi Nakamoto yields the timeless myth of Bitcoin’s “virgin birth.” The ability to achieve such enormous online and in-person Bitcoin communities with $0 marketing budget is the envy of any tech founder. Bitcoin combines digital scarcity, unprecedented reliability, and a remarkable narrative. It is the rare solution that applies to a spectrum of problems.
+
+Although it is known as an online phenomenon, don’t miss the opportunity to connect with the physical side of Bitcoin. David Bailey, CEO of BTC, Inc., hosts Bitcoin 2021, the largest Bitcoin gathering in the world.
+
+“Institutions have evolved to solve problems that must be solved for life to continue. They are by no means perfect—but making them better, rather than worse, is a tricky problem indeed.”
+
+America was founded to solve the problem of religious freedom. The implementation at the social level separates church and state. America’s core tenets include liberty, individual sovereignty, and equality for all (amongst many others). At its core, Bitcoin is the continuation of these tenets. Separation of money from state deepens America’s core tenets on a global scale. Both America and Bitcoin aim to reduce conflicts of interest, reduce ease of corruption, thwart tyranny, and decentralize power. In the same spirit as America, Bitcoin solves a tricky problem without changing fundamentally American values. Neither governments nor Bitcoin are perfect, but only Bitcoin offers individuals and governments alike an upgrade path that works at scale.
+
+Bottom Up
+
+“Piaget suspected… that games undertaken voluntarily will outcompete games imposed and played under threat of force, given that some energy that could be expended on the game itself… has to be wasted on enforcement.”
+
+The persistent criticism about Bitcoin regarding the massive energy expenditure of its mining is understandably infuriating. Without deeper analysis, this statement seems infallible on its surface. Nic Carter debunks these claims in “The Frustrating, Maddening, All-Consuming Bitcoin Energy Debate” and “The Last Word on Bitcoin’s Energy Consumption.” Ross Stevens also has some prescient foresight into the possibilities that Bitcoin brings to energy markets.
+
+Ironically, Bitcoin soaks up “energy of last resort,” such as trapped energy. In other words, the highly competitive nature of Bitcoin mining means that only those with access to the cheapest energy survive. As counterintuitive as it sounds, Bitcoin actually helps at both ends of the energy spectrum. Bitcoin miners are a net positive for the adoption of green energy tech (sans government subsidies), and Bitcoin mining offers an application for trapped energy that could otherwise be wasted, which can be seen in Adam O.’s work on powering Bitcoin mining operations with gas flares.
+
+Bitcoin is a 100% voluntary opt-in monetary system without the threat of force. Bitcoin mining does consume a massive amount of energy when posed as a single number , hash rate. However, this univariate analysis lacks depth to such a great extent that it misses the forest for the trees. Bitcoin mining is so competitive that it prices out inefficient, expensive energy markets and prices in the most efficient, lowest-cost energy inputs, such as green energy and trapped energy.
+
+But isn’t Bitcoin mining still wasting energy on rule enforcement? Bitcoin miners sacrifice something valuable (energy) to ensure randomness in who gets to create the next block—a critical component of decentralization. Enforcement of the rules occurs at the level of full nodes. Relative to Piaget’s position, the distinction is that the energy expended in Bitcoin is 100% voluntarily committed to the fair play of the game itself—it is the carrot, not the stick. These qualities give it the best chance to unite the largest community on earth , the internet, from the bottom up.
+
+The Utility Of The Fool
+
+“The Fool… his strength is precisely his willingness to risk such a drop; to risk being once again at the bottom. No one unwilling to be a foolish beginner can learn… Jung regarded the Fool as the precursor to the Redeemer, the perfected individual.”
+
+A pleb is the Bitcoin equivalent of the archetype of The Fool. In my book, Pleb_BitcoinTINA is the king of plebs. He’s the consummate Fool, and I call him this in the most loving, admirable spirit. He is incredibly knowledgeable, yet he humbles himself with the label of pleb rather than crowning himself a king. His brash approach on social media constantly puts him at risk of being wrong on a very public stage. Sticking your neck out as the Fool requires courage and bravery, with the aim of becoming the Redeemer. This is the way.
+
+Bitcoin can be daunting to newcomers. Stay humble and be grateful that there are so many Bitcoin veterans like NVK and Jimmy Song who are accessible via Twitter, Clubhouse, and podcasts. Assume the spirit of the consummate pleb and know that you’ll never HODL alone.
+
+The Necessity Of Equals
+
+“It is good to be a beginner, but it is a good of a different sort to be an equal among equals. It is said, with much truth, that genuine communication can take place only between peers. This is because it is very difficult to move information up a hierarchy.”
+
+The internet has become the domain of a two-headed dragon: fake news and censorship. Bad actors have manipulated big tech by reverse engineering tech’s highly tuned algorithms with fake news. This has turned the previous structures of order into highly flammable chaos. Tech giants are responding by wielding their centralized power to become the arbiters of the truth and censor speech. This chaos blurs the lines between what is true and what is not true, making it difficult to establish the correct information within a hierarchy. In an effort to restore order, censorship is employed, adding another dimension of complexity: who gets to be the arbiter of truth?
+
+I do not have a solution for the above issue, although proposed solutions like Sphinx Chat offer a glimpse into how we may restore genuine conversation on the internet. Paul Itoi of Sphinx Chat has made the case that future generations will have a chilling response to free applications. Today, the vast majority of the internet is free, which invariably means that the product being sold is you. Sphinx Chat is a pay-to-play decentralized chat app that runs over the Lightning Network. Sending messages requires satoshi micropayments. Connecting to the user’s own node or using a shared node restores the balance of power by giving ownership and control to the user. The pay-to-play system makes it costly to spam the network, and node ownership makes conversations censorship-resistant, all without central authority. Sphinx Chat is not a silver bullet, but it does move us closer to genuine conversation between peers, which could help to restore order from chaos.
+
+Top Dogs
+
+“The position of Top Dog, when occupied properly, has as one of its fundamental attractions the opportunity to identify deserving individuals at or near the beginning of their professional life, and provide them with the means of productive advancement.”
+
+The deep works listed above rose to the top through peer validation and consistent effort. Thus, they constitute proof-of-work through high-quality content aimed at helping fellow Bitcoiners and newcomers level up. The internet may treat users as equals, but it is not free from hierarchy. The Top Dogs in Bitcoin earned their reputations by being reliable, trusted sources of desirable information. On the internet, Top Dog status can only be earned through competency. The plebs continuously validate our Top Dogs like nodes checking the validity of blocks submitted by miners. No one on the internet can coerce you into following them, and the same principle exists in Bitcoin. Because Top Dogs cannot purchase or coerce their positions, there are no popular tyrants on the internet or in Bitcoin (several have tried and failed).
+
+Top Dogs are validated by the community through proof of competency (i.e., game recognizes game). The most competent community members are best positioned to lift others who are deserving. The competent are unlikely to promote anything that lacks merit, as it would risk damaging their hard-earned reputation and position in the hierarchy. Pomp, Preston Pysh, Pierre Rochard, Stephan Livera, and Marty Bent are a few Bitcoiners who act as positive templates. Plebs validate their continued quality, and in return, these Top Dogs continue delivering value to the community. This is a healthy hierarchy of advancement based on legitimacy and competency. Patience, my plebs—our time will come.
+
+Social Institutions Are Necessary, But Insufficient
+
+“The solutions of yesterday and today, upon which our current hierarchies depend, will not necessarily serve as solutions tomorrow. Thoughtless repetition of what sufficed in the past—or, worse, authoritarian insistence that all problems have been permanently solved—therefore means the introduction of great danger when changes in the broader world makes local change necessary.”
+
+We’ve enjoyed an era of great prosperity and peace. This is a massive human achievement we often take for granted. Governments and institutions must be credited for sustaining an environment of orderliness that has nurtured this success. That said, we are at the point where the world is beginning to spin off its axis. Printing more money is the thoughtless repetition of what sufficed in the past. We are nearing the endgame and require a phase shift—a narrative call for heroic action.
+
+We all agree that life is moving too fast, common sense is unraveling, inequality is rampant, and insane is becoming the norm. The trillions of dollars being printed alleviate immediate pain but accelerate foundational disintegration. Bitcoin offers a real solution to this chaos for which meaningful solutions are hard to come by. Its capacity to accurately store time and effort in the form of equitable money cannot be overlooked during this era of easy, infinite money creation. This offers a predictable, universally agreeable anchoring point that slows down time, reveals the truth, offers monetary equality, and restores sanity through transparency.
+
+In our age of cynicism, it is easy to write off any solution that sounds too good to be true. But how do you know that Bitcoin is not the solution? If you cannot come up with a better alternative that aims for the long-term betterment of humanity, it may behoove you to suspend your skepticism and do your own research (DYOR). Bitcoin may just be the glass half full in a world running on empty.
+
+The Necessity Of Balance
+
+“A functional social institution… can utilize the conservative types to carefully implement processes of tried-and-true value, and the creative, liberal types to determine how what is old and out of date might be replaced by something new and more valuable. The balance between conservatism and originality might therefore be properly struck.”
+
+Our tried-and-true institutions are gradually adopting Bitcoin. The list gets longer by the day and includes institutions like PayPal, Square, Visa, J.P. Morgan, and Goldman Sachs. This institutional adoption of Bitcoin, a creative new idea, is the balance being struck between the conservative and out-of-date and original, more valuable ideas.
+
+“… begin with an expansion of conscious wisdom: the articulated realization that conservatism is good (with a set of associated dangers), and that creative transformation — even of the radical sort — is also good (with a set of associated dangers)… and of being able to recognize when the balance has swung too far in one direction.”
+
+Bitcoin is a catalyst that can unite and expand our conscious wisdom. Change is coming, and we are collectively negotiating how to integrate the best aspects of our institutions with radical new ideas like Bitcoin. That said, the involvement of both parties ensures mutual, honest cooperation. This means calling out institutions if they attempt to co-opt or undermine Bitcoin. In fairness, this also means that institutions need to call out Bitcoiners who attempt to raze institutions under the false pretense that they are purely malevolent and have nothing good to offer whatsoever.
+
+“Intelligent and cautious conservatism and careful and incisive change keep the world in order.”
+
+This is the way.
+
+Personality As Hierarchy And Capacity For Transformation
+
+“How, then, is the personality that balances respect for social institutions and, equally, creative transformation to be understood? It is not so easy to determine… For that reason, we turn to stories.”
+
+There was nothing easy about America’s achievement of independence from Great Britain during the American Revolutionary War. Yet, the Declaration of Independence was generated by the conflict, and it contains foundational insights about democracy, religious freedom, and the separation of church and state. The words of that living document honor the best components of the United Kingdom’s governance model in addition to the desirable, new, creative elements that made the founding of America a bold transformative act. The Bitcoin story is 12 years old and has been anything but easy. The first 10 years represented its birth and survival, and the theme of the next decade will be its integration with and transformation of society.
+
+“Great stories are about characters in action, and so they mirror the unconscious structures and processes that help us translate the intransigent world of facts into the sustainable, functional, reciprocal social world of values.”
+
+America did not throw out the baby with the bathwater in writing the Declaration of Independence. In contrast, transformation through integration is what makes the American Revolution a great and complete story. Bitcoin’s “virgin birth” and the mysterious status of Satoshi Nakamoto are no coincidence. Bitcoin paid homage to gold by adopting its time-tested property of value, but it transformed the concept of gold by adding the ability to transport it anywhere instantly—teleportation. Bitcoin’s creation was therefore a mythological act of alchemy. How’s that for a great story?
+
+This is a guest post by Nelson Chen. Opinions expressed are entirely their own and do not necessarily reflect those of BTC, Inc. or Bitcoin Magazine.

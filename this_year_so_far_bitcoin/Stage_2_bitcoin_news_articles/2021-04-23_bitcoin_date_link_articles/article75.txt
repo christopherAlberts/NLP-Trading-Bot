@@ -1,0 +1,25 @@
+Crypto lender Celsius warned clients in a tweet on Friday they should add crypto to their accounts in the event the lender has to demand additional collateral from borrowers.
+
+In the bitcoin crash of March 2020, several crypto lenders, including Celsius, had to make margin calls in the hundreds of millions of dollars.
+
+In Friday’s tweet, the lender said clients should be prepared for margin calls because of “market conditions.”
+
+Crypto lending is popular among holders who want to raise cash without selling their coins and market makers who want to fill orders quickly. The phenomenon could potentially improve liquidity and price discovery for crypto assets but it also has introduced systemic risks.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+On Sunday, Nexo, another crypto lender, sent out an email to clients titled “Safeguarding Your Assets Throughout the Current Market Volatility,” in which the lender encourages its customers to set up “adequate notifications for price fluctuations and potential margin calls to avoid liquidation of your assets.”
+
+“Yes, we issued a few margin calls but nothing dramatic at this stage,” said Nexo co-founder and managing partner Antoni Trenchev.
+
+Meanwhile, crypto lender Unchained Capital adjusted its loan-to-value maximum down to 40% in February in response to crypto price increases at the beginning of the year. The new LTV is meant to “help protect clients from margin call scenarios,” said Unchained Capital CEO Joseph Kelly.
+
+Over at crypto lender BlockFi, CEO Zac Prince noted that BTC, ETH, and LTC loans at his firm max out at LTVs of 50%.
+
+“I think others may finance coins further down the market cap stack at higher initial LTVs, which may be creating a higher risk environment for their clients now,” Prince said.
+
+Matthew Ballensweig, lending director at Genesis, a crypto lender that’s owned by CoinDesk parent company Digital Currency Group, said that all of Genesis’ clients have fulfilled their margin calls or have paired back loan balances.
+
+“On the most recent selloff, we’re seeing some trading firms take some profits on the short basis trade and return USD loans until the spread widens out again,” Ballensweig said. “Others continue to hold USD loan balances and post additional BTC collateral to maintain their position.”
+
+These warnings come as crypto coins are almost universally in the red, a drop many attribute to U.S. President Joe Biden’s proposed increase in the capital gains tax.

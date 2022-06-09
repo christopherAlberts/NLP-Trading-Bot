@@ -1,0 +1,17 @@
+Anyone who’s tried to buy one of the latest and greatest graphics cards, like the Nvidia RTX 3080 or AMD’s Big Navi, will know just how difficult it is. Unfortunately, it could get even harder as Bitcoin’s value, alongside other cryptocurrencies, has skyrocketed to new heights, driving a rise in crypto mining.
+
+As a result, we may be looking at a repeat of the 2017 graphics card shortage, when exploding demand from prospective miners both created graphics card stock shortages and pushed the prices of available cards upwards. This time, though, mining demand is compounding an existing shortage caused by limited supply and the efforts of scalpers.
+
+As of 4.30 a.m. ET on January 6, a single Bitcoin is valued at just over $34,000 , breaking new records for the value of the cryptocurrency. A month ago they were worth $19,111 each, meaning their value has almost doubled since then. And no doubt that number will continue to rise over the next few days. As for Etherum, in the past week that spiked in over $1,000 in value.
+
+Of course, anyone who knows about cryptocurrency knows you don’t need to buy the coins to get in on the action. Anyone can “mine” new coins by completing blocks of verified transactions, using free and simple open-source software. You just need a machine that’s sufficiently powerful enough to get it done.
+
+Now it's worth noting that the underlying hashing algorithm of Bitcoin means mining with GPUs is rather inefficient; it's now better to use a system with an application-specific integrated circuit (ASIC) to mine Bitcoin specifically. However, other cryptocurrencies, such as Ehterum, still benefit from GPU-based mining.
+
+So the surging prices of such cryptocurrencies, alongside Bitcoin, is set to generate more interest in the digital money, and thus likely to see people look at using powerful graphics cards for mining. We#ve seen this in the past skyrocketing cryptocurrency value leading to miners buying up whatever graphics cards they could get their hands on.
+
+While graphics cards aren't the best way to mine cryptocurrencies any more, they are still in demand as wannabe miners try to cash in on crypto's increasing value. Plus Tom’s Hardware points out that the $1,4999 Nvidia RTX 3090 could pay for itself in around 150 days of mining. A $399 GeForce RTX 3060 Ti would be paid off in almost half the time, taking just 80 days to break even.
+
+As if the latest graphics cards weren’t almost impossible to find already, now we have to deal with bots and crypto miners competing to buy them all. If you’d been hoping to pick one up during the next big restock, you’re probably going to be disappointed.
+
+Various cryptocurrency prices will drop eventually, freeing up graphics cards for gamers, but it’s impossible to predict when that’s going to happen. You can still check where to buy the Nvidia GeForce RTX 3080, but it’s going to be tough going for the foreseeable future.

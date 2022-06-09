@@ -1,0 +1,47 @@
+Bitcoin’s Taproot update — the biggest anticipated change to the Bitcoin blockchain since 2017 — is up for another vote. Will it pass this time?
+
+Taproot was first proposed in 2018 by Gregory Maxwell, a Bitcoin Core (BTC) contributor, and former chief technology officer at Blockstream, a Bitcoin and blockchain technology company. The Taproot update — slated to be deployed in November if at least 90% of miners signal support before August 11 — is expected to enhance Bitcoin’s smart contract capabilities and boost privacy. The proposed soft fork will also require that enough miners “signal” support via the block creation process — a requirement for activation that has yet to be met.
+
+The proposed update would combine the Schnorr signature scheme with MAST (Merklized Alternative Script Tree) and leverage a new scripting language called Tapscript. It would make complex smart contracts like the ones requiring multiple signatures indistinguishable from regular bitcoin transactions, enabling greater privacy.
+
+Moreover, the update would lower the data size of smart contracts, in turn lowering transaction costs. Taproot is also expected to enhance smart contract functionality and efficiency.
+
+“Together, the improvements lay the groundwork for future potential upgrades that may improve efficiency, privacy, and fungibility further,” the official release note for the update says.
+
+Miners voice support for Taproot
+
+“Taproot is an upgrade that we see not only benefiting Bitcoin. When an upgrade benefits bitcoin, it benefits everyone using it,” said Alejandro De La Torre, vice president of the crypto mining pool Poolin, in an interview with Forkast.News. “It is a long-term stance from us at Poolin, [and] we foresee the benefits slowly building throughout the next couple of years.”
+
+Taproot is Bitcoin’s biggest upgrade since the SegWit soft fork that was implemented in 2017, which increased the block size limit on the Bitcoin blockchain by removing signature data from transactions.
+
+SegWit, which was introduced to increase the blockchain’s capability of processing more transactions per second, was surrounded by controversy. There was a lack of consensus and a group of users hard forked to create Bitcoin Cash while another group created Bitcoin Gold.
+
+“Most in the Bitcoin community have PTSD from the last soft fork upgrade,” De La Torre said. “I believe a MAST would help heal some wounds from prior upgrades and hopefully garner a feeling of goodwill amongst all participants in Bitcoin.”
+
+The creator of Bitcoin, Satoshi Nakamoto, built the protocol to be a decentralized digital currency. This means there is no controlling group or central body to decide which Bitcoin upgrades get implemented. Instead, all key stakeholders must reach a consensus about which upgrades get pushed through.
+
+Reaching consensus among such a large, diverse, and dispersed group of participants is always extremely difficult, as seen in the case of SegWit.
+
+“Taproot is a reminder of the challenges of reaching consensus in a decentralized ecosystem,” Henri Arslanian, PwC’s global crypto leader, told Forkast.News. “The challenges around Taproot are a reminder of why the last major update was in 2017.”
+
+To make the process easier this time, last year, De La Torre headed Taproot Activation, an initiative to gauge mining pools’ willingness to implement Taproot. About 90% of the mining pools addressed, including the biggest ones, were happy to upgrade, De La Torre said.
+
+Within Poolin as well, miners unanimously agreed to the Taproot upgrade. “We had zero complaints from our miners about our Taproot efforts,” De La Torre said.
+
+No resolution on Taproot just yet
+
+Despite the unanimity among the biggest mining pools, the method of implementation was up for debate. Developers deliberated for months on the method of deployment, even as the codebase for the update was merged into the Bitcoin Core library in October 2020.
+
+After the activation discussions led to a stalemate, Bitcoin Core developers David Harding and Russell O’Connor finally decided on “Speedy Trial” as the deployment method. It was only in April 2021 that the code for Speedy Trial was merged into Bitcoin Core.
+
+Speedy Trial, which began this month, requires that 90% of miners signal their support for the upgrade by including a “signal bit” in the blocks they mine. The 90% threshold has to be reached within one of the roughly two-week-long (or 2016 blocks) difficulty periods before the three-month activation window ends on August 11 this year.
+
+If the required threshold is reached before August 11, Taproot will be “locked in” for activation in November. If the threshold is not reached, Taproot will be up for discussion again. This is unlikely, however, since most miners have already indicated support for the update.
+
+Miners are currently in their third signaling period which has 162 signaling blocks at the time of going to press. Taproot failed to receive 90% support from miners in the last two signaling periods. In the last difficulty epoch, some mining pools had given mixed messages, signaling with some blocks and not with others. But this was likely because adding the infrastructure to signal takes time to roll out at a large scale.
+
+At the time of publication about 85% of mining hash power indicates support for Taproot. This is a large improvement over the 62% hash power support during the first signaling period. Late last week, Taproot signaling had reached 95% consensus. Although it was too late for the last signaling period, it means Taproot could be “locked-in” for activation during the current epoch if a similar consensus level is reached.
+
+The previous underwhelming response of miners had been discussed on several BitcoinTalk forums. Many thought the slow response was caused by miners delaying software updates.
+
+According to a CoinGeek report, it might take a while before 90% of the miners put their money where their mouth is and signal for Taproot activation, despite the verbal consensus. Although enough miners might start signaling for Taproot activation in the current or a future signaling epoch, the failure of the first two signaling periods makes it apparent that they are not as enthusiastic to embrace the change as their nearly unanimous verbal commitment would indicate.

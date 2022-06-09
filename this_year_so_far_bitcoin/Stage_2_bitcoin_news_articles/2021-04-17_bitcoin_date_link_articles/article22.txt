@@ -1,0 +1,133 @@
+Coming every Saturday, Hodler’s Digest will help you track every single important news story that happened this week. The best (and worst) quotes, adoption and regulation highlights, leading coins, predictions and much more — a week on Cointelegraph in one link.
+
+Top Stories This Week
+
+It was billed as a “watershed” milestone for cryptocurrency — the industry’s “Netscape moment.” This week, Coinbase made its stock market debut.
+
+There was no shortage of excitement in the run-up to Wednesday’s direct listing on the Nasdaq, with Bitcoin rallying to $64,863.10 before the open. COIN’s reference price was set at just $250, with all 1,700 staff pocketing 100 shares each.
+
+In true crypto form, it was a volatile debut. Coinbase’s stock quickly rose to $430 before falling sharply within the first few minutes of trading, closing its inaugural session at a still-impressive $328. It wrapped up Friday at $342, with a market cap of $67.2 billion.
+
+COIN’s arrival on Wall Street is significant because of how it gives investors indirect exposure to cryptocurrencies. Ark Invest is especially bullish on the stock, snapping up more than 1 million shares that will be shared across three exchange-traded funds.
+
+Overall, the stock’s performance has been hailed as positive so far, especially compared with how IPOs have performed in the past. Will this embolden other exchanges to follow suit?
+
+As you’d expect, the exchange enjoyed much fanfare on the big day and even embedded the title of a New York Times article referencing Joe Biden’s stimulus package into the Bitcoin blockchain. Nonetheless, Coinbase CEO Brian Armstrong was keen to address some of the concerns raised by analysts.
+
+Some fear that the mooted $100-billion valuation ahead of the listing was too high amid fears crypto exchanges will soon end up in bitter competition that will drive down fees — and affect overall profitability. Given how this accounted for 96% of Coinbase’s revenue in 2020, it’s kind of a big deal.
+
+On CNBC, Armstrong sought to tackle this head on. While he said that fee reductions are possible in the long term, the executive doesn’t believe it’s an imminent threat. Plus, by the time it is, he predicts “maybe 50% or more” of revenues will come from alternative streams such as debit cards and crypto custody.
+
+Bitcoin cooled once COIN started trading. And while Ether has comfortably outperformed the world’s biggest cryptocurrency this week (securing a new all-time high of $2,547.56 on Friday), altcoins have been stealing the show.
+
+If Dogecoin is a joke, it’s certainly wiped the smile off cynics’ faces. DOGE was trading at just $0.07 on Monday but began a frenzied 514% climb to highs of $0.43 by Friday. That’s a surge of 8,735% since the start of the year — and there’s little doubt it will have turned a number of enthusiasts into overnight millionaires.
+
+The frenzy saw DOGE leapfrog Bitcoin Cash and Litecoin in the rankings, with a market cap that’s twice as big as Deutsche Bank’s.
+
+Even professional traders have been caught by surprise. There’s one thing we know for certain, though: Bold predictions of a $1 DOGE one day are now looking less outlandish.
+
+With the market cap of altcoins surpassing $1 trillion, one clear theme has emerged this week: Older cryptocurrencies are enjoying something of a renaissance. And it isn’t just DOGE that’s mooning… XRP is racing higher, too.
+
+XRP hit multi-year highs of $1.96 this week. Although that’s some way off the all-time record of $3.84 set in January 2018, this still reflects year-to-date gains of 790%. The latest spike caused a whopping $420 million of liquidations on derivatives exchanges.
+
+Momentum for XRP has been building thanks to a series of legal victories for Ripple in its battle with the Securities and Exchange Commission, along with rumors that the token may be relisted on multiple exchanges.
+
+Elsewhere, two forked projects that once sought to challenge Bitcoin and Ethereum for their seats at the top — Bitcoin Cash and Ethereum Classic — also racked up triple-digit gains. Will other retro cryptocurrencies be next?
+
+Enigmatic CNBC host Jim Cramer risked attracting the ire of crypto enthusiasts this week — for two reasons.
+
+Not only did he refer to Bitcoin as “phoney money,” something that causes the red mist to descend for many maximalists, but he also revealed he has sold 50% of his BTC portfolio to pay off a mortgage.
+
+Cramer confirmed he had bought a lot of Bitcoin at $12,000 — meaning it had risen fivefold by the time he offloaded half of it. The anchor subsequently admitted: “I know people are going to be angry with me.”
+
+Some Twitter users likened the one-time crypto critic’s move to the infamous pizza purchase for 10,000 BTC. But others have praised Cramer’s move and argued that it’s important to take profits off the table, writing: “Selling only 50% after a 5x gain doesn’t sound toooo silly.”
+
+Winners and Losers
+
+At the end of the week, Bitcoin is at $62,272.53, Ether at $2,466.78 and XRP at $1.69. The total market cap is at $2,274,625,979,472.
+
+Among the biggest 100 cryptocurrencies, the top three altcoin gainers of the week are Dogecoin, Ethereum Classic and Siacoin. The top three altcoin losers of the week are KuCoin Token, Klaytn and Celsius.
+
+For more info on crypto prices, make sure to read Cointelegraph’s market analysis.
+
+Most Memorable Quotations
+
+“This is a really important day for the whole crypto world. This is saying ‘this is an asset class, and it’s an asset class that’s here to stay.’”
+
+Mike Novogratz, Galaxy Digital founder and CEO
+
+“We haven’t seen any margin compression yet, and I actually wouldn’t expect to see it in the short and the midterm. Longer term, yes I do think there could be fee compression just like in every other asset class out there.”
+
+Brian Armstrong, Coinbase CEO
+
+“PayPal really wants to use cryptocurrency as a funding source for everyday transactions. The endgame, though, is a more noble vision of this inclusive economy, and things will be done much differently than today.”
+
+Dan Schulman, PayPal CEO
+
+“Bitcoin is looking strong at RSI 92. Still not above RSI 95 like 2017, 2013 and 2011 bull markets.”
+
+PlanB
+
+“You gotta buy Coinbase when that deal comes. Even though it’s a $100 billion deal, this has become common knowledge that there are many companies that are going to switch. MicroStrategy has always been the leader, so others would want to follow.”
+
+Jim Cramer, CNBC host
+
+“Coinbase is the watershed moment in terms of legitimizing some valuations you see in crypto.”
+
+Ben Lilly, Jarvis Labs co-founder
+
+“Coinbase IPO May Boost #Bitcoin to $70,000, Like #Tesla to $60,000 — The lowest 30-day volatility since October indicates Bitcoin is ripe to exit its cage and bull-market continuation is favored for the next $10,000 move.”
+
+Mike McGlone, Bloomberg Intelligence
+
+“Truth be told I seriously think we’ve entered the final leg of this $btc bull market. To be clear, final leg could be 2-3 weeks or even more. Price could reach 200k or even more who knows. Just don’t make irrational life decisions based on unrealized PnL.”
+
+Mohit Sorout, Bitazu Capital founding partner
+
+“An ETF would be a bigger deal, obviously, than Coinbase getting listed.”
+
+Eric Crown, entrepreneur
+
+Prediction of the Week
+
+Back to Ether now, which has been in the ascendancy this week following an irreversible hard fork that aims to deliver some reforms to transaction fees. On-chain data suggests that ETH’s price could double between now and the end of May — but some analysts are going even further.
+
+In an exclusive interview with Cointelegraph, Scott Melker said gaining exposure to ETH was “like investing in the internet in the early 1990s.”
+
+Even though his price target for $10,000 by the end of this year may seem outlandish, he added: “I don’t see why that’s crazy. It’s basically just under a 5x from here. […] Bitcoin did almost three times that last year.”
+
+FUD of the Week
+
+This week, there seemed to be a major breakthrough when r/Wallstreetbets announced that it would allow Bitcoin, Ether and Dogecoin to be discussed in a daily thread on Reddit.
+
+The new policy lasted a day, and the reason why the ban has been reimposed has raised eyebrows.
+
+Bloomberg had claimed that r/Wallstreetbets was “bowing” to digital assets by opening up the discussion beyond stocks, something that really pissed off one moderator.
+
+A new post read: “Due to the article that was written [by] Bloomberg who somehow felt that ‘WallStreetBets Bows to Crypto.’ Crypto discussion is banned indefinitely. I’ve read a lot of dumb articles written about wsb. This one takes the cake. P.S. Like always. Please be respectful.”
+
+Despite the plea for respect, many Reddit users weren’t pleased with the dramatic reversal.
+
+A new ban in Turkey will prohibit crypto holders from using their digital assets for payments in addition to preventing payments providers from providing fiat onramps for crypto exchanges.
+
+The ban will come into effect on April 30, rendering any crypto payments solutions and partnerships illegal.
+
+According to Turkey’s central bank, “any direct or indirect usage of crypto assets in payment services and electronic money issuance” will be forbidden.
+
+Banks are excluded from the regulation, which means users can still deposit Turkish lira on crypto exchanges using wire transfers from their bank accounts.
+
+The European Central Bank will put itself in jeopardy if it waits around to launch a digital euro for too long, according to a ConsenSys executive.
+
+With a central bank digital currency set to be years away, Monica Singer said such projects are a chance for central banks to repair their mistakes and fix a broken financial system.
+
+She warned that if global banks miss this opportunity, alternatives from private tech giants like Facebook could make fiat currencies obsolete.
+
+Singer added: “If the central bank in Europe is gonna wait until 2028, by then there won’t be a central bank. Because who’s gonna use the euro in its current form? There are gonna be so many choices.”
+
+Best Cointelegraph Features
+
+NFTs are not an immediate solution to all IP rights issues, but eventually, they can give creators more power than they ever had.
+
+Ethereum is the dominant force in DeFi, and layer-two solutions are a promising alternative, but the layer-one blockchains are not done just yet.
+
+The impact of BTC mining on the environment has turned into a debate — here’s what academics think… and if “green Bitcoin” is possible.

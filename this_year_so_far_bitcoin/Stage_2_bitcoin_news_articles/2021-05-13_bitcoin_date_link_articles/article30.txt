@@ -1,0 +1,41 @@
+Michael Sonnenshein, Grayscale Investments CEO, joins Yahoo Finance Live to discuss how the environmental impact of mining hit cryptocurrencies and outlook for Bitcoin post-pandemic.
+
+Video Transcript
+
+MYLES UDLAND: I mean, look, I think in general, I'm always going to be viewing Bitcoin as, what's its role-- what's crypto's role within the financial psychological moment, right? But let's talk a little bit about the actual details here of the energy consumption, what it is, what it isn't, how people in the space are thinking about it. Let's bring in Michael Sonnenshein, CEO at Grayscale investments. Michael, thanks for coming back on the show.
+
+You've patiently listened to us discuss Elon's latest tweet. Let's start with, I guess, how you guys at Grayscale think about the consumption issue with respect to Bitcoin and other cryptocurrencies. What you're thinking is on that. How you counsel clients through that when they ask versions of this question, which I'm sure they do.
+
+MICHAEL SONNENSHEIN: Well, great to be here. This is an opportunity for the entire crypto space to really think about moving the narrative toward something that's a little bit more solutions oriented when it comes to energy consumption. And it's important that we stick to the facts here.
+
+If you look at the way that Bitcoin mining and cryptocurrency mining currently exists around the world, we're talking about a mere couple of basis points of global CO2 emissions on an annual basis. And because Bitcoin mining has gone from something that in the early days could be done on a store bought computer to now seeing the, quote, unquote, "new minings of the world" being set up and become a really competitive industry, you've now seen miners set up geographically all around the world, and oftentimes, really working to ensure that renewables are part of their energy consumption [INAUDIBLE].
+
+So, things like, wind, and solar, and hydro, these are the areas that Bitcoin miners are focused on. And so, I think the latest statistic is about 76% is the percentage of miners that are using renewables as part of their energy consumption.
+
+Story continues
+
+JULIE HYMAN: Michael, is there a way of sourcing-- of knowing where your Bitcoin is sourced and trying to get Bitcoin? I mean, my gut instinct would say, no, there's not, because of the nature of Bitcoin. But I wonder if there is?
+
+MICHAEL SONNENSHEIN: There actually is, right. The underlying blockchain technology really does allow for transparency of all transactions that take place in Bitcoin. And so, the ability to look at transactions, trace them back through history, you can actually see where your Bitcoins have resided, every address, every transaction they've ever been a part of. And again, this really represents an opportunity as an industry for us to focus on how renewables can play a role in supporting the Bitcoin network. And again, this is really just one person's opinion that we're talking about at the moment.
+
+JULIE HYMAN: Oh, it's one person's opinion, but it's a pretty influential one, isn't it? You know, Michael, you may be viewing this as an opportunity now, but are you a little annoyed when you saw that tweet? Is it frustrating to you that something that your business is so connected to can be influenced like this by that guy?
+
+MICHAEL SONNENSHEIN: Well, you guys were talking about volatility in the Bitcoin space, and in digital currencies in general, and that's certainly one of the things that we talk about, and that investors know that it's not going to be for the faint of heart. And so, many investors are waking up this morning to see Bitcoin down maybe 10%, 15%. But if they're conviction in investing in Bitcoin hasn't changed, investors view these types of pullbacks as opportunities to average down in their positions, and ultimately, control more Bitcoin in their portfolios.
+
+BRIAN SOZZI: So, Michael, so, traders in crypto, they should ignore Elon Musk?
+
+MICHAEL SONNENSHEIN: I think that that is an accurate statement, yes. I think traders are looking at fundamentals, the role that Bitcoin plays in their portfolio, achieving higher risk adjusted returns by incorporating digital currencies into a diversified portfolio. And again, if your conviction hasn't changed, and you still believe in the role that Bitcoin can play in your portfolio, and you can buy it cheaper than you could yesterday, that's a compelling dream for a lot of investors.
+
+JULIE HYMAN: Michael, thank you for playing along with all of this developing news this morning. There's something going on with you guys too that I want to bring up. You guys filed this morning to turn into an SEC reporting company. Explain to us what exactly is the significance of this filing and the product it involves.
+
+MICHAEL SONNENSHEIN: Thank you. Yes, so, this morning we filed voluntarily Form 10 for our diversified fund, which is called Grayscale Digital Large Cap. It trades under the symbol of GDLC. And so, if this is deemed effective, it would cause the Grayscale Digital Large Cap fund to start filing its financials on 10K's and 10Q's.
+
+We've already accomplished this with two of our other products in the Grayscale family, the Grayscale Bitcoin Trust and the Grayscale Ethereum Trust. And so, what this essentially means is holding the product to a higher level of reporting obligations and risk disclosures. And it's an important milestone, not just for the team, not just for this product, but also for investors. Investors are looking to find trustworthy partners to access the digital currency market. And if we can continue to provide greater transparency by holding ourselves to that higher standard, we're certainly going to do it.
+
+JULIE HYMAN: I also have to ask you about your push, and the industry push, to have a crypto ETF, a Bitcoin ETF. You guys specifically, I know have been working on that. Gary Gensler does not seem on board, at least not in the short term. I mean, what are the odds of this happening at this point, say, before the end of the year?
+
+MICHAEL SONNENSHEIN: We continue to believe a Bitcoin ETF is a matter of when and not a matter of if. Regulators are as engaged as they've ever been on the digital currency market. They're looking for certain points of maturation in the underlying market before they're going to get comfortable approving an ETF.
+
+And certainly in Grayscale, we've been committed to converting our products, in particular our flagship fund, Grayscale Bitcoin Trust, into an ETF when regulatory permissions allow for it, and we're just not there yet. It's early days, the market is continuing to mature. And we're committed to working with regulators to get them comfortable to approve these products over time.
+
+MYLES UDLAND: All right, Michael Sonnenshein, CEO of Grayscale Investments. Michael, thanks so much for joining today. Thanks for playing along. And I know we'll talk soon.

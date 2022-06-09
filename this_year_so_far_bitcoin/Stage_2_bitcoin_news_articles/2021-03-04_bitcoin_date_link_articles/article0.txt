@@ -1,0 +1,75 @@
+Bill Gates, fresh off making headlines for suggesting the world should eat 100 percent synthetic beef, is now beefing with a new target: bitcoin.
+
+Gates, the Microsoft cofounder and chair of the investment fund Breakthrough Energy Ventures, recently said in a live-streamed Clubhouse session that bitcoin guzzles up a concerning amount of energy.
+
+
+
+➡ Join Pop Mech Pro to get exclusive answers to your burning science questions.
+
+“Bitcoin uses more electricity per transaction than any other method known to mankind, and so it’s not a great climate thing,” Gates told CNBC’s Andrew Ross Sorkin. (You can hear Gates’s comments on bitcoin starting around the 33-minute mark in the video below.)
+
+This content is imported from YouTube. You may be able to find the same content in another format, or you may be able to find more information, at their web site.
+
+In the broad sense, Gates isn’t making an especially egregious claim. A quick refresher: Bitcoin is a cryptocurrency—a shared, encrypted, publicly available form of money made by building links in a longer and longer blockchain code. Blockchain refers to the collective record (called a ledger) that stores cryptocurrency transactions, like a communal Excel spreadsheet.
+
+
+
+This content is imported from {embed-name}. You may be able to find the same content in another format, or you may be able to find more information, at their web site.
+
+This record is stored on volunteers’ computers, which run software that verifies transactions, checking to make sure that both parties agreed to the change and the buyer has enough currency to honor it. These volunteers are called miners, and the reward for volunteering their hardware is kickbacks in the form of more cryptocurrency.
+
+If enough computers conclude that yes, this is a valid exchange, that verification joins the rest of the world’s recent transactions as a “block.” To prevent people from generating counterfeit currency, the math required to verify a transaction takes so much computing power that no one user or group could do it.
+
+“Bitcoin uses more electricity per transaction than any other method known to mankind.” - Bill Gates
+
+People “mine” bitcoin, then, by tasking computers to process complicated math, usually in the background on real users’ computers or even on dedicated machines. Miners use high-end graphics cards, or GPUs, because these pieces of hardware are already made to churn through computer math as quickly as possible and with a lot of calculations running at the same time. Like a highway with more lanes, this reduces congestion and travel time. It also heats up your PC, usually requiring high-end fans to match.
+
+Gear We Love: The Best Gaming Laptops
+
+Best Value Asus ROG Zephyrus G14 bestbuy.com $1,099.99 Buy Now Total Expert Score: 86/100 Don’t be fooled by the affordability, the G14 is a gaming beast. For Work and Play Dell XPS 17 bestbuy.com $2,899.99 Buy Now Total Expert Score: 90/100 Dell packed an incredible display and a sleek design with admirable gaming capabilities. Slimmest MSI GS75 Stealth amazon.com $2,999.11 Buy Now Total Expert Score: 80/100 With a 17-inch screen but thin design, this laptop balances performance and portability. Best Style Razer Blade 15 amazon.com $1,529.96 Buy Now Total Expert Score: 86/100 Razer has refined its Blade gaming laptop with more speed, battery life, and style. Premium Alienware Area 51M walmart.com $2,519.99 Buy Now Total Expert Score: 86/100 Beautifully designed and powerful to boot, the Area 51M is a true paragon of gaming.
+
+Scientists from the University of Cambridge Judge Business School recently built an interactive analysis tool to calculate the real energy cost of bitcoin cryptocurrency. Using their energy use model, the researchers found that bitcoin mining uses more energy each year (130.00 terrawat hours [TWh]) than the entire country of Argentina (125.03 TWh).
+
+According to the BBC, Cambridge’s tool also ranked Bitcoin’s electricity consumption above that of the Netherlands (108.8 TWh) and the United Arab Emirates (113.20 TWh). (The tool counts mining activity and cross-references users’ locations to make a heat map of energy use by all bitcoin miners.)
+
+University of Cambridge
+
+In response, industry researchers have pushed back, claiming bitcoin uses just 2.3 percent of digital tech emissions. While that’s a fair claim, no one is making anyone use bitcoin, compared with technology usage that underlies infrastructure, for example, or public utilities. What if just one optional transaction each year used 2.3 percent of the total by itself? Where do we draw the line?
+
+This content is imported from Twitter. You may be able to find the same content in another format, or you may be able to find more information, at their web site.
+
+Bitcoin’s climate footprint of 37Mt CO2 is still minuscule compared to other digital industries.
+
+
+
+The total GHG emissions from digital tech are estimated to 1600Mt, with Bitcoin contributing to roughly 2.3% of the
+
+digital tech emissions. pic.twitter.com/n3hWiFfpxm — Arcane Research (@ArcaneResearch) February 16, 2021
+
+“I haven’t chosen to invest in bitcoin,” Gates said during the Clubhouse interview. “I buy malaria vaccines. I buy measles vaccines. I invest in companies that make products.”
+
+That’s all true, but Gates uses “digital money” with his global foundation:
+
+“There are other ways of doing digital currency that our foundation is involved with which are done in local currency. The transactions are not secret, they’re reversible. You can’t use it for ransom or things like that, and yet the transaction fees are so low that it’s empowering the poorest.”
+
+
+
+What’s the difference here, exactly?
+
+What Gates describes is an almost utopian closed economy where sustainable businesses can exchange digital currency of a select type. Think about something like loyalty program rewards or airplane frequent flyer miles, where you belong to an “in group” that entitles you to certain benefits.
+
+Gates wants to direct this same style of structure toward the global poor, for whom using digital currency could remove structural barriers, debilitating transaction fees, and other overhead costs. Think about a radical new system where people applying to college never have to pay an application fee, for example, or countries where citizens don’t typically pay services to file their own taxes.
+
+How is this different from cryptocurrency, which is also digital? Well, the idea of digital currency doesn’t ever necessarily include the portion with the “hash” of extremely large number arithmetic—that’s the crypto part of cryptocurrency. Simply making a digital currency means, for example, the in-game currencies in huge games like Fortnite along with programs like the ones Gates aspires to put in place around the world. It’s a format, like paper money.
+
+The kind of digital currency Gates is pursuing with his foundation doesn’t sound like cryptocurrency. Gates also seems to believe bitcoin is used for illegal activity in a way other digital currencies aren’t. He’s not wrong, but again, cash has been the king of illegal activity for thousands of years. That doesn’t mean paper currency is inherently bad.
+
+Gates is right to remain skeptical of bitcoin, because it makes sense to take a critical view of any kind of speculative investment—especially when so many people don’t seem to understand what bitcoin even is. Gates also has a personal investment in other kinds of digital currencies; he’s not a Luddite making criticisms with no stake.
+
+By warning smaller investors to keep their eyes peeled, Gates seems to be trying to educate consumers and advise caution.
+
+🎥 Now Watch This:
+
+Additional reporting by Alexander George.
+
+This content is created and maintained by a third party, and imported onto this page to help users provide their email addresses. You may be able to find more information about this and similar content at piano.io

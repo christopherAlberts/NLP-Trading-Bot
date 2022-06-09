@@ -1,0 +1,43 @@
+Bitcoin — all the rage since first crossing the $1,000 price mark in 2017 — is the least exciting crypto asset on the market. Like many “firsts,” Bitcoin enjoys widespread brand recognition, but that recognition doesn’t accurately reflect its value as an asset, particularly in comparison to other available assets in the crypto market.
+
+Bitcoin is to the crypto market what Netscape was to search engines in the early days of the Internet. There’s a need for a better solution, and the market is responding.
+
+Real innovation in the crypto market now takes place in decentralized finance (DeFi) and the mainly Ethereum-based (ETH) infrastructure that underpins it. DeFi, which supports everything from decentralized exchanges to token based lending, mimics the structure of traditional financial markets in the open, transparent forum of a blockchain-based infrastructure. According to ConsenSys, more than $2 billion worth of transactions occur daily on decentralized exchanges and more than $23 billion in outstanding decentralized loans have been granted as of March 2021.
+
+And that’s just the tip of the iceberg.
+
+Rather than focus on Bitcoin, the following are crypto assets worth watching, as they are best positioned to capitalize on the growing popularity and practicality of decentralized finance:
+
+UniSwap (UNI)
+
+UniSwap is a decentralized liquidity protocol that facilitates automated trading of decentralized finance tokens. Compatible with any ERC-20 token in the ethereum ecosystem, it has a current market cap exceeding $16 billion and
+
+continues to grow rapidly. In January of this year, it traded around $5 — it currently trades in the $30 range.
+
+UNI is well positioned within the DeFi space, as it represents the largest decentralized exchange in the crypto market. As such, it is slated to capitalize on the onset of FinTech 2.0, of which DeFi is the key component, and the market’s expected multi-trillion dollar growth over the next several years as it converges with traditional finance.
+
+Story continues
+
+Litecoin (LTC)
+
+Litecoin, an early alt coin dating back to 2011, took some of the best features from Bitcoin while focusing on providing a less onerous processing framework to decrease the block generation time. Litecoin can process a block every 2.5 minutes, compared to Bitcoin's 10 minutes. It is a peer-to-peer Internet currency with a fully decentralized, open source, global payment network. LTC is a great example of the potential for peer-to-peer cryptocurrency and the importance of continuous innovation.
+
+LTC started 2021 trading at roughly $124 and currently trades at around $262. It boasts an almost $18 billion market cap and a 24-hour transaction volume of more than $10 billion. It is relatively liquid and has great potential for further upside.
+
+Chainlink (LINK)
+
+Chainlink is a decentralized network designed to connect smart contracts with data from the non-crypto space. LINK provides reliable, tamper-proof inputs and outputs for complex smart contracts on any blockchain and will potentially be the “link” that weaves different networks together. It serves as another solid example of the strengths of DeFi, as it’s a connector and a facilitator for further innovation.
+
+LINK’s price has risen along with the other core DeFi tokens: it increased from $0.19 in January 2018 to approximately $35, currently.
+
+The DeFi and the general crypto infrastructure space represents one of the top opportunity sets for the next decade across all asset classes. As the crypto market continues to mature and to grow in participation, these players in the ecosystem will stand to benefit in ways that Bitcoin simply cannot. The current growth rate in this space promises to continue, with these technologies eventually evolving into the dominant players in financial markets. But only those best positioned for that future will endure.
+
+If the crypto space is truly successful, there will be hundreds of thousands, if not millions of tokenized assets trading on blockchains with smart contract components. Bitcoin will be just one of them, and certainly not the most attractive.
+
+Nikolas Joyce is CIO of The Strategic Funds.
+
+Edited Photo Via Unsplash
+
+See more from Benzinga
+
+© 2021 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.

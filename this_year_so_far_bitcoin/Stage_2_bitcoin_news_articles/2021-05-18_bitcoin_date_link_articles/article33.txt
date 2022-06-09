@@ -1,0 +1,59 @@
+On Wednesday April 28th, Roman Sterlingov, a 32-year Swedish and Russian citizen who allegedly founded the cryptocurrency mixing service “Bitcoin Fog,” was arrested at Los Angeles International Airport pursuant to a sealed criminal complaint filed in the federal district court in Washington, DC (21-mj-00400). According to a supporting affidavit from a criminal investigator for the IRS, Sterlingov engaged in a decade-long conspiracy to use Bitcoin Fog as a way to launder criminal proceeds from illicit Darknet1 marketplaces and elsewhere.
+
+He’s charged with three felonies: Laundering of Monetary Instruments (18 U.S.C. § 1956(a)(3)(B)), Operating an Unlicensed Money Transmitting Business (18 U.S.C. § 1960(a)), and Money Transmission Without a License (D.C. Code § 26-1023(c)). The most serious of these offenses carries a maximum sentence of twenty years; given an alleged loss amount of at least $335 million and a corresponding guidelines sentence in excess of fourteen years, Sterlingov could realistically expect to face a decade or more in prison if convicted.
+
+Sterlingov’s arrest marks the second time the US Department of Justice (DOJ) has publicly launched a criminal case involving so-called crypto “mixers” or “tumblers.” If they weren’t already, this latest case reemphasises that the DOJ views such services as inherently suspect, if not outright illegal. As Deputy Assistant Attorney General Brian Benczkowski stated bluntly in February, “Seeking to obscure virtual currency transactions [through a mixer] is a crime.” While this position has yet to be tested before a jury, it underscores why extraordinary caution should be taken by businesses and individuals using or operating crypto mixers or comparable services going forward, even if for perfectly legitimate reasons.
+
+What is a Crypto Mixer/Tumbler?
+
+One of the unique features of blockchain and other types of distributed ledger technology is that it is simultaneously transparent and anonymous: all transactions occurring on cryptocurrency ledgers are open to the public, but the identities of the parties involved are kept concealed by their unique wallet addresses (long strings of letters and numbers akin to a bank account number) which act as pseudonyms. For law enforcement, this quasi-anonymity creates obvious problems in terms of detecting and preventing transfers of cryptocurrency that is derived from or otherwise associated with illegal conduct.
+
+But even in situations where government investigators are initially unable to associate a crypto wallet address with a particular individual or entity, the open ledger enables them to trace all transfers to or from that wallet. This means that if one crypto wallet address is determined to be filled with illegal proceeds, it is possible to see from which other wallets it all came from. From there, deeper analysis of the blockchain can possibly uncover a wallet owner’s identity. 2
+
+Mixers are designed to maintain maximum anonymity by obscuring which crypto wallet owners are transacting with one another. They work by breaking the link between sender and receiver—so, rather than go directly from wallet A to C, cryptocurrency flows first to a mixer, B, which, for a fee, comingles it with transfers from other wallets before sending it off to C (all at once or in a number of smaller transfers, potentially spread over a long duration).
+
+Although mixers are not per se illegal, they obviously have clear applications for illegal purposes. As the IRS affidavit against Sterlingov put it: mixers allow “users to send bitcoins to recipients in a manner designed to conceal and obfuscate the source of the bitcoins. . . . This process allows . . . customers engaged in unlawful activities to launder their proceeds by concealing the nature, source, and location of their ‘dirty’ bitcoin.”
+
+The First to Fall: Bestmixer
+
+While mixers have been around for almost as long as cryptocurrencies themselves, their potential criminal applications did not draw the attention of law enforcement until relatively recently. The first one to be targeted was Bestmixer.io, a Curaçao-based service that opened in 2018 with reported revenues of over $200 million in just its first year in business. After a joint investigation between the Dutch Fiscal Information and Investigation Service (FIOD), Europol, and Luxembourg authorities found that many of the transactions transmitted through Bestmixer had a criminal origin or destination, it was shut down in May 2019.
+
+Aside from seizing the domain address and a number of servers owned by the company in the Netherlands, no criminal enforcement actions were taken against Bestmixer’s owners or users.
+
+Next Up: Larry Harmon
+
+As is typically the case, authorities in the US have been much more aggressive than their European counterparts with respect to criminally prosecuting mixers. In December 2019, Larry Harmon, the owner and operator of a crypto media site Coin Ninja and a bitcoin mixer called “Helix,” was arrested and charged in a three count federal indictment.
+
+The indictment alleges that Harmon, a resident of Ohio who split time in Belize, advertised Helix to customers on the Darknet as a way to conceal transactions in guns, drugs, and other illegal transactions from law enforcement. In a post to the web just before Helix was launched, for example, Harmon allegedly wrote “that Helix was designed to be a ‘bitcoin’ tumbler that ‘cleans’ bitcoins by providing customers with new bitcoins ‘which have never been to the darknet before.’”
+
+Between 2014 and 2017, Helix was allegedly used to transfer 354,468 bitcoins (or roughly $311 million at then-applicable exchange rates); the bulk of which came from AlphaBay, Dream Market, Agora and other underground bazaars selling various illegal items on the Darknet. Harmon shut down Helix in 2017, but not before it was used by an undercover IRS agent to make a transfer from an AlphaBay bitcoin wallet.
+
+Based on that transfer and various other pieces of evidence cited in the indictment, the DOJ charged Harmon with “the sending and receiving of bitcoin” that he knew involved the proceeds of illegal drug activity and that he knew was intended to “conceal and disguise the nature, the location, the source, the ownership, and the control of the proceeds of” unlawful activity.” The alleged “goal” of this conduct was for Harmon and his co-conspirators “to unlawfully enrich themselves by operating a bitcoin money laundering service which would conceal and promote illegal Darknet drug sales and other illegal activity.” He was also charged with running an “unlicensed money transmitting business.”
+
+His case remains pending after three separate motions to dismiss under Federal Rule of Criminal Procedure 12(b)—filed by Harmon pro se—were all denied, most recently in April 2021. See United States v. Harmon, No. 19-cr-00395 (D.D.C. Apr. 16, 2021).3 Jury selection is scheduled for September 13, 2021.
+
+In a related regulatory action by the Treasury Department’s Financial Crime Enforcement Network (FinCEN), in October 2020 Harmon was handed a $60 million fine for failing to register as a “money services business” under the Bank Secrecy Act.
+
+The Charges Against Sterlingov
+
+The charges against Sterlingov parallel the case against Harmon and appear to rely upon similar kinds of evidence. The IRS affidavit quotes, for example, online statements allegedly made by Sterlingov in which he specifically promoted Bitcoin Fog as a way to thwart law enforcement (e.g., Bitcoin Fog “mixes up your bitcoins in our own pool with other users…get paid back to other accounts from our mixed pool…can eliminate any chance of finding your payments and making it impossible to prove any connection between a deposit and a withdraw [sic] inside our service.”). The affidavit also specifically ties Bitcoin Fog to certain specific Darknet marketplaces (Agora, Silk Road 2.0, Silk Road, Evolution, and AlphaBay), and alleges that because these sites are overwhelmingly used to traffic in illegal narcotics or stolen personal data, the cryptocurrency they transferred through Bitcoin Fog was almost certainly illegal proceeds.
+
+As in the Harmon case, federal investigators also used an undercover operative to access Bitcoin Fog and use it to make test transfers between government-controlled wallets in order to confirm it operated as advertised. The undercover operative then went one step further by sending a message to the Bitcoin Fog administrator that explicitly tied a prospective crypto transfer with drug dealing:
+
+"i created my account to clean my coins from selling ecstasy. I sold molly on [Darknet site] apollon . . . Im new to this and im worried im gonna get caught. I need help cleaning my bitcoin and don’t trust the big mixers after [what happened with best mixer]."
+
+Although the message was never replied to, the affidavit notes that “at no point did the administrators of BITCOIN FOG prevent the deposit of funds from Apollon or prevent the withdrawal of funds after the funds were represented to be the proceeds of illegal drug sales.”
+
+To link Sterlingov with Bitcoin Fog and the online pseudonym Akemashite Omedotou (Japanese for “Happy New Year”) who appears to have served as the site’s administrator, the affidavit then outlines evidence showing that the domain fees for www.bitcoinfog.com were purchased with bitcoin sourced from Sterlingov’s account at the now-defunct Bitcoin exchange Mt. Gox. Certain of this evidence was obtained by way of a “lawfully authorized search warrant” executed on Sterlingov’s account with Google.
+
+In light of this evidence, Sterlingov is charged with violating two federal statutes and a local DC law.
+
+18 U.S.C. § 1956(a)(3)(B), which makes it a crime “to conduct or attempt to conduct a financial transaction involving property represented to be the proceeds of specified unlawful activity, or property used to conduct or facilitate specified unlawful activity, with the intent to conceal or disguise the nature, location, source, ownership, or control of property believed to be the proceeds of specified unlawful activity.”
+
+18 U.S.C. § 1960(a), which makes it a crime “to conduct, control, manage, supervise, direct, or own all or part of an ‘unlicensed money transmitting business,’ defined as a money transmitting business which affects interstate or foreign commerce in any manner or degree . . . in a State where such operation is punishable as a misdemeanour or a felony under State law.”
+
+D.C. Code § 26-1023(c), which makes it a crime to engage in the business of money transmission without a license.
+
+Key Takeaways
+
+Because the DOJ’s case against Sterlingov is more or less a reprise of its case against Harmon, it serves as a useful reminder of a few key points.

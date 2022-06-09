@@ -1,0 +1,75 @@
+Editorial Independence We want to help you make more informed decisions. Some links on this page — clearly marked — may take you to a partner website and may result in us earning a referral commission. For more information, see How We Make Money.
+
+If there’s one cryptocurrency you should know about, it’s Bitcoin.
+
+As the first cryptocurrency, Bitcoin has become the most valuable and commonly held among the thousands of cryptocurrencies that have since been created. Its rise in value and popularity has been steady, if not without its ups and downs.
+
+Bitcoin’s price exceeded $60,000 in April 2021, setting a new record and coinciding with cryptocurrency exchange Coinbase going public. This high followed a meteoric rise in value in the early months of 2021, after exceeding $20,000 for the first time in December 2020.
+
+Here’s what you need to know about the world’s most well-known and established cryptocurrency.
+
+What Is Bitcoin?
+
+Bitcoin was created in 2009 on the heels of the economic recession. Bitcoin was created to be an electronic peer-to-peer cash system, but has also attracted crypto-curious investors as a store-of-value currency, comparable to gold.
+
+History of Bitcoin
+
+The concept of Bitcoin was published in a white paper written by an anonymous figure under the pseudonym Satoshi Nakamoto in 2008. No one knows the author’s true identity — or if it’s even a single person, rather than a group of people. The paper outlined how Bitcoin would work, and the currency officially launched on Jan. 3, 2009, according to Ollie Leech, learn editor at CoinDesk, a leading cryptocurrency news outlet.
+
+How Bitcoin Works
+
+Bitcoin’s maximum supply is 21 million — and that’s all there ever will be.
+
+When a cryptocurrency is released, the creator(s) can set its parameters (how much there is, rules for buying and selling, how new Bitcoins are added to the marketplace, etc.), which cannot be changed after the fact. Locked in from the start, these rules effectively make Bitcoin a truly scarce resource, with a ceiling on the total amount that will ever be available.
+
+“No one, not a government, not Satoshi themselves, can change that now that it’s been released,” says Leech. “You cannot duplicate Bitcoins, you cannot recreate them.”
+
+That’s where the comparison to gold falls a little flat, because gold is constantly entering the market as new ores and pockets are discovered, making it only a relatively scarce resource.
+
+Bitcoin is also much more transferable and more easily stored compared to a resource like gold. If you want to move gold, it’ll cost a lot of money (armored transport, security, cost of storage in a secure facility, etc.). Bitcoin can essentially be stored on a USB stick — in something known as a cold or hard wallet.
+
+Investment vs. Cash
+
+Bitcoin was designed to be an electronic cash, as its white paper explains. But the currency’s volatility pretty much immediately scrapped this original intent, according to Leech.
+
+For example, no person “in their right mind” would want to buy coffee with Bitcoin, says Leech. That’s because you could buy a coffee worth $3 today with Bitcoin, and tomorrow that same Bitcoin is worth $30, and you’ve effectively spent $30 on a cup of coffee.
+
+Or take it from the merchant’s point of view — you use Bitcoin for your $3 coffee, and tomorrow that Bitcoin is worth 60 cents. Then the merchant lost out. “The price volatility kind of makes it completely useless as an electronic cash system,” says Leech.
+
+Similar to gold, people buy Bitcoin “not because they expect to be able to go to the store and spend it, but because they expect it to hold its value,” says Galen Moore, director of data and indexes at CoinDesk. “For the same reason people would have diamonds, or some $100 bills, or some gold coins in a safe,” they would keep a digital wallet with their Bitcoin on it.
+
+Why Is Bitcoin So Volatile?
+
+Cryptocurrency volatility is mostly due to the “immature market,” says Leech. “Traders are very susceptible to emotion and fear and greed, and so you get these really extreme market reactions.”
+
+There are also new regulations and policies that are constantly reshaping the market and causing drastic swings. And then there’s social media.
+
+“It’s this weird new thing where viral social trends, like Wall Street Bets or Elon Musk for example, have a huge influence over crypto,” says Leech. “If Elon Musk puts hashtag Bitcoin in his Twitter bio, it sends Bitcoin up 10%.”
+
+While social media has a unique power to intrigue and excite, its influence over the Bitcoin market is also reason for casual investors to be cautious. “Please don’t invest in cryptocurrencies based on the trends on Twitter,” says Kiana Danial, author of “Cryptocurrency Investing for Dummies” and the personality behind the @Investdiva account on Instagram.
+
+With so little historical context compared to more conventional investments, Bitcoin and other cryptocurrencies should still be considered riskier assets, Danial says. The potential reward comes with higher risk, so make sure any investment in Bitcoin is included in your broader portfolio’s riskier, more aggressive allocation.
+
+Bitcoin Mining
+
+With Bitcoin, there is a finite supply of 21 million coins — though not all them were released when Bitcoin launched in 2009. About 18 million of 21 million Bitcoin have been added to circulation since the “genesis block,” the first block of Bitcoin, was mined by Satoshi Nakamoto, says Leech.
+
+New gold enters the market from mining as well — though with gold it is impossible to know exactly how much there remains to be discovered and mined.
+
+New Bitcoin is discovered and made available to buy and sell via a digital mining process, which involves discovering new blocks’ unique hash (a very long string of numbers and letters) using an algorithm. Blocks are just groupings of transactions occurring within a given time frame, and new blocks are constantly made available.
+
+Each block discovered via the mining process unlocks a set amount of Bitcoin. This reaps rewards for those who discover new blocks, and makes new Bitcoin available to buyers. There’s no rhyme or reason to each block’s hash, so miners set their computers to create many guesses per second to try and guess these random codes.
+
+Miners use powerful computers referred to as “nodes” to search for and discover new blocks. Anyone can be a Bitcoin miner using free software available on Bitcoin.org, but running a computer like this consumes lots of storage space and energy.
+
+Whoever guesses the code first gets the right to create the next block — and pick up the transaction fees from it when its Bitcoin gets bought and sold. “Each new block has a treasure chest. And inside is a block reward which is free Bitcoin that enters the market,” says Leech.
+
+This mining process is another factor contributing to Bitcoin’s wild day-to-day swings.
+
+Today, about 900 Bitcoin enter circulation every day through mining, according to Leech. But there’s a cyclical trend called “halving” written into Bitcoin’s original code. Every four years, the amount of new Bitcoin entering circulation every day gets halved.
+
+The last halving was in 2020, so in April or May of 2024 the amount of Bitcoin entering circulation each day will be reduced again. The reduction will keep happening until the last Bitcoin is mined, which is predicted to happen in the year 2140, says Leech.
+
+This halving has happened three times since Bitcoin was introduced, with its adoption rising all the while. So the effects of halving on the price of Bitcoin are difficult to pinpoint. The first halving, in 2012, led to a rise in the value of Bitcoin, while the second halving in 2016 led to an initial drop before rising again. The third halving in May 2020 saw no drastic impacts to the price of Bitcoin, which has maintained record high prices since late 2020.
+
+With each halving comes more market fluctuation to the price of Bitcoin. “It’s deflationary by design,” says Leech.

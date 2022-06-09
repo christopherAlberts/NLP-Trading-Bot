@@ -1,0 +1,81 @@
+The bitcoin market saw spot volumes not witnessed since February and record derivatives action over the weekend. Ether declined, while the meme-y alternative cryptocurrency dogecoin saw double-digit percentage price appreciation.
+
+Bitcoin (BTC) trading around $56,026 as of 21:00 UTC (4 p.m. ET). Gaining 0.30% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $54,680-$57,456 (CoinDesk 20)
+
+BTC near the 10-hour but below the 50-hour moving average on the hourly chart, a sideways signal for market technicians.
+
+Bitcoin trading on Bitstamp since April 16. Source: TradingView
+
+The price of bitcoin suffered a price drop on Monday, dipping to as low as $54,680 before recovering somewhat, to $56,026 as of press time
+
+“The crypto markets witnessed a sudden dip over the weekend, when BTC dropped before recovering about half of that by day end,” noted David Lifchitz, CIO and partner at quant trading firm ExoAlpha.
+
+Bitcoin volumes on major exchanges that encompass the CoinDesk 20 had a banner day Sunday when viewed through the prism of the past three months. Volumes on the CoinDesk 20 eight spot BTC venues was over $8 billion for the first time since Feb. 23, when volumes surpassed $12 billion. Volumes were much lower Monday, at below $4 billion as of press time.
+
+Bitcoin volumes on CoinDesk 20 exchanges the past three months. Source: CryptoCompare
+
+The majority of volume Sunday was related to derivatives, noted Jason Lau, chief operating officer of San Francisco-based exchange OKCoin.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Liquidations, the crypto equivalent of a margin call, approached the $10 billion mark Sunday across all digital assets according to data aggregator Bybt. The leveraged wipeouts are a record level that surpasses a previous record set in February.
+
+“As usual, the primary reason was a combination of over-leveraged derivative traders,” Lau told CoinDesk.
+
+Leveraged cryptocurrency liquidations since January. Source: Bybt
+
+Traders are obviously trying to peer into the future to see where BTC will head this week after the dump. It may take a recovery to over $60,000 for the market to expand due to increased retail interest again while whales will scoop up more of the asset if it heads back towards $50,000, according to ExoAlpha’s Lifchitz.
+
+“Bitcoin is stuck in the $50,000-$60,000 twilight zone,” said Lifchitz. “Above $60,000 it’s the retail FOMO, or Fear Of Missing Out, frenzy. Below $50,000 lay the institutional dip buyers.”
+
+According to CoinDesk 20 data, bitcoin has closed at over $60,000 only seven days, all of them in March and April. It has not closed below $50,000 since March 6.
+
+Historical price of bitcoin the past three months. Source: CoinDesk 20
+
+The Coinbase direct listing last week might add some padding to the market as newer investors find increased interest in crypto, said Misha Alefirenko, co-founder of crypto market maker Velvetformula.
+
+“Retail investors are finally in the game with all the buzz around the Coinbase listing,” Alefirenko said.
+
+However, there is still some potential for downside risk. “The bull definitely wants to take a breather,” ExoAlpha’s Lifchitz concluded. “Should the $50,000 level break, dip buyers would be submerged by sellers, then $30,000 looks like the obvious next stop, but we are not there yet.”
+
+OKCoin’s Lau sees long-term bullish fundamentals, however, given continued positive statements from central banks regarding crypto. He pointed to China’s central bank, the People’s Bank of China (PBOC), as an example.
+
+“Longer term, the prospects for bitcoin remain bright, buoyed by encouraging statements by the PBOC that bitcoin is emerging as an investable asset class,” Lau said. “This potentially marks a shift in tone towards bitcoin from the world’s second largest economy’s central bank.”
+
+Ether dips as investors await relief from fee quagmire
+
+Ether (ETH), the second-largest cryptocurrency by market capitalization, was down Monday trading around $2,182 and falling 0.53% in 24 hours as of 21:00 UTC (4:00 p.m. ET).
+
+Historical price of ether since the start of 2021. Source: CoinDesk 20
+
+Since the start of 2021, ether’s price has appreciated over 208% as of CoinDesk daily closing price information from Jan. 1 to April 18.
+
+Stefan Coolican, chief financial officer of investment firm Ether Capital, says despite some red on the trading screens in the past few days, investors are bullish, anticipating a solution to Ethereum’s fee problems. Ethereum Improvement Proposal 1559, which is expected to help solve constraints in the network’s decentralized application functionality due to high fees, should be arriving in the next few months.
+
+“I think EIP 1559 in the summer and the ETH2 merge getting prioritized is very bullish on the ETH value proposition, but this is more of a longer-term six- to 12-month play,” Coolican told CoinDesk.
+
+Other markets
+
+The perennial meme-maker token dogecoin experienced big-time gains Monday. It rose more than 19% the past day, according to CoinDesk 20 data. The rise comes ahead of what some fans of the token have been referring to as “Dogeday,” on Tuesday seen as an occasion for celebrating the token, and perhaps pumping its price. (The date also happens to be April 20, an occasion for celebration by marijuana enthusiasts.)
+
+Ether Capital’s Coolican also noted solana (SOL) was a surprise gainer over the past 24 hours, with data aggregator CoinGecko tallying a 13% gain for the blockchain development project over the past 24 hours. “SOL seemed to be one of the only tokens that was actually bid this weekend as everything else was getting crushed,” he said. “Not sure why.”
+
+Digital assets on the CoinDesk 20 are mostly in the red Monday. Notable winners as of 21:00 UTC (4:00 p.m. ET):
+
+Notable losers:
+
+Equities:
+
+Commodities:
+
+Oil was up 0.55%. Price per barrel of West Texas Intermediate crude: $63.42.
+
+Gold was in the red 0.30% and at $1,770 as of press time.
+
+Silver is falling, down 0.46% and changing hands at $25.82.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield climbed Monday to 1.601 and in the green 1.35%.

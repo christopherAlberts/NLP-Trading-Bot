@@ -1,0 +1,86 @@
+Replacing CryptoDivine.ai, with a more modern interface, updated algorithm and improved charting to provide crypto investors with valuable tools to profitably capture high crypto volatility!
+
+TORONTO, ON / ACCESSWIRE / June 1, 2021 / DigiMax Global Inc. (the "Company" or "DigiMax") (CSE:DIGI)(OTC:DBKSF), a company that provides artificial intelligence ("AI") and cryptocurrency technology solutions, is pleased to announce the official launch of CryptoHawk.ai.
+
+The site will be available between 9:00 and 9:30 a.m. at http://cryptohawk.ai/
+
+Created and rigorously tested by DigiMax data scientists, in cohort with expert traders, CryptoHawk.ai allows its users to harness the power of AI and machine learning for higher investment returns in cryptocurrencies, and substantially improved results compared to its predecessor, CryptoDivine. Utilizing the software's AI based predictions, investors can reduce risk, remove stress and save time all while taking advantage of volatility when investing in Bitcoin ("BTC") and Ethereum ("ETH").
+
+CryptoDivine.ai evolution to CryptoHawk.ai
+
+The Company's soft launch of the AI prediction model earlier this year allowed the engineering team to yield real life feedback from users and refine the machine learning models over a three-month period. During this time the Company's marketing team worked towards building a modern brand that highlights the products intuitive decision making, boldness and innovation. Subscribers to the standard version will keep the same low price as its predecessor, CryptoDivine, of $29.99 for the CryptoHawk.ai version with an option to upgrade to the advanced version for $99.99 per month. For a limited time, both versions are available on an annual basis with four free months in the first year.
+
+Product Features
+
+The standard version of CryptoHawk.ai features BTC & ETH prediction charts, cards, email/text message alerts and one-button link to exchanges for fast execution.
+
+Story continues
+
+The advanced version adds trading tools that include technical market indicators, customizable primary and secondary threshold alerts, an exclusive Investor Forum, and a weekly trend-watch newsletter. In the near future, one-minute interval real time charts, general trend indicators for a larger basket of currencies, and an alt-coin insights tool that highlights new, potentially fast-moving, coins that have met minimum investment attributes, will all be added. The advanced version will also host an exclusive investor group led by DigiMax Hedge Fund cryptocurrency analysts.
+
+Watch this platform overview video to learn more about the solution.
+
+"The comprehensive suite of tools and learning-AI is shaping CryptoHawk.ai in to a must have tool that can allow investors to profitably capture volatility instead of being fearful of such volatility." said Damon Stone, ex-Merrill Lynch professional trader and SME supporting cognitive modeling and training of the CryptoHawk.ai.
+
+V2 Cryptohawk.ai Model
+
+CryptoHawk.ai is different from any other AI prediction system on the market due to its sophisticated deep learning machine learning engine. Our AI model is comparable to the ones used in highly profitable ‘high frequency trading' strategies that hedge funds' utilize to gain a competitive advantage. CryptoHawk.ai uses market-leading data collection and handling processes across the Big Data 4V principles:
+
+Volume: massive amounts of data; Variety: numerous relevant sources of data; Velocity: high speed of processing; and Veracity: removal of bias, noise and outliers.
+
+CryptoHawk.ai synthesizes, evaluates and organizes data to discover new patterns, anomalies, relationships and real-time trends that are delivered to investors' phones. To further assist investors, CyrptoHawk.ai has been modulated with a new threshold logic to send alerts for meaningful price swings in order to ensure that users do not get overwhelmed by alerts and exchange fees during times of extremely high volatility.
+
+DigiMax Chief Technical Officer Thierry Hubert commented: "Our complex AI engine has been drastically improved for CryptoHawk.ai compared to CryptoDivine. Upon rigorous back testing of our modulated CryptoHawk.ai model to the launch date of February 24, 2021, we demonstrated that CryptoHawk.ai reduced the number of alert notifications by almost half compared to CryptoDivine, while increasing the rate of return over and above the buy-and-hold strategy by 225% for BTC and 138% for ETH - substantially improving the performance over CryptoDivine. For reference, the buy-and-hold rates of return during this period were -21.82% for BTC and 68.36% for ETH. While past performance cannot be a guarantee for future performance, if these results continue, investors can expect to see similar or better returns with many fewer alerts."
+
+About DigiMax
+
+DigiMax is a technology company committed to unlocking the potential of disruptive technologies by providing advanced financial, predictive, and cryptocurrency solutions across various verticals. DigiMax is an official IBM Watson partner, and the Company's engineering team has extensive experience in Machine Learning, Neural Language Processing, AI, Big Data and Cryptocurrency technology.
+
+To learn more, visit our website: https://digimaxglobal.com/
+
+About CryptoHawk.ai
+
+CryptoHawk.ai is an artificial intelligence platform that can help investors gain a competitive advantage when trading BTC and ETH. Cryptohawk's proprietary deep learning AI analyzes millions of data points per hour to spot relevant patterns, make decisions and generate accurate price trend predictions. CryptoHawk.ai allows investors to simplify their decision making, reduce risk, exploit market volatility and improve investing performance.
+
+To sign up for a free trial visit: http://cryptohawk.ai/
+
+Follow CryptoHawk.ai Instagram to stay updated: https://www.instagram.com/cryptohawkai/
+
+Contact:
+
+Martti Kangas
+
+Investor Communications
+
+647-521-9261
+
+mkangas@digimax-global.com
+
+Chris Carl
+
+President & CEO
+
+416-312-9698
+
+ccarl@digimax-global.com
+
+Cautionary Note Regarding Forward-looking Statements
+
+This press release contains "forward-looking statements or information". Forward-looking statements can be identified by words such as: anticipate, intend, plan, goal, seek, believe, project, estimate, expect, strategy, future, likely, may, should, will and similar references to future periods. Examples of forward-looking statements in this press release include, among others, statements we make regarding the uses of our CryptoHawk.ai and CryptoDivine.ai software and their potential benefits and uses, and information about future plans, expectations and objectives of the Company.
+
+Forward-looking statements are neither historical facts nor assurances of future performance. Instead, they are based only on our current beliefs, expectations and assumptions regarding the future of our business, future plans and strategies, projections, anticipated events and trends, the economy and other future conditions. Because forward-looking statements relate to the future, they are subject to inherent uncertainties, risks and changes in circumstances that are difficult to predict and many of which are outside of our control. Our actual results and financial condition may differ materially from those indicated in the forward-looking statements. Therefore, you should not rely on any of these forward-looking statements. The Company may not actually achieve its plans, projections, or expectations. The forward-looking statements and information are based on certain key expectations and assumptions made by the Company, including expectations and assumptions concerning the uses, benefits and expectations of our CryptoHawk.ai and CryptoDivine.ai software. Important factors that could cause our actual results and financial condition to differ materially from those indicated in the forward-looking statements include, among others, the following: the adequacy of our cash flow and earnings, the benefits and uses of our software, the pricing and availability of our software, the availability of future financing and/or credit, and other conditions which may affect our ability to expand the App Platform and software described herein, the level of demand and financial performance of the cryptocurrency industry, developments and changes in laws and regulations, including increased regulation of the cryptocurrency industry through legislative action and revised rules and standards applied by the Canadian Securities Administrators, Ontario Securities Commission, and/or other similar regulatory bodies in other jurisdictions, disruptions to our technology network including computer systems, software and cloud data, or other disruptions of our operating systems, structures or equipment, the impact of Covid-19 or other viruses and diseases on the Company's ability to operate, consumer sentiment towards the Company's products and services, failure of counterparties to perform their contractual obligations, government regulations, competition, loss of key employees and consultants, and general economic, market or business conditions, the impact of technology changes on the products and industry, as well as those risk factors discussed or referred to in disclosure documents filed by the Company with the securities regulatory authorities in certain provinces of Canada and available at www.sedar.com. Given these risks, uncertainties and assumptions, you should not place undue reliance on these forward-looking statements.
+
+Any forward-looking statement made by us in this press release is based only on information currently available to us and speaks only as of the date on which it is made. Except as required by applicable securities laws, we undertake no obligation to publicly update any forward-looking statement, whether written or oral, that may be made from time to time, whether as a result of new information, future developments or otherwise.
+
+SOURCE: DigiMax Global Solutions
+
+
+
+
+
+View source version on accesswire.com:
+
+https://www.accesswire.com/649883/Digimax-Global-Launches-CryptohawkAi--An-Artificial-Intelligence-Bitcoin-and-Ethereum-Price-Trend-Prediction-Solution
+
+
+

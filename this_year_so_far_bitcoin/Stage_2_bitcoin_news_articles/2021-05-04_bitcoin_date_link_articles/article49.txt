@@ -1,0 +1,83 @@
+Ether (ETH) continued its stellar run and crossed the $3,500 barrier today. Dogecoin (DOGE) also joined in on the party as its price soared above $0.61 earlier today as Gemini exchanged added support for the coin following a similar step by eToro.
+
+Traders may be buying DOGE with the expectation that Elon Musk will shill the token during his upcoming appearance as the host of Saturday Night Live.
+
+While the rise of DOGE is tempting, traders should be careful with their bets because barring the jawboning by some popular individuals, the fundamentals of the coin look shaky.
+
+Crypto market data daily view. Source: Coin360
+
+Although altcoins are having a field day, Glassnode recently pointed out that Bitcoin’s (BTC) Stablecoin Supply Ratio had plunged to a 2021 low at 13.4. The SSR is calculated by dividing Bitcoin’s supply by th stablecoin supply and its all-time low is 9.6. Glassnode said the low SSR value was a bullish sign as it showed greater availability of crypto-native capital that could flow into Bitcoin and other crypto-assets.
+
+In the altcoin season, the decentralized finance space has been the star performer. Let’s study the fundamentals and technicals of three DeFi related tokens that have done well in the past few days.
+
+GNO/USD
+
+Decentralized exchanges have risen in popularity in the past few months but they are still plagued with certain shortcomings. One of the problems DEX users face are bots that front-run transactions and cause slippage. According to MEV-Explore more than $477 million in value has been extracted from DEX traders since Jan. 1, 2020.
+
+To solve the problem of MEV and improve the experience of DEX users, Gnosis (GNO) recently announced a partnership integration with Balancer to form the Balancer-Gnosis-Protocol, which plans to blend Balancer’s pool mechanisms with the price-finding mechanism of Gnosis and is expected to go live in mid-June. This could attract several traders who have been avoiding trading on DEXs due to MEV.
+
+During bull markets, several new projects are announced as trader’s appetites are high. However, the price discovery of a new token has been a major issue bogging the crypto space. To address this problem, Gnosis launched a new platform dubbed Gnosis Auction on April 6. The protocol claims the platf will conduct transparent and decentralized batch auctions for any Ethereum project.
+
+VORTECS™ data from Cointelegraph Markets Pro began to detect a bullish outlook for GNO on April 28, prior to the recent price rise.
+
+The VORTECS™ Score, exclusive to Cointelegraph, is an algorithmic comparison of historic and current market conditions derived from a combination of data points including market sentiment, trading volume, recent price movements and Twitter activity.
+
+VORTECS™ Score (green) vs. GNO price. Source: Cointelegraph Markets Pro
+
+As seen in the chart above, the VORTECS™ Score for GNO flipped green on April 28 when the price was $201.15.
+
+From there, the VORTECS™ Score consistently remained in the green barring a brief period and GNO rallied to a high at $258.70 today, netting the traders a 28% return in about seven days.
+
+GNO has been in a steady uptrend and it has rallied from $171.32 on April 25 to an intraday high at $261.30 today, rising 52% in ten days. This sharp rally of the past few days has pushed the relative strength index (RSI) into the overbought territory.
+
+GNO/USD daily chart. Source: TradingView
+
+Usually, when an asset is backed by momentum, it does not give up much ground during corrections. The bulls jump in and buy every minor dip as they expect the rally to continue. The first support on the downside is $224.07 and then the 20-day exponential moving average ($206).
+
+A strong rebound off either support will suggest the sentiment remains positive and traders are buying on dips. The bulls will then try to resume the up-move and push the GNO/USD pair to the next target objective at $282.54 and then $300.
+
+This bullish view will invalidate if the price turns down and breaks below the 20-day EMA. Such a move will suggest that traders are booking profits aggressively and that could pull the price down to the 50-day simple moving average ($174).
+
+BAL/USDT
+
+Automated market maker Balancer (BAL) announced the developer launch of its next big upgrade named Balancer V2 on April 20. The major change in the new version is that all the assets added by all Balancer pools will be held in a single vault.
+
+While the AMM logic will be unique for each pool, the token management will be done by the vault. The protocol claims this will improve gas efficiency and enable drafting of various AMM strategies "without having to worry about low-level token transfers, balance accounting, security checks and smart order routing.”
+
+Balancer’s partnership with Gnosis will form the Balancer-Gnosis-Protocol which will be interoperable with any DEX but will have the maximum gas efficiency when traded against Balancer pools. The steps taken to reduce gas fees and improve user experience may give Balancer an advantage over competitors.
+
+The protocol is also promoting its Liquidity Bootstrapping Pools for projects that want to distribute tokens in a fair and capital-efficient way.
+
+BAL rallied from $44.73 on April 25 to an intraday high at $75.08 today, rising over 67% in ten days. During this period, the price climbed from the support line of the ascending channel to the resistance line of the channel.
+
+BAL/USDT daily chart. Source: TradingView
+
+The bears have defended the resistance line of the channel on two previous occasions, hence the level is likely to act as a major hurdle once again. A drop from the current level is likely to find support at the 50-day SMA ($56.47).
+
+Both moving averages are moving up gradually and the RSI is above 61, suggesting the bulls have the upper hand. If the price rebounds off the moving averages, the bulls will make one more attempt to push the price above the channel.
+
+If they succeed, the BAL/USDT pair could pick up momentum and charge toward the next target objective at $100. The bullish momentum may weaken if the pair plummets below the moving averages. A break below the channel will signal advantage to the bears.
+
+CAKE/USDT
+
+PancakeSwap (CAKE) was featured on Cointelegraph on April 8 when it was trading at $20.91. From there, the token rallied to hit an all-time high at $44.27 on April 30, recording a 111% gain in just over three weeks.
+
+The protocol launched an auto-compounding CAKE syrup pool on April 30, which removes the need to manually re-stake CAKE to get the best yields. The new feature seems to have gained popularity among users as the protocol reported on May 3 that 18.5 million CAKE tokens had been deposited in the said pool.
+
+Recently, data from DappRadar showed that PancakeSwap had completed 2 million transactions in a 24-hour period surpassing the 1.55 million transactions done on the Ethereum network. The growing popularity seems to have enabled the protocol to complete its biggest burn of 5,143,789 CAKE tokens.
+
+PancakeSwap launched the BETA version of Prediction on April 28. This allows traders to bet on the direction of the BNB/USDT pair’s close at the end of a 5-minute live phase. If the chosen direction is correct, the trader wins a reward.
+
+While professional short-term traders may be successful in such predictions, novice traders should be careful as this could become addictive and one could quickly lose a lot of money within a short time.
+
+The latest leg of the up-move in CAKE had pushed the RSI above 81 on April 29, indicating the token was overbought in the short term. That could have attracted profit-booking from the momentum traders, resulting in the current correction.
+
+CAKE/USDT daily chart. Source: TradingView
+
+The first critical support on the downside is the 20-day EMA ($32.75). The bears have not been able to sink and close the price below this support since March 23. Therefore, the bulls are likely to buy the dip to the 20-day EMA.
+
+A strong rebound off this support will suggest the sentiment remains positive. The bulls will then try to push the price above $44.27 and resume the uptrend. If they succeed, the CAKE/USDT pair could climb to $55.
+
+Contrary to this assumption, if the bears sink the price below the 20-day EMA, it will suggest that traders are booking profits aggressively. That could pull the price down to the breakout level at $30.
+
+The views and opinions expressed here are solely those of the author and do not necessarily reflect the views of Cointelegraph. Every investment and trading move involves risk, you should conduct your own research when making a decision.

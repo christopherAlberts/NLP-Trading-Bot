@@ -1,0 +1,11 @@
+Crypto exchange OKEx’s support for Bitcoin’s Lightning Network is now live.
+
+The Lightning Network is a second layer that works atop Bitcoin to facilitate faster and cheaper transactions than Bitcoin’s primary network.
+
+The exchange announced the integration in February.
+
+“OKEx is pleased to announce that BTC Lightning Network is now live on OKEx website, enabling much faster and cheaper BTC transfers. OKEx users are now able to use the Lightning Network for both BTC deposits and withdrawals,” a press release reads.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Last year and 2021 have been bedrock years for Lightning Network adoption among exchanges, which have added the feature in a bid to lower withdrawal and deposit fees for clients when moving funds through exchanges.

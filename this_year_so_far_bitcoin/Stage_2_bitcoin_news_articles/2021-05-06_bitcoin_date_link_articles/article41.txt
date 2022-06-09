@@ -1,0 +1,21 @@
+New York lawmakers have submitted a bill banning cryptocurrency mining operations for three years.
+
+Introduced on Monday, bill S6486 seeks to put a moratorium on the operation of cryptocurrency mining centers unless they undergo a full environmental impact statement review. The review would have to prove that a mining center doesn't affect the state’s greenhouse gas emission targets.
+
+"Cryptocurrency mining centers are an expanding industry in the State of New York, often, but not exclusively, located in retired or converted fossil fuel power stations, including dormant power plants," the bill said.
+
+As part of its Climate Leadership and Community Protection Act, the state has called for a 40% reduction in greenhouse gas emissions over 1990 levels by 2030. That rises to 85% and net-zero emissions in all sectors of its economy by 2050.
+
+The cryptocurrency mining bill added, "The continued and expanded operation of cryptocurrency mining centers will greatly increase the amount of energy usage in the State of New York, and it is reasonable to believe the associated greenhouse gas emissions will irreparably harm compliance with the Climate Leadership and Community Protection Act in contravention of state law."
+
+The bill applies to existing and proposed mining operations. In addition to a cumulative impact assessment on greenhouse gas emissions, it would also include a review of any impacts on water or air quality, or wildlife. Reviews would include a 120-day public comment period.
+
+Bitcoin has had a considerable impact on energy consumption. Its consensus algorithm relies on a process called proof of work, in which miners compete for the chance to include transactions in a block on the chain. To do so, they compete to solve a complex mathematical problem. The bitcoin protocol seeks to regulate the production of blocks to one every 10 minutes. To do that, it must make the mathematical problem more difficult as more miners join the network, adding more computing power.
+
+Proof of work forces the total computational power on the network upward as bitcoin becomes more popular. The cryptocurrency has seen its price soar recently, forcing the hash rate up.
+
+Related Resource IT Pro 20/20: Understanding our complicated relationship with AI The 16th issue of IT Pro 20/20 looks at the very human problems associated with artificial intelligence DOWNLOAD NOW
+
+According to the Bitcoin Energy Consumption Index, it takes 1138 kWh of energy to process a single bitcoin transaction at the time of writing, which equates to the energy required to run a single US household for 39 days. The bitcoin network uses roughly the same amount of energy as the Netherlands each year.
+
+While the core bitcoin developers seem committed to proof of work, competing network Ethereum, which offers additional functionality, is preparing to transition to an alternative proof-of-stake mechanism. This approach replaces miners with validators chosen to mine each block, dramatically reducing energy use compared to proof of work.

@@ -1,0 +1,29 @@
+Fin Strathern reports on blockchain and cryptocurrencies for TechForge Media. You can connect with him at https://www.linkedin.com/in/finstrathern/.
+
+
+
+
+
+
+
+
+
+
+
+The annual report (pdf, direct download) from Bitcoin Association, a Switzerland-based organisation working to advance business on the Bitcoin SV blockchain, has argued that Bitcoin SV had higher daily transaction volumes and higher block sizes than other Bitcoin networks whilst still remaining the most cost-effective.
+
+The organisation’s report highlights the achievements and the technical progress of the Bitcoin Satoshi Vision (SV) network, a forked version of the Bitcoin Cash blockchain.
+
+In 2020, a daily average of 660,000 transactions were recorded on the Bitcoin SV blockchain, compared to 307,100 for Bitcoin (BTC) and 28,900 for Bitcoin Cash (BCH). Meanwhile, Bitcoin SV’s average block size was also highest at 1.69 MB, more than double that of BTC at 816.6 KB and far larger than BCH at 111.3 KB.
+
+Despite having the most transactions, Bitcoin SV remained the most cost-effective, with a median transaction fee of less than 1/50th of a US cent in 2020.
+
+The report also highlighted some of the key work being undertaken by Bitcoin Association. Alongside a portfolio of digital events, the association also established a standards committee and a series of educational courses through its Bitcoin SV Academy.
+
+With committee members representing seven countries and four continents, the Bitcoin SV Technical Standards Committee was formed to ‘promote technical excellence and improve Bitcoin SV utility by enhancing interoperability through standardisation,’ according to the report.
+
+In December 2019 Bitcoin Association launched its Bitcoin SV Academy and it currently offers three academia-quality courses, an introductory one, one on Bitcoin development, and another on Bitcoin infrastructure.
+
+The academy also partnered with Saxion University in February to launch the world’s first Bitcoin SV-focused massive open online course (MOOC), with three more planned and all being offered free of charge.
+
+Interested in hearing more in person? Find out more at the Blockchain Expo World Series, Global, Europe and North America.

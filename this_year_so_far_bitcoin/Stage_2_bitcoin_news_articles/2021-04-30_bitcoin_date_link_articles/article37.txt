@@ -1,0 +1,15 @@
+Coinbase has announced the acquisition of cryptocurrency market analytics firm skew, with hopes of adding features for institutional traders.
+
+Cryptocurrency exchange Coinbase has acquired skew, a U.K-based data analytics firm for cryptocurrency markets, allowing the exchange to provide real-time data analytics to the institutions and traders who leverage its platform
+
+Per a Coinbase announcement today, the acquisition is part of its work to strengthen services for institutional clients. According to Greg Tusar, vice president of institutional products at Coinbase, high-quality data access is “essential for institutions assessing investments in crypto assets.”
+
+“We’re excited to integrate skew’s data analytics platform with Coinbase Prime, allowing our customers to track cryptocurrency spot and derivatives markets in real-time,” Tusar said, per the announcement. “With skew, we’ll arm professional traders with dynamic, aggregated market data, presented in a highly actionable format, all within our market leading prime brokerage.”
+
+The integration of skew could help institutional users of Coinbase take advantage of deeper bitcoin market analysis.
+
+The terms of the financial deal remain undisclosed and is expected to close in Coinbase’s second fiscal quarter. The announcement noted that Coinbase will continue to serve skew’s existing customers.
+
+Recently, Coinbase has reported significant growth in revenue, estimating $1.8 billion in total revenue and 6.1 million monthly transacting users in the first quarter of 2021.
+
+“By joining Coinbase, skew will benefit from a widely increased set of resources which will allow us to accelerate the pace of the platform’s development and support our product ambitions,” skew said in its own release.

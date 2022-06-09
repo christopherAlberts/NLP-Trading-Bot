@@ -1,0 +1,81 @@
+Blockchain analysis of the billions of dollars in bitcoin stolen during the 2016 hack of cryptocurrency exchange Bitfinex shows an interesting evolution in the slow and careful laundering of those funds.
+
+Cryptocurrency exchanges may once have been a quick cashing out option, but criminals like the Bitfinex hackers mostly gravitate towards large darknet marketplaces these days, according to research provided exclusively by blockchain analytics firm Elliptic.
+
+Meanwhile, privacy wallets like Wasabi Wallet or JoinMarket appear to have become the preferred option over once-popular bitcoin mixing services. (At least 13% of all proceeds of crime in bitcoin were sent through privacy wallets in 2020, according to early data from Elliptic.)
+
+Not everyone will remember the August 2016 Bitfinex hack when almost 120,000 bitcoin (worth $72 million at that time, but now around $7 billion), was stolen from the exchange.
+
+Only about 4% of the stolen bitcoin has been laundered or exchanged to date, and the vast majority has not moved at all, according to Elliptic. However, an uptick in bitcoin’s price may have tempted the thieves into shifting about $100 million worth in November 2020; in April 2021, another $774 million worth of coins were moved.
+
+Long-idle funds have been on the move. Source: Elliptic
+
+Too private?
+
+You don’t have to be a crypto libertarian to be concerned about privacy on the internet, which seems paradoxically pulled between rules like General Data Protection Regulation (GDPR) on the one hand and know-your-customer (KYC) requirements on the other.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Wasabi Wallet, an open-source software that weaves together a collection of bitcoin transactions as an obfuscation tactic, is largely administered and overseen by a private company called zkSNACKs, based in Gibraltar.
+
+This raises an interesting philosophical question, at least from the point of view of blockchain analytics firms like Elliptic, which has been busy tracking bitcoin swiped from Bitfinex.
+
+“Given that Wasabi Wallet is now facilitating a huge proportion of all illicit transactions in crypto, is what zkSNACKs doing, as a company, legal?” said Elliptic co-founder Tom Robinson in an interview. “They are effectively doing the same thing as a mixer operator would. So aren’t they going to be in the sights of regulators?”
+
+Wasabi’s stance
+
+There are a couple of important points to note here.
+
+First, the current regulatory regime applies to cryptocurrencies in custodial settings, that is to say where a company like an exchange (virtual asset service provider, or VASP, in regulator speak) takes custody and holds a user’s coins. Applications that are non-custodial, which includes Wasabi Wallet, do not fall within the regulator’s purview. (Although, it’s also worth noting that regulatory guidance is steadily creeping towards non-custodial wallets.)
+
+Second, the “zk” in zkSNACKs stands for “zero knowledge,” a branch of technology that shields any information about the user of the zkSNACKs platform from prying eyes, including from the company itself.
+
+“Police departments from all over the world have knocked on our door, investigating certain transactions,” zkSNACKs CEO and co-founder Bálint Harmat said in an interview, adding:
+
+“They have figured out through blockchain analytics companies that some of the transactions were made through Wasabi Wallet, and they ask whether we can share any kind of personal identification information with them, or IP addresses or whatever.”
+
+Harmat said to the firm’s best knowledge it simply cannot share anything because of the way the software is built.
+
+“Even if we gave someone access to all of our servers, they wouldn’t be able to gather any kind of data because we don’t have data. This is the way we build the software,” he said.
+
+Gibraltar, where zkSNACKs is based, became a hub for e-gaming back in the early 2000s is proud of its talent for keeping up with innovation including crypto. The Gibraltar Financial Services Commission (GFSC) even has a Distributed Ledger Technology Framework.
+
+The company has touted Gibraltar’s laws and regulations on its website and in interviews, without claiming it is under the government’s supervision.
+
+“zkSNACKs will protect processed data in the customer Service process adequately against unauthorized access (of third parties) in accordance with the provisions of the legal framework of Gibraltar as well as the European Union,” the website says.
+
+Hillebrand told CoinDesk: “This company was created in Gibraltar where there is clearly stated regulation, that non-custodial transactions or wallets do not fall under these [U.S.] FinCEN regulations. So according to Gibraltar law, this is absolutely legal for the company to exist and to offer the service that it does. It’s just like a communication service basically, and not a financial intermediary of some sort.”
+
+But to be clear, a spokesperson for GFSC from the U.S. public relations firm Wachsman stated unequivocally that zkSNACKs is “NOT regulated in any way by the GFSC (or any other regulator in Gibraltar).”
+
+Where the stolen bitcoin has landed. Source: Elliptic
+
+Made in Gibraltar
+
+Albert Isola, MP, Gibraltar’s minister for Digital and Financial Services, said firms regulated in the jurisdiction should report suspicious activity to the Financial Intelligence Unit (which uses another well-known blockchain analytics firm called Coinfirm).
+
+Asked if the jurisdiction’s Financial Intelligence Unit has received some or any suspicious transaction reports (STRs) relating to Wasabi Wallet and zkSNACKs, Isola said he was not aware how many such reports related to any particular firm.
+
+“I know that we have a significant number of STRs reported by the online gaming community, and also by the blockchain community. So I know that they are reporting, which is what I want to see,” Isola said, adding:
+
+“I think we're in a much better position than we were with cash, if I could use that as an example. Because at least you've got trails and tracks, you can follow. And you can see the movement of these virtual assets.”
+
+Censorship resistance
+
+Elliptic’s Robinson said it’s the very fact that Wasabi is non-custodial that makes it more attractive than previous bitcoin mixers. Wasabi’s centralized forebears ran the risk of things like exit scams – not to mention the possibility that such services could be law enforcement in disguise.
+
+Robinson likened the zkSNACKs scenario to decentralized exchange (DEX) dYdX, which runs a centralized order book but remains non-custodial and settlement happens on-chain.
+
+“Like Wasabi, dYdX never has control of funds, but because they control the order matching they can block orders if they want,” said Robinson. “Therefore, does that mean that they should be checking whether their customers are sanctioned entities, for example, and blocking transactions?”
+
+The fact that zero-knowledge proofs stand in the middle of a protocol like Wasabi Wallet does not change the fact that a firm like zkSNACKs should be aware that bitcoin inputs are coming from something like the Bitfinex hack and take responsibility, Robinson argued.
+
+“They might not know who their users are or where the funds are going, but they are helping criminals to hide their tracks,” said Robinson.
+
+Too public?
+
+A counterargument is that blockchain analytics is not an exact science to begin with.
+
+Firms that have designed and built platforms to protect the privacy of their users and be censorship-resistant are not about to start blocking those users based on heuristics, pointed out Wasabi wallet contributor Max Hillebrand.
+
+“This sort of analysis is not conclusive and these types of censorship of transactions do not work,” Hillebrand said in an interview. “It doesn’t make sense philosophically and it’s impossible to implement technically. Therefore we don’t do it.”

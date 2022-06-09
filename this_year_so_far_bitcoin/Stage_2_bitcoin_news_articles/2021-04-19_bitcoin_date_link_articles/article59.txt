@@ -1,0 +1,53 @@
+Cryptocurrency Exchanges Forge New Paths, Bitcoin ETF Applications Continue
+
+By: Keith R. Murphy
+
+This week one of the largest U.S. cryptocurrency exchanges, Coinbase, completed its initial public offering through a direct listing of its shares on Nasdaq. Separately, according to a press release, last week cryptocurrency platform Exodus opened its blockchain-based SEC-qualified public offering of common stock, with each share of common stock represented by a “Common Stock Token.” The company, which offers a multi-asset cryptocurrency wallet, reportedly has received subscriptions for nearly $60 million from more than 4,000 accredited and non-accredited investors.
+
+A well-known financial services company focused on digital assets and cryptocurrencies recently filed a bitcoin exchange traded fund (ETF) application with the Securities and Exchange Commission (SEC), according to a recent report. Another recent report noted that the SEC recently began review of a separate bitcoin ETF application by an ETF sponsor and index developer. The SEC has not yet approved any bitcoin ETFs, although multiple applications are currently pending at the agency.
+
+Binance recently issued a press release announcing that it has launched no-commission, digital tradeable tokens that allow users to buy and trade fractional stocks. The release states that the tokens are backed by a depositary portfolio of underlying securities, and that holders of the tokens qualify for economic returns, including dividends, relating to the underlying securities. A press release notes that the first stock available for use with the tokens is a well-known electric car company pioneer, and Binance also reportedly intends to tokenize Coinbase stock. Prices for the new Binance products will reportedly be settled in Binance USD (BUSD).
+
+For more information, please refer to the following links:
+
+MLB Gets In on NFT Hype, Chinese Alliance Seeks to Bring NFTs to Streamers
+
+By: Veronica Reynolds
+
+This week, a large U.S. trading card company, in partnership with a major U.S. professional sports organization, announced plans to release flagship baseball cards in the form of non-fungible tokens (NFTs), to be released on the Wax blockchain. The NFTs are set to launch on April 20, 2021, allowing consumers to “[b]uy, sell, and trade exclusive, officially licensed NFTs featuring modern-day stars in new and classic … card designs.” According to reports, the trading card company launched a low-profile test run of NFTs last year.
+
+Last week, a large Chinese mobile streaming platform launched a strategic alliance through its wholly owned subsidiary and a global digital marketing promotions, rebates and loyalty solutions provider. The alliance seeks to leverage the in-app digital currency solutions offered by the Chinese subsidiary and the loyalty rewards system offered by the digital marketing promotions provider, allowing streamers the opportunity to earn points by generating engagement. Points generated through such use could be redeemed for digital rewards, including bitcoin and retailer gift cards, and in-app digital currency. In addition, the alliance seeks to provide a pathway for streamers to launch their own NFTs and allow users to use in-app points to bid on NFT “mementos” from their favorite streamers.
+
+For more information, please refer to the following links:
+
+Token Safe Harbor Proposal Updated, IRS Memo Addresses Bitcoin Hard Fork
+
+By: Teresa Goody Guillén
+
+This week, U.S. Securities and Exchange Commission (SEC) Commissioner Peirce (not the SEC) released an updated token safe harbor proposal, which amends her original proposal from February 2020. The safe harbor would seek to provide network developers with a three-year grace period to facilitate participation in and development of a functional or decentralized network, exempted from the registration provisions of the federal securities laws. The updated safe harbor proposal makes three significant changes from the prior version: (1) to enhance token purchaser protections, the proposal adds semi-annual updates to the plan of development disclosure and a block explorer; (2) at the end of the grace period, the proposal adds an exit report requirement, which would include either an analysis by outside counsel explaining why the network is decentralized or functional, or an announcement that the tokens will be registered under the Securities Exchange Act of 1934; (3) the exit report requirement provides guidance (not a bright-line test) on what outside counsel’s analysis should address when explaining why the network is decentralized.
+
+In other regulatory news, the Office of the Chief Counsel of the Internal Revenue Service (IRS) recently released a memorandum responding to a request for tax advice from someone who received bitcoin cash as a result of the Bitcoin hard fork in August 2017. While this memorandum cannot be cited as precedent, it stated that cryptocurrency received from a so-called hard fork that altered Bitcoin’s underlying ledger to result in a split that generated bitcoin cash is considered taxable gross income. The analysis includes two hypotheticals that rely on whether the taxpayer had dominion and control over bitcoin cash to determine whether it is considered taxable income under Section 61 of the Internal Revenue Code.
+
+A recent blog post brought to light the issue of whether virtual currency is subject to unclaimed property law given that state unclaimed property laws apply to a wide variety of assets or property types, and the IRS has defined virtual currency as property (IRS Ruling Notice 2014-21). The blog post provides an overview of state views and notes that the 2016 Revised Uniform Unclaimed Property Act developed and updated by the Uniform Law Commission (ULC), included virtual currency in its definition of property that is subject to unclaimed property laws.
+
+For more information, please refer to the following links:
+
+ECB Publishes Survey on Digital Euro, Study Addresses Bitcoin Electricity Usage
+
+By: Jordan R. Silversmith
+
+Earlier this week, the European Central Bank published a comprehensive analysis of its public survey on a digital euro, confirming that, by and large, what the public and professionals most desire from a digital currency is privacy. While 43 percent of respondents said privacy is the most important feature of a digital euro, fewer than one in 10 responses of members of the public showed support for full anonymity. Security was the second-most-important issue flagged by respondents. Absent from the responses was any discussion of Bitcoin’s continually rising power consumption: according to a report by a major U.S. bank, Bitcoin is consuming 66 times more electricity than it did in 2015. However, the Bitcoin Network’s electricity usage lags far behind its price, which has risen by around 170 times over that same period.
+
+For more information, please refer to the following links:
+
+Judgment Entered in Crypto Fraud Case, Hacked Bitcoin Seen on the Move
+
+By: Joanna F. Wasick
+
+Late last week, a Nevada federal court entered a default judgment against David Saffron, an Australian citizen residing in the U.S., and Circle Society, his Nevada corporation, for running a cryptocurrency Ponzi scheme. The case was brought by the Commodity Futures Trading Commission, which alleged that Saffron fraudulently solicited and accepted over $15 million of bitcoin and U.S. dollars from at least 179 individuals by falsely promising to invest the funds and generate guaranteed returns of up to 300 percent. Rather than using the funds as promised, the defendants allegedly misappropriated the funds, including by holding them in Saffron’s personal wallet and using some to pay out redeeming investors.
+
+A former CIA director published an analysis last week of bitcoin’s use in illegal activities. The paper concludes that generalizations on the use of bitcoin in illicit finance are “significantly overstated” and cites a recent study by blockchain analytics firm Chainalysis stating that illicit activity among all cryptocurrencies was less than 1 percent of total cryptocurrency activity between 2017 and 2020. According to the paper, most of this activity consisted of “simple” scams and purchases on the dark web. For bitcoin specifically, the paper notes that illicit activity makes up less than 0.5 percent of total transaction volume. The paper also notes that blockchain ledger technology is underutilized by law enforcement and can become a highly effective crime-fighting and intelligence-gathering tool.
+
+According to reports this week, long-dormant bitcoin stolen in the 2016 hack of cryptocurrency exchange Bitfinex were seen on the move. There were 63 transactions in all, totaling over $620 million, with the largest transaction worth over $78 million. Some of the transfers were between wallets associated with the hack, although many were to newly created wallets. Efforts to identify the hacker are ongoing.
+
+For more information, please refer to the following links:

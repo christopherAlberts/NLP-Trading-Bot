@@ -1,0 +1,25 @@
+On March 11, 2020, bitcoin was valued at around $8,000. By the end of December, it had risen nearly four times to touch $29,000. And by mid-March 2021, it had further doubled to $60,000 levels. To understand this surge, let us return to the basics.
+
+In October 2008, Satoshi Nakamoto released a research article, Bitcoin: A peer to peer electronic cash system, on the internet. This was after the failure of Lehman Brothers, which, in turn, led to the global financial crisis. The 2008 crisis led to a complete breakdown of trust and raised questions about the cultural norms of the financial firms.
+
+As the existing system of fiat currencies and banking was seen as corrupt and manipulated by a few, Satoshi’s vision was the creation of a new digital currency, named bitcoin, which would enable peer-to-peer payments using cryptography and blockchains. The bitcoin system was radical as it did away with the existing central bank-banking system.
+
+Technologists may have contributed to this idea of creating a denationalised currency, but it has economic foundations. Economists such as Ludwig von Mises and Friedrich Hayek had written about denationalising currency by allowing banks to issue their own currency, returning to the era before central banks. The bitcoin project was more radical as the idea was to decentralise the currency creation and management to people.
+
+Bitcoin did become reality and also led to multiple players offering their own variant of private cryptocurrencies. However, in this frenzy, the original objective of bitcoin and other cryptocurrencies of being a currency and form of payment were soon lost.
+
+Money serves three broad functions — as a medium of exchange, unit of account and store of value. These cryptocurrencies hardly serve any of the three functions. Instead, cryptocurrencies became cryptoassets and started trading like any other security, but without any business model. In this phase, they hardly posed any challenge to existing currencies and were mostly ignored by central banks. But some of the cryptos were also used for criminal purposes, and some countries, including India, banned cryptocurrencies.
+
+In 2018, Facebook proposed a new digital currency named Libra, which could be used for payments and transfers by Facebook’s large subscriber base. Libra’s value would be more stable as it was to be backed by a reserve of fiat currencies. This new proposition suddenly woke the central bankers up. The central banks started working towards their own digital currencies, called central bank digital currencies (CBDCs). Satoshi would be disappointed, not just seeing cryptocurrencies become cryptoassets but to learn how his initiative eventually led to the creation of CBDCs.
+
+Bitcoin’s current surge is difficult to decipher. If the world was preferring bitcoin as a currency, one could still understand this frenzy. But bitcoin’s user base is still insignificant. The likes of Elon Musk have tweeted in support of bitcoin and suggested Tesla would accept payments in Bitcoin. But these are rare exceptions. Bitcoiners forget Hyman Minsky’s words on money: “Everyone can create money; the problem is to get it accepted”.
+
+The State plays a critical role in making money acceptable. The State either asks citizens to pay taxes in only State money/currency, driving other currencies out or simply bans them. Bitcoin and other digital currencies never really had a chance unless a country declared them as legal tender.
+
+The frenzy reminds one of Charles Kindleberger’s iconic book, Manias, Panics and Crashes: A History of Financial Crises. Most manias are fuelled by easy money/credit, which, in turn, is invested in new investment fads. Eventually, a policy change or firm failure turns the mania into first a panic and finally a crash. Since the 2008 crisis and more so after the 2020 pandemic, the financial markets have been flush with liquidity. This has also been a period where prices of not just bitcoin but most other asset classes have also risen beyond expectations. The big question is how and when this mania will unravel.
+
+While it is tempting for investors to be part of this mania, they should remember the words of John Maynard Keynes: “The markets can remain irrational longer than you can remain solvent”.
+
+Amol Agrawal is a faculty member at Ahmedabad University. He writes the Mostly Economics blog
+
+The views expressed are personal

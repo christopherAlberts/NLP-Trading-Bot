@@ -1,0 +1,25 @@
+The price of Bitcoin, the world’s largest and most famous cryptocurrency, tumbled to a three-week low over the weekend.
+
+Renowned for its extreme volatility, Bitcoin plummeted by 13% from a peak of circa $64,800 per unit to a low of $52,000. The digital currency has since rebounded slightly and sits at a valuation of roughly $56,400 at the time of writing.
+
+The sudden dip in value came off the back of a surge that took the cryptocurrency to a new all-time high last week, in the aftermath of the landmark Coinbase float .
+
+Here's our list of the best Bitcoin wallets right now
+
+We've built a list of the best Bitcoin exchanges around
+
+Check out our list of the best mining GPUs available
+
+The crash also affected all manner of different altcoins, such as Ether and Dogecoin, both of which recently broke previous price records.
+
+Although the cause is not crystal clear, some have speculated that a rumored crackdown on crypto laundering among major US financial institutions could have sent cryptocurrencies into a spiral.
+
+Bitcoin selling spree
+
+The downturn in the price of Bitcoin has triggered a mass sell-off, as some investors seek to limit their losses in the belief prices may yet fall further. This, in turn, has caused significant congestion on the network, sending transaction fees through the roof.
+
+According to data from Johoe-Hoenicke , upwards of 160,000 Bitcoin transactions are currently pending resolution, which is said to be unprecedented.
+
+With such intense competition on the network, the average per transaction fee has spiked to $52. Only during the last period of crypto mania, in late 2017, has transacting on the Bitcoin network been more expensive.
+
+The network congestion problem is thought to have been further aggravated by power blackouts in China, which plays host to many large Bitcoin mining operations. Over the weekend, the collective computing power of miners on the Bitcoin network dropped by almost 30%, to 105 exahash.

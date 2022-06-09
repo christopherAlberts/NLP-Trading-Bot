@@ -1,0 +1,25 @@
+Financial Times writer Pan Kwan Yuk makes the case that markets are too immature for a bitcoin exchange-traded fund (ETF). There have been dozens of proposals put forward, beginning with the Winklevoss twins’ failed bid eight years ago, which have all been summarily rejected. Typically the U.S. Securities and Exchange Commission cites limited trading activity and the potential risk of market manipulation as reason for shooting down these proposals.
+
+This article is excerpted from The Node, CoinDesk’s daily roundup of the most pivotal stories in blockchain and crypto news. You can subscribe to get the full newsletter here.
+
+Bitcoin ETFs stand as the “Holy Grail” for the crypto industry because they provide a “low-cost way for investors to access bitcoins without the hassle of dealing with digital wallets and custodians,” Kwan Yuk notes. Without writing off the possibility entirely – the industry is “too big to ignore” – she suggests the SEC take its time in determining now is the right time to introduce these financial products to U.S. investors.
+
+Related: Bitcoin’s Price May Be Lower But Other Data Looks Bullish
+
+She says, inexplicably, that bitcoin’s liquidity problem stems from its design. There will only ever be 21 million BTC – meaning in a supply crunch, “investors could find themselves locked into the shares.”
+
+Real liquidity concerns exist in bitcoin markets. It’s an asset that most frequently trades behind the walls of centralized exchanges. Each exchange is essentially its own market, and those markets can have liquidity issues depending on the time of day or number of active traders.
+
+But, taken as a whole, bitcoin is remarkably liquid. Tesla CEO Elon Musk recently tweeted his auto manufacturer sold 10% of its BTC stash to “prove” it was a liquidity alternative to cash (perhaps to convince skeptical board members.) Meanwhile, as The Block’s Frank Chaparro noted, bitcoin’s spot activity (just on a dozen or so trusted exchanges) is well over $1 trillion this month alone.
+
+Story continues
+
+When looking at the type of institutions looking to put forward a BTC ETF, like Fidelity and VanEck, it’s unlikely they would choose custodians with limited access to the market. Things can happen. The March 2020 “Black Thursday” event saw massive liquidations across the board, made worse from a supply crunch in particular assets. But that wasn’t unique to crypto alone.
+
+Related: Miner Transfers of Bitcoin to Exchanges Hit a Six-Month Low
+
+Finally, look just to our northern neighbor Canada, whose three bitcoin ETFs immediately became among the most active financial products on the Toronto stock exchange. They had no issue hoovering up BTC either.
+
+It’s hard to call any market immature that is now worth more than $2 trillion.
+
+Related Stories

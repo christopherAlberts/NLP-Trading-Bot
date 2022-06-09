@@ -1,0 +1,51 @@
+Crypto Adoption Continues in Credit Cards, OCC Approval, Restaurant Paymentsc
+
+By: Robert A. Musiala Jr.
+
+According to recent reports, a major U.S. financial services firm and Gemini, one of the largest U.S. cryptocurrency exchanges, will soon launch a credit card that gives users cryptocurrency rewards on purchases. According to a blog post, the Gemini Credit Card will allow cardholders to “earn up to 3% back on qualifying purchases in bitcoin or any of the more than 30 cryptocurrencies available on Gemini.”
+
+According to press releases issued this week, the office of the Comptroller of the Currency (OCC) has granted preliminary conditional approval to allow U.S. cryptocurrency firm Paxos to operate under a national trust bank charter. Paxos will reportedly also maintain its current New York state trust charter.
+
+This week, a major U.S. bank and two Singapore-based financial services firms announced an initiative to launch Partior, a blockchain-based payment platform to “digitize commercial bank money” and “reduce current frictions and latency for cross-border payments, trade transactions and foreign exchange settlements.” According to a press release, “Partior will be actively engaging leading banks to join the platform to establish the scale required to benefit the industry.”
+
+In a final notable item, according to reports, a major U.S. restaurant chain will soon begin accepting bitcoin as payment at most of its restaurants. Select restaurants of the chain will reportedly start accepting bitcoin as soon as this week.
+
+For more information, please refer to the following links:
+
+NFT Initiatives Continue, Advertising and Media Firms Integrate Cryptocurrencies
+
+By: Jordan R. Silversmith
+
+Earlier this week, an NBA basketball team announced that they would be auctioning a series of non-fungible tokens (NFTs), the first time a U.S. professional sports team has launched official NFTs. While NFTs for basketball and baseball have become popular, this is the first time a U.S. sports franchise has offered its own team-licensed NFTs. European sports teams are also launching NFTs: Five more Italian soccer teams recently joined a European digital soccer collectibles platform, bringing the total from Italy’s top league to 11.
+
+A major cryptocurrency exchange recently announced plans to introduce its own NFT marketplace where users can create, buy and sell NFTs. The exchange said it would operate two markets: a premium venue for top auctions and exhibitions and a standard market for anyone to mint new NFTs. The premium market will reportedly give 90% of its proceeds to artists. The feature is set to debut in June.
+
+A large U.S. media agency has announced that it will begin accepting cryptocurrency payments from its clients. While the agency plans to accept bitcoin, it will also accept whichever forms of currency its clients want. The agency reportedly based its decision on a desire to remove difficulties for clients that want to use cryptocurrency as payment for advertising services and media buys.
+
+A Canadian medical cannabis chain-of-custody compliance and data platform recently announced plans to launch a Uniswap token as part of its digital marketing campaign aimed at decentralized finance users. According to a press release, the company believes that the Uniswap community targets its key customer demographic.
+
+For more information, please refer to the following links:
+
+Cryptocurrency Enforcement Actions Continue in US, Turkey and South Korea
+
+By: Joanna F. Wasick
+
+Earlier this week, U.S. officials arrested Roman Sterlingov in connection with his running Bitcoin Fog, a cryptocurrency mixing service, or “tumbler,” that obscures the source of cryptocurrencies. The criminal charges include unlicensed money transmission and money laundering. According to the government, Bitcoin Fog, over the course of its decade-long operation, moved over 1.2 million bitcoin – valued at approximately $335 million at the time of the transactions – most of which came from darknet marketplaces and was tied to illegal narcotics, computer fraud and abuse activities, and identity theft. Also this week, the U.S. Department of Justice announced that Eric Meiggs pled guilty to conducting a scheme involving “SIM-swapping,” i.e., obtaining victims’ cell phone numbers and SIM cards by lying to their phone carriers and tricking them into transferring the data and cards. According to the government, once Meiggs and his co-conspirators stole the phone numbers and SIM cards they were able to hack into various victim accounts and steal more than $530,000 in cryptocurrencies.
+
+Late last week, Turkish officials detained dozens of people as part of an investigation into Thodex, a Turkish cryptocurrency platform accused of fraud, which froze user accounts and whose founder and CEO, Faruk Fatih Ozer, had gone into hiding at the beginning of the controversy – allegedly taking billions of dollars’ worth of user funds with him. Ozer has since resurfaced in Albania, and Turkey is reportedly working with Interpol to arrest him. The Thodex case comes on the heels of Turkey’s announcement, made earlier this month, that it was banning the use of cryptocurrencies for payments. According to reports, the Turkish government is currently contemplating new regulations for the cryptocurrency industry.
+
+In South Korea, tax officials have reportedly begun an initiative aimed at individuals who have been hiding assets using cryptocurrencies. According to recent reports, government officials recently seized approximately $22 million in cryptocurrencies from exchange accounts of 676 alleged tax offenders.
+
+For more information, please refer to the following links:
+
+Reports Detail Crypto Crime Statistics, $50M Hack, Anti-Cryptojacking Initiative
+
+By: Keith R. Murphy
+
+Chainalysis, a blockchain analysis company, recently issued its “2021 Crypto Crime Report” in which it concludes that cryptocurrency thieves are relying on a surprisingly small number of service providers to liquidate their stolen assets. Among other statistics, the report states that 55% of all funds moved from illicit addresses are run through only five fund-receiving services, and with respect to money laundering activity, just 1,867 deposit addresses received 75% of all cryptocurrency value from illicit addresses.
+
+This week, an automated market maker platform on the Binance Smart Chain revealed that its token migration event had been targeted by a hacker, resulting in a loss of approximately $50 million in bitcoin, ether and Binance coin, among other cryptocurrencies. This is the second hack of the market maker platform this month, according to the report.
+
+A major chip manufacturer and one of the largest multinational technology companies recently announced a collaboration to advance endpoint detection and response to address advanced threats, such as cryptojacking malware, through greater integration of the chip company’s threat detection technology. According to a press release, the initiative is aimed at combating a growing shift in cybercrime from ransomware to cryptojacking.
+
+For more information, please refer to the following links:

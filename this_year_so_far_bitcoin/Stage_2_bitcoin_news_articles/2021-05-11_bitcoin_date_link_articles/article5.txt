@@ -1,0 +1,37 @@
+“Virgin coins” in Bitcoin are considered pristine due to their lack of transactional history. And they are something of a chimera – a mythical concept often spoken of but rarely witnessed.
+
+We’ve heard a tremendous amount of noise about them, from miners seeking to brand themselves as compliant to bitcoin critics assailing their fungibility. Certain miners, seeking an edge, have begun to advertise or muse about OFAC (U.S. Treasury Department’s Office of Foreign Assets Control)-compliant, KYC (know your customer)-enabled, low-climate-impact and taint-free mining. Coins mined with these assurances may well be attractive to certain classes of buyers interested in the provenance of their digital assets.
+
+CoinDesk columnist Nic Carter is partner at Castle Island Ventures, a public blockchain-focused venture fund based in Cambridge, Mass. He is also the co-founder of Coin Metrics, a blockchain analytics startup.
+
+But do virgin coins, and more broadly, distinct miner-generated tiers of coins, actually exist? I’ve never seen any evidence of them, personally. Miners I know tell me they’ve never encountered buyers willing to pay a premium for virgin coins. But let’s say such a premium were to emerge. That is certainly plausible when it comes to coins provably mined by renewable energy, for instance. Establishing these coin tiers, however, is much more challenging than some might think.
+
+Pools impair virginity
+
+Almost all mining is done through pools. It allows you to smooth out the variance of finding blocks, of which there are only 144 a day on Bitcoin. On the blockchain, pooled mining looks like a coinbase transaction going to a single entity, and a distribution transaction (typically on a batched basis) to individual miners. In some cases, pools mine to exchanges directly, which then credit miners with those accounts. Thus, pooling introduces one or more hops into the process of miners actually taking delivery of their coins. Each successive transaction, especially when multiple parties are involved, increases the perceived “risk” of the coins, according to the taint theory. Thus the standard mode of mining doesn’t suit virgin coins.
+
+Fees taint the coinbase output
+
+Let’s say a miner chooses to spurn pools and goes it alone. That dramatically increases the variance of mining, and for smaller miners, would virtually guarantee that they would never win a block. Only the largest miners could do this, and their revenue would become much less predictable.
+
+There are other lingering problems. Miners aren’t compensated based solely on the issuance of new coins (6.25 BTC per block). They also collect fees from users bidding for blockspace. Over the last six months, miners have collected 10-25% of their revenue from fees. Those fees derive from units of Bitcoin already in circulation. If non-virgin coins are considered tainted, the taint would be inherited from fees.
+
+Of course, miners could always institute a whitelist and only accept transactions and fees from trusted parties. But by limiting the addressable universe of transactors, miners are vastly diminishing their revenue opportunities. Those whitelisted transactors would only have to bid against each other, and not the broader set of users, and so you’d expect lower fees. Thus imposing a whitelist on mining is economically detrimental to miners, unless the premium paid by buyers (which again, I have never actually encountered in the market) outweighs the lost fee revenue. Over time, fees will eventually fully displace the block subsidy in the composition of miner revenue, so pools or miners that are selective about whom they serve will likely be structurally less profitable.
+
+Transfers ruin distinctness
+
+Let’s say you can surmount the challenges above. You are still faced with a problem: How do you transfer your virginal or distinct coins to a buyer? You could mine directly into a single-use device encoding a private key, like an Opendime, but that exposes your keys to hardware risk. Once you have virgin coins, they aren’t good for many transactions, as the taint theory holds that the more on-chain transactions occur, the more risk is introduced into the coins themselves.
+
+If you wanted to actually transfer private keys without making an on-chain transfer, you could use a complex system like statechains. But those are still incipient and largely untested. The lack of a transaction history, which gives virgin coins their strength, is also a drawback. When it comes time to actually use these virgin coins, you are hamstrung. Moving them is to impair their distinguishing qualities.
+
+There is no coin
+
+More abstractly, individual units of Bitcoin don’t really have persistence the way that many think they do. Bitcoin is a UTXO system, which means that the Bitcoin protocol tracks quantities rather than specific units of Bitcoin. UTXOs should be understood as containers that hold varying amounts of Bitcoin. When they are spent, those containers are consumed and the quantities therein are passed on into new UTXOs. Think of it like pouring water from four glasses into six – the amount of water is the same, but you have no way of knowing which atoms from which originating glass ended up where.
+
+Bitcoin’s predecessor, David Chaum’s Digicash, by contrast, was a genuine cash-like system, in that individual units actually had persistence. Digicash tracked individual “bills” with the equivalent of serial codes, in predetermined and fixed denominations. Like with regular cash transactions, to hit a specific threshold for an expenditure, you would have to select the bills of the right sizes (or receive change).
+
+Bitcoin, by contrast, has no fixed denomination, and units have no persistence. UTXOs are consumed with each transaction. You cannot track a specific quantity of bitcoin through a coinjoin transaction with 50 inputs and 50 outputs; it’s like bars of gold being melted down and re-formed with each transfer. Bitcoin is interested in making sure users spend no more than the funds they are entitled to spend, but it doesn’t really care to identify the units being spent. Philosopher Craig Warmke clearly makes this case in his paper Electronic Coins.
+
+Thus, even if certain coins are dubbed conflict-free, renewable-mined or virginal, these specific units lose their identity once they actually begin to circulate on chain. Virgin coins might better be called sterile coins – they are largely impotent and cannot actually circulate. The moment they do, and get inserted into the chaotic mélange of churning Bitcoin UTXOs, they become just another undifferentiated quantity of Bitcoin.
+
+A more foolproof way to acquire clean coins would be to appeal to a higher authority with the power to rid them of their taint. Historically, the blockchain’s version of John the Baptist is no other than the U.S. government. When the government sells seized Bitcoin in the U.S. Marshall’s Auction, there’s no question as to the authenticity, origin and credibility of the coins. Your counterpart is the U.S. government, after all. Thus, the seized Silk Road coins that Tim Draper purchased from the state are the cleanest of all.

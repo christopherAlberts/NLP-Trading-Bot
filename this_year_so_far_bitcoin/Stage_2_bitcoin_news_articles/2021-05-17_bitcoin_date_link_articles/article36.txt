@@ -1,0 +1,27 @@
+SEC Division of Investment Management staff ("IM Staff") cautioned investors on the risks of purchasing mutual funds that take positions in the Bitcoin futures market. IM Staff highlighted (i) the speculative nature of such investments, (ii) the lack of regulation of Bitcoin and (iii) the potential for fraud and manipulation in the Bitcoin market. IM Staff recommended that prior to making an investment decision, investors consider the risk disclosures of funds with exposure to Bitcoin, in addition to their own risk tolerance.
+
+IM Staff requested feedback on its 2018 Cryptocurrency Holdings Letter, which identified requirements that would be implicated by funds investing in digital assets, specifically those concerning (i) valuation, (ii) liquidity, (iii) custody, (iv) mechanisms of arbitrage for exchange traded funds ("ETFs"), and (v) the potential for manipulation and other risks specific to cryptocurrency markets.
+
+In collaboration with the Division of Economic and Risk Analysis and the Division of Examinations, IM Staff stated that it will monitor and evaluate mutual funds and investment advisers seeking to invest in Bitcoin futures for their compliance with the Investment Company Act and related regulations. Among other things, staff intends to:
+
+assess the liquidity and depth of the Bitcoin futures market and determine whether the market is adequate to support investment in Bitcoin futures by mutual funds;
+
+determine the ability of mutual funds to liquidate Bitcoin futures positions as needed to meet daily redemption obligations, as well as the degree of leverage funds are exposed to through derivatives;
+
+supervise funds' valuations related to Bitcoin futures market holdings, and assess the impact of participation in the market by mutual funds on valuations within the market;
+
+consider the overall structure of the liquidity risk management program of a fund and any Bitcoin futures position's liquidity classification as part of a fund's compliance with respect to ICA Rule 22e-4 ("Liquidity Risk Management Programs");
+
+evaluate the effect of the persistent potential for manipulation or fraud in the underlying Bitcoin markets; and
+
+assess whether the Bitcoin futures market can accommodate ETFs.
+
+IM Staff cautioned that "investment in the Bitcoin futures market should be pursued only by mutual funds with appropriate strategies that support this type of investment and full disclosure of material risks." IM Staff also encouraged closed-end funds seeking to invest in Bitcoin futures to consult with it regarding such funds' proposed investments and compliance with the Investment Company Act prior to the filing of a registration statement.
+
+Commentary
+
+While the SEC's warning is directed towards investors, broker-dealers may take this as a warning to institute procedures to monitor sales of Bitcoin-focused funds to retail customers.
+
+Primary Sources
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

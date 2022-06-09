@@ -1,0 +1,42 @@
+Bitcoin is the first digital crypto-currency ever invented. Even though no one thought much of Bitcoin when it was first launched, today it is regarded as a revolutionary crypto-currency that has paved the way for an entirely new market – the crypto market.
+
+
+
+It features many other crypto-currencies, issued thanks to Bitcoin. However, there are a lot of crypto enthusiasts that believe crypto-currencies will eventually replace fiat currencies (traditional currencies).
+
+But, today, that's not the case, even with the increased popularity of crypto-currencies. If you're new to the world of crypto, and you're wondering what the main differences between fiat money and Bitcoin are, in this article, we cover everything that you need to know.
+
+Bitcoin payments
+
+Bitcoin is a digital asset developed by Satoshi Nakamoto (creator of Bitcoin) that also developed a peer-to-peer, decentralised blockchain technology that allows direct transactions between the users without interference from an intermediary like a financial institution. Actually, blockchain technology was created in response to the global financial crisis in 2008, and the entire system is designed to operate without a central authority.
+
+Users on the platform, known as miners, verify the transactions on the network by solving complex computational problems, and they make sure the peer-to-peer blockchain system remains safe.
+
+Miners get a block reward for their work, but mining is costly due to upfront costs they need to pay related to equipment, electricity, space, air-conditioning equipment, and also investing time and energy into solving complex math puzzles.
+
+What's more, the price of Bitcoin is driven by the ratio of supply and demand, and events like Bitcoin halving (event programmed to happen whenever 210 000 BTC are mined), which cuts in half the reward of the miners, reduces the overall supply of BTC. Moreover, Satoshi Nakamoto has fixed the supply of BTC to 21 million units. This makes Bitcoin scarcer than gold.
+
+It's also worth mentioning that data about each and every transaction is recorded, and there is complete transparency regarding the data of the payments. Additionally, the fees for the transactions are very low, and the users don't need to share any personal data on the network.
+
+How can you get Bitcoin?
+
+Today it is more profitable for miners to join mining pools or farms. Otherwise, it can be very difficult to obtain BTC in case you're mining on your own. But, there are many exchange sites where users can obtain BTC, trade their BTC for fiat currencies, and sell BTC.
+
+You can pick a site that is best for you and your budget, as there are many trading sites that offer special options to their members. For example, Bitcoin Era is a top choice for beginners because it offers auto-trading options. All you need to do is deposit a minimal amount of $250 and join Bitcoin Era now.
+
+Besides, you can meet with Bitcoin owners and make a trade for Bitcoin, or use Bitcoin ATMs to trade your traditional currencies for BTC. Business owners have an option to accept payments in Bitcoin.
+
+Major differences
+
+As we mentioned earlier, there is no central authority that controls the transactions on the network. Anyone can receive and make payments in BTC while remaining completely anonymous. Furthermore, Bitcoin has an intrinsic value, while fiat currencies are issued by governments and have attributed value by the government. Also, the inflation rate of the currencies is regulated by the central bank that controls the supply of money in circulation.
+
+Moreover, if you want to make a payment online, you need to use a debit card or credit card, and you authorise the financial institution to pull money from your account and make the online payment on your behalf. For their services, banks charge transaction fees, which are generally higher for cross-border payments.
+
+And, of course, your personal data is associated with your credit card or bank account. By contrast, Bitcoin's inflation rate is cut in half whenever the event Bitcoin halving happens.
+
+Advantages and disadvantages
+
+Fiat money is widely used everywhere in the world. You can use fiat money to purchase items offline and online easily. Crypto-currencies aren't used globally. Actually, when it comes to the business sector, there are approximately 15 000 businesses around the world that support BTC. Of course, it is expected the number will increase in the future.
+
+Because Bitcoin is a medium of exchange on a decentralised system, its price isn't directly affected by monetary policies, financial crises, or any political events that otherwise affect the value of fiat money. However, the main disadvantage of Bitcoin and other crypto-currencies is their volatile nature, which means it is very hard to predict how certain events will push the supply and demand, and what the consequences will be on the price of Bitcoin.
+

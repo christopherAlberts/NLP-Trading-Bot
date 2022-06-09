@@ -1,0 +1,17 @@
+Blockchain for Climate Foundation founder Joseph Pallant encourages “green choices” to offset the impact of the Bitcoin network’s carbon footprint.
+
+Speaking with Bloomberg about how to temper the environmental impact of cryptocurrencies, Pallant contrasted Ethereum and Bitcoin. First, he highlighted Ethereum’s migration to a less taxing proof-of-stake consensus mechanism over the next year. This could drive Ethereum’s carbon footprint down to near zero. “That’s why we’re very comfortable using it for our work at the Blockchain for Climate Foundation,” he said.
+
+However, with Bitcoin, he emphasized that it would not be using proof-of-stake. Ripple co-found Chris Larsen, recently wrote that Bitcoin’s energy-intensive proof-of-work mechanism could threaten the overall growing adoption of crypto. Because of this, mitigating Bitcoin’s impact would require other tools, Pallant continued.
+
+Offsetting Bitcoin environmental impact
+
+Because Bitcoin lacks plans to mitigate the burden of its proof-of-work consensus mechanism, Pallant suggested making “green choices.” For instance, using renewable energy as an energy source for bitcoin mining. Canadian company Digihost recently announced that over 50% of the energy for its mining operations came from renewable energy sources.
+
+Another suggestion he posed was purchasing carbon credits to offset Bitcoin’s carbon footprint. He highlighted another Canadian company, NinePoint, which offers a Bitcoin ETF. NinePoint is working with Carbon X to calculate the impact of the bitcoin in its ETF and purchase credits to offset it.
+
+Pallant emphasized that potential investors understanding the environmental impact of their individual choices would be key for facilitating a “cleaner bitcoin.” He added that incentivizing miners to share data about their carbon footprint could go a long way in this regard. Although, “they’re notoriously hard to get to share data because they really need their privacy,” Pallant admitted.
+
+Despite the reticence in sharing data, the Blockchain for Climate Foundation executive director cited widely accepted estimates of crypto’s climate impact. He mentioned a study from Cambridge University, which put Bitcoin’s carbon footprint at around 40-48 million tons of carbon emissions per year. Tesla CEO Elon Musk cited this same study when he announced that the company would no longer accept bitcoin payments.
+
+Meanwhile, Pallant added that Ethereum’s impact amounts to 12 million tons per year. However, he concluded that Ethereum’s transition to proof-of-stake would likely lead to the footprint’s neutralization.

@@ -1,0 +1,17 @@
+Bitcoin mixers are used to work on the transactions so that tracing them becomes difficult or even impossible. In general, BTC transactions are very easy to track, which makes them difficult to be used for illicit purposes. But with the use of these mixers, the original crypto address and the ones in use becomes different. This hides the personal information of the sender or receiver. And this is why they are banned in exchanges and many other regulated platforms.
+
+People think Bitcoin is anonymous
+
+.Bitcoin is not anonymous, and its transactions can be easily tracked. This is the reason that anyone doing any form of illicit activities makes use of a Bitcoin mixer. This has even been proved by the authorities of the US, which arrested a darknet-based BTC mixing service operator. Just after analyzing 10 years worth of blockchain data, they were able to find out who he was. If it’s possible to arrest the owner of a mixing service, anyone using the service can also be easily caught. SO, it’s not recommended.
+
+Note that the Bitcoin addresses that are used for transactions and their details stay up on the blockchain forever. And these addresses do not actually have the IP addresses and other personal data of the user. But often, the transactions are tied to any form of good or service they were paid for and give away the sender and receiver. Even in the case of the Bitcoin mixing service, the owner was caught as the US authorities were able to link hosting expenses paid using the currency.
+
+Becoming anonymous with mixing
+
+There are many solutions available on the internet that make it possible for anyone to go anonymous on the internet. Some of the solutions are centralized, and some are decentralized and offer similar services. But it is obvious that decentralized services are much better for privacy reasons of users. There is a good chance that a data leak of centralized exchanges could lead to loss of anonymity of the users.
+
+There are many platforms that offer decentralized solutions to this. But these are also not exactly untraceable. But yeah! the higher number of users in the same, the difficult it becomes to trace the transactions. Many wallets and exchanges also take advantage of this to make sure that the privacy of users is intact. But centralized exchanges have to comply with the government and thus require the transactions to be completely traceable. And therefore, it is not possible for the exchanges to allow for the usage of such mixers.
+
+Does it make sense for the exchanges to ban the use of Bitcoin mixers? It is not always necessary that they are used for illicit purposes. Many could make use of these mixers to get a certain level of privacy. What are your thoughts on the same? Let us know in the comments below. Also, if you found our content informative, do like it and share it with your friends.
+
+Also Read: What is Ethereum 2.0, and why is it important?

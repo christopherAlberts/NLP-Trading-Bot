@@ -1,0 +1,17 @@
+Hardware wallet manufacturer SatoshiLabs has announced a new user interface platform for its Trezor product, called Trezor Suite.
+
+SatoshiLabs, the manufacturer behind bitcoin hardware wallet product Trezor, has announced a new user interface platform called Trezor Suite, launching on July 14.
+
+In a video announcement shared at the Bitcoin 2021 event, the SatoshiLabs team explained that its forthcoming desktop app offers a new layout for users to interact with the bitcoin protected by the private keys stored on their Trezor, as well as new technical features.
+
+“It’s sort of like a new stack from the technological point of view, but also it comes with a new design,” explained Matěj Žák, head of product at SatoshiLabs, in the video announcement.
+
+Trezor Suite also offers new features like a replace-by-fee (RBF) button, which lets users replace a version of their unconfirmed bitcoin transactions with versions that pay higher transaction fees and thus incentivize miners to confirm them. And through an integration with SatoshiLabs’ Invity exchange, users can also buy, sell, exchange or spend bitcoin using the app.
+
+It also integrates anonymous web software Tor at the click of the button, and offers a “discreet mode” that obscures the sensitive information presented on the screen.
+
+The SatoshiLabs team also noted that it plans to add more features soon, like support for CoinJoin bitcoin mixing and a mobile version.
+
+Trezor will be hosting a Twitter Spaces talk with Unchained Capital and Braiins to discuss the ongoing Bitcoin 2021 conference.
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.

@@ -1,0 +1,11 @@
+Kais Mohammad, a 37-year-old man from Yorba Linda, California, was sentenced to two years in federal prison for allegedly illegally operating a bitcoin-based money transmission business, according to a release from the U.S. Department of Justice.
+
+Court records suggest that Mohammad, a compliance-trained former bank employee, operated his business “Herocoin” from 2014 to 2019, where he allegedly met clients to transfer their virtual currency into cash through in-person means or by using bitcoin ATMs.
+
+Mohammad was said to have operated multiple Bitcoin ATMs that did not require identifying information necessary for anti-money laundering protocols, according to the DOJ.
+
+Mohammad purportedly knew his client’s funds were sometimes obtained through illegal means or used in illicit dark web activity but did not report it, nor did he properly register his business with the Financial Crime Enforcement Network (FinCEN), a U.S. federal agency tasked with monitoring financial transactions for national security purposes.
+
+Mohammad allegedly exchanged between $15 million to $25 million through his money transmission business and had to give up 17 ATMs, 18.4 BTC, and 222.5 ETH during the investigation.
+
+Bitcoin ATMs are becoming more prevalent across the United States — with over 20,000 currently active in the U.S. — and the U.S. Drug Enforcement Administration reports they are “increasingly” used to launder money, especially as a result of the COVID-19 pandemic. However, these particular ATMs are largely hidden from public view, according to the DEA’s report.

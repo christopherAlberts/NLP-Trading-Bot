@@ -1,0 +1,45 @@
+Get daily crypto briefings and weekly Bitcoin market reports delivered right to your inbox.
+
+Key Takeaways Bitcoin dropped to lows of $30,000 on Coinbase, dipping as low as $28,500 on some derivatives exchanges like BitMEX.
+
+Many lowe-cap coins crashed around 50% from daily opening due to large-scale liquidations.
+
+On-chain analysis suggests that long-term investors are bullish despite the crash.
+
+Share this article
+
+Bitcoin’s 30% plunge yesterday echoed with the beginning of the 2018 bear market. Still, on-chain data indicates that long-term holders have strong hands.
+
+Maximum Pain in Bitcoin Prices
+
+Bitcoin dipped 30% yesterday as $800 billion in valuation was wiped out across the broader crypto market. According to TradingView, the total market capitalization of cryptocurrencies fell to lows of $1.2 trillion from an all-time high last week.
+
+In the past, such downtrends have been seen only four times since Bitcoin’s top in 2017, with three of the four occasions leading to a prolonged bear market.
+
+The first was on Dec. 24 when Bitcoin dropped drastically after touching a top of $19,600 five days earlier.
+
+The asset dipped two months later then hit lows of $4,000 in Nov. 2018. On both occasions, the move kickstarted a bear trend.
+
+Many other compelling arguments find relevance with the 2017 top. For instance, Bitcoin’s dominance over the cryptocurrency market is 44%, which is a similar level to when it topped out in late 2017.
+
+Furthermore, the euphoria caused by the Coinbase direct listing seems co-incidental with CBoE futures debut in December 2017. In retrospect, the surge of so-called “dog tokens” like Shiba Inu was another palpable top sign. Nevertheless, following the “diamond hands” narrative in crypto, on-chain data suggests that old investors are still holding onto Bitcoin.
+
+On-chain Analysis Highlights Faith in BTC
+
+Before the top in Dec. 2017, the coin days destroyed (CDD) metric saw a significant spike in activity. The CDD metric tracks the time when Bitcoin was last moved in an address multiplied with the value transferred. Older addresses and large BTC transactions cause a spike in CDD.
+
+While there was a considerable sell-off in Q3 of 2020, the CDD in the last two months has been 50% less than the months before the negative trend in 2017. This suggests that long-term investors have not moved their assets in recent months.
+
+Moreover, a closer look at the movement in the last two days points to the “buy-the-dip” action by whales. Crypto analytics firm Chainalysis noted that “Bitcoin inflows into exchanges are relatively low compared to past sell-offs.” Inflows are an indicator of fear in the market following a large drop. Low inflows indicate optimism among holders.
+
+The firm also found that whales—classified as holders with more than 1,000 BTC—added 34,000 Bitcoin to their addresses on Tuesday and Wednesday, having sold 51,000 the previous week.
+
+The wipe-out of the futures market, which saw a huge $8.6 billion in liquidations, is a positive sign for more upside in crypto prices. This is because a highly leveraged market is far riskier, and prices tend to deviate from organic growth. Ulrik K. Lykke, Executive Director at crypto hedge fund ARK36 said:
+
+“In terms of Bitcoin’s outlook, things may be looking grim right now, but historically this is just yet another hurdle for Bitcoin to overcome and a small one compared to what it has braved in the past.”
+
+Lykke added the performance is consistent as “in 2017, price dives in the range of 35%+ happened several times before the price topped out.” Bitcoin dropped over 30% from local tops multiple times during the last run-up in 2017.
+
+The evolution of DeFi on Ethereum in promoting financial use cases like borrowing and trading and the new-found institutional interest has strengthened the market. Nevertheless, prices could be volatile over the coming weeks as less credible projects are weeded out from the market.
+
+Share this article

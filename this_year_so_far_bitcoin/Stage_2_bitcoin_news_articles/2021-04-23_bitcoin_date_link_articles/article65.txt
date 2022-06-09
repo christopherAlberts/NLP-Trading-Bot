@@ -1,0 +1,153 @@
+The $7-trillion Westlake, Texas brokerage previously said its RIAs were indifferent to digital assets ; now Schwab CEO Walt Bettinger admits clients are excited. .
+
+April 24, 2021 — 3:04 AM by Oisin Breen
+
+Brooke's Note: Schwab and Fidelity can be relatively assured that Amazon and Facebook won't take them on anytime soon because of one word -- 'regulation.' Say what you like about the online brokers' technology, or lack thereof, but these companies have a hard-earned core competency in reading what is doable in financial services, when every action is being policed. It's a lot to ask a Mark Zuckerberg or Jeff Bezos to freelance in that discipline. Even with its super stripped-down model, Robinhood is on a very steep learning curve with the SEC, never mind Massachusetts. Schwab and Fidelity leaders have taken divergent paths to provide cryptocurrency services. But Schwab is now inching toward Fido and even hinting it will leapfrog the pioneer. But, clearly, both firms are watching SEC Chair Gary Gensler like hawks to assure that their regulator-reading track records -- and brands -- remain untarnished.
+
+2 Comment s
+
+Only 18 months ago, Charles Schwab & Co. said crypto was off its "radar." Now, CEO Walter Bettinger is a convert, but he's holding off on the zealousness just yet.
+
+He told analysts the Westlake, Texas, company is ready to crash the cryptocurrency market in a "highly competitive" and "disruptive" way-- just as soon as federal regulators figure out how to define it.
+
+Rewind to Sept. 2019, and Schwab was warning investors that cryptocurrencies were "purely a speculative instrument." See: Schwab dismisses crypto currencies as 'speculative' and too insignificant for its RIA platform as rivals stake out turf for the coming boom... or is that bust?
+
+Gary Gensler: I think the bird’s a duck.
+
+But during the firm's spring update call, Bettinger said he is ready to charge into the market in a way that is commensurate with its size and legacy.
+
+"If the company decides to participate in the crypto market we will be highly competitive, we will be disruptive, and we will be client oriented," he said
+
+Schwab's big change is presumably in response to its clientele. Before, it said clients were "indifferent" to crypto. Not so much now.
+
+"We can certainly see some of the client excitement," Bettinger told analysts.
+
+The company's approach, he said, is to look closely, but cautiously at the crypto market until the Securities and Exchange Commission (SEC) makes clear how it will regulate.
+
+Sources say the SEC has not clarified whether it regards cryptocurrency is a security or an actual currency.
+
+Schwab currently has a help-wanted advertisement on its jobs website seeking a compliance director. The first qualification named in a series of bullet point is "establishing a virtual currency compliance program."
+
+The job applicant must be "confident with ambiguity," it adds.
+
+Fuzzy asset
+
+The SEC's quandary is something akin to defining the number of angels that can dance on the head of a pin.
+
+Dr. James Stroud: 'The SEC has never given concrete guidelines.'
+
+The agency is trying to come up with black-and-white regulations that can be applied to a fuzzy financial asset class.
+
+"We recognize well what's going on. We would like to see more regulatory clarity, and if and when that comes, you should expect Schwab to be a player in that space in the same way it has been in other investment opportunities across the spectrum," Bettinger said.
+
+"Schwab has a massive client base and missteps could expose both the firm and its clients to greater risk," says independent wealth management consultant Greg O'Gara, via email.
+
+Today the company custodies a record $7.07 trillion, including $3.1 trillion on behalf of RIAs. Its quarterly revenues also surged 80% to $4.7 billion, up from $2.6 billion in Q1 2020, according to its just-released earnings. See: Defying merger doubters, Schwab adds staggering $1.1 trillion RIA assets.
+
+"Additional clarity from regulators would be important before we would consider offering a retail type trading experience on crypto," Bettinger added.
+
+Clarity lacking
+
+Schwab's trepidation tracks to a core crypto issue -- whether they are foremost currencies or securities, says Dr. James Stroud, lead-developer of private cryptocurrency, Stealth, via email.
+
+Brad Garlinghouse says the SEC's suit against XRP is a case "against crypto at large."
+
+"Schwab wants to be able to offer their clients the ability to invest in specific cryptocurrencies without worrying that the SEC will later declare these as securities," he explains.
+
+"The SEC has never given concrete guidelines for how [it] determines which cryptocurrencies are securities," he adds.
+
+The Securities Act of 1933 defines a security quite broadly, but the US Supreme Court has previously employed what's known as the Howey test. It defines a security as an "investment contract" leading to profits derived by the actions of a third party.
+
+Discretion is the better part of valor if you are Schwab, says O'Gara.
+
+"When the benefits and demand of having greater access to this asset class outweighs the risk of of uncharted territory, I would expect the company to move decisively. In Schwab's typical style, that move is likely to be disruptive," he explains.
+
+But in a move that defines its risk-aversion, retail investors have no way to trade the asset on Schwab's platform.
+
+Race to crypto
+
+Yet caution has its own risk in cryptocurrency.
+
+Mary Jo White: [The SEC is] dead wrong legally and factually.
+
+Schwab's chief rival, Fidelity Investments, moved fast and early on crypto, setting up a subsidiary custodian, Fidelity Digital Assets (FDAC) to handle the investment. See: Fidelity Investments signals it's all in on blockchain-based currency.
+
+Today FDAC only supports Bitcoin, but it will add support for Ethereum later this year, the firm confirmed last week.
+
+Salt Lake City, Utah rebalancing vendor AdvisorPeak also just gave RIAs, including those with assets custodied at Schwab, a means to buy, sell, trade and hold 100 different cryptocurrencies. See: Envestnet, Orion and Schwab will all launch crypto capabilities soon enough, insiders say, but Damon Deru just beat them all to market with more than a hack.
+
+Top rebalancing vendors like Orion Advisor Technology and Envestnet | Tamarac will likely soon follow suit, sources state.
+
+Other RIA crypto vendors include SMA vendor Eaglebrook Advisors, which has already brought in $70 million in RIA crypto assets, and $49.1 billion AUM crypto fund shop, Grayscale, which sells 15 crypto funds.
+
+Meanwhile, Bettinger also hinted that Schwab could take ground as the SEC gives it -- if the SEC, for example, should greenlight crypto-based ETFs.
+
+"We’re keeping our eyes [on] ... whether there’ll be an investor oriented product, ETF, or another that will deliver crypto investing to a larger part of the market than can get it today," he said.
+
+At least eight firms have applied for permission to manage crypto ETFs, including WisdomTree, VanEck, and Fidelity Investments. But so far, the SEC has blocked over a dozen applications. See: Brooke's Bits: Why Fidelity's Bitcoin ETF application might have a shot.
+
+Intensified scrutiny
+
+Gary Gensler, President Joe Biden's pick for SEC chairman, who was confirmed only nine days ago (Apr. 14), is approaching cryptocurrency a lot like the Supreme Court's approach to pornography.
+
+Greg O'Gara: Missteps could expose both the firm and its clients to greater risk.
+
+He can't define it, but he knows it when he sees it.
+
+“When you quack like the duck, when you swim like the duck, when you walk like the duck ... I think the bird’s a duck," he said, during a 2018 MIT blockchain conference.
+
+Gensler is a notable cryptocurrency buff. He taught a course at MIT on blockchain, digital currency and innovation and as chair of the Commodity Futures Trading Commission came out in favor of defining XRP as a security in 2018.
+
+But he vowed during congressional hearings on his nomination to continue the agency’s crackdown on cryptocurrency to protect consumers from fraud and manipulation, according to CFO.com.
+
+The SEC has intensified its scrutiny of digital assets since finding in 2017 that some tokens traded like securities, making them subject to federal laws.
+
+Gensler said Bitcoin and other cryptocurrencies “have brought new thinking to financial planning and investor inclusion.” But as SEC chair, he would work with his fellow commissioners to “ensure investor protection.”
+
+Gensler will likely have to deal with legacy thinking when he dives into the issue.
+
+Ripple row
+
+Former SEC Chair Jay Clayton stated in 2019 that Bitcoin was not a security. He noted instead that it was a legitimate and decentralized currency, but suggested many digital assets, such as Ripple (XRP), could easily meet the definition of an investment contract.
+
+Hester Peirce has pressed for a three year "safe harbor" status for cryptocurrencies.
+
+The SEC filed an action last December against Ripple, one of the larger cryptocurrencies, with a market-cap of $49 billion.
+
+It claims XRP is an unregistered security, since it is created, distributed and traded by San Francisco-based Ripple Labs.
+
+Three of five SEC commissioners approved the regulator's suit, and Gensler also supported defining XRP as a security in 2018.
+
+Coinbase delisted Ripple after the SEC filed its suit, sparking a rout that reduced its value by more than 60%. Ripple holders filed to intervene in the SEC suit as a third-party defendant, Apr. 19.
+
+Uncertainty over the status of cryptocurrencies also extends to another SEC alumni.
+
+Where Gensler has suggested he sees XRP, for instance, as a security, Ripple defense attorney and former SEC Chair Mary Jo White says the SEC has got it utterly wrong.
+
+"There’s no way to sugarcoat it. They're dead wrong legally and factually," she told Fortune.
+
+Safe harbor
+
+Judge Sarah Netburn, who presides over the XRP case, also added to the uncertainty surrounding the SEC's first major crypto suit, which Ripple CEO Brad Garlinghouse calls a case "against crypto at large."
+
+Jay Clayton first stated that Bitcoin was not a security in 2019.
+
+Netburn recently noted that XRP has a "utility" beyond profit-seeking and provided Ripple access to internal SEC discussions in early April. She blocked the regulator's request for Ripple's banking records.
+
+Industry observers expect Bitcoin will likely remain free from securities regulation, because it is decentralized, has no initial coin offering and no enterprise backer.
+
+That said, its non-security status has no formal basis in SEC rules.
+
+SEC commissioner Hester Peirce has lobbied to grant cryptocurrencies "safe harbor" for a three-year period, limiting their oversight to the antifraud provisions contained in the 1933 Securities Act.
+
+Market data
+
+Today a Bitcoin trades at roughly $49,000 giving the currency a $917 billion market cap -- a surge in value of 644% in the past twelve months.
+
+In April 2020, one Bitcoin traded at approximately $6,877 -- a price that professionals, even then, considered high.
+
+Bitcoin remains hugely volatile. In mid April, it traded around $63,000, with a market-cap of $1.2 trillion. In one week, it has fallen 24% from a record high of $63,588.20.
+
+Coinbase Global, Inc., which operates the largest cryptocurrency exchange platform, has also seen its stock gyrate widely.
+
+Although its Apr. 14 IPO drew huge interest at $250 a share opening price, the stock swiftly plummeted from a brief high of $429.54 to its present level of $291.02, which values the company at $58.5 billion.

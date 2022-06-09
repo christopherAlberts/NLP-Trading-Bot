@@ -1,0 +1,33 @@
+LONDON, Jan. 28, 2021 /PRNewswire/ -- Bitcoin SV's (BSV) Scaling Test Network (STN) hit a new record this week, processing over 9,000 transactions per second at one point on January 26. Its previous record was ~6,500 tps in December 2019. Despite being a testing network, the STN shares most of its technical capabilities with the BSV mainnet—once again disproving the notion that Bitcoin can't scale on-chain.
+
+To put that into perspective, the BTC network (which many still incorrectly insist on referring to as "Bitcoin") limits its block sizes to 1-4MB, permitting a maximum 7 transactions per second (it's more like 3-4). That's not seven thousand… but seven. No blockchain asset has a hope of gaining use as a world currency, global payment settlement layer or for everyday payments at such a low capacity, and it can cost over $10 or even $20 to send a single BTC transaction of any amount.
+
+How did the Scaling Test Network achieve the new record
+
+STN Operations Manager Brad Kristensen told CoinGeek that his team thinks over 2,000 tps is sustainable on the STN, going by the data they've collected. Just recently they observed an average of around 1.9 ktps (or 1,900 tps) over an eight-hour period. You can monitor STN statistics yourself at this site.
+
+"We have a few ideas on how to increase this further without code changes but will have to wait and see with some more testing," Kristensen said.
+
+What improvements have been made to the STN since the last record was set? The network is now in its fourth iteration (aka v4, running since November 2020) and is on software version 1.0.7. The previous 6.4 ktps occurred on STN v2.
+
+What improvements have been made to the STN since then to increase the capacity? Kristensen said:
+
+"The performance improvements in 1.0.7 played a big role here. The care and dedication from the SV node team is second to none. The improved handling of chained transactions appears to be paying dividends. We still want to play around here a bit more, with the recent increase to support chains of 1,000 by default."
+
+"We have a lot of levels to test to find the optimum throughput, assuming our only goal is chasing peak tps. However, the sustained rate is more important I think and where the real power of BitCoin is. Sustained tps over long periods is where we hope to see continued repeatable gains in the year ahead," he added.
+
+BSV mainnet also has the capacity
+
+Kristensen added that it was important to remember the BSV mainnet already has the capacity to handle similar transaction volumes, but at present lacks the demand for it. However the goal of the STN has always been to try and reflect the mainnet as close as possible, just at larger scale.
+
+Was there anything special about the transactions during the record peak time this week? Kristensen said it was due to a number of factors:
+
+"They are mostly 'standard' transactions, however recent testing has involved using increasing chain lengths. Starting at 2, then 12, moving to 25 and beyond… This means, at chains of 12, if we generate a million UTXOs, each of those million will have 12 children and so on. We are also using the new RPC method further improved with v1.0.7 for handling bulk transactions, a feature miners will no doubt make use of with clients they have direct agreements with, and transactions that enter their networks through Merchant API."
+
+The goal of the STN has always been to try and reflect mainnet as close as possible, just at larger scale. Keeping that in mind, mainnet already has this capacity, all it lacks is the volume.
+
+With more big data projects coming online in 2021 to test its limits with nanotransactions, and the Bitcoin SV node team is available to assist new projects looking to process large amounts of data on a blockchain that actually scales. The challenge now, Kristensen said, is to attract more enterprise-tier users.
+
+"The STN is our proving ground, we know mainnet could do it, because the STN can. It's down to the miners to be ready to embrace Bitcoin at enterprise scale when that volume arrives. We hope that the STN not only can show it can be done but also offer guidance if needed to miners coming over from scale challenged chains."
+
+SOURCE Bitcoin SV

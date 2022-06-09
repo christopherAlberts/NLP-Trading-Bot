@@ -1,0 +1,25 @@
+Given the current trends in Bitcoin mining, Chinese researchers estimate that the energy consumption from this process in their country alone will peak in 2024 at 296.59 Twh (terawatt-hours) and generate 130.5 million metric tons of carbon emission.
+
+As Bitcoin attracted considerable amount of attention in recent years, its underlying core mechanism, namely blockchain technology, has also quickly gained popularity.
+
+Due to its key characteristics such as decentralization, auditability, and anonymity, blockchain is widely regarded as one of the most promising and attractive technologies for a variety of industries, such as supply chain finance, production operations management, logistics management, and the Internet of Things.
+
+Despite its promises and attractiveness, mining Bitcoin requires constantly expending and/or expanding computer processing power, which is associated with increasing energy consumption.
+
+In new research, Dr. Shouyang Wang from the University of Chinese Academy of Sciences and colleagues investigated carbon emission flows of Bitcoin blockchain operation in China using a simulation-based Bitcoin blockchain carbon emission model.
+
+They found that without any policy interventions, the annual energy consumption of the Bitcoin blockchain in China will peak in 2024 at 296.59 Twh and generate 130.50 million metric tons of carbon emission.
+
+These amounts exceed the entire annual greenhouse gas emissions outputs of entire mid-sized countries such as the Czech Republic and Qatar.
+
+“Policy interventions are critical to reduce these impacts,” the researchers said.
+
+“Feeding different scenarios into the model, however, we found that current policies like carbon taxation are not effective at curbing emissions from the Bitcoin industry.”
+
+“Instead, we found that individual site regulation policies for Bitcoin miners represent the best way to alter the current energy consumption structure and reduce future emissions from the blockchain operation.”
+
+A paper on the findings was published in the journal Nature Communications.
+
+_____
+
+S. Jiang et al. 2021. Policy assessments for the carbon emission flows and sustainability of Bitcoin blockchain operation in China. Nat Commun 12, 1938; doi: 10.1038/s41467-021-22256-3

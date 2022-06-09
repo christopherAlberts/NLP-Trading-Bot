@@ -1,0 +1,43 @@
+Blockchain & Cryptocurrency , Fraud Management & Cybercrime , Fraud Risk Management
+
+Iran Devises Way to Convert Oil to Bitcoin
+
+Report: Oil Provides Electricity for Cryptomining Servers
+
+Iran is using its abundance of oil to generate electricity that powers a massive bitcoin cryptomining operation that enables the country to turn its greatest natural resource into money, offsetting some of its income lost as a result of U.S. and EU economic sanctions that ban imports from the country, according to cryptocurrency analysis firm Elliptic.
+
+See Also: Live Webinar | The Role of Passwords in the Hybrid Workforce
+
+Iran is home to about 4.5% of the world's bitcoin mining operations, and some of them are operated by Chinese firms, Elliptic says. Since 2019, these operations have generated hundreds of millions of dollars in revenue for Iran, which the country has used to buy goods and services that the economically strapped nation could otherwise not afford.
+
+"In 2019, Iran officially recognized cryptoasset mining, later establishing a licensing regime that required miners to identify themselves, pay a higher (but still very low) tariff for electricity and to sell their mined bitcoins to Iran's central bank. Thousands of unlicensed mining farms have subsequently been identified and shut down - including in mosques, which receive free electricity," says Dr. Tom Robinson, Elliptic's co-founder and chief scientist.
+
+Elliptic, using its proprietary cryptocurrency tracking software, found many parties dealing with the Iran-based mining operations are in the United States, making them liable for potential punishment for violating the Trading with the Enemy Act, according to the report. That law prohibits doing business with an organization that is located in a country that has been sanctioned by the federal government.
+
+Bitcoin miners use their servers to process transactions and secure the bitcoin network using specialized hardware, collecting new bitcoins as payment, according to bitcoin.org.
+
+The bitcoin protocol is designed in such a way that new bitcoins are created at a fixed rate, so as more miners join the network, it becomes increasingly difficult to make a profit, and miners must seek efficiency to cut their operating costs, The Bitcoin Project says.
+
+The Iranian Bitcoin Mines
+
+Robinson notes that Iran's abundance of cheap power has attracted businesses from other nations, particularly China, to obtain a bitcoin mining license from the government.
+
+"These companies have described establishing good relationships with 'the army in Iran,' and one particularly large facility in the Rafsanjan Special Economic Zone was reportedly built in collaboration with a 'military organization,'" he says.
+
+Elliptic estimates that as of April 2020, cryptomining businesses in Iran were responsible for 4.5% of all bitcoin created, based on data from the Cambridge Center for Alternative Finance. The company says this requires about 600 megawatts of electricity, which would require the equivalent of 10 million barrels of oil per year to generate. The power generation statements came from Iran's state-controlled power generation company in January, as reported by the Financial Tribune.
+
+The 10 million barrels represent about 4% of Iran's total oil exports for 2020, Elliptic says.
+
+"The Iranian state is therefore effectively selling its energy reserves on the global markets, using the bitcoin mining process to bypass trade embargoes," Robinson says. "Iran-based miners are paid directly in bitcoin, which can then be used to pay for imports - allowing sanctions on payments through Iranian financial institutions to be circumvented."
+
+Iran's president, Hassan Rouhani, has access to an Iranian government think tank that regularly publishes reports highlighting the use of cryptoassets to avoid sanctions, Robinson says.
+
+Mining bitcoin is not illegal. But some countries, including China, are cracking down on such operations. Although some Chinese companies are involved in Iran-based bitcoin mining, China's Financial Stability and Development Committee said in a Friday statement that it intends to place safeguards on mining operations to protect its economy from bitcoin valuation fluctuations.
+
+The Risk for Bitcoin Users
+
+Any financial institution dealing in bitcoin faces a chance that the cryptocurrency was generated in Iran, opening them up to potential federal legal issues.
+
+"If 4.5% of bitcoin mining is based in Iran, then there is a 4.5% chance that any bitcoin transaction will involve the sender paying a transaction fee to a bitcoin miner in Iran," Robinson says.
+
+He recommends that financial institutions check for crypto deposits originating from Iranian miners who are seeking to cash out their earnings.

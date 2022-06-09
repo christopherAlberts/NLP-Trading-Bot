@@ -1,0 +1,25 @@
+Bitcoin is losing altitude on Monday amid weak buying pressure from institutional investors.
+
+The crypto market leader fell as low as $54,790.33 Monday morning, having reached a record high of $61,556.59 on Saturday, according to CoinDesk 20 data. At press time, a small bounce to $55,786 was seen.
+
+“The failure to establish a foothold above $60,000 and the decline is likely the result of the flat-to-negative Coinbase premium – a major bellwether for institutional demand,” according to Ki Young Ju, CEO of blockchain analytics firm CryptoQuant.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+CryptoQuant’s Coinbase premium indicator measures the spread between Coinbase’s BTC/USD pair and Binance’s BTC/USDT pair. A positive spread implies increased demand from high-net-worth investors and institutions, as these entities prefer to trade via regulated exchanges with over-the-counter desks such as Coinbase.
+
+The premium was negative over the weekend when bitcoin broke above $60,000 and remains marginally positive at press time, implying weak institutional demand.
+
+Coinbase Premium Source: CryptoQuant
+
+The spread has been significantly higher previously as prices surged above the major psychological levels of $20,000, $30,000, $40,000, and $50,000. Bitcoin has charted a six-fold rally over the past six months mainly on the back of increased institutional participation
+
+“I think [we’ll see bitcoin] short-term bearish or going sideways until there’s significant institutional spot inflows in Coinbase,” Ju said.
+
+“Whale addresses holding 1,000 or more bitcoin have been selling, this does not mean the bull run is over, it just means that profit taking is happening,” according to market analyst Lark Davis.
+
+Meanwhile, Patrick Heusser, head of trading at the Swiss-based Crypto Finance AG, says the latest pullback is healthy, as the breakout above $60,000 was mainly driven by leveraged traders. “The perpetual futures funding rate and futures premium was super stretched,” Heusser told CoinDesk.
+
+Joel Kruger, currency strategist at LMAX Digital, told CoinDesk an overextended market has pulled back on the back of more reports of a possible cryptocurrency ban in India.
+
+Bitcoin may suffer a deeper drawdown in the short run if the U.S. bond yields continue to rise, destabilizing stock markets. Technical studies such as the weekly chart relative strength index are also warning of a notable price pullback.

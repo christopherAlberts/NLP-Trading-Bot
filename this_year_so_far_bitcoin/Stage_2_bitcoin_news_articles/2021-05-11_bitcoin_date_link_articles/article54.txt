@@ -1,0 +1,177 @@
+In episode four of PitchIt: the fintech startups podcast we talk with Cheese Co-Founder Zhen Wang.
+
+Cheese is a digital bank focused on the Asian American community. One thing I found striking in talking with Zhen was the importance of language in financial products. Immigrants have many barriers when they enter America, one such barrier is the fine print for various financial products. These pamphlets are not written clearly and they tend to hide fees for users. Cheese is aiming to help users better understand products by translating the print into their native language.
+
+The co-founders of Cheese experienced these very issues firsthand, which allowed them to fully grasp the problem and build an emphatic solution. Zhen also discussed some of the early growth trends they are seeing with users and the broader trend of building an identity driven business.
+
+In this podcast you will learn:
+
+Download a PDF of the transcription of Podcast No. 4. Zhen Wang
+
+Click to Read Podcast Transcription (Full Text Version) Below
+
+PITCHIT FINTECH STARTUPS PODCAST NO. 4–ZHEN WANG
+
+Welcome to PitchIt, the fintech startups podcast, one founder, one startup, one investor at a time. I’m your host, Todd Anderson, Chief Product Officer, LendIt Fintech.
+
+(music)
+
+Todd Anderson: In Episode 4, we talk with Zhen Wang, Co-Founder of Cheese. Cheese is a digital bank focused on the Asian American community. You know, founders usually share an experience that helps them formulate an idea and that was certainly the case with Cheese. I spoke to Zhen about his journey to Cheese, the impact language can have in financial services and a little tennis for good measure. I think we had a lot of fun and I hope you all enjoy the show.
+
+(music)
+
+Welcome to the podcast, Zhen, how are you?
+
+Zhen Wang: Good, I’m doing well, Todd.
+
+Todd: So, I’d like to kickoff and just give the audience, you know, some background on you, kind of what you did before you got to Cheese and kind of what brought you to where you are today. So, go ahead and introduce yourself to the audience.
+
+Zhen: Yeah. Hi, everyone. My name is Zhen Wang and currently Co-Founder at Cheese. So, prior to Cheese and it’s considered a startup, I was in mainstream corporate. I spent most of my career in Ernst & Young, the Big Four accounting firm and I’ve spent about 80% of the eleven years in the United States market and also two years in China markets, both in tax and accounting, serving all of the clients, little bit financial but not quite banking. Also had a two-year stint with Goldman Sachs in New York and also in Salt Lake City and served on the Investment Finance Division looking over some of the investment tax strategies with Goldman Sachs, you know, self-owned entities. So, that’s kind where I spent most of my life in the corporate environment.
+
+When I went to China for the two years as an expat with EY, I had a really full understanding of the different economies, the different systems and I felt that, you know, I wanted to empower myself into something that is more unique on the business side of it really just to continue to educate myself outside of the corporate environment and that’s why, you know, I wanted to do a startup for myself.
+
+Todd: So, where did you and your co-founders come up with the idea for Cheese and why launch now with your idea.
+
+Zhen: Yeah. So, we wanted to provide a user with some better financial solutions. All our co-founders are Chinese or Asian immigrants and we personally experienced how difficult it is, especially for immigrants in the United States and want to immerse himself in the better financial systems with different products like debit cards, credit cards, loans or mortgages and things like that. But, when you initially came over, you know, aside from the culture shock or the language barriers and the banking system dramatically different from where you grew up as well, we saw a lot of the challenges for users to be able to enjoy and also even just to qualify at the get-go to be able to use those financial products.
+
+That’s why we want to ….initially, our idea was try to help people to easily transfer funds between the home countries and here in the United States, but when we did due diligence and, of course, one of our co-founders is heavy on the product side of it, after doing some due diligence and user interviews we felt that by issuing a debt card it can also help us achieve the original idea faster, but also in a more structured steps, right. We’re talking about operations and compliances, it’s not just they build on a software or website you can, you know, get in, we’re all users, it’s a slightly different environment.
+
+Todd: We’ll move to kind of a little bit more focus on what you offer, but quickly, what are some of the core issues that Asian consumers face. So they come to America, regardless of where they come from, China, Japan, whatever country…..I read, you know, one of your co-founders was constantly rejected though he had a high credit score so what are some of those core issues that you’re looking to solve let’s say a traditional firm doesn’t, you know, basically offer your community and immigrants coming in.
+
+Zhen: Right. The core issues that the Asian consumers/ the Asian community face with traditional banking products is a lot of the availability of the information that maybe most Americans think that this is a given, it’s really not known to a lot of the Asian immigrants because we don’t really hear too much. We might be experienced with, you know, banking, traditional debit card or credit card product, but …for example, there are fees, a lot of fine prints and also a lot of the time who qualifies and who does not qualify, we’re not going to spend too much time trying to dig into those information. It’s normally when things happen and then we get to know, I guess, slap on the fees that have been charged. So, we, again, wanted to help breed a healthy habit of using the banking product as a service to making sure that we bring those products and services to users without having to, you know, wade through different waters or different services or to spend too much time making it available to them.
+
+So, that’s kind of what I think where our customer segment currently are facing, these type of challenges. I think it’s more important to point out that although our product is tailored for Asian users, of course, when we designed it, anybody is open to use it. We’re just thinking that it is more the critical for us to help the Asian community and build something that is good for them and then we think that by giving something that’s good for them and for ourselves, the other geographical users will be able to enjoy the same benefits. Hopefully, we’ll find this platform useful to them as well.
+
+Todd: You find that it’s important that, you know, when a user, say the Asian user comes to the product that they see the founding team is also Asian? On top of that, they also offer the language that potentially makes it easier for them to understand fine print versus, you know, I’m obviously an American. I’ve lived here all my life, I get a credit card and there’s like an 87-page template that I don’t read. And so, I can imagine that’s significantly more difficult for, you know, the Asian or whatever the immigrant community might be, but also seeing someone that looks like them could also help, in terms of at least give empathy towards the product.
+
+Zhen: You’re correct. Now, because we’re offering a financial product and a lot of the time when you come about the financial product is you also have to build in the trust factor. So, it deals with their money, it deals with their wallets so we want to say hey, we understand your pain, we went through it and everything is financially compliant so with the regulators’ and what not and also, we’re bringing this product to your doorstep making sure that you easily can understand what a fine print is. Not only do we translate all of the fine prints into English, but we also provide customer services and the foreign languages as well. They currently only in Chinese, we’re looking into Korean and also Hindu for India, for example, markets as well.
+
+You know, I think having an Asian founder….while it is helpful, but I don’t think that an Asian founder is something that is critical. I think the three of us, we just kind of hit it off really well with each other, kind of compliment our skill sets and that’s how we kind of came about this product. Of course, when our team started to expand, you know, of course, we’ll bring a lot of other talents from other different sources, but I think having that initial impression might help in giving a little bit of comfort, you know, in terms of helping the Asian community to adapt to this product.
+
+Todd: What are some of the…..I mean, you mentioned the language, the debit card, what are some of the other key features that you offer so that…..you know, you have 10% back on more 10,000 merchants, kind of who are those merchants and some of the thinking behind offering that.
+
+Zhen: Yeah. So, we have quite a few vendors to offer up to 10% of what we call Cashback. Cashback is one of our main features so it kind of goes back to the Asian shopping behavior of, you know, we wanted to save. Sometimes you’re saving a penny, that’s a good thing, it just so happened, you know, spending the money, but at the same time being able to get the Cashback and the saving at the same time. So, a lot of the merchants we have exclusive deals with them, a lot of them actually are national brands and those are also helping in driving our initiatives.
+
+I’ll give you a couple of examples. I think in just a couple of weeks back, we have Adidas that’s on sale for 10% and today, I was just actually looking at my phone, we have some of the exclusive deal offers. We’ve got some big names, for example, even Walmart is offering 10% if you buy certain things online. For example, DoorDash, right, they’re a popular delivery store that offer a 7-day/10% off as well whenever you sign up. So, those are the merchants that we have been able to acquire through our partnership network to help us drive the mission together.
+
+Todd: Yeah, I saw that. Also, you guys have a Cheese GiveBack Fund, tell us a little bit more about that and secondly, how important is an effort like that right now. Obviously, there has been a lot of discriminatory incidents against the Asian community here in the US due to the obviously unfounded conspiracy theories and what not related to Corona virus, but how important is something like that not only for Cheese, but just generally for the community.
+
+Zhen: Right. We felt that, you know, in order for our community to adopt us, we need to help our community to understand who we are, but also help to unite our community to empower our mission. And really, our mission is to empower people with the financial freedom and to provide really just a banking platform to effect real improvements in where we live and how we live our lives. So, the Giveback Fund is really designed to help the local economy, regardless if its businesses or it’s a non-profit organization or any kind of educational institution. We wanted to use the banking platform as a medium, as a way to give real benefit back to the community aside from providing, of course, accessible banking to the users and rewards to our merchants, we wanted to make it more of a social cause platform.
+
+For example, every time there’s a user sign up that we worked on, Cheese will donate automatically donate $10 to the Fund or to an organization that help benefit Asian communities, including individual sign ups. We have sign up bonuses or cashback rewards that they can automatically donate to the Asian community as well. It’s just a way for us to give back to the community and to help drive the overall good cause. I don’t want to get into too much of a kind of hate crimes these days, it’s slightly more political then than when needed to be sometimes, but to help raise awareness, but also help people with businesses that are in need is one of our priorities as well today.
+
+Todd: You know, I’m curious, yeah, I’ve been to China a few times, you know, we used to host an event there in Shanghai and a few other cities. Their fintech market is quite exceptional.
+
+Zhen: Exactly.
+
+Todd: Are there lessons that you can take from the Ant Financial types of the world that you can apply here in the US? Obviously, very different markets, but, you know, the scale, the speed at which, you know, a lot of these companies have developed, it’s really been something to watch and I’ve been there up close and I’m curious what your thoughts are on possibly replicating some of that success here in the US.
+
+Zhen: Yeah. I think about what, there’s 80 challenger banks that’s kind of popped up within the last 18 months or so. I think most of them are actually trying to replicate, if not just copying exactly what’s happening in China, I wouldn’t say China. China, Korea and Japan, Singapore and all of those Asian countries, they have really brought this kind of a traditional so called banking system to a way of life. It’s really no longer that we try to finish, go to banking because there’s banks there and we need to get money out.
+
+It’s really the banking system also called the startups and the financial institutions brought the banking to us and kind of using that thinking platform as a way of life to effect every corner of our living behavior. So, from daily waking up, what do you want to do, get coffee, you know, here is the coffee and where you want to buy. Yes, of course, I use this in the payment financial processes all to the way to hey, I want to send my kids some tuition, here we go, same app, same process. I think if we wanted to talk about consumer technology or consumer fintech technologies, personally, I would believe that China is five years/10 years ahead of how they do it in the United States.
+
+Todd: Easily.
+
+Zhen: Now, it’s not that it’s not as simple as just developing the product because there are a lot of financial and regulatory requirements, you know, compliance is that school that goes around it. So, we are trying to demonstrate number one, look the financial product could be as easy as those ones that’s in China, but also in the United States with the compliance of the regulatory requirements, but it cannot be done overnight, you need to go one step at a time really to demonstrate ourself. We’re checking our box and making sure do our own due diligence in terms of who are customers are and therefore getting more confidence with the regulatory body with our banks to open up, you know different type of products to users who would otherwise not be able to enjoy those type of products in the past in the United States.
+
+Todd: Could this super app work in the US?
+
+Zhen: Well, again, this is going to be more of a regulatory…..when we talk about super apps, you know, the thing that they’re most concerned about is money laundering and, of course, taxes, right. You know, it kind of goes hand in hand. The super apps and the way we’re thinking about is that it will require some kind of innovation, number one. It will also require some high level, you know, heads up as far as okaying the system to open up the financial markets to the broader consumer audience to be able to embed those technologies into it.
+
+Todd: In the US, regulatory system is not exactly the smoothest or most straightforward there is.
+
+Zhen: Right. But, it’s still being looked up as one of the most robust and powerful financial institution in the United States, yes, yes.
+
+Todd: Last question before we kind of shift a little bit. You know, there has been some challenger banks, I talked to someone earlier today, that have begun to kind of look at crypto and what, you know, that could potentially open up….just curious, is crypto something that’s potentially on your thinking? You know, there’s a lot of talk about what it could do to the financial system and what it has done thus far, I think we’re on our path to some sort of digital currency. I just wanted to get your thoughts on that.
+
+Zhen: Yeah. You know, we would love to onboard digital currencies, regardless of it’s crypto or tokenized currencies, but, again, it is a regulatory compliance challenge that whatever the government or what our banking or the financial system allow us to even do that. Even if they allow….what’s the timeframe that we will allow us to and also, even if they allow it, what are some of the degree of flexibility we can use these financial tools to enable certain transactions.
+
+So, that is a…..I think it is certainly possible, you know, Tesla has already accepted Bitcoin for payments of the cars, but it’s just a matter of how flexible and how fluid money can be transacted, either through their own payment system or through a less traditional or regular banking just to get a debit card or credit card system. So, that’s kind of a bigger question as to when will the regulatory compliance be open to those kind of ideas. I think we’re probably not ready yet, as of today, but I think at a certain point we will have to catch up if let’s say one country or one company finds a good way. When I say good way, it’s a compliant way, also the way the customer would accept, you know, for doing those.
+
+Todd: China has been, you know, practically using, or at least testing, digital currency since 2013 so we have to catch up.
+
+Zhen: Right, right. But, it’s government-sponsored, it’s not just anybody who can come up with that idea.
+
+Todd: Sure. I wanted to shift a little bit. You know, obviously you’re growing a company, you’ve raised a little bit outside capital, just kind of curious, how do you…we’re still in the pandemic so how do you manage, you know, growing a company when…I am presuming here that the entire team’s not all together at all times, how is that going through Zoom. A lot of times ideas kind of come to life when you’re all sitting around the table, maybe your eating together and, all of a sudden, someone thinks of something, how difficult is it to kind of build through video and what we’re all going through right now.
+
+Zhen: Yeah. I think it is difficult. Definitely, with the pandemic going on, it really limits our ability to meet as a team in person. Since the founding of the team, you know, since the pandemic, our team only met once as a team event. Even when we knew we had to kind of stay six feet apart in a really large conference room, but we really felt that the pandemic kind of provide some challenges, but it also made us much stronger as a team because we felt like if we can execute and we can achieve those types of milestones that we’re doing today, imagine if the pandemic is over and we’re kind of coming back to do the other….I think we can do much more.
+
+But, you know, again, the pandemic is tough on us, but we also take it up as an opportunity. We are a startup and also the founders have, if not one, multiple founder experiences and we kind of understand challenge is going to come at anytime, it could be different challenges, we just have to keep our heads down and go through it. At the end of it, we wanted to build a really better team, a really solid team with a solid product offer.
+
+So, we have teams, of course, very functional teams and we task each team with responsibilities in the product technology and me on the corporation finance and compliance set of it and our CEO is specifically strong on the growth side of it. So, it’s really each team leading a different unique effort and we’re moving that together as a really well oiled…. we call it vehicle or tank.
+
+Todd: How helpful is it that …..you mentioned your team members have been in startups before ….how helpful is it that it’s kind of not there for it to run through and they’ve been through some ups and downs and, you know, sometimes first time founders or first time startups think everything’s going to be kind of this….all of a sudden, this hockey stick growth and kind of just curious how helpful that might be for you.
+
+Zhen: Yeah. I think there’s no formula as far as saying, you know, if I had gone through three startups, the next startup is going to be a breeze, I think it’s always going to be different. We’re still seeing some hockey stick types of movement in terms of user behavior today now that we’re live, but having had previous startup experiences definitely helped, especially when we have sort of…..personally, I have one startup that didn’t go well when I was back in 2016. That really helped me understand where my unique strengths are and also what my weaknesses are and also helped us to understand when you wanted to talk to an investor what they are looking at and what they are not looking or what they want to hear, versus what they don’t.
+
+But, more importantly, you know, every startup is about bringing a product to market and also finding the right product market fit and there’s a very unique process to it. So, having those kind of experiences definitely…..I wouldn’t say gave us a golden path to success, but it really helped us to avoid some common pitfalls along the way so it saves us some time and save us some resource and effort and hopefully, will help us reduce the speed in our fall for the product to go to market, yes.
+
+Todd: I saw you raised some outside capital, you know, with the investor acceptance of the idea and your concept, how was that? Was there a big push back in terms of hey, this is maybe too niche of an idea. Just kind of curious how investors were taking the concept in, you know, not to name any names, just kind of more broadly thinking,
+
+Zhen: Yeah. So, we went through two rounds of investment, so far. In the first round, it was extremely or specially difficult or challenging because, you know, at that time while we had what we called credentials in the past, but it’s not going to make us famous which type of financials. So, people would have to believe us at that time based on our PowerPoint slides, 10 pages, ten pieces of paper and you get the term sheets. So, those were the most difficult time because we were trying to convince every single investor that we came across to say, hey, this is a doable idea, but it really took one investor who really believed in us. Once we have that one, we were able to leverage and get our first round of funding, we had over about five or six investors kind of pool the fund together for the first round.
+
+And then, we really built upon our initial vision and basically we laid out a plan of this is exactly what we’re going to do and how we’re going to use the money. So, the second round of funding, when it comes about, is really just a demonstration how we are improving ourselves and how we are reflecting ourselves upon the first tranche of ideas and to show the second batch of investors and say look, this is exactly what we are implementing. It is still early in the product stage, but, you know, you should be able to have confidence in us as far as building the product to the next step. It’s not easy, you know, maybe…I think every startup founder who had to raise money or have not raised money will know that trying to convince to convince an investor to put in a million or anywhere near a million dollars in your business is going to be very, very difficult.
+
+Todd: Funny, someone who’s outside, from the outside looking in and who follows the news as closely as I do, you see these giant rounds of funding. Plaid, I think, had $425 Million today. Last week there was a Mexican digital bank that raised $30 Million series A. It’s not that easy though.
+
+Zhen: It’s not that easy and it doesn’t come very often. We also have banks or neobanks that have to close it down, have to shuffle their customers to a different platform as well. We tend to hear the good news, not the bad news sometimes, but at a certain point it’s going to be data-driven and it’s also going to be the mission that we’re driving at.
+
+You know, to a point, Todd, earlier is that we are focused on the Asia market so this so-called identity driven neobanking, some might not like it because this thing that we’re focusing on is too niche of an area, but the other investors are very particular and very focused on investing in a business that are…what we call identity-driven business. Let it be banking or like the other type of social media what not because when we look at our segment of users, we look at, you know, some of the financial matrix in terms of their spending power, their savings, you know, also their behaviors.
+
+So, they represent actually what we call “lifetime value” or high net worth of individuals within the United States who have good jobs, have steady income and spend big ticket on houses, cars and also kind of daily living expenses what not. So, it definitely has a lot of the unique advantage to, you know, Chimes or Dave, the current type of banking customers, I think that’s what really caught some of our investors’ eyes. Next step is really be able to execute on our original vision and bring the product to broader use cases.
+
+Todd: You mentioned it earlier, I think there’s been about 80 neobanks in the last 18 months, they all can’t go after the same customer, they can’t all just be replications of Chime and so finding different, you know, slices of the market, whether it be the Asian community. I talked to someone earlier today, they’re focused on the Black community, there’s Hispanic-driven banks, I mean, it’s not a bad thing to bring banking to a community that’s not served well by either the traditional banking ecosystem or even by, you know, the fintech ecosystem.
+
+Zhen: You’re correct, you’re correct. And that will also mean that, you know, the founding team or the implementation team has enough knowledge of this identity-driven demographic. We, being Asian, we kind of understand where we came from and how our users think so that’s why I think our unique advantage is we want to target the Asian community first rather than to target, you know the African American or the Hispanic communities, not that we don’t want to target them, but I think if we can demonstrate that we can focus better and do really well with our Asian community first, I think we will also give….knowing ourselves, but also our investors a lot more confidence to expand to a different geography.
+
+Todd: You know, we have a few minutes left here. I want to end with a little bit of fun. Just curious, what was the last book that you read and your favorite book.
+
+Zhen: Well, to be honest, maybe I’m the different kind of individual. I hate reading books.
+
+Todd: (laughs) That’s okay.
+
+Zhen: The last book I read from start to finish was when I was back in college where I had to read a book for the classes.
+
+Todd: How do you consume information. Tell me the last podcast or TV….how do you consume info?
+
+Zhen: Another thing is I don’t really watch….not much of TV or TikTok, it really has been YouTube, the instructional type of videos. My charting power myself with, you know, things that I know or don’t know are through instructional video because to me that’s just a more effective way to visualize it and to digest it and also to reflect. I read little articles or news just to supplement what I learned, but overall, I don’t just grab a book and drink some coffee on the side and read the whole day long.
+
+Todd: I mea, everyone consumes information differently. There’s a lot of people I know that will listen to podcast after podcast and don’t read at all. The good thing about today is that there’s plenty of different mediums to learn from without just picking up a paper or a book of what.
+
+Zhen: That’s right.
+
+Todd: Curious, not sure is you’re a sports fan, but if you are, do you have a favorite sport and sport team?
+
+Zhen: Yeah. You know, everybody in China grew up knowing soccer, ping pong or basketball, kind of the three major sports that we follow. Yeah, I grew up playing soccer as well, but at a certain point in my junior career I picked up tennis. I’m actually a USPTA certified professional tennis coach.
+
+Todd: Wow!
+
+Zhen: I kind of play regularly and I also use tennis as a way to, you call it vent, right. You know, we’re stressful enough in the kind of daily grind so I use tennis to balance my life and just kind of stay…just to take my mind off of the startup just for a little bit and come back to it. And it has really suited me well from balancing life to family and work and also kind of the overall health, physical and mental health from that standpoint. If there’s kind of a local team that’s playing the Dodgers, playing the Lakers, playing now the LA Rams, I really don’t think that the LA Rams….so I’m always rooting for the local team.
+
+Todd: So, who’s better, Nadal, Federer or Djokovic?
+
+Zhen: Personally, my style of playing is more of a Rafa Nadal and he is, by far, still the number one kind of individual who has the most grassland titles, so far. Actually, I’m on the same age as Nadal, but when I started picking up tennis that’s when Federer fairly started to become famous so I kind of have followed him, almost stalked him literally, watching his videos, analyzing his strokes and things like that. I think this really helped me develop a habit of, you know, I guess watching a video and learn stuff from somehow that’s much better than me, yeah.
+
+Todd: Yeah. I remember watching some of the 2008/2009 Federer/Nadal matches.
+
+Zhen: Oh, yeah.
+
+Todd: Those were some of the best I’ve seen.
+
+Zhen: Yes.
+
+Todd: I’ll end with this one, your biggest inspiration in life.
+
+Zhen: I think this probably goes, you know, I will say maybe 18 or 20 years back, my family has always been in the service industry and when I went to BYU….by the way, I see your Fighting Irish at the background, I guess you’re a Notre Dame fan. So, the BYU Church had always had a profound impact on me so when I first entered the school there’s a language on the school board that says, enter to learn, go forth to serve. So, that has really kind of been residing in my whole entire education and also my professional life, you know, kind of a tying back, really for everything that I have done.
+
+It’s really in the service industry, even Cheese, we’re serving our underserved customers and we wanted to equip ourselves….you know, I think everybody can help anybody, anytime, but I think we wanted to equip us with better businesses, with better information and resources to help serve this community much better on a much bigger scale. That’s why I think co-founding Cheese is a good inspiration in my life to both challenge ourselves and also reward ourselves in that area and also to help the customer that we’re trying to serve.
+
+Todd: Well, Zhen, I really appreciate your joining the show. I think it was really fantastic conversation, I had some fun. You know, I wish you, your co-founders, the company the best. Hopefully, you guys continue to grow at your current pace and I have one of your co-founders at our upcoming event in late April so looking to have Qing at that event. Thank you very much for joining me.
+
+Zhen: Yeah, thank you, Todd, nice to meet you again.
+
+Todd: You too.
+
+(music)
+
+You know, being able to articulate terms of a product can go a long way. Many non-English speakers pay higher fees because they don’t understand the fine print. Cheese has built a product that clearly explains the offering in multiple languages and they have more languages coming soon. You know, I thought Zhen had some fascinating things to say about the lessons learned from the big Chinese fintechs and I think we’re all headed in the future with digital currencies. So, I really hope everyone enjoyed listening to the show and we’ll see you again here soon. Bye.

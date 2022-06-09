@@ -1,0 +1,45 @@
+Bitcoin (BTC) remains in a state of calm, but not social media. Ever since Facebook CEO Mark Zuckerberg shared the pic of his pet goat named Bitcoin on Tuesday, the Crypto Twitterati are abuzz with speculation and predicting a moon shot for the biggest cryptocurrency by market value.
+
+But one analyst studying patterns in price charts says the cryptocurrency may suffer a deeper pullback before resuming the uptrend. The prediction is based on the MACD histogram’s recent drop below zero (bearish turn) on the weekly price chart.
+
+“The weekly MACD rollover reflects a loss of intermediate-term momentum that increases risk the recent price range resolves to the downside,” Katie Stockton, founder and managing partner of Fairlead Strategies, told CoinDesk in an email.
+
+MACD, which is the shortened form of “moving average convergence divergence,” is an indicator widely used to gauge trend strength and trend changes. The indicator’s cross below zero is taken to represent a bearish reversal, while a move into the positive territory signifies bullish trend change.
+
+Bitcoin weekly chart Source: TradingView
+
+Having crossed below zero in mid-April, the histogram is now lowest since April 2018, implying the strongest bearish signal in three years.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+The MACD has been a fairly reliable indicator of intermediate price action in the past. For example, the cryptocurrency charted significant price declines after the MACD crossed bearishly in 2014, November 2018 and August 2019 (represented by vertical lines in the above chart).
+
+Thus, the possibility of a deeper bull market drawdown cannot be ruled out. “We are watching $42,000 as support,” Stockton said.
+
+Other technical indicators are also pointing to near-term pain. For example, Fairlead’s weekly note published Monday cited an active “sell” signal from the “DeMARK Indicators” as a cause for concern for the bulls along with the MACD’s bearish turn.
+
+According to Investopedia, DeMark indicators compare the most recent maximum and minimum prices to the previous period’s equivalent price to measure the demand of the underlying asset.
+
+Bitcoin's weekly chart indicators Source: Fairlead Strategies, Bloomberg
+
+“With the weekly MACD on a ‘sell’ signal and an active ‘sell’ signal from the DeMARK Indicators (mid-April), it will be difficult for resistance in the $62K-$65K area to be surmounted,” Stockton said in the weekly note.
+
+Bitcoin’s bull market has already slowed, with prices stuck largely in the range of $50,000 to $60,000 over the past two months. The retail-led rally to record highs above $64,000 seen ahead of Coinbase’s Nasdaq debut on April 14 was short-lived.
+
+The cryptocurrency was showing few signs of life on Wednesday despite speculation that Facebook may follow the U.S. electric car maker Tesla’s lead and add the cryptocurrency to its balance sheet.
+
+“We may see a series of announcements of bitcoin purchases from institutions like Facebook soon,” Ki Young Ju, CEO of the blockchain analytics firm CryptoQuant, tweeted. “Institutions have been accumulating bitcoin in the $48,000 to $60,000 range since February.”
+
+Bitcoin was trading near $56,300 at press time, having printed a high of $58,041 early today. Buyers have recently failed to keep gains above $59,000, while the downside has been restricted near $53,000.
+
+The cryptocurrency may pick up a strong bid if the likes of Facebook disclose or announce plans to invest in bitcoin, as anticipated by Ju.
+
+“The fact that bitcoin continues to fail at resistance at $58,000 is not a good sign, and the visuals now hint at a head and shoulders top,” said Bill Noble, chief technical analyst at Token Metrics, a cryptocurrency research company.
+
+Bitcoin daily chart Source: TradingView
+
+A potential drop to $48,000 would mark the completion of the head-and-shoulders pattern. A break below that level would open the doors to $30,000, according to Noble.
+
+That said, both Stockton and Noble are long-term bulls and expect price dips, if any, to recharge engines for a continued bull run.
+
+“With bitcoin and ether, we believe that you should not sell the dip,” Noble said. “So, I would focus less on major topping formations and more on horizontal support points to get involved.”

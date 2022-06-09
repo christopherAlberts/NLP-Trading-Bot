@@ -1,0 +1,41 @@
+Environmental Concerns Arise Over Energy Needed To Mine Bitcoin
+
+In one upstate New York community, a Bitcoin mining operation is drawing criticism from people who say the natural gas burned to make the cryptocurrency is causing too much pollution.
+
+NOEL KING, HOST:
+
+Making or mining bitcoin requires a lot of energy, which can mean burning more fossil fuels. Now, at the same time, states are making a push for clean energy. So does something here have to give? Here's Vaughn Golden from member station WSKG in New York's Finger Lakes.
+
+(SOUNDBITE OF CAR HONKING)
+
+UNIDENTIFIED PERSON: I know.
+
+VAUGHN GOLDEN, BYLINE: About 100 people are walking down the shoulder of a highway overlooking Seneca Lake. They're heading down to the Greenidge Generation power plant. The natural gas-fired facility generates some electricity. But what's gotten the attention of the activists is their generation of Bitcoin.
+
+UNIDENTIFIED PROTESTERS: (Chanting) Hey hey, ho ho, Greenidge Bitcoin’s got to go.
+
+GOLDEN: They're protesting today because Greenidge is looking to expand its Bitcoin mining. That would probably mean burning more natural gas and emitting more greenhouse gases. Yvonne Taylor is vice president of Seneca Lake Guardian and is leading the opposition to Greenidge.
+
+YVONNE TAYLOR: We simply cannot allow this ludicrous scheme of burning fossil fuels to make fake money in the midst of climate change.
+
+GOLDEN: Generating or mining cryptocurrency is complicated. There's no actual mining. The gist is that a whole lot of computers do a whole lot of calculations to create digital currency. That requires a ton of energy, which can mean burning more fossil fuels. And that's the case with Greenidge. The plant isn't always producing electricity for the grid. So a few years ago, they figured out they could make a profit by using excess power to mine bitcoin. Dale Irwin manages the plant.
+
+DALE IRWIN: We came up to that it was a very good business solution for us.
+
+GOLDEN: Irwin won't say exactly how much more the plant will emit with its expansion, only that it will be in compliance with its permits.
+
+IRWIN: We follow all laws and regulations the DEC apply to us. We'll review them, we'll study what they ask, and we'll do everything.
+
+GOLDEN: New York's environmental regulator says it's closely monitoring Greenidge's bitcoin expansion. Researchers at Cambridge University estimate that bitcoin mining is actively using over 120 million megawatt hours of energy every year. That's more electricity than the entire state of Virginia consumed in 2019. When Bitcoin miners are buying electricity off the grid, utilities have to be ready to meet more demand. Eilyan Bitar is a professor at Cornell University who studies power markets and electrical grids. He says electrical utilities could struggle to meet bitcoin's increasing demand for power.
+
+EILYAN BITAR: Inevitably, that would drive an increase in the supply of generation or electricity from more dispatchable generators, like natural gas, which produces greenhouse gas emissions.
+
+GOLDEN: Bitar says more bitcoin mining will likely slow down progress of states trying to lower carbon emissions. There are a few attempts to regulate bitcoin's energy consumption. Missoula, Mont., requires all cryptocurrency mining to be offset with renewable energy. Plans to increase bitcoin production capacity at the Greenidge plant in New York were approved. But a local legislator is now pushing for a statewide moratorium on cryptocurrency mining. It is the first such measure introduced in the U.S.
+
+For NPR News, I'm Vaughn Golden in Binghamton, N.Y.
+
+(SOUNDBITE OF KLIMEKS' "RINGS OF SATURN")
+
+Copyright © 2021 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.
+
+NPR transcripts are created on a rush deadline by Verb8tm, Inc., an NPR contractor, and produced using a proprietary transcription process developed with NPR. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.

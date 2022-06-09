@@ -1,0 +1,85 @@
+Friday, May 14, 2021
+
+On May 11, 2021, the staff of the Division of Investment Management (“IM”) within the Securities and Exchange Commission (“SEC”) issued a statement (the “Statement”) regarding the staff’s current views on funds registered under the Investment Company Act of 1940, as amended (the “1940 Act”) investing in bitcoin futures.1 Although the Statement most directly illustrates the staff’s current stance toward mutual funds investing in bitcoin futures, more significantly, given the intense interest in potential bitcoin and other cryptocurrency products, the Statement is being scrutinized for what it might say about the willingness of the staff to approve exchange-traded products offering exposure to bitcoin or other cryptocurrencies.
+
+The Statement conveys the staff’s view that mutual funds should only invest in bitcoin futures if the funds have “investment strategies that support this type of investment,” as well as full disclosure of the relevant risks. The Statement does not support exchange-traded funds ("ETF"s) investing in bitcoin futures at this time, though the staff remains open to further discussion on the topic. Even though closed-end funds are not subject to the same liquidity risks from the bitcoin futures market as mutual funds or ETFs, the Statement nevertheless recommends that sponsors of closed-end funds consult the staff prior to filing for a closed-end fund that would invest in bitcoin futures. Finally, while the Statement does not address the recent spate of filings for exchange-traded products that would hold bitcoin directly and are not registered under the 1940 Act, the Statement conveys certain concerns that are likely to apply to the SEC’s consideration of those products as well.
+
+1. Background
+
+In January 2018, Dalia Blass, the then-director of IM, issued a letter (the “Cryptocurrency Holdings Letter”) to the heads of the Investment Company Institute and the Asset Management Group of the Securities Industry and Financial Markets Association outlining significant concerns on the part of the IM staff that would need to be addressed by any registered fund offering exposure to bitcoin.2 Those concerns were (a) valuation, (b) liquidity, (c) custody, (d) arbitrage (for ETFs) and (e) potential for manipulation and other risks. As the bitcoin futures market had only commenced trading in December 2017, the discussion in the Cryptocurrency Holdings Letter primarily focused on issues relating to funds proposing to hold bitcoin directly.
+
+2. Bitcoin Futures
+
+The Statement notes that since the Cryptocurrency Holdings Letter was issued, the bitcoin futures market has grown markedly,3 consistently producing reportable prices and avoiding the custody issues that would be presented under the 1940 Act if funds held bitcoin directly (because bitcoin futures contracts currently are cash-settled). Moreover, in recent months, certain mutual funds have made filings disclosing their intention to invest some portion of their assets in bitcoin futures (and/or private investment funds that hold bitcoin)4. The Statement notes this trend and declares that the staff “will closely monitor and assess such mutual funds’ and investment advisers’ ongoing compliance with the [1940] Act and the rules thereunder and the other federal securities laws.”
+
+In addition, the Statement states that the IM staff (in coordination with staff from the Division of Economic and Risk Analysis and Division of Examinations) will “closely monitor the impact of mutual funds’ investments in bitcoin futures on investor protection, capital formation, and the fairness and efficiency of markets.” The Statement identifies the following items that the staff will monitor:
+
+The liquidity and depth (e.g., number of participants) of the bitcoin futures market and whether it is appropriately supporting mutual fund investment in bitcoin futures (particularly as additional mutual fund assets enter the market) given regulatory requirements relating to mutual fund liquidity; 5
+
+The ability of mutual funds to liquidate bitcoin futures positions as necessary to meet daily redemption demands, as well as the efficacy of mutual funds’ derivatives risk management 6 and the extent of any leverage obtained through derivatives;
+
+The valuations of holdings in the bitcoin futures market utilized by funds and how such valuations are affected by mutual fund participation in the bitcoin futures market on valuations in that market, as well as the impact on valuation of any disruptions in the underlying bitcoin markets;
+
+Pursuant to the Liquidity Rule, mutual funds’ liquidity classification of any position in the bitcoin futures market and the basis for such classification, as well as the overall construction of such a fund’s liquidity risk management program; 7
+
+The ongoing impact of the potential for fraud or manipulation in the underlying bitcoin markets and its possible influence on the bitcoin futures market; 8 and
+
+Whether, in light of the experience of mutual funds investing in the bitcoin futures market, the bitcoin futures market could accommodate ETFs. The Statement notes that, unlike mutual funds, ETFs cannot prevent additional investor assets from coming into the ETF9 to address situations where an ETF becomes too large or dominant in the market, or if the liquidity in the bitcoin futures market starts to wane.
+
+3. Guidance
+
+The Statement concludes with the following summaries of the IM staff’s current views with respect to funds’ investments in bitcoin futures:
+
+The IM staff believes that only mutual funds “with appropriate strategies that support this type of investment and full disclosure of material risks” should pursue investment in the bitcoin futures market at this time.
+
+The IM staff “welcomes further input from ETFs and other market participants, particularly input that focuses on efforts to ensure compliance with the [1940] Act and its rules and promote investor protection.”
+
+Because closed-end funds do not provide for daily redemption of their shares, they are not subject to the same liquidity requirements, and do not present the same types of liquidity challenges, as open-end funds. Nevertheless, the IM staff “encourages any closed-end fund that seeks to invest in the bitcoin futures market to consult with the staff, prior to filing a registration statement, about the fund’s proposed investment, anticipated compliance with the [1940] Act and its rules, and how the fund would provide for appropriate investor protection.”
+
+The IM staff also promises to be “transparent about its approach to registered funds’ investment in the bitcoin futures market, as well as other types of cryptocurrency and digital asset investing.”
+
+4. Takeaways
+
+We believe that there could be important ramifications for mutual funds and ETFs as a result of the Statement:
+
+Mutual Funds. The Statement does not address what type of investment strategies might be “appropriate” for a fund to invest in bitcoin futures contracts, nor does it address whether the staff would have concerns if an existing mutual fund changed its investment objective or strategies so that they would then be “appropriate” for investing in bitcoin futures. Nevertheless, the Statement makes it clear that the IM staff will consider carefully whether a mutual fund’s strategy is appropriate for investing in bitcoin futures and whether the applicable risks are appropriately disclosed. 10
+
+1940 Act ETFs. The SEC has not yet permitted the offering of 1940 Act-registered funds that are ETFs and provide bitcoin exposure by investing in bitcoin futures. 11 The Statement indicates that the IM staff is still open to discussion about whether the bitcoin futures market has developed to an extent that would make it possible to offer ETFs based on bitcoin futures, but does not indicate that the IM staff is likely to approve such ETFs imminently.
+
+Closed-End Funds. Despite closed-end funds not being subject to the same liquidity requirements and risks as open-end funds, the IM staff still recommends in the Statement that closed-end funds desiring to invest in bitcoin futures discuss the fund’s strategies and processes for addressing compliance risks with the IM staff before filing a registration statement. Among other factors, the concerns identified in the Statement regarding whether the bitcoin futures market has sufficient liquidity and depth to accommodate multiple mutual funds could apply to closed-end funds as well. 12
+
+Exchange-Traded Products Not Registered under the 1940 Act. In recent months, several filings have been made for exchange-traded products (“ETPs”) that would offer exposure to bitcoin by holding bitcoin directly. 13 These ETPs would be registered under the Securities Act of 1933, as amended, and trade on a national stock exchange, but would not be registered under the 1940 Act. Previous filings for such products have been made in prior years but either were withdrawn or disapproved by the SEC. 14 The Statement does not directly address this class of ETPs because it was issued by the IM staff and only covers 1940 Act funds wishing to invest in bitcoin futures. Nevertheless, several of the issues identified in the Statement regarding the bitcoin futures market would apply in substance to bitcoin ETPs that are not registered under the 1940 Act. For example, the SEC previously has identified the bitcoin futures market as not being a “market of sufficient size” to deter potential manipulation in the underlying bitcoin markets for purposes of the SEC’s authority to approve or disapprove exchange listing rules under Section 6(b)(5) of the Securities Exchange Act of 1934, as amended 15 — and while the Statement acknowledges the growth of the bitcoin futures market in recent years, the Statement expressly disclaims any position on whether the bitcoin futures market is now a market of “sufficient size” for such purposes. 16 It seems likely that the IM staff’s determination of whether the bitcoin futures market is sufficiently liquid and deep to accommodate 1940 Act ETFs will be made in coordination with the determination as to whether the market is of sufficient size to allow for the offering of non-1940 Act bitcoin ETPs.
+
+
+
+1 See Staff Statement on Funds Registered Under the Investment Company Act Investing in the Bitcoin Futures Market (May 11, 2021) publicly available at: https://www.sec.gov/news/public-statement/staff-statement-investing-bitcoin-futures-market.
+
+2 See Staff Letter: Engaging on Fund Innovation and Cryptocurrency-related Holdings (Jan. 18, 2018) publicly available at: https://www.sec.gov/divisions/investment/noaction/2018/cryptocurrency-011818.htm.
+
+3 See, e.g., CME Group Bitcoin Futures Liquidity Report, publicly available at: https://www.cmegroup.com/education/bitcoin/futures-liquidity-report.html.
+
+4 See, e.g., filings made by Morgan Stanley Institutional Fund, Inc. (https://www.sec.gov/Archives/edgar/data/0000834237/000119312521012142/d46120d497.htm), Blackrock Global Allocation Fund, Inc. (https://www.sec.gov/Archives/edgar/data/0000834237/000119312521012142/d46120d497.htm) and Stone Ridge Trust (https://www.sec.gov/ix?doc=/Archives/edgar/data/1559992/000119312521153461/d129263d485bpos.htm).
+
+5 See Rule 22e-4 under the 1940 Act (the “Liquidity Rule”).
+
+6 See Rule 18f-4 under the 1940 Act, which registered funds will be required to comply with as of August 19, 2022.
+
+7 The Statement stipulates that the staff’s analysis of the program construction will include, per the Liquidity Rule, consideration of the liquidity of a fund’s strategy and portfolio investments during both normal and reasonably foreseeable stressed conditions, whether the investment strategy is appropriate for an open-end fund, and the extent to which the strategy involves a relatively concentrated portfolio or large positions in particular investments.
+
+8 See, e.g., SEC Order Disapproving a Proposed Rule Change, SEC Release No. 34-88284 (Feb. 26, 2020); publicly available at: https://www.sec.gov/rules/sro/nysearca/2020/34-88284.pdf; SEC Order Disapproving a Proposed Rule Change, SEC Release No. 34-83904 (Aug. 22, 2018) publicly available at: https://www.sec.gov/rules/sro/nysearca/2018/34-83904.pdf.
+
+9 The SEC has taken the position that ETFs generally may suspend the issuance of creation units only for a limited time and only due to extraordinary circumstances, such as when the markets on which the ETF’s portfolio holdings are traded are closed for a limited period of time. See Exchange-Traded Funds, SEC Release No. 33-10515 (June 28, 2018) publicly available at: https://www.sec.gov/rules/proposed/2018/33-10515.pdf, note 185 and accompanying text and Exchange-Traded Funds, SEC Release No. 33-10695 (Sept. 25, 2019) publicly available at: https://www.sec.gov/rules/final/2019/33-10695.pdf, at 58-59.
+
+10 For example, income from bitcoin futures would likely not constitute income from which a fund seeking to be treated as a “regulated investment company” for federal income tax purposes (as almost all mutual funds are) must derive at least 90% of its gross income. As a result, mutual funds may need to consider investing in bitcoin futures through a wholly-owned foreign subsidiary.
+
+11 Following the commencement of trading of bitcoin futures contracts, certain filings for 1940 Act ETFs were made but quickly withdrawn at the request of the IM staff (as stated in the Cryptocurrency Holdings Letter). See, e.g., Post-Effective Amendment 2,586 to the registration statement of VanEck Vectors ETF Trust, filed on December 8, 2017 (publicly available at: https://www.sec.gov/Archives/edgar/data/1137360/000093041317004010/c89704_485apos.htm). This filing was withdrawn on January 9, 2018 (publicly available at: https://www.sec.gov/Archives/edgar/data/1137360/000093041318000050/c89704_aw.htm).
+
+12 For example, the NYDIG Bitcoin Strategy Fund (offered by Stone Ridge Trust VI) a closed-end fund (specifically, an “interval fund” pursuant to Rule 23c-3 under the 1940 Act) that invests in bitcoin futures, has to this point limited its offering to a maximum of $25 million.
+
+13 See, e.g., https://www.etftrends.com/crypto-channel/the-race-to-the-first-bitcoin-etf/.
+
+14 See https://markets.businessinsider.com/news/etf/bitcoin-etf-proposals-the-sec-s-long-history-of-rejections-1030261105.
+
+15 See note 8, supra.
+
+16 See Statement, note 5.

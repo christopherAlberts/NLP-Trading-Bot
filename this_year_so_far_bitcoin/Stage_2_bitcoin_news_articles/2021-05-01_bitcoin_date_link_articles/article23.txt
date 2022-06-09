@@ -1,0 +1,61 @@
+Bitcoin may be the most know cryptocurrency, but there is a world of altcoins out there with their own specific uses.
+
+Apart from currencies, these cryptoassets have various utilities from "proof of stake" to decentralized finance.
+
+Insider collected the most common types of cryptocurrencies and 15 examples from a wide world of digital assets.
+
+Sign up here for our daily newsletter, 10 Things Before the Opening Bell.
+
+Investing in cryptocurrencies has been synonymous with investing in bitcoin, especially for those new to the digital asset space. Bitcoin, after all, is often regarded as the first modern cryptocurrency, founded by an anonymous developer under the pseudonym Satoshi Nakamoto in 2009.
+
+"We think bitcoin had the first-mover advantage," Ian Balina told Insider. Balina is the founder and CEO of Token Metrics, a data-driven investment research platform for cryptocurrencies.
+
+Today, bitcoin boasts of a $1 trillion dollar market capitalization and enjoys the support of 22 public companies, according to data by CoinGecko. These include major firms from MicroStrategy to Tesla. Not included in that number are major corporations adopting bitcoin such as Goldman Sachs, Bank of New York Mellon, and PayPal.
+
+Ether comes in at a close second. The global and open-source platform for decentralized applications that runs on the ethereum blockchain, is the runner-up to bitcoin with a valuation of $318 billion. Many analysts predict it will surpass the king of cryptocurrencies down the road, citing ether's ability in storing computer codes that power contracts and applications.
+
+Beyond these two, there is a wealth of crypto assets in the nascent space all with different utilities.
+
+"We're thrilled about the growing adoption of crypto beyond bitcoin," Greg King, CEO of Osprey Funds, a crypto asset manager that launched Osprey Bitcoin Trust, told Insider. "Investor and market appetite continues to grow for funds providing access to some of the most exciting coins and tokens."
+
+While cryptocurrencies are difficult to separate into neat and comparable categories, London-based fintech entrepreneur Viktor Prokopenya said the underlying popularity metrics can be borrowed from more traditional asset analysis. He named market capitalization, price volatility, and momentum as examples.
+
+"I believe we will see an increasing disregard for traditional portfolio theory and a reduction in diversification by many retail investors," he told Insider. "Of course, this could work out for the better but conventional prudence is advised."
+
+Insider, with the help of experts, lists here the five most common types of crypto uses with 15 examples of coins from across the space.
+
+1. Currencies
+
+This is the most commonly known utility of cryptocurrencies. Several companies have allowed the purchase of their products using cryptocurrencies such as Tesla car, while dogecoin can be used to buy Dallas Mavericks' tickets and merchandise. Other currency examples are litecoin and bitcoin cash.
+
+2. Stablecoins
+
+A stablecoin is a type of cryptocurrency that is backed by a reserve, which could be a cryptocurrency, a fiat currency, or a commodity. For instance, tether is pegged to the US dollar. USD coin-created by Coinbase and Circle-and dai are also both pegged to the American currency.
+
+3. Proof of Stake
+
+This is a mechanism that regulates the process of transactions between users, ensuring that these are verified and added to a blockchain's public ledger. PoS was born out of another popular algorithm, Proof of Work. Both have the same goal of reaching consensus in the blockchain, Binance Academy explained, and only differ in the process.
+
+Examples of cryptocurrencies that use PoS are ether (decentralized applications), cardano (academic research), and solana (blockchain applications).
+
+Read more: A 29-year-old self-made billionaire breaks down how he achieved daily returns of 10% on million-dollar crypto trades, and shares how to find the best opportunities
+
+4. Decentralized Finance
+
+Also known as DeFi, this is an umbrella term for various applications that use public blockchains and crypto assets to disrupt the traditional financial sectors. DeFi is an alternative to a system that is tightly controlled and held together by decades-old infrastructure, according to a website funded by the Ethereum Foundation.
+
+DeFi, an industry now worth over $66 billion, is a major reason for ether's recent record-breaking week during the end of April.
+
+Other cryptocurrencies that use DeFi applications according to Balina are: uniswap, a decentralized exchange for trading ethereum-based tokens via an automated order book; chainlink, a decentralized oracles network for bringing off-chain data onto the blockchain; and aave, a decentralized lending platform.
+
+"In the last few years, we have seen DeFi also take up a significant spot within any listing category," Ben Weiss, CEO of bitcoin ATM operator CoinFlip, told Insider - adding that many factors remain to be seen after the London upgrade in June.
+
+Weiss continued: "I would expect the DeFi space to grow as the momentum of both DeFi usage as well as innovation is growing in the billions of dollars every other day. Decentralized market makers like uniswap and pancakeswap changed what it means to be liquid and crypto accessibility in general."
+
+5 . Non-Fungible Tokens
+
+NFTs are unique digital assets secured on a blockchain supported by ethereum. Each NFT has its own signature, which can be verified in the public ledger and cannot be duplicated. When people buy NFTs, they gain the rights to the unique token on the blockchain, and not the artworks, collectibles, or tweets linked to the NFTs themselves.
+
+Many of these are built on ether, Osprey said, but flow, tezos, and algorand also support NFTs.
+
+"The potential applications of NFT technology are virtually endless," he added. Other examples are theta network (video streaming blockchain) and chiliz (sports industry).

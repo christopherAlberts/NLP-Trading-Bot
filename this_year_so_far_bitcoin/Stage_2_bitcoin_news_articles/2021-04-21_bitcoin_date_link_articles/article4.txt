@@ -1,0 +1,23 @@
+BitGo has placed over $700 million in insurance coverage for large amounts of cryptocurrency held at arm’s length from the rough winds of the internet.
+
+The Palo Alto, Calif.-based custodian, which is said to be in acquisition talks with Galaxy Digital, has $100 million in cover for all customers using its platform. BitGo also offers clients the ability to top up their insurance by purchasing their own dedicated limits, and in this capacity the custodian’s insurance program has expanded by a further $600 million, the company said Wednesday.
+
+“We’ve been able to offer to our clients the ability to purchase bespoke insurance directly from a group of insurers that sit on top of our insurance at very favorable rates,” said Peter Najarian, BitGo’s chief revenue officer. “I would imagine our in-force coverage of over $600 million is certainly the largest in the marketplace today.”
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+BitGo’s crypto insurance is sourced from the Lloyd’s of London market.
+
+In terms of comparable policies and programs, Crypto.com was probably the past record holder with about $360 million (which includes some cover from BitGo). Coinbase has $320 million in cover, according to public documents. However, that was bolstered by an additional $500 million in opt-in cover, according to a source with knowledge, bringing Coinbase’s total offering to $820 million. Another source, however, told CoinDesk the whole, $500 million premium has not been paid by Coinbase, only a partial deposit, potentially making BitGo’s $700 million the industry’s largest in-force insurance program. (Coinbase declined to comment.)
+
+It’s not easy to get insurance cover for crypto assets, and to attain capacity in the hundreds of millions of dollars usually requires the crypto assets to be held in cold storage at a distinct remove from the internet.
+
+Typically, this sort of risk is covered by a “specie” policy, used to insure fine art or bullion held in bank-grade vaults. One side effect of keeping things in deep cold storage is that it takes time to get to them, and service-level agreements (SLAs) for getting assets trade-ready stipulate anything from one hour to 24.
+
+Some critics point out that such an arrangement is less than optimal for trading crypto assets, but BitGo CEO Mike Belshe has called this a feature, not a bug.
+
+Institutional clients with hundreds of millions of dollars held in crypto find it reassuring that these assets can’t be instantly moved online by some automated process, Belshe has said previously.
+
+BitGo did not share data about the number of customers who have taken advantage of the top-up cover, or the average amount purchased. The custody tech firm partnered with insurance brokers Woodruff Sawyer & Co. and Paragon International Insurance Brokers of London.
+
+“Cold storage means digital assets are not online or in a networked environment,” said Jacob Decker, a vice president at Woodruff Sawyer. “Specie covers fraudulent activity involving insiders such as employees and possible collusion with external bad actors, as well as the physical destruction of key material due to fire, flood or earthquake.”

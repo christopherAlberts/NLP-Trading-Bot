@@ -1,0 +1,25 @@
+Savvy traders are locking returns of over 40% in the wake of bitcoin‘s widening contango – the spread between prices in futures and spot markets, also known as futures basis/premium.
+
+“With the premium on bitcoin futures expanding to as high as 40% per annum for the June expiry, there is a lot of interest from cash and carry traders to arbitrage the premium and lock-in risk-free gains,” Pankaj Balani, co-founder and CEO of the Singapore-based Delta Exchange, told CoinDesk in a WhatsApp chat.
+
+Cash and carry arbitrage is a market-neutral strategy aimed to profit from price discrepancies in one or more markets.
+
+It involves buying an asset in the spot market against a short position in the futures market when the futures draw a significant premium relative to the spot price. That way, traders pocket a fixed return, as the premium decays over time and converges with the spot price on the expiry date.
+
+Bitcoin futures basis Source: Skew
+
+According to data source Skew, bitcoin’s June expiry futures listed on major exchanges such as Binance, Huobi, OKEx, BitMEX and Deribit are currently drawing an annualized premium of 44% to 48%. Meanwhile, those listed on the Delta Exchange are trading at a premium of 30%.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+So, a carry trade taken now will yield an annualized return of 44% to 48% – a number significantly higher than interest rates on crypto deposits offered by lending platforms such as Genesis and BlockFi or government bond yields in emerging economies.
+
+“That’s what we initiated today,” Patrick Heusser, head of trading at the Swiss-based Crypto Finance AG, said in a Telegram chat, adding that the widening of the basis indicates bitcoin’s latest breakout above $60,000 is derivatives driven.
+
+CoinDesk 20 data shows bitcoin broke out of a multi-week consolidation early Saturday with a sudden $3,000 rise to $61,065. Futures premium on major exchanges increased along with the spot market price, rising from roughly 32% to over 40%.
+
+Some analysts are now eyeing the weekly close (Sunday, 23:59 UTC). “BTC is back over $60,000! If we can close the week above here, then moon time,” analyst Lark Davis tweeted early today.
+
+However, market chatter shows growing concerns regarding the uptick in perpetual futures funding rate – the cost of holding long positions calculated and paid every eight hours. As such, the cryptocurrency may have a tough time securing a daily or weekly close above $60,000.
+
+At press time, bitcoin is changing hands near $59,700.

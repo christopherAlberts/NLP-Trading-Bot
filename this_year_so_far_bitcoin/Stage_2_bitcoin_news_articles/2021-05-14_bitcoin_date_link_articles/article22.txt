@@ -1,0 +1,27 @@
+When you're newly in the money with roughly $17.5 million worth of cryptocurrency, $5 million of which came courtesy of Colonial Pipeline, it makes sense to take some time off work and enjoy yourself.
+
+DarkSide, the possibly Russian-based hacking group behind the ransomware which prompted Colonial Pipeline to proactively take its 5,500 miles of U.S. pipeline briefly offline, claimed Thursday that it had been forced to end its affiliates program. The program, which was a sort of ransomware-as-a-service business model, involved providing hackers access to DarkSide's ransomware software in exchange for a cut of any proceeds.
+
+According to Intel471, a cybersecurity firm which spotted the announcement, DarkSide said the move is partly "due to the pressure from the US."
+
+And sure, the U.S. government is likely putting a lot of pressure on DarkSide's members. On Thursday, President Joe Biden said that officials intended to "pursue a measure to disrupt [ransomware networks'] ability to operate."
+
+On Thursday, DarkSide's website went offline, and the group claimed it lost access to a host of funds as well.
+
+DarkSide's website before it went offline. Image: screenshot / darkside
+
+"A couple of hours after the seizure, funds from the payment server (belonging to us and our clients) were withdrawn to an unknown account," read the DarkSide statement, translated from Russian, in part.
+
+And DarkSide had a lot of funds. Elliptic, a blockchain analytics company, found one of DarkSide's Bitcoin wallets. According to the company, the wallet in question received approximately $17.5 million worth of bitcoin since March alone.
+
+"The wallet has been active since 4th March 2021 and has received 57 payments from 21 different wallets," notes the company.
+
+Importantly, Elliptic writes that $5 million worth of bitcoin was emptied from DarkSide's wallet on Thursday. The question, of course, is was that cryptocurrency seized by an angry government, or is DarkSide just moving its loot?
+
+Which brings us back to DarkSide's claims of calling it quits. Sure, the group's website went offline and it's saying it can no longer access its payment or CDN servers, but should we really take the group's word for it?
+
+SEE ALSO: Colonial Pipeline reportedly paid millions for slow-ass decryption software
+
+There's a long tradition of exit scamming in the shady world of darknet markets — bailing with everyone's cryptocurrency when the water gets too hot and blaming it on a hack — and it wouldn't be unheard of for a group like DarkSide to take this opportunity to rebrand and hide its money in the process.
+
+Regardless of DarkSide's fate, the pipeline shutdown won't be the last time we all feel the effects of an international ransomware group. That's because no matter what the White House says, ransomware isn't going anywhere — especially if companies with deep pockets like Colonial Pipeline keep making it worth the hackers' time.

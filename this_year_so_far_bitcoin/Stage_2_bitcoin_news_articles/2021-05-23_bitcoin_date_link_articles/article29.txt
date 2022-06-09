@@ -1,0 +1,55 @@
+One of the greatest attractions of bitcoin is its limited issuance – there will only ever be 21 million coins, though the current supply is 18.6 million.
+
+However, the number of bitcoin available for buying and selling is much lower than this. Crypto research group Glassnode estimates three million bitcoin (or 16%) could be lost forever, for a variety of reasons: early miners lost their hard drives, or bitcoin owners passed away, taking their private keys with them to the grave.
+
+Then there are the 1.125 million bitcoin (BTC) mined by its mysterious founder Satoshi Nakamoto, which remain untouched to this day. That shaves another 6% off the available supply.
+
+Of far greater importance is the rise of the institutional ‘HODLer’ (those ‘holding on for dear life’), who see bitcoin as a store of value at a time of financial uncertainty.
+
+“Quantifying bitcoin’s liquidity is essential to understand its market. If many bitcoins are illiquid, a supply-side crisis emerges – which has a weakening effect on BTC’s selling pressure in the market.
+
+“Or put differently: a sustained rise of illiquid bitcoins is an indication of strong investor holding sentiment and a potentially bullish signal,” says Glassnode.
+
+This is reflected in the graph below, with blue representing the proportion of bitcoin that is deemed ‘illiquid’, which amounts to 14.5 million of the total issued supply. Only three million BTC are deemed ‘highly liquid’ and available for buying and selling, with a further 1.2 million deemed ‘liquid’.
+
+This means that around 78% of the circulating bitcoin supply is considered illiquid.
+
+Glassnode says the illiquidity trend has been in place for well over a year.
+
+“This indicates that the present bull market is driven by the staggering amount of illiquidity. Currently, we are at a stage in which the illiquid supply is growing more than the total circulating supply. [This is] a pattern we have similarly observed during the bull run of 2017.”
+
+One of the key factors contributing to the supply shortage is the rapid accumulation of bitcoin by institutions for treasury purposes, says Revix CEO Sean Sanders.
+
+“What started out with one or two adventurous corporations deciding to invest a substantial part of their treasury assets in bitcoin as a hedge against fiat currency devaluation, has now grown into dozens of companies – and all in the space of less than a year.
+
+“This has been a game-changer for bitcoin because companies like business intelligence group MicroStrategy have become massive buyers of bitcoin. Tesla is another company that recently announced it had invested a substantial portion of its available cash into bitcoin, following in the footsteps of MicroStrategy’s CEO Michael Saylor, and Twitter founder Jack Dorsey’s company Square.”
+
+Rise of ETFs another contributing factor
+
+Yet another reason for the evaporating supply is the rise of exchange-traded funds (ETFs) such as Grayscale Bitcoin Trust, offering investors an indirect route to bitcoin via a listed vehicle.
+
+Grayscale currently owns 654 885 bitcoin or just over 3% of the total available supply.
+
+Many investment firms are prohibited from investing directly in bitcoin but can invest directly in a listed vehicle that offers exposure to bitcoin while taking care of custody issues, listing and regulatory requirements.
+
+A number of European-based exchange-traded products (ETPs) now offer easy and regulated access to bitcoin.
+
+“Bitcoin’s supply shortage is important for a number of reasons,” says Sanders. “Bitcoin has grown at a compound average annual rate of 200% a year for the last decade, and while this growth has been volatile, overall bitcoin has demonstrated its versatility as a store of value and a hedge against inflation. Ironically, institutional adoption is likely to increase as the price goes up, so we see the supply shortage underpinning the price going forward.
+
+“What this also means is that we might expect to see reduced volatility in bitcoin in the years ahead,” he adds.
+
+“What this evaporating supply tells us about the macro-economic environment is that bitcoin is now starting to be perceived as a safe, reliable store of value or, as it is often called, Gold 2.0.
+
+“With trillions of US dollars being added to the existing money supply just in the last year, inflation is a guarantee. Bitcoin has solved that problem with its hard cap of 21 million coins in issue.”
+
+Brought to you by Revix.
+
+About Revix
+
+Revix brings simplicity, trust and great customer service to investing. Their easy to use online platform enables anyone to securely own the world’s top investments in just a few clicks. Revix guides new clients through the sign-up process to their first deposit and first investment. Once set up, most customers manage their own portfolio but can access support from the Revix team at any time.
+
+For more information, please visit www.revix.com
+
+This article is intended for informational purposes only. The views expressed are not and should not be construed as investment advice or recommendations. This article is not an offer, nor the solicitation of an offer, to buy or sell any of the assets or securities mentioned herein. You should not invest more than you can afford to lose, and before investing, please take into consideration your level of experience, investment objectives and seek independent financial advice if necessary.
+
+Moneyweb does not endorse any product or service being advertised in sponsored articles on our platform.

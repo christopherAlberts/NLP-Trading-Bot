@@ -1,0 +1,15 @@
+“I’ve been working on a new electronic cash system that’s fully peer-to-peer, with no trusted third party.” Those were the words pseudonymous Bitcoin creator Satoshi Nakamoto used to greet the world some 12 years ago in an email releasing the Bitcoin white paper.
+
+To this day, nobody still knows who Satoshi is. Since April 23, 2011, nobody has heard from him/her/them after they signed off an email saying,
+
+
+
+I’ve moved on to other things. It’s in good hands with Gavin and everyone.
+
+A technical description, the Bitcoin white paper was the first document to outline the principles of a cryptographically secured, trustless, peer-to-peer electronic payment system that was fundamentally designed to be transparent and censorship-resistant, as well as put financial control back in the hands of the individual. At that time, the world was gripped by a financial crisis catalyzed by excessive speculation in the financial markets and banks risking millions of dollars worth of depositors’ money.
+
+This document lay the foundation for what is generally considered the first functional digital currency powered by a distributed ledger technology called blockchain.
+
+One of the many ground-breaking elements of Satoshi’s electronic payment system was that it solved the long-standing “double-spend” problem that plagued cashless spending. Through the implementation of time-stamped transactions that are unanimously verified by a distributed network of validators, it was no longer possible for a person to spend the same funds twice.
+
+The white paper was released under an MIT public license in 2008 for all to learn from, share and enjoy.

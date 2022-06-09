@@ -1,0 +1,67 @@
+By Jeremy Schwartz, CFA, Global Head of Research; Will Peck, Head of Strategy & Emerging Technologies
+
+Bitcoin is a hot topic! We had the pleasure of discussing the investment thesis for bitcoin on our Behind the Markets podcast with Ari Paul, the co-founder of BlockTower Capital, a crypto asset-focused asset management firm.
+
+Prior to entering crypto, Paul worked as an options and commodity trader at Susquehanna and then as a portfolio manager for the University of Chicago’s endowment. His endowment looked for new markets in which professionals still were largely absent. When he entered crypto in 2017, Paul says that was the case. He would even argue today that “investment professionals” are still not meaningfully involved.
+
+Paul sees tremendous risk in crypto assets, yet he sees these risks as idiosyncratic, uncorrelated risk that diversifies a portfolio and provides alpha potential.
+
+Have Endowments Allocated Yet?
+
+Paul believes 2 of the 10 largest endowments in the U.S. have direct holdings and 2–3 have invested into crypto funds. Paul hasn’t pitched endowments because he thinks that it’s such a fast-moving space, endowments will take a long time to come around. This could be a further catalyst of new demand for crypto assets.
+
+History of Economic and Technology Cycles
+
+Paul draws parallels from the railroads in the 1800s, early computers in the 1960s and the Internet in the 1990s—and how adoption trends follow similar patterns. There is a cycle known as the Gartner Hype Cycle, in which everyone views a technology as world-changing but gets the speed of adoption wrong.
+
+In 1999, everyone thought everything would be bought over the Internet and all our interactions would occur online—which was correct, but it would take 20 years (and a pandemic) for this view to become reality. There was no infrastructure in ’99. We were all on dial-up modems, while less than 2% of the world had Internet access, and online credit card payments were difficult and not trusted.
+
+Paul offers an analogy: Email came out in 1972. It took 20 years before the World Wide Web’s release and another 20 years before real scale came to both.
+
+Bitcoin was launched in 2009 and is like email. Ethereum is like the World Wide Web—it came five years after Bitcoin, but it took about three years before real transaction volume occurred there.
+
+But in the last 18 months, decentralized finance (DeFi) has taken off. Uniswap, a “decentralized exchange,” does $1 billion in transactions daily. There is also a budding art market referred to as NFTs (non-fungible tokens), and one standout is Top Shot, an official NBA collectible market (which did $30 million of transactions in its first two months).
+
+Paul thinks DeFi will do insanely well over the next few years, but then there will be a rude awakening as to how long it will take for certain elements to play out, leading to a large drop in DeFi asset prices.
+
+Bitcoin as a Medium of Exchange?
+
+We also discussed use cases for bitcoin. Bitcoin is both a protocol/ledger (Bitcoin) and the currency unit of that ledger (bitcoins). Bitcoin and other blockchains operate 24/7/365, while the traditional transaction market for U.S. dollars is closed more than half that time, including nights, weekends and holidays—although Venmo and PayPal are helping there for small payments.
+
+While the Bitcoin protocol can be slow, bitcoins used on other networks like Ethereum and the lightning network function like PayPal, sitting on top of U.S. dollars. The lightning network can handle many more transactions at much lower fees. The technical challenges for using bitcoin as a form of payment seem solvable, but bitcoin still does not function as a great medium of exchange, at least for items priced in U.S. dollars, given the volatility of bitcoin. It’s hard to buy a Tesla Model S with bitcoin when Tesla raises the price by 20% if bitcoin falls 20% against USD the night before.
+
+Bitcoin as a Store of Value?
+
+U.S. residents are fortunate the U.S. dollar is relatively stable. While bitcoin can certainly add value to U.S. investors as a store of value against a depreciating currency (drawing similarities to gold as a store of value), the bar is higher against the dollar. But for Venezuelans, Nigerians or markets with hyperinflation and dramatic losses in the purchasing power of their currencies, bitcoin could function as a wealth protector.
+
+Valuing Bitcoin and Other Crypto Assets
+
+Paul thinks bitcoin has a $100 trillion addressable market just as a store of value for everyone in the world. Half of the world’s population desires an asset that cannot be easily confiscated or depreciated by printing more currency.
+
+To value bitcoin, apply a probability of it reaching your estimate of an addressable market—and then apply a discount rate for how long it will take to get there. Paul thinks this is why bitcoin is like a series C venture capital investment—fraught with failure risk but with big payoff potential.
+
+How High Can Bitcoin Go?
+
+While it is up significantly from its lows, bitcoin is currently priced around 2.5x its 2017 highs. In prior market cycles, bitcoin hit 9–10x its prior peak, or around $160,000–$170,000, which would equate to around $160,000-170,000 per bitcoin.
+
+In Paul’s view bitcoin, could see gains of 3–5x from current levels.
+
+Paul also sees higher beta assets like Ethereum and “alt-coins” performing significantly better and rising up to 5–15x higher in this cycle, but we note words of caution for these “alt-coins” below.
+
+Valuation models for bitcoin and other crypto assets have not been well-tested given limited live history. While Paul makes a case for their inclusion in portfolios, he also recognizes the risks. One topic that merits further discussion– how should investors think about allocating to bitcoin in portfolios given the risk-return profile?
+
+Con Coins
+
+Paul is a skeptic on crypto indexes at the present. While bitcoin and Ethereum are well-known assets, many of the “alt-coins” are highly speculative and some are even scams. Paul recommends significant due diligence on any crypto asset other than bitcoin. We think any asset investment requires investor diligence, including where that asset fits within an investor’s overall portfolio and financial circumstances.
+
+This was a fascinating conversation. We’ll be coming back to bitcoin on the podcast and our blog, including a bull/bear debate on bitcoin in two weeks. Please listen to this full conversation below.
+
+Originally published by WisdomTree, 2/17/21
+
+Important Risks Related to this Article
+
+Cryptocurrency operates as a decentralized, peer-to-peer financial exchange and value storage that is used like money. Cryptocurrency operates without central authority or banks and is not back by any government. Cryptocurrencies generally experience very high volatility. Cryptocurrency is also not legal tender. Federal, state or foreign governments may restrict the use and exchange of cryptocurrency, and regulation in the U.S. is still developing. Cryptocurrency exchanges may stop operating or permanently shut down due to fraud, technical glitches, hackers or malware.
+
+This material contains the opinions of the authors, which are subject to change, and should not be considered or interpreted as a recommendation to participate in any particular trading strategy, or deemed to be an offer or sale of any investment product, and it should not be relied on as such. There is no guarantee that any strategies discussed will work under all market conditions. This material represents an assessment of the market environment at a specific time and is not intended to be a forecast of future events or a guarantee of future results. This material should not be relied upon as research or investment advice regarding any security in particular. The user of this information assumes the entire risk of any use made of the information provided herein. Unless expressly stated otherwise, the opinions, interpretations or findings expressed herein do not necessarily represent the views of WisdomTree or any of its affiliates.
+
+Foreside Fund Services, LLC., is not affiliated with the other entities mentioned.

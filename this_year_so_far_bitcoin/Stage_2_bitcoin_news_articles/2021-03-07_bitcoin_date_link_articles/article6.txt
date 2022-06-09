@@ -1,0 +1,51 @@
+Crypto Firms Launch New Services, MIT Seeks to Improve Bitcoin Codebase
+
+By Keith R. Murphy
+
+A San Francisco-based cryptocurrency custody firm successfully completed an $80 million funding round, following its recent procurement of a federal banking charter from the Office of the Comptroller of Currency (OCC). According to the recent news update, the company is the first crypto native to obtain a charter from the OCC, making it the first national “digital asset bank” in the country.
+
+According to a recent press release, a leading Swiss private bank has added cryptocurrency to its client offerings, incorporating Sygnum’s B2B banking platform. The new offering was reportedly driven by increasing client demand and is intended to allow clients to buy, hold and trade multiple cryptocurrencies, including bitcoin, ether, Bitcoin Cash and Tezos.
+
+Ripple recently announced that it is piloting a private version of the public XRP Ledger to provide a secure solution for the issuance and management of central bank digital currencies (CBDCs). According to a blog post, the CBDC Private Ledger will be built for payments and will be able to handle the large volume and speed of transactions that central banks require. In a separate development, according to reports, a major Japanese e-commerce company is now allowing users to shop at Japanese merchants using various cryptocurrencies, including bitcoin, ether and Bitcoin Cash.
+
+According to recent reports, the MIT Media Lab’s Digital Currency Initiative has raised $4 million from prominent backers to fund bitcoin research and development. Among other goals, the new program, called the Bitcoin Software and Security Effort, will dedicate resources to the development of Bitcoin Core, which is the underlying codebase of the open-source financial network, to harden the bitcoin network and to shore up vulnerabilities.
+
+For more information, please refer to the following links:
+
+Institutional Cryptocurrency Investment Products Advance, New Data Published
+
+By Joanna F. Wasick
+
+This week, a major Boston-based financial services and bank holding company announced that it was appointed as the fund administrator and transfer agent of the VanEck Bitcoin Trust (the Trust), a bitcoin exchange-traded fund (ETF) that is pending approval by the Securities and Exchange Commission (SEC). The Trust’s investment objective is to reflect the performance of a bitcoin’s hourly price reflected in U.S. dollars, minus the expenses of the Trust’s operations.
+
+A major New York-based multinational investment bank and financial services firm has reportedly restarted its cryptocurrency trading desk and will begin dealing in bitcoin futures and non-deliverable forwards for its clients. The bank first set up a cryptocurrency desk in 2018, but interest dropped as bitcoin’s price sharply fell.
+
+A financial services and mobile payment company based in San Francisco announced last week that it bought another $170 million worth of bitcoin, calling bitcoin the “native currency” of the Internet. The company has been involved with cryptocurrency for years, having launched a payments app allowing users to trade in bitcoin in 2018.
+
+A survey conducted by a major U.S. investment bank was released this week, finding that 78 percent of institutional investors have no plans to invest in cryptocurrency. Nevertheless, 58 percent said that cryptocurrencies are “here to stay.” The survey consists of roughly 3,400 investors representing 1,500 institutions around the globe. CaseBitcoin, an on-chain monitoring resource, recently reported on its findings that bitcoin’s compound annual growth rate (CAGR) is a whopping 196.7 percent, meaning that bitcoin has returned almost 200 percent every year for 10 years on a compound basis.
+
+For more information, please refer to the following links:
+
+SEC Focuses on Digital Assets, DeFi Hacked, Crypto Theft Data Published
+
+By Teresa Goody Guillén
+
+The SEC’s Division of Examinations (Division) recently issued a risk alert announcing its continued focus on digital asset securities. Specifically, the Division stated that in its experience, some activities related to the offer, sale and trading of digital asset securities present unique risks to investors. The SEC staff provided observations from their examinations of investment advisers, broker-dealers and transfer agents regarding digital asset securities that may assist firms in developing and enhancing their compliance practices. The Division also issued its annual 2021 examination priorities, which are intended to provide insights into its risk-based approach and include the areas it believes present potential risks to investors and the integrity of the U.S. capital markets. The 2021 priorities include a focus on attendant risks relating to fintech, and they preview what examinations of market participants engaged with digital assets will assess: (1) whether investments are in the best interests of investors, (2) portfolio management and trading practices, (3) safety of client funds and assets, (4) pricing and valuation, (5) effectiveness of compliance programs and controls, and (6) supervision of representatives’ outside business activities.
+
+A decentralized finance (DeFi) application that allows users to bundle orders on various DeFi protocols and send them in one transaction reportedly lost $14 million after a fake contract was used to trick the app into thinking it was an Aave Protocol V2 update. It is believed that the contract transferred approved tokens to the bad actor’s address and that the attack also resulted in a $1.1 million loss from another DeFi protocol’s treasury funds.
+
+Crystal Blockchain recently issued a Report on Security Breaches and Fraud Involving Crypto 2011-2021, which analyzed cryptocurrency transactions made by “crypto-criminals” after thefts between 2015 and 2020, with a focus on fund flow patterns made using the stolen cryptocurrency. The report provided the following key findings:
+
+In 2020, crypto-criminals attempted to withdraw stolen and scam-sourced assets 13 times faster than in 2015.
+
+Fifty-three percent of funds stolen by crypto criminals in 2015 were transferred to exchanges with verification requirements; this figure dropped to 8 percent in 2020.
+
+Mixers and exchanges without verification requirements were the main destinations in 2020 for crypto-criminal fund withdrawals.
+
+Crypto criminals usually attempt to send stolen funds to known entities using additional transactions with unknown intermediate addresses.
+
+Between 2015 and 2020, about 81 percent of all withdrawal transfers from crypto criminals to known entities were made with nine hops in between.
+
+Blockchain analytics tools are compelling crypto criminals to change their withdrawal patterns to remain uncovered (anonymous).
+
+For more information, please refer to the following links:

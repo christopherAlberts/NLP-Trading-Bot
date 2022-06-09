@@ -1,0 +1,19 @@
+3. The energy consumption problem
+
+The reason Tesla suspended its support for vehicle purchases using BTC was the company’s concerns regarding the “rapidly increasing use of fossil fuels for Bitcoin mining and transactions, especially coal.” Sounds reasonable for a company that develops electric cars, right?
+
+First of all, the question of whether BTC is a waste of energy isn’t new and has been debated by industry experts for some time already. Meanwhile, the mainstream media — The New York Times, Financial Times and Bloomberg, to name a few — went all out with headlines following Musk’s comments, blaming crypto for enormous energy use. They referred to Cambridge University’s Bitcoin Electricity Consumption Index, where the total electricity used worldwide by Bitcoin miners is currently at around 113 terawatt-hours per year. But what they failed to mention — intentionally or unintentionally — is that the latest study by the Cambridge Centre for Alternative Finance stated 39% of all energy consumption used in BTC mining was from renewable sources.
+
+More interestingly, Galaxy Digital published a report entitled “On Bitcoin’s Energy Consumption: A Quantitative Approach to a Subjective Question,” where the company estimates the energy consumption of the traditional finance space to be around 260 terawatt-hours per year, more than twice as big as the Bitcoin industry. However, the estimations only came from available data, meaning it would be fair to say that the actual number is much higher.
+
+Another important note is that after the COVID-19 outbreak and the tremendous shift globally toward digitization, we must place the problem of crypto energy consumption within the broader context of internet usage. As Greenpeace USA media director Travis Nichols pointed out:
+
+“As web services grow and become more complex, the demand for computing power will continue to go up over the next few years, and that will require much more energy.”
+
+Also, Mark Cuban, billionaire investor and owner of the Dallas Mavericks, decided not to withdraw support for Bitcoin payment, arguing with Elon Musk:
+
+“We know that replacing gold as a store of value will help the environment. [...] Shrinking big bank and coin usage will benefit society and the environment.”
+
+If we go back to Musk’s accusations against Bitcoin, they did negatively affect the industry. For example, an environmentally-focused bill in the state of New York would place a three-year moratorium on crypto mining if it passes the state’s senate. But every cloud has a silver lining, as they say. What is good is that by bringing attention to the carbon footprints made by the crypto industry, the space can more quickly move toward sustainability, as happened with the global pandemic, which forced governments globally to work on green energy amidst COVID-19.
+
+Cointelegraph reached out to crypto and blockchain industry experts for their opinions on the following question: How do all these Elon Musk comments affect the entire crypto space?

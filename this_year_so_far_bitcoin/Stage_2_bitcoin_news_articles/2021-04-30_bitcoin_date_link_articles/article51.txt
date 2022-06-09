@@ -1,0 +1,31 @@
+Cryptocurrency Exchange Hotbit Hacked: Systems Paralyzed, 2 Million Users Affected
+
+A cryptocurrency exchange with about 2 million users worldwide announced that it has “suffered a serious cyber attack.” A number of basic services are paralyzed and the attacker tried to access the exchange’s wallets. Consequently, the platform has shut down, stating that it needs to perform a “comprehensive inspection” which is expected to last one to two weeks.
+
+Hotbit Says It ‘Suffered a Serious Cyber Attack’
+
+Crypto exchange Hotbit announced Friday:
+
+Hotbit just suffered a serious cyber attack starting around 08:00 PM UTC, April 29,2021, which led to the paralyzation of a number of some basic services.
+
+The announcement adds that “the attackers also tried to hack into Hotbit’s wallets,” but the exchange claims that “the attempt was identified and stopped by our risk control system.”
+
+The exchange says that it is “about to exceed 2 million registered users and has a huge service system architecture of more than 200 servers online, in order to ensure security, Hotbit team will completely rebuild all servers.”
+
+While insisting that all customers’ assets are “safe and secure,” the exchange announced:
+
+Hotbit team has shut down all services for inspection and restoration immediately.
+
+Regarding the recovery period, the exchange expects it to take about 7-14 days, emphasizing that it “is expected to be no less than 7 days.” Furthermore, “The estimated time of recovery will be more as all things going on.”
+
+Following the hack announcement, crypto transfers were spotted from Hotbit’s addresses. The exchange claims that the transfers resulted from them “creating new cold wallet.”
+
+The exchange explained that the attacker deleted the user database after failing to obtain assets. It also warned that “The attacker has already gained access to the database,” so users’ “registered phone number, email address and asset data” may have been leaked.
+
+While stating that the database is backed up, the company says, “we are still uncertain whether the attacker has polluted data or not before the attack,” justifying the need for “a comprehensive inspection.”
+
+What do you think about this Hotbit hack? Let us know in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

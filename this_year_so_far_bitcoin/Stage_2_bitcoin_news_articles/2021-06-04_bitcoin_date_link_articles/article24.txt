@@ -1,0 +1,77 @@
+Last month, 34-year-old Laguna Beach resident Benjamin Levine logged into his BlockFi account and noticed a sudden windfall of 329 BTC, worth over $16 million dollars at the time.
+
+“Obviously, I was pretty wide eyed when I saw that,” said Levine.
+
+He and his wife were driving, and he pulled over to the side of the road. “It said that I received a bonus payment for April as part of a promotional payment,” said Levine. “And it’s 329 bitcoin. I remember saying to her, ‘Dang! I just won a promotion!’”
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Despite the extreme amount, Levine didn’t question his good fortune. The deposit was clearly labeled as a promotion, something he had checked multiple times.
+
+Levine’s bitcoin payment was, in fact, a costly mistake by the crypto lending company BlockFi, which is still trying to recover bitcoin and other cryptocurrencies it incorrectly deposited to users’ accounts as part of a botched round of promotional payments.
+
+The promotion was intended to incentivize users to trade in large volumes by rewarding them with the stablecoin Gemini dollar (GUSD). In some instances, however, the payouts were awarded in BTC, sometimes millions of dollars worth. This mix-up seems to have been an underlying factor in some, though not all, of the erroneous deposits.
+
+The drama that ensued illustrates a tension with centralized platforms. One of the key innovations behind bitcoin is that transactions are not supposed to be reversible. But centralized platforms like BlockFi seem pretty willing to try.
+
+CoinDesk spoke with three different users who, among the dozens who have since surfaced on social media and discussion boards, were mistakenly given BTC rewards. They were able to successfully move some of the bitcoin off the BlockFi platform but expressed confusion and frustration at the lack of communication from BlockFi until days after the deposits, and uncertainty about what might happen next. In all three cases, BlockFi tried to recover the money after it was sent.
+
+Fallout from the BlockFi promo error
+
+On May 14, BlockFi tweeted a brief statement stating there were issues with a March trading promotion, and some participants might be awarded incorrect bonuses.
+
+After CoinDesk reported on May 18 that users were able to move some of those BTC awards off the platform, and therefore beyond BlockFi’s control, BlockFi issued a statement on May 19 expanding on the issue. It confirmed CoinDesk’s reporting, tweeting that “a small edge case of approximately 100 clients were (sic) able to access the erroneous deposits and withdraw funds from the platform on May 17.”
+
+Speaking at Consensus, BlockFi CEO Zac Prince downplayed the issue.
+
+“I don’t think it’s too big of a topic,” he said. “We processed the promo payout and there was a bug and an error made where we processed it in bitcoin instead of in dollars. I think things got a bit confused online because there were some users who, for an hour, had 700 bitcoin show up in their BlockFi account. That was very quickly changed and corrected.”
+
+Prince added that a derivative of that bug allowed users to withdraw some of that BTC.
+
+“The net impact to BlockFi’s was sub-100 clients that actually were impacted by this and less than $10 million USD in total value,” he said.
+
+When CoinDesk emailed Prince to discuss the error in more detail, including how it could have happened, he responded with a link to BlockFi’s tweeted statement.
+
+The statements by BlockFi show that it was not just its March promotion participants that were affected, but a variety of promotions. Levine, for example, said he received a BTC deposit on Friday, May 14, worth around $16 million at the time, labeled as an April promotion. CoinDesk reviewed documentation of the deposit.
+
+Multiple users were able to move bitcoin off the platform, with some amounts worth hundreds of thousands of dollars. BlockFi, meanwhile, has called users who attempted to withdraw funds from the platform and sent legal threats.
+
+Unintended consequences
+
+Levine said he tried to offload the BTC that same Friday in order to use it to purchase a stake in a company he’d been contemplating a deal with for months. He wanted to move quickly as crypto was experiencing a period of volatility in which his bitcoin bounty was declining in value.
+
+After initiating multiple transactions, he was able to move 4 BTC off the platform, before BlockFi reversed the large deposit on Monday. Levine said he did not hear anything from BlockFi while he was sorting out details of the deal until Sunday, by which point he had signed a contract.
+
+Now, after repeated conversations with BlockFi, including a phone call in which Levine alleges BlockFi co-founder Flori Marquez threatened to get the FBI involved, Levine is in a tough position. He’s responsible for the business deal he entered into because he took BlockFi’s initial deposit at face value. He could even face millions of dollars in potential liability.
+
+When CoinDesk emailed Prince to ask about Marquez’s allegations, he responded with a link to BlockFi’s tweeted statement.
+
+Conflicting timestamps
+
+Another user who spoke with CoinDesk said they were in shock when they got their March promotional payout, and thought they had won something. The user (who asked for anonymity for fear of reprisal) said that “as any good crypto enthusiast would, I transferred the funds immediately to my cold storage wallet.”
+
+CoinDesk reviewed screenshots of these transactions.
+
+About 90 minutes later the user noticed BlockFi initiated a transaction reversal, so the user assumed there was no way the withdrawal would still go through, given how long withdrawals from BlockFi generally take. At this point, there had still been no communication from BlockFi about any errors.
+
+Then, soon after that transaction reversal appeared on the site, the user noticed the timestamp had been changed. It now appeared as if the reversal had been issued at the same time as it landed in the user’s account, not 90 minutes after the fact.
+
+The user alleges the timestamp was changed to make it appear as if the reversal had been issued at the same time as it landed in the user’s account, not 90 minutes later.
+
+The user put in a withdrawal cancellation request, but even so the withdrawal went through and the requested BTC showed up in his cold storage.
+
+Then came the carrot-and-stick emails, threatening legal action while also offering compensation in GUSD to return the funds.
+
+Levine said he experienced a similar turn of events. After receiving his deposit on Friday, May 14, he initiated about eight different transfers. After receiving the initial email from BlockFi threatening legal action on Sunday he went back to look at his transaction history.
+
+“They had gone to the transaction history and inserted a transaction reversal of negative 329 BTC directly above where the deposit had originally shown up,” said Levine. “So it’s very suspicious that could, number one, represent it as being the same exact time in the day and on the same date, but they also superseded any of the following transfers in chronological order.”
+
+When we asked Prince to discuss these alleged timestamp alterations by email, he responded again with a link to BlockFi’s tweeted statement.
+
+More oversight required?
+
+Joseph Kelly, CEO of Unchained Capital, another crypto financial services company, said it’s rare for companies like BlockFi to see the kind of growth they have in the last few years without making some mistakes. From a company building perspective, he said, it makes sense that maybe an error like this would happen. Nor are these kinds of issues uncommon in the traditional financial world. In 2020, Citibank accidentally sent a hedge fund $175 million and struggled to retrieve the money.
+
+Levine is exploring his legal options. Ultimately, he thinks centralized entities like BlockFi must have more oversight.
+
+“I am not in crypto to be a part of a centralized system and this situation made that clear to me,” said the anonymous user, echoing Levine’s perspective. “The fact I was able to withdraw this incorrect bonus is really concerning.”

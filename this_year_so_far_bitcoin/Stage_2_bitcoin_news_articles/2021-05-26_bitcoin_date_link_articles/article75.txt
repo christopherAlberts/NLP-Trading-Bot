@@ -1,0 +1,53 @@
+The Biden administration, lawmakers, and central bankers are wrestling with fresh challenges posed by cryptocurrency, conferring in numerous meetings amid recent volatility in these digital assets.
+
+White House officials were briefed by career staff at the Treasury Department about the risks posed by cryptocurrencies earlier this month, two people familiar with the matter said. The issue has also been raised in conversations with federal regulators involving Treasury’s Office of the Comptroller of the Currency and the Consumer Financial Protection Bureau, although those discussions did not involve principal-level officials such as Treasury Secretary Janet Yellen.
+
+Administration officials are studying potential “gaps” in oversight related to the crypto market, such as whether it can be used to finance illicit or terrorist activities, the people said. They have also discussed whether some protections are needed for average retail investors purchasing cryptocurrencies. The White House and Department of Treasury are also publicly backing a new plan to target cryptocurrencies as part of a broader effort to address tax avoidance.
+
+For now, federal regulators do not currently see the wild swings in the crypto markets as likely to pose a threat to the broader stability of financial markets, though they believe the risks are worth monitoring, the people said. Administration officials are discussing whether there are guardrails on cryptocurrencies that can be imposed while still allowing investors to “dogecoin to their heart’s content,” as one person briefed on the matter said, referring to trades of a popular cryptocurrency based on a meme of a dog.
+
+“They’re aware of the fact that there are all kinds of risks in the abstract and things to look out for, but they are still largely in a wait-and-see posture,” one person briefed on the matter said. The people spoke on the condition of anonymity to discuss the private government review.
+
+Spokespeople for the White House, Department of Treasury, and CFPB declined to comment.
+
+At the same time, both central bank officials and congressional lawmakers have talked increasingly about policies that stand to dramatically alter crypto markets. The House has passed and sent the Senate bipartisan legislation instructing federal regulators to study and clarify rules for cryptocurrencies. Lael Brainard, a member of the Federal Reserve’s board of governors, published an article on Monday highlighting the potential benefits of a digital currency created and managed by the central bank. A government-run digital currency could cut into cryptocurrency’s market share by offering a safer alternative to instantaneous digital transactions.
+
+Particularly high levels of volatility in the cryptocurrency markets have rattled investors and highlighted to policymakers the potential dangers of the freewheeling sector. Bitcoin, the most popular cryptocurrency, crashed by more than 50 per cent from its prior peaks amid a broader crypto sell-off. Dogecoin fell by more than 10 per cent before paring back its losses. The crypto markets appear to have been rattled by Elon Musk saying Tesla would no longer accept bitcoin as a payment for vehicle, as well as Chinese officials suggesting new restrictions on financial firms tied to cryptocurrencies.
+
+The recent market instability has compounded existing concerns about cryptocurrencies, including fears about the environmental impact created by things like bitcoin mining. Government officials also believe these cryptocurrencies make it easier for criminals to transfer money without detection. The market cap for cryptocurrencies topped $2 trillion (£1.4 trillion) for the first time this April, just a few months after it hit $1 trillion (£706bn).
+
+“Cryptos are becoming a larger segment of the financial system, and regulators should be concerned about how this market intersects with our financial regulatory framework as banks and other financial institutions become more entwined with it,” said Gregg Gelzinis, a banking expert at the Centre for American Progress, a centre-left think tank.
+
+Digital currencies operating have posed a conundrum for policymakers for years. They are hard to regulate in part because they are not controlled by conventional trading institutions, such as banks or other typical financial firms.
+
+Cryptocurrencies drew less scrutiny when they first emerged. Their prominence was accelerated during the pandemic, when hundreds of billions of federal dollars pumped directly to consumers spurred casual investors to explore novel financial instruments. Institutional players, including some Fortune 500 companies, also got involved, leading to their further proliferation.
+
+The amount of energy required to “mine” various cryptocurrencies has alarmed environmentalists, with bitcoin mining alone consuming more electricity than entire countries, according to the Cambridge Centre for Alternative Finance. “That is a staggeringly large number for something that is absolutely useless,” said Eswar Prasad, an economist at Cornell University. “It’s an environmental disaster.”
+
+These fears have grown just as political realities make cryptocurrencies harder to stamp out. Industry groups say that as many as 20 million Americans currently own cryptocurrencies. As bitcoin and other cryptocurrencies grow in size and scope, they become more difficult to manage because more people have bought into the system who stand to be affected by a crackdown.
+
+“I wish we had smothered this a decade ago before it grew into a $2 trillion monster,” said Jason Furman, a senior economist in the Obama administration. “Digital currencies are all cons and no pros — environment; crime; volatility; taking advantage of unaware investors. If they had any use at all we could debate it. But they don’t have any use at all.”
+
+The extent of crypto’s rise has complicated a straightforward policy response, though several proposals have either emerged or are seen as likely. For instance, the Department of Treasury last week unveiled a plan to require cryptocurrency companies to provide the IRS with more financial information. The reporting requirements would hit firms receiving cryptocurrency with a fair market value of more than $10,000 (£7,100). That measure is tied up with the Biden administration’s broader tax and spending proposals, complicating its path toward passage.
+
+“If you increase third party reporting for currency transactions, it will help significantly with tax compliance and that's what Treasury is proposing,” said John Koskinen, who served as IRS commissioner under the last two administrations. “It would make a difference. The statistics are clear: the more third-party information the IRS has, the higher the rate of compliance.”
+
+The Securities and Exchange Commission may also push for changes. In his first public hearing, SEC Chairman Gary Gensler said earlier this month that Congress should do more to clarify the rules over cryptocurrencies, while also acknowledging that the SEC was limited in what it could do. The increased risk of regulation in the past month has led some cryptocurrency investors to sell.
+
+Constance Hunter, chief economist at KPMG, said: “Regulation is what allows lay people to trust a variety of things they're not experts in - whether that be medicine or financial markets ... But the fact that it crashed on the idea regulators are looking at it is a huge red flag in terms of its intrinsic value.”
+
+Federal Reserve officials are also exploring the potential advantages of a government-managed “digital dollar.” Central banks across the globe have begun studying whether to issue their own digital currencies primarily in response to concerns that tech companies would ramp up their own private payment systems, such as Facebook’s diem, formerly known as Libra. But the development could have implications for cryptocurrencies as well. Bob Hockett, a former Fed official now at Cornell University, said he has discussed with Treasury officials and other banking regulators the possibility for the US to launch a digital currency system that could ultimately undercut cryptos. Cryptocurrencies get their name in part because the payments are encrypted in a way that makes them avoid detection, a technique that could be mimicked by central banks.
+
+Hockett added that creating a digital currency system accessible to every American would allow policymakers to deposit funds in taxpayer bank accounts while reducing the transaction fees currently collected by private companies. As many as one quarter of all Americans are unbanked or underbanked - which inhibited federal stimulus payments during the pandemic — whereas only 5 per cent of Americans do not have access to a smartphone.
+
+“People use crypto for many reasons, but some of the things those people are looking for could be provided by the central bank, such as the ease and speed of transaction that are secure and consistent,” Hockett said. “There’s no reason we couldn’t, from the point of the individual user, allow transactions without fees. And it could make for a much smoother and easier functioning monetary policy.”
+
+John Fagan, who was director of the U.S. Treasury’s Markets Room and now principal of Markets Policy Partners, said the Biden administration is likely to look at cryptocurrency issues with an eye toward problems caused by money laundering, tax evasion, and investor protection. Treasury would likely to focus on the first two while the third would fall the Securities and Exchange Commission.
+
+“What we’ve been telling our clients for months is the cryptocurrency complex is not fully pricing in the kind of regulatory attention likely bought to bear on bitcoin and the other operators,” Fagan said. “This ‘constructive ambiguity’ kind of regulatory structure will be replaced by a lot more bright lines.”
+
+Still, Adam Ozimek, chief economist at Upwork, said he thought cryptocurrencies may not be a safe investment but do not appear to represent a broader threat to the economy. Many experts and crypto industry groups warn of the dangers of government overreach.
+
+“I don’t think this is something regulators should be concerned about, even if people putting their savings into it certainly should be,” Ozimek said. “It’s a really risky, speculative investment ... But should regulators be concerned about the price of art? That goes up and down rapidly, too.”
+
+The Washington Post

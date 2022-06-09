@@ -1,0 +1,21 @@
+Marathon Digital Holdings, one of the largest enterprise Bitcoin self-mining companies in North America, has successfully mined its first “clean” block.
+
+In late March, the company announced that it would be launching the first North American Bitcoin mining pool fully compliant with U.S. regulations, including anti-money laundering (AML) and Office of Foreign Assets Control (OFAC’s) standards.
+
+“While institutional interest in Bitcoin is accelerating, many large funds and corporations have expressed concerns over purchasing bitcoin that may have been tainted by nefarious actors,” said Merrick Okamoto, Marathon’s chairman and CEO, in the announcement.
+
+Marathon mined its first “clean” block five days after the company began directing 100% of its 10.37 exa hash per second (EH/S) hash rate to the “compliant” mining pool. In the announcement, the firm shared that it expects to entirely switch to the new pool by the first quarter of 2022 and will start accepting other U.S.-based Bitcoin mining companies to join the pool on June 1, 2021.
+
+Marathon can filter transactions using an exclusively-licensed technology from DMG Blockchain. As such, the pool refrains from processing Bitcoin transactions from people listed on OFAC’s Specially Designated Nationals and Blocked Persons List (SDN).
+
+The company’s ability to select which transactions it includes in a block seems contrarian to Bitcoin’s philosophy for many in the space. Bitcoin miners shift transactions and vary the “nonce” in an attempt to find a valid block hash, and are usually economically incentivized to pick transactions based on their fees.
+
+Censoring Bitcoin transactions at the mining level has been fairly uncharted territory up to now, and it is unclear what the ramifications could be. It is arguably dangerous to some vital Bitcoin properties as a medium of exchange, such as its fungibility and censorship resistance. If some coins get treated differently than others based on government regulations, and that could pose a challenge to the free exchanging of bitcoin worldwide.
+
+In abiding with AML and OFAC standards, Marathon is effectively censoring people from participating in the network. OFAC has historically taken action against Bitcoin wallet addresses associated with sanctioned individuals. The office’s first publication of that kind involved two Iranian nationals described as individuals that “U.S. persons generally are prohibited from dealing with.”
+
+On the other hand, the mining business is a purely free market. Miners can join and leave as they see fit and validate whichever blocks they choose. Their actions, and most other Bitcoin participants’, are dictated by the game-theoretic nature of monetary goods. As free-market believers, most Bitcoiners ultimately trust that the market will handle itself, with game theory helping it gravitate to the most efficient side.
+
+It is also important to note that Marathon’s is not a particularly influential mining pool. The company’s hashing power accounts for less than 6% of the total Bitcoin hash rate at the time of writing, per Blockchain.com.
+
+Therefore, Marathon’s decision to mine only “clean” blocks currently pose a minimal threat to Bitcoin users having their transactions censored. The mining pool would need a much more significant share of Bitcoin’s hash rate to start causing an actual impact. And most miners, which are mostly geographically dispersed outside of the U.S., have little to no reason to discriminate transactions based on American legislation.

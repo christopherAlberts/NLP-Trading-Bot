@@ -1,0 +1,23 @@
+Bitcoin Association, the Switzerland-based global industry organisation that works to advance business with the Bitcoin SV blockchain and BSV digital currency, announces the release of SPV Channels CE v1.1.0 for the Bitcoin SV network. The update, which has been developed by Bitcoin Association’s Bitcoin SV Infrastructure Team, introduces mobile client libraries with all-new functionalities, including push notifications for both iOS and Android devices. The release, including software development kits (SDKs) for both iOS and Android devices, is available for download now on GitHub.
+
+The SPV in SPV Channels stands for Simplified Payment Verification (SPV), which is the topic of section 8 of Satoshi Nakamoto’s original Bitcoin white paper. In section 8, Nakamoto outlines how users can verify payments on the Bitcoin network without needing to run a full network node – an essential element to scaling the Bitcoin network and retaining full peer-to-peer functionalities.
+
+SPV Channels facilitate always-on encrypted messaging channels between participants on the Bitcoin SV network and are a critical component for peer-to-peer transaction workflows. SPV Channels are asynchronous and require only an outbound connection, ensuring that secure communications between network participants are always viable – irrespective of whether participants are online or offline at a given moment.
+
+Recommended AI News: Sumo Logic and AWS Collaborate to Transform Security for Multi-Cloud and Hybrid Threat Protection
+
+Today’s release introduces SPV Channels to mobile devices, with mobile client libraries that include full integration with both Android and iOS push message notification systems. This new functionality leverages the Firebase Cloud Messaging service and unlocks a host of new use cases for mobile applications by eliminating the need for devices to actively query for relevant updates, significantly reducing the resource requirements for mobile devices leveraging services on the Bitcoin network and engaging in peer-to-peer communications or transactions.
+
+Full details of today’s release can be found in the SPV Channels CE v1.1.0 release notes on bitcoinsv.io.
+
+Speaking on today’s release, Steve Shadders, Technical Director of the Bitcoin SV Infrastructure Team, said:
+
+‘When we first released SPV Channels to the world last October, we proved the viability of the service itself and demonstrated how these new capabilities could be used to create desktop applications that leverage the service. We saw real potential and utility for this service if it could be effectively integrated into mobile applications, but to create the best user experience possible and ensure that it was resource-efficient, delivering this functionality required a mechanism to natively integrate with push notifications on mobile. With today’s release, the Bitcoin SV Infrastructure Team have delivered that functionality with a readymade SDK, introducing all-new functionalities for mobile devices and strengthening the Bitcoin network’s ability to deliver true peer-to-peer transactions.’
+
+Recommended AI News: Sennheiser Announces New EW-D Digital Wireless Microphone System Now Available at B&H
+
+Also commenting on today’s release, Bitcoin Association Founding President Jimmy Nguyen, said:
+
+“The Bitcoin SV Infrastructure Team continue to deliver on their mandate to offer the best blockchain platform for building large scale enterprise applications and supporting high volumes of user transactions. The new functionalities introduced with today’s release are another service offered on the BSV network to support massive scaling for high transaction volume, in addition to improving accessibility to such services by reducing resource requirements and lowering the barriers to participation for consumers and developers alike. This is another step towards fulfilling the Simplified Payment Verification outlined in Satoshi Nakamoto’s white paper and realising the Satoshi vision for a massively scaled Bitcoin network with high transaction volume and real utility.”
+
+Recommended AI News: NVIDIA Base Command Platform Provides Enterprises With Fast Path to Scale Production AI

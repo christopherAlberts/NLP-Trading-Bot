@@ -1,0 +1,49 @@
+This post originally appeared on Medium and we republished with permission from Xiaohui Liu.
+
+We introduce a completely new way to designing smart contracts on Bitcoin. In all our previous contracts, everything is embedded in Bitcoin Script and validated by miners. In the new approach, we combine previous contracting with transactions/contracts held and validated off chain. Surprisingly, it can maintain the trustless nature of on-chain contracts, while being drastically more efficient and private. We exemplify the general idea by improving a fair coin toss contract.
+
+Practical fair coin toss
+
+Using a hash-based commitment scheme, we introduced a contract to achieve fair coin toss without a trusted third party. There is a caveat for it to be practical. That is, if one party learns the other’s secret and finds out (s)he will lose, (s)he can simply abort, even though (s)sh cannot get refunded.
+
+Timed Commitment Scheme
+
+One approach to solve the aforementioned problem is using a Timed Commitment Scheme (TCS)¹. The basic idea is to have a party deposit some fund, which is refunded if he follows the protocol honestly and opens his commitment (i.e., revealing his secret) within a certain time. If he aborts, he forfeits the deposit.
+
+TCS operates in two phases:
+
+1. Commit Phase: Alice creates Tx0 and locks some fund in a contract called TimedCommit. The fund can be spent in two ways: 1) Alice opens her secret and signs; or 2) Both Alice and Bob sign after time t. She also signs Tx2 with timelock t and gives it to Bob. Note Bob validates Alice’s signature locally/off-chain.
+
+2. Open Phase: Before time t, Alice can redeem the fund by broadcasting Tx1containing her secret and signature. Otherwise, Bob can take the fund by broadcasting Tx2 after t.
+
+Disincentivize dropout in coin toss using TCS
+
+To discourage any party from aborting in the coin toss, each has to pay some deposit during the setup phase in Tx0. The deposit has to be larger than the bet amount to be effective. The resulting transaction graph² looks like the following:
+
+In the original setup transaction Tx0, there is only 1 output containing contract CoinToss. There are two additional outputs after TCS is introduced to disincentive both players from aborting.
+
+Note that even though 6 transactions are created, at most 4 will end up on chain due to Bitcoin’s capability to prevent double spend.
+
+Generalization
+
+This above approach can be generalized to arbitrary types of contracts, where security and fairness is desired when multiple distrusting parties want to conduct businesses without relying on a trusted third party. Smart contracts become a superset of smart contract we have introduced before, which purely consists of computer code run and validated by miners (i.e., Script/sCrypt). They can also include transactions kept off-chain and business logic validated off-chain. They are more akin to protocol designs in the domain of computer networking (e.g., 3 way handshake in TCP) and cryptography (e.g., Diffie–Hellman key exchange). Measures can be taken to ensure secure and fair protocol execution, even in the presence of adversaries and off-chain validation.
+
+Retaining the trustless benefit of on-chain smart contracts (aka, 1.0), smart contracts designed this way (aka, 2.0) enjoy salient advantages. It is also noteworthy Bitcoin’s UTXO model is amenable for this way of contracting and it would be difficult, if not impossible, to achieve the same using an account model.
+
+Efficiency
+
+In the toy example, we save 2 out of 6 transactions, a 33% reduction of on-chain transactions. We expect more significant transaction fee savings in practical applications where the transaction graph is much larger. For example, when it degenerates to a binary tree of depth n as in the following graph, only log n transactions have to be finalized on chain (in red arrow), instead of n!
+
+Privacy
+
+Since only a subset of transactions are settled on chain, anyone who only watches the blockchain may not obtain full information to figure out what is going on. At the same time, parties involved in the contract can keep all transactions, including ones not appearing on chain. This increases privacy while retaining the ability to recourse if necessary.
+
+This is only the first of many 2.0 contract examples to come. Stay tuned.
+
+***
+
+[1] Andrychowicz, Marcin & Dziembowski, Stefan & Malinowski, Daniel & Mazurek, Łukasz. (2014). Fair Two-Party Computations via Bitcoin Deposits. 105–121. 10.1007/978–3–662–44774–1_8.
+
+[2] Bitcoin Class: The Traveling Salesman Problem and the Transaction DAG
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

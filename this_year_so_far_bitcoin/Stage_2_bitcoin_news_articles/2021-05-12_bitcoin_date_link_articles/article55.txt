@@ -1,0 +1,17 @@
+This year is on track to be a record year for bitcoin donations as more donors continue to learn about the tax benefits of donating bitcoin instead of fiat. Why do so many high-networth individuals make large gifts of equities or bitcoin instead of donating in fiat? It’s usually all about taxes. If you donate bitcoin, which is considered property by the IRS for tax purposes, then donating appreciated bitcoin is likely one of the most tax efficient ways to support your favorite bitcoin-friendly charity. Why? Think about it like donating pre-tax dollars. When you donate bitcoin directly to a 501c3 nonprofit, you (the donor) do not owe capital gains taxes and can write off the fair market value of the donation. If you were to sell your bitcoin and then donate afterward, you’d be paying 30% or more in taxes first and then donating less as a result. Plus your write-off would be lower as well since the donation is smaller. Since the nonprofits are a 501c3, they also don’t have any tax liability on the gifts and are better off as well.
+
+For those of you who want to take it one step further, there is also a tax arbitrage opportunity since there is no wash rule related to crypto donations. This only helps you if you’re already donating fiat but have appreciated bitcoin you’re HODLing. You might need to read this next paragraph more than once because this is a little more complex.
+
+So, say you’re already donating $10,000 per year to your favorite charity using your credit card. If you replace that $10,000 donation with an equivalent bitcoin donation, and use the fiat to purchase back your bitcoin position, you’ve now erased your capital gains on the previous positions and raised your cost-basis. So by making that same gift in bitcoin each year and then repurchasing that same amount using the fiat you would have donated, you’re much better off.
+
+Unfortunately, most Bitcoiners don’t know about the tax benefits of donating appreciated bitcoin, but if you ask your financial advisor or accountant, they’ll likely tell you to donate your most highly appreciated assets (like bitcoin) first. Until recently, stock donations weren’t easy so this was usually a strategy reserved for the mega wealthy. With bitcoin being easier to transfer and hundreds of nonprofits accepting bitcoin donations directly, it's becoming more common for the average person to support their cause in a more tax efficient way by donating bitcoin.
+
+To help raise awareness and promote bitcoin donations, The Giving Block has launched a Tax Season campaign that aims to educate users on the tax benefits of donating appreciated bitcoin. Although I’m biased toward making a donation, there are a handful of ways to reduce your bitcoin taxes beyond making a donation. Other methods include
+
+Using tax software to automate tracking your transactions Working with tax professionals who do the heavy lifting for you Moving to a city like Miami that is in a state that doesn’t have personal income taxes (plus they have a bitcoin-friendly mayor!)
+
+So whether you’re moving to Miami to get a tan and save on taxes or donating bitcoin to a charity, we hope you take the time to plan ahead or consult a tax professional to optimize your HODL plan so you can stack as many sats as possible.
+
+This article does is not tax advice nor financial advice - all parties should do their own research when making any financial decisions.
+
+This is a guest post by Alex Wilson. Opinions expressed are entirely their own and do not necessarily reflect those of BTC, Inc. or Bitcoin Magazine.

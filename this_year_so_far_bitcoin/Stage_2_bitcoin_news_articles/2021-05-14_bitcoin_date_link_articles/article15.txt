@@ -1,0 +1,39 @@
+A closely tracked ratio in cryptocurrency markets known as the “Grayscale premium” flipped earlier this year to a discount, and it has widened this week to a gaping 21%, which is the highest level on record, according to Skew, a crypto analysis firm.
+
+For retail traders, or anyone with access to a brokerage account, the growing disparity might present an opportunity to buy bitcoin on the cheap, analysts say.
+
+The Grayscale Bitcoin Trust (GBTC), from the crypto asset manager Grayscale, is the largest U.S. investment vehicle for buying bitcoin (BTC) through a stock exchange. The Grayscale discount represents the difference between the price of the underlying bitcoin assets and the value that’s implied from the price of the trust’s shares. (Grayscale is owned by Digital Currency Group, CoinDesk’s parent company.)
+
+The bet some traders could be making now is that the discount would evaporate if Grayscale receives approval from the U.S. Securities and Exchange Commission (SEC) to convert the trust to an exchage-traded fund. If that happened, according to one analyst, the shares might quickly climb back toward the price of the underlying bitcoin – allowing traders to recapture the discount as a profit while still booking any gains from the cryptocurrency itself.
+
+“Investors looking for long-term passive bitcoin exposure are probably better off buying GBTC over spot bitcoin since you get paid to wait more via the discount than you pay in excess fees,” David Grider, strategist at investment research firm FundStrat, wrote in an email.
+
+Chart shows GBTC premium flipping to discount in March 2021. Source: Skew
+
+In recent years, when GBTC was trading at a premium, the situation looked much different.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Accredited investors – usually big institutional players or wealthy people – could profit from buying into GBTC at the trust’s net asset value (NAV). They were subject to a lockup period of six months, but after that, they could then sell their shares for a profit in the open market to lock in any gains from bitcoin and capture the premium as an extra kicker. The 20%-50% GBTC premium also could offset the risk from any potential declines in bitcoin’s price.
+
+But that “Grayscale trade” wasn’t available to retail traders.
+
+Then in March, as bitcoin’s 2021 rally stalled and more competition arrived from bitcoin ETFs in Canada, Switzerland and elsewhere, GBTC began trading at a discount to its net asset value, a disincentive for new institutional buyers. Another deterrent was the 2% annual fee.
+
+“Much of the discount has been the result of investors expecting a U.S.-listed bitcoin ETF in the near future after the approval of several in Canada,” Grider wrote.
+
+Grider’s view assumes Grayscale is successful in converting the trust into an ETF, which is far from assured. There’s a risk that the SEC might not approve any bitcoin ETFs or that Grayscale’s proposal might not be approved as soon as competing investment vehicles are.
+
+But now that Grayscale is “100% committed to converting GBTC into an ETF,” market confidence could return and potentially unlock roughly $5 billion worth of GBTC shares in the coming months, according to Grider.
+
+Table shows the value of vesting shares based on GBTC. Source: FundStrat
+
+These unlocked GBTC shares will be available to retail traders at a discount.
+
+“Investors who own GBTC could see their shares converge towards NAV,” Grayscale wrote in an email.
+
+Another short-term or medium-term risk is that the GBTC discount widens from current levels.
+
+“For traders, I wouldn’t be surprised if the gap widens over the next few weeks as a big chunk of new supply comes to the market, but the overhang should start to clear up heading into Q3,” Grider wrote.
+
+Digital Currency Group authorized the purchase of up to $750 million worth of shares of GBTC on May 3. Repurchasing shares is a common tool used by companies seeking to increase the price of those shares by simultaneously creating demand while decreasing the number of shares outstanding.

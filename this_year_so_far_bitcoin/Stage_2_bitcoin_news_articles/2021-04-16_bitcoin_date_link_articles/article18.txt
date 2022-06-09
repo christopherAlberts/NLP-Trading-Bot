@@ -1,0 +1,15 @@
+In its effort to stifle entities that attempted to influence U.S. elections the Treasury Department sanctioned several bitcoin addresses.
+
+As part of an effort against entities that attempted to influence the 2020 U.S. presidential election, the U.S. Department of the Treasury’s Office of Foreign Assets Control (OFAC), recently announced sweeping sanctions to curb the work of Russian online influence outfit the Internet Research Agency (IRA). This included adding several bitcoin addresses to its “Specially Designated Nationals” list of entities that U.S. citizens are blocked or prohibited from dealing with.
+
+The recent announcement noted that the Treasury has targeted Pakistan-based Second Eye Solution (SES), which it claims “specializes in creating and selling fraudulent identities and has assisted the IRA in concealing its identity to evade sanctions.” Specifically, it has identified digital currency addresses, including bitcoin addresses, used by SES.
+
+“As part of today’s listing of SES on OFAC’s Specially Designated Nationals and Blocks Persons List (SDN List), OFAC is also identifying digital currency addresses used by SES to fulfill customer orders in order to help assist financial institutions,” per the announcement. “Known SES digital currency addresses have received $2.5 million in digital currencies over more than 26,900 transactions from 2013 to March 2021.”
+
+In a follow up release, the Treasury published a list of the individuals and entities added to its SDN list, which included 28 digital currency addresses, some of which have transacted significant amounts of bitcoin.
+
+Notably, President Biden had signed an executive order that blocks citizens from directly or indirectly engaging or attempting to engage in “deceptive or structured transactions or dealings to circumvent any United States sanctions, including through the use of digital currencies or assets or the use of physical assets.”
+
+As a pseudonymous, open-source transactions system, there is question about how effectively the U.S. government can enforce sanctions imposed on the use of Bitcoin. But this recent action indicates that it certainly wants to.
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.

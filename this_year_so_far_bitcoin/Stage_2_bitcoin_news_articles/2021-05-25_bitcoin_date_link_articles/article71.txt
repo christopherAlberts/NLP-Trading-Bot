@@ -1,0 +1,53 @@
+Major cryptocurrencies suffered double-digit declines as volatility extended into the weekend.
+
+At Consensus 2021, investors pondered whether the sell-offs signal the end of this bull cycle.
+
+They also shared how bitcoin can live up to Hal Finney's historic $10 million price prediction.
+
+See more stories on Insider's business page.
+
+It was the kind of volatility that keeps investors' eyes glued to the screen.
+
+As last week's wild fluctuations extended into the weekend, none of the major cryptocurrencies was spared from double-digit declines. Bitcoin and ether tumbled as low as $31,384 and $1,758 on Sunday before rebounding to around $39,000 and $2,600, respectively, as of 4:30 p.m. ET on Monday.
+
+The most recent pullback was said to have stemmed from an official statement summarizing Chinese vice-premier Liu He's comments at a state council meeting on May 21. The meeting, which was focused on preventing financial risks, mentioned specifically the need to "combat mining and trading of bitcoin," according to the Chinese government's website.
+
+The statement came on the heels of a reiterated warning against using crypto in transactions from three Chinese industry bodies, which had already spooked markets and caused a sudden steep correction on Wednesday.
+
+The impending crackdowns on mining in China have led Huobi, a major Chinese crypto exchange and trading services provider, to scale back some of its services in certain countries and cease its miner hosting services in mainland China, according to Coindesk.
+
+However, all that could have been a lot of FUD or fear, uncertainty, and doubt. Crypto insiders have pointed to the massive leverage in the system and the forced futures liquidations as the drivers of the recent crash.
+
+Billionaire Sam Bankman-Fried, chief executive of crypto exchange FTX and quant trading firm Alameda Research, tweeted on Sunday that more than $20 billion of long futures had been liquidated over the previous week, with about $20 billion in open interest left.
+
+He added that a lot of the remaining open interest is very unlikely to be liquidated, which means that this week is "likely to be less liquidation-driven than the last one" as "large, market-dominating liquidations" near an end.
+
+Crypto recovers as Ray Dalio says he has 'some bitcoin'
+
+Amid the crypto comeback on Monday, insiders gathered at the Consensus by CoinDesk 2021 conference to share their thoughts on the recent correction and the future of the industry.
+
+Rumi Morales, a partner at Outlier Ventures, said at the conference that she was not surprised by the rebound. She recalled prior drawdowns when the price of bitcoin lost 83% of its value in two days in 2013 and the crypto winter in 2017 when the correction was 84%.
+
+"Since then we have seen so much more sophistication in this space. We've seen the development of a lot of new technologies, a lot of great products that are actually shipped, and obviously many more institutional players in the space with products to help manage risk," she said. "So for all of those reasons, the market is much stronger now than it's been in those past corrections that we've had."
+
+One of the biggest heavyweight institutional newcomers in the crypto space is billionaire hedge fund manager Ray Dalio. The founder and chief investment officer at the $140 billion Bridgewater Associates said he has "some bitcoin" without disclosing how much he owns.
+
+Dalio considers bitcoin's success its greatest risk. He said as the cryptocurrency becomes a bigger deal and more of a threat in the way that people want to sell their bonds and buy bitcoin, that becomes an existential risk.
+
+"The more we create savings in it, the more you might say 'I'd rather have bitcoin than the bond," he said. "Personally, I'd rather have bitcoin than a bond."
+
+How bitcoin could live up to Hal Finney's $10 million prediction
+
+Hal Finney was a computer scientist and one of the earliest adopters of bitcoin. He not only helped Satoshi Nakamoto develop the bitcoin project but also came up with a $10 million per bitcoin price prediction just a few weeks after discovering it.
+
+He famously wrote to Nakamoto and a mailing list of like-minded cypherpunks in 2009 that if bitcoin were to become the dominant payment system in the world, the total value of the currency would be equal to the value of all the wealth in the world. That would make each bitcoin worth $10 million.
+
+Finney died in 2014 as a result of the complications of Lou Gehrig's disease, but his legacy and work have lived on. In a Consensus panel all about predictions, crypto insiders from the US, Europe, and Asia broke down how they evaluate the future of the largest cryptocurrency.
+
+Dan Held, growth lead at crypto exchange Kraken, said he finds the stock-to-flow model and rainbow charts imperfect but interesting ways to arrive at a banded range of price outcomes for bitcoin.
+
+"We are talking about bitcoin's final price during this bull run potentially being between $100,000 a bitcoin and $500,000," he said. "But I do think it's really interesting because it does create a bounded range versus trying to precisely pin down a number. I think those bounded ranges are somewhat valuable and provide some degree of accuracy."
+
+Niklas Nikolajsen, the founder and chairman of Bitcoin Suisse AG, said the inflation caused by monetary supply and the resultant devaluation of the US dollar means that "the question is not if bitcoin will reach a $10 million valuation so much as when."
+
+"You can look at the monetary supply numbers and you can say that it's increasing dramatically," he said, "whereas bitcoin, we are down to around 1.2% a year and it cannot be further increased in the future."

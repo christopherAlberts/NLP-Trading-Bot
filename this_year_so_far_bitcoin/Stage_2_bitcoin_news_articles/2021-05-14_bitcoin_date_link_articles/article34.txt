@@ -1,0 +1,13 @@
+As Bitcoin looks to recover on Friday from a stomach-churning dip on the back of a strong bid, on-chain data indicates that high-net-worth "whale" wallets may not be part of the effort.
+
+Bitcoin (BTC) — along with most crypto markets — suffered a staggering series of losses this week following a string of negative tweets from the world’s second-richest man, Elon Musk.
+
+While prices have begun to rebound, “whale” wallets — a playful term for Bitcoin addresses with 1,000 or more BTC — have nonetheless been dwindling in the midst of the dip, indicating that big money players are moving into risk-off mode.
+
+According to data from Glassnode, the total number of wallets with 1,000 BTC or more clocks in at just over 2,100 addresses — down nearly 4.7% from the month prior, and down from nearly 2,500 in February.
+
+However, tracking whale wallet behaviors as an indicator of possible price movements has been an exercise in mixed signals as of late. Perma-bull MicroStrategy added another 271 BTC to its corporate treasury this week, raising its total number of BTC to 91,850 — a stockpile worth over $4.7 billion at today’s prices. However, exchange inflows — often a sign that whales and other investors are selling BTC — hit 30,000 coins last week as well, though experts say the price managed to withstand the pressure well.
+
+BTC net exchange inflows. Source: Glassnode
+
+One key metric, however, is inarguably flashing bearish signs. Analysis last month showed that whales and sellers have continued to offload BTC, despite failing to make profit on their trades. This could indicate that sell-side pressure may lead to a breakdown in price for BTC.

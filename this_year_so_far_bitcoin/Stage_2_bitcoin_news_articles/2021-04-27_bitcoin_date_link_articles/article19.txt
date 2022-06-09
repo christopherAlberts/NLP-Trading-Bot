@@ -1,0 +1,29 @@
+Bitcoin miners in southern China are back online after a series of coal mining accidents led to outages last week, cascading Bitcoin’s hashrate at same time as bitcoin’s (BTC) price.
+
+Bitcoin’s hashrate – an estimate of how much computational power miners produce at a given time – has recovered from roughly 125 exahashes per second following the outages to nearly 160 exahashes per second, according to mining pool API data.
+
+Miners in the coal-abundant Xinjiang province began bringing their machines online at the end of last week, while more came online over the weekend though at a slower rate than expected, F2Pool Director of Global Finance and Business Development Liang Da told CoinDesk.
+
+Related: Tesla’s Bitcoin Selling Shows How BTC Is More Than Digital Gold
+
+“The total hashrate is around 150 exahashes a second right now. The recovery is slower than expected,” he said, adding that the network needs another 20 exahashes or so to come online before it is at pre-outage levels.
+
+Compass Mining CEO Thomas Heller told CoinDesk the network’s current hashrate could be higher than the nearly 160 exahashes reported by mining pool APIs when factoring in miners who keep their data private like Foundry.
+
+Bitcoin mining cycles in China
+
+The affected miners rely on cheap coal during China’s dry season to power their machines. Once the rains pick up at the end of May, most will migrate to Northern China to make use of this region’s cheap hydroelectric power.
+
+Igor Runets, the CEO of bitcoin mining colocation firm BitRiver, told CoinDesk that the outages, though temporary, underscore Chinese mining centralization as well as the need to move toward renewables.
+
+Related: Priceless Principles: Bitcoin Education and the RIA Community
+
+“Although the drop in hashrate was temporary, it was yet another sign of both the unreliability of non-renewable sources of energy for bitcoin mining and the centralization of mining in China. I believe that bitcoin mining’s future is green, and places with surplus renewable energy have the most potential for it,” he said.
+
+Story continues
+
+In light of the current bull market, bitcoin’s energy footprint has yet again come under scrutiny, with some newcomers intent on buying “clean” bitcoin that only comes from renewables mining. North American ventures like Blockcap and Gryphon focus on renewables-only mining, while others use a mix of renewables and natural gas.
+
+As these North American companies scale, using renewables or not, more hashrate is coming to North America, but the region still has a long way to go before it matches China’s majority share of the world’s hashrate.
+
+Related Stories

@@ -1,0 +1,33 @@
+India’s beleaguered blockchain industry has finally got some solid support to ensure its survival, with an influential industry evangelist evoking the vision of a billion smartphones acting as gateways to the brave new world of decentralized finance.
+
+In this world, Wall Street's capabilities will be available to everyone, according to angel investor Balaji Srinivasan, formerly the chief technology officer at Coinbase Global Inc., the largest U.S. crypto exchange about to go public. “We could turn every phone into not just a bank account but a bonafide Bloomberg Terminal," he writes on his blog.
+
+Mobile banking has indeed emerged as a way to end financial exclusion, a chronic problem in all emerging markets. In India, payments worth almost $60 billion are now taking place every month via wireless devices, three-fifths more than ATM withdrawals. A year ago, cash was ahead by 37%. At this rate of digital adoption, the lead enjoyed by checks might also soon vanish.
+
+But because India has done exceedingly well in mobile payments, the bureaucracy has developed a phlegmatic resistance to newer ideas. Bitcoin and other cryptocurrencies are misunderstood as instruments of money laundering that offer no real benefits. The country’s nascent blockchain industry — survivor of an attempt on its life in 2018 — is growing up in fear. According to media reports, a new law might ban all tokenized representation of money — unless it is the central bank’s own electronic cash.
+
+Srinivasan’s advocacy has thus come at a crucial time. A digital wallet that can handle both central bank-issued electronic cash and cryptocurrencies will end up “giving every Indian the ability to make both domestic and international transactions of arbitrary complexity, attracting crypto capital from around the world, and leapfrogging the 20th century financial system entirely," he says in his blog post.
+
+A sometime Stanford University lecturer in computational biology and statistics and cofounder of a genomics startup, Srinivasan is a recognized name in the rapidly growing field of smart contracts. Running on the Ethereum blockchain, these lines of cryptographic code can substitute for paper agreements, calculations of who owes what to whom, and enforcement of claims via courts.
+
+It’s early days, but if they live up to their hype, smart contracts could upend traditional finance.
+
+Srinivasan is proposing to put this new-age capability within reach of India’s internet users, who’ll be nearing the 1 billion mark by 2023. What’s more, iSPIRT, the think tank that has conceived much of India’s digital identity and payments architecture, is putting its weight behind his idea, which it says can help fill a $250 billion financing gap for small and midsize firms. “Meritorious businesses without national profiles aren’t able to access the capital they need," the Bangalore-based think tank’s researchers wrote in a companion paper to Srinivasan’s article.
+
+The message is clear. The tech industry is picking up the cudgels on behalf of blockchain entrepreneurs, with Nandan Nilekani, a cofounder of software exporter Infosys Ltd. and the architect of India’s universal identification program, amplifying iSPIRT’s case with a tweet.
+
+The arguments should give policy makers pause before they impose some sort of an impractical, impossible-to-enforce ban on cryptocurrencies. Millennials have already embraced tokens. India is of late providing more volume than China on popular peer-to-peer platforms for transferring Bitcoin and other digital assets.
+
+The bureaucracy will no doubt push back. The Reserve Bank of India, which tried in 2018 to cut off the digital-asset industry’s links to local bank accounts, would likely see Srinivasan’s proposals for democratized access to international finance as an end to its capital controls. (Even students, he says, should be allowed to issue personal tokens, collateralizing the worth of their future time.) Monetary policy may then have to give up trying to manage the exchange rate altogether.
+
+Maybe the authorities will propose a compromise: experimentation in baby steps. That will be just fine, considering that the still-modest $50 billion decentralized finance industry will need time to mature. As the Greensill Capital fiasco showed, even promising innovations in closely supervised conventional finance — such as supply-chain financing — aren’t without their big blowups.
+
+At a minimum, decentralized finance offers a third option. Traditional banks are slow and expensive, while finance by large e-commerce firms could get too dominant. “Big Techs can use their platforms to generate large amounts of customer data, employ it in training their artificial intelligence algorithms, and identify high-quality loans more efficiently than competitors lacking the same information," says University of California, Berkeley economist Barry Eichengreen.
+
+China is reining in its tech titans, and may launch its official digital currency, e-CNY, next year. India, meanwhile, is still debating whether it can employ blockchain technology in social projects like land registry while barring tokens from circulating as money. With proponents like Srinivasan and Nilekani, the conversation will hopefully become more real.
+
+Andy Mukherjee is a Bloomberg Opinion columnist covering industrial companies and financial services. He previously was a columnist for Reuters Breakingviews. He has also worked for the Straits Times, ET NOW and Bloomberg News.
+
+This story has been published from a wire agency feed without modifications to the text. Only the headline has been changed.
+
+Subscribe to Mint Newsletters * Enter a valid email * Thank you for subscribing to our newsletter.

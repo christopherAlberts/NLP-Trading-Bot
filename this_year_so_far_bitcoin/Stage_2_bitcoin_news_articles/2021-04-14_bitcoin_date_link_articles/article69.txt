@@ -1,0 +1,103 @@
+“It’s like a rocket headed to the moon… That could explode at any minute.”
+
+~Ryan Hoover, Founder of Product Hunt (on BitClout)
+
+Timing is everything.
+
+Companies that capitalise on major trends in technology often have impeccable timing.
+
+To achieve exponential growth, you need timing on your side.
+
+Since Bitcoin decentralised money, it was only a matter of time until the blockchain decentralised social media. Meet BitClout.
+
+The protocol launched just two weeks ago and is the active front runner to achieve this mission. BitClout isn’t the first social token, but its execution and timing have given it the best chance to succeed.
+
+There are three parts to BitClout:
+
+Never miss industry news Get the latest music industry news, insights, and updates straight to your inbox. Learn more JOIN
+
+Part 1: A marketplace trading on creators’ social reputation — This takes place in the form of “creator coins” at BitClout.com — Every creator gets their own coin, which can be purchased by anybody with the BitClout currency.
+
+The creator get a founder reward (usually 10–20%) each time a new coin is sold. For example, when I buy 10 coins of a creator, they receive 1–2 of their own coins. Creators benefit as fans become aligned stakeholders.
+
+Part 2: A proof of concept social application — a Twitter clone living on BitClout.com to show the potential application of BitClout.
+
+The home view on BitClout.com — the twitter-esque feed in the middle and the top creator coins on the right.
+
+Part 3: The future — What can (and will) be built on top of BitClout.
+
+“What you see on the website is NOT BitClout.”
+
+–@vron on Clout:Hour in Clubhouse
+
+BitClout is not BitClout.com — the same way Ethereum is not Ethereum.com, nor Bitcoin, Bitcoin.com. BitClout is a decentralised network — Applications will be built on top of it beyond the proof of concept showcased on the website today.
+
+Since BitClout is social by design, if successful, applications are infinite in their potential. Potential examples could include:
+
+Soundclout — A music streaming service where you buy artist’s creator coins as you listen to their music.
+
+— A music streaming service where you buy artist’s creator coins as you listen to their music. A CRM — To manage the relationships and communication with top coin holders.
+
+— To manage the relationships and communication with top coin holders. Robinhood for Creators — more detailed market analysis than currently available on BitClout.com (similar to BitCloutList.com — Full disclosure: I’m a coin holder).
+
+more detailed market analysis than currently available on BitClout.com (similar to BitCloutList.com — Full disclosure: I’m a coin holder). SubClout — A platform to give premium subscription content to coin holders.
+
+However, the purpose of this article is not to be a comprehensive guide on what BitClout is or could become — For that, please refer to the BitClout official “one pager”.
+
+We will also not speculate whether BitClout will make it to the moon or implode on the way.
+
+Instead, we’ll cover the emerging market forces occurring simultaneously priming BitClout for adoption.
+
+IF BitClout is successful on its initial voyage, these will be the 7 reasons why:
+
+1. Cryptocurrency growth has exploded — Daily active addresses almost doubled from March 2020 to April 2021. Coinbase, Robinhood, PayPal, and many others have made it easier to buy cryptocurrency. With more than 10% of the US population now owning cryptocurrency, we could be at the tipping point for a consumer blockchain product like BitClout to work.
+
+2. Innovation in stock trading led by Robinhood — No trading fees and a user-friendly UI/UX with gamification attracted a new generation of traders. Using BitClout feels a lot like trading stocks. And clearly, there is demand to invest in creators directly — see MrBeast’s tweet from December below.
+
+3. Increased censorship in social media — In the last three months, social media censorship concerns have reached new heights. Enter BitClout, where anyone can make a profile and moderate their own space without a centralized “arbiter of truth”. Since it’s decentralized with all data on the blockchain, there’s no app for the app store to shut down.
+
+4. The creator economy is exploding — The pandemic expedited the notion that one could generate revenue creating content, entertainment, or even digital art. With more full time creators, technologies have emerged to service them. BitClout gives every creator their own “creator coin” — This concept comes at a time when many are looking to monetize their voice and deepen their relationship with superfans beyond the algorithms of existing social media.
+
+5. The NFT rush is driving awareness and curiosity toward new digital assets — NBA Top Shot achieved $225MM in revenue February of 2021 — A figure more than the entire NFT market’s revenue from 2020. The creator industry is seeking new ways to monetize digital presence. Major NFT artists and collectors, such as 3LAU and WhaleShark, have already joined BitClout. There will be more early adopters to BitClout because the platform is riding on the coattails of the NFT craze.
+
+6. Bitcoin eclipses $50,000 and is still mooning — Bitcoin has been the best performing asset in the world over the last five years… By a mile. Bitcoin decentralized money. BitClout may decentralize social. With a similar name and analogous mission, BitClout comes at a time when FOMO is at an all-time high. Nobody wants to miss out on the next Bitcoin… Could it be BitClout?
+
+7. Clubhouse’s rise provides a megaphone for new ideas — Clubhouse creates instant discussion.
+
+When BitClout first launched, my brother Alec and I started a room titled: Elon Musk Has a Coin. WTF is BitClout?! It quickly filled with over three thousand people, including impromptu speakers Troy Carter and Moe Shalizi, while Naval Ravikant and Chris Lyons listened in.
+
+“I think you guys are smart because you’re early on to something very special.”
+
+–Scooter Braun (in the BitClout Community clubhouse room) Note: TQ Ventures, a venture fund led by Scooter Braun, Andrew Marks, and Schuster Tanger, is an investor in the token.
+
+Who are some of the creators who have joined BitClout?
+
+Tech investors: Chamath Palihapitya, the Winklevoss twins, and the founder of TechCrunch Michael Arrington
+
+Chamath Palihapitya, the Winklevoss twins, and the founder of TechCrunch Michael Arrington Musicians: Diplo, Lil Tjay, Kygo, Steve Aoki, Echosmith, and Mike Posner
+
+Diplo, Lil Tjay, Kygo, Steve Aoki, Echosmith, and Mike Posner Influencers: JustMaiko (47MM on TikTok), DudeWithSign, Tana Mongeau, Sam and Colby, and Helen Owen
+
+JustMaiko (47MM on TikTok), DudeWithSign, Tana Mongeau, Sam and Colby, and Helen Owen Celebrities: Ashton Kutcher (who also happens to be a brilliant tech investor), Pamela Anderson, and Scott Disick
+
+Ashton Kutcher (who also happens to be a brilliant tech investor), Pamela Anderson, and Scott Disick Other: Superstar soccer player Paul Pogba, best-selling authors Neil Strauss and Grant Cardone, the notorious WallStreetBets, and the media company HypeBeast
+
+IF the momentum continues and BitClout makes it to the moon, the seven forces above will have played a critical role in ensuring the defiance of gravity to make it there.
+
+There are several unanswered questions. Many have criticized BitClout’s inability to transfer funds back to Bitcoin. However, some consider a “lock-up” period a norm for the field. Plus, exchanges, such as Coinbase and Gemini, have invested in the token so liquidity is likely around the corner.
+
+It’s very early days for BitClout… Like when Uber was just black cars in San Francisco or Facebook was only available at specific colleges.
+
+Is BitClout the “Napster” or “Spotify” of decentralized social media?
+
+I’m not sure, but it’s definitely worth the experiment, especially with world class venture funds like Sequoia Capital, Andreessen Horowitz, and Social Capital behind it.
+
+We’re living in a time of the financialization of everything:
+
+“The youngest cohorts of Millennials & all of Gen Z have grown up in a world where everything from Sneakers to eSports virtual skins, to Trading Cards, can be bought and sold in some semblance of an exchange paradigm. -John Street Capital
+
+The continuation of this paradigm has now evolved to people.
+
+BitClout taps into our desire to believe in ourselves and those we love as we witness our collective growth.
+
+Let’s “moon” together. See you inside! 💥🚀 🌕

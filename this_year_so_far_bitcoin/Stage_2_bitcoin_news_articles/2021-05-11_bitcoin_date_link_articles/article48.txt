@@ -1,0 +1,49 @@
+Centric (CNR/CNS) Announces Migration to Binance Smart Chain
+
+press release
+
+PRESS RELEASE. London, UK — Centric announced an upcoming fork to the Binance Smart Chain (BSC), after almost 2.5 years on the TRON blockchain. Centric’s tokens, Centric Cash (CNS) and Centric Rise (CNR), will move to the BEP-20 token standard native to the Binance Smart Chain.
+
+Binance Smart Chain (BSC) touts “the advantages of the Binance Chain, optimized for ultra-fast trading.” It launched in September of last year, and has become a popular choice for decentralized app (DApp) deployment.
+
+“The move to Binance Smart Chain represents the most exciting development since CNS launched on exchanges last July,” said Joel Clelland, Centric’s CEO. “We’ve been watching the BSC community develop, and we are impressed. BSC’s reputation aligns well with how we see Centric and will allow us to scale.”
+
+Centric’s Chief Operating Officer, Thomas Butcher, pointed out that BSC offers integration with the popular MetaMask wallet, “with just a quick user customization requiring no special skills.”
+
+“The opportunity to hold and transact Centric tokens through MetaMask opens a world of possibilities for our community,” said Butcher. “Centric users will gain access to a proliferation of projects and utilities in the DeFi space. I see us adding more decentralized exchanges (DEXs), incorporating yield farming, expanding opportunities with new DApps, NFTs, and more,” said Butcher.
+
+Before deciding to switch, Clelland said the team consulted the ten centralized exchanges listing CNS.
+
+“We discovered most already integrate with the Binance Smart Chain. The overwhelming support and cooperation of the exchanges increased our confidence in executing the switch with minimal disruption,” said Clelland.
+
+The rising cost per transaction on TRON over the past year provided another motivation for the move. In contrast to TRON, the cost per transaction on BSC has stayed the same or decreased, even while the price of Binance Coin (BNB) rose sharply starting in January.
+
+Centric Cash (CNS) will be renamed to Centric Swap, as the new name better reflects the token’s utility as the on-ramp to the Centric network, and the off-ramp to liquidity. CNS will keep the CNS ticker. The name and ticker of Centric Rise (CNR) will remain unchanged.
+
+Centric’s developers are building out a conversion tool to execute a 1:1 swap between the TRC-20 tokens and the new BEP-20 tokens. CNS held on exchanges at the time of the switch will automatically convert, as will all CNR held in Centric’s native wallet. Users with CNR or CNS in an external wallet will have access to the conversion tool as well.
+
+Clelland said the team still intends to build their own blockchain, per their roadmap.
+
+“Developing a blockchain from the ground up is a major undertaking. While it’s still on the horizon, we didn’t want to let the development hold us back from leveling up. Switching to BSC will benefit the project and help us grow the community in the meantime. Their blockchain is deployed and battled-tested. It’s fast, ubiquitous, and offers low-cost transactions. I couldn’t be happier,” said Clelland.
+
+Centric’s development team is working with key partners, including casino site Moolah.bet and DeFi staking platform Green House Staking, to ensure a smooth integration.
+
+Learn more about Centric – https://www.centric.com
+
+Download Centric’s Whitepaper – https://www.centric.com/docs/Centric_Whitepaper.pdf
+
+Telegram – https://t.me/CentricChat
+
+Twitter – https://twitter.com/centricrise
+
+About Centric
+
+Centric was conceived with the vision of one day replacing traditional fiat currencies. Blockchain technology will enable a more transparent world and we believe our innovative approach to achieving widespread adoption long-term sets Centric apart from other cryptocurrencies today.
+
+Centric believes the largest obstacle to the mass adoption of cryptocurrencies is price volatility. Cryptocurrencies, unlike fiat currencies, do not have a central bank to implement monetary policy focused on stabilizing purchasing power. Thus, changes in demand induce massive price fluctuations. The decentralized model to price discovery has made the majority of existing cryptocurrencies nothing more than stocks or commodities, valued on psychology, traded on unregulated stock markets, and susceptible to manipulation. The lack of price stability has prevented credit and debt markets from forming because volatility incurs a premium.
+
+While the rest of the industry focuses on transaction throughput and smart contracts, Centric focus on solving price stability to realize the economic capabilities that the blockchain enables.
+
+This is a press release. Readers should do their own due diligence before taking any actions related to the promoted company or any of its affiliates or services. Bitcoin.com is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in the press release.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons

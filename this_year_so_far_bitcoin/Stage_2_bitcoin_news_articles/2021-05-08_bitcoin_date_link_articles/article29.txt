@@ -1,0 +1,33 @@
+Blockchain startup Vaionex is developing the BitcoinSVDevelopers.com domain as a focal point for Bitcoin SV developers. Bitcoin Association had the opportunity to interview Vaionex founder Robin Kohze about the project, and how it can best serve the emerging Bitcoin SV developer ecosystem.
+
+Rather than buying a domain fresh, Kohze told Bitcoin Association of how he and the company inherited the domain from its original owner. Leveraging the power of the existing brand around the domain, Kohze said his aim was to restore the site to its original strengths, bringing it back to life as a hub for the developer community.
+
+Speaking of Bitcoin SV, Kohze said that as an infrastructure provider, it was to the benefit of the platform to attract as many developers to the ecosystem as possible.
+
+“We are an infrastructure provider, which means the more developers we onboard to the ecosystem, the more we can ultimately do for them. We consider having such platforms a win-win situation that every infrastructure company in the space will benefit from.”
+
+Kohze said the fact there was a single source of knowledge for developer resources made it a convenient starting point for onboarding new developers, showing them what they can do with Bitcoin SV and, crucially, how to do it.
+
+“We liked the fact that there was one platform [the old website] that you can send someone who is completely new to the ecosystem, to pick them up from wherever they’re starting from, and then say, ‘Here are these resources, here’s what you can do with Bitcoin SV and here are the people working on it now.’”
+
+Rather than influencing the resources, or shaping the platform in its own image, Kohze said Vaionex had taken an impartial, neutral approach, considering their role to be that of participants in the developer ecosystem.
+
+“We tried to be as impartial as possible when building the platform, adding every perspective of development to the site. As a company, we don’t think we can nor should capture everything—and rather see ourselves as participants within the greater ecosystem that provide a gateway into development and provide critical infrastructure to deliver working products.”
+
+A key feature of the platform will be the involvement of leading members of the developer community, bringing on board individual experts to serve as moderators.
+
+“What makes us unique is that we will invite leading members from the ecosystem to serve as moderators. We think there are always people coming and going, and people who have more insights and people who have less insights into new developments.”
+
+Kohze expects the need for a central developer library to become more pressing as the Bitcoin SV platform grows.
+
+“If we are going to exponentially grow as an ecosystem, it doesn’t make sense to have the presence or absence of specific developer libraries completely controlled by somebody deciding which is the most important or the second most important resource. You need to have systems that self-manage, for instance by pushing up what is popular, and what is popular is decided by the community.”
+
+Looking forward to other opportunities, Kohze said connecting closer to the developer community could allow recruiters to find top developers at a glance.
+
+“There are certainly opportunities to try to connect closer to the industry by integrating our tools with each other and with the community—for example, creating a tool which allows industry to recruit their members. Then, if I am a recruiter, I could use the site to see the top developers for a particular project, which will be linked to their profile and GitHub page, allowing me to see who the top contributors are just based on how many lines of code they contributed.”
+
+“Then, we become an essential data source for making decisions on who to recruit because you see the whole ecosystem: who are the top developers? Who of the top developers are open to being recruited based on their profile settings? That will be a tool that likely will bind together the whole community in a better way.”
+
+Read Robin Kohze’s full interview with Bitcoin Association here.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

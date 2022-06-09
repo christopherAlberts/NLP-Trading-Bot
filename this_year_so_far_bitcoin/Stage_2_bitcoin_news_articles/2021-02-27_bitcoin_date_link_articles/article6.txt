@@ -1,0 +1,27 @@
+The $282 Million Awakenings: 120 Bitcoin Block Rewards from 2010 and 2011 Woke Up This Year
+
+On February 25, onchain analysts noticed two 2010 block rewards that were transferred after sitting dormant for over a decade. A lot of old blocks have been spent in 2021, and after the large strings of 2010 block rewards spent on January 3rd and 10th, another massive string of 20 block rewards from 2010 were moved on the 25th. In addition to these old bitcoin moves, block rewards from 2011 have started to wake in great numbers as well.
+
+80 Block Rewards from 2010 Spent This Year, 4,000 Bitcoin Worth $188 Million
+
+For a good portion of 2020 and into 2021, news.Bitcoin.com and a small group of onchain researchers have been combing the Bitcoin (BTC) network for old-school spends. The technical term “spend” or “spent” simply means the bitcoins moved from one address to another single address or group of addresses. It doesn’t necessarily mean the person has relinquished ownership of the bitcoins, but most of our 2020 and 2021 discoveries look as though they have been sold on exchanges.
+
+Some old coins moved today (100 BTC from June 2010). It's very rare to see pre-GPU era bitcoins move, it only happened dozens of times in the past few years. And no, it's probably not Satoshi. pic.twitter.com/0jZXnmWUes — Antoine Le Calvez (@khannib) February 24, 2021
+
+At block height 671,986, a group of two 2010 block rewards with 100 BTC was spent on February 25, and a number of publications reported on the movement. What hasn’t been noticed formally, is the massive amount of 2010 spends this year, and the large amount of 2011 movements as well. Although members of news.Bitcoin.com, Btcparser.com, and Russian blockchain researcher Issak Shvarts have been investigating these old-school spends thoroughly.
+
+Following the reports of the decade-old, 20 block reward spend on the 12th anniversary of the Bitcoin network, news.Bitcoin.com also noticed a massive 20 block spend from 2010 spent on January 10. Fifteen days later, and possibly the same suspect, another 20 rewards from 2010 on January 25, 2021, was spent. So far, this particular entity or entities have not moved a major string of bitcoins since then. But there have been plenty of single 2010 block reward spends and an increasing number of 2011 rewards.
+
+$94 Million Worth of 40 Block Rewards from 2011 Wake from Slumber in 2021
+
+In 2021, there were 80 block rewards from 2010 moved to-date that held 4,000 BTC total. Currently, using today’s BTC exchange rates that’s more than $188 million worth of old-school coins. Leveraging Btcparser.com, news.Bitcoin.com has counted 40 block rewards from 2011 spent this year as well. That’s 2,000 BTC born in the year 2011 worth around $94 million today. The last massive spend from January 25, 2021, can be seen on the “Satoshi’s bags tracker” at theholyroger.com.
+
+The two 2010 block rewards spent on February 25 at block height 671,986 saw the BTC spent, but the corresponding BCH and BSV remain intact. Similarly, a number of the 2011 blocks that were spent this year have also seen only the BTC move. Many of the 2011 addresses combed during our research still have the corresponding BCH and BSV unspent as well. The individual or group who has been spending the consecutive strings of 2010 block rewards has been spending the bitcoin cash (BCH).
+
+Whatever the case may be, the sky-high BTC price jumping over the $58k handle last Sunday, and even where the price rests today, has caused old-school mining whales to wake bitcoins from slumber.
+
+What do you think about all the old-school bitcoin block rewards spent in 2021? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, theholyroger.com, Twitter,
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

@@ -1,0 +1,31 @@
+The new Bitcoin Mining Council announced Monday by MicroStrategy CEO Michael Saylor and Tesla CEO Elon Musk won’t work “if they tried to do some sort of OPEC-like thing” because “anyone can come in and mine bitcoin,” according to Sam Bankman-Fried, CEO of the FTX cryptocurrency exchange.
+
+That said, the effort opens “this interesting can of worms,” Bankman-Fried said in an interview during an episode of CoinDesk TV’s First Mover show, held as part of CoinDesk’s Consensus 2021.
+
+“If you have a completely open network and the big open players on this open network openly and without any coercion decide to collaborate with each other, is that decentralization? It’s a little bit of a definitional issue,” Bankman-Fried said.
+
+As long as the network remains open, however, many concerns should be assuaged, he said. “If they’re like, ‘Oh, we’re just all going to, like, lower hashrates,’ then, [someone else could] just start mining, you know, if it’s economically efficient.”
+
+ESG escalation
+
+Bitcoin’s recent price crash to below $40,000 was partly triggered by a tweet earlier this month from Musk saying Tesla would stop accepting bitcoin as payment for electric vehicles due to concerns over the environmental impact of cryptocurrency mining.
+
+According to Saylor, executives from Argo Blockchain, Galaxy Digital, Blockcap, Hive Blockchain and a few other mining companies based in North America joined a meeting over the issue on May 23. He tweeted that the “leading Bitcoin miners in North America have agreed to form the Bitcoin Mining Council to promote energy usage transparency and accelerate sustainability initiatives worldwide.”
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+The looming question is whether big institutional investors who otherwise might be tempted to buy bitcoin might be deterred by environmental, social and governance concerns, known as ESG – now a key consideration for many asset managers. Calls for “greening” bitcoin mining have ramped up in recent weeks.
+
+The announcement Monday induced a flurry of debate as to whether such a “cabal” ran counter to Bitcoin’s underlying principles of decentralization. As CoinDesk reported Monday night, one of the founding members said the council has no intention to change “the nature of Bitcoin.” Still, the closed-door proceedings rubbed many the wrong way.
+
+“It’s a healthy occurrence in some ways because I think there was a lot of stupid dialogue going on about ESG, and stupid not in the sense that ESG was stupid, but that the dialogue was,” Bankman-Fried said Tuesday, adding:
+
+"The dialogue was centered around name-calling and centered around one side saying bitcoin was trashing the planet and the other side saying, 'Lol, these f**king noobs complaining about bitcoin, they're going to get rekt,' roughly speaking."
+
+Neither response was healthy, Bankman-Fried said. “Let’s do the math, let’s figure out if this is a significant concern, and if so, let’s figure out how we can address it,” he suggested.
+
+Carbon offsets
+
+The FTX founder said the Ethereum blockchain’s move away from Bitcoin’s proof-of-work consensus algorithm to a less energy-intensive system known as proof-of-stake might address some of the climate concerns. Bankman-Fried is heavily invested in the proof-of-stake Solana blockchain, among other projects.
+
+“Most of the major cryptocurrencies outside of bitcoin will be substantially less energy-intensive, and so I think that’s one piece of it. But I think that even within proof-of-work it’s not prohibitively expensive to buy carbon offsets, and that’s something we’ve been looking into and pledged to start doing, to offset the energy usage that FTX has,” he said.

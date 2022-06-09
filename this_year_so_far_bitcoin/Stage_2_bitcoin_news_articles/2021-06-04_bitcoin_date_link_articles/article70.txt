@@ -1,0 +1,29 @@
+Typically, when you hear about cryptocurrency company raising money, they do so through venture capital and private funding, or through an initial coin offering (ICO), which is when a company raises funds specifically to create a new token. But now, Ripple, the company behind the token XRP (CRYPTO:XRP), the native token on the XRP Ledger, is seeking to buck the trend and eventually go public through an initial public offering (IPO).
+
+While the company has not filed a registration statement or anything, Ripple's CEO Brad Garlinghouse has said several times that the company could look to go public, a somewhat unique play in the cryptocurrency space. Let's take a look at what it might mean for the XRP token.
+
+What is XRP and why is it different?
+
+XRP is currently the fifth largest cryptocurrency with a roughly $46 billion market cap.Similar to Bitcoin (CRYPTO:BTC) and other cryptocurrencies, it's a peer-to-peer network mainly seen as a way to conduct more efficient payments globally, but there are actually several big differences that set XRP apart from cryptocurrencies like Bitcoin.
+
+While Bitcoin uses blockchain technology, the XRP Ledger uses a different kind of "consensus ledger" technology to validate transactions on the network. This can all get pretty complex, but both methods are distributed ledger technologies and both methods rely on nodes on the network, which are devices like computers that host the network and are interconnected, to agree on and verify transactions. With Bitcoin and its blockchain, miners verify transactions. But on the XRP Ledger, a much smaller group of nodes verify transactions and these nodes are actually pre-selected by Ripple. This, in essence, makes Bitcoin more truly decentralized because there is no one party behind it or managing it. Ripple is a private company managing certain aspects of the network.
+
+Another major difference is that the XRP Ledger doesn't rely on mining to create new tokens like Bitcoin and Ethereum, which could be seen as a positive right now, as cryptocurrencies have come under fire for how much energy is used in the mining process. Ripple "pre-mined" its XRP tokens, 100 billion of them, and then releases new tokens periodically.The concern behind that is if Ripple suddenly releases a ton of tokens all at once, it could severely impact the supply and demand. Bitcoin, on the other hand, has a fixed supply of 21 million tokens.
+
+While Bitcoin was created more as an alternative for individuals to pay for things with, the XRP Ledger is more efficient at clearing and settling payments because it is faster and cheaper than Bitcoin and most other crypto networks. That's why it has seen more interest from financial institutions, with more than 40 known banks having partnered with Ripple Labs. The XRP Ledger can process 1,500 transactions per second, compared to Bitcoin's maximum of seven transactions per second.
+
+Journey to IPO
+
+Garlinghouse has been talking about a potential IPO for Ripple for a while now and has also said he thinks there will be a lot more crypto IPOs in the future, which we have seen with companies like Silvergate Capital (NYSE: SI) and Coinbase (NASDAQ: COIN), although not specifically with companies that have developed cryptocurrencies, as far as I know.
+
+But Ripple has been involved in a lawsuit with the Securities and Exchange Commission (SEC) that has slowed the process. The lawsuit alleges that Ripple and its two co-founders illegally raised over $1.3 billion in an "unregistered, ongoing digital asset securities offering." The SEC claims that Ripple raised this money starting in 2013 through the sale of XRP tokens, and allegedly gave out billions of XRP tokens in exchange for market-making and other non-cash services.
+
+Recently, Yoshitaka Kitao, CEO of Japanese company SBI Group, which is Ripple's largest shareholder, said on a recent earnings call that once the SEC lawsuit clears, Ripple plans to go public. "After the current lawsuit, Ripple will go public. The current CEO wants to do that. Chris wants to do that," he said, according to Cointelegraph.
+
+How would an IPO effect the price of Ripple?
+
+After the news in late April that Ripple planned to go public following the SEC lawsuit, the price of XRP tokens jumped 15%, so the move clearly stirred interest.But there's also a chance that if people have another way to invest in Ripple, one that is more based on traditional earnings, they might flock to that instead of buying the actual currency. It's hard to say right now, given that this would be a potential test for other cryptocurrencies interested in going public.
+
+But my guess is that the IPO will improve the visibility of Ripple and the XRP token to the broader market. Traditional IPOs can be very difficult for retail investors to take advantage of, so perhaps they will see the XRP tokens as a way to invest cheaper and before the IPO. I also think the price of XRP tokens will still depend on its real-world utility and how well it can help institutions like banks improve their money-transferring capabilities. If they gain traction and disrupt the payments system like many believe it can, then I am sure more people will want to hold both the company's stock as well as the XRP tokens.
+
+CORRECTION: The original version of this article called the XRP token Ripple when in fact Ripple is the company that created the XRP Ledger. The XRP token is the native token on the XRP Ledger. We're sorry for the error.

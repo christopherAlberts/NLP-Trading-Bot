@@ -1,0 +1,29 @@
+Bitcoin buyers from the early phases of the bull run are still hodling despite BTC’s meteoric surge into new all-time highs, according to data shared by Glassnode.
+
+The on-chain analytics provider shared its “Realized Cap HODL Waves” chart, noting that the number of coins that were last realized on-chain in the past six months has nearly doubled from roughly 40% to 80% since the third quarter of 2020 — showing that much of the BTC purchased during this period has not been touched since.
+
+HODL Waves are used to estimate the time since BTC coins last moved on-chain, while the realized price is derived from the price the coins were last moved at, rather than the current price. As such, the colored bands shown in the Realized Cap HODL Waves chart increase in thickness “as coins mature or are spent into different age bands.”
+
+The data evidences that a large number of BTC purchased during 2020’s later months have not since been traded, with the chart showing coins progressively maturing from the fourth-quarter 2020 onwards.
+
+#Bitcoin supply accumulated in the early phase of this bull market is beginning to mature.
+
+
+
+HODLed $BTC are seen in Realized HODL Waves as the thickness of older age bands swell over time
+
+
+
+Read More in The Week On-chainhttps://t.co/0aSkAgiUoE
+
+
+
+Live Chart: https://t.co/ZmfWKNLn8o pic.twitter.com/Q6BeTJ4FbQ — glassnode (@glassnode) May 4, 2021
+
+Analyzing the chart in its May 3 Weekly On-chain report, Glassnode stated: “These are coins accumulated in the early bull market that have remained dormant since.”
+
+Short term
+
+However, the chart also shows that the share of Bitcoin’s supply represented by coins last active between six months and three years ago has plummeted since mid-2020, dropping from more than 55% in July 2020 to around 10% now. This means long-term investors have been capitalizing on Bitcoin’s all-time highs and realizing profits on multi-year positions.
+
+Short-term speculation also appears to have surged since November, peaking with roughly half of Bitcoin’s supply having been realized in the past three months. This suggests short term traders are driving the markets.

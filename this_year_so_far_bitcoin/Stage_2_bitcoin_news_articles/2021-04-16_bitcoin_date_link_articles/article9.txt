@@ -1,0 +1,13 @@
+Local news outlets have tied a recent dip in the bitcoin mining hash rate to government-instituted blackouts in China.
+
+Regional blackouts instituted in Northwest China may be the cause of a drop in hash rate from several China-based bitcoin mining operations, per local media outlet Wu Talk.
+
+According to a BTC.com screenshot shared by Wu Blockchain, the hash rate of several major bitcoin mining pools has dropped significantly. As of yesterday, Antpool’s hash rate had crashed by 24.5% in a 24-hour period, Binance Pool by 20%, BTC.com by 18.9% and Poolin by 33%.
+
+The blackouts were necessitated because of a “comprehensive power outage safety inspection” in Xinjiang, per the Wu Talk report. Local news outlet Xinhuanet that the National Mine Safety Supervision Bureau has reported three recent coal mine accidents, including an April 10 “water penetration accident” in Xinjiang that caused 21 people to be trapped.
+
+Significantly, the Xinjiang and Sichuan regions of China combined account for more than 50 percent of the overall Bitcoin mining hash rate, according to Primitive Crypto partner Dovey Wan. Operations based in China comprise the majority of global mining power.
+
+This impact that this blackout may have had on Bitcoin’s price, which had recorded a 1.5% drop in value in the last 24 hours, raises questions about the level of centralization of the Bitcoin network's hashing activity.
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.

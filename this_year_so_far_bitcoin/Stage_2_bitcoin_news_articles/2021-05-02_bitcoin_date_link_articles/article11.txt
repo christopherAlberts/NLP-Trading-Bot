@@ -1,0 +1,105 @@
+Today I’m going to weave together three seemingly unrelated stories from the past week to highlight a trend that I believe we are largely overlooking. Ready?
+
+First, Tesla’s Q1 earnings release revealed that the company sold $272 million worth of its bitcoin holdings in the first quarter. According to its CEO, Elon Musk, it did so to test the market’s liquidity. The $101 million it added to the company’s quarterly profit didn’t hurt, either.
+
+Second, crypto lender Genesis Trading (a subsidiary of DCG, which is also the parent of CoinDesk) published its Q1 2021 report, which showed that the amount of loans outstanding broke through $9 billion, an increase of 136% from the previous quarter.
+
+Related: Cryptotwitter Shows No Respect for Age in Responding to Munger’s Bitcoin DissYou’re reading Crypto Long & Short, a newsletter that looks closely at the forces driving cryptocurrency markets. Authored by CoinDesk’s head of research, Noelle Acheson, it goes out every Sunday and offers a recap of the week – with insights and analysis – from a professional investor’s point of view. You can subscribe here.
+
+Third, U.S. Federal Reserve Chairman Jerome Powell spoke about the macroeconomic environment, holding firm to the expectation of an average of 2% inflation over the next few years.
+
+What do these three stories have to do with one another? The answer lies in looking through the growing use of bitcoin as a reserve asset on corporate balance sheets to why companies want to do so today, and why they are likely to want to do so in years to come.
+
+Balance sheets
+
+
+
+Before we bring in this week’s narratives, let’s refresh the balance sheet asset story.
+
+Related: Binance Smart Chain’s Spartan Protocol Loses $30M+ in Exploit
+
+Companies investing in bitcoin as a reserve asset have usually cited value protection as the main reason. Bitcoin will hold its purchasing power against the inevitable debasement of fiat, the argument goes. Since corporate treasury’s priority is ensuring the business has the funds it needs for operations and strategic investment, today as well as in the future, some advocates argue that bitcoin is an ideal treasury asset, even though the volatility is a concern.
+
+Story continues
+
+Software company MicroStrategy kicked this off last August by putting all of its corporate treasury into bitcoin; the firm has continually added to its holdings, even raising capital to do so. In February, it held an event to educate other companies on the advantages and logistics that was reportedly attended by over 8,000 interested parties. Other firms making bitcoin reserve allocations include Square, Aker and Meitu, and this week South Korean-Japanese video game publisher Nexon revealed a $100 million bitcoin purchase (equal to approximately 2% of its cash and cash equivalents).
+
+And then there’s Tesla. After a public back-and-forth on Twitter between CEO Elon Musk and MicroStrategy CEO Michael Saylor, expectations rose that Tesla would soon join the ranks. The company did not disappoint: in February, it announced a $1.5 billion bitcoin purchase. Its Q1 2021 earnings released this week showed that the company sold approximately 10% of its holdings for $272 million. Musk explained on Twitter that this was to “test the market’s liquidity.”
+
+This was a smart move on many counts. One thing is liquidity on the way in; we can assume the $1.5 billion purchase was executed carefully over the course of a few weeks. Another thing entirely is liquidity on the way out; any corporate treasurer will need to feel comfortable that it can convert reserve assets into working capital at a moment’s notice. Tesla’s move will reassure other companies that liquidity risk need not be a main concern.
+
+And the sale’s contribution of $101 million to the bottom line also sends a powerful message. Liquidating traditional “cash equivalents” generally does not produce much of an impact to net earnings. With this move, Tesla is signaling that here is a “cash equivalent” serving a double function: value preservation and potential profit. With its substantial bitcoin position and crypto advocacy, MicroStrategy transformed its business value proposition from software company to listed bitcoin proxy. Companies don’t have to go that far – with even a modest allocation to bitcoin, they can maintain their core business but put in place a potential buffer when earnings look weak.
+
+Borrowing growth
+
+
+
+Now, on to Genesis’ loan book, which saw USD and stablecoin loans more than double over the quarter. Demand for this type of loan is for now fueled mainly by the persistent basis trade opportunity in the bitcoin futures market. Going forward, it’s likely to be powered by a growing understanding of the efficiency of bitcoin as collateral, and the increasing amount of bitcoin ready to be used as collateral.
+
+A lot of this bitcoin will be on corporate balance sheets.
+
+Tesla showed that exiting a sizable BTC position is possible. Genesis showed that a BTC position can raise working capital without creating a taxable event, by acting as collateral for a fiat loan.
+
+This further boosts the case for holding bitcoin as a treasury asset. Initial interest may be driven by concerns about the long-term value of cash and cash equivalents. A further boost is likely to come from the relative ease of raising capital with an asset unpegged to the economic cycle.
+
+Inflation expectations
+
+
+
+What U.S. Federal Reserve Chairman Powell said earlier this week will help. With inflation running persistently below the target average of 2%, Powell acknowledged that inflation will be allowed to run above that level for some time. Indeed, the market’s inflation expectations as indicated by the 10-year breakeven rate broke through 2.4% for the first time in over eight years.
+
+This is an alarming prospect in that it will lower the real value of money even more than the market has become accustomed to expecting. So the prospect of inflation running above 2% for several years is likely to send corporate treasurers scurrying to find ways to protect assets from what MicroStrategy CEO Michael Saylor calls the “melting ice cube” effect. And Powell’s confirmation that quantitative easing will continue for the foreseeable future will underscore fears of fiat debasement.
+
+These trends could end up encouraging even more treasurers to put at least part of their corporate reserves into bitcoin. This will create an even deeper pool of bitcoin ready to be used as collateral.
+
+Collateral issues
+
+
+
+And this is the deeper takeaway: bitcoin’s potential use as collateral is just getting started.
+
+We’ve already seen significant growth in the crypto-backed lending industry, as exemplified in the Genesis report mentioned above. I don’t have a breakdown of just how much of that collateral is bitcoin, but we can assume that it’s the bulk. The same applies to the soaring use of crypto as collateral in the booming leveraged derivatives market. And, as my colleague Brady Dale reported this week, the total market capitalization of decentralized finance (DeFi) tokens, which represent lending and other financial applications, has broken through $120 billion to reach an all-time high. Wrapped bitcoin, an Ethereum-based token 100% backed by bitcoin that was created to facilitate the cryptocurrency’s use as collateral in DeFi applications, reached an all-time market cap high of $9.5 billion two weeks ago.
+
+But all of this could end up being dwarfed by the use of bitcoin as a collateral asset in bilateral repo transactions. The repo market, in which corporations can use their liquid asset holdings to borrow short-term cash for working capital needs and pledge as collateral “safe” securities such as U.S. Treasurys, was estimated to be around $4.1 trillion at the end of last year, with around $1.3 trillion of that attributable to nonbank and non-securities dealer firms.
+
+Obviously, bitcoin is not going to be nearly as liquid as the Treasury market any time soon. And it will almost certainly always be much more volatile. But for overnight lending to corporations with operations in many different currencies, bitcoin could start to be seen as an intriguing collateral alternative, one that also has the potential to boost earnings when necessary. And lenders could be drawn in by the easy-to-transfer bearer asset nature of the collateral, not to mention the superior yield. Furthermore, there’s the upside of holding an asset that will not be debased by a growing monetary supply and a climbing inflation rate.
+
+The market infrastructure for this is already being built by the crypto industry’s main lending services. We could even see decentralized lending services start to offer repo-like facilities. Banks, traditionally key participants in repo markets, are already getting more involved with crypto assets. And regulators could find the transparency of blockchain-based collateral to be a refreshing change from the opaque and convoluted webs of ownership endemic to the market today.
+
+Crypto assets do bring a different type of risk to a fragile equation, however, and the concept of bitcoin as collateral has many hurdles to overcome before it can make a meaningful difference in today’s financial ecosystem. But change is already underway in so many aspects of market plumbing, and signs are pointing to a broader financial role for bitcoin than as “just” an asset on a balance sheet.
+
+JPMorgan Joins the Crypto Market
+
+
+
+JPMorgan Chase is preparing to offer an actively managed bitcoin fund to its private wealth clients, possibly as soon as this summer, according to sources.
+
+Much was made of the “about-turn” this implies, since JPMorgan CEO Jamie Dimon in the past has called bitcoin “stupid” and has threatened to fire any trader caught dabbling in crypto markets. If even JPMorgan is now embracing the crypto opportunity, the narrative went, then surely that means the institutions are poised to enter en masse.
+
+The story is more nuanced than that, though.
+
+These funds are being offered only to private wealth clients, who have fewer regulatory hoops to jump through (as opposed to pension funds and insurance companies, for instance) and who in theory can withstand a higher level of risk. This will broaden involvement but is not exactly taking bitcoin “mainstream.”
+
+By “actively managed,” I assume they will try to beat the bitcoin market by also engaging in derivative and cash allocation strategies. Most funds are passive – they accumulate bitcoin, and the funds’ value closely tracks that asset. Trying to beat the market with such a volatile asset is a risky strategy, not just for the investors but also for the firm’s reputation.
+
+The main takeaway here, however, is that a large bank like JPMorgan would not make a decision to spin up a product like this without serious consideration, especially in light of Dimon’s previous comments. JPMorgan would do so after months of deliberation and careful planning, and only after definite indication that its clients want this product. That supports the growing interest we’re seeing from institutional and large investors, and points to more strong inflows ahead.
+
+
+
+Chain Links
+
+
+
+U.S. Bank (part of U.S. Bancorp, the fifth-largest banking institution in the U.S.) announced this week that it will offer a new cryptocurrency custody product in partnership with an unnamed sub-custodian. It also announced it has been selected to administer NYDIG’s bitcoin ETF (should it be approved by regulators). TAKEAWAY: These are heavy-duty services, which aren’t spun up at a moment’s notice – which means that U.S. Bank has been working on this for some time. It’s more than likely that many other traditional financial institutions have been doing the same behind closed doors. Pretty soon the list of traditional banks not involved in crypto will be shorter than the list of those that are.
+
+Speaking of U.S. Bank, it participated along withState Street and other investors in a $30 million funding round for institutional cryptocurrency infrastructure firm Securrency. TAKEAWAY: Here we have two significant legacy financial institutions investing in a business that connects traditional services with crypto markets. Read into that what you will …
+
+Genesis Trading (a subsidiary of DCG, which is also the parent of CoinDesk) published its Q1 2021 report this week, which shows a staggering 136% growth in active loans to over $9 billion. TAKEAWAY: One of the many intriguing data points in this report is the growth of almost 400% in outstanding ether loans, largely driven by yield and arbitrage opportunities in decentralized finance (DeFi) platforms. BTC loans as a percentage of the total outstanding declined from 54% to 43% (still an absolute increase of approximately 90% in USD terms), largely because of the disappearance of the profitable premium trade on Grayscale’s GBTC bitcoin trust (Grayscale is also a subsidiary of DCG), and the persistent spread between futures and spot markets which dissuades BTC shorting.
+
+Coinbase has delayed the launch of trading on stablecoin tether (USDT) until next month, citing an ongoing issue with its professional platform’s API. TAKEAWAY: This is much more than just a frustrating tech glitch: it’s a reminder of the crypto market’s retail-first origin. Exchanges and services sprang up ad hoc over the past 10 years, with no coordination, so there is no industrywide technology standard for connectivity. This will get fixed with time and investment, but there is no “central body” to decide what the standards should be.
+
+The SEChas pushed back making a decision on VanEck’s proposed bitcoin ETF to at least June 17. TAKEAWAY: While many have speculated that a bitcoin ETF approval is likely in the U.S. in the near future, given the success of bitcoin and ether ETFs in the Canadian market and given Chairman Gary Gensler’s familiarity with the crypto markets, this delay is not a surprise. The SEC only has three of the ten active proposals in front of it for review, and it could choose to approve more than one at the same time, to avoid granting first mover advantage and to give the market more choice.
+
+A bill approved by Germany’s parliament last week, expected to take effect on July 1 if approved by the Bundesrat, will allow wealth and institutional investment fund managers known as Spezialfonds to invest up to 20% of their portfolio in crypto. TAKEAWAY: According to the report, this would allow up to nearly $425 billion to move into the crypto market. It’s unlikely that all funds would take advantage of this option, however, and that the funds that do would invest up to the maximum. What’s more, investors interested in crypto exposure have many options available through the numerous crypto-based funds currently traded on exchanges. However, this bill sets the scene for crypto allocations in professionally managed diversified funds, which could go a long way toward establishing mainstream acceptance.
+
+Related Stories

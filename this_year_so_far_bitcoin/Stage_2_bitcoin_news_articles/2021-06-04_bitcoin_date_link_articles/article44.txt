@@ -1,0 +1,33 @@
+By Yasin Ebrahim
+
+Investing.com – Ethereum is still well below its May highs, but a hotly anticipated update expected in the coming weeks could pit it against bitcoin as a destination for institutional dollars seeking a hedge against inflation.
+
+“The main goal of the 1559 Ethereum improvement proposal, or the London fork [expected to kick off July] is to change how users make transactions on Ethereum, and we believe that it should be very positive for the price of ETH,” Amber Ghaddar, PhD, Founder AllianceBlock said in an interview with investing.com.
+
+The Ethereum community is betting big that this fork will give ether, or ETH, the token used to fund operations on the Ethereum network, that all-important scarcity factor that could see it ride the same wave of institutional demand that bitcoin has enjoyed.
+
+At its core, the update will divide transaction fees on Ethereum into base fees and tips. The base fees will be burned, or destroyed, cutting the amount of the ETH in supply, keeping inflation in check.
+
+“There’s hope the London fork coming in July is going to make ether a deflationary asset,” Ghaddar said. “Some ETH is going to be burned … [potentially] making it more attractive as a store of wealth, allowing Ethereum to expand its target market.”
+
+While the deflationary feature of the improvement proposal has many excited, the high fees on Ethereum - as a result of congested network – has kept scalability on a short leash. Ethereum has been the go-to protocol for developers, raking in the bulk of Decentralized Financial, or DeFI activity, but rivals including Cardano, Binance and Polkadot are providing competition.
+
+While the London fork will make the Ethereum “highway” wider, easing congestion and helping to reduce fees, it isn’t the real solution. The real solution is to build more highways, and the Ethereum 2.0 holds the key.
+
+“The London fork is going to make the highway wider, but you need to build more highways, and this is only going to occur with Ethereum 2.0,” Ghaddar added.
+
+Story continues
+
+The timeline is uncertain as to when the full transition to Ethereum 2.0 will be completed, with some touting early 2022 as a potential timeline.
+
+The importance of getting a handle on spiraling fees holds sway for the wider adoption of Ethereum particularly for the masses, who have been left behind.
+
+“The whole idea of blockchain is to decrease fees, and to democratize access to capital, and we are very far from this at the moment, because the issues that we have, due to the way the blockchains are set up,” Ghaddar added.
+
+Related Articles
+
+Ethereum Could Soon Steal Bitcoin's Thunder as Inflationary Hedge
+
+Digital bank Anchorage debuts Ethereum-backed loans for institutions
+
+Bitcoin will literally go to the moon this year

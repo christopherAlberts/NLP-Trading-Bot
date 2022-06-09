@@ -1,0 +1,37 @@
+Colonial Pipeline paid about $4.4m in Bitcoin to DarkSide hackers (AP)
+
+United States investigators recovered millions of dollars of cryptocurrency paid to Russian ransomware hackers in the Colonial Pipeline cyberattack, the Justice Department revealed on Monday.
+
+“Earlier today, the Department of Justice has found and recaptured the majority of ransom Colonial paid to the DarkSide network in the wake of the ransomware attack,” said Lisa Monaco, the US deputy attorney general, during a press conference.
+
+“Ransomware attacks are always unacceptable – but when they target critical infrastructure, we will spare no effort in our response,” Ms Monaco added. “Today we turned the tables on DarkSide.”
+
+The FBI was able to recapture a portion of the ransom by obtaining a password to DarkSide’s Bitcoin account. Investigators seized $2.3 million of the $4.4 million paid to the ransomware group by court order from the account, according to court documents.
+
+The recovery of a ransom paid by a company who had fallen under a cyberattack was a rare occurrence.
+
+Last month, Colonial Pipeline CEO Joseph Blount revealed in an interview with The Wall Street Journal that his company paid about $4.4 million in ransom in Bitcoin to DarkSide, a ransomware hacker group based in Russia, after it suffered the cyberattack.
+
+Typically a ransomware attack involves hackers locking up computer systems by encrypting data and paralysing networks before asking for a large ransom from the targeted company to unscramble it.
+
+The FBI has long advised companies against paying a ransom when hit by a ransomware attack, as paying the hackers gives them more incentive to target other organisations.
+
+“The FBI does not support paying a ransom in response to a ransomware attack,” the FBI states on its website. “It also encourages perpetrators to target more victims and offers an incentive for others to get involved in this type of illegal activity.”
+
+But Mr Blount defended the highly controversial decision to pay the ransom given how the company’s 5,500-mile long pipeline, which runs between Texas and New Jersey, was a vital part of the United States’ fuel industry. The pipeline delivers fuel to about 45 per cent of the East Coast.
+
+Story continues
+
+“It was the right thing to do for the country,” Mr Blout said at the time. “I didn’t make it lightly. I will admit that I wasn’t comfortable seeing money go out the door to people like this.”
+
+The cyberattack was reported on 7 May and forced Colonial Pipeline to shut down its pipeline for several days while it worked to restore operations. This caused gas prices to increase and residents in the impacted states to panic buy.
+
+The Department of Justice has warned companies that cyberattacks would likely continue and encouraged vital agencies to adopt proper security measures that would protect their services from these hacks.
+
+Read More
+
+Hacking group Anonymous issues threat to Elon Musk
+
+Official says US seized ransom made to pipeline hackers
+
+US energy secretary warns ‘malign actors’ trying to down power grid

@@ -1,0 +1,49 @@
+Note to readers: Bitcoin is becoming popular by the day. It has captured the imagination of many young investors and millennials. But keeping aside its meteoric rise, what is Bitcoin really? And why is the Reserve Bank of India worried? Moneycontrol’s two-part series demystifies Bitcoin, cryptocurrencies and how they work. This story explains you what a Bitcoin is and how it works. Our part - 2 story looks at Bitcoin as an investment avenue and helps you decide whether or not you should invest in Bitcoin or any other cryptocurrency.
+
+From $121.34 a unit in October 2013 to $32,000 in January 2021, the Bitcoin’s price has skyrocketed. And no wonder investors of all hues have been intrigued by the cryptocurrency’s massive rally. What is this instrument, if it is one at all, and what explains its incredible upward journey? And should you consider the Bitcoin for your portfolio?
+
+What is Bitcoin?
+
+Bitcoin is a type of digital currency. But it is unlike other fiat (legal) currency – the Rupee, US Dollar, Euro and so on. A currency is meant to buy goods and services. But unlike normal currencies, the Bitcoin is available only in digital form. It is one of over 4,000 cryptocurrencies available in the world today.
+
+Source: CoinDCX
+
+What is a cryptocurrency?
+
+A cryptocurrency is a virtual currency. It is a generic name – Bitcoin is like a brand. Think of cryptocurrency as Cola and Bitcoin as, say, Pepsi. The Bitcoin is the most popular cryptocurrency in the world today. A single unit of a cryptocurrency is actually a complex computerized code that cannot be duplicated.
+
+Why do I need a Bitcoin in the first place, when there is regular currency?
+
+Our usual currencies are subject to a lot of rules and regulations. Central banks of various nations govern their currencies. They control the exchange rates, decide how much money to print and intervene regularly in forex markets.
+
+In 2008, after the global credit crisis, a need was felt to democratize how currencies are held, exchanged and regulated. That year, an anonymous person, under the pseudonym ‘Satoshi Nakamoto,’ invented Bitcoin. Nobody yet knows who and where Nakamoto is. That was the birth of cryptocurrencies. Ever since, many other cryptocurrencies were invented, but Bitcoin remains the most popular.
+
+Cryptocurrencies are more democratic. You can use them in any part of the world, buy as much as you want and use them anywhere. There is a network of people and their computers that maintains a ledger. Any exchange of the cryptocurrency must be validated by all those who are present in the network. The ledger then gets updated to reflect the transaction. This technology is called blockchain.
+
+What is Blockchain?
+
+Blockchain is a technology on which Bitcoin – or any other cryptocurrency – works. It’s nothing but a sophisticated record-maintaining system run by several users in a decentralized way.
+
+When a Bitcoin is exchanged, a block of data (an alphanumeric code that signifies the cryptocurrency, its quantum and value) is created and shared across all the computers (or nodes) attached to the network. Think of this block as a series of such transactions. Once this block is verified, a formal record gets entered into the decentralized database for everyone (who is on that network) to see. Then, when that same Bitcoin is sought to be sold again, another block gets created. The previous transaction (or block) is not erased. The new block gets attached to the old block to form a chain (hence the term blockchain) for everyone to see the trail. This way of record keeping also means that the transaction cannot be reversed.
+
+So can Bitcoin replace our Rupee?
+
+Not so fast. For one, despite being devised as currencies that should enable you to buy goods and services, cryptocurrencies aren’t yet considered legal tender. For one, many countries, including India, haven’t legalized the use of cryptocurrencies.
+
+Why then has the price of Bitcoin gone up so much?
+
+The speculative potential of what Bitcoin can become once it finds global government acceptance and become legal tender is a key driver. In April 2018, the RBI virtually banned cryptocurrencies and prohibited all regulated entities, such as banks, from allowing anyone to trade in them. So, you could no longer transfer funds from your bank account online to a cryptocurrency exchange for buying a Bitcoin or any other cryptocurrency.
+
+But in March 2020, the Supreme Court said that such curbs are illegal. The Supreme Court’s ruling makes many believe that eventually cryptocurrency would become legal tender.
+
+Higher demand and lower supply lead to higher prices. The current stage of Bitcoin is one where there is limited supply and a very high demand. That is why Bitcoin’s price shot up 414 percent between March 2020 and January 2021.
+
+The US, UK and Germany are some countries that allow the use of cryptocurrencies.
+
+So what is the danger in making this a legal currency worldwide?
+
+Apart from decentralization and democracy, the basic idea of cryptocurrency is that there must be no restrictions or controls. Cryptocurrencies do not maintain your records. When you exchange any cryptocurrency, all that gets stored in the decentralized ledger we just told you about, is the fact that the currency was exchanged. Your identity does not get stored. Buyers and sellers of Bitcoin do not get to know each other’s identities. Hence, it’s difficult to tax Bitcoin and that is a loss of revenue to the government. You can buy almost anything on the dark web without your identity being revealed and that is a real danger in popularizing cryptocurrencies.
+
+But most importantly, this anonymity in cryptocurrencies can give rise to terror funding and money laundering. There have been many ransomware (virus) attacks – websites of large companies have been held hostage. These cyber criminals demanded cryptocurrencies as ransom so that they wouldn’t be identified or tracked.
+
+Next: Bitcoin-part 2: Should you invest in this cryptocurrency?

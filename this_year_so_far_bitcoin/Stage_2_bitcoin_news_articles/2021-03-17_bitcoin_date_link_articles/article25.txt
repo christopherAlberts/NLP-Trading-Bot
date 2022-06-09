@@ -1,0 +1,19 @@
+Digital Banking
+
+New app Bottlepay says its the first platform on which users can send and receive Bitcoin instantly via social media.
+
+Image source: Bottlepay
+
+New digital payments app Bottlepay, which launched last month, has launched a new feature allowing people to send and receive Bitcoin via Twitter.
+
+Bottlepay sees itself taking on the likes of Wise and Currencyfair, in bringing low cost payments, including instant and micropayments, in conventional currencies and Bitcoin.
+
+“A single tweet — for example ‘@bottlepay send 1,000 sats (the smallest unit of Bitcoin) to @twitteruser’ — will instantly move the specified quantity of Bitcoin from one user’s account to another,” the company said in a media release.
+
+Bottlepay says it is planning to roll out the functionality to other social channels. In the coming months, Bottlepay will also allow users to spend and transfer money on Reddit, Discord, Twitch, Telegram and Mastodon.
+
+Mark Webster, Chief Executive Officer of Bottlepay, says instant payments on social media could revolutionise the global payments infrastructure.
+
+“Today’s consumers want the power to move their money immediately, from anywhere in the world. Bottlepay’s social Bitcoin payments are a much-needed update on the clunky, outdated payment systems available up until now, and a leap towards smoother, easier transactions.”
+
+The payments app closed an £11m ($15m) seed funding round last month with investment from British billionaire hedge fund manager Alan Howard, as well we present and former Goldman Sachs partners, venture capital firm FinTech Collective, and financial services firm NYDIG and tech entrepreneur Phil Doye.

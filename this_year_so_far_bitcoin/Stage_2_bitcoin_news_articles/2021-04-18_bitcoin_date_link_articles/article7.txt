@@ -1,0 +1,21 @@
+Bitcoin fell sharply on Sunday, dipping well below the 50-day simple moving average (SMA) support for the first time in six months.
+
+While the decline looks typical of a bull market correction, it could be extended further if prices find acceptance under the 50-day SMA, according to one analyst.
+
+“The loss of [bullish] momentum is only short term in nature, but we would view consecutive closes below the 50-day SMA as a reason to move to the sidelines,” Katie Stockton, technical analyst and managing partner of Fairlead Strategies, told CoinDesk in an email.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Bitcoin is currently trading near $55,150 on Coinbase, having dropped by roughly $8,000 to $52,148 during the Asian daylight hours. The 50-day SMA is located at $56,283.
+
+According to Katie, back-to-back daily closes (23:59 UTC) below the SMA support would open the doors for the former resistance-turned-support near $42,000 (January high).
+
+The 50-day SMA is one of the most widely-tracked averages along with the 100- and 200-day SMAs. As such, violation of these SMA supports often invites stronger chart-driven selling.
+
+Theoretically, the concept of daily close does not apply to crypto markets, as it is functional 24/7, unlike stock markets, which are open only for limited hours during weekdays.
+
+However, TradingView and other chart software open the new daily candle at 00:00 UTC, allowing technical analysts to assess the strength/weakness in the market depending on the daily open, high, low, and closing prices.
+
+Bitcoin daily chart (Coinbase) Source: TradingView
+
+Despite the retreat from record highs seen earlier this week, bitcoin is still up 90% on a year-to-date basis, and the path of least resistance remains to the higher side.

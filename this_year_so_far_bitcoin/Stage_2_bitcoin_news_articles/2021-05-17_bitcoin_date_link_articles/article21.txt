@@ -1,0 +1,83 @@
+Editorial Independence We want to help you make more informed decisions. Some links on this page — clearly marked — may take you to a partner website and may result in us earning a referral commission. For more information, see How We Make Money.
+
+Taxes are one of life’s only certainties, and cryptocurrency is no exception.
+
+Yes, your Bitcoin is taxable. The IRS considers cryptocurrency holdings to be “property” for tax purposes, which means your virtual currency is taxed in the same way as any other assets you own, like stocks or gold.
+
+For most people who buy and trade crypto within online exchanges, accounting for it in your tax return is relatively easy. But like most things related to digital currency, things can get a lot more complicated the more active you are.
+
+Here’s what you need to know about which activity you might need to report to the IRS, and how you can begin planning ahead for your 2021 taxes.
+
+Reporting Cryptocurrency Trades on Your Tax Return
+
+Purchasing Crypto With Dollars
+
+Simply buying virtual currency with U.S. dollars and keeping it within the exchange where you made the purchase or transferring it to your personal wallet does not mean you’ll owe taxes on it at the end of the year.
+
+If your only crypto-related activity this year was purchasing a virtual currency with U.S. dollars, you don’t have to report that to the IRS, based on guidance listed on your Form 1040 tax return.
+
+Trading Cryptocurrency
+
+Things start becoming taxable when you use crypto as a method of exchange. This includes selling your crypto for U.S. dollars, exchanging one cryptocurrency for another — buying Ethereum with Bitcoin, for example — or paying for goods and services with crypto.
+
+“Whenever you sell the investment, or exchange the investment for another investment, that is when a taxable transaction happens,” says Daniel Johnson, a financial advisor and founder of RE|Focus Financial Planning in Asheville, North Carolina. “You’ve got to be careful if you’re doing a lot of trading. If you’re going in and out of different types of cryptocurrency, every single time you place that trade, it is a taxable event.”
+
+When You’ll Owe Taxes on Cryptocurrency
+
+Because the IRS considers virtual currencies property, their taxable value is based on capital gains or losses — basically, how much value your holdings gained or lost in a given period.
+
+“When you trade cryptocurrencies or when you spend cryptocurrency to buy something, those transactions are subject to capital gains taxes, because you’re spending a capital asset to get something or get another asset,” says Shehan Chandrasekera, CPA, head of tax strategy at CoinTracker.io, a crypto tax software company.
+
+The difference between the amount you spent when you bought or received the crypto (its cost basis) and the amount you earn for its sale is the capital gain or capital loss — what you’ll report on your tax return. Broadly speaking, if you bought $100 worth of Bitcoin and sold it for $500, you’d see a capital gain of $400. If your Bitcoin lost value in that time, you’d instead face a capital loss. If your losses exceed your gains, you can deduct up to $3,000 from your taxable income (for individual filers).
+
+The amount of time you owned the crypto plays a part, too. If you held onto a unit of Bitcoin for more than a year, it would generally qualify as a long-term capital gain. But if you bought and sold it within a year, it’s a short-term gain. These differences can affect which tax rate is applied. The tax rate also varies based on your overall taxable income, and there are limits to how much you may deduct in capital losses if your crypto asset loses value.
+
+You can use Form 8949 to reconcile your capital gains and losses, and then report them on your Form 1040 tax return using Schedule D. The IRS’ website has additional information and tools to help you determine your crypto-related tax liability. and how to report it on its website.
+
+Reporting Crypto Income
+
+Some people receive virtual currency as payment for services. This might mean receiving crypto as income instead of cash, earning Bitcoin by mining new coins, or receiving coins or tokens as reward for certain activities (Coinbase’s Earn rewards program, for example). Regardless of how it’s earned, you’ll need to record the value of the crypto in U.S. dollars when it’s received and report that income on your tax return.
+
+“If I get paid one Bitcoin for services, I have to grab the fair market value for that Bitcoin at the moment I receive it,” says Pat White, co-founder and CEO of Bitwave, a company that helps businesses with crypto tax reporting. “Right now, if Bitcoin is at $54,000, I have to record $54,000 of revenue as personal income.”
+
+The IRS puts it this way: “A taxpayer who receives virtual currency as payment for goods or services must, in computing gross income, include the fair market value of the virtual currency, measured in U.S. dollars, as of the date that the virtual currency was received.”
+
+That fair market value you capture sticks to that coin as the cost basis, which is your responsibility to track. So if you go and buy something with crypto you’ve earned, you’ll need to reconcile its cost basis with its value when you use it for goods or services.
+
+This IRS webpage has additional information on reporting virtual currency income in more specific cases.
+
+Track Your Activity
+
+One of the most important things to remember as you start dealing in cryptocurrency is that it’s your responsibility to keep track of all your potentially taxable activities, as well as the fair market value of your crypto throughout those activities.
+
+The IRS offers only general guidance about the records you’ll need to keep for tax reporting purposes: they should be sufficient “to establish the positions taken on tax returns.” Some examples the agency gives include records of any time you receive, sell, or exchange virtual currency, as well as the fair market value of your virtual currency.
+
+“That is the big, scary thing,” White says. Getting into the crypto space can be incredibly simple, “but actually tracking the cost basis and making sure you’re doing it correctly, that’s where it gets really tricky.”
+
+Some exchanges may issue a Form 1099-B to help you determine gains and losses, but that’s uncommon. Ultimately, you’re responsible for tracking your taxable activities and your currency’s fair market value.
+
+If you leave your virtual currency within your account on the exchange you buy it, it’s generally easy to track or generate reports about your transactions. But if you move your currency between private wallets or you have crypto in multiple places, you’ll need to be more diligent in your tracking.
+
+There are crypto-focused tax software programs you can use to simplify the process. As long as you input data on all your crypto trades or earnings across all exchanges you’ve used, the software will generate the cost basis for your trades and help you determine your capital gains and losses. Some of these programs — CoinTracker, TokenTax, CryptoTrader.Tax, and more — are compatible with regular tax programs like TurboTax or TaxAct, so you can easily import the gains and losses they report to your tax return.
+
+How to Prepare for Tax Season When You Have Crypto
+
+The best thing you can do to simplify your crypto-related 2021 tax filing is start planning ahead now. Don’t wait until April 1, 2022, to begin gathering your reports and figuring out what you owe, even if that’s how you typically approach tax season.
+
+“You do not want to be in the situation on April 14 where you’re trying to catch up with one year’s worth of crypto activity,” White says. “You really want to treat it more like a business, where on a monthly basis you are making sure that all of your taxes are up to date, making sure you are tracking things correctly, being more proactive about it.”
+
+If you’re just dipping your toes into trading Bitcoin or another cryptocurrency, and only have a few transactions (with accurate cost basis reporting), you may be able to easily report your crypto earnings yourself using your typical tax software.
+
+“Most people are pretty simple: they have a W-2, they have a couple 1099 interest forms, and they may have some crypto,” Chandrasekera says. “So those people don’t really need a CPA. But if you’re somebody dealing with large amounts of money, you’re making DeFi transactions, staking or mining operations, those people will want to have a CPA to sit down and do tax planning and tax-saving strategies.”
+
+Consider Working With a Professional
+
+Even if you aren’t conducting complex crypto activities, and just have questions about your specific tax obligation or you’re unsure if you’re reporting correctly, consider working with a tax professional who has experience interpreting tax code related to virtual currencies.
+
+The IRS and other regulators cannot issue guidance on every situation a taxpayer may run into, and there are plenty of gaps in current guidance. That’s why it’s important to look for a tax professional familiar with current IRS guidance and has experience reporting cryptocurrency gains and losses, Chandrasekera says. Ask potential tax pros if they own any virtual currency themselves, and make sure they acknowledge the uncertainties in the tax code.
+
+“There are some gray areas, and that’s where CPAs need to come in and say, ‘OK, we don’t have direct guidance from the IRS, but when they set up the guidance, this was the intention,’” Chandrasekera says. “As CPAs, we should be able to use our experience and our overall knowledge about the tax code and apply those rules to the unique cases that we see.”
+
+IRS Guidance for Virtual Currencies
+
+Here’s the guidance the IRS has issued so far related to virtual currencies and tax reporting:

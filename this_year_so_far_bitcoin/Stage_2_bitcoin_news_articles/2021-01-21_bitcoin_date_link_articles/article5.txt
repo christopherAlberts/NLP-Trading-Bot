@@ -1,0 +1,39 @@
+Bitcoin’s price took another hit Thursday morning, dropping close to $31,000 since markets opened in Europe and the U.S.. Investors rushed to take short-term profit, concerned about when – or if – another wave of new buyers would come into the market soon.
+
+At the press time, bitcoin‘s price was at $31,910.61, down 6.61% in the past 24 hours, according to CoinDesk 20. In the U.S., at around 9:40 a.m. ET (14:40 UTC), bitcoin’s price was as low as $31,006.59.
+
+One indicator showing the severity of the U.S. and European sell-offs is the so-called “Coinbase premium,” the gap between Coinbase’s BTC/USD pair and Binance’s BTC/USDT pair involving the tether stablecoin, according to South Korea-based on-chain data site CryptoQuant. The number dropped to as low as -$212.79 at 4:17 a.m. ET (09:17 UTC) on Thursday.
+
+Coinbase premium Source: CryptoQuant
+
+“Coinbase naturally has to trade higher than Binance by, like, 20 basis points, I believe, due to the minor tether price difference,” Ki Young Ju, the chief executive at CryptoQuant, told CoinDesk. “So if it is actually trading at the same price or even lower, it would mean really, really, very super-bearish.”
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Tether is the largest stablecoin in cryptocurrency. Trading close to – but not exactly – at par with the U.S. dollar that is supposed to back it, tether is the popular method for those on Binance and other Asian exchanges to get into and out of bitcoin.
+
+Even though the premium fell in deep red territory during Asian trading hours on Thursday, it does not mean traders in the U.S. were not involved in the latest correction.
+
+“U.S. traders have been attempting to trade in anticipation of lower Asian sessions,” said John Todaro, director of institutional research at cryptocurrency analysis firm TradeBlock. “So depending on the times this premium tightening occurred in the day, it could be an indicator of U.S. selling ahead of that.” TradeBlock is a CoinDesk subsidiary.
+
+Several factors seem to have triggered the latest bitcoin sell-off: the unwinding of leverage, especially in Asia; concerns that fewer buyers are coming into the market; and uncertainty about policies on cryptocurrencies from newly inaugurated President Joe Biden’s administration, according to analysts and traders.
+
+“We saw some selling from institutions, but not significant,” Chris Thomas, head of digital assets at Geneva-based Swissquote bank, told CoinDesk. “The trigger was Asian leveraged positions late in Asian hours. They move the market quite a lot because of the leverage.”
+
+Data from coinalyze.net shows that a reasonable amount of leverage on major derivatives exchanges. Source: coinalyze
+
+On the technical side, traders said the market has broken the price uptrend since Dec. 11 and is looking at a new support level in the $29,000-30,000 range.
+
+CoinDesk's Bitcoin Price Index Source: CoinDesk 20
+
+”The next support level down is the 61.8% Fibonnacci retracement at $26,700,” Jean-Marc Bonnefous, partner at investment firm Tellurian Capital, told CoinDesk. “That is, if the new investors’ allocations do not come in as widely expected to buy the much-awaited dip.”
+
+As the number of traditional investors and traders entering the bitcoin market increased in recent months, the price movement has become more technical-driven, according to Bonnefous. Before it was mainly affected by bitcoin’s supply and demand, he said.
+
+Bitcoin’s price is below its 10-hour and 50-hour moving averages on the hourly chart, a shorter-term bearish signal for market technicians.
+
+Bitstamp's BTC/USD pair (x) Source: TradingView
+
+A few institutions, including some hedge funds, could be using the uncertainty in the market as an excuse to take some profit, Todaro added. Many of these traditional financial players in the U.S. and Europe came to the market prior to the steeper portion of bitcoin’s run-up and are thus more likely to be at higher profit levels given current prices.
+
+But some potential investors may be spooked by not knowing what the Biden Administration will do regarding bitcoin and cryptocurrencies.

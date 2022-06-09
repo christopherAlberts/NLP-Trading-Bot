@@ -1,0 +1,35 @@
+Another day, another spike in Bitcoin (BTC) leaving major exchange Coinbase as funds pour into the largest cryptocurrency.
+
+Data from on-chain monitoring resource Glassnode showed 12,354 BTC ($694 million) being withdrawn from the Coinbase order book in a single hour on Friday.
+
+Coinbase sees another BTC balance squeeze
+
+As the largest exchange in the United States, Coinbase has frequently been the venue for major Bitcoin buy-ins this year.
+
+As Cointelegraph reported, sudden tranches in excess of 10,000 BTC heading to private wallets is far from unheard of but nonetheless demonstrates a desire to at least store Bitcoin for the long term instead of keeping it within easy reach of a point of sale.
+
+Coinbase Pro Bitcoin balance chart. Source: Bybt
+
+For analyst Lex Moskovski, the type of investor behind such transactions remains uncertain — it could be a private individual or small group, as well as an institutional investor or corporate client.
+
+“Institutions or not, that’s still a significant outflow,” he commented on the Glassnode data.
+
+Coinbase Bitcoin outflows annotated chart. Source: Lex Moskovski/ Twitter
+
+“Healthy bull market”
+
+The data comes hand in hand with on-chain indicators staying firmly bullish. This week, Glassnode co-founder Rafael Schultze-Kraft highlighted a surge in Bitcoin’s so-called realized cap (Rcap) likewise supporting the broad buying thesis.
+
+The realized cap is a measure of Bitcoin’s market capitalization based on the price at which each coin last moved. It provides a useful insight into the market composition and trader sentiment and produces a significantly different total to the traditional market cap.
+
+“Unprecedented capital inflows into Bitcoin as measured by realized capitalization,” Schultze-Kraft tweeted on Friday.
+
+“Over the past 6 months, realized cap has surged a whopping $250 billion – an increase of ~200%. Healthy bull market.”
+
+He added that realized cap has increased by the same amount as the entire traditional market cap of Bitcoin as measured in December 2020.
+
+Bitcoin realized cap vs. BTC/USD annotated chart. Source: Rafael Schultze-Kraft/Twitter
+
+Relative to traditional cap, however, Rcap can still increase significantly before signalling the top of the bull market. MVRV, which measures the ratio of the two metrics, measured 4.4 this week, compared to 7.6 in February and over 10 at past market cycle tops.
+
+“We have yet to experience true fomo yet from institutions. It’s coming,” Timothy Kim responded to the Glassnode numbers.

@@ -1,0 +1,15 @@
+Google has updated its requirements for bitcoin exchange and wallet advertisements, requiring FinCEN, state and federal compliance.
+
+Web search giant Google plans to update its requirements for advertisements from bitcoin-focused businesses next month.
+
+“In August 2021, Google will update the Financial products and services policy to clarify the scope and requirements to allow the advertisement of cryptocurrency related business and services,” according to a statement from the company. “Beginning August 3, advertisers offering Cryptocurrency Exchanges and Wallets targeting the United States may advertise those products and services when they meet the following requirements and are certified by Google.”
+
+The statement went on to list that these businesses will need to be registered with the Financial Crimes Enforcement Network (FinCEN) as money services businesses and with at least one state as money transmitters, or with federal- or state-chartered bank entities. They will also need to comply with legal requirements set by state and federal authorities.
+
+Any existing cryptocurrency exchange certifications will be revoked on August 3, and advertisers will have to seek out new certifications with Google when it publishes an application form on July 8, 2021.
+
+The statement also clarified that “Ads for initial coin offerings [ICOs], DeFi trading protocols, or otherwise promoting the purchase, sale or trade of cryptocurrencies or related products” will not be allowed. ICO presales, cryptocurrency loans, initial decentralized exchange (DEX) offerings, token liquidity pools, celebrity cryptocurrency endorsements, unhosted wallets and unregulated decentralized applications were all listed as examples of things that cannot be advertised.
+
+Google has generated 30% of worldwide digital ad revenue in recent years, and its advertising policy can have major influence on the success of businesses. Regulatory requirements enforced through these policies could very well determine the success of many bitcoin exchanges or wallets.
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.

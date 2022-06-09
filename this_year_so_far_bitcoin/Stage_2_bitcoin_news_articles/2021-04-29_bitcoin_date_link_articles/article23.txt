@@ -1,0 +1,41 @@
+BeInCrypto has taken a look at on-chain metrics for bitcoin (BTC), specifically Coin Days Destroyed (CDD), Dormancy, and Spent Output Age Bands. This is done in order to determine the age of coins that were responsible for the majority of the selling during the April 25 correction.
+
+Bitcoin Dormancy, CDD, and Spent Output Age Bands show that the vast portion of the selling during April 25 was done by newer coins.
+
+Bitcoin CDD
+
+CDD measures the number of days a coin is unspent before a transaction occurs. For each day that a coin remains unspent, it accumulates one “coin day,” which is destroyed the day of the transaction.
+
+Therefore, it measures the total amount of coin days that are destroyed on a certain day.
+
+When looking at CDD in 2021, we can see that it peaked on Jan. 4, with 37,240,987 days destroyed.
+
+It has made three lower peaks since, on Feb. 24, April 15, and April 27.
+
+The April 25 low actually had a lower-than-average days destroyed value of 15,215,538.
+
+Therefore, while there was more selling of older coins on the April 27 bounce, the April 25 drop was primarily engineered by short-term holders.
+
+Dormancy
+
+Dormancy is similar to CDD but has one key difference. While the former measures the total amount of days destroyed on a specific day, dormancy measures the average age of each coin that is moved. Hypothetically, destroying a very large number of coins that have a young age would give a large CDD number and small dormancy.
+
+Similar to CDD, dormancy reached a peak on Jan. 4, when the average age of a coin destroyed was 57.1 days.
+
+Since then, it has made three lower highs on Feb. 24, March 14, and April 15.
+
+Interestingly, dormancy has been decreasing since April 15, showing no upticks whatsoever. This is unlike what occurred with CDD, which still spiked on April 15.
+
+This means that while there was a large number of coins that were destroyed since April 15, they had a shorter average age.
+
+Spent output age bands
+
+Spent Output Age Bands show the percentage of coins spent that pertain to a specific age band.
+
+Story continues
+
+In the image below, the light orange color notes coins that were created one day to one week prior, while the darker orange relates to those created one week to one month ago. The purple and dark blue colors denote coins that have been last spent more than three months ago.
+
+The data shows a large uptick during the April 25 low.
+
+For BeInCrypto’s latest bitcoin (BTC) analysis, click here.

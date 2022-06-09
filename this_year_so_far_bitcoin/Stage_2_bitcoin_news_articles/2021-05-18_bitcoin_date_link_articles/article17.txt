@@ -1,0 +1,17 @@
+DarkSide, the hacker group behind the recent Colonial Pipeline ransomware attack, received a total of $90 million in bitcoin ransom payments before shutting down last week, according to fresh research.
+
+Colonial Pipeline was hit with a devastating cyberattack earlier this month that forced the company to shut down approximately 5,500 miles of pipeline, crippling gas delivery systems in southeastern states. The FBI blamed the attack on DarkSide, a cybercriminal gang believed to be based in Eastern Europe, and Colonial reportedly paid a $5 million ransom to the group.
+
+DarkSide operates what’s known as a “ransomware as a service” business model, meaning the hackers develop and market ransomware tools and sell them to other criminals who then carry out attacks. Ransomware is a type of malicious software that’s designed to block access to a computer system. Hackers demand a ransom payment — typically cryptocurrency — in return for restoring access.
+
+On Friday, London-based blockchain analytics firm Elliptic said it had identified the bitcoin wallet used by DarkSide to collect ransom payments from its victims. That same day, security researchers Intel 471 said DarkSide had closed down after losing access to its servers and as its cryptocurrency wallets were emptied. DarkSide also blamed “pressure from the U.S.,” according to a note obtained by Intel 471.
+
+In a new blog post Tuesday, Elliptic said DarkSide and its affiliates bagged at least $90 million in bitcoin ransom payments, originating from 47 distinct cryptocurrency wallets. The average payment from organizations was likely $1.9 million, Elliptic said.“To our knowledge, this analysis includes all payments made to DarkSide, however further transactions may yet be uncovered, and the figures here should be considered a lower bound,” said Tom Robinson Elliptic’s co-founder and chief scientist.
+
+Elliptic said that DarkSide’s bitcoin wallet contained $5.3 million worth of the digital currency before its funds were drained last week. There was some speculation that this bitcoin had been seized by the U.S. government.
+
+Of the $90 million total haul, $15.5 million went to DarkSide’s developer while $74.7 million went to its affiliates, according to Elliptic. The majority of the funds are being sent to crypto exchanges, where they can be converted into fiat money, Elliptic said.
+
+Bitcoin has gained a reputation for its use in criminal activity, as people transacting with the cryptocurrency don’t reveal their identity. However, the digital ledger that underpins bitcoin is public, meaning researchers can trace where funds are being sent.
+
+The Colonial Pipeline hack was one of a spate of ransomware attacks to generate headlines last week. A division of Japanese conglomerate Toshiba said its European unit had been hacked, blaming the attack on DarkSide, while Ireland’s health service was also hit by a ransomware attack. On Wednesday, President Joe Biden signed an executive order aimed at strengthening U.S. cybersecurity defenses.

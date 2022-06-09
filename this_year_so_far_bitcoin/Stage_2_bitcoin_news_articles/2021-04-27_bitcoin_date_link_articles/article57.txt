@@ -1,0 +1,49 @@
+It’s not about perfection. It’s about being the better alternative. That’s it. You’re not saying I’m the most efficient thing that’s ever been created in human history. Things will get more and more efficient because of economic competition. What you’re saying is I’m more efficient than the alternative uses.
+
+There’s no split. There’s a completely separate network that is passing off and pretending to be. They’re different chains. So BTC is not Bitcoin. Under legal terminology its basically called passing off. Its misrepresenting themselves as if they were Bitcoin.
+
+-Dr. Craig S. Wright
+
+The two quotes above are big statements, both taken from the sixth video in Ryan X. Charles’s Theory of Bitcoin: The Bitcoin Whitepaper series with the whitepaper’s author, Dr. Craig S. Wright. Economic competition and incentives are at the heart of the Bitcoin system he invented, a system that is completely different than the system that falls under the BTC ticker symbol. Throughout this episode, Charles and Dr. Wright go through the Proof of Work (POW) and Network sections of the whitepaper line by line and these are my key takeaways from the discussion.
+
+Why POW
+
+So what in the world is POW anyway? As described by my friends at Bitcoin SV Academy, “Proof of Work is the term used when explaining the rules that decide who gets to update transactions on the Bitcoin blockchain.” The “who” refers to nodes (miners) and in order to be the node that updates the next block of transactions and receive the coveted block reward, the node needs to provide proof that they have solved a computational challenge.
+
+While this may sound rather complicated, it’s more important to understand why POW exists as opposed to exactly how it works. The point here is that once POW has been performed, the block is complete and cannot be undone without redoing the work. As more blocks are built on top of that block, all of those subsequent blocks would have to be redone as well. In other words, POW is what ensures immutability.
+
+POW is not really the security mechanism of the Bitcoin system (widely distributed hashes are), rather it’s a way of allowing nodes to compete with each other. For a node to find a block, complete it and signal its completion to the network, it shows they are serious and invested in what they are doing. As we learned from video five in this series, signaling is important.
+
+POW vs POS and the dangers of too many nodes
+
+If there are too many nodes on the network, Dr. Wright explains that it’s impossible to take action against them if there is fraud and therefore you can’t trust anything. For these reasons, Dr. Wright abandoned the idea of a Proof of Stake or “POS” system (a system where a person can mine or validate block transactions according to how many coins they hold…a system that Ethereum is transitioning to) and went with POW for Bitcoin. A POS system is “easy to game,” he says.
+
+First of all, with POS, there could be collusion issues. Second of all, the nodes would not be tied to a location as the full nodes are that mine Bitcoin. Validating blocks would no longer mark where a node exists. There’s also an ability to set up fractional ownership with POS. A huge number of smaller nodes could secretly be aligned and there is no way of telling. In order for the system to work, we need to know who the nodes are so we can hold them accountable.
+
+“That’s the bit that everyone keeps forgetting. The reason for determining is so that you can actually attribute. And if you can say this guy with 30% of the hash power has now double spent or done something wrong, you can attribute that to them,” Dr. Wright explains.
+
+With Bitcoin, if 51% of the network attacks, you would know what miners represent the 51% of the network. “It’s really hard to hide a really large mining farm,” Dr. Wright points out.
+
+The role of incentives
+
+With mining on Bitcoin, Dr. Wright has created an environment where nodes build and invest in infrastructure and this is because they are incentivized to do so.
+
+Charles and Dr. Wright discuss how there are people that say there should be POW with a continuous equal block reward forever (no halving) and just have it as a constant inflation rate. Dr. Wright explains the problem with this sort of thinking is that there is not an incentive to improve. Why bother growing the network? Why build and scale if you’re going to be rewarded with the same amount no matter what? What incentive would you have anymore?
+
+In addition to scaling and growing the network, the incentives are there to make it irrational for nodes to be anything other than honest. POW is a “de-anonymization” technique and there’s literally no hiding, nodes can be pinpointed and they know this.
+
+I love how Dr. Wright brought human nature and tendencies into Bitcoin, the theory behind Bitcoin is not just computer science. Dr. Wright is incredibly well-versed in the study of criminality and economic incentives (to name a few!) and he explains that economic criminals are more rational than the average person. He refers to them as “hyper-rational.”
+
+According to Dr. Wright, economic criminals take morality out of the equation and do not care what’s right or wrong, they care “purely from a utility-based outcome.” Since criminals are rational, if you set everything up for them so they know they are going to lose money if they don’t follow the rules, then you don’t need to worry. It’s more profitable for nodes to act legally.
+
+Peak vs. non-peak
+
+Towards the end of the episode, Charles and Dr. Wright dive into the ‘Network’ section of the whitepaper and discuss some potential future scenarios with the Bitcoin network.
+
+“There will be differences with how people interact on the system, especially when you look at peak vs. non-peak time,” Dr. Wright reveals.
+
+A possible scenario could be that transaction fees go up peak time and users will have to pay more for transactions to go through quickly. On the other hand, if once a day is good enough for example, perhaps users could work out some sort of a deal with a miner where the transactions are processed every 12 hours and the fees are taken out then.
+
+Dr. Wright explains that as the network scales and it becomes more difficult to send a block around as they will be so big, transacting will be broken down into peak times and low times and the fees will change accordingly, similar to how electricity is billed. Think of a day like Black Friday in the U.S. (for shopping, not poker!), it will be more expensive to transact during a time when huge amounts of people are shopping and transacting, for example. It’s a supply and demand equation.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

@@ -1,0 +1,81 @@
+share
+
+
+
+
+
+
+
+Link copied to
+
+clipboard
+
+No one said getting rich was going to be easy.
+
+Cryptocurrency traders are licking their wounds this morning — and, in some cases, re-evaluating their life choices — after a sharp pullback on Sunday caused the biggest-ever liquidation in the market’s history.
+
+The price of Bitcoin plunged about 12 per cent from around $US59,000 ($76,500) to $US52,00 ($67,400) in the space of the 15 minutes beginning 1.15pm AEDT on Sunday, with smaller cryptocurrencies dropping even more.
+
+According to Bybit, one million derivatives traders had their positions liquidated, losing a total of $US10 billion ($US13 billion) in value.
+
+(Risk-addicted cryptocurrency traders sometimes use leveraged futures contracts to amplify their potential gains – but they risk losing everything if the price moves against them).
+
+The value of the liquidated positioned dwarfed the $800 million in value liquidated during a correction in February and $1.9 billion lost in a January crash.
+
+One trader on Binance lost a position on Bitcoin with a face value of $US68.73 million (!!!) ($89 million), according to Bybit.
+
+Some of the best traders got liq’d for hundreds of thousands or even millions with those Binance shenanigans last night. Gotta say I’m not too happy as it personally cost me $20k. That’s my #rekt story for the day. I guess the moral of the story is be VERY careful with leverage — Trading Tank (@TradingTank) April 18, 2021
+
+About half of the $US10 billion in positions liquidated were in Bitcoin, $US1 billion in Ethereum, and the rest in smaller cryptocurrencies.
+
+Theories for the reason for the dip abounded, with some citing an unverified Twitter report posted about a half-hour before the crash.
+
+U.S. TREASURY TO CHARGE SEVERAL FINANCIAL INSTITUTIONS FOR MONEY LAUNDERING USING CRYPTOCURRENCIES -SOURCES — FXHedge (@Fxhedgers) April 18, 2021
+
+But others poo-pooed that idea that a tweet issued around 11pm on Saturday, East Coast time would have such an influential impact on the price.
+
+7/22 But, the spark, the spark that set off the largest single day set of liquidations in crypto history? I don’t think that was anything to do with a poorly sourced, inaccurate tweet, on an English heavy website at midnight on a Saturday. — Adam Cochran (@adamscochran) April 18, 2021
+
+Crypto analyst Willy Woo posited the crash was caused by miners going offline in northern China because of a temporary power outage, decreasing the Bitcoin “hash rate” or speed at which the network processes transactions.
+
+Summary: – Initial sell off due to anticipation of miners going offline in China. – Sell pressure was sufficient to trigger liquidation of short term speculator positions forcing price violently down. – Longer term fundamentals is very strong. Data: @glassnode @bybt_com — Willy Woo (@woonomic) April 18, 2021
+
+Others didn’t feel that was a convincing explanation either.
+
+“Typically shocks to hash rate do not cause price drops,” Edan Yago, co-founder at Bitcoin-based decentralised finance protocol Sovryn, told Reuters.
+
+“A hash rate reduction slows transactions, which ironically makes it harder to move coins to exchanges for sale. The recent price drop is well within the bounds of typical volatility, it is noise not signal.”
+
+It could just be that the market was ripe for a pullback after last week’s strong performance.
+
+$2.5 billion got liquidated in 1 hour from that #bitcoin pull back. Standard volatility as we climb to $100,000! 🚀 — Layah Heilpern 🎬 (@LayahHeilpern) April 18, 2021
+
+
+
+
+
+Market recovery
+
+Whatever the reason for the pullback, cryptocurrency markets seemed to be staging a solid rebound this morning.
+
+After dropping again to $US53,441 at 9.54pm AEDT yesterday, Bitcoin had been rising more or less steadily since then, trading at just above $US57,000 ($74,570) at 11.30am.
+
+Ethereum was changing hands at $US2260 ($2,951), down 1.0 per cent in the past 24 hours.
+
+Seventy of the top 100 coins on Coingecko had lost ground in the past 24 hours – four by double-digits – but most if not all were well off their lows.
+
+Twenty-four coins had gained ground, including Neo and Solana, which were both up a bit more than 30 per cent.
+
+Red-hot Dogecoin was trading at US32c after dropping to US25c during the crash. It’s still up 14 per cent in the past 24 hours and 337 per cent in the past seven days – making it the top-performing top 100 cryptocurrency in that time.
+
+VetChain, ThorChain, yearn.finance, Solana, Amp and LEO Token had all set all-time highs in the past 24 hours to 11.45am – VeChain, ThorChain and yearn.finance in the past hour.
+
+Join our Cryptohead Facebook group to discuss all things cryptocurrency.
+
+Subscribe to our daily newsletter
+
+Join our small cap Facebook group
+
+Follow us on Facebook or Twitter
+
+Read More BitcoinCryptocurrency

@@ -1,0 +1,61 @@
+Cryptocurrencies like Bitcoin and Ethereum are increasingly being favored by investors in spite of their volatility. Cryptocurrency is an internet-based digital currency that is not under the control of any central authority and uses blockchain technology for decentralized, transparent transactions.
+
+According to a Facts and Factors market research report from April, the global cryptocurrency market is expected to be worth more than $5,190.62 million by 2026. The market was worth $792.53 in 2019, indicating that the cryptocurrency market is expected to grow at a compounded annual growth rate (CAGR) of 30% between 2019 to 2026.
+
+Using the TipRanks Stock Comparison tool, we will compare two cryptocurrency mining companies, Riot Blockchain and Marathon Digital Holdings, and see how Wall Street analysts feel about these stocks.
+
+Riot Blockchain (RIOT)
+
+Riot Blockchain is a bitcoin mining company based in the United States and is expected to announce its Q1 report on May 17. The company’s bitcoin mining facility is located in Massena, NY.
+
+Last month, Riot provided an unaudited bitcoin (BTC) production and holdings update. In the first quarter of this year, Riot produced 491 bitcoins, 75% more than its pre-halving production in Q1 last year.
+
+Bitcoin halving is the process of reducing the rewards earned for bitcoin mining after each set of 210,000 blocks mined. This is done to ensure that the quantity of bitcoin in circulation does not rise exponentially.
+
+As of March 31, Riot had 1,565 bitcoins on its balance sheet produced by the company’s mining operations. On April 7, Riot entered into a contract with Bitmain Technologies to purchase 42,000 S19j Antminers for a price of $138.5 million to increase its Bitcoin mining hash rate to 5 exahash per second (EH/s) by the end of this year, and 7.7 EH/s by the end of 2022.
+
+Hash rate measures the processing power of the bitcoin mining network. Riot expects to achieve this hash rate with a fleet of 81,146 Antminers, of which 95% will be S19 Pro Antminers.
+
+Story continues
+
+Last month, Riot announced the acquisition of Whinstone in a cash-and-stock deal valued at $651 million. This included $80 million in cash in addition to 11.8 million RIOT shares based on the closing price of $48.37 as of April 7. The acquisition is expected to close in the second quarter of this year.
+
+Whinstone owns and operates the largest Bitcoin hosting facility in North America in terms of total developed capacity. The company’s facility is based out of Rockdale, Texas, with a total power capacity of 750 MW. (See Riot Blockchain stock analysis on TipRanks)
+
+Last month, H.C Wainwright analyst Kevin Dede reiterated a Buy and a price target of $64 on the stock. Dede said in a note to investors, “We also suggest examining EBITDA as a proxy for this year's operating cash flow. We estimate this figure could fall in the $160 million range, implying a 26x EV-to-EBITDA multiple, that is more reasonable. Lastly, Riot's sales are expected to expand roughly 17-times to $205.3 million versus last year's $12.0 million, while EPS is expected to grow to $1.95 from ($0.30) last year on a GAAP basis, suggesting a P/E-to-growth ratio that falls below 1.0x.”
+
+However, Dede also underlined the risk involved in investing in RIOT and said, “An investment in Riot Blockchain is not without a significant level of risk that includes the speculative nature of bitcoin itself, the limitations of its financial strength in competing against larger, better capitalized mining operations, and the correlated dilution associated with any capital raise, among many others highlighted in Riot's recent SEC documents.”
+
+Dede's price target of $64 indicates upside potential of around 104% from current levels.
+
+Marathon Digital Holdings (MARA)
+
+Marathon Digital Holdings is another bitcoin mining company in North America. Earlier this month, Marathon became the first company to produce bitcoin (BTC) in a manner that is compliant with the U.S. Department of the Treasury’s Office of Foreign Asset Control’s (OFAC) standards and anti-money laundering (AML) regulations.
+
+As a result, the mining pool will not process transactions from people listed on the US Department of Treasury’s Specially Designated Nationals and Blocked Persons List (SDN).
+
+On May 1, Marathon began directing 100% of its hash rate to the new mining pool and in the first quarter of next year, Marathon expects all 103,120 of its miners to be deployed. The company expects a hash rate of 10.37 exahash per second (EH/s) to be directed to this mining pool by the first quarter of next year. On June 1, Marathon’s mining pool will begin accepting other BTC mining companies based in the United States.
+
+According to the company’s business update for the month of April, the company produced 162.1 new bitcoins, taking its total bitcoin holdings to 5,292 with a fair market value of $305.2 million. Marathon has received 13,032 S-19 Pro ASIC miners year-to-date from Bitmain.
+
+The company had around $204.4 million cash on hand with total liquidity, including cash and bitcoin holdings of $509.6 million at the end of April. Marathon has ramped up its active mining fleet to 12,084 miners, generating a hash rate of 1.29 EH/s.
+
+Marathon’s CEO, Fred Thiel said, “April was an incredibly productive month as we brought 5,288 new miners online and increased our active mining fleet’s hashrate approximately 82% in just 30 days. As a result, by the end of April, we were producing nearly 7 bitcoins per day, up from 3.2 bitcoins per day at the end of March.”
+
+“New miners continue to be delivered and installed on a daily basis, and as they come online, these production figures will continue to improve as our business scales into one of the largest enterprise Bitcoin mining operations in North America,” Thiel added.
+
+Marathon is aiming for monthly revenues of $103 million by the first quarter of next year by increasing the mining power or the hashrate of BTC and reducing the costs of production.
+
+The company has also partnered with Beowulf Energy to reduce the electricity costs involved in mining BTC. Marathon expects data center management and electricity costs to decline 38% to $0.034 per kilowatt-hour (KWh). (See Marathon Digital Holdings stock analysis on TipRanks)
+
+Last month, H.C Wainwright analyst Kevin Dede reiterated a Buy and a price target of $50 on the stock. Dede said in a research note to investors, “Some conservatism in our assigned multiple exists in reflecting the corresponding deployment risk to which Marathon may be exposed in its Montana location compounded by the overhang created by the necessity for another location to power the miners already ordered—the announcement of Marathon's next destination should alleviate some uncertainty.”
+
+“One of the most important relationships, we think, is the company's alliance with privately-held Beowulf Energy LLC and that company's commitment to dedicating 500 MW of power to cryptocurrency mining,” Dede added.
+
+Dede's price target of $50 indicates upside potential of around 72% from current levels.
+
+Bottom Line
+
+The rising interest in cryptocurrencies and an increase in the number of transactions conducted using cryptocurrency could stand to benefit both RIOT and MARA in the years ahead. According to H.C Wainwright analyst Kevin Dede, both stocks appear to indicate significant upside potential over the next 12 months.
+
+That being said, currently, Dede appears to be more bullish on RIOT’s long-term growth prospects.

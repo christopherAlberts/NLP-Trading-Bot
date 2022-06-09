@@ -1,0 +1,31 @@
+Bitcoin Cash Transactions Intensify, Daily Count Nears BTC, Big Blocks Help Clear Throughput
+
+Just recently, the Bitcoin Cash community has been discussing the large number of transactions the network has been seeing on a daily basis during the last month. Statistics show that bitcoin cash daily transactions have been increasing every day since the last week of 2020. Bitcoin Cash miners have processed upwards of 300,000+ daily transactions on various days during the past week.
+
+The crypto economy and myriad of blockchain networks have been getting a lot more attention during the last few months. Not only has a number of digital assets jumped tremendously in value, but many of these tokens are seeing increased usage as well.
+
+More recently, Bitcoin Cash proponents have been noticing that the BCH chain is handling a whole lot more transactions than usual. Since the last week of December 2020, BCH transaction counts per day have steadily risen northbound and have come awfully close to matching the Bitcoin (BTC) network’s daily output.
+
+At the time of writing, onchain data shows the BCH chain processed 282,010 transactions during the last 24 hours while BTC has processed 334,793 in that time. This shows that BTC is handling 3.87 transactions per second, while BCH does 3.26 at this transaction rate.
+
+Additionally, statistics from messari.io show that bitcoin cash (BCH) is currently the fourth most active blockchain under dogecoin (DOGE). Most of the time during the last month, BCH was the third-most active blockchain.
+
+In terms of settlement, during the last 24 hours data shows the Bitcoin Cash network settled $4.34 billion among 80,529 active addresses. On Friday, Bitcoin Cash supporters discussed the increasing transaction count on Reddit.
+
+One thread noted that on January 29, 2021, BCH had 322.26k transactions compared to BTC’s 322.22k daily count. “Community growth and utility is on the rise, and that’s the most important thing,” the author of the Reddit post stressed. Another person dubbed the “Transaction Maximalist” wrote:
+
+The same throughput but still $0.001 transaction fees. Cool.
+
+Even with the increase in transaction throughput BCH transaction fees have not risen. BCH has a 32MB block size parameter and in September 2018, participants observed the chain processing upwards of 2 million+ transactions in a 24 hour period.
+
+During this period of time in 2018, a time the community called the “stress tests,” BCH miners processed massively sized blocks all week long. Bitcoin cash miners still process very large blocks, while BTC miners still deal with the 1MB limit and segregated witness (segwit) improvements.
+
+On Saturday, BCH supporters celebrated a large 4723.044kB (4.7MB) block at block height 672,532. The large block processed 14,910 transactions and with the 6.25 BCH block rewards only $25 in fees were paid for the transaction confirmation. Software developer Jonathan Toomim talked about the larger sized block on Saturday morning as well.
+
+“This block (672532) was mined at 8:30am UTC,” Toomim said. The previous block (672531) included only [one] transaction (Hathormm, aaarg!). The block before (672530) was mined at 7:12am UTC. So this 4.7 MB block comprised 1h28m worth of transactions. That’s about 0.53 MB per 10 minutes,” he added.
+
+What do you think about the increased transaction count on the Bitcoin Cash blockchain? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, explorer.bitcoin.com/bch/block, Coin Dance,
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

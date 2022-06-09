@@ -1,0 +1,31 @@
+For Elon Musk, whose hatred for short-sellers blazes hot enough to reforge Mjölnir a dozen times over, the millions in losses suffered by shorts after the Tesla CEO changed his Twitter bio to “Bitcoin” must make it feel like Christmas and his birthday rolled into one.
+
+That one word bio caused the price of bitcoin to spike to a 10-day high of $38,020 and sparked $387 million worth of short liquidations on major exchanges including Binance, Bitfinex, BitMEX, ByBit, Deribit, FTX, HuobiDM and OKEx.
+
+The crypto market leader is trading at $37,390 at press time, representing a more than 15% gain from the low of $32,000 seen during the European morning session.
+
+Bitcoin long-short liquidations (Long in red, short in green) Source: Coinalyze
+
+Today’s short liquidation is the largest since Jan. 2, when exchanges closed $575 million worth of shorts, according to data provider Coinalyze.
+
+Forced closure of short positions happens when the price moves above a predetermined threshold, signaling the liquidation engine to “square off,” or close, the positions. A massive short squeeze like this often puts upward pressure on prices, leading to a bullish move.
+
+Market was skewed bearish
+
+Data indicates the market was skewed bearish early Monday and some observers were anticipating a price drop, courtesy of increased inflows onto exchanges.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+However, sentiment turned bullish after Musk changed his Twitter bio and tweeted: “In retrospect, it was inevitable.” The Tesla and SpaceX CEO, who has made no secret of his loathing for short-sellers, may not haven intended to have caused the liquidations, but may have popped the cork on a bottle of champagne after viewing the carnage his bio change wrought.
+
+To document Elon’s ostensible nod to the leading cryptocurrency, F2Pool, currently the largest mining pool by hashrate, embedded the tech mogul’s latest tweet in Bitcoin block 668,197.
+
+Google searches for “bitcoin,” a barometer of widespread interest, surged following Musk’s cryptic endorsement of bitcoin. It remains to be seen if increased interest translates into more buying and stronger price gains.
+
+“I assume the U.S. session will try to follow in lock-step of digesting the news,” Vishal Shah, an options trader and founder of derivatives exchange Alpha5, told CoinDesk. “Typically speaking, such things would be met with more muted response. But given the backdrop, I think it could be ripe for a follow-through.”
+
+Bitcoin daily chart Source: TradingView
+
+So bitcoin is looking north, having pierced a two-week bearish trendline on the daily chart. Resistance is seen at $40,112 (Jan. 14 high), followed by the psychological level of $42,000.
+
+See also: Dogecoin Becomes Most Mentioned Crypto on Twitter Ever as Price Soars

@@ -1,0 +1,35 @@
+Research Proves Recent Transfers of 8,000 Ten-Year-Old 'Forgotten Bitcoins' Were Sold to Coinbase
+
+For months now our newsdesk has followed the tracks of a mysterious whale from 2010, a miner who not only mined thousands of bitcoin back in the day, but has also spent over 8,000 bitcoin during the past ten months. This week, the Russian blockchain researcher, Issak Shvarts published a report about the decade-old block rewards, and he claims to have shown “full proof” that the bitcoins are now owned by Coinbase and also distributed after the transfers.
+
+The Case of the Mysterious 2010 Block Reward Spends
+
+For a while now our newsdesk at news.Bitcoin.com has been monitoring a strange bitcoin (BTC) whale that has been spending coins mined in 2010. The bitcoins were mined a decade ago and they had never been moved since the day the block rewards were discovered. However, throughout 2020 and into 2021, news.Bitcoin.com has tracked a total of 7,000 BTC that mysteriously moved after ten years. Our team has worked with researchers at Btcparser.com and we’ve also discussed the topic with the Russian blockchain researcher and the author of the Telegram channel “gfoundinshit,” Issak Shvarts.
+
+Shvarts has also leveraged the parser Btcparser.com and the blockchain explorer oxt.me. The researcher believes he has provided 100% proof that the old school bitcoins are now owned by Coinbase, and even dispersed to the San Francisco exchange’s customers. Shvarts has also tracked an aggregate total of 8,000 BTC, which is worth over $250 million using today’s exchange rates.
+
+“I have previously suggested that these bitcoins belong to Coinbase,” Shvarts details in his latest report. “Now, I am sure of that,” he added.
+
+His research study suggests that there’s a consolidation of 20 wallets, 50 BTC each for one address. Then the 1,000 BTC wallet is scattered in batches of 10 BTC per address, Shvarts refers to them as “‘pockets’ for withdrawal.” Some of the BTC sent to the pockets were withdrawn in “large amounts” Shvarts insists “apparently for some VIP users,” he added.
+
+Shvarts compared the addresses from a withdrawal made from Coinbase to one of the 10 BTC addresses that derived from the original 1,000 BTC address. The clusterization mechanism clearly shows “these wallets belong to the Coinbase exchange,” Shvarts notes.
+
+The researcher adds:
+
+As you can see, the oxt.me resource, the clustering methods indicate that it belongs to Coinbase. Well, by analogy: ‘If it walks like a duck, quacks like a duck, and looks like a duck,’ I can now confidently say that all these bitcoins from 2010 belong to the Coinbase exchange.
+
+Whitening the Gray Ecosystem
+
+After explaining that there could be many possible theories involved with this entity, Shvarts asks the question: “How many more [whale miners from the early days] are waiting in the wings?” Shvarts also details that these coins are ‘virgin bitcoins’ which are “crystal clear in terms of AML.”
+
+“Oddly enough, Coinbase simply ‘injects’ them into the market, using them for retail withdrawals,” Shvarts’s study emphasizes. “By doing this, it ‘whitens’ the whole gray Bitcoin ecosystem a little. Whether this is some kind of cunning plan or is it just so that the exchange is not reproached for using “gray” coins – I do not know,” Shvarts adds.
+
+The only proven fact Shvarts said is that these coins have been discovered, and started moving during 2020 and into early 2021 to addresses owned by Coinbase. Then the 1,000 bitcoin batches are simply sent to the “exchange withdrawal system.” The onchain researcher believes that “another whale from 2010” is also moving coins, but is slightly smaller than the 8,000 coin mega-whale.
+
+“For some reason, [the smaller whale] moves his coins with a slight time delay from the movement of the coins described in this report,” Shvarts concludes.
+
+What do you think about the report that claims 8,000 bitcoin from 2010 was sent to Coinbase and later sold on the open market? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, oxt.me
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

@@ -1,0 +1,27 @@
+Cryptocurrency companies Argo and DMG have signed a memorandum of understanding (MoU) with a view to launching a new Bitcoin mining pool that operates exclusively on renewable energy.
+
+In a statement , the pair explained that the mining operation, named TerraPool, will consist of both Argo’s and DMG’s hashrate, which uses energy generated predominantly by hydroelectric sources.
+
+The goal is to establish the “first ever opportunity for the creation of green Bitcoin” and to provide a clear roadmap for minimizing the effects of Bitcoin mining on the environment.
+
+Check out our list of the best Bitcoin exchanges out there
+
+We've built a list of the best stock trading apps around
+
+Here's our list of the best Bitcoin wallets available
+
+Eco-friendly Bitcoin, an oxymoron?
+
+The recent surge in the price of Bitcoin has also placed cryptocurrency mining practices under the spotlight. One of the most common grievances with Bitcoin mining has to do with the toll it takes on the environment.
+
+Under the proof-of-work (PoW) system on which Bitcoin operates, mining syndicates compete to solve complex mathematical problems. The first to do so earns the right to process a block of transactions, in exchange for transaction fees and newly minted cryptocurrency.
+
+Although this system is crucial to running and securing the Bitcoin network, the amount of energy used up by competing miners is astronomical. A recent report from the University of Cambridge asserted that Bitcoin uses up more energy on an annual basis than the country of Sweden, at 139.15 TWh/year.
+
+By running a mining operation on energy generated from renewable sources, however, Argo and DMG believe they can reverse the narrative surrounding Bitcoin mining and accelerate the transition from conventional mining to clean energy equivalents.
+
+“Addressing climate change is a priority for Argo and partnering with DMG to create the first ‘green’ Bitcoin mining pool is an important step towards protecting our planet now and for generations to come,” said Peter Wall, CEO at Argo Blockchain.
+
+“We are hopeful other companies within the Bitcoin mining industry follow in our footsteps to demonstrate broader climate consensus.”
+
+The largest caveat, however, is that the equipment required to construct renewable energy infrastructure has a carbon footprint of its own. For those that believe the utility of Bitcoin isn’t worth the energy spent to support it, not even a mining operation powered wholly by renewable energy can provide a solution.

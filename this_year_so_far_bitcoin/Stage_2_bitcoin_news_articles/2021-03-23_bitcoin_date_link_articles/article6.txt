@@ -1,0 +1,29 @@
+Bitcoin is now a trillion-dollar market thanks to an impressive rally that propelled the oldest cryptocurrency to a fresh all-time high at over $61,000. While market participants enjoy the bullish run, some industries are suffering because of the inflated price of chips.
+
+Everyone is talking about how Bitcoin mining affects the environment due to the huge demand for electricity and the giant carbon footprint. What few people know is that crypto mining impacts the costs of chips, which have been recently booming in price.
+
+Chip Shortages Affecting Entire Industries
+
+Chips are indispensable in so many devices and industries – think about laptops, smartphones, TVs, or cars. The semiconductor industry has already been struggling with supply chain disruptions caused by the COVID-19 pandemic, the winter storm in Texas, and fires at factory sites. But Bitcoin mining is putting even more pressure on the chip market, creating an additional shortage and boosting the price of chips.
+
+The profitability of mining depends on the cryptocurrency’s price, which has rallied for the last few months, surging well above the 2017 peak. The huge competition among miners is prompting an increasing demand for advanced chips. This results in a price boom for chips and thus affects the other industries relying on semiconductors.
+
+CW Chung, head of research at Nomura in Seoul, told Financial Times:
+
+“Added demand from cryptocurrency miners is coming when the chip industry is dealing with simultaneous crises — from supply constraints to a structural shortage of high-end chips. The squeeze should last through the end of the year.”
+
+The problem is so severe that Toyota and Volkswagen – the world’s two biggest carmakers by the number of vehicles manufactured – were forced to cut production due to the shortage of chips. Elsewhere, smartphone makers have no choice but to delay the launches of new devices.
+
+Chung explained that crypto demand might have a great impact on the chip market. For example, during the last Bitcoin rally, demand from miners represented a tenth of the entire sales of TSMC – the third-largest chipmaker in the world.
+
+Story continues
+
+Nvidia Makes Sure New Chip Is Not Miner-Friendly
+
+The situation is affecting the gaming industry as well, forcing Nvidia to program one of its new chips – GeForce RTX 3060 – to reduce mining efficiency by 50% when it spots mining activity.
+
+Elsewhere, chipmaker Advanced Micro Devices (AMD) told PC Gamer that it had no plans to restrict its graphic cards from being implemented for crypto mining. The truth is that AMD might have no choice at all, as all its drivers are open source.
+
+This article was originally posted on FX Empire
+
+More From FXEMPIRE:

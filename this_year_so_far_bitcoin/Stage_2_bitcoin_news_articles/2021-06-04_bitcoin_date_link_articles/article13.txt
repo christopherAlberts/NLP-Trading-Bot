@@ -1,0 +1,89 @@
+In mid-April, nearly 150 local environmentalists marched to the gates of Greenidge Generation, a bitcoin mining facility in upstate New York, in a last-ditch effort to block its expansion.
+
+Their objection: that the creation of the cryptocurrency, an energy-intensive process in which computers compete to solve mathematical puzzles, may harm efforts to limit global warming.
+
+Three days later, the planning board in the small town of Torrey voted 4-1 to allow Greenidge Generation to more than double the number of machines it has mining bitcoin.
+
+“Everything we want to do to fight climate change could be erased,” Yvonne Taylor, one of the march’s leaders, told the Thomson Reuters Foundation.
+
+The showdown in New York – where a private equity firm turned a moth-balled coal power plant into one fired by natural gas that provides electricity to mine bitcoin onsite – is part of an increasingly fraught debate over the social benefits and environmental costs of the world’s most popular cryptocurrency.
+
+Bitcoin consumes almost the same amount of electricity annually as Egypt did in 2019, according to an index compiled by the University of Cambridge.
+
+On Wednesday, Elon Musk, the chief executive of Tesla Inc., said his company would no longer accept bitcoin for car purchases, citing environmental concerns, in a swift reversal of its position on the currency after criticism by some investors.
+
+“As the price rises, bitcoin could consume as much energy as all the data centers in the world combined,” said Alex de Vries, founder of research platform Digiconomist, which publishes estimates of bitcoin’s climate impact.
+
+“At least other data centers are providing us with cloud computing used by billions every day. Hardly anybody is using bitcoin,” he added.
+
+Greenidge spokesman Michael McKeon said in an emailed statement the firm was doing all it could to address environmental concerns.
+
+“Natural gas is a bridge to the future and it’s an important part of the energy mix for New York State,” he said. “We are committed to further investing in ways to enhance our green profile and are looking at various options right now.”
+
+‘Let’s make it green.’
+
+Cryptocurrency boosters say their profits do not have to be at odds with environmental protection.
+
+“You can be a bitcoiner and be an environmentalist, just like you can be an environmentalist and get on flights and use a washing machine,” said Nic Carter, a partner at Castle Island Ventures, which invests in cryptocurrency projects.
+
+What really matters is how much of the energy cryptocurrency mining consumes comes from renewable sources, he said.
+
+In April, a nonprofit coalition launched the Crypto Climate Accord, a global, industry-backed initiative urging cryptocurrency enterprises to switch to using renewable energy.
+
+“We want to help the crypto industry decarbonize,” explained Jesse Morris, chief commercial officer of the Energy Web Foundation, one of the groups that put together the accord.
+
+The idea is to get the industry to net-zero carbon emissions – offsetting any emissions it cannot cut itself – by 2040.
+
+Energy Web, for example, plans to roll out a technology tool that will allow cryptocurrency miners to prove they are using sustainable energy, an innovation Mr. Morris said would help link investors with green crypto firms.
+
+“This industry isn’t going anywhere, so let’s make it green,” he added.
+
+But given bitcoin’s hunger for energy – and how much money can be made mining it – there is a concern it could eat up more than its fair share of renewables, pushing other activities to use carbon-intensive power, said Ketan Joshi, a renewable energy industry analyst.
+
+“A lot of success in reducing emissions could get canceled out by the demand from bitcoin,” he predicted.
+
+Global problem, local solutions
+
+As they guzzle electricity, bitcoin operations generate a substantial amount of carbon dioxide. The industry’s planet-warming emissions reached more than 22 million metric tons per year in 2018, according to a study in scientific journal Joule.
+
+While most cryptocurrency mining takes place in China, major operations have opened up in a number of North American cities, where some officials are alarmed by the industry’s emissions.
+
+In 2018, Plattsburgh, New York, imposed a moratorium on cryptocurrency mining, after it became the city’s top power consumer.
+
+And earlier this month, lawmakers introduced a proposal to suspend cryptocurrency mining operations for three years throughout New York state, as it carries out a review of the industry’s environmental impact.
+
+Officials also recently took steps to limit that impact in Missoula County, Montana, where operations take advantage of cheap electricity from a local hydropower plant.
+
+“At a certain point, this industry was using about a third of all of the county’s electricity,” said Diana Maneta, the county’s sustainability officer.
+
+In 2019, Missoula County used emergency zoning powers to require new cryptocurrency mining operations to offset their energy consumption, such as by agreeing to purchase renewable power directly from new solar and wind projects, or developing their own clean electricity production.
+
+The new zoning restrictions were made permanent this February, making Missoula the first United States county to regulate cryptocurrency mining from a climate perspective, Mr. Maneta said.
+
+Aggressive companies influence local governments
+
+With the price of bitcoin rising over five-fold in the past year alone, mining operations are increasingly attractive for investors, despite the environmental pushback.
+
+The Greenidge mining facility in New York announced in March it would this year become the first bitcoin mining firm with its own power plant to go public on the U.S. stock exchange.
+
+Communities with cryptocurrency mining in their backyard increasingly find themselves in David and Goliath-style clashes, said Ms. Taylor, the activist who opposes the Greenidge expansion.
+
+“Small local governments are being approached by very aggressive companies and, sadly, they become enamored with the money and pressured,” she said.
+
+Mr. McKeon, the Greenidge spokesman, said the recent planning board vote showed the company had genuine local support.
+
+“The local community sees the value of the jobs we have created, the taxes we have paid, and the impacts we have had on the local economy,” he said, adding the facility also contributes power to the local grid.
+
+Ms. Taylor’s cause has recently been taken up by national environmental organizations.
+
+In April, legal campaign Earthjustice and green group Sierra Club wrote a letter to the New York State Department of Environmental Conservation opposing the expansion of the Greenidge facility, partially on climate grounds.
+
+Mandy DeRoche, an attorney with Earthjustice, said the nonprofit had identified at least 30 other former fossil fuel plants in New York that could potentially be turned into data centers that power cryptocurrency mines.
+
+Two are already being converted – one that will draw power from the grid and the other set to run partly on solar.
+
+Get the Monitor Stories you care about delivered to your inbox. Your email address By signing up, you agree to our Privacy Policy
+
+“They’re like a bunch of zombies,” Ms. DeRoche said. “How many power plants are going to rise up from the dead before we do something?”
+
+This story was reported by the Thomson Reuters Foundation.

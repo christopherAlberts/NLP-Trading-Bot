@@ -1,0 +1,19 @@
+Who likes this idea, and who doesn’t?
+
+Banks are not keen on the idea of a central bank digital currency. Their lobbyists say the technology would disrupt their business models without offering benefits that the current payment system can’t achieve.
+
+Gregory Baer, the chief executive of the Bank Policy Institute, an industry group, argued in April that banks would not be able to lend against customers’ central bank digital cash holdings the way they lend against customer deposits. That would crimp their ability to make money, so they would need to charge more to carry out everyday banking services, he said. And many analysts have warned that, without safeguards, a central bank digital currency might make it easier for people to pour into digital cash in times of trouble — making the financial system more susceptible to runs.
+
+Researchers recognize the potential for disruption, but some remain enthusiastic.
+
+In an era when cash is going out of style, some central banks see digital cash as a way to make sure the public still has direct access to central bank money. Beyond that, the inception of digital currency might offer a chance to rebuild parts of the payments system from the ground up, allowing for broader financial inclusion, potentially enabling people without traditional bank accounts to send and receive money.
+
+Digital dollars could also have policy applications, perhaps making it easier for the government to put cash straight into consumer accounts during recessions. China has been using its digital currency experiments for such economic purposes.
+
+How far along is the Fed’s research?
+
+Mr. Powell has said researching digital currency is a high priority for the Fed, and lawmakers have kept the pressure on.
+
+Bills proposed by House and Senate Democrats last year would have pushed the Fed to create consumer accounts and deposit central bank digital currency in them as part of the coronavirus relief response. The measures didn’t pass, but they, along with China’s development of a digital currency and private sector efforts from Facebook and others, have helped to light a fire under the Fed’s research and development efforts.
+
+The Federal Reserve Bank of Boston has begun developing experimental digital currency code along with the Massachusetts Institute of Technology, and the Federal Reserve Board is researching the technology and its financial stability implications. The Fed has engaged with international bodies like the Bank for International Settlements in setting out principles for digital currency design.

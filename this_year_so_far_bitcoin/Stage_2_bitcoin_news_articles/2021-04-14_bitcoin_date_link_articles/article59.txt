@@ -1,0 +1,207 @@
+In this issue
+
+Coinbase’s Nasdaq debut raises questions of worth XRP vaults to 4th most popular crypto HSBC bans MicroStrategy over Bitcoin gorge COIN and TSLA now available as tokenized stocks In China, blockchain security exec misappropriates state-owned crypto
+
+From the Editor’s Desk
+
+
+
+Dear Reader,
+
+
+
+Is the center of gravity shifting? It is the rise of altcoins — or alternative cryptocurrencies that populate the rest of Coinbase’s crypto listings that aren’t Ethereum’s Ether or Bitcoin. As Bitcoin gets more expensive, retail investors are piling more bets into the altcoin space. That’s a dynamic we’re watching closely in Asia.
+
+
+
+As Bitcoin starts reaching escape velocity, even institutional and traditional investors are clamoring for options. While Coinbase’s listing might be a good secondary option, others are lining up at the U.S. Securities and Exchange Commission waiting to be among the first approved Bitcoin ETF in America. Canada’s first Bitcoin ETF already holds US$1 billion in assets less than two months after launch. That kind of cash tells us one thing: Demand is high.
+
+
+
+As Bitcoin’s prices continue to outpace its supply, come reports of some miners withholding the Bitcoin from the public market, in a modern crypto contango bet — the assumption that tomorrow’s price will be higher than today’s spot price. More people switching to seemingly more affordable bets in altcoins are rising too.
+
+
+
+Until the next time,
+
+
+
+Angie Lau,
+
+Founder and Editor-in-Chief
+
+Forkast.News
+
+1. Coinbase’s Nasdaq debut raises questions of worth
+
+Coinbase is the first U.S.-based crypto exchange to go public. Image: BitCongress, CC BY 2.0 via Flickr
+
+By the numbers: Coinbase listing — over 5,000% increase in Google search volume.
+
+Coinbase is dressed in its finest for its debut today as a direct listing on the Nasdaq, but the valuation of the largest cryptocurrency exchange in the U.S. is still a wild card. A bewildering range of expert opinions value the company somewhere between US$19 billion and US$230 billion.
+
+Investors have been betting on Coinbase’s initial share price in crypto exchange’s FTX’s Coinbase pre-listing contract (CBSE), which is currently valued at US$472, according to FTX.
+
+Coinbase has listed 114,850,769 shares, but how many of these shares will be for sale is unclear at this point. Coinbase currently holds 4,487 BTC worth about US$255 million in its treasury, according to the most recent figures from Bitcoin Treasuries.
+
+Forkast.Insights | What does it mean?
+
+
+
+Coinbase’s April 6 release of its first-quarter results estimated a profit of US$730 million to US$800 million on US$1.8 billion in revenue — a massive increase from US$322 million in profit on US$1.3 billion in revenue for the entire 2020 financial year. So it’s no wonder investors have been licking their lips at the prospect of the crypto exchange’s Wall Street flotation. But there are no guarantees in this game.
+
+
+
+The reality is that Coinbase’s prospects are quite uncertain, and its staggering first quarter profits are the direct result of external factors — namely, a booming cryptocurrency market. Coinbase charges 0.5% in fees for any trades on its platform and experienced US$335 billion in trading volume in the first quarter of 2021 as cryptocurrencies like Bitcoin soared to new all-time highs. This essentially means that of the US$1.8 billion in revenue it collected, US$1.657 billion was the direct result of the bullish crypto market conditions. Should the crypto bull run come to an end, so, too will Coinbase’s staggering profits. There is also the threat of other exchanges rising up and taking away Coinbase’s market share, which could also take bites out of the U.S. exchange’s profits.
+
+
+
+According to a New Constructs report published on April 9, Coinbase “has little-to-no-chance of meeting the future profit expectations that are baked into its ridiculously high expected valuation of US$100 billion.” The report argues that given how young the cryptocurrency markets are, it should be expected that more companies will compete for Coinbase’s customers and eat into its market share in the very near future.
+
+
+
+The New Constructs report also argues that in order to justify the US$100 billion valuation, Coinbase would need to produce compounded annual revenue growth of 50% over the next seven years. Historically, the Nasdaq’s greatest 10-year revenue growth rate was just 21%. If Coinbase can even match the previous record of 21% it would make COIN shares worth just US$18.9 billion.
+
+2. XRP prices soar after Ripple scores court wins against SEC
+
+Cryptocurrency market was on fire over the weekend. Image: Envato Elements
+
+By the numbers: Ripple — over 5,000% increase in Google search volume.
+
+As Bitcoins surges to another all-time high of US$64,863 and Ether and Binance Coin shatters their previous price records, XRP prices are also soaring, rising above US$1.3 for the first time since January 2018 and regaining the rank of fourth most popular cryptocurrency in the world by market capitalization. Ripple is trading at US$1.63 as of publishing time.
+
+Confidence in XRP may be rising after recent court rulings favoring Ripple and its executives in their legal battle against the U.S. Securities and Exchange Commission. Putting the government plaintiffs on the defensive in their US$1.3 billion lawsuit against Ripple, U.S. District Court Magistrate Judge Sarah Netburn has allowed Ripple access to confidential SEC communications over Bitcoin and Ether and also greatly limited the SEC’s ability to access the personal financial information of Ripple CEO Brad Garlinghouse and executive chairman Chris Larsen.
+
+But XRP could also be rising with the tide of a buoyant crypto market. Some notable projects include Litecoin at US$260, which hasn’t been reached since January of 2018, and Vechain reached a new all time high at US$0.176, and Solana at 29.86.
+
+Forkast.Insights | What does it mean?
+
+
+
+How things have changed in just a few short months. When the U.S. Securities and Exchange Commission filed its $1.3 billion lawsuit against Ripple Labs in December of 2020 and its two executives, Ripple CEO Brad Garlinghouse and founder Chris Larsen, for the alleged sale of the XRP tokens as unregistered securities, XRP prices crashed by nearly 60%. On Jan. 1 this year, XRP was trading near $0.23.
+
+
+
+The XRP community was in shambles, watching helplessly as exchange after exchange delisted their token in fear of repercussions, should the SEC win its lawsuit. But recent court victories won by Ripple and its executives now have the government on the defensive. SEC counsel Dugan Bliss has even complained during the proceedings that defendant Ripple was trying to put the SEC “on trial,” and that “the actions of the promoter are what need to be the focus here.”
+
+
+
+During a discovery hearing earlier this month, Ripple was granted access to the SEC’s internal documents on cryptocurrencies Bitcoin and Ethereum. This will enable them to compare XRP with Bitcoin and Ethereum’s Ether, which have been exempted from the SEC’s regulatory scope in the United States. The same court also slapped down the SEC’s attempt to get at Ripple executives’ personal financial records, saying the vast majority of what the agency asked for was “not relevant or proportional to the needs of the case.”
+
+
+
+Amid these victories, XRP has soared nearly 600% since the start of this year and now ranks as the world’s 4th largest digital currency. XRP is now trading at its highest level since January 2018.
+
+
+
+But legal wins over discovery may also be only part of what investors now see in Ripple’s future. Despite the U.S. legal clouds that hang over Ripple, the fintech firm has concertedly tried to grow its businesses outside of the United States, including pivoting to the central bank digital currencies support business and securing a new partnership with Asian cross-border payments hub, Tranglo. Despite the initial spate of crypto exchanges delisting XRP, Ripple has also reported signing on at least 20 new financial institutions as customers.
+
+
+
+If the court continues to rule in Ripple’s legal favor, could XRP surge above its all-time high of $3.84 recorded on Jan. 4, 2018? Stay tuned for the next episode of SEC v. Ripple.
+
+3. HSBC blackballs MicroStrategy over Bitcoin affair
+
+HSBC targets crypto to step up AML measures. Image: @camadamus via Twitter
+
+By the numbers: HSBC MicroStrategy — over 5,000% increase in Google search volume.
+
+A snapshot of a letter sent out to HSBC customers is circulating the web, revealing that the British investment bank had recently updated its policy to ban the purchase and trade of cryptocurrencies, naming Bitcoin and Ethereum as examples.
+
+The 6th largest bank in the world, which operates in 65 countries and territories. has also banned additional purchases of MicroStrategy shares (MSTR), opened at US$735 on Monday after the screenshot went viral on Twitter over the weekend. It then surged by 19% the day before the Coinbase listing to US$874, and is now trading at US$791, as of publishing time.
+
+MicroStrategy, a business analytics firm headquartered in Virginia, near Washington D.C., had embraced Bitcoin as its primary reserve asset back in August of last year and now holds 91,579 Bitcoins, worth over US$5.5 billion as of publishing time.
+
+Forkast.Insights | What does it mean?
+
+
+
+HSBC’s decision to prohibit its clients from buying Microstrategy (MSTR) stock or move any existing MSTR holdings into their HSBC portfolios appears to be a bit of a backward step. The move appears to run counter to the growing acceptance of cryptocurrencies by other large banks such as Goldman Sachs and Morgan Stanley, which are now making concerted efforts to offer their clients more opportunities for exposure to the emerging digital asset class. Morgan Stanley even now directly owns a 10% stake in MicroStrategy.
+
+
+
+But the move should really not come as a surprise, given the giant European bank’s policy of not processing cryptocurrency payments or allowing customers to bank money from digital wallets. MicroStrategy’s share price is also heavily reliant on Bitcoin, which makes up over 80% of the company’s total reserves.
+
+
+
+As Bitcoin and other cryptocurrencies have become a growing money-laundering concern for financial regulators, HSBC may also be desperate to wipe its hands clean after it was forced to pay US$1.92 billion dollars in settlements and serve five years of probation — during which its efforts to prevent money laundering would be monitored by a court-appointed watchdog — for its role in aiding the flow of dirty money through its branches. HSBC’s role in the money laundering scheme included moving at least US$881 million, which was controlled by the notorious Sinaloa cartel and other Mexican drug gangs.
+
+
+
+It was later revealed in September 2020 that HSBC had violated its probation, as it was one of about 90 banks named in the leaked documents from the United States Department of Treasury’s Financial Crimes Enforcement Network (FinCEN), which showed about US$2 trillion in transactions between 1999 and 2017 that were flagged by financial institutions’ internal compliance officers for possible money laundering or other criminal activity.
+
+
+
+Shortly after the FinCEN leaks, new regulations came into play — FIN-2019-A003 — which specified that banks had a responsibility to identify and report suspicious financial activity pertaining to bad actors exploiting “convertible virtual currencies (CVCs) for money laundering, sanctions evasion, and other illicit financing purposes, particularly involving darknet marketplaces, peer-to-peer (P2P) exchangers, foreign-located Money Service Businesses (MSBs), and CVC kiosks.”
+
+4. Coinbase’s COIN and Tesla’s TSLA tokenized
+
+Tesla stocks are now being offered in tokens on Binance. Image: Pxhere
+
+By the numbers: TSLA— over 5,000% increase in Google search volume.
+
+Binance has launched Binance Stock Tokens to allow users to trade companies’ shares in fractions in the form of tokenized stocks. Tesla was the first company stock to be made available in this product, but Binance Stock Tokens is not the first service to tokenize company stocks. In October last year, FTX launched Bitcoin pairings for tokenized stocks, which also included Tesla.
+
+Today, Binance also announced the addition of their tokenized COIN, which is “fully backed by a depository portfolio of underlying securities that represent the outstanding tokens,” according to Binance. Holders of the token will also receive dividends from the underlying shares as payouts. In this fractional, virtual and derivative manner, Binance and other exchanges such as FTX seem to have found a way to piggyback on almost any type of new financial offering. We should expect even more types of virtualized assets from the big crypto players going forward.
+
+Binance sold US$10 million worth of TSLA through its USD stablecoin BUSD on the first day, according to the exchange’s vice president of futures Aaron Gong.
+
+The exchange’s native token BNB also reached an all time high of US$637 following the launch. BNB is trading at US$547 as of publishing time.
+
+FTX offers several tokenized company stocks, including Galaxy Digital Holdings, GameStop, and Coinbase.
+
+Forkast.Insights | What does it mean?
+
+
+
+Binance now offers Tesla stock tokens, which means that users of the world’s largest cryptocurrency exchange can now buy Tesla tokens that represent Tesla shares at a ratio of 1:1.
+
+
+
+The added bonus here is that Binance’s Tesla stock token offering also represents the exchange’s first venture into tokenized stock. Tokenizing a stock allows investors who cannot afford an entire unit of stock to still be able to buy a fraction of a share.
+
+
+
+On a traditional stock exchange or trading platform, a Tesla investor would have to purchase an entire Tesla share, which currently trades at around US$762. Users of Binance, however, can now buy fractions of the token, with the minimum trade size being one-hundredth of the token, or US$7.62.
+
+
+
+“Stock tokens demonstrate how we can democratize value transfer more seamlessly, reduce friction and costs to accessibility, without compromising on compliance or security,” Binance CEO Changpeng Zhao said, in a press release. “Through connecting traditional and crypto markets, we are building another technological bridge for a more inclusive financial future.”
+
+
+
+But investors should know that while these tokenized stocks allow exposure to the underlying shares and corporate actions — which include dividends and stock splits — the Tesla stock tokens are not the same as Tesla shares.
+
+
+
+Similar to exchange-traded notes (ETNs), which are unsecured debt securities that track an underlying index of securities and trade on major exchanges like a stock or a derivative, Binance’s Tesla tokens’ prices can fluctuate along with the actual price of Tesla shares. If Binance were to somehow go bankrupt, investors in these tokens would lose the value of the token regardless of how well Tesla shares are doing on the market.
+
+5. Crypto security exec accused of misappropriating state-owned crypto
+
+Beosin executive has allegedly embezzled state-owned crypto. Image: Marco Verch, CC BY 2.0
+
+A young senior executive of Chinese blockchain security firm Beosin allegedly embezzled cryptocurrencies worth 300 million yuan, or about US$45.7 million owned by the Chinese government, according to two media outlets in mainland China.
+
+Gao Ziyang, the one-time chief marketing officer of Beosin — also known as Chengdu Chain Security Technology Co. Ltd, a blockchain security company that stores the cryptos seized by police from crypto crimes — allegedly embezzled the cryptocurrency for shorting Bitcoin, according to 21 Caijing, a finance media based in Shanghai. The US$45.7 million worth of crypto had been seized by the authorities from a crime case called Token Better, and the cryptocurrencies were being temporarily kept by Boesin since November 2020.
+
+Beosin has not yet issued a public statement on the matter, and no one from the company has responded to calls from Forkast.News for comment. Even though Gao is not currently on the team page of Beosin’s official website, he recently attended an online webinar using the title of Beosin’s CMO.
+
+As Bitcoin prices keep soaring to new all-time highs, crypto-related scams are also on the rise around the world, especially in the Greater China region. One of the world’s biggest crypto scams, the PlusToken Ponzi scheme, was centered in China. In that case, authorities seized 14.8 billion yuan, or about US$2.25 billion in cryptocurrencies, from that crime ring.
+
+Forkast.Insights | What does it mean?
+
+
+
+As Bitcoin and other cryptocurrencies continue to make incredible price gains, multiplying in value by several times over the course of the last year, retail interest and hype have grown along with it. The nascent digital space presents new possibilities and opportunities for the average investor to accumulate significant wealth in a short period of time. But so, too are scam artists finding opportunities to exploit the many new, naive and poorly informed investors in this space.
+
+
+
+In Hong Kong, the special administrative region of China, police recently arrested nine people for defrauding victims out of more than HK$35 million, or US$4.5 million by conning them into scam digital currency investments in connection with 55 criminal cases.
+
+
+
+In mainland China, cryptocurrency scams have also been on the rise. According to data provided by The National Computer Network Emergency Response Technical Team/Coordination Center of China (CNCERT/CC), a state-owned cybersecurity technical center, 102 kinds of token projects were identified as pyramid sales or Ponzi schemes — taking advantage of investor greed and the hyped-up market sentiment.
+
+
+
+The frenzied crypto markets and retail FOMO prevalent over the last year are creating an environment ripe for fraudsters, hackers and other assorted con artists to take advantage of investors, and the trend will likely only increase as crypto markets heat up further. According to a Cryptocurrency Scam report by Bolster, as the crypto bull market made the headlines in 2020, the market also witnessed a 40% year-over-year increase in crypto-related criminal activity, to 400,000 crypto-related scams on record. The report also anticipates the trend to continue, projecting more than a 75% increase in crypto-related fraud to occur in 2021.

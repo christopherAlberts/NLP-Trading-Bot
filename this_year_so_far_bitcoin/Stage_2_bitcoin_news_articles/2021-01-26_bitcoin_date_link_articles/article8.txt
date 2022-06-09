@@ -1,0 +1,37 @@
+In the past few weeks, millions of Americans have joined Signal, a free open-source encrypted chat app. Users are fleeing from WhatsApp in droves, sparked by a pop-up disclosing that the messenger will share personal data with Facebook, and by broader concerns over big tech in the wake of the Jan. 6 riot at the Capitol.
+
+But just as encryption is seeing its biggest breakthrough yet, a counter-narrative is rising up again: that we should be wary of privacy-protecting platforms because they can help extremists and criminals.
+
+Read More: Big Tech’s Business Model Is a Threat to Democracy. Here’s How to Build a Fairer Digital Future
+
+Top media outlets ranging from The New York Times to the Associated Press are running articles about how mass surveillance-busting tools like Signal and Bitcoin are being used by domestic extremists. Joe Biden’s U.S. Treasury Secretary Janet Yellen said that cryptocurrencies are “a particular concern” for terrorism and money laundering. Dozens of stories warning of the dangers of privacy tools have been published in the last few weeks.
+
+This isn’t the first time these arguments have filled the news cycle. In the early 1990s, the Clinton Administration opposed widespread strong encryption on grounds that it would help terrorists and pedophiles. The Justice Department investigated Phil Zimmerman, the creator of Pretty Good Privacy, for exporting software illegally as “PGP” made it easy for PC users to exchange encrypted messages. The administration even tried to push the “Clipper Chip,” which would give them a backdoor into consumer devices. Eventually the Clipper Chip and anti-privacy restrictions were defeated by a coalition of civil liberties activists, tech businesses, and the cypherpunks: a group of coders who gave their unstoppable tools away for free.
+
+Privacy came under state attack again after 9/11 in the name of fighting terrorism, and has since been repeatedly breached in the service of surveillance capitalism, but Americans continue to fight back through software. Edward Snowden’s revelations in 2013 prompted citizens across the political spectrum to consider the prospect of government surveillance; the Cambridge Analytica scandal of 2018, and the more recent threats of cops spying on racial justice protesters and the increased scrutiny of big tech are just the latest incentives for ordinary people to adopt privacy tools.
+
+Read More: The Inside Story of How Signal Became the Private Messaging App for an Age of Fear and Distrust
+
+Celebrities like Elon Musk and Jack Dorsey are tweeting about Signal. On Capitol Hill, the app has been used by Senate members since 2017, and the Biden campaign used it for official correspondence. Black Lives Matter protesters have adopted Signal as a way to stay safe from police surveillance. Musicians are spreading the word: “don’t be texting my phone unless you hit me on Signal.” The privacy-focused browser DuckDuckGo just recorded its first day with more than 100 million searches, and Telegram, another chat app with privacy features, passed 500 million users. Even former NSA and CIA director Michael Hayden has argued that Americans are safer with privacy tools.
+
+The culture war over encrypted messaging might finally be ending. But the fight for privacy isn’t finished, it’s just moving to the next medium: money.
+
+Most Americans may not yet grasp that financial privacy is just as important as communications privacy for our democracy—that your spending habits say more about you than your words. In an open society, the ability to buy political books, have discreet medical procedures, and build communities without government surveillance is essential.
+
+Cash has traditionally served this purpose, but is in decline and now accounts for less than 30% of American financial transactions. We use corporate money like Apple Pay or Visa for almost everything. And soon cash may be replaced by Central Bank Digital Currencies: electronic Fed liabilities held in phone wallets. Corporate and government digital money will need to meet an increasing number of “anti-money laundering” laws and will be, in effect, surveillance tools.
+
+To understand why citizens need financial privacy to defend democracy, look to Hong Kong. When protests broke out in 2019, students used cash to buy metro tickets so that their demonstrations couldn’t be linked to their ID. In 2020, many who donated to protesters had their bank accounts frozen. Meanwhile, in Belarus, Russia, and Nigeria, pro-democracy movements have been flustered by the state’s ability to monitor and freeze bank accounts. In all three cases, journalists and pro-democracy organizers including Alexei Navalny turned away from corporate and government money to the decentralized Bitcoin network to raise funds and keep the pressure on their regimes.
+
+Bitcoin is neutral like cash, and can’t discriminate between good and bad. Authorities will blame extremism not just on Signal and Telegram, but also on Bitcoin and anything they can’t control. We should push back. Yes, some extremists use these tools. They also use mobile phones, email, and the internet.
+
+Read More: ‘We Need a Fundamental Reset.’ Shoshana Zuboff on Building an Internet That Lets Democracy Flourish
+
+The way to fight extremism isn’t to crack down on innovation and expand the surveillance state. Those are the tactics of tyrants. According to the Electronic Frontier Foundation, mass surveillance ends up hurting the most vulnerable, and disproportionately targets minorities. The main superspreaders of extremist content remain centralized corporate platforms like Facebook and YouTube, not open-source privacy platforms. Rather than expand spying, we can fight domestic extremism through better national leadership, citizen journalism and police reform.
+
+In Congress, some already agree. On January 19, in the aftermath of the Capitol Hill riots, 10 officials led by Congresswoman Rashida Tlaib expressed “strong opposition to the expansion of the… surveillance powers of the United States government.” They warned, “we have been here before and we have seen where that road leads.”
+
+As you read more articles demonizing identity-guarding tools like Signal and Bitcoin, think about the police state that awaits if we shun them and turn to mass surveillance to fight extremism. As anyone who lives in a dictatorship will say, that’s when you’ll need privacy the most.
+
+Sign up for Inside TIME. Be the first to see the new cover of TIME and get our most compelling stories delivered straight to your inbox. Please enter a valid email address. * The request timed out and you did not successfully sign up. Please attempt to sign up again. Sign Up Now An unexpected error has occurred with your sign up. Please try again later. Check the box if you do not wish to receive promotional offers via email from TIME. You can unsubscribe at any time. By signing up you are agreeing to our Terms of Service and Privacy Policy . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Thank you! For your security, we've sent a confirmation email to the address you entered. Click the link to confirm your subscription and begin receiving our newsletters. If you don't get the confirmation within 10 minutes, please check your spam folder.
+
+Contact us at letters@time.com.

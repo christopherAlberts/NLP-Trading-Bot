@@ -1,0 +1,23 @@
+The cryptocurrency market has been abuzz as Bitcoin gains popularity with investors, reaching an all-time high of over $60,000 apiece in March. In a commentary published on March 10, 2021, in the journal Joule, financial economist Alex de Vries quantifies how the surging Bitcoin price is driving increasing energy consumption, exacerbating the global shortage of chips, and even threatening international safety.
+
+Theoretically, any computer with access to the internet and electricity can “mine” Bitcoin, a process to receive cryptocurrency by solving sophisticated mathematical equations. It is estimated that all miners combined make over 150 quintillion — that is 18 zeros following 150 — attempts every second to solve the equation, according to numbers from January 11, 2021. Computational power and electricity cost become crucial to profiting from Bitcoins.
+
+“If you’re a Bitcoin user making transactions, you’re not the one directly paying for electricity. It’s a bit of a hidden cost from a user perspective,” says author Alex de Vries, the founder of Digiconomist (@DigiEconomist), a blog that highlights new digital trends such as cryptocurrency.
+
+The hidden cost goes beyond energy consumption. Based on the Bitcoin price in January, de Vries estimated that the entire Bitcoin network could consume up to 184 TWh per year, close to the amount of energy all data centers consumed globally. The consumed energy also results in 90.2 million metric tons of CO2, comparable to the carbon footprint of metropolitan London.
+
+“That’s a pretty mind-blowing number,” says de Vries. “Those data centers serve most of global civilization, and then there’s Bitcoin, which serves almost no one but still manages to consume about an equal amount of electricity.”
+
+The market price of Bitcoin is an incentive for miners to invest in hardware and electricity. As the price rises, more people put in orders to purchase and run the hardware, causing an increase in energy consumption, and vice versa when the price drops. Due to the overwhelming demand, hardware manufacturers have reported that their devices are sold out, and some customers may not receive their orders until later. This suggests that the amount of energy consumption is “locked in” at the time of purchase.
+
+“The price of Bitcoin can crash by 25%, 30%, and you may still end up at the same energy consumption point because of the lock-in effect,” says de Vries. “The whole idea of my article is to translate what the skyrocketing Bitcoin price is going to mean, not just for the environment, but also externalities that go beyond that.”
+
+Bitcoin mining rigs’ short shelf-life can mean a substantial amount of electronic waste in the coming years. Mining devices also exacerbate the current global chip shortage by competing for the same chips as personal electronics and electric vehicles, which play an essential role in combatting climate change. Countries with inexpensive electricity, such as Iran, can introduce new revenue streams though Bitcoin mining.
+
+“You can do a lot about these problems. Mining facilities are usually centralized. They’re pretty easy to target,” says de Vries. Policymakers can intervene by raising electricity rates or confiscating mining equipment. Taxing Bitcoin mining device manufacturers or limiting their access to chips are also strategies to consider. Although Bitcoin is a decentralized currency, government agencies can regulate exchange platforms and prevent its trading to influence the value.
+
+De Vries notes that “we are limited to the information that we have today,” and he cautions predictions for future trends regarding Bitcoin. “Who knows what will happen in 2024? Maybe everyone is using bitcoin, maybe nobody, maybe everyone forgot about it could also be the case,” he says.
+
+Reference: “Bitcoin boom: What rising prices mean for the network’s energy consumption” by Alex de Vries, 10 March 2021, Joule.
+
+DOI: 10.1016/j.joule.2021.02.006

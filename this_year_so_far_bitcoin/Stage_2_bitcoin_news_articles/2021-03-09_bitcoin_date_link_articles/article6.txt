@@ -1,0 +1,41 @@
+Four thousand kilometres from Moscow near the shores of the Angara River, a Russian firm operating a vast data centre run on cheap local hydroelectric power is reaping the rewards of bitcoin's surging prices and plans to double its power output this year.
+
+BitRiver hosts equipment at its flagship 100-megawatt data centre in the city of Bratsk, along with other smaller sites, for foreign miners of the cryptocurrency from the United States, Europe and Japan who want to harness the region's cheap energy.
+
+The company could already be responsible for as much as 2% of global bitcoin mining, Chief Executive Igor Runets estimated, but added precise figures in the sector were hard to come by.
+
+The price of bitcoin has risen almost 300% since the start of November and topped $50,000 dollars for the first time last month, as Tesla Inc bought $1.5 billion worth of bitcoin and other large companies and investment houses followed small traders into the asset.
+
+Bitcoin is earned -- or 'mined' -- by using your computer to help process the uncrackable "blockchains" or digital transaction records that underpin the currency.
+
+This requires huge computing capacity, and a lot of electricity, and so is mostly done with huge machines in aircraft hangar-sized warehouses in the cooler climates of Iceland, Canada, northern China and Russia, where it costs less to disperse the heat generated.
+
+The rewards for those who can verify transactions in the process which produces bitcoins have never been greater.
+
+"Current demand from our clients exceeds 700 megawatts and is approaching one gigawatt," said Runets. "We will of course continue to build data processing centres. In 2021, we plan to reach 300 megawatts of power."
+
+Another 100-megawatt centre is already under construction in the neighbouring Buryatiya region, Runets said.
+
+1/4 A view shows the data centre of BitRiver company providing services for cryptocurrency mining in the city of Bratsk in Irkutsk Region, Russia March 2, 2021. BitRiver offers hosting services and turnkey solutions for cryptocurrency mining operations to institutional investors including bitcoin mining firms. Picture taken March 2, 2021. REUTERS/Maxim Shemetov Read More
+
+Big deals with foreign firms, such as one last December which saw 14 lorries full of equipment arrive in Bratsk, can boost the local economy and are a sign that BitRiver has become a global player, he said in a company video.
+
+BITCOIN VOLATILITY
+
+Russia granted cryptocurrencies legal status last year, but banned them from being used as a means of payment.
+
+"Current legislation in Russia does not hamper us in any way," Runets said. "It allows us to host foreign clients' computing equipment on Russian territory with settlements for this in dollars or roubles."
+
+This arrangement reduces the financial impact of bitcoin price swings on BitRiver.
+
+"When bitcoin falls or rises, my profit, my revenue remains almost unchanged," Runets said. "This financial stability in a volatile market is very valuable."
+
+More liberal legislation would lead to greater investment from Russian players, Runets added, which could help BitRiver improve on its 2.5x year-on-year revenue growth in 2020. He declined to disclose further financial details.
+
+One of the primary concerns levelled at bitcoin miners is their carbon footprint. Runets said BitRiver uses more than 90% green power as it builds data centres in regions with electricity surpluses and renewable energy sources nearby.
+
+Russia accounts for about 7% of the world's bitcoin mining, according to Alexander Brazhnikov, executive director of the Russian Association of Cryptoeconomics, Artificial Intelligence and Blockchain, a figure that does not include grey-market players and those illegally connecting to power grids.
+
+Kazakhstan is responsible for a similar figure, while China is the market leader.
+
+Our Standards: The Thomson Reuters Trust Principles.

@@ -1,0 +1,17 @@
+Bitcoin mining company Bit Digital has joined DCG’s Foundry USA Pool as it seeks to become a world leader in hash rate.
+
+Correction, May 5, 2021: This article inaccurately claimed that Bit Digital is owned by Digital Currency Group. It's been corrected to reflect that is not the case.
+
+Bit Digital, a Bitcoin mining company based in New York, is now mining bitcoin as part of Foundry USA Pool, adding some 5,679 mining rigs and 280 peta hashes per second to the pool.
+
+Foundry USA Pool, which is a subsidiary of DCG, is currently ranked within the top 10 of all mining pools in the world by hash rate, per BTC.com, contributing 6.74 exa hashes per second with a 3.98% network share. It is often the highest-ranked pool based in the U.S. and the addition of Bit Digital’s capacity is a move to raise its status in the global rankings.
+
+“With Bit Digital’s addition, Foundry USA Pool is now a step closer to Foundry’s ultimate aim of securing a permanent spot among the world’s top five Bitcoin mining pools,” according to a press release shared with Bitcoin Magazine.
+
+Earlier this month, Bit Digital began colocating in facilities operated by Compute North, which can switch between power sources and offer more flexibility to grids and better leverage renewable energy sources.
+
+Meanwhile, Foundry USA has been focused on onboarding more institutional clients, announcing the addition of Blockap, Inc in March. Later that month Hut 8 Mining Corp. joined the pool and then, in April, Bitfarms did likewise.
+
+This recent series of additions to Foundry USA Pool certainly position it to be the biggest contributor of Bitcoin hash rate from North America, as well as one of the biggest in the world.
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.

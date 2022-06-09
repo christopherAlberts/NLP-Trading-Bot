@@ -1,0 +1,19 @@
+At Berkshire Hathaway Inc.'s (NYSE: BRK-A) (NYSE: BRK-B)
+
+most recent annual shareholder meeting, vice chairman Charlie Munger didn’t hesitate to make his personal distaste for Bitcoin (CRYPTO: BTC) known.
+
+“Of course, I hate the Bitcoin success, and I don’t welcome a currency that’s so useful to kidnappers and extortionists and so forth,” stated the 97-year-old value investor.
+
+Needless to say, the Bitcoin community didn’t appreciate these statements, and Bitcoin miners went as far as embedding the particular quote into the Bitcoin blockchain forever.
+
+“Of course, I hate the Bitcoin success.-Munger/Mined by sosyun,” reads the coinbase data on block number 681629.
+
+The mining pool behind the block was identified as F2Pool, but the words “Mined by sosyun” gave rise to some speculation on Twitter that the Bitcoin miner responsible was SOS Limited (NYSE:SOS).
+
+When new blocks are generated on the blockchain, an attribute called “coinbase” lets the creator put in special values to make the block unpredictable to others.
+
+Although most blocks usually contain mining-related data, certain hidden text messages have made an occasional appearance in the coinbase data over the years.
+
+The first block ever mined on the Bitcoin blockchain, known as the “genesis block,” contained the text: “The Times 03/Jan/2009 Chancellor on brink of second bailout for banks”.
+
+The embedded text referred to a headline in The Times published on Jan 3, 2009 that has been interpreted as a comment on the instability of fractional reserve banking along with serving as a timestamp as to when exactly Bitcoin was created.

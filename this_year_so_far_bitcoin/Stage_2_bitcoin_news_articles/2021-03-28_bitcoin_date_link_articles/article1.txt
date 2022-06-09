@@ -1,0 +1,53 @@
+A combination of supply and demand dynamics and the actions of legacy financial systems will push bitcoin to $200,000 in 2021.
+
+Bitcoin has been on a tear in 2021, and if history is any indication, we should expect bitcoin to continue to run well past the six figures mark, and to $200,000 and beyond in 2021.
+
+The Halving Cycle Dynamic, Programmatic Price Action
+
+While the typical skeptic will shout from the rooftops, “Bitcoin is nothing more than a speculative bubble!” and how there is “No intrinsic value, Bitcoin is just tulips!,” these critics clearly have not done much critical thinking or research on the topic.
+
+To be fair to the naysayers, on the surface it’s hard to understand how anything that has appreciated 711 percent over the past 365 days can have done so without being the beneficiary of mindless speculation or a bubble that is due to burst at any moment. But the answer is simple: Supply is programmatic.
+
+The Bitcoin protocol has programmatic supply issuance, thus price is a function of increasing or diminishing demand to hold the asset, there is no variability on the supply side. This is a monumental breakthrough in monetary economics, and is a concept that is ill understood even by so-called “economic experts.”
+
+Every 210,000 blocks, or about every four years, the Bitcoin protocol undergoes what is called a “Halving,” where the new supply of bitcoin issued into circulation is reduced by 50 percent. This event creates a disequilibrium in the supply and demand dynamics that the market had adjusted to during the previous 210,000 blocks.
+
+Check out this thread by Croesus_BTC for a great visual on the dynamics of the Halving:
+
+Once Is Chance, Twice is Coincidence, Third Time's A Pattern
+
+While the Halving events are known about into the future, it is quite literally impossible to “price in'' a supply shock in regards to a monetary asset.
+
+In March 2019, Plan B, a pseudonymous Twitter user, released a model that quantified the relationship between the relative scarcity of bitcoin and the price. Interestingly enough, he found there was quite a significant correlation between the stock-to-flow ratio of bitcoin, and the price action of the asset.
+
+Stock to flow can be quantified as existing supply of an asset/commodity divided by the annual flow of new supply.
+
+Plan B later revised the model to account for presumably lost coins. The updated model is shown below:
+
+“All models are wrong, but some are useful.” -George E. P. Box, British statistician
+
+While it cannot be said that the price action is directly attributable to the Halving and the stock-to-flow relationship, it is extremely obvious that this is simply not a statistical anomaly or occurring simply by chance.
+
+The model predicts a rise to $100,000-plus in 2021, and in my opinion that is just the start. As seen in previous Halving cycles, with the Halving serving as a catalyst, the price run up in bitcoin brings about a wave of new adopters and users, who come to understand the monetary attributes of bitcoin. This works in a reflexive cycle. New adopters enter the space competing to acquire bitcoin, which increases unit price, which increases media attention and miner profitability, which increases network security and gives the asset more perceived legitimacy. This process has been occuring in a reflexive and cyclical fashion for over 12 years, and it would be a bad choice to bet on it stopping anytime soon.
+
+The Catalyst for $200,000-Plus Bitcoin
+
+What is fundamentally different during this Halving cycle is the monetary debasement that is occuring in the legacy financial system. Major global central banks, mainly the Federal Reserve and European Central Bank (ECB) have painted themselves into a corner. Following decades of interest rate reductions to stimulate markets, rates are stuck at the zero lower bound, leaving them without a major tool in their tool box.
+
+The response?
+
+Quantitative easing on a scale that was previously unfathomable, shown by a parabolic rise in the balance sheets of the central banks. Without the ability to lower interest rates any further, quantitative easing, the act of buying bonds and securitized debt with newly “printed” cash, has been the go-to response. This has provided a boon to global credit and stock markets, and has served as absolute rocket fuel for the price of bitcoin. Recent statements from both the Fed and ECB have shown that they are committed to continue easing.
+
+What The Rest Of 2021 Has In Store
+
+In the late months of 2020 and the first months of 2021, corporate and institutional interest in bitcoin as a monetary asset has exploded. The insurance industry, corporate treasurers, Wall Street banks and sovereign wealth funds are all gearing up to enter the space in a big way.
+
+The bad news? A vast majority of the 18.6 million bitcoin in circulation are not up for sale.
+
+The good news? A vast majority of the 18.6 million bitcoin in circulation are not up for sale.
+
+This wave of new demand from large capital allocators will have to fit through a pinhole of available supply, which will result in a skyrocketing bitcoin price, as bitcoin undergoes the transition from a predominantly individual/retail-driven asset, into a global monetary asset with geopolitical implications. A $200,000 bitcoin would equate to about a $3.7 trillion dollar asset, still just a fraction of the current market value of gold, its closest monetary competitor.
+
+While nothing in this world is a guarantee, it is quite a good bet to place that politicians and central bankers will continue to operate following their basic incentive of “printing money,” as well as there being an extremely strong probability that the Bitcoin network will continue to attract additional adopters, as more rational individuals around the world come to realize that a system of rules is preferable to a system of rulers. Thus, with all of these factors at play, $200,000 bitcoin is not only in the cards, but in my opinion it is highly likely.
+
+Regardless of the what the price action of bitcoin brings in the coming months of 2021, it is important to remember:

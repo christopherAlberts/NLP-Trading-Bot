@@ -1,0 +1,29 @@
+What we have learned about bitcoin after the unexpected hash rate drop reinforces the bullish narrative.
+
+Emiliano Grodzki is CEO and a founder at Bitfarms, one of the largest public bitcoin mining operations in the world.
+
+What We Learned From Bitcoin’s Hash Rate Drop
+
+Bitcoin has been riding high of late. Yet over the weekend, panic ensued following a significant drop in its network hash rate, down roughly 49%, the biggest 24-hour reduction in Bitcoin’s history.
+
+Much is being speculated as to the cause of this, including coal mine explosions and electrical grid blackouts in the Chinese province of Xinjiang. And with a decline in Bitcoin’s hash rate, a price correction pushed its value down to a low of ~$50,000. Yet, despite the panic selling, we didn’t break the important $50,000 level. Why?
+
+Simply because Bitcoin carries on functioning 100% in spite of the hash rate drop. Transactions are being processed, blocks are mined, and coins carry on trading and exchanging freely.
+
+Bitcoin’s hash rate may have dropped over 40% in a single day, but what global monetary standard or payment network could survive something similar and not have a single user denied service? Swift? Visa? Mastercard? The dollar, the pound, the euro, or the yen? There are none.
+
+Far from being a concern with where Bitcoin is heading, this is a testament to the resilience of the Bitcoin protocol and the strength of its decentralized design. Independent of any single entity to function, Bitcoin can’t be stopped by any one event, which is what global lawmakers and governments are quickly realizing.
+
+According to Garrick Hileman, head of research at Blockchain.com and fellow at the London School of Economics, 2021 is the year governments will start to hodl bitcoin. He puts this down to outsized government spending and money printing and economic and geopolitical tension between the United States and China.
+
+Of course, regardless of whether these factors push governments to turn to bitcoin, it’s thanks to the millions of people worldwide that Bitcoin exists. By investing our capital, time, and effort into bitcoin mining and its infrastructure, we are choosing for Bitcoin to exist. And as long as there is one miner, the Bitcoin network will keep going.
+
+Sure, the processing of blocks would be slow, but they would still get processed and after a period of time when enough blocks have been added to the network, the difficulty would adjust and performance and processing times would return to normal levels.
+
+There are still bumps in the road to smooth out, but what is being created with Bitcoin is a new monetary system for anyone who understands what’s wrong with the current one. Open, transparent, resilient, and voluntarily driven by economic incentives, Bitcoin is now too big to fail.
+
+A sell-off due to temporarily slower block times is not backed by any reason other than panic and is a strong indicator of how much new money has come into bitcoin recently and the learning curve that capital is undertaking.
+
+The past year has shown how bitcoin isn’t going anywhere anytime soon and how important a role it’ll play in our financial lives going forward. Drops in bitcoin’s value will be certain in the future, but the outlook has never looked so bright.
+
+This is a guest post by Emiliano Grodzki. Opinions expressed are entirely their own and do not necessarily reflect those of BTC, Inc. or Bitcoin Magazine.

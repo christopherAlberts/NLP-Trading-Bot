@@ -1,0 +1,37 @@
+Ether (ETH) took charge as a new month begins and the second-largest cryptocurrency by market capitalization rallied to a new all-time high at $3,338. This has many analysts shouting out that a new 'altcoin season' has commenced. Meanwhile, Bitcoin (BTC) price is continuing to meet resistance around the $56,000 to $58,000 level.
+
+Data from Cointelegraph Markets and TradingView shows that since dropping to a low of $2,160 on April 25, the price of Ether has rallied 54% to a new record high at $3,324 on May 3 as Monday’s 12% spike lifted the top altcoin above the $3,300 level for the first time in history.
+
+While a majority of crypto traders are celebrating Ether’s price breakout, which has helped elevate project co-founder Vitalik Buterin to the crypto billionaire club, bearish traders are en route to heavy losses as nearly every one of the 76,000 put option contracts that are set to expire on April 7 will become worthless if Ether price manages to stay above $3,100.
+
+And it's not just Ether that has been performing well as of late. In the past 2 months, the altcoin market as a whole has seen its value increase 119% and flipped the 2017 peak into a new support level.
+
+Ether HODL rates rise
+
+According to Glassnode, an on-chain analytics firm, the amount of Ether being held long term has been on the rise since late 2020 and this could be a contributing factor propelling the multi-month rally.
+
+Ethereum HODL waves. Source: Glassnode
+
+The chart above showing “Ethereum HODL waves” indicates that "coins appear to be maturing from 1-week to over 6-months old since late 2020 (blue arrows),” with the “proportion of coins aged 1-month to 6-months progressively increasing in thickness suggesting HODLing coins accumulated in the early bull market remains a favored strategy.”
+
+Glassnode also pointed out that a large volume of Ether has been removed from exchange wallets in 2021, with 10 instances of withdrawals in excess of 200k Ether per day taking place in just 4 months as institutional demand and decentralized finance (DeFi) use grows.
+
+Ethereum supply in smart contracts vs. balance on exchanges. Source: Glassnode
+
+As seen on the chart above, the amount of Ether held on exchanges has been on the decline since September 2020 which coincided with a noticeable increase in the amount of Ether held in decentralized finance smart contracts.
+
+Currently, the amount of Ether locked in smart contracts is outpacing the amount held in centralized exchange reserves.
+
+Altcoins outpace Bitcoin for now
+
+With Bitcoin still struggling to secure a daily close above $58,000, altcoins continue to make the case for an emerging altseason.
+
+Daily cryptocurrency market performance. Source: Coin360
+
+Waves (WAVES) was the breakout star of the day with its token price surging 41% to a record high at $36.41. Ethereum Classic (ETC) also rallied 15% to a new all-time high at $50.90.
+
+After rallying 17.84% to $5,777 in the past 24-hrs, Maker (MKR) is now the top-ranked decentralized finance (DeFi) protocol with a total value locked of $10.92 trillion.
+
+The overall cryptocurrency market cap now stands at $2.29 trillion and Bitcoin’s dominance rate is 46.6%.
+
+The views and opinions expressed here are solely those of the author and do not necessarily reflect the views of Cointelegraph.com. Every investment and trading move involves risk, you should conduct your own research when making a decision.

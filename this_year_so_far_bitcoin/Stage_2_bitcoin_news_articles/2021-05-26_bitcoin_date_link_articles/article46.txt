@@ -1,0 +1,37 @@
+Last Wednesday, crypto markets nose-dived in the worst crash since March of 2020, with the price of Bitcoin falling almost one-third, from $43,000 to close to $30,000, according to CoinDesk.
+
+Widespread panic affected all crypto assets, with Ethereum and other popular cryptocurrencies hitting their lowest levels in months.
+
+Nevertheless, cryptocurrency ETFs were shielded from the worst impact, reported the Financial Times.
+
+Crypto Crash in the Futures Market
+
+As Bitcoin’s price plummeted, it triggered mechanisms in the futures market designed to help slow panicky trading.
+
+The Chicago Mercantile Exchange halted trading briefly on Wednesday, which in turn caused issues for two Horizons ETFs in Canada tracking Bitcoin futures: the Horizons BetaPro Bitcoin ETF (TSX: HBIT) and the Horizons BetaPro Inverse Bitcoin ETF (TSX: BITI).
+
+Horizons ETFs sent out “market disruption” alerts in the midst of the chaos. Market makers, who facilitate trading in ETFs on the futures exchange, were warned that they would not be able to honor buy and sell orders if the futures price remained at its lower limit by the end of the trading day.
+
+As Bitcoin began to recover, the futures prices began to move again. However, the situation brought into sharp focus just how much an underlying asset’s volatility can impact the ETF vehicle holding it.
+
+The Retail/Institutional Divide
+
+In Canada, ETFs have become an increasingly popular way to gain exposure to the crypto space, especially among retail investors.
+
+“I’m hoping this has opened the eyes of the retail investing public to understanding how volatile this asset class is,” said Steve Hawkins, chief executive of Horizons ETFs Canada.
+
+He went on to say: “This is something that people want to trade and own. [Bitcoin] is a very, very high risk underlying asset and people have to know that. ETFs are very clear about the risk disclosure.”
+
+Meanwhile, institutional investors saw Wednesday’s volatility as a buying opportunity, as blockchain data on over-the-counter (OTC) wallets showed buying en masse as Bitcoin prices fell.
+
+Institutional investors often choose to trade through OTC desks so that they avoid influencing prices on traditional exchanges. Therefore, outflows from OTC desks usually indicate institutional investors buying and moving assets to their wallets from OTC desks.
+
+According to CoinDesk, OTC wallets registered an outflow of 10,292 BTC on Wednesday, the largest outflow in a single day since February.
+
+This number rose to 11,056 BTC Thursday, the highest since December 31st. The number of daily transfers from OTC desks hit 245, also a record high.
+
+Institutions have consistently capitalized on price dips, with increased OTC desk outflows seen during the price pullbacks in late February.
+
+“Once again [there is]strong institutional dip buying. Whatever bitcoin lows we will see this summer, they won’t be for long. Might as well hodl through,” Glassnode founders Jan Happel and Jann Allemann said in a tweet.
+
+For more news, information, and strategy, visit the Crypto Channel.

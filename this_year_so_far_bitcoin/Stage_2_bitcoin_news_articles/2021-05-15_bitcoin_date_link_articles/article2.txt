@@ -1,0 +1,45 @@
+While most people reading this article are likely aware of the tweets that were sent out by Elon Musk on Bitcoin mining, his comments are simply noise, and the resulting price crash and derivative market liquidations provide investors who may have been waiting for an attractive moment to enter positions with a great opportunity.
+
+The long-term trends observable in and around the Bitcoin space remain extremely bullish, and the recent three-month consolidation can be thought of as UTXOs simply transferring from weak hands to strong ones, as short-term leveraged traders in derivatives markets have chopped the price of bitcoin in the range of $44,000 to $64,000.
+
+Short-Term HODLer SOPR: Flashing Buy Signal
+
+Short-term HODLer SOPR (36h MA)
+
+
+
+With short-term traders setting the price at the margin over this period of consolidation, it is telling to look at short-term HODLer SOPR, which measures the ratio of profit/loss of UTXOs being spent that are less than 155 days old.
+
+Over the course of the last six months, any SOPR break below one has, in hindsight, presented investors with an attractive buying opportunity, and this week’s move should be treated no differently.
+
+An SOPR value less than one implies that the coins moved that day are, on average, selling at a loss (the price sold is less than the price paid), thus when SOPR breaks under one, it is a signal that short-term market actors are capitulating.
+
+Derivatives Markets: Short-Term Tail Wagging The Dog
+
+Futures perpetually funding rate across exchanges since November 2020
+
+
+
+While the long-term price action is driven by the monetary preferences of the world changing from fiat money to BTC, short-term price action is driven by leverage and derivatives markets. There have been very few times during this bull market when funding across perpetual futures markets went negative on average for more than 12 hours. This occurred earlier this week, and presented investors a screaming buy signal.
+
+Total long liquidations across bitcoin exchanges
+
+
+
+Big Withdrawal Following The Sell Off
+
+Directly following the cascade of liquidations and the sharp correction in the price of bitcoin all the way down to $45,000, a massive outflow of bitcoin could be observed leaving exchanges, an indication that some big time players secured positions at attractive prices as a result of the sell off. While this is purely speculation, it would not surprise me at all if the FUD (read: fear, uncertainty and doubt) thrown out all toward the end of this week was simply chance.
+
+Short-Term HODLer Market Value To Realized Value Ratio
+
+Short-term HODLer MVRV
+
+
+
+The short-term HODLer market value to realized value ratio has dropped significantly from where it was in early January. While market capitalization takes the market price of bitcoin and multiplies it by the total outstanding supply, realized cap takes the price of when the coin last moved into account in the calculation. When you take the ratio of market cap by realized cap, it gives you MVRV, and in this case, it measures UTXOs (bitcoin) that moved less than 155 days ago. This metric can give you a sense as to whether the market is above “fair value” in terms of the short-term price action, which is being driven predominantly by speculators in the derivative markets over the last few months.
+
+Short-term MVRV trending lower is very bullish and should give investors confidence the lower it creeps down, that the next bitcoin run up is closer than ever.
+
+Despite months of choppiness in price action, the long-term outlook has never been more bullish, and events such as a legendary Wall Street investor calling for the dollar to lose reserve currency status doesn’t even get the top mention of the week.
+
+Continue to stack your sats friends, or someone else will.

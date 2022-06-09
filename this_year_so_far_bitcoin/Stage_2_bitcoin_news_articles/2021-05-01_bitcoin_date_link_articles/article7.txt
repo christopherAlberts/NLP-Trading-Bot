@@ -1,0 +1,129 @@
+Coming every Saturday, Hodler’s Digest will help you track every single important news story that happened this week. The best (and worst) quotes, adoption and regulation highlights, leading coins, predictions and much more — a week on Cointelegraph in one link.
+
+Top Stories This Week
+
+A sudden bullish surge took traders by surprise as April drew to a close, with Bitcoin staging a 10% rally in a matter of hours.
+
+Highs of $58,448.34 helped to erase recent losses — but not entirely.
+
+Data from Bybt shows that BTC’s price fell by 1.98% last month. That’s the first time the world’s biggest cryptocurrency has closed the month of April in the red since 2015.
+
+A contributing factor to upbeat market activity may have been linked to an astounding surge in revenues at MicroStrategy, a company that owns 91,000 BTC.
+
+MicroStrategy CEO Michael Saylor said: “We will continue to acquire and hold additional Bitcoin as we seek to create additional value for shareholders.”
+
+While Bitcoin had lost its footing for most of the week, Ether has gone from strength to strength.
+
+The No. 2 cryptocurrency continues to break new all-time highs — with the latest record of $2,879.75 set on Saturday.
+
+Overall, 2021 promises to be a crucial year for the Ethereum blockchain as the long-awaited Eth2 upgrade takes shape. The network is set to part ways with its proof-of-work consensus algorithm and shift to proof-of-stake, which is set to cut costs and preserve energy.
+
+At $330 billion, Ether’s market cap has now exceeded industry giants including Procter & Gamble and PayPal — not to mention platinum. The digital asset is also a stone’s throw away from overtaking The Walt Disney Company and Bank of America.
+
+Tesla sold a portion of its Bitcoin holdings in the first quarter, pocketing a profit of $101 million as a result.
+
+The electric vehicle manufacturer announced that it had snapped up Bitcoin worth $1.5 billion in February, and this sale amounts to about 10% of its crypto stash.
+
+Crypto Twitter didn’t react kindly to the news, with comedian Dave Portnoy accusing Elon Musk of profiting from a pump-and-dump engineered by his public statements supporting BTC.
+
+Musk rejected these claims and said that he hasn’t sold any of his Bitcoin. He also explained that Tesla executed this transaction “essentially to prove liquidity of Bitcoin as an alternative to holding cash on balance sheet.”
+
+Meanwhile, Musk has continued to champion Dogecoin on his Twitter feed — ahead of him hosting Saturday Night Live on May 8.
+
+There were a series of milestones this week when it comes to simplifying the process of buying crypto… and using it as a payment method.
+
+Coinbase announced that users in the U.S. will now be able to buy digital assets using debit cards and bank accounts linked to their PayPal profiles — giving them a greater choice of digital assets than PayPal alone provides.
+
+Meanwhile, rival exchange Gemini announced that it is teaming up with Mastercard to release a credit card that will allow crypto holders to spend digital assets and receive cash-back rewards in the form of Bitcoin.
+
+Elsewhere, Binance announced that it was launching its own NFT marketplace in June — complete with a “Premium Event” category that is designed to attract big-name signings.
+
+And, if you’re feeling hungry, Bubba Gump Shrimp’s seafood restaurants are going to start accepting Bitcoin and other cryptocurrencies in the next 90 days.
+
+A leading crypto donations platform has launched a new initiative that’s designed to help the digital assets sector become the most charitable in the world.
+
+The Giving Block has launched a “Crypto Giving Pledge” that encourages investors to pledge at least 1% of their holdings to charities each year and asks businesses in this space to contribute 1% of their revenue toward similar causes.
+
+Users can join the initiative anonymously and without having to disclose their contributions. If everyone in crypto donated 1% of their holdings to charities, they could collectively raise $20 billion.
+
+As well as raising money for “amazing causes in critical need of support,” the organization’s co-founder also says that this could erase crypto tax burdens for donors — and “put to bed this idea that crypto is bad.”
+
+Winners and Losers
+
+At the end of the week, Bitcoin is at $57,380.31, Ether at $2,880.41 and XRP at $1.56. The total market cap is at $2,212,553,216,270.
+
+Among the biggest 100 cryptocurrencies, the top three altcoin gainers of the week are Fantom, Polygon and OKB. The only altcoin loser is Celo.
+
+For more info on crypto prices, make sure to read Cointelegraph’s market analysis.
+
+Most Memorable Quotations
+
+“After the current lawsuit, Ripple will go public. The current CEO wants to do that. Chris wants to do that.”
+
+Yoshitaka Kitao, SBI Group CEO
+
+“Facebook has purchased 0 bitcoin for an aggregate price of $0 in a strategic corporate move to have fun staying poor.”
+
+Texan Hodl
+
+“If you sold #Bitcoin because Facebook didn’t buy any in Q1 and you also think you’re GMI, I have some unfortunate news for you.”
+
+Travis Kling, Ikigai CEO
+
+“HMRC suspects that an increasing amount of hidden wealth is slipping through its fingers thanks to the rise of cryptocurrencies.”
+
+David Jones, UHY Hacker Young director
+
+“With blockchain analytics, the thing we say over and over is that all this activity is on this ledger forever, and if you did something bad 10 years ago you can be caught and arrested for it today.”
+
+Sarah Meiklejohn, computer scientist
+
+“Rather than investing in cryptocurrency stuff, I want to focus on the extreme life extension technologies because if you die, you can’t enjoy your life anymore.”
+
+Roger Ver, Bitcoin.com founder
+
+“This recent recovery in Altcoin Market Cap is much sharper than the post-retrace recovery in February.”
+
+Rekt Capital
+
+Prediction of the Week
+
+Despite ETH strengthening further against BTC this week, Shark Tank star Kevin O’Leary still believes that Bitcoin will remain top of the crypto rankings.
+
+Speaking to CNBC, he declared: “Bitcoin will always be the gold, Ethereum will always be the silver.”
+
+The Shark Tank star said he had owned crypto since 2017, announcing last month that he would be allocating 3% of his portfolio into Bitcoin.
+
+However, he has previously referred to digital assets as “crypto crap” and Bitcoin as “not a real currency.”
+
+FUD of the Week
+
+Decentralized finance’s rising popularity since 2019 has seen the emerging market segment become a target for hackers and opportunistic profiteers.
+
+Crypto research company Messari says DeFi protocols have lost more than $284 million to hacks and other exploit attacks since 2019.
+
+Almost half of the DeFi hacks covered in the Messari report were flash loan attacks, while others took advantage of temporary defects in price oracle feeds.
+
+Prosecutors in the U.S. have sold off crypto they confiscated in 2018.
+
+The digital assets, seized during a drug bust, were initially valued at $57,000. Three years on, and they’ve generated a profit of $141,000.
+
+Monmouth County Prosecutor Christopher Gramiccioni said that the county is the first state-level agency to complete the forfeiture and liquidation of cryptocurrency assets.
+
+“This will serve as an effective template for the state law enforcement agencies in the cryptocurrency market — a place where we can expect proceeds from crimes to continue to be concealed,” he added.
+
+Binance’s attempts to bridge traditional markets with the cryptocurrency space through fractionalized stock tokens have drawn the attention of Germany’s financial regulator.
+
+BaFin has warned that the world’s largest crypto exchange could face heavy fines for launching security-tracking tokens without an accompanying investor prospectus.
+
+Binance launched fractionalized stock tokens for Apple, MicroStrategy and Microsoft on Monday, adding to tokens for Coinbase and Tesla.
+
+The exchange told Cointelegraph: “Binance takes its compliance obligations very seriously and is committed to following local regulator requirements wherever we operate. We will work with regulators to address any questions they may have.”
+
+Best Cointelegraph Features
+
+With a fortune he vaguely refers to as being in the billions, the Bitcoin Cash proponent intends to switch his investment focus to cryonics over the next decade in the hopes of improving the experimental technology.
+
+A $100 investment into DOGE 100 days ago would now be worth $2,742, while the same investment into BTC would be worth $130 today.
+
+More taxes may cause short-term volatility, “but long term, you may see more demand for DeFi applications and other collateralized use cases.”

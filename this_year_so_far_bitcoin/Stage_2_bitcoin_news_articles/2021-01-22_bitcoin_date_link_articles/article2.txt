@@ -1,0 +1,103 @@
+Bitcoin (BTC) appeared to stabilize above $31,000 after Thursday’s plunge, the biggest since March.
+
+“A break of $30,000 could have been bad news but it managed to turn things round,” Craig Erlam, senior market analyst for the London-based foreign-exchange brokerage Oanda, told clients early Friday in an email. “We may see a small rebound now, just as we did earlier this month. But the price action we’ve seen this month suggests there’s some nervousness around these levels.”
+
+In traditional markets, European shares slid and U.S. stock futures pointed to a higher open, amid growing concerns over the potential impact of coronavirus-related measures in places including the U.K., Italy, Germany and Hong Kong. Gold weakened 1% to $1,851.43 an ounce.
+
+Market moves
+
+It was one of the those days in cryptocurrency markets where, at least for the bulls, everything seemed to go wrong.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Bitcoin prices tumbled 13% on Thursday in the biggest market meltdown since the panic-fueled selling of last March, when the devastating economic toll of the coronavirus became clear. Ether (ETH), the second-biggest cryptocurrency after bitcoin, tumbled 19%, just days after eclipsing its old all-time high from the 2018 bull run.
+
+“The broader cryptoasset market is finally giving back some of its recent gains in what many continue to believe is a ‘healthy’ or ‘much needed’ market-wide correction,” the cryptocurrency exchange Kraken wrote in a daily email.
+
+Bitcoin price chart, showing 2021 trading in perspective. Source: TradingView/CoinDesk
+
+As reported Thursday in First Mover, the mood in the bitcoin market had flipped bearish as troubling patterns appeared in price charts, most notably the breakdown of what’s known among analysts as a “contracting triangle.” Essentially, bitcoin had been trading for the past couple weeks in an ever-narrowing range between roughly $34,000 and $40,000, and as prices slid below the lower threshold, the sell-off accelerated.
+
+It didn’t help that there were all sorts of other nettlesome news tidbits floating around on social media and the mainstream financial press.
+
+Those included reports of a dreaded “double-spend” on the Bitcoin blockchain that might reveal a severe security vulnerability. As reported by CoinDesk’s Colin Harper, the hubbub turned out to be no big deal: “In this case, a chain re-organization of one block occurred, which is fairly common,” Jason Lau, COO of OKCoin exchange, told CoinDesk.
+
+But the fear, uncertainty and doubt (known as FUD in crypto circles) kept coming as crypto traders and twitterati debated the perceived risks emanating from the rapid growth in the dollar-linked stablecoin tether (USDT), which is under investigation by the New York Attorney General’s office.
+
+Some investors focused on U.S. Treasury Secretary nominee Janet Yellen’s remark during a confirmation hearing earlier this week that cryptocurrencies are a “particular concern” when it comes to terrorist financing. But in a follow-up response to questions asked at the U.S. Senate hearing, Yellen wrote that cryptocurrencies also have the potential to “improve the efficiency of the financial system,” as reported by CoinDesk’s Nikhilesh De.
+
+While traders in digital markets are accustomed to volatility, it may have been a lot to take for the newbies who’ve only recently crept into digital markets – lured by last year’s quadrupling in price, a doubling the year before that and the alluring narrative that bitcoin should hold its value during an era of rampant central bank money printing because of the hard limits on new supplies of the cryptocurrency, which are coded into the underlying blockchain network’s original programming.
+
+“Corrections are a natural part of any market and are especially natural in the bitcoin ecosystem,” Michael Sonnenshein, CEO of Grayscale Investments, told CNBC. New York-based Grayscale, a unit of Digital Currency Group, which also owns CoinDesk, has been one of the biggest on-ramps in recent months for big institutional investors looking for exposure to bitcoin and cryptocurrencies more generally.
+
+Chart of open bitcoin options contracts (left axis), with their strike prices (lower axis). Source: Skew.
+
+Where does all this leave the market?
+
+Bitcoin’s cumulative percentage returns for 2021, which had swelled to as high as 45%, have now been whittled to just 8.3%.
+
+That’s still roughly triple what U.S. stocks have done this year. Even so, for crypto traders, it’s quite a comedown. Some high-flyers had bought bitcoin options that won’t pay out unless prices are above $72,000 on Jan. 29. To get there at this point, the cryptocurrency would have to more than double over the next week.
+
+According to Kraken, the exchange, plenty of buyers appeared in over-the-counter markets as bitcoin fell: “Flow out of the Americas was predominantly driven by opportunistic BTC buyers who had long been targeting the $30K-$33K region.”
+
+As noted by CoinDesk’s Daniel Cawrey, Thursday’s price plunge came on unusually light trading activity: Daily volume on eight exchanges tracked by CoinDesk totaled $860 million as of late afternoon in New York, a paltry showing compared to the past month’s $4.3 billion average.
+
+Still, it’s hard to avoid the nagging question: “Is this the start of a deeper retracement of merely the testing of the range floor?” Matt Blom, head of sales and trading for the digital-asset exchange firm EQUOS, told clients in a note.
+
+For now, prices appear to have stabilized around $31,000, but analysts have warned that a drop below the psychological threshold of $30,000 could lead to further selling.
+
+According to Blom, it’s a bullish sign that some 270,000 bitcoins, worth some $8.5 billion at current price levels, are headed for “known accumulation wallets, depleting exchange balances, which now sit at their lowest levels since August 2018.” In simple terms, bitcoin holders aren’t exactly rushing to liquidate.
+
+“Fundamentally, nothing has changed the core messaging,” Blom wrote.
+
+The easiest thing to say is that bitcoin is likely to stay volatile.
+
+“Early in 2021 we have already seen intraday volatility rear its ugly head, and we believe it is likely to do so again throughout the year,” the cryptocurrency investment firm CoinShares wrote Thursday in a report.
+
+– Bradley Keoun
+
+Bitcoin watch
+
+Coinbase premium (lower chart, in blue), plotted versus bitcoin's price. Source: CryptoQuant
+
+Bitcoin’s shorter-term price woes are likely not over yet, analysts say, with one of them predicting a further decline to $26,000.
+
+“I’m not sure the low of $28,000 seen early Friday is the bottom,” Ki-Young Ju, CEO of blockchain analytics firm CryptoQuant, told CoinDesk. He highlighted a negative “Coinbase premium” as evidence of weak dip demand from large investors.
+
+CryptoQuant’s Coinbase premium indicator measures the spread between Coinbase’s BTC/USD pair and Binance’s BTC/USDT pair, which includes the stablecoin tether. A positive spread implies strong institutional inflows.
+
+The Coinbase premium fell as low as -$227 in the past 24 hours. According to Ju, bitcoin consistently traded at a premium of over $50 on Coinbase throughout the rally from $20,000 to $40,000, indicating major spot-market inflows from large investors.
+
+Some analysts remained optimistic about the cryptocurrency’s long-term prospects.
+
+“The history of bitcoin is littered with such shakeouts, and we expect a whipsaw reversal to $50,000 in short order,” Jehan Chu, managing partner at Hong Kong-based crypto investment firm Kenetic Capital, said.
+
+– Omkar Godbole
+
+What's Hot
+
+Bitcoin worries ‘fading’ as crypto goes mainstream, S&P says (CoinDesk)
+
+Minority mining pools threaten to collude against contentious Ethereum update (CoinDesk)
+
+Guggenheim Chief Investment Officer Scott Minerd, who predicted bitcoin prices would eventually go to $400K, told CNBC Tuesday that he sees a possible retracement to $20K in the near term (CoinDesk)
+
+Treasury Secretary nominee Janet Yellen offers U.S. Senate a more nuanced take (in writing) on cryptocurrencies (CoinDesk)
+
+Investment-grade corporate bonds have lost money so far this year, in shift from 2020 when Federal Reserve emergency support lifted the market (WSJ)
+
+Analogs
+
+The latest on the economy and traditional finance
+
+U.S. President Joe Biden to sign executive orders to boost food benefits, workers’ rights as part of coronavirus-relief economic actions (CNBC)
+
+Georgetown law Professor Chris Brummer (who runs an annual conference on financial technology) tipped as potential candidate to replace Heath Tarbert as chair of the Commodity Futures Trading Commission, which oversees on-exchange cryptocurrency derivatives in the U.S. (CoinDesk)
+
+European Central Bank President Christine Lagarde says pandemic still “poses serious risks” and that “in this environment ample monetary stimulus remains essential” (CNBC)
+
+JPMorgan board holds CEO Jamie Dimon’s annual pay at $31.5M (Reuters)
+
+Morgan Creek’s Mark Yusko starts ETF for SPACs along with former Credit Suisse CEO Brady Dougan’s new firm (WSJ)
+
+Tweet of the day

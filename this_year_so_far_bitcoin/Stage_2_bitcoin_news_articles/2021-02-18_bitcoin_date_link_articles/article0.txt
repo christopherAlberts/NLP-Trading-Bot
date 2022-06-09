@@ -1,0 +1,49 @@
+Price Point
+
+Bitcoin (BTC) was lower after surging on Wednesday to a new all-time high price above $52,000, while ether (ETH) topped $1,900 for the first time, pushing toward the psychologically crucial $2,000 mark.
+
+“My sense is the technology has evolved and the regulations have evolved to the point where a number of people find it should be part of the portfolio, so that’s what’s driving the price up,” Rick Rieder, head of global allocation for the $8.7 trillion money manager BlackRock, told CNBC. “We’ve started to dabble a bit.”
+
+In traditional markets, European shares slid and U.S. stock futures pointed to a lower open, amid concern that rising bond yields might sap this year’s momentum in equity markets. That’s despite a U.S. government report Wednesday showing consumers rushed to spend stimulus checks in January, bolstering retail sales, while minutes from the Federal Reserve’s meeting last month showed officials expected their $120 billion-a-month of asset purchases would continue for “some time.”
+
+A growing number of investors say bitcoin might serve as a hedge against inflationary policies as governments and central banks pump trillions of stimulus money into the coronavirus-racked economy.
+
+The News
+
+COINBASE VALUATION: Coinbase, the cryptocurrency exchange readying a public listing, is valued at $77 billion based on trading in privately held shares on the Nasdaq Private Market, CoinDesk’s Ian Allison reported. The amount is greater than the market capitalization of Intercontinental Exchange Inc., owner of the New York Stock Exchange. (For what it’s worth, Tesla used Coinbase for its $1.5 billion bitcoin purchase, according to The Block.)
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+MASTERCARD PAYS IN SAND DOLLARS: People in the Bahamas now have the option of loading the country’s central bank digital currency, known as the Bahamas Sand Dollar, onto a prepaid Mastercard to enable use anywhere in the world, the payments giant has announced.
+
+BITWISE DEFI: Bitwise Asset Management has launched a decentralized finance index fund, CoinDesk’s Danny Nelson reports. The money manager aims to capitalize on growing investor demand for digital tokens associated with the fast-growing decentralized finance (DeFi) arena, a segment of the cryptocurrency industry where entrepreneurs are building software-automated versions of banks and trading platforms atop blockchain networks.
+
+Bitcoin Watch
+
+Decline in “whale” entities worth watching, CoinDesk’s Omkar Godbole writes
+
+The number of bitcoin addresses with at least 1,000 bitcoin (roughly $50 million worth) has trailed off recently after rising over the past year. Source: Glassnode
+
+The number of large bitcoin investors or “whales” has declined recently after rising over the past year, blockchain data show, potentially a bearish signal if it means there’s less buying pressure from large accounts.
+
+Wallet addresses or clusters of related addresses holding at least at least 1,000 bitcoins (roughly $50 million worth) have dropped by a little over 1% to 2,200 in the past nine days, according to Glassnode, a blockchain data provider.
+
+The cryptocurrency, however, has risen from $40,000 to $52,000 during the same timeframe.
+
+So spot-market inflows might need to pick up soon to keep the bullish momentum going, as derivative markets are looking overheated.
+
+Token Watch
+
+Ether (ETH): Ethereum cryptocurrency looks overleveraged after rising to new all-time-high price over $1,900. Signals from derivatives market suggest that traders are heavily skewed toward leveraged bet on further upside, potentially a harbinger of fresh volatility.
+
+Cosmos (ATOM): Upstart “ecosystem of blockchains” plans to go live Thursday with “Stargate” upgrade. “Stargate represents an important milestone for the Cosmos project on the way to launching its inter-blockchain communication (IBC) protocol that will allow the 200+ Tendermint-based blockchains to interoperate easily,” CoinDesk’s Brady Dale writes.
+
+PoolTogether (POOL): “Lossless lottery” set up in 2019 will airdrop new token to all users who have joined it for the ride so far. “No-loss prize savings is one of the most, if not the most used consumer financial primitive in the whole world,” PoolTogether founder Leighton Cusack said.
+
+Opinions and Observations
+
+BITCOIN ON THE BALANCE SHEET? The U.S. will eventually adopt bitcoin as a reserve asset, argues Zabo co-founder Alex Treece in an op-ed for CoinDesk Opinion.
+
+DOGECOIN DREAMS: Rise of the Shiba Inu-themed “meme token” dogecoin reflects the power of collective belief and a longing for a more ideal form of crypto, CoinDesk’s Emily Parker writes in op-ed: “It may be tempting to write this off as a speculative frenzy or just a fluke, but that would be missing the larger picture.”
+
+BUY THE TOP: People who bought bitcoin at the previous price peak in 2017 have outperformed the Standard & Poor’s 500 Index 3.5-fold, the crypto trader Alex Kruger tweeted.

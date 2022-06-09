@@ -1,0 +1,25 @@
+Big Block Breakthrough: 1 Gigabyte BCH Scalenet Block Mined With Raspberry Pi4
+
+While it seems the big block vs. small block debate is over, it is still relevant in the cryptocurrency sphere and some users are still delving into the limits of big blocks. Mtrycz, a writer leveraging the read.cash blogging platform, claims to have mined 1 gigabyte (GB) block using a Raspberry Pi4 on the Bitcoin Cash scalenet, showing it is indeed possible to deal with these block sizes, albeit only in an experimental way for now.
+
+1GB Block Mined With a Raspberry Pi4
+
+Mtrycz, a writer who regularly posts experiments to the BCH-based blog platform read.cash, has achieved a mining breakthrough by mining a massive 1GB block with only the computing power of a Raspberry Pi4. Mtrycz claimed to have done this by using a new “light” template created last year by BCHN, the current leading Bitcoin Cash (BCH) full node implementation.
+
+However, this was no easy task. While the block did get mined, it took some time to get it done. According to his reports, the whole ordeal took more than two hours to finish, with the machine mining a block with more than 5.2 million transactions in about 50 minutes. This was not the first experiment he has done in this field, as he had also previously experimented with mining 256MB blocks with positive results.
+
+These experiments show that, albeit in an experimental way, it is possible to handle big blocks with the existing technology and today’s hardware, and the possibilities will only grow with subsequent advances in internet speed and computing power. In this regard, Mtrycz stated:
+
+Technology improvements will expand the limits both of what is possible and what is safe. It’s great to be a part of the community that is pushing this limits, for making Bitcoin Cash accessible for the whole world
+
+The Big Block vs. Small Block Debate Resurfaces
+
+If technology keeps improving at the same pace, all evidence shows that end-users will have the opportunity to run their own node and verify their transactions with retail hardware, helped by innovations in the software front.
+
+This would also mean that scaling can indeed be done in a sustainable way just by increasing block sizes in conjunction with tech advancements, something that small blockers thought (and still think) was not possible, and chose to scale using second layers to maintain the smaller block size.
+
+What do you think about the Raspberry Pi4 mining a 1GB block? Tell us in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

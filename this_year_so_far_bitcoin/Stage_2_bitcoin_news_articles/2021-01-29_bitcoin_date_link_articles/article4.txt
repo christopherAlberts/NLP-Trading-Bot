@@ -1,0 +1,99 @@
+When Elon Musk adds #Bitcoin to his Twitter bio, you know buying bitcoin is in vogue again.
+
+The cryptocurrency is pumping, perhaps not-too-coincidentally, as investing app Robinhood faces criticism for censoring stock and crypto trading in response to the Wall Street Bets saga.
+
+With Robinhood taking heat, Coinbase is basking in the glow.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Coinbase’s popularity has climbed to its highest point since 2017, and it’s now the ninth-most downloaded application on Apple’s (AAPL) U.S. app store as well.
+
+The centralized exchange is one of the oldest in the game and has historically been the U.S.’ go-to option for buying bitcoin and its cohort of altcoins. Because buying on Coinbase is straightforward and it’s been around for so many market cycles, the service has strong brand recognition and network effects, making it a routine referral to newcomers looking to buy bitcoin.
+
+As evidenced by the influx of new users, Coinbase is pretty popular. But a lot has changed since Bitcoin’s last market craze, and there are plenty of options for first-timers to buy their first bitcoin besides Coinbase, some of which offer lower fees to boot.
+
+Bear in mind, all exchanges are susceptible to outages when volumes spike. None of these exchanges are necessarily any better than Coinbase. This is just a sampling of some alternative options.
+
+US-based bitcoin-only brokers
+
+Below are venues to buy bitcoin that are exclusive to the U.S. and which offer bitcoin buying and selling only. Their fees are comparable to or lower than Coinbase’s own and they generally have better uptime, even in times of high market volatility.
+
+These platforms act as brokers, buying and selling bitcoin for their clients, instead of true exchanges where users can trade with each other.
+
+Cash App
+
+For U.S. users, Square’s (SQ) Cash App is probably the easiest and fastest place to buy bitcoin. You can hook up your bank account, which can take a few days to onboard, or use your debit card, which can be used to start buying bitcoin instantly.
+
+Available on mobile and web, Cash App allows you to purchase up to $100,000 per week in bitcoin, as well as withdraw $2,000 every day and $5,000 each week.
+
+Cash App also offers automatic recurring buys and has a debit card which gives holders bitcoin-back rewards. Purchasing fees vary from roughly 1%-3% depending on the order size (the larger the order, the cheaper the fee). Cash App does not tack on a fee to withdraw.
+
+River Financial
+
+U.S.-exclusive River Financial is a relatively new, bitcoin-only broker that focuses on bringing a full suite of bitcoin-related client services to their customers. It’s not as easy as downloading Cash App, but River’s financial suite offers a number of services that make it a standout among bitcoin exchanges.
+
+River allows, for instance, Lightning Network deposits and withdrawals, which means you can deposit or take your bitcoin out of River instantly for zero (or near zero) network costs. You can also integrate your hardware wallet(s), which allows you to track the bitcoin you keep in cold storage on your River account. Like Cash App, you can set auto-recurring bitcoin buys.
+
+River is built for larger purchases, as the minimum buy is $100, and it only allows for purchases using a U.S. bank account. River does not have a withdrawal fee and it charges anywhere from 1%-3% for buys, depending on size.
+
+Swan Bitcoin
+
+Swan Bitcoin is not your traditional bitcoin on ramp.
+
+The bitcoin-only service has become popular among bitcoiners because it allows its users to set daily recurring auto-buys to as low as $10. Swan users can also designate a wallet for auto-withdrawals. It’s designed for bitcoiners who want to set a daily or weekly average buy, and it offers some of (if not the) lowest fees for spot bitcoin purchases in the U.S.
+
+Weekly purchases of $50 or more are subject to a 1.19% fee, unless the buyer prepays their fees through an annual savings plan, in which case fees are 0.99%. Swan does not charge withdrawal fees and only links to a bank account.
+
+International Bitcoin Exchanges
+
+Whether you are inside or outside the U.S., here are a few centralized exchanges that service an international clientele.
+
+Each exchange featured below offers a mobile app (for Android and iOS) to manage your account on the go and allows fiat currency deposits through bank transfer or credit/debit cards. They also have Bitcoin’s Lightning Network enabled (or plan to do so in the near future), meaning clients can use this network to avoid high on-chain fees when withdrawing to self-custody.
+
+Trading fees on these bitcoin exchange platforms are lower than those of Coinbase and other brokers, usually roughly 0.1%-0.5% per trade. But the experience of buying bitcoin may not be as easy for newcomers because these exchanges, which include loads of altcoins, are really set up as trading venues before anything else. Consequently, those unaccustomed to cryptocurrency exchange layouts may find them more challenging to navigate than other options.
+
+Bitfinex
+
+An international exchange that is one of the oldest in the industry, Bitfinex supports trading in U.S. dollars, euros, British pounds, Japanese yens, China’s yuan and all major stablecoins.
+
+As a plus for power users, Bitfinex also offers deposits and withdrawals using Bitcoin’s Lightning Network and Blockstream’s Liquid sidechain.
+
+Bitfinex’s withdrawal fees for bitcoin are static at 0.0004 BTC.
+
+Kraken
+
+Kraken is one of the oldest U.S.-based exchanges and offers both spot trading for bitcoin and altcoins as well as leveraged trading. The exchange supports deposits in USD, EUR, CAD, AUD, GBP, CHF, JPY and major stablecoins.
+
+Withdrawal fees for bitcoin are set at 0.00015 BTC.
+
+Kraken Exchange told CoinDesk at the end of 2020 that it plans to integrate the Bitcoin Lightning Network for deposits and withdrawals this year.
+
+OKCoin
+
+OKCoin is an international exchange that accepts USD, EUR and Singapore dollar (SGD) deposits and major stablecoins. The exchange is in the process of integrating the Lightning Network, which should go live in February.
+
+As with other exchanges right now, OKCoin’s Bitcoin withdrawal fees are 0.0004 BTC.
+
+Decentralized Bitcoin Exchanges
+
+These bitcoin exchanges don’t require know-your-customer (KYC) identity verification and allow users to trade directly with each other without relinquishing their private keys to a third party (unlike the centralized exchanges explored above). Because you never relinquish your private keys to the exchange, no third party can freeze your funds on these services.
+
+Non-KYC exchanges allow customers to buy bitcoin under the radar such that they don’t reveal sensitive personal information to a third party. As evidenced in the Ledger and BlockFi security breaches, not every hack ends in a loss of funds; exchanges and services that store KYC information are a honeypot for hackers, who sell stolen personal information like emails and physical addresses on the dark web.
+
+You’ll jump through more hoops if you buy bitcoin this way and it will be more difficult than the typical route, but the bitcoin will be “more private” as a result (though this typically comes at a high premium cost).
+
+Hodl Hodl
+
+Hodl Hodl is a global, peer-to-peer bitcoin exchange that uses multisignature wallets to escrow trades between users.
+
+The Hodl Hodl marketplace gives traders the option to support whichever payment method they want (Zelle, PayPal, bank wire, altcoins, SWIFT, credit cards and gift cards). Once payment for a trade is complete, either party signs their end of the multisig wallet to release funds. In the event that there’s a disagreement, Hodl Hodl’s team arbitrates.
+
+Because Hodl Hodl doesn’t require KYC, bitcoin typically sells at a premium compared to other exchanges, anywhere from 5% up.
+
+Trading fees are split between the buyer and seller, 0.3% of each trade.
+
+Bisq
+
+Like Hodl Hodl, Bisq is a peer-to-peer bitcoin exchange, but it’s not web-hosted.
+
+Bisq is Bitcoin’s only self-hosted decentralized exchange. This means that each Bisq user must download the exchange’s software and run a Bisq node to trade on the service. A multisignature wallet is used to escrow trades.

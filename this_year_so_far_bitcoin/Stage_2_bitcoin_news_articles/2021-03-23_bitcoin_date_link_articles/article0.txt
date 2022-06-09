@@ -1,0 +1,27 @@
+Digital-asset traders and analysts were scrambling Tuesday to assess a fresh data point extracted from the Bitcoin blockchain: Some $806 million worth of the cryptocurrency apparently transferred earlier in the day off of the Coinbase exchange’s institution-focused unit, Coinbase Pro.
+
+The jury is out on what it means. It could be that a large investor or several just completed a fresh round of buying and now are taking the bounty off the exchange for long-term holding or other purposes. Or it might be something else more innocuous, such as an internal transfer.
+
+According to data provided by the blockchain analytics firm CryptoQuant, some 14,666 BTC were moved off the exchange during the early U.S. hours in a small number of transactions.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+The transfer came after bitcoin prices tumbled Monday by the most in a month to about $54,000, a level the market hasn’t seen for almost two weeks. By Tuesday, the largest cryptocurrency had steadied and was changing hands around $55,000.
+
+“The outflow was split into multiple wallets, which could be their hot wallets, representing an internal transfer or custodian wallets for institutions,” Ki Young Ju, CEO of CryptoQuant, told CoinDesk.
+
+Coinbase Pro outflow Source: CryptoQuant
+
+Coinbase’s cold wallets for custody are directly integrated with the exchange’s over-the-counter (OTC) desk. Institutions and large traders typically trade via OTC desks to avoid influencing the market price too much. Hence, outflows from Coinbase Pro are often taken to represent institutional demand for bitcoin.
+
+“I think it’s likely to be a custodian wallet, which might indicate institutions are still buying the dip,” Ju said. But he added that was just a speculative guess.
+
+CryptoQuant found itself at the center of a controversy last week, when one of its blockchain-data alerts signaled an apparent transfer of $1.1 billion in bitcoin onto the Winklevoss twins’ Gemini exchange, possibly indicating big selling pressure ahead. A backlash resulted on Twitter, with some posters arguing the data was mislabeled or misinterpreted.
+
+Ju subsequently promised to change the company’s procedures to avoid confusion, CoinDesk reported. But the episode underscored the hazards associated with reading too much into isolated blockchain data points.
+
+While Ju is not sure about the nature of the latest outflow, the crypto community is cheering the data on Twitter. “Bullish signal, Big BTC outflow from Coinbase Pro,” one user tweeted.
+
+The exuberant reaction can be explained by the chart below, which shows bitcoin’s previous price pullbacks have ended with a pickup in outflows from Coinbase Pro.
+
+It remains to be seen if history repeats itself. Bitcoin is currently trading near $55,000, having dropped to a low of $53,031 during the Asian hours.

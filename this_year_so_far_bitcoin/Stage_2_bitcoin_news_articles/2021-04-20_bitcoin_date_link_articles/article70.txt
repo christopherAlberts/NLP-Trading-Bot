@@ -1,0 +1,25 @@
+Nvidia, the maker of graphic cards, has decided that they will deliberately lower the efficiency of their latest graphic cards by 50% when they are used to mine cryptocurrencies. There has been a huge graphic card shortage because bitcoin and similar currency miners have been using them. Nvidia is intervening in this situation to make sure that their cards end up with gamers, but they might also end up selling special versions for mining too.
+
+As of now, the supply chain for graphic cards has been average at best, while the demand for graphic cards has increased to record numbers. John Peddie Research (JPR) has found that in just the first quarter of 2020, around 11 million cards were sold. If you look at previous years, only around 15 million cards were shipped throughout the year. This has resulted in the shortage of graphic cards like never seen before. To get more information about the bitcoin trading you can visit bitcoin revolution app
+
+What’s the Problem?
+
+Graphic cards are really important for gaming computers since they can result in high frame rates and the resolutions that gamers want. However, there have already been manufacturing issues during the pandemic of 2020, which created shortages anyway.
+
+Cryptocurrency investors also started buying them out to process transactions and generate Bitcoins. Cryptocurrencies are becoming more and more popular since these digital coins are gaining more acceptance. With big names like Elon Musk talking about them and even the significant investment that Tesla made on Bitcoin, it is resulting in an even greater focus on mining the coins. Miners started to build rigs with several cards to create a machine that could handle mining. To be cost-effective, it has to generate enough bitcoins than it costs for the electricity and hardware.
+
+JPR found that AMD was only able to ship around 1.87 million cards by the end of 2020 while they had managed to supply 5.62 million in Q1 of 2018. The pandemic slowed down the production of graphic cards in a major way, impacting the supply chain.
+
+Games have been waiting for high-performing graphic cards for years, but cryptocurrency miners have also come to buy them because they present the possibility of virtual machines for cash. This has also resulted in a hike in prices for graphic cards.
+
+The Nvidia GeForce RTX 3070 board alone costs around $1,200 right now, which had a recommended price of $500 just some time ago. The GeForce RTX 3080 costs $2,000 when it once fetched $700. Even average cards like the GeForce RTX 3060 are sold for $800 now. The Radeon RX 6000 series by AMD has gone up in price, with the cheapest going for $1,300.
+
+What’s Nvidia Doing?
+
+Nvidia is now producing the GeForce RTX 3060 card, which will slow down Ethereum mining transactions by 50%. This will make it less cost-effective for crypto miners that need the card for mining. It is currently focusing on Ethereum and not Bitcoin because it has the most global mining yields than other coins. They maintain that this change in production won’t affect graphic card availability.
+
+At the End of the Day…
+
+Critics of Bitcoin suggest that while the new cards may use less energy, crypto mining is still quite wasteful in terms of energy. Bitcoin mining and graphic card shortages are just outlining how more efficient hardware for mining doesn’t really help but rather just causes more problems. David Gerard, the author of a book called ‘Attack of the 50 Foot Blockchain’, suggests that Bitcoin and other cryptos are anti-efficiency. The high-energy use by Bitcoin and the CO2 it produces continue to spiral to new heights. He says, “It’s very bad that all this energy is being literally wasted in a lottery.”
+
+This article does not necessarily reflect the opinions of the editors or the management of EconoTimes

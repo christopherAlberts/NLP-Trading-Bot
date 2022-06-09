@@ -1,0 +1,57 @@
+The Bitcoin community is debating the extent to which Bitcoin Core developers and maintainers should shoulder the symbolic burden of hosting its white paper, particularly when doing so could unnecessarily sap their time and finances.
+
+The question arose after the Bitcoin white paper was taken down from Bitcoincore.org, a canonical repository for the Bitcoin software and educational resources like Satoshi’s 10-page thesis, following legal threats of copyright infringement from nChain Chief Scientist Craig Wright.
+
+Wright, who has made a career of his claim that he is Satoshi Nakamoto, also helped to spawn the Bitcoin fork Bitcoin Satoshi’s Vision (BSV).
+
+The Bitcoin white paper, titled “Bitcoin: A Peer-to-Peer Electronic Cash System,” was published by Satoshi Nakamoto under an MIT public license in 2008 and is distributed widely in many forms around the world. Wright has filed a copyright claim and that claim has been processed, but it is still open to challenge.
+
+But whether his legal pressure has merit is not the issue: Wright is no stranger to lawsuits and has eagerly sued prominent Bitcoiners, like British podcast Peter McCormack, for challenging his claim as the inventor of Bitcoin.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+The issue is whether it would be best to entertain another of Wright’s enervating (but expensive) lawsuits with a show of strength, or if sidestepping the problem entirely by removing the white paper – which exists in numerous corners of the web anyway – would be a wiser path for Bitcoincore.org to follow.
+
+While Bitcoincore.org’s maintainers have scuttled the white paper from the site, Bitcoin.org, the other website in the lawsuit’s sights, has yet to remove the white paper.
+
+As to the matter of practicality vs. principal, as ever, Bitcoin’s open-source community is at odds with itself.
+
+No harm, no foul
+
+Prolific Bitcoin contributor Gregory Maxwell, for instance, is in the camp that argues hosting the white paper on the Bitcoin Core website carries unneeded legal and financial risk for the Bitcoin Core developers who maintain the site.
+
+“It’s not currently needed there: The bitcoin white paper is already all over the place, it is on dozens of sites, it is in the Bitcoin blockchain and with publicity about this nonsense it’s going to get published in 1,000 more places.”
+
+The fuss is over a digital paper, Maxwell points out, not even the Bitcoin code itself, which will chug on, entirely unaffected by the brouhaha.
+
+"Wright might be able to abuse the legal system to take a copy down, or even to take down bitcoincore.org entirely (maybe even bitcoin.org entirely). And what effect would that have on Bitcoin? NONE. No effect at all. What effect would it have on the availability of the whitepaper? If anything it would make it more available. But even if he managed to get the whitepaper taken off every site – a total impossibility – what would that do to Bitcoin? Still nothing." Greg Maxwell
+
+He adds that instead of distracting Bitcoin engineers with years of hearings and lawsuits costing millions of dollars, it would be better to allow them the freedom to continue their important work maintaining Bitcoin. He cites McCormack’s and other cases as evidence that Wright has plenty of money to throw at court hearings that go nowhere (and he’s even failed to pay legally mandated restitution after losing these fights, Maxwell says in the post).
+
+A matter of principle and pride
+
+Responding to Maxwell’s post, Cobra, a pseudonymous developer who maintains the Bitcoin.org website, disagrees with Maxwell’s conclusion that “this isn’t the right battle.” Where Maxwell thinks it would show weakness to engage with Wright, Cobra believes submitting to the demand is weakness as well.
+
+“With respect to Greg, I think the Bitcoin Core project submitting to unreasonable demands that lack merit is a bad thing, and doesn’t inspire confidence in the robustness of the project to social and legal attacks” Cobra told CoinDesk over direct message.
+
+Cobra told CoinDesk the developers are willing to go to court to combat Wright’s “nonsense” allegations if necessary.
+
+Can’t sue ‘em all
+
+Other Bitcoiners, in response to a post by Bitcoin Core lead maintainer Wladimir van der Laan (@orionwl), were more sympathetic.
+
+“Y’all made the right decision,” Pierre Rochard, Nakamoto Institute co-founder and Bitcoin Strategist at Kraken, responded. “Thank you for your excellent stewardship of the project.”
+
+Decentralizing Bitcoin Core
+
+Still, some suggested that van der Laan and other Bitcoin Core developers who would rather avoid legal conflict should pass the Bitcoincore.org domain on to someone who is willing to bear the litigious brunt of a potential lawsuit.
+
+In a blog post yesterday, Bitcoin Core’s lead maintainer made it clear that, in his view, this goes further than the debate over taking down the white paper that, in itself, is likely to be a battle that will need broader support than one person could handle alone.
+
+Indeed, he had already begun considering “decreasing [his] involvement” in the open source project prior to this week’s events.
+
+The “responses on social media” to Bitcoincore.org’s delisting the white paper he writes in the post “have made me realize that people have strange expectations from me, and what my role in the Bitcoin Core project is.”
+
+Van der Laan will be stepping down as chair of Bitcoin Core’s weekly meetings. For the rest of the post, he proposes ways to further decentralize Bitcoin’s development and software distribution.
+
+“Some arrangements that were acceptable for a small scale FOSS project are no longer so for one running a 600 billion dollar system. Market cap is famously deceptive, but my point is not about specific numbers here,” he writes.

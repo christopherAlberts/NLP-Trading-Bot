@@ -1,0 +1,21 @@
+Don't panic, the fact that you can now mine Bitcoin using a Commodore 64 doesn't mean there's going to be a world shortage of 8-bit C64's, because it somehow turns out not to be profitable. In fact it would actually cost you some $1.1 quadrillion in energy alone, though, as our Jacob has pointed out, solar power will be pretty cheap by then.
+
+We are due to be swallowed up by the Sun in around seven to eight billion years, which means it will be nothing if not plentiful.
+
+The YouTube channel, 8-Bit Show And Tell (via Sweclockers), has shown the Bitcoin Miner 64 software running on a standard Commodore 64. And, I'll be honest, my eyeballs got a little moist at the sight of the beautiful old grey slab of personal computing joy.
+
+Even if it could only achieve a Bitcoin hash at a rate of every 3.5 seconds, or around 0.3 H/s.
+
+Given that current Bitcoin ASICs are being measured in terahashes per second, and not just straight hashes per second, you can see why it's going to take a while with the venerable C64. The 50 trillion year mark is also a ballpark figure for the upgraded SuperCPU accelerator add-on that 8-Bit Show And Tell used in their video to try and bump up the Commodore rig's performance; I don't want to get near the extreme numbers you'd run into at 0.3 H/s.
+
+Your next machine (Image credit: Future) Best gaming PC: the top pre-built machines from the pros
+
+Best gaming laptop: perfect notebooks for mobile gaming
+
+With the accelerator in place we can see the hash rate leaps to a heady 10 H/s. That would net you 0.00000000000002 Bitcoin per year, and at 10 H/s on the 21W C64 that would still cost you around $22 per year to mine. And realistically the hashing difficulty might just creep up over the next 50 trillion years. We might run out of Bitcoins by then too.
+
+They note that the software they're using is written in C, but they could potentially achieve a speedup of up to ten times if it was written in machine code. Though that still wouldn't make any difference to your chance of turning a profit.
+
+Not sure how it would stack up against Ethereum, so we're still no closer to figuring out if it can take some of the strain off the beleaguered graphics card market, but we've got to hope that new Ethereum Bitmain ASIC will shoulder some of that burden for us.
+
+Still, at least the upgraded Commodore 64 is quicker than a Game Boy at Bitcoin mining. As a long-time Commodore fan-boi I'm holding onto that as a win.

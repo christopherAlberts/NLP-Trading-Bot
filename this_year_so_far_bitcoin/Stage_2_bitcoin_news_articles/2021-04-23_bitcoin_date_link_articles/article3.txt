@@ -1,0 +1,65 @@
+Wyoming’s economy is powered by some of the oldest industries in human history, including mining, agriculture and tourism. But in recent years the state has emerged as an unlikely champion of far newer inventions: cryptocurrencies and the blockchain technology that powers them.
+
+Now, the Cowboy State is arguably the most crypto-friendly jurisdiction in the United States, thanks to state leaders’ shepherding a series of new laws.
+
+These changes have encouraged several high-profile companies in the industry to move operations from traditional high-tech hubs like San Francisco to Wyoming’s capital city of Cheyenne, including crypto exchange Kraken, blockchain platform Cardano and payment protocol firm Ripple Labs. But it has also put the state on a potential collision course with federal regulators who appear far more skeptical of the costs and benefits of blockchain technology than libertarian-leaning Wyomingites.
+
+Wyoming State Sen. Chris Rothfuss, chairman of the chamber’s blockchain committee, told MarketWatch that a desire to diversify the Wyoming economy has been a primary motivator of his state’s embrace of the crypto industry.
+
+“We do a lot of coal, oil and gas, and those don’t necessarily have the bright, shiny futures they once did,” the Democrat said. “We’re really looking for opportunities to bring advanced emerging technologies to Wyoming.”
+
+Rothfuss said that it’s not lawmakers like him who were responsible for driving change in Wyoming. Though the Wyoming state government has a history of business-friendly regulation, he argued that it’s the state’s residents, along with entrepreneurs who grew up in the state but left for better economic opportunities, who deserve much of the credit for driving these regulatory changes.
+
+One such member of the Wyoming diaspora is Caitlin Long, founder and CEO of Avanti Bank & Trust, which aims to provide custodial services for institutional investors in cryptocurrencies. A Wall Street veteran with two decades of experience working for Salomon Brothers, Credit Suisse CS, -0.37% and Morgan Stanley MS, -1.44% , she became interested in bitcoin BTCUSD, +1.37% in 2012 after appreciating the potential of blockchain technology to enable faster settlement of financial transactions.
+
+In 2017, Long attempted to endow a scholarship for female engineers at her alma mater, the University of Wyoming, using appreciated bitcoin, but found the school wasn’t able to accept the donation because Wyoming laws barred the operation of crypto exchanges in the state. This episode motivated her to advocate for changes to state law regarding digital assets.
+
+Long left Wall Street in 2016 and in 2018 volunteered to serve on the Wyoming Blockchain Taskforce, where she worked with the legislature to craft more than a dozen new laws related to blockchain and digital assets. As the project gained momentum, Long said, it attracted public attention that encouraged even greater support from lawmakers.
+
+The legislature held hearings on the laws where a diverse set of Wyomingites showed up, some driving upwards of eight hours to be there. “When the legislators walked in the room, they saw young people who were eager and anxious and wanted legal and regulatory clarity,” Long said in an interview with MarketWatch.
+
+A Digital Wild West
+
+The laws enacted by Wyoming in 2018 and 2019 clarified the treatment of digital assets in commercial law, setting the legal foundation for so-called “smart contracts,” or contracts that are automatically executed by computer code on the blockchain. They also made it easier for crypto investors to set up limited liability company though which investors who live outside the state can still store their digital assets in Wyoming for legal purposes. On Wednesday, Wyoming’s Republican Gov. Mark Gordon signed legislation to give legal status to decentralized autonomous organizations, or member-owned communities that operate using blockchain technology.
+
+The changes also enable Wyoming banks to serve as custodians of digital assets under a unique legal framework that enables institutional investors to retain direct ownership of digital assets through a custodian bank.
+
+Long argues this will make Wyoming’s banks the place where investors prefer to store their digital wealth.
+
+The changes also required the Wyoming Division of Banking to issue a new type of banking charter, called a special purpose depository institution, for banks that deal mostly in digital assets. Kraken Bank, a wholly owned subsidiary of cryptocurrency exchange Kraken, became the first bank to be issued this charter in September 2020. Avanti was the second, in October 2020.
+
+David Kinitsky, chief executive of Kraken Bank, told MarketWatch that his company chose to domicile in Wyoming because it’s the only state offering a banking charter that outlines exactly how bank regulators will supervise a bank that holds digital assets.
+
+“Wyoming actually did the work on paper to say how exactly they expect you to operate and how they are going to come in and examine you,” he said. “None of the other charters in any capacity address digital assets.”
+
+Some observers, however, are concerned that Wyoming’s new charter will expose the national banking system to new risks. The Federal Reserve Bank of Kansas City is reviewing Kraken’s application to gain access to the Federal Reserve’s payment system, as most state-chartered banks are entitled to, which would give the bank an account at the Fed and membership in the Fedwire settlement system.
+
+Rob Nichols, chief executive of the American Bankers Association, told the National Conference of State Legislatures earlier this month that because the SPDI charter enables crypto banks to be chartered without becoming insured by the Federal Deposit Insurance Corporation, it gives those banks a competitive advantage.
+
+“These entities see the value in getting access to Federal Reserve payments systems like the Fedwire Funds Service and the automated clearinghouse (ACH) network, but do not want to play by the same rules as traditional banks,” Nichols said. “Finding chartering authorities that are willing to redefine what it means to be a bank introduces risks to the financial system’s safety and soundness, consumer protection laws and international reputation.”
+
+Albert Forkner, commissioner of Wyoming’s Division of Banking, said however that it is in part the FDIC’s reluctance to give any guidance to its member banks on the subject of custody of digital assets that motivated Wyoming to create this new charter. Meanwhile, he added, the charter requires banks to be fully reserved — meaning it must have enough cash or cash-like securities on hand at all times to meet any possible customer withdrawal request.
+
+“These businesses felt they were being locked out of traditional banking institutions,” he said in an interview with MarketWatch. “So we want a non-FDIC insured bank, but the trade off is that it would be 100% reserved.”
+
+Learning from South Dakota
+
+Forkner likened the changes that the Wyoming Division of Banking is implementing to South Dakota’s decision in the early 1980s to eliminate interest-rate caps in order to attract credit card companies to the state. Amid sharply rising inflation rates in the late 1970s and early 1980s, credit card issuers like Citibank were losing money because they couldn’t legally charge enough in interest to offset the general rise in prices.
+
+The South Dakota economy was suffering from depressed agricultural prices, motivating the governor to strike a deal with Citibank to eliminate its interest rate cap in exchange for the company moving its credit-card operations to the state. Today, the financial services industry employs roughly 30,000 South Dakotans out of a labor force of roughly 430,000.
+
+“It’s a useful analogy,” said state Sen. Rothfuss. “That’s the way that a transformative change to the state’s economy can happen just by listening, just trying to identify needs of a changing market and meet the needs of innovation.”
+
+Wyoming, however, does not hold its fate as a future hub for the crypto industry in its hands alone, given that the Kansas City Fed still has the power to grant or deny access to the central bank’s payment system.
+
+“It’s borderline essential” to the success of Wyoming’s charter for the Fed to welcome institutions like Kraken Bank into its system, Forkner said, which would enable real-time settlement of transactions and create a nearly frictionless gateway between the worlds of traditional money and cryptocurrencies like bitcoin.
+
+Kraken Bank’s CEO Kinitsky said that he expects the Kansas City Fed to approve the bank’s application, but argued that federal regulators more broadly have been too slow to provide the crypto industry with a regulatory framework specific to this new technology.
+
+“You hear about the concept of the innovator’s dilemma in business, but it happens in government as well,” he said. “The United States is the de facto leader in financial services by some margin, so we have bigger fish to fry. When you’re a smaller jurisdiction whose financial infrastructure doesn’t support the global economy, it’s a different proposition and you can move much faster.”
+
+But Wyoming is now forcing federal regulators to at least stake out a position on these issues, and he believes the crypto economy could be a boon to the state for years to come.
+
+“We’re already seeing other states borrowing liberally from the Wyoming playbook, but their moat is not what’s on paper,” he said. “Wyoming’s secret sauce is they have a very supportive legislature, public opinion and governor’s office that view this is an important industry.”
+
+See also: Crypto for the long term: what’s the outlook?

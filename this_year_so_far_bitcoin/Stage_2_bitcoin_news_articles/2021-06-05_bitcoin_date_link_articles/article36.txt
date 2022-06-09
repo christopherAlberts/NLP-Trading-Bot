@@ -1,0 +1,17 @@
+Square Inc., a crypto-friendly mobile payments company, is planning to invest $5 million in a solar-powered Bitcoin (BTC) mining facility for Blockstream Mining, offering further insight into Jack Dorsey’s continued support for blockchain infrastructure.
+
+Chris Cook, Blockstream’s chief information officer, announced the collaborative partnership on Saturday, where he outlined plans to build the open-sourced mining facility at one of Blockstream’s United States operations.
+
+"Together, we plan to provide public transparency by sharing the project economics and knowledge we’ve gained from building a Bitcoin mine powered by renewable energy,” he said, adding:
+
+“Ultimately, we hope to demonstrate how bitcoin mining in conjunction with renewable energy can help drive the clean energy transition.”
+
+In addition to providing regular reports on the status of the project, the new initiative will also feature a so-called public performance dashboard, where anyone can pull real-time metrics of the mining facility.
+
+Bitcoin mining has been the subject of extreme media scrutiny after Tesla CEO Elon Musk decided to stop accepting BTC payments for Tesla cars, citing grave environmental concerns.
+
+MicroStrategy’s Michael Saylor brokered a truce between Musk and the Bitcoin mining community last month by bringing both sides to the table for high-level talks. The industry-led Bitcoin Mining Council emerged out of the meeting, with miners vowing to accelerate sustainability initiatives.
+
+As for Square Inc. the Jack Dorsey-led company has been ramping up efforts to boost adoption of Bitcoin and cryptocurrencies. Cointelegraph reported Friday that Dorsey is strongly considering developing a Bitcoin hardware wallet in an effort to bring self-custody and financial inclusion to the masses.
+
+"If we do it, we would build it entirely in the open, from software to hardware design, and in collaboration with the community,” he said in a Twitter post.

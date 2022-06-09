@@ -1,0 +1,39 @@
+Digital assets, in one form or another, are making their way into big business.
+
+The headline-grabbing version of this is straight-up BTC on the balance sheet, a renegade charge being led by MicroStrategy (MSYTR) CEO Michael Saylor, who is known for warning corporates that capital in fiat is being debased.
+
+Saylor’s MicroStrategy event this week included a playbook, going into the nuts and bolts of things like qualified custodians, hot and cold wallets and so on. Square (SQ) provided a similar guide in October.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+It’s worth stepping back and remembering what unlikely bedfellows mainstream corporate treasury management and bitcoin really are – and how unthinkable this would have been a couple of years back.
+
+That said, MicroStrategy is not alone when it comes to fielding these sorts of discussions. At the end of last month, an event hosted by the Association of Corporate Treasurers (ACT) featured London-based crypto custodian Copper in discussion with IKEA’s treasury group.
+
+It’s a conversation corporate treasurers should be having, said Naresh Aggarwal, associate director at the ACT, even if the reality of getting into this new asset class remains some way off for many.
+
+“Through experience and from our qualifications, most treasurers are familiar with applying security, liquidity and yield when it comes to investing. In that order,” Aggarwal told CoinDesk in an interview. “Ultimately, if a board decides it wants to ride the coat-tails of a market that is potentially continuing to go up, that’s a choice that should be based on the risk appetite of the company – informed, of course, by their treasurer.”
+
+Aggarwal agreed the discussion around whether crypto is a hedge against inflation is an interesting one, but pointed out that countries like the U.K. are not running into an inflationary environment.
+
+“Most G20 countries are not experiencing high levels of inflation and in the U.K., I think inflation recently ticked up to 0.8%,” Aggarwal said. “I can’t see us returning to the days of inflation rates of 8% or 9% any time soon. If you’re in Venezuela, for example, then that’s a very different situation.”
+
+While corporate treasurers wait and see what happens to Saylor’s capital reserves, many players understand the inevitability of digital and crypto-enhanced forms of payment and tokenized asset plays. Last year’s regulatory recommendations from the U.S. Office of the Comptroller of the Currency (OCC) only served to confirm this.
+
+MicroStrategy's bitcoin reserves have grown Source: CoinDesk Research, FactSet
+
+Ledgermatic for the people
+
+Making its first immaculately timed outing this week, Ledgermatic, a startup helmed by former PwC, IBM and BTC.com executives, is offering a range of tools to future-proof corporate treasury management in light of the coming digital-asset economy.
+
+Ledgermatic CEO Luke Sully says the likes of Michael Saylor and Jack Dorsey must be recognized as the first corporate evangelists for this use case.
+
+“This will be an interesting test case for the BTC on the balance sheet,” Sully said in an interview. “It would appear that theirs are a long-term approach and not for short-term gains. I expect CFOs and treasury teams will be watching and scratching their heads, thinking of the other questions this raises and exactly how to manage this particular asset and get the benefit while reducing exposure to its price volatility.”
+
+Corporates have to account for crypto differently than investment funds do, Sully pointed out, adding that most CFOs and finance teams just don’t have the tools available to them to manage and integrate digital-asset workflows.
+
+“There are some procedures we have gamed out for anyone thinking of adding crypto to their balance sheet,” he said.
+
+It’s also worth remembering that Square is a payments company that is naturally involved in fintech, while software is native to MicroStrategy. Even some insurance companies that are said to be looking at crypto, may well have been through a process of tire-kicking with custody providers that are looking for cover.
+
+Speaking at the Copper/ACT webinar, Michael Aandahl, IKEA Group’s head of digital treasury, said the “early birds” moving towards digital assets are often already close to this area in terms of their core business.

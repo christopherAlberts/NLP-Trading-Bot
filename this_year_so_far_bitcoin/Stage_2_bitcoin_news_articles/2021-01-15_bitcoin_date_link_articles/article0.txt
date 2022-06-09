@@ -1,0 +1,69 @@
+Bitcoin prices are on the rise, notwithstanding a recent bout of weakness, but experts interviewed by MarketWatch caution that although it may feel inevitable, an exchange-traded fund backed by a digital-currency may not be seen as quickly as enthusiasts might hope.
+
+“The SEC appears to have a very high bar to clear, tied to market manipulation and custody audit,” Todd Rosenbluth, head of ETF and mutual fund research at CFRA Research told MarketWatch in emailed comments on Friday.
+
+Fresh talk of an ETF backed by a digital asset like bitcoin or an alternative comes amid a surge in institutional interest in the value of the overall complex of virtual assets. The value of digital currencies hit a record at $1 trillion earlier this month as bitcoin prices BTCUSD, +0.99% surged to an all-time high at $41,958, according to CoinDesk.
+
+Speculation around the prospects for an investment fund that would be more accessible to individual investors also comes as Wall Street’s top cop, the Securities and Exchange Commission, is set to be headed by a veritable bitcoin expert: Gary Gensler, a former head of the Commodity Futures Trading Commission and a professor of cryptocurrencies at Massachusetts Institute of Technology.
+
+President-elect Joe Biden on Monday tapped Gensler to serve as SEC chairman. With his knowledge of cryptos, Gensler would pair well with Hester Peirce, an SEC commissioner who has become a vocal advocate for digital assets and who is affectionately referred to as “crypto mom” by bitcoin bulls.
+
+However, hope that Gensler and Peirce might fast-track a much-hoped-for bitcoin fund with an ETF wrapper may be a bit premature, at least in the near term, experts said.
+
+“As the infrastructure around [bitcoin] grows, we expect an ETF to come to market eventually, but it is unclear when and we are skeptical it will be in 2021,” Rosenbluth told MarketWatch.
+
+Since 2013, a bitcoin ETF has been a virtual Holy Grail for fans of digital assets, with the aim of providing individual investors easier access to bitcoins at a low cost and in ETF wrapper.
+
+To be sure, an ETF sponsored by Van Eck Securities Corp. and SolidX Management offers qualified investors, mostly hedge funds and wealthy investors, access to a bitcoin-backed trust, but that offering failed to meet hopes for a fund that delivered cryptos to the masses.
+
+Jan van Eck, chief executive of a family firm founded several decades ago bearing his name, told MarketWatch in an interview earlier this week that he’s still intent on making a bitcoin ETF a reality, despite past rejection by the SEC.
+
+“We’re going to keep trying,” he said. “The way the regulations work is you file, you have conversations with the SEC and if it looks like you’re not going to get approved, you pull your application,” he said.
+
+Rosenbluth estimates that about seven firms over the years have tried and failed to get clearance for a digital-currency ETF — including Gemini, founded in 2014 by Tyler and Cameron Winklevoss.
+
+Much has changed for bitcoin and its ilk over the years, with a wave of institutional investor interest in the sector helping to foster a fresh rally in coins and renewed hope for products that offer a wider array of investors access.
+
+However, lingering questions about infrastructure in a market that didn’t exist until 2009 (and arguably not until years after the first bitcoins were digital minted) have given regulators reason to slow play a crypto ETF.
+
+“In general, the SEC is concerned about market manipulation. They’re concerned about custody. And then I think they’re just concerned about the maturity of the market,” van Eck said.
+
+Amy Lynch, a former SEC examiner and president and founder at consultant FrontLine Compliance, said that the question of how to value bitcoins and other cryptos may be the biggest issue for regulators.
+
+It trades “purely on speculation as opposed to a real value denominator,” Lynch said.
+
+“In order to price a security,” if bitcoins and other assets are deemed as such, “in a methodical way it has to be pegged to something priced in a repeatable standardized way,” Lynch said.
+
+The FrontLine consultant said that the inability to price cryptos makes them more vulnerable to manipulation and harder to regulate.
+
+“Price stability comes from being able to effectively value it in a proven and repeatable and standardized method,” she said.
+
+“The question is always, what’s the price,” van Eck also noted. “You have to have a completely trustworthy infrastructure,” he explained.
+
+Bloomberg News on Friday that Gensler may be inclined to take a firm look at bitcoins and the cypto complex.
+
+“If it gets broad adoption, if we really think the crypto world is going to be part of the future, it needs to come inside of public policy envelope,” Bloomberg quoted Gensler saying in a 2018 interview.
+
+That sort of talk may be grist for the bulls who see it as an implicit nod to the eventuality of a digital-currency ETF.
+
+“I do think [Gensler] has knowledge and interest in that space,” said FrontLine Compliance’s Lynch.
+
+She cautioned, however, that pursuing an ETF may not be a high priority for Gensler, should he be nominated.
+
+“It is not a question of if, it is a question of when,” said Michael Sonnenshein, managing director at Grayscale, one of the largest managers of cryptocurrencies via the Grayscale Bitcoin Trust GBTC, +7.47% and similar ethereum-focused investment entities.
+
+Sonnenshein said that the market infrastructure has evolved significantly from three years ago when there was a retail-fueled fervor that was capped by an epic collapse in bitcoin’s price in early 2018.
+
+Lynch said that she doesn’t doubt that an ETF will happen but warns that the SEC may have larger priorities at hand.
+
+“I agree that it isn’t a question of if but when, but it will take time and it’s not going to happen in early days of his role in the SEC,” Lynch said.
+
+“This is going to take a lot of time and effort,” the former SEC examiner said.
+
+And in the end, even if a bitcoin ETF does come to pass it may be a problem, at least in the early days, for the market as investors pour out of investments like Grayscale and into new low-costs alternatives, speculated JPMorgan Chase & Co. analysts in a Jan. 8 research report.
+
+“A cascade of GBTC outflows and a collapse of its premium would likely have negative near-term implications for bitcoin given the flow and signaling important of GBTC,” the JPM analysts wrote.
+
+Meanwhile, investors will have to turn to Grayscale, and other bitcoin-adjacent assets like mining stocks Marathon Patent Group MARA, +12.77% , Riot Blockchain RIOT, +14.08% and others, which have their own inherent risks of volatility.
+
+Read next: 6 reasons bitcoin is trading at its highest level since 2017 — and 1 warning

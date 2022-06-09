@@ -1,0 +1,97 @@
+The limitations of physical reality are what make certain creations divine. Bitcoin reflects these properties in the digital realm.
+
+If Bitcoin were a mechanical watch, the fee market (not the free market) would be the mechanism making everything tick.
+
+This is where everything starts and ends.
+
+This is where censorship resistance comes from and where the precious resource of block space gets priced into energy consumption.
+
+The Bitcoin fee market is the first man-made free market that ever existed.
+
+In a free market:
+
+No third party can intervene in pricing
+
+No one can stop you from participating
+
+Participation is voluntary
+
+Most markets that emerge naturally are actually free; it is the man-made ones that usually struggle with this property.
+
+If you believe in the efficient-market hypothesis, then you know how important markets are and how they can help us to solve many problems.
+
+Most of the problems that humans have ever faced were coordination problems. One obvious solution is to create a dominance hierarchy and elect a leader on top of it. This worked wonderfully for a long time, but as soon as our world became complex, which it did because we made it so, this started being less and less effective.
+
+Another issue with such structures is that there is one single point of failure, which makes them prone to corruption. Markets have the same issue if they are not built on trustless, censorship-resistant infrastructure.
+
+Bitcoin : An Analog-To-Digital Converter Function
+
+There are two worlds:
+
+1. The realm of the tangible, the real: the world of thermodynamics
+
+The constraints of the “real world” are enforced by the laws of physics. I can’t put my hand through a wall, or if I do, I need to push through the wall with greater force than the forces that hold the wall together, and my bones need to be able to resist the force with which the wall pushes back at me. If there is a coin on a table, I can’t really copy it. The best option is to obtain some materials and then spend some time and energy crafting a new, identical coin. As we evolved in this world, we learned to use these constraints to our advantage.
+
+2. The realm of the intangible, the abstract: the digital world
+
+In the “digital world,” the rules are different and almost nonexistent, and that is great. That’s why we created computers in the first place: to escape the limitations of our physical reality.
+
+Here, you can listen to Joe Rogan at double speed.
+
+Here, you can send nude photos across the world, limited only by the speed of light. Your nudes can then be copied with minimal effort and leaked on the internet just as easily.
+
+Most of the time, we don’t really need to have a solid connection between the two worlds, as there are clear delimitations between them and expectations about their relationship. It would be absurd to presume Pamela Anderson could jump out of the screen and shake your hand.
+
+With money, it’s different. Money is the most important coordination problem. Furthermore, even though there are boundaries between the two worlds, sometimes we need a bridge and a common context.
+
+Bitcoin provides this context by enforcing the hard, physical properties of the real world without losing the flexibility of the digital world.
+
+Bitcoin converts analog energy into digital blocks, and this is done through the mempool.
+
+A Look At The Process
+
+An ASIC (application-specific integrated circuit) mining machine is connected to a power source. Through the wall socket, electricity powers the machine. This machine is incredibly dumb, as it can do only one thing: calculate as many SHA256 hashes as possible per unit of time. As a result, heat is dissipated.
+
+This miner runs its own node.
+
+Going through the pile of unconfirmed transactions (“the mempool”) with capitalistic desire, the machines sort the transactions by who is willing to pay more per virtual byte of block space and then pick the ones that are the most expensive. At this point, they have a rough idea of what will go into the block.
+
+Other data is also added to the block header: a reference to the previous block, a magic number that is really not that magic, and some nonspecific data. All the data is hashed by the machine.
+
+All of this is done at an incredible speed (about 110,000,000,000,000 tries per second per machine), and the environment is very competitive, as everyone wants to get the 6.25 BTC given by the network for each block confirmation, in addition to the juicy transaction fees they get to pocket.
+
+The winner is the first miner to find a hash with a value smaller than the current mining difficulty target.
+
+This is what we call proof of work.
+
+This process transitions energy from a very hot mining farm in some part of the analog world where electricity is cheap to the digital blockchain. This transition was very subtle: somewhere in the mempool, the two worlds merged.
+
+Bitcoin And The Creation Of Adam
+
+The Sistine Chapel resembles Bitcoin in many ways: many people contributed to it, it is wonderfully complex, and regardless of the angle from which it is observed, it can provide some amazing insight. It has withstood the test of time, and even though it has been updated, the updates were always done in a backwards-compatible way.
+
+However, for whatever reason, most of the time when the Sistine Chapel is referenced, one specific part of it gets more attention than others: “The Creation Of Adam.”
+
+Why is this? Is it just because Adam’s creation was when we began our existence as a human species?
+
+No. It’s much more than that. At this moment of inception, we were not only touched by the divine, but we were divine, and we are made by it and of it, and as such, we inherit all the characteristics of God. For a short moment, we almost looked the same.
+
+Ever since God created humanity, that small gap between the fingers grew larger and larger, and the flow of energy was unidirectional, from God to humans, or as portrayed in the painting, from right to left.
+
+The reason why God is impressive is not just because He created things; we do that every day. It is because he created a world that has solid anchors—immovable objects.
+
+In reality, there is no such thing as an immovable object. There are only objects that require large amounts of energy for their momentum to be changed. The same thing is true for bitcoin transactions.
+
+By inventing Bitcoin, we did the same thing that God did: we created an immovable digital object, and as a result, we began closing that gap between ourselves and divinity. We are getting closer and closer to our noble origins.
+
+On January 3rd, 2009 at 18:15:05, it all changed. That’s when the first Bitcoin block was mined. That is when we become Gods of the digital world. That is when, for the first time ever, the flow of energy changed direction: from left to right.
+
+Bitcoin is the link between the two worlds: chaos and order, real and digital, uncertain and certain, unconfirmed and confirmed.
+
+Even though we talk about these two different parts, there is no clear separation between them. We can’t really say where man ends and God begins, as it is up to every man to draw that line for himself. The truth is that there is no actual line, only a gap that either becomes ever smaller, or not.
+
+In the same way, there is also no such thing as the mempool: there is only your mempool. Each node operator decides which unconfirmed transactions to store locally on their hard drive and propagate further through the network, thus deciding the thickness of the line between unconfirmed and confirmed.
+
+And it is here, in the mempool, where man becomes God.
+
+This is a guest post by Alex. Opinions expressed are entirely their own and do not necessarily reflect those of BTC, Inc. or Bitcoin Magazine.

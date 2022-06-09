@@ -1,0 +1,53 @@
+The Problem With Painting Blockchain With a Crypto Brush
+
+Blockchain’s underlying decentralized ledger technology has many practical applications, yet, the value of the technology itself has in practice become secondary to token capitalization.
+
+Speculation in Coins and Tokens Routinely Overshadows Promising Developments and Initiatives
+
+As major governments and central banks worldwide continue labeling bitcoin and its cohorts as means to engage in criminal activity, primarily because it remains out of their purvey and control, this attention overshadows a more constructive conversation on the actual value of blockchain.
+
+With the public discourse centered mainly on bitcoin and its inherent value or threat to legacy systems, the seminal cryptocurrency has in many ways blocked out any meaningful discussion on blockchain technology’s extraordinary potential. Given that many commentators choose to paint blockchain with Bitcoin’s brush, the notion that decentralized ledger technology (DLT) is anything but speculative remains pervasive.
+
+In reality, there are many practical applications for blockchain technologies, whether building scalable educational ecosystems, handling the connectivity and security needs of IoT systems, digital voting, identification mechanisms, and more. Accordingly, for blockchain to truly thrive and achieve more widespread adoption, the industry must refocus the conversation on worthwhile advancements and how these developments are beneficial for a wider audience.
+
+Breaking Away From the Financial Focus
+
+Finance is one of the prominent and most apparent uses for blockchain technology, given its speed, low costs, and scalability. Decentralized finance (defi) has been a magnet for attention in this environment but still presents a very narrow view of blockchain’s capabilities.
+
+For instance, given its architecture, blockchain can be instrumental in supply chain management and global trade, especially when it comes to immutably recording transactions and tracking chain of custody. International shipping is still heavily reliant on physical paperwork and processes that haven’t changed in centuries.
+
+Among the companies endeavoring to change this paradigm is Wave, which digitizes the paperwork that supports global trade flows. By bringing a new format to the industry, the organization leverages blockchain to construct provable digital original paperwork to support every shipment. Besides reducing costs and the need for couriers, this system also fights against paper-based fraud and risks of loss.
+
+Another operator in this area is Mavennet, an organization that helps companies build blockchain-enabled solutions and products. Among its flagship products is a resource management tool, Metal Trail, which can track steel throughout the entire supply chain.
+
+From smelting to its final destination, users can determine the origin, composition, and steel specifications, helping avoid the paperwork falsification that costs the industry millions annually. However, beyond the enterprise applications that are shaking up brick-and-mortar industries, there are other ways blockchain is disrupting established constructs.
+
+A Powerful Force for Social Good and Environmental Awareness
+
+Among the attractive qualities that underpin blockchain technology is the idea of greater transparency and accompanying social good that can come of the technology.
+
+Among the organizations taking this unique approach is Plastic Bank, an ecosystem fighting back against plastic waste by incentivizing recycling. This project builds recycling management programs that collect plastic waste, much of which ends up in the ocean, repurposed and reused by multinational companies like SC Johnson.
+
+Individuals who collect plastic are rewarded for their efforts, helping communities in less developed countries afford essentials and necessities. Besides fighting plastic pollution, this blockchain-based ecosystem tracks plastic waste through asset-backed tokens, providing unparalleled transparency. Moreover, anyone with a phone can participate, helping empower communities that face serious economic challenges.
+
+Another significant effort in social good is being spearheaded by Etoro. Its non-profit Good Dollar initiative aspires to spread a digital universal basic income through the use of technology. More than just a universal basic income project, Good Dollar effectively operates as a social impact investment vehicle that aims to improve financial literacy, especially in the area of digital assets, among its users.
+
+Anyone can register for the platform to be eligible for a small daily payment in the blockchain’s native G$ coin. More powerful than its standalone offering is Good Dollar’s capability to fold in other social-oriented projects. Already, the platform has been extraordinarily successful after more than 220,000 users across 181 countries collected G$ tokens.
+
+The recently announced tie-up with Bitminutes underscores this point. Bitminutes, which tokenizes prepaid airtime credits via its native BMT coin, intends to deliver greater financial inclusivity in developing countries where access to financial services and credit is severely constrained. Prepaid phone credits are already a popular form of currency in South America and Africa, so blockchain tokenization represents a straightforward means to build on top of this existing architecture.
+
+This new partnership between Good Dollar and Bitminutes means that G$ will now be exchangeable for BMT, helping further both organizations’ missions to help less fortunate communities while educating consumers on blockchain technology.
+
+Even the NFT arena, though highly speculative, is pitching into this effort. Social Alpha Foundation, an organization focused on blockchain awareness and education, demonstrated how blockchain could be a positive driver of climate awareness and shift overarching perceptions about the magnitude of the challenge with a recent charity auction that featured works from acclaimed NFT artists. Auction proceeds were donated to Openearth, which advances open-source platforms focused on combatting climate change.
+
+Dispelling the Myth That Blockchain Is All About Bitcoin
+
+It’s easy to overlook the exciting blockchain projects addressing all manner of different problems or legacy structures by focusing solely on Bitcoin’s daily price volatility. Yet, doing so gives a skewed perspective of blockchain and its very practical use cases outside of financial speculation.
+
+There are hundreds, if not thousands of organizations, which have dedicated their resources to harnessing blockchain’s immense potential, and this figure continues to grow. With enterprises and individuals benefiting from this technological shift, the pundits and institutions fighting Bitcoin are missing the bigger picture: blockchain is valuable, even without the token economy.
+
+Do you see blockchain, as an ecosystem, assuming a more significant role in social good and environmental awareness? let us know in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, Crypto Chronicle, Medium
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

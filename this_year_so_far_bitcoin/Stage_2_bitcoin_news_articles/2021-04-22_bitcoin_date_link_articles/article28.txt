@@ -1,0 +1,11 @@
+In order for bitcoin to remain dominant on the global stage, Ripple’s executive chairman says developers and miners need to ditch proof-of-work (PoW).
+
+Amid the backdrop of Earth Day, Chris Larsen said the PoW consensus mechanism is a massive drain on power consumption and a “growing source” of CO2 emissions, according to a blog post on Thursday.
+
+Instead, the executive argues core developers, miners and exchanges should consider moving away from the years-old mechanism to something less taxing on the environment.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+“Cryptocurrencies that use PoW should consider a code change to another validation method such as Proof-of-Stake (PoS) or Federated Consensus (or something yet to be developed),” wrote Larsen.
+
+The PoW consensus mechanism is costly. The current draw from bitcoin alone amounts to an average of 113 TWh a year, enough to power 12 million U.S. homes, according to data from Cambridge University. The damage to the environment is also considerable with an estimated 63 million tons of carbon dioxide (CO2) released every year, added Larsen.

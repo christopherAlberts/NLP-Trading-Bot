@@ -1,0 +1,33 @@
+PayPal (NASDAQ:PYPL) took the next step to increase adoption of cryptocurrency on its platform this week. Users can now "Checkout with Crypto." Those with enough cryptocurrency to cover a purchase will see a new payment option when they go to checkout at any of the 29 million PayPal merchants across the web.
+
+PayPal has been teasing the feature since it launched the ability to buy cryptocurrency in the digital wallet last year. Now that it's launched, it could further increase engagement with PayPal and push it toward a daily utility.
+
+How Checkout with Crypto works
+
+It's important for investors to understand how PayPal is integrating Bitcoin (CRYPTO:BTC) and other cryptocurrencies into its payments platform. And PayPal made it very clear in its press release announcing the new feature.
+
+Here are the important parts:
+
+Cryptocurrency is converted to fiat currency on the customer's behalf before payment is sent to the merchant in U.S. dollars.
+
+PayPal doesn't charge a transaction fee to pay with crypto, but it does bake in a spread on the conversion from crypto to dollars.
+
+Converting to U.S. dollars before remitting payment to the merchant allows PayPal to support Checkout with Crypto across all of its merchants without requiring anything additional from their side. That gives it another opportunity to win the checkout when customers are deciding how to pay at an online store.
+
+PayPal followed the same strategy with its buy now, pay later product. Merchants don't have to do anything, but customers using PayPal now have more choices for how they want to pay. PayPal could then go back to merchants and show them how advertising buy now, pay later further up in the sales funnel could translate into even more sales for the merchant. The same may be possible with cryptocurrency.
+
+Investors should also note the second bullet point. PayPal isn't charging a transaction fee on purchases made with crypto. Instead, it's making money off the spread in its conversion rates. This ultimately gives PayPal greater control over its profit margin. It also, for better or worse, obfuscates that fee.
+
+Increasing engagement through cryptocurrency adoption
+
+Checkout with Crypto gives PayPal greater utility for fans of cryptocurrency. While customers could previously sell their holdings before making a purchase and use the resulting cash balance in their account to pay for goods and services, the new feature makes the process quick and seamless. Users will only sell as much as necessary to pay for the items in their digital shopping carts.
+
+The increased ease of use of cryptocurrency as a pseudo form of payment could lead to greater adoption of cryptocurrency on PayPal's platform. It could be the deciding factor for some over other cryptocurrency trading platforms, including Square's (NYSE:SQ) Cash App or Coinbase.
+
+That said, Coinbase is developing a debit card that would practically provide the same functionality as PayPal's Checkout with Crypto feature. It wouldn't be a surprise if Square started allowing Cash Card users to pay with Bitcoin at some point, either. But PayPal's massive network of existing merchants and customers could make it a preferred platform to buy and spend crypto.
+
+That's important because PayPal has seen a lot more engagement from users that buy cryptocurrency on its platform. During the company's fourth quarter earnings call, CEO Dan Schulman said crypto users sign into the app twice as much as they did before buying crypto on PayPal. Adding the ability to spend crypto could increase engagement even more, and allow PayPal to start generating a profit from crypto users (via the spread and any additional transaction fees).
+
+PayPal's just getting started in the cryptocurrency space. Schulman expects to see cryptocurrency completely change our financial institutions. "We are already working with the regulators and central banks to reimagine and shape the next generation of the financial system," he said during the earnings call in February.
+
+PayPal quickly caught up to competitors like Square in crypto, and it's pulling away from them just as fast. There's no doubt PayPal wants to make cryptocurrency investing and spending a key facet of its financial super app.

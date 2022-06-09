@@ -1,0 +1,11 @@
+Tesla’s claim to be working towards a zero emissions future took a knock this year when the electric car company opted to invest $US1.5 billion ($1.9 billion) in bitcoin.
+
+Bitcoin miners devour energy. Private investors in the cryptocurrency are financing climate change just as they might by purchasing shares in oil majors.
+
+Miners often opt to move close to places with cheap electricity. In China, home of more mining than any other country, this can mean coal-heavy regions. AP
+
+Environmental costs rise in lockstep with bitcoin prices, which have nearly doubled since the start of the year. The higher the price, the more demand for mining to release new coins into circulation. The more coins are mined, the more complex the proof-of-work algorithm required to add blocks to the bitcoin blockchain.
+
+This, in turn, requires more processing power.
+
+Almost 19 million bitcoins of a possible 21 million have been mined so far. Normal computers are no longer able to do the job. Miners often opt to move close to places with cheap electricity. In China, home of more mining than any other country, this can mean coal-heavy regions.

@@ -1,0 +1,35 @@
+The total amount of funds allocated in “standard” bitcoin futures contracts on the Chicago Mercantile Exchange (CME) slid to an almost six-month low Wednesday, indicating a decline in institutional activity.
+
+The dollar value of open interest – futures contracts traded but not liquidated with an offsetting position – dropped to $1.36 billion, the least since Dec. 16, data from Skew shows. The level has more than halved since mid-April, when the U.S-based Coinbase exchange debuted on Nasdaq.
+
+The number of open contracts also fell, sliding more than 22% in recent weeks to 36,265, according to data provided by Glassnode. These regulated standard futures contracts trade in 5 BTC denominations, require a large capital outlay and are considered synonymous with institutional participation.
+
+“The CME was the favorite liquidity avenue for institutions to hedge their GBTC [Grayscale bitcoin trust] exposure,” Crypto finance firm Amber Group told CoinDesk in a Telegram chat. “However, ever since the GBTC premium eroded, there’s been a lesser impetus for these sort of flows.”
+
+Bitcoin CME futures open interest Source: Skew
+
+The Grayscale Bitcoin Trust (GBTC), from the crypto-asset manager Grayscale, is the largest U.S. investment vehicle for buying bitcoin (BTC) through a stock exchange. Accredited investors can buy shares of the trust at the net asset value, but aren’t allowed to sell them on the secondary market for six months. New York-based Grayscale is owned by Digital Currency Group, the parent company of CoinDesk.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Until February, GBTC shares traded at premiums as high as 40% to the price of bitcoin, attracting institutional investors who intended to redeem them at a premium six months later. They hedged the exposure with a short futures position on the CME. That pushed up the open interest on the CME, making it the biggest futures platform at the end of December.
+
+“Institutions were hedging the outright delta [long GBTC exposure] and capturing the subscription premium,” Amber Group said.
+
+GBTC premium Source: Skew, Amber Group
+
+The trade lost its shine after the premium turned into a discount in February. The situation has persisted ever since, causing a decline in open interest on the CME.
+
+In addition, the price crash in May crowded out excess bullish leverage from the market, leading to a drop in open interest on the CME and other major exchanges.
+
+The amount deployed in futures contracts across the globe is about $11.9 billion, down from $19 billion a month ago. Bitcoin tanked 35% in May on concerns regarding the negative environmental impact of cryptocurrency mining and a regulatory crackdown in China.
+
+Futures contracts on non-regulated exchanges like Binance and Deribit trade in denominations of 1 BTC, one-fifth the size of the CME’s, and are taken to represent retail activity. The CME launched micro bitcoin futures last month. A micro bitcoin is equivalent to 1/10th of one bitcoin.
+
+The CME and other exchanges could continue to see low activity for some time, as the futures premium has declined with the recent price sell-off, making carry trades unattractive.
+
+Cash and carry arbitrage, a market-neutral strategy, involves buying an asset in the spot market against a short position in the futures market when the futures draw a significant premium relative to the spot price. That alllows traders to make a fixed return as the futures premium decays over time and converges with the spot price on the expiry date.
+
+Bitcoin annualized three-month futures premium Source: Skew
+
+Carry trades now offer significantly less yield than they did at the height of the bull market. Skew data show the CME currently offers an annualized rolling three-month basis (futures premium) of 3%, compared with 12% in mid-April. Other exchanges have seen a similar drop, with Binance futures drawing a premium of 8% against 42% in April.

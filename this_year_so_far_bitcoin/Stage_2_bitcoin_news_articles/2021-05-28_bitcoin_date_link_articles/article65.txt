@@ -1,0 +1,129 @@
+The arrival of NFTs in the mainstream has brought a new crowd to cryptocurrency and its blockchain technology.
+
+Non-fungible tokens (NFTs) are tied to files, like serial numbers, to show ownership. They’ve become popular among the arts and collectibles’ crowd.
+
+The format exploded in sales during a high point of this spring’s digital markets. But projections differ wildly. One suggests NFT markets will double by October. Another says sales are cooling.
+
+Not everyone is on board with NFTs, or the crypto-currency ecosystem. Some, who are just becoming aware of the format, are joining environmentalists and others who criticize the cryptoworld’s energy-consuming mining process.
+
+The industry has critics from the finance side, as well. Critics say market upheavals in Bitcoin and other digital currencies mean the digital markets are full of hype, and show instability.
+
+Still, Illinois State University finance professor Alan Cring is among many who believe in riding out the wild rides of the markets — even with last week’s crypto market crash. Cryptocurrencies have real staying power, he said.
+
+Google Maps There are Bitcoin ATMs all around Bloomington-Normal.
+
+And he's not alone, although most stores around here don't use cryptocurrency yet, crypto ATMs are turning up everywhere. A quick search of Google maps shows dozens of locations in the Twin Cities allow using a debit card to buy crypto.
+
+“There will be ups and downs in this. But as it expands, and as more and more very powerful and wealthy institutions and other entities get involved in it, they’re not going to let this go down,”said Cring.
+
+Many blame the crash on China’s altcoin crackdown, U.S. regulatory talk, and on Tesla founder Elon Musk — as an influencer. He has waffled on Bitcoin support, often blasting his views on social media.
+
+To be clear, I strongly believe in crypto, but it can’t drive a massive increase in fossil fuel use, especially coal — Elon Musk (@elonmusk) May 13, 2021
+
+The volatility also matters to digital artist Ryan Bliss of rural McLean County. Bliss said some NFT marketplaces have open access, meaning they could prey on artists unfamiliar with the upload process. Transaction fees sometimes are high, regardless if the artist ends up earning any profits.
+
+“That’s what I worry about, that these community marketplaces are kind of taking advantage of the hype and selling shovels during the gold rush,” said Bliss.
+
+Others say the biggest obstacle for cryptocurrency is also its strongest feature; it isn’t tied to a country. Illinois Wesleyan University finance professor Jaime Peters said decentralization — having the checks and balances performed by users as a whole — was core to the creators of industry giant Bitcoin.
+
+That platform disrupted the financial world in 2009 when launched by Satoshi Nakamoto (the pseudonym of the person or group behind the launch.) In little over a decade, the landscape has evolved to many platforms.
+
+“What’s behind Bitcoin? There’s nothing. There’s nothing there. There’s no central government manipulating it, which is true. But there’s also no central government supporting it,” said Peters.
+
+These cryptocurrency platforms make the users as a collective responsible, rather than in individual company or government.
+
+“There is nobody responsible for any problem happening. So, there’s no guarantee of protection,” echoed Shaoen Wu, State Farm Endowed Chair for ISU’s cybersecurity program. He's in favor of more regulations for the industry.
+
+Some investors like cryptocurrency's decentralized model because of its low-interest rates and possible high yield, according to Jim Jones, executive director of ISU’s Katie School of Insurance and Financial Services.
+
+He said cryptocurrency also can be a way to diversify portfolios, beyond the traditional options of gold, platinum, or silver. Typically you have those commodities, so when the world seems more risky, you have something to fall back on if big wars disrupt these real-life currencies. Maybe, cryptocurrencies could be that, he said.
+
+Other investors don’t like the lack of consumer protection, and the fact criminals use the virtual cash to get non-traceable payoffs, said Jones.
+
+The recent Colonial Pipeline cyberattack resulted in a ransom of $4.4 million dollars — in Bitcoin.
+
+Mining’s environmental costs
+
+Then there’s global climate change drawing other critics to the scene.
+
+One of the biggest criticisms of the cryptocurrency world is its reliance on a proof-of-work model. Earlier this month, Tesla’s Musk joined the vocal critics, calling on the industry to move away from the model -that uses a ton of fossil fuels.
+
+This spring, as NFTs gained a huge following, it also brought more people to consider the concerns about the carbon footprint from NFTs processing.
+
+Bliss said many in the digital arts community paid attention when ArtStation announced plans to launch its own NFT platform. Less than a day later, they ditched the plan because of so much backlash.
+
+And Bliss said on one of his Digital Blasphemy social media pages, a recent discussion on NFTs drew more than 250 comments. Most of the artists, and art fans, on the thread seemed to be collectively scratching their head about the new format. Many were concerned about the environmental costs.
+
+ISU’s Cring also is a digital artist. He’s uploaded some of his art as NFTs. He said Bliss’ concerns about artists getting swept up in a “gold rush” mentality has some truth to it. So, he encourages fellow artists to research marketplaces before making the leap to creating NFTs. Some marketplaces only will charge "gas," or transaction fees, if the NFT sells.
+
+But it's much more common that gas fees are part of the uploading process, regardless if an item sells. Those gas fees are an environmental concern.
+
+A move to more energy-efficient models
+
+Cryptocurrency’s infrastructure — created with Bitcoin’s launch — is blockchain. That’s a decentralized, digital ledger. Peters said think of the record keeping like this: First, we used a single bank, then a computer network and later a cloud. Now we have blockchain.
+
+“It sits on thousands and thousands of computers,” she said. Instead of a single government backing the transaction, all the users do, creating a web of interconnected, duplicated records.
+
+But that model’s original form, using a proof-of-work model, has drawn heavy criticism for its impact on the environment.
+
+In proof-of-work, blockchain uses complex computer calculations to solve equations. In cryptocurrency models, closing a block results in earnings for miners. That’s what the gas fees are tied to.
+
+That leads to an incentive to go and find the next coins. So you have more and more energy being used. Crypto’s growth has translated to mining warehouses filled with energy-guzzling computers.
+
+Moving to proof-of-stake is the direction of most new platform developers for this reason. Various test nets are popping up, including Ethereum 2.0. And Cardano, EOS, and Tron are just a few. Another new kid in town is a cryptocurrency called Internet Computer. That token allows users to create apps, websites and other web-based services
+
+Internet Computer: Blockchain Singularity
+
+Some Central Illinois digital artists won’t make NFTs yet, partly because of this issue. But others say participating doesn’t prevent a focus on green solutions.
+
+ISU creative technologist Rick Valentin, who released a set of NFTs this spring, said NFTs are just a drop in the bucket of the digital markets. Reducing carbon emissions drastically is imperative, but that includes emissions from oil and plastics, too, he said.
+
+ISU physics professor David Marx, who teaches classes on energy and the environment, said after reading up on this topic, he’s not a fan. He said major digital currency blockchains only process a few transactions at a time— with an enormous electrical power drain.
+
+Some estimates show Bitcoin and Ethereum — the latter which caters to NFTs — have a combined annual electricity usage equal to 9.4 million U.S. homes, according to Marx.
+
+Jones calls Bitcoin the most damaging to the environment because of its sheer size.
+
+The website Digiconomist has been at the forefront of tracking the impact, updating those figures regularly on its bitcoin energy consumption index. Signs show the energy usage continues to rise.
+
+And Jones blame’s Musk’s celebrity move into Bitcoin — with a $1.5 billion investment — for drawing hordes to the platform, thus shooting the energy usage through the roof.
+
+The billionaire's influence could swing the pendulum toward greener cryptocurrency too, though. Last week after he spoke against Bitcoin's proof-of-work model, more miners announced they'd be joining the Crypto Climate Accord.
+
+The private-sector led movement — based on the Paris Climate Agreement — aims to create a cryptocurrency world with zero carbon emissions by 2030.
+
+There are nearly 5,000 cryptocoins. The growing field is finding more identifying as green.
+
+Cring said those new-developing cryptocurrencies are more often than not working toward more energy-friendly versions. But he said the tech world needs to think even further outside the box.
+
+“We need to create blockchain on green energy, build a better blockchain,” he said. “Make it so the blockchain — every level — proofs its own ability to sustain itself,” he added. Tech company Devvio is exploring that kind of zero-emissions idea.
+
+Not all blockchain is about money
+
+The coin versions causing the climate damage are just one type of blockchain in use, said Shaoen Wu, ISU's State Farm endowed chair of cybersecurity.
+
+Blockchain just refers to a specific type of database — one that stores its information in blocks, that chain together. After a block closes, the information is locked there, and not able to be changed or erased. One growing popularity use for blockchains is decentralized apps, or Dapps for short.
+
+Illinois Wesleyan University’s Jaime Peters notes industries such as accounting and finance like Blockchain’s permanent transactions, and records that can’t be altered or lost, adding State Farm Ilikes it, too.
+
+Wu said blockchain technology will mature, but it’s a mystery how it will turn out.
+
+“It will come somehow. But in what kind of format? That I don’t know,” he said.
+
+When looking at cryptocurrency, blockchain and other developments, it’s important to remember technology in and of itself isn’t good or bad, said Wu. How people use it is key, he noted.
+
+Wu explores ways to stop those bad actors in how cryptocurrency fits in with the fields of artificial intelligence and the newer field of Internet of Things. He said some cybersecurity faculty have focused research on the blockchain, and students in the program get the opportunity to see how their future roles in security will interact with that technology, too.
+
+At one time people couldn’t imagine a tiny phone-slash-computer could fit in a pocket, or that we could see a friend’s face a continent away and have a live conversation. But that’s normal to us now.
+
+Some see NFTs as disrupting how the art world does business. Some see cryptocurrency as disrupting the financial world. But Cring said blockchain’s arrival into our daily lives represents a much larger cultural moment.
+
+“This is disruption. There’s not a continuity of experience that’s going to happen. This isn’t down the road. This is happening right now, all around us,” he said.
+
+Cring said NFTs, and related technologies, are here to stay regardless of people’s opposition.
+
+“Those of you who don’t want to do NFTs, go for it. You’re following your conscience, I admire that. However, it’s still going to happen,” he said.
+
+But unfortunately, responsibility for the environment, responsibility to human rights and all of those things are secondary matters to business, according to the finance professor. Business will do what it must to create the newest products and knowledge. That’s very related to the digital world, he said.
+
+“Unless the Internet dies, this isn’t going away,” he said.

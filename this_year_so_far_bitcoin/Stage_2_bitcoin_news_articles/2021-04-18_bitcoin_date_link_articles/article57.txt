@@ -1,0 +1,27 @@
+Cryptocurrencies are hot news. Visa announced that it would test a type of cryptocurrency on its network. Elon Musk proclaimed that Tesla would accept cryptocurrency in payment for its vehicles. Bitcoin’s value is soaring.
+
+Merchants may be wondering if cryptocurrencies are ready for mainstream ecommerce. The answer is no. Here’s why.
+
+8 Reasons to Avoid Cryptocurrencies
+
+Problem 1: Volatility. The value of national fiat currencies such as the U.S. dollar fluctuates slightly. The buying power of the U.S. dollar, even in times of relatively high inflation, is more or less the same now as in a few months.
+
+Cryptocurrencies, on the other hand, are remarkably volatile. One year ago, bitcoin traded at roughly $10,000. Today, it trades at approximately $60,000. It’s the equivalent of 17 cents expanding to $1.
+
+To overcome volatility, the cryptocurrency industry has created stablecoin, a type of cryptocurrency that has its value tied to a more stable asset such as the U.S. dollar or gold. However, stablecoin is not yet widely adopted, in part because crypto speculators do not like stability as it harms their earning potential.
+
+Despite what crypto proponents claim, the possibility of a meaningful drop in the value is frightening. It’s too great of a risk for small- and medium-sized ecommerce merchants.
+
+Problem 2: No rewards. Consumers use credit cards, in part, to earn cash-back and point-based rewards. Issuers offer these incentives to motivate consumers to pay with cards. There is no large-scale crypto equivalent to Citi’s Double Cash card or Amazon’s Prime Rewards Visa, or any of the hundreds of other popular loyalty programs. The lack of those programs is a disincentive to use crypto for routine payments.
+
+Problem 3: No consumer protection. Chargebacks are expensive and time-consuming for merchants. Nonetheless, they are an important part of the credit card ecosystem. Knowing that they are not responsible for fraudulent credit card purchases gives consumers confidence. Crypto payments have no such protections. A customer has no recourse if the merchant does not deliver on its commitments. Merchants have no legal or contractual obligation to refund a crypto purchase, although they may choose to do it. A consumer could presumably sue a merchant, but it’s unlikely.
+
+Problem 4: Not universal. Cash is universal. Credit and debit cards are universal. Cryptocurrency is not. There a slew of cryptocurrencies, but using crypto payments for retail purchases remains an anomaly. Only a handful of payment gateways (and even fewer point-of-sale terminals) process crypto transactions. Bottom line: Cryptocurrencies are too difficult for consumers to obtain and for merchants to accept.
+
+Problem 5: Fragmentation. There are approximately 5,000 cryptocurrencies. Banks, payment processors, and merchants are largely unsure how to process the thousands of available options. New “coins” pop up seemingly daily. Which ones should merchants accept? What if a consumer wants to pay with the latest cryptocurrency, but the payment gateway cannot process? In contrast, consider national currencies. Most large financial institutions deal with about 150 sovereign currencies, at most. The United Nations recognizes 180.
+
+Problem 6: Expensive. Typical rates for accepting cryptocurrencies for online purchases are about 1 percent, roughly 1 percent lower than most credit cards. However, accepting crypto becomes expensive when integrating and maintaining a separate payment gateway and adding currency-conversion fees. The latter point, converting cryptos to fiat currencies, is the real catch. Merchants should carefully consider that cost as the rates are generally high, wiping out the savings from the low transaction fees.
+
+Problem 7: Security risks. Cryptocurrency is essentially digital cash. Stolen credit cards and bank accounts are gigantic headaches. However, unless the account holder was negligent, the issuer or bank will return the money. But not so with cryptocurrencies. Once stolen, cryptocurrencies are gone forever — with no recourse. Thus holders of cryptocurrencies must add security measures to protect their accounts.
+
+Problem 8: Coming regulation. National and local governments worldwide are contemplating taxing, banning, limiting, or controlling cryptocurrencies. Several countries are in the early stages of creating their own national cryptocurrencies, called CBDCs (central bank digital currencies). Interested merchants and consumers should let the dust settle.

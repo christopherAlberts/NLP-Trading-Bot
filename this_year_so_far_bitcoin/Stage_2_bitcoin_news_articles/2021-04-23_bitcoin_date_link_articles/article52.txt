@@ -1,0 +1,25 @@
+The head of South Korea’s financial regulatory agency has created controversy by saying all the country’s cryptocurrency exchanges could be shut down in September.
+
+During a meeting of the National Assembly’s policy committee on April 22, Eun Sung-soo, chair of the Financial Services Commission (FSC), said the agency has yet to receive any any Virtual Asset Service Provider (VASP) applications required under a recently amended law going into effect later this year.
+
+“There are an estimated 200 cryptocurrency exchanges in the country,” he added. “But if the current situation continues then all of them could be shut down.”
+
+Eun was referring to South Korea’s anti-money laundering (AML) law, the Financial Transactions Reporting Act (FTRA), which was amended last year to apply to crypto exchanges. The legislation requires VASPs to register with financial authorities.
+
+The FSC began accepting applications for registration on March 25, but no exchanges have applied yet. Exchanges have until Sept. 24 to have their registration approved by the FSC. The FSC will only approve exchanges that can sufficiently demonstrate the robustness of their AML systems.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+On April 19, the government’s policy office issued a statement that authorities will implement a “special enforcement period” from April to September to shut down any “illegitimate crypto businesses” and ensure that exchanges are abiding by the FTRA.
+
+The most important qualification for VASP registration is an official partnership with a local commercial bank. Out of the some 200 exchanges to which Eun alluded, only the country’s four largest exchanges, known as the “Big 4,” have established such partnerships thus far. Many industry insiders already think the Big 4 will end up being the only exchanges to survive the regulatory tidal wave, but Eun’s comments have stirred up new worries.
+
+Eun’s remarks come at a time when interest in crypto among Koreans is booming. The Big 4 registered 2.49 million new users during the first quarter of 2021, 64% of them in their 20s and 30s. Traders in their 30s devoted over $398 million on crypto trading, outspending every other demographic. Shutting down the Big 4 would deal a severe blow to these young investors.
+
+When asked about normalizing crypto trading, Eun’s response was, “The worry is that officializing the cryptocurrency industry and bringing it in under regulatory approval will only encourage speculation.”
+
+Regarding legal protections for crypto traders against scams, Eun said that “it’s difficult for the state to protect crypto traders,” claiming that crypto trading is inherently more speculative than stock trading. He compared crypto transactions to fine art deals, explaining the state doesn’t take responsibility for consumers being scammed by art counterfeiters. “It’s the personal responsibility of the buyer to protect himself from [crypto] scams,” he said.
+
+This isn’t the first time South Korea’s traders have faced government-induced agita. In January 2018, the country’s justice minister announced during a press conference his ministry was “preparing legislation that effectively prohibits cryptocurrency trading” and that the ministry’s goal was to “shut down all exchanges.” Park went on to equate crypto trading with “gambling.”
+
+The global price of bitcoin plummeted 8% on the day of Park’s comments. Due to the so-called kimchi premium, the local price plunged as much as 15%. South Koreans refer to this day as the “Park Sang-ki disaster.”

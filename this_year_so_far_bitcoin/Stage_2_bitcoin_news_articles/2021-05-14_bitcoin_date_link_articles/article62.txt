@@ -1,0 +1,47 @@
+Latest news email updates straight to your inbox Invalid Email Something went wrong, please try again later. Subscribe Thank you for subscribing We have more newsletters Show me See our privacy notice
+
+Bitcoin and cryptocurrency has seen a massive surge of interest this year for a number of reasons.
+
+Celebrities like Elon Musk have been instrumental in hyping up cryptocurrency in the hope that people could get rich from it in the future.
+
+As well as that, new hardware has been released which allows people to mine for Bitcoin which has been claimed "the new gold rush".
+
+But how on earth is Bitcoin mined and how do people do it? Is it expensive and could you do it?
+
+It's a bit more complicated that you expected but there is a way that almost anyone, as long as they have the right hardware, can make money through Bitcoin.
+
+Don't expect to become a millionaire overnight however because it could take some time.
+
+How does Bitcoin mining work?
+
+Miners aren't looking for Bitcoin in the internet but instead they are getting paid for their work as auditors. They are doing the work of verifying the legitimacy of Bitcoin transactions.
+
+Investopedia explains that double spending is a scenario in which a bitcoin owner illicitly spends the same bitcoin twice. With physical currency, this isn't an issue: once you hand someone a $20 bill to buy a bottle of vodka, you no longer have it, so there's no danger you could use that same $20 bill to buy lotto tickets next door.
+
+While there is the possibility of counterfeit cash being made, it is not exactly the same as literally spending the same dollar twice. With digital currency, however, as the Investopedia dictionary explains, "there is a risk that the holder could make a copy of the digital token and send it to a merchant or another party while retaining the original."
+
+When Bitcoin miners verify a certain amount of transactions, known as a "block", they are rewarded for their efforts.
+
+(Image: Getty Images)
+
+This means that you could receive absolutely nothing for your work but in order to get paid, you have to be the first miner to solve the "block".
+
+Miners try to be the first to come up with a 64-digit hexadecimal number, or a "hash", that is less than or equal to the target hash.
+
+So in order to be the most successful, you need to have a high "hash rate," which is measured in terms of megahashes per second (MH/s), gigahashes per second (GH/s), and terahashes per second (TH/s).
+
+But don't expect to luckily get paid a huge amount of money as payouts are normally very small.
+
+The rewards for bitcoin mining are reduced by half every four years. When bitcoin was first mined in 2009, mining one block would earn you 50 BTC. In 2012, this was halved to 25 BTC. By 2016, this was halved again to 12.5 BTC. On May 11, 2020, the reward halved again to 6.25 BTC.
+
+So how do I mine Bitcoins and get a high hash rate?
+
+Because computer components differ massively, they all have their own hash rates.
+
+Graphics cards in computers tend to be the best for a high hash rate and the newest graphics cards tend to be the go-to for Bitcoin miners.
+
+However this, and other factors, have led to massive shortages in graphics cards which is why gamers can't get the card they want.
+
+People create mining computers that can range between £500 to tens of thousands of pounds that sit idle and allow them to earn Bitcoin throughout time.
+
+There are factories in China that have been built secretly to continuously mine Bitcoin which uses substantial amounts of energy.

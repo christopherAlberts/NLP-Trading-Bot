@@ -1,0 +1,33 @@
+In a recent appearance on Fox Business, Joel Shulman, CEO of ERShares, made it abundantly clear that Bitcoin wasn’t something ERShares would be investing in for the foreseeable future.
+
+He went on to enumerate his reasoning for why: the high environmental impact of cryptocurrency mining, that Bitcoin is a potentially unreliable market in terms of protocols, that it is utilized for illicit dealings, and the illiquidity created by crypto exchanges.
+
+“We’ve never bought [Bitcoin]… and it doesn’t look like we’re going to buy anytime soon,” Shulman said in the interview.
+
+ESG Concerns
+
+ERShares focuses heavily on entrepreneurial companies that demonstrate favorable environmental, social, and corporate governance (ESG) in their practices. For Shulman, Bitcoin is the “polar opposite” of ESG through the environmental impact mining has, as well as the corruption that still exists in the illicit activities and the lack of governance inherent in cryptoassets.
+
+When elaborating, Shulman referenced Inner Mongolia shutting down mining operations due to the energy consumption and emissions it produces. An autonomous region of China, Mongolia has been under pressure by China to curb energy consumption since 2018, per CoinDesk. Inner Mongolia accounts for 8% of the global mining hash rate; in a bid to reduce emissions, it will cut all crypto mining, a notoriously energy-consuming process with a large carbon footprint.
+
+Shulman also pointed to Bitcoin’s connection to illegal activity. He referenced the “extortion that’s going on with the (Colonial) pipelines,” noting that “the FBI is involved.”
+
+Colonial Pipeline, which operates the largest pipeline in the U.S., was forced to shut down operations on May 7 after being hacked. The hackers demanded and were paid $5 million in cryptocurrency.
+
+Water Stock Fears and Illiquidity
+
+Bitcoin has fallen 50% from it’s recent high, though a recent tweet by Elon Musk has it rebounding somewhat of late.
+
+When asked if he would be buying Bitcoin in a market that is moved by Elon Musk’s tweets, Shulman said “absolutely not.” The concern, he said, is “if they start changing protocol, it raises the issue of potentially being like watered stocks in the 1860’s when Cornelius Vanderbilt was scammed by Jay Gould.”
+
+In 1869, Gould sold over $7 million in ‘watered stocks’, or stocks with artificially inflated value, to Vanderbilt to purchase the Erie Railroad. Vanderbilt was one of the most successful and wealthiest of his time, demonstrating that even the wealthy are not immune to misjudgments and fraud.
+
+Shulman also expressed concerns about the illiquidity of exchanges in Bitcoin right now.
+
+“Coinbase is charging egregious fees” each time investors buy or sell, he said.
+
+The CoinBase website details the fees that could possibly be incurred at each step, including the initial transaction fee on the network, the 0.5% spread on the sale, a second possible fee that is either flat or a percentage of the transaction outside of the spread, as well as potential charging fees on transfers to and from a customer’s bank.
+
+“There are a lot of problems with [Bitcoin]. We’re not touching it any time soon,” concluded Shulman.
+
+For more news, information, and strategy, visit the Entrepreneur ETF Channel.

@@ -1,0 +1,53 @@
+Some governments have already banned some cryptocurrencies, causing disruptions in the market. Others are taking a wait-and-see approach.
+
+Image: Travis Wolfe/Shutterstock
+
+Although red flags have been raised about a possible crackdown on cryptocurrencies, industry experts said they think it is much ado about nothing. Cryptocurrencies have been making news as of late because of concerns over the use of bitcoin for illegal activities, including money laundering and financing terrorist operations.
+
+Officials including U.S. Treasury Secretary Janet Yellen, European Central Bank President Christine Lagarde and Jesse Powell, CEO of Kraken, one of the world's largest digital currency exchanges, have all warned about imposing rules on cryptocurrencies.
+
+Two cryptocurrency exchanges, Vebitcoin and Thodex, have collapsed in Turkey amid a crackdown, and India is considering banning them and penalizing anyone holding or trading them.
+
+SEE: The CIO's guide to quantum computing (free PDF) (TechRepublic
+
+Regulators are now looking at cryptocurrencies more seriously, but when it comes to bitcoins and other digital currencies being used for illicit activities, "a lot of that discussion is honestly, not that accurate," said James Wester, a research director at IDC.
+
+"Cryptocurrencies and bitcoin are not that great for things like money laundering," he said, adding that "only a small percentage" is being used to fund illegal activities.
+
+"The best thing to use for illegal activities is good old cash," Wester said, because bitcoin and cryptocurrencies are trackable. Whenever a bitcoin transaction occurs, that activity is recorded on the blockchain, he said.
+
+Regulation may be coming
+
+It's hard to use cryptocurrencies to buy things, said Ariel Zetlin-Jones, an economics professor at Carnegie Mellon University. "You can buy Dallas Mavericks gear with doge," because Mark Cuban, the owner of the NBA team, is interested in the dogecoin currency, or a Tesla because Elon Musk has invested in bitcoin, he said. "But broadly speaking, it's hard to spend cryptocurrencies for goods and services."
+
+SEE: There's more to cryptocurrency than Bitcoin: 5 other digital coins to consider (TechRepublic)
+
+There are a lot of different types of monies used in society right now because of cryptocurrencies, but Zetlin-Jones said because they aren't actual money, "the case for regulation seems weak."
+
+Wester said that regulators "have to understand the issue first, especially when talking about stable coins like Facebook's Diem," which is expected to have a pilot launch this year.
+
+"Regulation and enforcement of [cryptocurrencies] always lag behind deployment," Wester said. But that's not to say it won't happen as cryptocurrencies evolve over time. "We'll absolutely see better understanding from the regulators and then enforcement of those."
+
+The big issue with bitcoin is volatility, he said, "so the idea is to control for that volatility so it's more useful as an exchange medium."
+
+Meanwhile, the ether cryptocurrency, the token transacted on the Ethereum blockchain, is up 325% for the year so far, outpacing bitcoin.
+
+SEE: "Crypto Dictionary: 500 Cryptographic Tidbits for the Curious" is a crash course in ciphers and cryptids (TechRepublic)
+
+In March, Federal Reserve Chairman Jerome Powell said bitcoins and other cryptocurrencies would not replace the dollar because of their high volatility. But the central bank has been mulling the feasibility of a central bank digital currency.
+
+Powell called cryptocurrencies more of an asset for speculation, according to MarketWatch.
+
+Zetlin-Jones said the U.K. has opted not to crack down on the cryptocurrencies themselves—but the derivatives markets for them. The volume of trade in derivatives drawn on cryptocurrencies is very large, he said.
+
+"If you look at the top cryptocurrency exchanges around the world today there's about as much daily volume as the New York Stock Exchange," he said. These exchanges allow people to conduct both long and short trades on cryptocurrencies with "substantial amounts of leverage" he said.
+
+"This is the predominant form of value transfer happening on cryptocurrencies now. People making and losing money on cryptocurrencies broadly are doing it by trading these derivatives contracts."
+
+Right now, these are "extremely risky, non-standardized non-regulated exchanges, and they're marketed as easy access for retail customers," Zetlin-Jones said. Traditionally, the role of regulatory agencies like the Securities and Exchange Commission has been to regulate these entities as a form of consumer protection.
+
+"It's worth investigating whether they need regulating, given the volume and newness" of the cryptocurrency derivatives exchanges, he said.
+
+Innovation Newsletter Be in the know about smart cities, AI, Internet of Things, VR, AR, robotics, drones, autonomous driving, and more of the coolest tech innovations. Delivered Wednesdays and Fridays Sign up today
+
+Also see

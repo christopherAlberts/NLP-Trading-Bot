@@ -1,0 +1,47 @@
+As Bitcoin and others have been gaining acceptance, more countries are allowing them, but expect to see increased regulation.
+
+KeremYucel, Getty Images/iStockphoto
+
+Amid the roller coaster ride that Bitcoin and other cryptocurrencies are taking after the People's Bank of China announced this week that digital tokens cannot be used as a form of payment by financial institutions, many investors remain undaunted. Yet, while many countries accept cryptocurrencies there are notable exceptions.
+
+Currently, all advanced and major economies allow the holding of crypto assets, said Ganesh Viswanath-Natraj, an assistant professor of finance at the Warwick Business School, University of Warwick. They include the U.S., almost everywhere in the EU, Japan and South Korea.
+
+"Regulations differ across countries in terms of trading on cryptocurrency exchanges," said Viswanath-Natraj, who researches cryptocurrencies. "For example, in China, it is illegal to mine bitcoin and to trade on crypto exchanges."
+
+SEE: 5 apps for trading cryptocurrencies like Bitcoin, Dogecoin and Ethereum (TechRepublic)
+
+The PBOC recently issued a warning to banks and online payment firms to not offer services involving cryptocurrency, exchange trading and settlement, he said. "Reasons for the crackdown include the introduction of China's central bank digital currency as a public competitor to cryptocurrency and the lack of traceability of cryptocurrency payments."
+
+Besides China, other countries, such as India and Nigeria, have recently made headlines for the attempts by their central banks to ban the use of cryptocurrencies," said Jason Allegrante, head regulatory counsel & chief compliance officer at Fireblocks, a crypto lending platform.
+
+India announced a bill in March 2021 that calls for a ban on trading, Viswanath-Natraj added. The bill gives permission for crypto traders to liquidate positions within six months, he said.
+
+"Reasons for the ban include the lack of traceability and has the potential for tax evasion and black market uses for crypto payments," he said. "The ban on cryptos is in line with India's demonetization policies of phasing out large rupee-denominated bills that may typically be used in the black market economy."
+
+Other countries, like Brazil and some individual U.S. states, are taking a different approach, refusing to categorize digital assets as being either within or without existing frameworks, Allegrante said. In between, there is a vast middle ground of countries attempting to legitimately understand and engage with these technologies, he said.
+
+"Unlike fiat currencies, which are issued and controlled by a central bank, cryptocurrencies have essentially sidestepped the question of governmental permissioning altogether," Allegrante said. "The question for any country assessing the space now should not be whether cryptocurrencies are 'allowed,' but what steps, if any, they should take to promote or delay their adoption."
+
+There are countries that have adopted a strategy of trying to control the spread of cryptocurrencies and defend the role of the central bank, he said. "Unfortunately, these countries run the risk of being left behind by more progressive jurisdictions that are learning how to adopt, deploy and harness digital asset technology."
+
+Why reaction differs
+
+Every country that regulates cryptocurrencies takes a somewhat different approach depending on their unique concerns, Allegrante said. "Countries that receive a lot of remittance payments may be interested in promoting the use of highly liquid, highly fungible assets like bitcoin. Traditional financial centers may be more open by their nature to capital markets activity and may, therefore, attract exchanges offering a variety of digital assets classes with few rules for qualified investors."
+
+How a country reacts to cryptocurrencies in general, and any particular crypto asset class in particular really depends on their own assessment of their historical strengths and weaknesses, and their priorities for their citizens, he said.
+
+Any country with a vested interest in the post-Bretton Woods monetary system is right to approach cryptocurrencies cautiously because their promise could be incredibly disruptive if ever fully realized, Allegrante said.
+
+"What has been fascinating to watch is that many societies in the west who benefit from this system appear to be quite open to innovation," he said. "In any event, we should count on countries to act in their perceived best interest, and these can run the gamut from retail consumer protection to systemic monetary risk management."
+
+More regulation is coming
+
+Members of the U.S. Congress have advocated for the STABLE Act, which would require so-called stablecoins to establish a banking charter and require approval from the FDIC and have deposits FDIC insured, Viswanath-Natraj said. The goal is to help protect consumers from the custodial risk of the issuer.
+
+Allegrante is predicting that regulation of cryptocurrencies will increase across the board, driven by a number of critical market factors. "First, influential international standard-setting bodies, like FATF, view cryptocurrencies as within their purview to regulate and will force the issue among their member states," he said. "Second, market forces are leading to increased adoption and awareness of cryptocurrencies. The strength of this trend is the institutional adoption of traditional banks and corporations, like Tesla, as much as retail interest."
+
+Also, "we are at the very outset of a new geopolitical arms race that may very well pit defenders of USD as the world's reserve currency against new crypto-based competition, state-sponsored and otherwise," Allegrante said. "It is too soon to say how this will play out or what its ramification will be, but … it seems likely that cryptocurrencies will continue to be a hot button topic this year and for the foreseeable future."
+
+Tech News You Can Use Newsletter We deliver the top business tech news stories about the companies, the people, and the products revolutionizing the planet. Delivered Daily Sign up today
+
+Also see

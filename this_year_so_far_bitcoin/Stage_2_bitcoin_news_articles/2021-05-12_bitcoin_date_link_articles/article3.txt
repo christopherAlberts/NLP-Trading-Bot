@@ -1,0 +1,33 @@
+Despite bitcoin’s (BTC) meteoric rise of over 550% this year, on-chain analysis paints a picture that it’s still early in the game. Why? Three words: Coin Days Destroyed (CDD).
+
+By assessing CDD, we can visualize the confidence amongst long-term bitcoin holders relative to the current price of Bitcoin. To understand how CDD works, let’s start with coin days.
+
+What Is A Coin Day?
+
+Coin day is the number of days since a bitcoin was moved over from one wallet to another. The logic behind coin days is to assign a higher value to an idle coin. Why? Simply because long-term holders of bitcoin have greater knowledge of market cycle volatility and are more adept at identifying the best times to buy or sell. So when long-term holders sell their bitcoins, the Coin Days Destroyed will surge higher. When strong hands do not spend, it trends lower, which suggests their confidence in a new bull market.
+
+What Are Coin Days Destroyed?
+
+Coin Days Destroyed is when bitcoin has been sitting in a wallet -- accruing coin days -- and all of a sudden, it is sold and becomes “destroyed.” To be abundantly clear, bitcoin is not actually destroyed. It's merely terminology that calculates the time erased. Here’s an example: Imagine if an investor purchases 1 bitcoin and holds it in his wallet for 90 days, he then sees a big increase in the price and decides to sell. He would have “destroyed” 90 bitcoin days.
+
+When investors are accumulating (and few old coins are spent), Coin Days Destroyed will trend downwards. During late-stage bull markets, old coins often are increasingly spent and will lead to a spike in Coin Days Destroyed.
+
+The beauty of this formula: It weighs less on the activity by short-term traders. These traders don’t hold bitcoin long. Therefore, the impact on Coin Days Destroyed will be minimal from the activities by short-term traders.
+
+However, when long-term holders are starting to sell their bitcoins, it’s worth paying attention to. When we look at these important metrics, it appears that bitcoin is nowhere near its high this year. Bitcoin is now over $55,000 but the 90-day moving average for Coin Days Destroyed is near its lowest levels. See the chart below:
+
+The decline in Bitcoin Days Destroyed shows that old hands are stronger than ever amid the price increase.
+
+How is CDD calculated?
+
+Coin Days Destroyed is calculated by:
+
+The number of bitcoins in a transaction, and then Multiplying it by the number of days it has been since those coins were last spent.
+
+The “Destroyed” part comes into effect when it is removed on receipt. Once again, it means the coins held for long time periods will carry more weight in CDD. This on-chain metric shows the weight of the strong hands versus the short-term speculators. The current number of Coin Days Destroyed is far lower than the 2017 price top. So, this indicates that fewer veteran hands are selling than in the previous bull cycles.
+
+Considering the bitcoin network is now 12 years old and the current BTC supply has already appreciated, it’s telling that strong hands are not selling their holdings. This suggests that the market top is nowhere near our current price. What’s more, the higher demand from institutional investors could be the primary force behind this recent surge in long-term confidence from veteran holders. In April, Fidelity Investments with 10.3 trillion in assets under management introduced a crypto platform for its institutional clients called “Sherlock.” ETF manager Cathie Wood announced she has joined the board of a European cryptocurrency platform called Anum Holdings.
+
+These moves by high-profile asset management firms underscore the rise of institutional investors who are banking on the future growth in bitcoin.
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.

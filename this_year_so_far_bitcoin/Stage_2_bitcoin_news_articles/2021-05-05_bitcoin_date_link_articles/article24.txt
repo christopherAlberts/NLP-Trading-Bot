@@ -1,0 +1,33 @@
+Bitcoin (BTC) entirely recovered from its recent drop that saw the price fall to the $53,000 support level. This move back to $57,500 relieved bulls from the negative pressure of the May 7, 3,500 BTC options contract, which represents $200 million in open interest along with a $1.1 billion options expiry.
+
+Today's swift recovery could have been partially driven by the news that New Digital Investment Group (NYDIG) partnered with Fidelity National Information Services (FIS) to create a framework for U.S. banks to offer crypto trading services.
+
+Patrick Sells, the bank solutions chief at NYDIG, told CNBC that several banks have already signed up for the program.
+
+Moreover, a Mastercard survey found that 40% of the 15,500 interview participants intend to use crypto for payments over the next 12 months. Additionally, it reported that 77% of millennials are interested in learning more about cryptocurrency.
+
+Whatever the reason behind Bitcoin's recent price recovery, bulls are now in a much better position for the May 7 options expiry.
+
+The equilibrium in the call-to-put ratio is misleading
+
+May 7 aggregate BTC options open interest. Source: Bybt
+
+Options contract buyers pay the premium upfront and thus face no forceful liquidation risk. On the other hand, the call (buy) option provides its buyer with upside price protection, and the put (sell) does the opposite.
+
+This means traders aiming for neutral-to-bearish strategies will typically rely on put options. On the other hand, call options are more commonly used for bullish positions.
+
+Analysts could easily dismiss Friday's Bitcoin expiry as the put-to-call ratio is flat. This means the neutral-to-bullish and neutral-to-bearish options open interest is balanced. However, these options will expire in less than 38 hours, causing the $65,000 and higher calls to become worthless.
+
+The put options, a right of selling Bitcoin at $48,000 on Friday, are also worthless today. To correctly interpret the potential impact of the May 7 expiry, analysts must exclude the strikes that are too far out from the current price.
+
+Bulls have a $104 million advantage at $57,000
+
+The call (buy) options up to $60,000 total 4,950 contracts ($285 million), and if the price of Bitcoin happens to reach $64,000 on May 7, another 1,620 contracts will boost the call options open interest by $93 million.
+
+Alternatively, the neutral-to-bearish put options add up to 3,150 contracts down to the $54,000 strike. These currently present a $181 million open interest and would be increased by 2,800 contracts down to $50,000. This level would boost put options' open interest by $161 million.
+
+Although bulls have a $104 million advantage leading to Friday's expiry, this number would be greatly reduced at any level below $60,000. As the chart indicates, most call options (1,680 contracts) have been placed at this level.
+
+Therefore, bears have incentives to suppress the price below $60,000. At least until 8:00 AM UTC on May 7.
+
+The views and opinions expressed here are solely those of the author and do not necessarily reflect the views of Cointelegraph.com. Every investment and trading move involves risk, you should conduct your own research when making a decision.

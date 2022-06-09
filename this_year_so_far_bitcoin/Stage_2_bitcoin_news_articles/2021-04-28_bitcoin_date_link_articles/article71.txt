@@ -1,0 +1,69 @@
+Many crypto assets have increased in price substantially in the last 12 months. Bitcoin alone is up over 300%. As the value of many crypto assets is climbing, they account for a larger proportion of investors’ portfolios, and it’s as important as ever to think about how to keep your crypto safe.
+
+“It’s important that the public is educated about crypto security,” says Farzam Ehsani, co-founder and CEO of crypto exchange VALR.com.
+
+“Given the security breaches on various crypto platforms recently, it’s an opportune time to ask some searching questions about the security of local crypto exchanges, and what customers should look for.”
+
+Just as the crypto industry has been gaining traction with traditional investors, regulators and even institutions, several high-profile security breaches have garnered media attention.
+
+Just last week, Bloomberg reported that the founder of Turkish exchange Thodex, Faruk Fatih Ozer, had absconded to Albania with $2 billion worth of customers’ crypto, and is currently evading an international arrest warrant.
+
+Closer to home, the exposure of Mirror Trading International (MTI)’s fraudulent practices saw the organisation’s kingpin, Johannes Steynberg, reportedly flee South Africa in December, together with an estimated 23 000 bitcoin he managed to collect from victims of his scheme.
+
+The closure of iCE3X, one of the oldest South African exchanges left customers unable to withdraw their funds and is one more example of South Africans being left unable to access their crypto holdings.
+
+Moneyweb readers are understandably concerned at the number of breaches of trust around the crypto space.
+
+“These concerns are valid, and every crypto investor should ensure that they are using a crypto exchange that is safe and secure,” cautions Ehsani.
+
+“When you buy bitcoin on an exchange like VALR and leave it on the platform, you entrust the exchange to secure your funds as it holds the private keys of all customer funds. This doesn’t come cheap. For example, at VALR we have a dedicated cybersecurity team and have made significant investment to do everything we can to keep customer funds safe.”
+
+The main risks
+
+Ehsani adds that there are two main risks one carries when holding crypto assets on exchanges:
+
+Exchanges that do not secure customers’ funds comprehensively can be prone to security breaches. Unscrupulous owners could shut down the exchange and steal the assets, also known as an ‘exit scam’.
+
+Ehsani empathises with investors’ concerns, continuing: “Both are real risks that have materialised at various exchanges around the world in the last decade. You could say, ‘Forget that! I’m taking my crypto off the exchange’. Your choice is then to withdraw your crypto to a wallet of your own where you hold the private key. This could be a hardware, software or paper wallet.”
+
+While holding your own private keys is an option for crypto holders, taking this kind of responsibility bears its own risks – if you’re not careful or don’t have the know-how, your private key may be lost or compromised.
+
+Much like a physical key to a vault, nothing can be done to access your crypto assets without your private key. If you lose your key your funds would be lost permanently.
+
+It’s evident that both options – keeping crypto on an exchange versus managing your own private keys in your own “self-custody” wallet – carry their own potential risks.
+
+Ehsani urges investors to think carefully about which approach is more suitable for them, explaining, “some say exchanges are honey pots that attract attackers as they hold large sums and therefore the risk is higher. But is this risk higher than you losing or mismanaging your private key or your key getting compromised? Only you can answer that.”
+
+Exchange security procedures
+
+VALR holds clients’ cryptocurrencies in both “cold storage” and “hot wallets”. Cold storage refers to offline institutional vaults that are geographically-dispersed, access-controlled, and video-monitored. Hot wallets are online multi-signature wallets required to maintain operational liquidity. In addition, all customers’ ZAR funds are held in segregated accounts for added protection.
+
+VALR’s security procedures do not allow any individual, including the CEO, to transfer cryptocurrencies on their own. Multiple signatories are required to move funds, and no cryptocurrencies are stored at VALR offices.
+
+Additionally, VALR ensures the integrity of its systems through regular third party audits, which aid in identifying any vulnerabilities and maintaining a secure platform for our users.
+
+No client funds held on VALR may be moved without the express authorisation of the customer. For all critical transactions, VALR requires Two-Factor Authentication (2FA). 2FA requires the client to input a time-sensitive code from a smart phone before accessing account information. A client attempting to access the account from any new device or location will likewise have to input the 2FA code.
+
+“There is an incredible amount of security that goes into running an exchange, and customers are right to want to know whether their crypto is safe. We’ve invested large sums of money to make sure we have security and custody that matches the best in the world.” says Ehsani.
+
+Why VALR?
+
+Apart from the high-level security it offers clients, from the on-boarding process to exchange security and custody, VALR has a number of other unique propositions:
+
+The widest range of cryptocurrencies in the SA market (more than 50)
+
+Low fees
+
+A referral system that allows customers to further reduce fees for introducing new customers. The exchange will also pay you for being a market maker (bringing liquidity to its bitcoin-rand, bitcoin-ether and bitcoin-xrp order books). To date, VALR has paid out over R50 million to customers in rewards and rebates.
+
+A newly introduced crypto arbitrage service – VALR Arbitrage – aimed at bringing this relatively low-risk opportunity to make passive income to a wider market. This is based on the price differences in crypto between SA and overseas markets for bitcoin.
+
+How to start
+
+Sign up at VALR.com with only an original ID document. The automated process will take about five minutes before your account is verified, at which point you will be able to fund your account, either with rands or cryptos you already own.
+
+Newcomers might want to start with established crypto assets such as Bitcoin (you can buy as little as R10) or Ethereum. For the more adventurous, there are more than 50 other altcoins (any cryptocurrency that is not bitcoin) that cater to a variety of use cases.
+
+Brought to you by VALR.
+
+Moneyweb does not endorse any product or service being advertised in sponsored articles on our platform.

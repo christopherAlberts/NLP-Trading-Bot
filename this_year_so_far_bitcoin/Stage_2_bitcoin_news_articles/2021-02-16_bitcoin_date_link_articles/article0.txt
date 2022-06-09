@@ -1,0 +1,43 @@
+If you are reading this article, you are using electricity. The same goes for every Google search, email sent and photo saved to the cloud. As our lives go digital, we need more electricity to power those lives. Yet there is one digital outlier that keeps getting a lot of attention: Bitcoin.
+
+For something that doesn't physically exist, Bitcoin really captivates the imagination and needs a lot of electric power to keep going. That's according to an ongoing study by the University of Cambridge's Bitcoin Electricity Consumption Index. They calculate that in one year the machines behind the cryptocurrency require more power than the Netherlands, a country with over 17 million inhabitants.
+
+As the value of Bitcoin has skyrocketed recently to over $50,000 (€41,300), so has the need for electric power to run it.
+
+Bitcoin supporters say this is OK since it is creating an entirely new financial system free of government interference. Mining gold and printing money too cost a lot to produce, transport and keep safe. Meanwhile, today's financial system with its digital platforms and offices uses lots of energy too.
+
+How much power does Bitcoin need?
+
+Undisputed numbers are hard to come by because of the complex nature of the calculations. Back at the start of 2017, Bitcoin was using 6.6 terawatt-hours of power a year. In October 2020, that was up to 67 terawatt-hours. Now a few months later, it has nearly doubled to 121 terawatt-hours, the Cambridge researchers found, enough to run their entire university for nearly 700 years.
+
+By these same calculations, if Bitcoin were a country, only 30 other countries would use more electricity. It would surpass the yearly power needs of the UAE, the Netherlands, the Philippines, Belgium, Austria or Israel.
+
+Dutch economist Alex de Vries is a bit more conservative and thinks Bitcoin uses 77 terawatt-hours of power a year. He has also been following the situation for years and publishes his research on Digiconomist's Bitcoin Energy Consumption Index.
+
+Today all data centers globally — the ones that run Big Tech, the cloud, the internet and the current financial system — need around 200 terawatt-hours of electricity a year, according to de Vries. "At the moment the Bitcoin network consumes about half this amount," he told DW.
+
+By comparison, one Bitcoin transaction had the same energy footprint as 80,000 Visa transactions in 2018. Now a single Bitcoin transaction uses the same electricity to run 453,000 Visa transactions, according to numbers on Digiconomist, a website "dedicated to exposing the unintended consequences of digital trends."
+
+Why does Bitcoin need energy at all?
+
+Bitcoin is a virtual cryptocurrency. Basically, that means it is run by a massive peer-to-peer computer network. To keep track of everything and to keep the network safe, it uses a ledger system called blockchain. This records all transactions and everyone in the network gets a copy and each copy is linked to each other. Since everything is interconnected the hope is that tampering with the system is impossible.
+
+Anyone can become a part of the network; they just need to have a high-powered purpose-built computer, the more powerful the better. These computers solve increasingly difficult math problems to keep it all going. To avoid overheating, the busy machines must be kept cool.
+
+Elon Musk, Bitcoin's most famous investor
+
+The people running these computers, often called miners, don't get paid per se, but have the chance of being rewarded with Bitcoin. The more computing power they have, the higher their chances of getting some. When the price of Bitcoin goes up, it makes investing in more technology attractive. It's an upward spiral as more computers are added.
+
+"The higher the price, the more miners will earn, and the bigger the incentive to add more machines to the network," said de Vries, adding that usage is also important "because the network can only process five transactions per second, it quickly gets more expensive to use Bitcoin if a lot of people try to do so. Since transaction fees also go to the miners, this also drives miner earnings and ultimately energy consumption."
+
+Where are the Bitcoin miners?
+
+Currently, over 65% of Bitcoin miners are in China, followed by the US and Russia both with around 7%, according to the researchers at Cambridge.
+
+"In China, they can get cheap excesses of hydropower in the summer and take advantage of cheap coal-based power in the winter," de Vries told DW. "Since they still have to move seasonally within China to optimally benefit from this, we've recently seen countries like Iran and Kazakhstan gain popularity."
+
+Critics see this as a big problem. Many countries have unstable power grids and some cannot handle the increased needs. In January, the Iranian government blamed Bitcoin mining for power outages in the country. On top of that, there is the giant CO2 footprint of all that electricity production.
+
+Though Bitcoin's environmental damage is so far only a tiny fraction of what cars and industry produce, these ecological concerns have pushed many miners away from coal power to places with cheaper hydroelectric power. And despite most concerns, the cryptocurrency still has a big fan base, most famous among them Tesla's Elon Musk.
+
+Bitcoin is not the only cryptocurrency on the block though. Understudied cryptocurrencies added 50% on top of Bitcoin's energy needs last year, according to de Vries. Some use a similar mining technique to Bitcoin. Others use alternatives in which the block creation process depends on wealth rather than computational power. "Theoretically this modification could also be implemented in Bitcoin and would remove any incentive to use specialized mining hardware, saving both energy and electronic waste," he concluded.

@@ -1,0 +1,103 @@
+All eyes in the bitcoin world and beyond were on Coinbase on April 14 when the firm became the first cryptocurrency platform to go public.
+
+It was a pretty good day. The shares opened at $381, soared as high as $429.54 before settling down to $328.28. They were valued at the close of Monday’s trading at $304.54 as the frenzy abated, but that still valued the company at a healthy $60.6 billion.
+
+Financial pundits declared this a dawn of a new day. “Coinbase’s direct listing is a watershed moment for the crypto industry,” declared one securities analyst.
+
+Any two people, anywhere in the world, can send bitcoin to each other without the involvement of a bank, government, or other institution. Coinbase
+
+Advertisement
+
+Another called the firm’s Nasdaq listing a sign of “the growing mainstream adoption of bitcoin and crypto for the coming years.”
+
+Or maybe not. The Coinbase IPO could be the signpost of just another market craze, of investors buying because they figure others are buying, so why not? Evidence that bitcoin is becoming anything like a “mainstream” financial asset is still scarce.
+
+Sure, some banks have begun to facilitate bitcoin investments: JP Morgan Chase is preparing to roll out a bitcoin mutual fund, for instance. But whether that’s an indication of its desire to offer something some customers want rather than an endorsement of the asset in principle is unclear.
+
+Elon Musk says his Tesla electric vehicle company will accept payment in bitcoin, but as Coindesk, a crypto news service, observed recently, “It ain’t easy.”
+
+Customers have to make their payments within 30 minutes of making a deal or the bitcoin price expires and they have to start over. Tesla warns that if you make a mistake — say by entering the wrong recipient code in your bitcoin account and Tesla never gets the money, that’s your problem.
+
+The terms recognize that bitcoin’s value can change dramatically in the blink of an eye and that bitcoin transactions can’t be reversed, even if they’re erroneous. In other words, why not just pay in dollars, dude?
+
+Newsletter Get the latest from Michael Hiltzik Commentary on economics and more from a Pulitzer Prize winner. Enter email address Sign Me Up You may occasionally receive promotional content from the Los Angeles Times.
+
+Advertisement
+
+Bitcoin’s fans say it’s an alternative to traditional currencies, which can be manipulated by national central banks to manage (or mismanage, if you prefer) their economies. Bitcoin — a financial instrument created by computer algorithm and valued essentially at what anyone is willing to pay for it — is arguably immune from that sort of tinkering.
+
+As an investment, bitcoin has been wildly oversold by its fan base. Every so often someone, often on reddit, dredges up one of the columns I’ve written about bitcoin over the years, invariably counseling readers to be wary of investing in the thing. They’ll point to the latest surge in price and chortle at the folly of advising people to shun bitcoin at $600 when it’s now $20,000, $30,000 or (as it has been recently) $50,000.
+
+Sure. If you hung in with bitcoin from, say, 2013, when the cryptocurrency first swam into public consciousness and was priced at a few hundred dollars per coin, until today (current quote on Coinbase: $53,924.99), you made a mint.
+
+But how many people did that? To have stayed in the market for those eight or nine years, or even for a sizable fraction of the period, you would have had to survive not one, not three, but countless bull and bear waves.
+
+Advertisement
+
+From Dec. 18, 2017, to Feb. 10, 2018, bitcoin’s value fell by 55%. This year alone there have been three downdrafts of 20% or more over the course of a week or two, and an additional fall of 16% over 12 days in March. (All metrics are from Coinbase.)
+
+It’s true that the stock market has been no stranger to bear markets, defined as drops of 20% or more. But there have been 16 of those since 1926, averaging one every six years — not three in a single year.
+
+Bitcoin fanatics, however, don’t really pitch the cryptocurrency as an investment vehicle. They pitch it as a currency.
+
+Advertisement
+
+The problem is that as bad as bitcoin is as an investment, it’s even worse as a currency. Blogger Kevin Drum lists five features that a currency should have: It should be hard to counterfeit, stable in value, easy to carry, widely accepted and 100% liquid. Bitcoin fails three of these tests — it’s not stable in value, widely accepted or 100% liquid.
+
+As I’ve written in the past, the key test bitcoin passes is what we might call the Kenya storefront test. This derived from my sojourn as a foreign correspondent in Nairobi in the 1980s, when the official exchange rate was about eight Kenya shillings to the dollar.
+
+Experienced foreign residents wouldn’t think of buying shillings at the official rate; they’d want the black market rate, which was closer to 16 shillings to the buck.
+
+Expatriates wishing to obtain the better rate would wander into a grocery or ice cream shop owned by an Indian merchant and write him a check in dollars on a U.S. bank in return for black-market shillings. He’d mail the check to a relative in the U.S. or Canada for deposit there, and thereby spirit dollars out of Kenya in contravention of the country’s strict foreign-exchange regulations.
+
+Advertisement
+
+The system served everybody, except obviously the government. Indian families, who lived in fear of being evicted from the country and their livelihoods by the Kenyan regime, would build up a nest egg overseas, and the foreigner would double his take of shillings.
+
+I’ve often thought that bitcoin would serve those merchants down to the ground — they could convert shillings or dollars to bitcoins where they were and convert them to dollars remotely.
+
+Of course the black-market conversions were illegal, which is just another reminder that one category of users who appreciate bitcoin’s utility are criminals.
+
+Advertisement
+
+Bitcoin propagandists assert that the qualities that make the cryptocurrency so useful for underground transactions are its virtue — a feature, not a bug. The great thing about bitcoin, they say, is that it operates outside national central banking systems.
+
+As Coinbase explains, “any two people, anywhere in the world, can send bitcoin to each other without the involvement of a bank, government, or other institution.”
+
+This is supposed to be a great thing. “Most traditional liquid asset systems — banks, credit unions, brokerage houses, or even high-tech ones like PayPal — take control of your funds and leave you subject to their terms of service,” explains the personal finance site Due.com. “If they decide that you have violated those terms, they can suspend your account.”
+
+When it comes to having an account suspended for violating a financial institution’s terms of service, I’m with Nathan J. Robinson, the editor of Current Affairs, who pointed me to the above quote and who writes, “This has not happened to me, ever.”
+
+Advertisement
+
+In fact, as Robinson points out, many of the oft-bruited advantages of bitcoin — such as rock-solid “security,” anonymity, convenience — are either detrimental to the user or don’t really exist at all.
+
+Who benefits from bitcoin security, which takes the form of the impossibility of reversing a bitcoin transaction once it’s completed? Not the average consumer. Because these transactions take place without a trusted or regulated intermediary, no one can rectify a bitcoin transaction with a counterparty who turns out to be fraudulent.
+
+I may never have had an account suspended over terms of service, but on plenty of occasions I’ve had to challenge a credit card bill or bank payment because I didn’t receive the goods or services paid for. I’ve had credit and debit cards stolen and misused, and the supposedly untrustworthy bank that stood between me and the thieves delivered all the compensation required by law. With bitcoin, forget it.
+
+Advertisement
+
+There are two keys to securing financial transactions: Oversight and an audit trail. Money in your bank account goes astray, and the bank’s records will almost always show what happened and correct the error. With bitcoin, there’s no oversight and no audit trail — and that’s supposed to be a plus?
+
+It’s worth noting that “security” in the bitcoin context doesn’t mean “security from loss.” The most spectacular loss may be the one connected with the defunct bitcoin exchange known as Mt. Gox, in which the customer holdings gone astray were at one point estimated at $1 trillion. The losses are almost certainly less than that, but some customers will never recover their full holdings.
+
+There are many other episodes in which bitcoin accounts have been hacked by cyberthieves or lost when their owners misplace their access codes, which can’t be replicated.
+
+Nothing in the bitcoin universe resembles the FDIC or Securities Investor Protection Corp., U.S. government agencies that protect bank and brokerage customers from losses of as much as $250,000 (FDIC) or $500,000 (SIPC) if their financial institution fails.
+
+Advertisement
+
+Convenience? The bitcoin annals bristle with yarns about users who lost their passcodes or “seeds” — phrases that can be used to recover access to a bitcoin account — or have had to go to extraordinary lengths to protect these codes from thieves.
+
+“Store your seed securely,” advises a user on reddit. “I used a metal stamp to punch my seed into a ¼ inch steel plate. After that I dipped it in plastisol so it cannot be read and stored it in my safe with a description written on the outside. I also had another copy of the seed stored behind a picture at a trusted family member’s house just in case.”
+
+As Matt Levine of Bloomberg observes, “Everything I read about bitcoin storage is utterly exhausting.”
+
+Bitcoin isn’t a mainstream asset by any stretch of the imagination. Drum likens it to collectibles, like baseball cards, albeit “a collectible that’s gotten a lot of hype.” It has no intrinsic value. It doesn’t represent even a theoretical claim on a national hoard of gold, for instance.
+
+Advertisement
+
+Its worth is dependent on two interrelated factors: the desire of bitcoin fans to keep buying and holding, and an artificially created scarcity. According to its creation document, the maximum number of bitcoins that can be “minted,” through a process of algorithm-solving by powerful computers, is 21 million. About 18.7 million are already in circulation.
+
+So invest in bitcoins if you wish. Try to buy a Tesla with them, if you have the patience. But they’re such a pain to manage that the smartest way to get a piece of the action is the way smart gold bugs invest in that metal — they don’t buy bullion, but stocks in firms in the gold industry. You can now do that with bitcoin, thanks to a certain “watershed” IPO.

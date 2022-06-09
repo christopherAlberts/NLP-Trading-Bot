@@ -1,0 +1,25 @@
+Stocks of companies exposed to the cryptocurrency market stay high as analysts at the world's top bank, JPMorgan Chase & Co. (NYSE:JPM), suggest that Bitcoin (CRYPTO: BTC) is headed lower.
+
+What Happened: According to JPMorgan's note written by analyst Nikolaos Panigirtzoglou, a medium-term fair value for Bitcoin now stands between $24,000 and $36,000, and weekend institutional demand is likely to bring its value below $30,000.
+
+“The fair value for Bitcoin based on a volatility ratio of Bitcoin to gold of around x4 would be 1/4th of $145k or $36k. The fair value for Bitcoin based on the current volatility ratio of Bitcoin to gold of around x6 would be 1/6th of $145k or $24k. We thus see a fair value range of $24k to $36k over the medium term," Panigirtzoglou write in the note.
+
+The analyst said that JPMorgan still sees a $145,000 price mark as a long-term “theoretical target” for BTC’s price, but admitted that this would only happen if “assuming a convergence of Bitcoin volatility to that of gold and an equalization of bitcoin allocations to that of gold in investor portfolios.”
+
+This scenario, he wrote, "is unlikely" to happen "in the foreseeable future."
+
+He concluded that Bitcoin would still need to fall "to the $26k level before longer-term momentum would signal capitulation.”
+
+Price Action: While according to CoinMarketCap data Bitcoin's price grew by nearly 6.4% from its 24-hour low of $35,787 to a high of $38,231.
+
+The price settled at $37,853 at press time, and it was still over 68% down from its mid-April high of $64,243 and at $37,857 as of press time.
+
+Similarly, CoinMarketCap indicates that Ethereum saw its price increased by nearly 10.5% from a 24-hour low of $2,533 to a high of $2,798 and currently is worth $2,772, down 55% from its mid-May high of $4,297.
+
+Crypto Stocks Price Action: Despite all those doubts over the near future performance of Bitcoin — which has historically been a near-perfect predictor of the performance of the overall crypto market — hope of long-term performance is seemingly protecting crypto-related stocks from downtrend pressure.
+
+United States-based crypto exchange Coinbase Inc. (NASDAQ:COIN) is up 2.7% over the last 24 hours and worth $241,50 per stock, while crypto mining hardware producer Caanan Inc. (NASDAQ:CAN) stays at $10.19 after seeing nearly no price movement compared to its usual volatility and is down 0,68% today.
+
+Caanan's competitor Ebang International Holdings Inc (NASDAQ:EBON) fared worse, standing at $3.3 after its price falling by 3,27% as United States-based mining farm operator Riot Blockchain Inc. (NASDAQ:RIOT) stands at $30,17 and is up by 3,22%.
+
+Canadian crypto mining firm Hut 8 Mining Corp. (TSE: HUT) is also seeing a good day at CAD$5,06 ($4,20), being up 4,55%, while crypto financial services firm Galaxy Digital Holdings Ltd (TSE: GLXY) saw nearly no price action and lost 0,68% and stands at CAD$20,81 ($17,28).

@@ -1,0 +1,35 @@
+Launching Bitcoin: ‘Theory of Bitcoin’ looks at how Satoshi explained everything in 2008
+
+Satoshi explained how Bitcoin would scale even before it was launched. In an alternate timeline, Bitcoin could’ve been a Microsoft project. Visa doesn’t process as many transactions per second as people like to say. These are some of the interesting facts you’ll hear in the latest “Theory of Bitcoin” episode with Bitcoin creator Dr. Craig S. Wright and Fabriik’s Ryan X. Charles.
+
+Following last week’s explanation of the first Bitcoin website, this episode looks at Satoshi Nakamoto‘s post releasing the white paper in October 2008, and the responses to it.
+
+2. The Announcement on the Cryptography Mailing List In our continuing interview series, we are reviewing all of the early writings of Satoshi Nakamoto. The announcement and early discussions convey deep misunderstanding that exists to this day.https://t.co/DYpWSJEM1x — Theory of Bitcoin (@theoryofbitcoin) January 12, 2021
+
+Satoshi’s publication of the original Bitcoin white paper on the Cryptography Mailing List is the best-known “announcement” of Bitcoin’s existence. However Dr. Wright says he also posted the information elsewhere, including a P2P mailing list and various Usenet groups (though he notes he didn’t post it on “cypherpunk” or “crypto-anarchist” type lists).
+
+Dr. Wright explains some key differences between Bitcoin and Ethereum, saying ETH is “minted” and the rules governing this may be changed by the development team. Bitcoin, on the other hand, had all its coins “issued” when the software launched. Wright notes the words “issued” and “issuer” of bitcoins are misused in the initial responses to his post, and he often corrects this to “distributed.”
+
+“All the coins existed on day one. (Bitcoin) was launched with no value.” Bitcoin, he says, was basically useless until people started taking it up.
+
+The first responses
+
+Charles also runs through the initial reader responses and Satoshi’s replies—it’s a well-known part of Bitcoin lore now, but most were skeptical, with the exception of Hal Finney. Other respondents included Ray Dillinger, Peter Gutmann, zooko, John Levine, and James R. Donald.
+
+Dr. Wright’s relationship with several of these individuals is well-known to be fraught (he describes how he once purchased a second-hand electron microscope to prove Gutmann wrong on whether data was recoverable from hard drives even after multiple re-writings).
+
+But it’s Donald’s reply, at the top of the list, which Charles singles out for attention. This post has also become famous since, in the very first public response to Bitcoin ever, it suggests Bitcoin would have problems working at scale. Satoshi replied by describing simplified payment verification (SPV); that consensus forms by building blocks on blocks. Only the block headers need to be stored (about 12KB a day).
+
+Large server farms would eventually handle the “mining” process, while other users needed only SPV. That this is one of Bitcoin’s core principles, and described more than two months before the first Bitcoin block appeared, shows how much time has been wasted on the so-called “scaling debate” in the years since.
+
+It also proves that BTC, as it exists today with crippled capacity to enable “scaling” and “decentralization,” has little or nothing to do with Satoshi’s original vision. Looking closer at these first conversations, it would appear BTC (and most other altcoin projects) reflects more of James Donald’s vision.
+
+One interesting factoid Dr. Wright reveals here is that he doesn’t actually know the real identity of “James Donald”—or at least the one involved in this particular conversation. It is most likely a pseudonym.
+
+Charles points out that many in BTC over the years have actively avoided implementing, or even talking about, SPV. This is despite it being a central part of Satoshi’s writings from the start.
+
+At times Dr. Wright sounds weary of re-living all this past, while acknowledging that it’s necessary to keep explaining it to new audiences. It’s interesting to hear it all again though, and as always there are quite a few points you might not have heard before. That makes this episode of ‘Theory of Bitcoin,’ like all the others, required viewing for anyone serious about Bitcoin.
+
+To watch previous episodes of the Theory of Bitcoin, subscribe to the Theory of Bitcoin YouTube channel here.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

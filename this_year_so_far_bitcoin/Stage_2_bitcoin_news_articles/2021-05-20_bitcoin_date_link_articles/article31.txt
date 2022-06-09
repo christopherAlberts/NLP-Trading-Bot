@@ -1,0 +1,95 @@
+Crypto markets rebounded on Thursday but continue to exhibit signs of bearishness.
+
+Bitcoin (BTC) trading around $40,265 as of 21:00 UTC (4 p.m. ET). Gaining 2.1% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $35,709-$42,441 (CoinDesk 20)
+
+Ether (ETH) trading around $2,804 as of 21:00 UTC (4 p.m. ET). Gaining 7.5% over the previous 24 hours.
+
+Ether’s 24-hour range: $2,216-$2,992 (CoinDesk 20)
+
+Topsy-Turvy
+
+Bitcoin’s hourly price chart on Bitstamp since May 17. Source: TradingView
+
+Bitcoin, the world’s largest cryptocurrency by market capitalization, was up by 2.1% as of press time Thursday. BTC was below the 10-hour moving average and near the 50-day, a bearish signal for market technicians.
+
+Earlier in the day, bitcoin climbed from a low of $35,709 around 01:00 UTC (9 p.m. ET Wednesday) to as high as $42,441 12 hours later, an 18% gain, based on CoinDesk 20 data. But then bitcoin slid, to $40,265 as of press time.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+“At this point, a break above $40,500 could push towards $45,000,” quant fund ExoAlpha advised in an investor note. “But we would remain cautious either to open a short position here at $38,000 or go back in on the long side at this same level.”
+
+The crypto markets were flashing green before news broke that the U.S. Treasury is requesting more stringent tax reporting requirements for businesses transacting in crypto.
+
+“There are definitely still some downside risks left short term, and markets rarely rebound in one single move up,” said Jean-Marc Bonnefous, managing partner of investment firm Tellurian Capital. “Political noise, with news of tax rules tightening, is still weighing on a prompt recovery.”
+
+Volatility pops, especially for ETH
+
+Bitcoin and ether 30-day volatility in 2021. Source: CoinDesk Research
+
+Crypto’s notorious volatility appears to be on the rise. On Wednesday, bitcoin’s 30-day volatility went over 80% for the first time since March. Ether’s gyrations were even higher: It gained 30 percentage points in one day, to 139%.
+
+Traders may be salivating at generating profits from the fluctuations.
+
+“Crypto is here to stay and the volatility we’re currently witnessing is creating an attractive entry point to add to and create new positions,” said Steve Ehrlich, chief executive officer of the cryptocurrency brokerage Voyager Digital.
+
+Crypto over-the-counter trader Alessandro Andreotti doesn’t think ETH maximalists care if the asset behaves wildly.
+
+“I don’t think long-term holders in ETH will be too bothered by that, honestly,” Andreotti said.
+
+Brian Mosoff, chief executive officer of investment firm Ether Capital, said that one “interesting benefit to volatility” is it provides a real-time stress test of cryptocurrency market infrastructure, including of both centralized exchanges and decentralized finance.
+
+“Though these systems are not perfect, they’re becoming more robust and able to handle larger volumes and price swings without breaking down,” Mosoff said.
+
+Cost of BTC leverage dips, futures interest falls
+
+Swaps funding on major venues the past month. Source: Skew
+
+In the derivatives market, funding costs for leveraged bitcoin trades have gone down. Some venues even went negative before heading up, and were close to zero as of press time. It’s a sign of a lack of interest in using the crypto equivalent of margin to make trades.
+
+“A lot of leveraged length has been stopped out and the market is much cleaner and should build a base for recovery,” said Tellurian’s Bonnefous.
+
+One additional sign of bear mode is in the futures market: Bitcoin open interest has dropped by $5 billion from Tuesday to Wednesday. It’s a sign institutional interest may be waning. At least for now.
+
+“Although it’s not entirely clear where crypto is headed for the short- to mid-term, in my opinion we are definitely not out of the woods for another dump,” said trader Andreotti.
+
+Bitcoin futures open interest across major exchanges. Source: Skew
+
+Ether options traders pile into calls at $5K
+
+Ether’s hourly price chart on Bitstamp since May 17. Source: TradingView
+
+The second-largest cryptocurrency by market capitalization, ether, was trading around $2,804 as of 21:00 UTC (4:00 p.m. ET), climbing 7.5% over the prior 24 hours. The asset is below the 10-hour moving average as well as the 50-day, a bearish signal for market technicians.
+
+Ether popped Thursday but (like bitcoin) varied wildly in the past 24 hours, going from a low of $2,216 around 01:00 UTC (9 p.m. ET Wednesday) to as high as $2,992 a dozen hours later, a 36% jump according to CoinDesk 20 data. ETH then slid and settled at $2,804 as of press time.
+
+In the ether options market, traders appear mega-bullish on the asset hitting $5,000. According to data aggregator Skew, over 90,000 ETH in open interest is in calls with a $5,000 strike price. In options, a call is the right but not obligation to buy an asset before a specified date, known as expiration.
+
+Ether options interest by strike price. Source: Skew
+
+Options traders are likely loving ether’s volatility, said Marc Fleury, partner at investment firm Two Prime.
+
+“We are witnessing explosive moves up and we should expect violent corrections as well,” said Fleury. “Increasing liquidity will increase short-term volatility and decrease long-term volatility, particularly in the crypto derivatives space. At least, that is what monetary theory predicts.”
+
+Quant firm ExoAlpha noted in its investor letter Thursday that the previous bull cycle had massive gyrations. That might explain the ETH calls betting on a record price level. ETH’s current zenith is $4,382, according to CoinDesk 20 data.
+
+“On a longer-term perspective, the bull trend remains intact for this cycle,” ExoAlpha noted. “In 2017, the bull run had been hit by two corrections of -40% and the market quickly recovered to new heights.”
+
+Other markets
+
+Digital assets on the CoinDesk 20 are all green Thursday. Notable winners as of 21:00 UTC (4:00 p.m. ET):
+
+Equities:
+
+Commodities:
+
+Oil was down 2.2%. Price per barrel of West Texas Intermediate crude: $61.97.
+
+Gold was in the green 0.40% and at $1,877 as of press time.
+
+Silver is gaining, up 0.11% and changing hands at $27.75.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield fell Thursday to 1.630 and was in the red 2.6%.

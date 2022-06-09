@@ -1,0 +1,31 @@
+Intel Partners With Microsoft to Combat Cryptojacking Attacks by Deploying a Threat Detection Tool
+
+Although recent studies have been showing a slowdown in cryptojacking activities, especially the ones related to mining privacy coins, Intel remains on the hunt to crackdown on such activities. The tech giant has partnered with Microsoft to deploy a campaign that strengthens cryptojacking detection with new technologies.
+
+Tool Could Trigger Multiple Detectors to Halt Any Cryptojacking Threat
+
+According to the announcement, Microsoft Defender for Endpoint integrated a threat detection tool – known as Intel Threat Detection Technology (Intel TDT) – designed by Intel to launch an endpoint detection of cryptojacking threats before it hits a system.
+
+The technology can activate central processing unit (CPU) based cryptomining machine learning detection without compromising users’ computers whatsoever, said the companies in a joint announcement.
+
+Frank Dickson, program vice president of Security and Trust at International Data Corporation (IDC), gave his thoughts on the detection tool:
+
+The silicon-level telemetry and functionality enable the hardware computer platform to play an active role in threat defense against ‘above-the-OS’ attacks. Clearly, the goal is to empower Intel-based systems of today and tomorrow to be fundamentally more secure and have lower malware infection rates than AMD, Apple, and other ARM-based processor systems.
+
+Overall, what the tool makes is to send a high-fidelity signal that triggers multiple detectors across the corporate fleet without reducing systems’ resources.
+
+Cryptojacking Attacks Have Been Losing Momentum
+
+Cryptojacking is a malicious cyberattack where threat actors install crypto-mining apps into computers belonging to individuals or businesses, aiming to mine cryptos illicitly by taking resources from the systems.
+
+Such actions significantly reduce the performance of the affected computers, and some malware and some cryptojacking attacks have enough capabilities to extend their arms onto a whole network of computers.
+
+Still, Bitcoin.com News reported early in April that cryptojacking attacks related to mine monero (XMR) have been decreasing for the first time since 2018.
+
+Threat actors in cryptojacking attacks mainly mine the privacy cryptocurrency, which has been well-document in other intelligence firms’ research.
+
+What are your thoughts on the announcement made by Intel and Microsoft? Let us know in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

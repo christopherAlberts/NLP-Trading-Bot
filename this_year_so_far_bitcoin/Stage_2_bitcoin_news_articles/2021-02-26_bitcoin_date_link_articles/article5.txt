@@ -1,0 +1,43 @@
+What role should Bitcoin play in retirees’ and near-retirees’ portfolios?
+
+There is no doubt that its allure is overwhelming. The cryptocurrency has gained more than 60% just since the beginning of this year, and is up more than 400% over the last 12 months. Returns like that would go a long way toward restoring underfunded retirement portfolios.
+
+In fact, many retirees and near-retirees have already invested in Bitcoin. A recent poll conducted by deVere Group of clients over the age of 55 found that “70% of those surveyed are already invested in digital currencies or are planning to do so this year.”
+
+They need to tread carefully, however—very carefully. Bitcoin’s price is so volatile that it is inappropriate for any portion of their retirement portfolios except that with which they are able to speculate with abandon—their play money in other words.
+
+Consider the standard deviation of Bitcoin’s monthly returns since the beginning of 2016: It is an incredible 25.3%. Those of you who remember your Statistics 101 will immediately realize what this means: Assuming the future is like the past, you can expect 95% of its monthly returns to fall within a range that is two standard deviations above or below its mean—a range that is more than 100 percentage points.
+
+Note carefully that this is the expected range for monthly returns. Unless you are addicted to risk, you shouldn’t be trying to finance your basic living expenses in retirement with an asset this volatile.
+
+To put Bitcoin’s volatility in perspective, consider that the standard deviation of gold’s monthly returns over the same period: 3.9%. That therefore means that, assuming the future is like the past, we can expect 95% of gold’s future monthly returns to fall within a range that is 7.8 percentage points above or below its monthly mean—a total range of 15.6 percentage points. Most of us would consider that to itself be risky, but it seems like child’s play compared with Bitcoin’s.
+
+Crash risk
+
+Huge volatility is not the only thing that retirees and near-retirees need to keep in mind when considering Bitcoin for their retirement portfolios. Another is the not-insignificant chance that its price will crash within the next two years.
+
+In making this prediction I am following the lead of an academic study entitled “Bubbles for Fama,” which appeared several years ago in the Journal of Financial Economics. Its authors were Robin Greenwood, a finance and banking professor at Harvard Business School and chair of its Behavioral Finance and Financial Stability project; Andrei Shleifer, an economics professor at Harvard University; and Yang You, a Ph.D. candidate at that institution.
+
+The researchers defined a crash as a 40% drop within a two-year period. They found that when an industry or sector beat the market by 100% or more over the trailing two years, the odds of it crashing were 50%. When the trailing two-year return relative to the market rose to at least 150%, that crash probability rose to 80%. And when the trailing two-year return rose to even more than that, a crash became almost inevitable.
+
+Bitcoin’s trailing two-year return is over 1000%.
+
+Ask yourself: How much of your retirement financial security are you willing to bet on an asset for which there is a significant likelihood of crashing? To all but those most addicted to risk, that is an unacceptably high price to pay for the excitement of investing in Bitcoin.
+
+Bitcoin’s ‘fair value’
+
+You might nevertheless be willing to incur Bitcoin’s extraordinary volatility and crash risk so long as its long-term trend is strongly upward. And many argue that it is. But there also are good reasons for doubt.
+
+Consider research conducted last year by Claude Erb, a former commodities portfolio manager at TCW Group. He analyzed a number of different possible theories for estimating Bitcoin’s fair value, and found that the one that most closely fits the historical data is one that bases it on its so-called “network effect.” Such an effect would be related to what’s referred to as Metcalfe’s Law, which holds that a network’s value grows according to the square of the number of users.
+
+The predictions of this theory are plotted in the accompanying chart. To construct it, Erb assumed that each Bitcoin that has been mined represents one user in a Bitcoin network; its fair value at any given time is a function of the number of Bitcoins that have been mined up to that point. According to that theory, Bitcoin’s fair value right now is below $14,000.
+
+Erb’s model also allows us to calculate Bitcoin’s future potential, given that its underlying code stipulates that no more than 21 million of them will ever exist and this limit isn’t likely to be reached until 2140. That translates to a Bitcoin price of $74,000; relative to its current price, that represents a 0.4% annualized return over the next 120 years.
+
+Retirement portfolio asset allocation
+
+Does this discussion leave any room for Bitcoin in your retirement portfolio? The answer depends on whether that portfolio already provides a close-to-guaranteed support for whatever minimum standard of living you have set for your retirement. Only insofar as your minimum needs have been met should you even consider something as risky as Bitcoin.
+
+This conclusion might seem harsh. But it applies to all risky assets, not just Bitcoin. As I argued a week ago in pointing out that risk grows with investment horizon, “only after [your] basic needs are met [through an annuity or functional equivalent] should [you] consider going further out on the risk spectrum.”
+
+Mark Hulbert is a regular contributor to MarketWatch. His Hulbert Ratings tracks investment newsletters that pay a flat fee to be audited. He can be reached at mark@hulbertratings.com.

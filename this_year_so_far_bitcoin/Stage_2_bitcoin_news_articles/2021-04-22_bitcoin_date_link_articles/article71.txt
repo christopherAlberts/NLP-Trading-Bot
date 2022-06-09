@@ -1,0 +1,11 @@
+The Grayscale Bitcoin Investment Trust continues to trade at a significant discount compared to the bitcoin it holds.
+
+Correction, April 22, 2021: This article originally stated that Grayscale had added $283.3 million in bitcoin to the Grayscale Bitcoin Investment Trust. It has been corrected to reflect that Grayscale added $283.3 million in assets under management.
+
+Grayscale has added $283.3 million in assets under management (AUM) to its premier Grayscale Bitcoin Investment Trust (GBTC) product, despite the fact that the product continues to trade at a significant discount compared to the bitcoin held within.
+
+An update from Grayscale on April 20 indicated that GBTC had $36.1769 billion worth of AUM, and an update on April 21 indicated that its AUM had risen to $36.4602 billion in AUM, a rise of $283.3 million.
+
+Grayscale’s significant increase to the AUM in GBTC came despite the fact that GBTC is trading at a 13.88% negative spread between its premium and net asset value (NAV) at the time of this writing. GBTC hit a record low against NAV in March.
+
+“The development of a negative GBTC premium throws a wrench in the popular carry trade of redeeming Grayscale shares at a premium and shorting bitcoin futures,” as Bitcoin Magazine reported at the time. “This offered a relatively risk-free yield to investors for some time, while simultaneously acting as a one-way street for locking up bitcoin. Now, with the premium deeply in the negative, the incentive has disappeared to redeem shares of GBTC, and this, unsurprisingly, is what has occurred.”

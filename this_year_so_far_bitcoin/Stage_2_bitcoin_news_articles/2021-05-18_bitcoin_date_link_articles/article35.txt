@@ -1,0 +1,103 @@
+Crypto assets are mostly flashing green Tuesday but volatility is also making gains across major cryptocurrencies.
+
+Bitcoin (BTC) trading around $43,324 as of 21:00 UTC (4 p.m. ET). Losing 2.1% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $42,658-$45,736 (CoinDesk 20)
+
+Ether (ETH) trading around $3,402 as of 21:00 UTC (4 p.m. ET). Gaining 0.22% over the previous 24 hours.
+
+Ether’s 24-hour range: $3,209-$3,551 (CoinDesk 20)
+
+Bitcoin, cryptocurrency market volatility up
+
+Bitcoin’s hourly price chart on Bitstamp since May 15. Source: TradingView
+
+Bitcoin, the world’s largest cryptocurrency by market capitalization was down Tuesday by 2.1% as of press time and going as low as as $42,658 around 23:15 UTC (7:15 p.m. ET). BTC was below the 10-hour moving average and the 50-day, a bearish signal for market technicians.
+
+Crypto investors seem to be back to hitting the buy button on some cryptocurrencies, however, after the mercurial Elon Musk seems to have slowed his crypto Twitter activity – at least for now.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+“Last week, just a few hours before Elon Musk’s incendiary tweet about bitcoin, we warned that there was more downside potential than upside potential,” said David Lifchitz, chief investment officer for quant firm ExoAlpha. ”In terms of volatility, it has definitely increased over the last few days, but not to historical stratospheric levels. So there’s no panic yet.”
+
+Since the start of April, crypto volatility has cropped up, according to CoinDesk Research data that tracks major blockchain-based assets. BTC volatility is up, although lowest on the spectrum, while ether volatility is pushing 110%, one of the highest as of Monday’s closing data.
+
+It’s all relative
+
+Volatilities across ten major crypto assets. Source: CoinDesk Research
+
+Vishal Shah, founder of derivatives exchange Alpha5, said that despite volatility cropping up, he thinks bitcoin is still relatively stable, compared to assets like ETH.
+
+“I think overall volatility feels a bit subdued,” Shah said. “We have been in a large, but measured range for about three months now in BTC.”
+
+Spot bitcoin has ranged from $42,658 to $64,829 (a record high) over the past three months.
+
+Short-term momentum weakens
+
+Bitcoin’s historical price the past three months. Source: CoinDesk 20
+
+“Short-term momentum has weakened behind bitcoin, with resistance having been discovered near $60,000, leaving a lower high on the chart relative to April,” said Katie Stockton, a technical analyst for consulting firm Fairlead Strategies. “Long-term momentum is still positive behind bitcoin despite its weak intermediate-term momentum, favoring a bullish bias beyond the corrective phase.”
+
+Trading volumes increase
+
+Exchange volume across major CoinDesk 20 exchanges. Source: CoinDesk Indexes
+
+Since the start of 2021, bitcoin’s volume numbers have been up, which is always a positive momentum indicator. Over the past year, spot BTC volume averages on eight major CoinDesk 20 exchanges were at $271 million. Since the start of 2021, that average has doubled, at $545 million per day.
+
+While crypto is heading upward Tuesday, Michael Gord, chief executive officer of trading firm Global Digital Assets, noted the most recent Elon Musk-related crypto shakeout is good overall.
+
+“No market can keep going up forever and especially with the recent memecoin craze,” Gord said. “I think this was a healthy dump where projects with no usefulness are being shaken out.”
+
+Read More: Bitcoin Chart Indicator Suggests Worst of Pullback May Be Over
+
+Bitcoin-ether correlation rising
+
+Ether’s hourly price chart on Bitstamp since May 15. Source: TradingView
+
+The second-largest cryptocurrency by market capitalization, ether, was trading around $3,402 as of 21:00 UTC (4:00 p.m. ET), up 0.22% over the prior 24 hours.
+
+ETH went as high as $3,551 around 06:00 UTC (2:00 a.m. ET). The asset is near the 10-hour moving average as well as the 50-day, a bullish-to-sideways signal for market technicians.
+
+“Initial support for ether can be gauged by its latest breakout point near $2,038,” said Fairlead’s Stockton. “Intermediate-term momentum is positive but should moderate.”
+
+As of the most recent closing data on Monday, ether’s 90-day correlation to bitcoin was 0.71, which is trending upward after falling since April 19, when it hit a nine-month high of 0.82. Correlation measures how similar two assets perform: A 1 would mean perfect correlation while 0 would mean two assets are totally differentiated.
+
+Retail capitulation
+
+Correlation between ether and bitcoin the past year. Source: CoinDesk Indexes
+
+It’s possible increased retail participation might be setting up for a slower market that might have the two assets working more in sync in the weeks and months ahead, at least according to one analyst.
+
+“Only over-leveraged retail players have capitulated,” ExoAlpha’s Lifchitz said.
+
+“Bitcoin and, even more, ether have had a torrid ride over the last six months, so it wouldn’t be surprising that they go more or less sideways for a while until a new upward catalyst shows up,” Lifchitz added. “Like Musk announcing that he will focus on building better cars instead of a toaster on wheels, and stop tweeting about crypto.”
+
+Read More: Swiss Asset Manager Valour Launches Cardano and Polkadot ETPs
+
+Other markets
+
+Minutes chart of PAXG/USD Monday. Source: Binance US
+
+The price of paxos gold (PAXG) token, which is backed by gold, jumped on Monday. The PAXG/USD trading pair on Binance.US, which makes up about 13% of all volume for PAXG, went as high as $10,000 before falling back into the $1,800-$1,900 level.
+
+Darius Sit, chief investment officer for quantitative trading firm QCP Capital, noted PAXG’s small market capitalization and low liquidity as a reason for the break away from gold’s price, which is at $1,869 as of press time. “It’s probably thin liquidity,” Sit told CoinDesk.
+
+According to CoinGecko, PAXG is ranked #221 out of all cryptocurrencies in terms of its market capitalization, currently around $239 million.
+
+Digital assets on the CoinDesk 20 are mostly in the green Tuesday. Notable winners as of 21:00 UTC (4:00 p.m. ET):
+
+Notable losers:
+
+Equities:
+
+Commodities:
+
+Oil was down 1.2%. Price per barrel of West Texas Intermediate crude: $65.46.
+
+Gold was in the green 0.15% and at $1,869 as of press time.
+
+Silver is flat, down just 0.04% and changing hands at $28.16
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield fell Tuesday to 1.642 and in the red 0.62%.

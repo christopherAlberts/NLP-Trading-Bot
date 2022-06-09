@@ -1,0 +1,43 @@
+N.H. is a bitcoin hotbed; we’re a questions-about-bitcoin-legality hotbed, too
+
+Complicated new things often have straightforward old things hidden inside. Case in point: Two unrelated prosecutions in New Hampshire of alleged misdeeds involving one of the most bewildering items in the digital universe, blockchain-based cryptocurrencies.
+
+Although there are plenty of technical, legal and financial details in these cases, at heart they’re simple, say a couple of UNH law school professors whose expertise I sought.
+
+“Just because you call it a playtpus, that doesn’t mean it still ain’t a duck,” said Samson Williams, adjunct professor at UNH Franklin Pierce School of Law. “I would go back and reference Tesla. It’s great technology … but the car still has to comply with the rules of the road, which are very well defined. It’s very similar in the blockchain space. It’s a tool … The technology makes it easier to do; however the backend, particularly for consumer protection, still exists.”
+
+I approached Williams and George Pullen, another adjunct professor at the school, because they’re part of the law school’s interest in the digital world’s effect on the law, as reflected in the Twitter hashtag #UNHLawBlockchain. Williams’ school bio page describes him as an adjunct professor of “tokenomics,” which is a reference to digital tokens, key to one of the cases in question.
+
+Neither Williams nor Pullen offered any opinion about the guilt or innocence in these cases, by the way. Their role was to help me understand the issues.
+
+The simpler of the two New Hampshire cases involves a half-dozen people, many associated with the extreme-libertarian Free Keene cluster, who were charged by the FBI last month with operating an “illegal cryptocurrency exchange.” The FBI claims they sold bitcoin for what cryptocurrency fans love to call “fiat currency” – you and I call it money – which is a perfectly legal activity. But the feds say they sometimes sold more than the trigger point of around $10,000 that requires reports to financial or legal authorities, yet never filed such reports.
+
+The FBI claimed that Ian Freeman, who is prominent in the state’s bitcoin community (I have interviewed him in the past about bitcoin ATMs), had $178,000 in cash in his safe when his house was raided.
+
+Law enforcement has been leery of bitcoin being used in money laundering or other nefarious activities because the technology makes it easier to avoid notice. Bitcoin fans think this is a positive feature, part of a structure that bypasses the need for a central authority, like a bank.
+
+These allegations are pretty straightforward. The fact that it involves bitcoin instead of, say, Canadian dollars is almost incidental.
+
+The other case is harder to get your head around. It involves LBRY, a peer-to-peer video sharing service based in New Hampshire that I wrote about in 2018, and charges by the Securities and Exchange Commission, the group that oversees stocks and bonds and other financial instruments.
+
+My article concerned LBRY’s desire to be a no-holds-barred YouTube competitor, but the SEC doesn’t care about that. They’re interested in its financing.
+
+LBRY uses tokens or credits, a digital item that people can buy, sell or accumulate. They were used to register files on the LBRY network, which is scattered among users’ computers instead of only residing on a central server, or to boost their presence. In that sense they can act like “karma” earned on social-media sites like reddit, or rankings accumulated from customers on eBay, except they can be bought and sold. Between 2016 and 2020, the SEC says, LBRY sold 13 million of its LBRY Credits for the bitcoin equivalent of some $5 million, in order to fund itself.
+
+Most importantly, the value of the credits or tokens isn’t set in stone. Williams compared this to the physical tokens you buy at Chuck E. Cheese for a quarter to play their video games. You can keep the token and impress your friends with it, assuming your friends are easily impressed, but there’s no hope that it will one day be worth 26 cents. “There is no secondary market for that token,” he said.
+
+By contrast, LBRY credits did have a secondary market, as they could be sold separately and bought by people who had the expectation that their value would go up like any other cryptocurrency. If you doubt that people would trade something useful only on a small video platform, you’re applying the wrong sort of thinking. Consider dogecoin, a cryptocurrency that was started as a joke but is now worth many millions of dollars, depending on how you define “worth.”
+
+The SEC argues that such trading makes LBRY credits the functional equivalent of stocks and other securities (this veers into deep legal waters around things like the Howey test) and as a result LBRY should have registered itself with the SEC and followed laws and regulations built up around securities trading over the past eight decades. The SEC filed a civil suit in late March that seeks to stop the practice and also “seeks disgorgement of all ill-gotten gains,” a phrase I’ve never encountered outside of detective stories.
+
+LBRY’s not the only one subject to such a suit. Most prominently, the SEC has made similar claims against Ripple Labs Inc. for its tokens, called XRP.
+
+For its part, LBRY is not going quietly. It says its credits are just a commodity that “facilitates the LBRY protocol” and lets people function within its video service, called Odysee. Basically they argue that their platypus is, indeed, a platypus and not a duck, and yesterday’s laws can’t be applied to tomorrow’s technology.
+
+It goes further, saying that the suit could undermine “the blockchain and technology industry.” That’s quite a claim since blockchain, the technology underpinning bitcoin, is becoming big business: The recent IPO of Coinbase, a company that operates like a stock exchange for cryptocurrency, hit $80 billion.
+
+Williams and Pullen don’t find that claim convincing. “You’re going to see more actions from the SEC coming down,” Williams predicted. “It’s not that we’re against innovation or entrepreneurship, but we already have mechanism under which people can raise money for startups.”
+
+And, they add, we shouldn’t let these legal issues detract from inherent value.
+
+“Blockchain is one of those technologies that has a ton of amazing use cases,” said Pullen, pointing to supply chains as perhaps the most prominent example. “There are so many things it can do that don’t get into raising money … That is what people should want to know about.”

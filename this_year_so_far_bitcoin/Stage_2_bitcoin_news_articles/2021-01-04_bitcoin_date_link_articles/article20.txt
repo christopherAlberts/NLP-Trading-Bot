@@ -1,0 +1,17 @@
+Cryptocurrency prices jumped Monday evening after the U.S. Office of the Comptroller of the Currency (OCC) issued a letter approving U.S. banks to use public blockchain networks.
+
+Ether jumped nearly 12% on the letter’s release, given Ethereum’s dominance as a stablecoin payment settlement protocol, and bitcoin gained 5%. Both leading cryptocurrencies almost fully retraced Sunday evening’s losses.
+
+“After a flurry of negative regulatory news, investors are pleased to see positive regulatory news allowing stablecoin and public blockchain integration into the traditional banking sector,” said Justin Yashouafar, managing partner at Santa Monica-based Blockhead Capital.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+The letter addressed national banks and federal savings associations participating as nodes on a blockchain and storing or validating payments made in native digital assets or stablecoins.
+
+The OCC’s letter stands in contrast to a bill introduced in the last U.S. Congress session that would have required stablecoin issuers to obtain bank charters. That aggressively anti-stablecoin proposal resulted in hundreds of thousands of dollars in donations sent to leading cryptocurrency advocacy group Coin Center.
+
+In mid-December the Treasury Department proposed enhanced know-your-customer (KYC) rules on U.S. cryptocurrency users that want to transfer their holdings from an exchange to their own personal wallets.
+
+Yashouafar noted the positive reactions of bitcoin and ether Monday were followed by price jumps from native tokens for other stablecoin-supporting networks, such as Algorand and Solana, both of which support the two largest stablecoins: tether (USDT) and Circle’s USDC stablecoin.
+
+Yet, while the prices of ether and algorand “reacted immediately to the news,” Yashouafar pointed out that Solana’s had not.

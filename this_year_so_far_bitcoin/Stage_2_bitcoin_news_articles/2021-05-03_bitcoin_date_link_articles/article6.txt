@@ -1,0 +1,57 @@
+It’s been a big year for Bitcoin. Between hitting an all-time high trading price over $63,000, landing on the balance sheets of major companies, and being recognized as inevitable by financial institutions that once tried to avoid it, the rise of Bitcoin – and the broader adoption of cryptocurrency – is one of the bigger stories of 2021. Cryptocurrencies are becoming more mainstream as a form of payment and investment — or speculation, depending on your perspective.
+
+Perhaps the appeal is in the underlying technology (that is, the use of math, rather than third-party banks, to facilitate nearly instant, inexpensive, irrevocable transactions anywhere on Earth). Perhaps it’s the arguable benefit of holding cryptocurrency, particularly Bitcoin, as a long-term hedge against inflation. Or maybe it’s the indisputable entertainment value of casting a one-minute candlestick chart to a big screen TV to watch the price move on a volatile day (a purely hypothetical scenario).
+
+Whatever the case, cryptocurrencies are clearly here to stay. Innovative employers are responding by putting Bitcoin compensation on the table as a benefit to attract top talent — and it it’s not just tech companies. This year, Twitter, the City of Miami, the City of Jackson, TN, the Sacramento Kings, and others have announced their exploration of Bitcoin payroll. We expect more are coming, and to start seeing employee-driven requests for the option. If your organization is considering paying employees or contractors in Bitcoin, what do you need to know?
+
+Is it Legal to Pay Wages in Cryptocurrency?
+
+The first question you need to confront: whether it is permissible under federal and state law to pay your workers in Bitcoin or similar cryptocurrency.
+
+Under the Fair Labor Standards Act, wages must be paid “in cash or negotiable instrument payable at par.” Cryptocurrency is, of course, neither. And while the more popular cryptocurrencies can easily and immediately be sold for cash, this fact might not matter to the U.S. Department of Labor.
+
+Further, employers must also consider state laws, some of which require wages to be paid in U.S. currency (including California, Washington, Georgia, Maryland, Delaware, Pennsylvania, Michigan, New Jersey, Texas, and Illinois). The specific restrictions and accompanying exemptions vary from state to state. In Georgia, for example, the statute does not apply to salaried company officials, superintendents, or certain department heads, or to employers in the farming, sawmill, and turpentine industries. Meanwhile, in Texas, while wages are generally required to be paid in U.S. currency, “an employee may agree in writing to receive part or all of the wages in kind or in another form.”
+
+For these reasons, you should pay base compensation in the U.S. currency in amounts that meet the federal, state, and local requirements for minimum wage, overtime, or salary-based exemptions. Any cryptocurrency payment program should be optional and authorized in writing by the employee (on a form clearly acknowledging the risks of doing so).
+
+Why Would an Employer Want to Pay in Cryptocurrency?
+
+Considering the legal hurdles and risks facing employers who explore this option, why bother? Primarily, talent acquisition by virtue signaling. Competition for hiring and retaining the best and brightest employees is fierce, especially in the tech industry. By offering to pay employees in cryptocurrencies, companies may attract workers looking for a forward-thinking employer by distinguishing themselves as early tech adopters that offer compelling benefits and compensation.
+
+Companies with remote or international contractors or employees might also appreciate the ease of making cross-border payments in cryptocurrency. Who needs to pick among international currencies and worry about exchange rates when anyone can send and receive Bitcoin in minutes with nothing more than a cell phone?
+
+Is It Practical to Pay in Cryptocurrency?
+
+If your company decides to offer cryptocurrency as part of its payroll or bonus program, there are two general ways it can be done. Employees can either be paid (1) in their normal currency, with a designated portion of their wages being converted to their selected cryptocurrency and sent to their wallet; or (2) in the cryptocurrency itself.
+
+In the conversion option, the employee may bear some risk that the exchange rate available to the employer is not as favorable as what the employee could get buying the cryptocurrency themselves. In the direct payment option, you are technically making a payment in property, not cash, under current IRS guidance (check out the IRS FAQs, a 2014 Notice, and a 2019 Revenue Ruling on the matter). The fair market value of the cryptocurrency — easy to determine for coins as popular as Bitcoin and Ether — is subject to payroll taxes and must be reported on Form W-2. While not impossible, this impact on payroll reporting and tax withholding could be administratively difficult. Regardless of the option chosen, most employers should strongly consider using a third-party service dedicated to processing payroll in cryptocurrency.
+
+One common concern about paying employees in Bitcoin is its volatility risk — $100 worth of Bitcoin on payday might only be worth $80 when it hits the employee’s wallet. These days, it might be a fair presumption that anyone comfortable enough with cryptocurrency to opt in to receiving it as part of their wages would be very familiar with this risk. (Many would even be excited if the price fell dramatically right before payday, so they can “buy the dip.” Lots of users are dollar-cost averaging cryptocurrency into their portfolios just as they would buy mutual funds in a 401(k).) But you need to consider the risks that would likely accompany those disgruntled employees who are not happy with such a precipitous drop. And you might not want to simply assume that anyone signing up to receive compensation via cryptocurrency understands these swings, making sure to provide sufficient notification about the realities to those considering the option.
+
+Another concern is taxes. Despite IRS guidance published on the topic in 2014, and clarified in great detail in late 2019 (links above), many cryptocurrency holders seem to be unaware that they are walking into an interesting lesson in capital gains taxes when they buy, sell, exchange, and are paid in cryptocurrency. You should include relevant disclaimers, and perhaps a reference to current tax guidance, in any employee authorization to be paid in a digital asset.
+
+The Future Of Cryptocurrency
+
+Bitcoin adoption has been moving at light speed in 2021. Simply stated, it is not a passing fad.
+
+Private Businesses Getting in on the Act
+
+WeWork announced that it will start accepting payment in Bitcoin, Ether, and several other cryptocurrencies as payment, including for its memberships, and intends to hold the assets on its balance sheet. It will also work with landlords and other partners to make payments in cryptocurrency. Coinbase, the largest cryptocurrency exchange in the United States, will be the first client to pay for its WeWork membership in cryptocurrency.
+
+Mastercard has announced that it plans to give merchants the option to receive payments in cryptocurrency this year. Mastercard’s Executive Vice President for Blockchain and Digital Asset Products, Raj Dhamordharan, commented, “Our philosophy on cryptocurrencies is straightforward: It’s about choice. Mastercard isn’t here to recommend you start using cryptocurrencies. But we are here to enable customers, merchants and businesses to move digital value.”
+
+Venmo, a large peer-to-peer payment app, announced that it would support cryptocurrency payments between users. PayPal announced that its users will be able to buy, sell, and transfer cryptocurrencies.
+
+Federal and State Governments are also Signaling Interest
+
+In February, Treasury Secretary Janet Yellen indicated that central banks should be considering issuing digital currencies. From Yellen’s view, a digital dollar could help alleviate hurdles that many low-income households face in financial inclusion. However, Secretary Yellen has also warned that Bitcoin is “extremely inefficient,” and the Biden administration is reportedly developing a crypto regulatory framework.
+
+In 2019, Ohio gave companies that operate there the option of paying their taxes with Bitcoin. Other states, such as Georgia and Illinois, have considered legislation to allow cryptocurrency tax payments – but to date, that legislation has failed. As Bitcoin becomes more widely adopted and used as a currency, look for other states to follow in Ohio’s footsteps and accept Bitcoin. States will likely make this move, and take other steps, to attract businesses just as private companies have begun to do.
+
+The government taking note of the benefits of cryptocurrencies is a large step toward legitimacy and mass adoption. Further, acceptance by the government could lead to systematic changes that would make it much easier for employers to accept payment in the form of cryptocurrencies and in turn pay employees with crypto.
+
+Conclusion
+
+The recent Bitcoin announcements by major companies is a sign of the increasing adoption of cryptocurrencies as currencies. This increases the likelihood that an employee may request to be paid in Bitcoin. As we have discussed, there are many potential traps when paying employees with Bitcoin and the decision to offer payment in Bitcoin should not be taken lightly. If you make the decision to pay employees in Bitcoin, or other cryptocurrencies, ensure that nonexempt employees are paid the applicable minimum and overtime wages.
+
+While there are many potential legal issues that may arise, employers who want to pay employees with cryptocurrency can likely find solutions with the help of legal counsel. Moreover, regardless of which state an employer is operating, you should never proceed with introducing cryptocurrency into wage or bonus payments without first consulting with your employment counsel.

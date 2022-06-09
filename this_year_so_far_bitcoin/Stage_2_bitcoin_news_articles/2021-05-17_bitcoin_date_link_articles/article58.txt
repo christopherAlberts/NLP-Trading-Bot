@@ -1,0 +1,23 @@
+Just as Colonial Pipeline restored all of its systems to operational status in the wake of a crippling ransomware incident a week ago, DarkSide, the cybercrime syndicate behind the attack, claimed it lost control of its infrastructure, citing a law enforcement seizure.
+
+All the dark web sites operated by the gang, including its DarkSide Leaks blog, ransom collection site, and breach data content delivery network (CDN) servers, have gone dark and remain inaccessible as of writing. In addition, the funds from their cryptocurrency wallets were allegedly exfiltrated to an unknown account, according to a note passed by DarkSide operators to its affiliates.
+
+"At the moment, these servers cannot be accessed via SSH, and the hosting panels have been blocked," the announcement obtained by Intel 471 read.
+
+The development comes as DarkSide closed its Ransomware-as-a-Service (RaaS) affiliate program for good "due to the pressure from the U.S.", with the group stating that they would issue decryptors to all their affiliates for the companies that were attacked, along with a promise to compensate all outstanding financial obligations by May 23.
+
+While the takedowns mark a surprise twist in the Colonial Pipeline saga, it's worth noting that there's no evidence to publicly corroborate these claims, raising concerns that this may be an exit scam, an underhanded tactic that has plagued illegal darknet markets in recent years, or that the gang is giving the impression that it's retreating from the spotlight only to rebrand and stealthily continue its operations in another format without attracting unwanted attention.
+
+According to blockchain analytics company Elliptic, the bitcoin wallet used by the DarkSide extortionists received a payment of 75 BTC ($4.4 million) made by Colonial Pipeline on May 8, after which the wallet was emptied of $5 million in bitcoin on May 13. The wallet, which has been active since March 4, has received a total of 57 payments amounting to $17.5 million from 21 different wallets. DarkSide is estimated to have made at least $60 million since it emerged in the threat landscape in August 2020.
+
+"There has been speculation that the bitcoins were seized by the U.S. government — if that is the case they didn't actually seize most of Colonial Pipeline's ransom payment — the majority of that was moved out of the wallet on the May 9," Elliptic co-founder Tom Robinson said.
+
+By tracing the past cryptocurrency outflows from the wallet, Elliptic said 18% of the bitcoin was sent to a small group of exchanges, with an additional 4% sent to Hydra, the world's largest darknet bazaar which serves customers in Russia and Eastern Europe. Hydra accounts for over 75% of darknet market revenue worldwide in 2020, positioning it as a major player in the crypto crime landscape, per Chainalysis.
+
+DarkSide's operational setbacks and the heightened scrutiny that followed the Colonial Pipeline attack have also set in motion a wave of RaaS bans on illicit cybercrime forums such as XSS, Exploit, and RaidForums, posing a major short-term disruption of the ransomware economy. REvil, of the prolific ransomware groups, has since introduced new restrictions that prohibit the use of its software against health care, educational, and government entities belonging to any country.
+
+Viewed in this context, XSS, Exploit, and REvil's actions can be interpreted as a "ripple effect" of a series of high-profile ransomware incidents in the past week, including that of Babuk's on the Metropolitan Police Department, increasingly landing cybercrime groups in the crosshairs of law enforcement.
+
+"Needless to say, however, it's all but certain that ransomware will remain a persistent threat for the foreseeable future given their popularity and popularity among cybercriminal communities," Flashpoint said. "If anything, ransomware attacks will likely continue to grow in both scale and frequency. After the closure of DarkSide, the ransomware landscape is dominated by four major collectives: REvil, LockBit, Avaddon, and Conti."
+
+In light of XSS and Exploit's refusal to host RaaS operations on their platforms, ransomware collectives are expected to go private and advertise recruitment for new affiliates via their own leak sites.

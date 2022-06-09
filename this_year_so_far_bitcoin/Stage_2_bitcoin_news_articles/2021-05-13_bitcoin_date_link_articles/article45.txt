@@ -1,0 +1,41 @@
+Bitcoin (BTC) dipped below $50,000 again on Thursday as the fallout from Elon Musk’s criticism continued to resonate.
+
+BTC/USD 1-hour candle chart (Bitstamp). Source: TradingView
+
+Traders wait for telltale buy signals
+
+Data from Cointelegraph Markets Pro and TradingView confirmed BTC/USD failing to establish $50,000 as support after initially dipping to $45,650.
+
+Musk, speaking as CEO of Tesla, had claimed that environmental concerns meant that the company would no longer accept BTC payments.
+
+After a three-hour slow crash, BTC/USD then rebounded to near $52,000 before losing steam once more. At the time of writing, the pair traded at around $49,500 amid heavy volatility.
+
+As Cointelegraph reported earlier, however, Bitcoin price trends beyond the short term remained unchanged by Musk and traders’ responses to him.
+
+For popular trader Scott Melker, it was thus time to use an established method for determining when the price floor was likely to hit.
+
+For this, he used the relative stength index (RSI), a classic indicator of overbought or oversold areas.
+
+“I post this every time 4 hour RSI goes oversold and it works more times than not. An overbought bear div was the top,” he told Twitter followers.
+
+“Now I want to see a lower low in price and a higher low on RSI. Could be this candle or take days, but it’s the signal I want.”
+
+Thursday had already seen Bitcoin cancel its downtrend when it encountered the 21-week exponential moving average (21EMA). This line in the sand had held throughout the past year’s bull market and that of 2017 and is thought to provide reliable support for periods where bullish momentum sees a short-term retracement.
+
+The 21EMA was still rising steeply this month, demanding that BTC/USD thus returns to setting higher highs and higher lows on weekly timeframes in order to preserve its usefuless.
+
+Previously, a warning had given $40,000 as a potential low should $50,000 fail to hold.
+
+Bitcoin bears battle essential moving average
+
+Meanwhile, as investors rushed to “buy the dip,” attention turned to where large clusters of bids from whale buyers might also help buoy the price.
+
+Bitcoin had paid no attention to whale positions north of $50,000 despite plenty of buying occurring as high as $58,000.
+
+For monitoring resource Whalemap, however, the number of coins being transacted at a loss suggested that “panic” was already visible on the market even before the Musk episode.
+
+“These moments have historically been good buying opportunities as they indicate panic on the market,” part of a tweet on Tuesday explained.
+
+BTC/USD buy and sell position strength (Binance). Source: Material Indicators
+
+A look at buy and sell order configurations on Binance additionally showed retail investors now protecting $45,000, with $55,000 and upward becoming strong resistance.

@@ -1,0 +1,17 @@
+Bitcoin miners generated an estimated $1.1 billion in revenue in January, up 62% from December, according to on-chain data from Coin Metrics analyzed by CoinDesk.
+
+The surge in revenue came as bitcoin‘s price climbed from $29,000 to just below $42,000 in the first half of the month before levelling off through the last two weeks.
+
+Revenue estimates assume miners sell their BTC immediately.
+
+Monthly bitcoin miner revenue since January 2016 Source: Coin Metrics, CoinDesk Research
+
+Measured by per terahash per second (TH/s), miner revenues bounced between $0.20 and $0.27 for most of the month after peaking near $0.32 early in the month, per data from Luxor Technologies.
+
+Network fees brought in $116 million in January, or over 10% of total revenue, a slight percentage increase from the 9.8% of revenue represented by fees last month. Fee revenue hit its highest mark since January 2018, per Coin Metrics data.
+
+Fees measured in dollars were quite volatile in January, with average transaction costs bouncing between $5 to above $16 throughout the month, per Coin Metrics.
+
+Notably, fees as a percentage of total revenue continues a strong upward trend since April, prior to the network’s third-ever block subsidy halving in May. Increases in fee revenue are important to sustain the network’s security as the subsidy decreases every four years.
+
+Bitcoin fees as a percentage of monthly miner revenue since January 2016 Source: Coin Metrics, CoinDesk Research

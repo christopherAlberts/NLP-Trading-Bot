@@ -1,0 +1,51 @@
+Bitcoin slipped on Friday as reports of U.S. President Joe Biden mulling a tax hike on wealthy Americans drew stronger selling pressure in the spot market.
+
+The biggest cryptocurrency traded well below the 100-day simple moving average support of $49,470 during the European hours, marking the first breakdown of the widely tracked technical line in six months and extending the recent sell-off from record highs above $64,000.
+
+Other alternative cryptocurrencies such as ether, binance token, XRP, dogecoin, suffered bigger pullbacks, having outperformed bitcoin in recent days. Dogecoin slipped nearly 25%, while others witnessed 14% to 18% drawdowns against bitcoin’s 11% drop.
+
+“The market has been trading extremely risk on due to Federal Reserve’s [liquidity-boosting] policy that supported risk trades. Now the reality of the Biden administration hits, and the market is going to start worrying about taxes & regulations,” Phillip Gillespie, CEO of the over-the-counter liquidity provider B2C2 Japan, told CoinDesk.
+
+Bitcoin chart
+
+As per The New York Times, President Biden is planning to roughly double the tax on capital gains or proceeds earned from selling assets to 39.6% from 20%. The new rate will be applicable for people earning more than $1 million a year.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+The news hit the wires late Thursday and tanked the U.S. equity markets, aggravating the weakness in bitcoin.
+
+“The cryptocurrency was already on the defensive, having breached the long-held 50-day SMA support earlier this week,” Pankaj Balani, co-founder and CEO of the Singapore-based Delta Exchange. “The tax news invited more profit-taking.”
+
+Spot market sell-off
+
+Bitcoin dropped sharply from $60,000 to $52,148 early Sunday, taking the cryptocurrency below the 50-day SMA for the first time since October. While that move was largely derivatives-driven, the latest drop below $50,000 is likely a result of selling in the spot market.
+
+“I think ultimately at the core, it’s a spot-driven sell-off, with the market having been quite vulnerable to pullback after a parabolic price surge in Q1 2021,” Joel Kruger, currency strategist at LMAX Digital, said.
+
+Bitcoin trades on major exchanges Source: CoinMetrics
+
+The U.S.-based Coinbase exchange has seen big offers (blue) in the past 24 hours. Bitfinex sellers (green) appear to have played a role as well, according to data provided by Coin Metrics.
+
+Bitcoin: Exchange inflows Source: Glassnode
+
+Further, exchanges witnessed a net inflow of 20,370 BTC on Wednesday, the highest since March 20, according to data source Glassnode. Investors typically move coins to exchanges when they want to liquidate their holdings.
+
+Market to stay choppy?
+
+Bitcoin might regain some poise over the next few days, having seen a 25% drop since Coinbase’s debut on Nasdaq on April 14. However, a solid v-shaped recovery may remain elusive, as per trader and analyst Alex Kruger.
+
+“Crashes characterized by heavy spot selling don’t bounce as hard, making BTFD (buy the f***ing dip) much more challenging,” trader and analyst Alex Kruger tweeted early today.
+
+According to Delta Exchange’s Pankaj Balani, the market is likely to remain choppy till the end of June, and rallies could be short-lived. “It’s a sell on the rise market for now,” Balani said, a convincing move above $60,000 would revive the bullish bias.
+
+Renewed whale buying may be needed to revive the animal spirits in the bitcoin market.
+
+Bitcoin: whale entities Source: Glassnode
+
+Bitcoin’s bullish momentum has steadily weakened over the past two months alongside the near 10% drop in the whale entities – clusters of crypto wallet addresses held by a single network participant holding at least 1,000 bitcoin
+
+For now, short-term technical studies appear to have rolled over in favor of the bears, and the negative bias would strengthen if prices find acceptance under the 100-day SMA.
+
+“A deeper pullback is certainly possible. One needs to look no further than a still well extended monthly chart that warns of the risk for additional weakness and consolidation before that next major leg higher,” LMAX Digital’s Joel Kruger said, adding that their focus is on a longer-term upside.
+
+According to Curtis Ting, Kraken’s managing director of Europe, the latest 25% pullback is typical of a bull market correction and the broader bias remains constructive. Indeed, bitcoin saw several 20%-30% drawdowns during the 2017 bull run.”We won’t attempt to make short-term predictions on the price, but bitcoin’s core fundamentals and value proposition remain unchanged.” Ting said.

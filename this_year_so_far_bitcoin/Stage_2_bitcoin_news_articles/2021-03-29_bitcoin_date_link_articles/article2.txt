@@ -1,0 +1,37 @@
+In 2018, the global cryptocurrency market had crashed, and Sergii Gerasymovych was looking for a way to keep his Bitcoin mining company afloat. He eventually settled on a plan to make money while cleaning up two notoriously climate-polluting industries.
+
+Gerasymovych’s biggest headache—as for all Bitcoin miners—was the price of electricity. Bitcoin miners compete against one other to unlock coins by solving increasingly difficult math problems with fleets of computers. This consumes a lot of power globally: about as much as Argentina each year. Bitcoin miners’ profit margin largely relies on the gap between electricity bills and Bitcoin’s value; if the latter drops, the only way to make up the margin is to curb the former. That’s why so much of the world’s cryptocurrency mining is tied to low-cost coal and hydroelectric plants in Asia. Gerasymovych was hunting for cheap power in the US, and stumbled on an intriguing source: Flare gas from natural gas wells. Now, a number of market trends are converging to propel a nascent industry in gas-powered Bitcoin.
+
+Fracking for Bitcoin
+
+Oil and gas wells in hydraulically fractured (“fracked”) shale formations produce some waste gas as a byproduct, mostly composed of methane. Since selling this gas is usually unprofitable, it’s typically disposed of by burning it off. Those little flares, from thousands of wells around the world, add up. Gas flaring is responsible for at least 1% of global carbon emissions, and collectively wastes hundreds of millions of dollars worth of natural resources every year. In the US, that has made flaring a target for regulators in gas-producing states like Texas, New Mexico, and North Dakota, which are considering new restrictions on the practice. BlackRock, the asset manager that has stepped up pressure on companies to disclose their climate risks, has called for the “near elimination” of flaring globally by 2025.
+
+Anticipating a crackdown, some gas companies are starting to look for their own solutions. One cost-effective way to reduce flaring emissions is to turn the waste gas into electricity with a generator, and use it to power something, like lights or pumps, on the well site. But Gerasymovych realized that crypto miners and gas drillers could both benefit by converting waste gas into cheap power. What better way to reduce emissions than supplying a data center, ravenous for cheap 24/7 electricity, that can be built into a transportable shipping container?
+
+There was just one problem: Perhaps because of Bitcoin’s tumultuous price swings, gas companies weren’t interested. “People laughed at us,” Gerasymovych said. Then three things changed. First, the pandemic struck, and the price of natural gas cratered; an industry that was already on shaky financial footing found itself facing an existential crisis as drilling ground to a halt and scores of shale companies went bankrupt. Second, thanks in part to a Feb. 2021 endorsement by Elon Musk, the price of Bitcoin soared.
+
+Third, Gerasymovych decided to tweak his business model to sweeten the deal for gas companies. Rather than buy their cheap flare gas to run his own mines, his company, EZ Blockchain, charges a few hundred thousand dollars to install and perform regular maintenance on a Bitcoin mining data center, and lets the gas company reap the Bitcoins itself. In other words, the gas company becomes the miner, and uses its own gas for free.
+
+“The market conditions have changed,” Gerasymovych said. “Now, every oil and gas company we reached out to in 2018 is calling us back because they see Bitcoin is making a lot of money.”
+
+The rapidly emerging gas-to-crypto industry
+
+On Mar. 16, EZ Blockchain announced that it had finished setting up its latest gas-adjacent Bitcoin mine, at a gas facility near Moab, Utah operated by Wesco Operating Inc., an independent gas company with 500 wells across the US. That marks the fifth mine EZ Blockchain has set up since the pandemic started, Gerasymovych said, with at least two more on the way. Steve Degenfelder, a spokesperson for Wesco, said the company’s leaders first heard about Bitcoin from some young software engineers on the staff.
+
+“This was stranded gas that didn’t have a market,” he said. “Now, we’ve eliminated the flaring [from that site], and greatly reduced the emissions. And it doesn’t take electricity off the grid, which is getting to be the controversial issue with data centers and Bitcoin mining.”
+
+EZ Blockchain and Wesco aren’t the only companies with the same idea. The Russian state-owned oil company Gazprom is mining Bitcoin with flare gas in Siberia. Denver-based Crusoe Energy provides a similar service as EZ Blockchain, but usually installs the data center for free, pays the gas company for the gas, and keeps the Bitcoins itself. The company has set up 40 gas-powered mines in the US the last few years, said Cully Cavness, its president, and hopes to hit 100 by the end of 2021. Its clients include the European multinational oil major Equinor.
+
+“We have a significant backlog of projects, for months,” he said. “We’re trying to scale quickly to meet the scale of the problem.”
+
+A new incentive for gas drilling?
+
+Some digital currency experts remain skeptical that gas-powered Bitcoin mining is really a win for the climate. Alex de Vries, an economist who published a recent paper in the journal Joule about Bitcoin’s massive carbon footprint, said that monetizing flare gas only creates an incentive for more drilling: “You’re making fossil fuel mining more profitable, so you’re not helping,” he said.
+
+Alex Trembath, deputy director of the Breakthrough Institute, a clean energy think tank, said that the approach sounds like “an incremental improvement” over unmitigated flaring. But no matter the power source, he said, it’s hard to justify Bitcoin’s enormous energy demand given that it benefits only a relatively tiny group of investors. Flare gas could just as well power carbon capture machines, he said, water desalination plants, or data centers that support more widely used applications, like video streaming or email (Crusoe is planning to open some of its data centers to more general cloud computing uses, Cavness said, and has donated data-crunching space to a group that studies Covid-19 protein folding).
+
+“What they all have in common is that there’s a social value in those things that I don’t see for Bitcoin,” Trembath said.
+
+Bitcoin’s bubble could soon burst, one of its founders warned last week; it has happened before. If it does, companies like Wesco will see the profit potential burn off. But with the cheapest power in the crypto mining industry—their own—they could at least come out ahead of other miners.
+
+“There is no price for Bitcoin at which they won’t be making money,” Gerasymovych said. “Bitcoin can’t go negative—which, by the way, oil did.”

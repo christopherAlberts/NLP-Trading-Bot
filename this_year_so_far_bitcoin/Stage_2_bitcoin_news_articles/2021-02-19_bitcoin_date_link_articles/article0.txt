@@ -1,0 +1,37 @@
+This article is excerpted from Blockchain Bites, a daily roundup of the most pivotal stories in blockchain and crypto news. You can subscribe to get the full newsletter here.
+
+$1T
+
+Bitcoin is a trillion-dollar asset. The first and largest cryptocurrency set a new high of $53,739.48 Friday morning, the magic number at which the market value of all bitcoins in circulation is worth $1 trillion. This is up from a $178 billion market capitalization last year, CoinDesk’s Zack Voell reports.
+
+While in some sense a meaningless event, it is also a serious milestone on the path for bitcoin to become a significant part of the global financial ecosystem. The open protocol is now more valuable than Facebook, and could soon overtake Alphabet, Google’s parent, or Amazon if prices continue to rise.
+
+In February 2011, just two years and one month after the Bitcoin “genesis block” was mined, the cryptocurrency hit dollar parity, or the moment when one BTC could be exchanged for $1. This was an important psychological event, proving that bitcoin wasn’t just a usable currency, but a viable, alternative monetary system.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+“[I]t’s like going from kids playing an early version of a game on the street with sticks and rocks, to 10 years later it being the fastest-growing, most important, most impactful game that’s taking over the sports world,” CoinDesk podcast editor Adam B. Levine, an early adopter, told Blockchain Bites.
+
+“Initial viability is important. Mainstream acceptance is important,” he said. Institutions are rapidly entering the bitcoin economy at a moment when the U.S. dollar’s longevity has never been more in question.
+
+Indeed, the trillion dollar sign post may signal a future where a dollar price quote for bitcoin hardly matters. It’s unlikely the entire global economy is denominated in satoshis – even less so in “bits” – but bitcoin could become a viable global reserve asset. Not just sitting on disruptors like MicroStrategy or Tesla’s balance sheets, some predict a world where governments hold.
+
+As Michael Venuto of Toroso Asset Management said this morning on CoinDesk TV, “[Bitcoin’s] price is more or less a meme. It gets people excited but perhaps for the wrong reasons, preventing them from going down the rabbit hole.”
+
+Other stories
+
+CeFi and DeFi paddycakes
+
+PancakeSwap is the latest automated market maker (AMM) clone looking to unseat Uniswap as the top DeFi trading platform. The protocol is developed by Binance and offers reprieve to soaring gas prices on the Ethereum-based original. Liquidity, volumes and the price of its native CAKE token are skyrocketing, perhaps to the ire of stone-cold Ethereum stans.
+
+Binance coin (BNB), a token developed for use across the exchange’s suite of products, is now the third-largest coin by market capitalization. Binance CEO Changpeng Zhao has long been a prominent of “CeDeFi,” or decentralized finance with centralized characteristics.
+
+This exchange ain’t big enough …
+
+OKCoin is delisting bitcoin cash (BCH) and bitcoin SV (BSV) to prevent new customers from confusing these two forks for bitcoin (BTC). “This is not an easy decision. We had a choice and there is collateral damage, but we had to stand up for the bigger principle we believe in,” OKCoin CEO Hong Fang told CoinDesk. Bitcoin Cash is a clone of Bitcoin, with minor adjustments to increase block sizes. BSV, championed by Craig Wright, known for his claims to be the inventor of the original Bitcoin, is itself a fork of Bitcoin Cash. CoinDesk tech reporter Colin Harper dives in.
+
+Systemically important: bank says
+
+Bitcoin, and the wider crypto market, could face a severe liquidity shock if traders lost faith in tether (USDT), according to JPMorgan analysts. In a new report, bank analyst played catch-up to the interminable tether conversation, saying the dollar-equivalent stablecoin’s implosure could trigger a bank run-like event. There are more than $33 billion USDT in existence, up from $4 billion just 12 months ago.
+
+Who won crypto Twitter?

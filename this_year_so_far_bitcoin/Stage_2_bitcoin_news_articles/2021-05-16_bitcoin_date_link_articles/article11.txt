@@ -1,0 +1,31 @@
+As the price of bitcoin hits record highs and cryptocurrencies become increasingly mainstream, the industry’s expanding carbon footprint becomes harder to ignore.
+
+Just last week, Elon Musk announced that Tesla is suspending vehicle purchases using bitcoin due to the environmental impact of fossil fuels used in bitcoin mining. We applaud this decision, and it brings to light the severity of the situation — the industry needs to address crypto sustainability now or risk hindering crypto innovation and progress.
+
+The market cap of bitcoin today is a whopping $1 trillion. As companies like PayPal, Visa and Square collectively invest billions in crypto, market participants need to lead in dramatically reducing the industry’s collective environmental impact.
+
+As the price of bitcoin hits record highs and cryptocurrencies become increasingly mainstream, the industry’s expanding carbon footprint becomes harder to ignore.
+
+The increasing demand for crypto means intensifying competition and higher energy use among mining operators. For example, during the second half of February, we saw the electricity consumption of BTC increase by more than 163% — from 265 TWh to 433 TWh — as the price skyrocketed.
+
+Sustainability has become a topic of concern on the agendas of global and local leaders. The Biden administration rejoining the Paris climate accord was the first indication of this, and recently we’ve seen several federal and state agencies make statements that show how much of a priority it will be to address the global climate crisis.
+
+A proposed New York bill aims to prohibit crypto mining centers from operating until the state can assess their full environmental impact. Earlier this year, the U.S. Securities and Exchange Commission put out a call for public comment on climate disclosures as shareholders increasingly want information on what companies are doing in this regard, while Treasury Secretary Janet Yellen warned that the amount of energy consumed in processing bitcoin is “staggering.” The United Kingdom announced plans to reduce greenhouse gas emissions by at least 68% by 2030, and the prime minister launched an ambitious plan last year for a green industrial revolution.
+
+Crypto is here to stay — this point is no longer up for debate. It is creating real-world benefits for businesses and consumers alike — benefits like faster, more reliable and cheaper transactions with greater transparency than ever before. But as the industry matures, sustainability must be at the center. It’s easier to build a more sustainable ecosystem now than to “reverse engineer” it at a later growth stage. Those in the cryptocurrency markets should consider the auto industry a canary: Carmakers are now retrofitting lower-carbon and carbon-neutral solutions at great cost and inconvenience.
+
+Market participants need to actively work together to realize a low-emissions future powered by clean, renewable energy. Last month, the Crypto Climate Accord (CCA) launched with over 40 supporters — including Ripple, World Economic Forum, Energy Web Foundation, Rocky Mountain Institute and ConsenSys — and the goal to enable all of the world’s blockchains to be powered by 100% renewables by 2025.
+
+Some industry participants are exploring renewable energy solutions, but the larger industry still has a long way to go. While 76% of hashers claim they are using renewable energy to power their activities, only 39% of hashing’s total energy consumption comes from renewables.
+
+To make a meaningful impact, the industry needs to come up with a standard that’s open and transparent to measure the use of renewables and make renewable energy accessible and cheap for miners. The CCA is already working on such a standard. In addition, companies can pay for high-quality carbon offsets for remaining emissions — and perhaps even historical ones.
+
+While the industry works to become more sustainable long term, there are green choices that can be made now, and some industry players are jumping on board. Fintechs like Stripe have created carbon renewal programs to encourage its customers and partners to be more sustainable.
+
+Companies can partner with organizations, like Energy Web Foundation and the Renewable Energy Business Alliance, to decarbonize any blockchain. There are resources for those who want to access renewable energy sources and high-quality carbon offsets. Other options include using inherently low-carbon technologies, like the XRP Ledger, that don’t rely on proof-of-work (which involves mining) to help significantly reduce emissions for blockchains and cryptofinance.
+
+The XRP Ledger is carbon-neutral and uses a validation and security algorithm called Federated Consensus that is approximately 120,000 times more energy-efficient than proof-of-work. Ethereum, the second-largest blockchain, is transitioning off proof-of-work to a much less energy-intensive validation mechanism called proof-of-stake. Proof-of-work systems are inefficient by design and, as such, will always require more energy to maintain forward progress.
+
+The devastating impact of climate change is moving at an alarming speed. Making aspirational commitments to sustainability — or worse, denying the problem — isn’t enough. As with the Paris agreement, the industry needs real targets, collective action, innovation and shared accountability.
+
+The good news? Solutions can be practical, market-driven and create value and growth for all. Together with climate advocates, clean tech industry leaders and global finance decision-makers, crypto can unite to position blockchain as the most sustainable path forward in creating a green, digital financial future.

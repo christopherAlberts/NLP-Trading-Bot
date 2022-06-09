@@ -1,0 +1,117 @@
+News Brief: Jan. 6 Report, Recovering Bitcoin Ransom, Alzheimer's Drug
+
+Senators release new details of the U.S. Capitol attack. The FBI recovers millions in ransom paid to end a cyberattack on Colonial Pipeline. The FDA approves a drug to treat Alzheimer's disease.
+
+LEILA FADEL, HOST:
+
+A bipartisan group of senators is out with new details on the January 6 attack on the U.S. Capitol.
+
+RACHEL MARTIN, HOST:
+
+Two committees worked together to look into what happened, but Democratic Senator Gary Peters, the chairman of the Homeland Security Committee, says the scope was narrow.
+
+GARY PETERS: It was focused on the facts, and it's focused on recommendations that can be implemented as quickly as possible. But all of us know that there's more work that needs to be done.
+
+MARTIN: How that work will happen is still up in the air. Last month, Senate Republicans blocked an effort to launch a bipartisan commission to investigate further.
+
+FADEL: NPR congressional reporter Claudia Grisales is following this and joins us now. Hi, Claudia.
+
+CLAUDIA GRISALES, BYLINE: Good morning, Leila.
+
+FADEL: So what are these new details? What did the committees discover?
+
+GRISALES: They found that Capitol Police and other agencies were in possession of even more alarming clues to the attack that were ultimately ignored, among those a website touting a reelection win for former President Donald Trump. And it included comments that, quote, "This is do or die. Bring your guns" and to be prepared to drag down police. And they also said they could enter the Capitol like a militia group and, quote, "certify the Trump electors." A Capitol Police official had also shared an online tip received by the FBI National Threat Operation Center of a significant uptick in new visitors to a website called washingtontunnels.com. But ultimately, that information didn't get to top leaders of the agency.
+
+Finally, we heard more extensively from Defense Department officials interviewed behind closed doors. This includes the then-acting defense secretary, Chris Miller, and the chair of the Joint Chiefs of Staff, General Mark Milley. And they asked if the permits for the thousands of demonstrators that day could be revoked ahead of January 6 and if D.C. could be locked down. But those proposals were not pursued further.
+
+FADEL: Wow. I understand the senators didn't get all the information, though, that they had requested during their investigation.
+
+GRISALES: That's right. Federal agencies such as the Justice Department and Homeland Security only shared partial answers to all of the committee's inquiries. And the panel's leaders, such as Senator Gary Peters, expressed disappointment. And also, the House sergeant-at-arms - this is a top security official in that chamber - was reluctant to participate. And this could be tied to the fact that this was a Senate probe, and the chambers are working on separate tracks. So it's a reminder of the obstacles that these congressional probes still face. And some say it's an argument for the need for a 9/11-style commission or committee that can subpoena these witnesses. But as we know, the Senate fell a few votes short last month to get legislation going to create one of these commissions.
+
+FADEL: Right. So after this investigation, what are the committee's recommendations?
+
+GRISALES: They laid out 20 of those recommendations. And one of those requires a legislative fix to allow Capitol Police to allow its chief to unilaterally call for emergency backup and not face delays as a result of seeking approvals from the agency's oversight board like we saw that day. Senate Rules Committee Chair Amy Klobuchar and the ranking Republican, Roy Blunt, plan to introduce that bill. Also, this report could provide the foundation for a Senate proposal on a supplemental security funding bill. Here's Senator Rob Portman.
+
+ROB PORTMAN: It will be very helpful to have this report out there to - you know, a fact-based way and a bipartisan way to lay out what the needs are so that the appropriations is appropriate on equipment, on training, on recruitment, on other things.
+
+GRISALES: And this comes after the House passed a $1.9 billion version of that plan, so this could trigger talks with the Senate and also comes as House Speaker Nancy Pelosi is considering whether to move forward to some type of select committee to investigate the attack or additional probes in the House.
+
+FADEL: NPR's Claudia Grisales. Thank you.
+
+GRISALES: Thanks for having me.
+
+(SOUNDBITE OF MUSIC)
+
+FADEL: The FBI has recovered millions in ransom paid to end a cyberattack on one of the nation's largest fuel pipelines.
+
+MARTIN: Right. So Colonial Pipeline paid about $4.4 million worth of bitcoin to end the attack last month. U.S. officials say they recovered most of that from a virtual wallet.
+
+FADEL: NPR justice correspondent Ryan Lucas joins us now with more. Hey, Ryan.
+
+RYAN LUCAS, BYLINE: Good morning.
+
+FADEL: So how did investigators track down this money and get it back?
+
+LUCAS: Well, U.S. officials say a criminal hacker group called DarkSide was behind this ransomware attack against Colonial last month. DarkSide is based in Russia, and the group provides ransomware to criminal actors who use it to take control of the victim's computer system and demand a ransom to unlock it. And DarkSide then gets a share of the proceeds from that. The FBI says that it has been investigating DarkSide since last year. And based on that investigation, the FBI identified a digital wallet that DarkSide used to collect and hold the ransom payment from Colonial. And the FBI then got a warrant to seize those funds. In this case, it was $2.3 million in bitcoin. Deputy Attorney General Lisa Monaco said the department had turned the tables on DarkSide, and she applauded Colonial for quickly contacting the government.
+
+(SOUNDBITE OF ARCHIVED RECORDING)
+
+LISA MONACO: The message we are sending today is that if you come forward and work with law enforcement, we may be able to take the type of action that we took today to deprive the criminal actors of what they're going after here, which is the proceeds.
+
+FADEL: So has Colonial said anything about the recovery of most of their ransom money?
+
+LUCAS: Well, the company's president put out a statement in which he thanked the FBI for its work. He said that right after this ransomware attack happened, Colonial, behind the scenes, kind of quietly and quickly contacted the FBI in Atlanta and San Francisco. And he said the feds were instrumental in helping the company understand the hackers and what the hackers were up to and what their tactics were.
+
+FADEL: So it seems like we're talking about ransomware a lot these days. So what else is the Justice Department doing to try to get a handle on this type of cyberattack?
+
+LUCAS: There have been absolutely a lot of high-profile ransomware attacks as of late. Right after the Colonial Pipeline one, the world's largest meat processing company, JBS, was hit with a ransomware attack. Here's Lisa Monaco again.
+
+(SOUNDBITE OF ARCHIVED RECORDING)
+
+MONACO: Ransomware attacks have increased in both scope and sophistication in the last year, targeting our critical infrastructure, businesses of all types, whole cities and even law enforcement.
+
+LUCAS: Now, that law enforcement reference there at the end hits close to home because the Washington, D.C., police department was the target of a recent ransomware attack. So this is a growing menace. Monaco described it as a national security and economic security issue. The Justice Department recently created a ransomware task force to focus on this problem, to investigate and prosecute the cybercriminals behind these sorts of attacks. This Colonial ransom recovery operation was actually the task force's first operation of this kind. But the Biden administration writ large is also focused on this issue. Officials say a lot of these groups operate out of Russia with sort of a - the tacit approval from the government there. President Biden plans to raise this issue with Russian President Vladimir Putin when the two meet next week in Geneva, so this is an issue that is very much front and center right now.
+
+FADEL: NPR's Ryan Lucas. Thank you, Ryan.
+
+LUCAS: Thank you.
+
+(SOUNDBITE OF MUSIC)
+
+FADEL: The FDA has approved the first new drug to treat Alzheimer's disease in nearly 20 years.
+
+MARTIN: Which sounds like great news, right? But the price tag of this drug is expected to be about $56,000 a year. That's about the yearly salary for an experienced teacher in Columbus, Ohio, or the annual pay for a rookie cop in San Antonio, Texas. And the cost isn't the only thing that has raised some concern. Some doctors and scientists say the research just isn't there yet to prove that this drug actually works.
+
+FADEL: So here to talk about the controversy is NPR science correspondent Jon Hamilton. Hey, Jon.
+
+JON HAMILTON, BYLINE: Hey.
+
+FADEL: So tell us about this drug. What does it actually do?
+
+HAMILTON: Well, the drug is called Aduhelm, and it is the first approved drug that does more than just relieve the symptoms of Alzheimer's. This drug actually affects the underlying disease process by reducing the amount of sticky amyloid plaque that builds up in the brain. The catch is that removing this plaque may not help patients avoid memory loss. So one big study showed that it did. Another showed that it didn't. And an advisory panel to the FDA actually voted against approving this drug. So there's been a lot of public debate about the decision.
+
+FADEL: So two studies coming to two different conclusions, the advisory panel saying don't approve it. So why did the FDA decide to ignore that advice?
+
+HAMILTON: The agency published a pretty detailed explanation of their thinking, which is unusual. And it was remarkable for what it did not do. It never tries to argue that Aduhelm actually works to preserve someone's thinking or memory. Instead, it focuses on what has been shown, which is that the drug can remove plaque from the brain. And they argue that a drug that can remove plaque is reasonably likely to slow down the disease, even though the studies so far haven't confirmed that. The other point the FDA made was that there is no other treatment for this disabling, fatal disease that affects about 6 million people in the U.S. So they said that justifies giving Aduhelm something called accelerated approval, which means the drug's makers have to conduct another study after the product is already on the market.
+
+FADEL: So what's been the reaction so far?
+
+HAMILTON: There's been a lot of love. There's been a lot of hate. And there's been some celebration among investors who think Aduhelm is going to make a lot of money. I spoke to Dr. Richard Hodes, the director of the National Institute on Aging. He did not directly question the FDA's decision, but he did suggest that drugs to remove amyloid, drugs like this one, may be the wrong approach to stopping Alzheimer's.
+
+RICHARD HODES: People who work in the field regard amyloid as one component of the pathology underlying disease but not the only one. Of the NIA-supported clinical trials, it's only a minority, in fact, that are currently targeting amyloid.
+
+HAMILTON: Another reason the NIH is looking elsewhere is that there have been large clinical trials of a couple of dozen amyloid drugs over the past 20 years or so, and they all failed to help patients.
+
+FADEL: Now, there must be some people who feel hopeful, who support the FDA's decision. Right?
+
+HAMILTON: There's been a lot of support from doctors who treat Alzheimer's patients and from patient groups. I talked with Harry Johns, the CEO of the Alzheimer's Association. He told me they see Aduhelm as a small first step, you know, much like the first drugs for some other diseases.
+
+HARRY JOHNS: Hypertension, HIV/AIDS - not perfect treatments, but have stimulated other investments that then become so important to advancing the cause. So part of what he's arguing there is that approving a drug like Aduhelm might encourage the development of other drugs.
+
+FADEL: All right. NPR's Jon Hamilton. Thanks, Jon.
+
+HAMILTON: Thank you.
+
+Copyright © 2021 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.
+
+NPR transcripts are created on a rush deadline by Verb8tm, Inc., an NPR contractor, and produced using a proprietary transcription process developed with NPR. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.

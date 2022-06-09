@@ -1,0 +1,19 @@
+Galaxy users can now import and manage all their assets for cryptocurrencies and DApps in one, easy-to-use and secure location
+
+Samsung Electronics announced that blockchain users can now manage and trade virtual assets from third-party wallets on Samsung Galaxy smartphones. The update makes it easier for blockchain users to access and process transactions by importing virtual assets stored on select cold hardware wallets to the Samsung Blockchain Wallet available on most Galaxy smartphones.1
+
+Support for hardware wallets provides Galaxy blockchain with a consistent user experience of managing crypto assets from one convenient location. In addition to the Samsung Blockchain Keystore, Galaxy smartphones can now connect to hardware wallets including the Ledger Nano S and Ledger Nano X.2 Samsung Blockchain Wallet users will also be able to keep up with the latest trends in cryptocurrency with a dedicated newsfeed in the app featuring articles from CoinDesk, one of the top blockchain news outlets.
+
+New Mobile Experiences Powered by Advanced Security
+
+After launching with the Galaxy S10 in 2019, the Samsung Blockchain Wallet has grown to support some of the most popular cryptocurrencies including Bitcoin, Ethereum, ERC tokens, Tron (TRX), and TRC tokens. It also allows Galaxy users to explore decentralized apps (DApp) that use blockchain technology to authenticate the exchange of digital assets. From games to social media, finance, security and more, Samsung provides access to the latest DApps and offers recommendations for users across a variety of categories.
+
+To store and manage virtual assets, devices must be secure. Samsung’s mobile blockchain solutions are made possible by the defense-grade Samsung Knox security platform. The private keys used for cryptocurrency and DApps are encrypted and stored in an area isolated from the main operating system called the Samsung Blockchain Keystore. This information is further protected by a secure processor and can only be accessed by providing the asset owner’s PIN or fingerprint.
+
+Samsung believes innovation can only happen through an open and collaborative approach and has opened access to its blockchain ecosystem with the Samsung Blockchain SDK. Developers can build DApps that generate, store, and manage blockchain accounts easily and process transactions with APIs dedicated to each ledger system. It also provides APIs allowing DApps to securely sign for transfers of virtual assets using third-party hardware wallets.
+
+More information about the Galaxy Blockchain ecosystem and Samsung Blockchain Wallet is available here.
+
+1 Galaxy Smartphone devices running Android OS 9.0 or above will be supported, however availability may vary by model and condition. Users of Galaxy smartphones that do not feature the Samsung Blockchain Keystore will still be able to utilize this latest update by physically connecting to the hardware wallet to manage blockchain assets or keys. Visit here to confirm Samsung Blockchain Keystore device availability.
+
+2 Support for third-party hardware wallets varies by market. Bluetooth features of Nano X may be limited when connected to Samsung Blockchain Wallet.

@@ -1,0 +1,23 @@
+Bitcoin is testing support at $35 000 after a brutal sell-off over the last three weeks. Prices are down 40% since the second week in May, though there are signs of institutional support returning, according to an analysis by blockchain research group Glassnode.
+
+One way to measure institutional demand is to look at inflows to Grayscale Bitcoin Trust (ticker symbol GBTC), which is a way for institutional investors to gain exposure to bitcoin via a traditional security rather than buying it directly. Grayscale Bitcoin Trust takes care of safe storage and custody issues, with much clearer tax guidance and governance oversight.
+
+GBTC typically trades at a premium or a discount to the bitcoin spot price, giving an indication of the strength of institutional support.
+
+In January, GBTC saw inflows of almost 50 000 bitcoin (BTC) while GBTC traded at a premium of 10-20% to spot. That premium disappeared in February and by early May had turned into a discount of -21%. The discount has narrowed to -3.8% in recent days, suggesting that institutional interest has risen as bitcoin prices have fallen.
+
+Another reason for Grayscale’s disappearing discount to spot: the launch of a competitor in the form of Osprey Bitcoin Trust (ticker symbol OBTC), which promises lower costs at 0.49% than Grayscale (2%). Osprey is also more accessible in that it can be purchased inside an existing brokerage or retirement account.
+
+More competition is likely after the Chicago Board of Exchange has started the review process for the first bitcoin exchange-traded fund (ETF) in the US (there are several ETFs already listed in Canada).
+
+Osprey founder Greg King told Seeking Alpha that he is not concerned about bitcoin’s famed volatility, noting that whenever BTC cracks a previous all-time high (as it did last year by climbing through $20 000), the average subsequent return is 900% – suggesting we are still in a bull market that has plenty more to run.
+
+A notable trend in the last few months is the quantity of bitcoin moving from illiquid to liquid, as bitcoin were moved to exchanges (a signal of intention to sell or use as collateral for loans, margin trading and other uses). This should, however, be weighed against a remarkable rate of accumulation over the last two years, as bitcoin moved from weak to stronger hands. The sell-off in May was accompanied by a jump in illiquid coins coming back into circulation, after a year of steadily declining exchange liquidity, as shown in the graph below.
+
+“On the exchange front, there was a huge deleveraging in derivatives markets which created a cascade of market selling, margin calls and liquidations. From the $27.4 billion peak in futures open interest set in mid-April, over 60% of open interest has been cleared from the books,” says Glassnode.
+
+Demand for stablecoins (pegged 1:1 with fiat currencies such as the US dollar) shot up during the sell-off, which is indicative of investors parking crypto profits in more stable alternative investments with a view to re-entering the market once crypto prices have stablised. The fact they are parked in stablecoins rather than fiat currencies suggests a pent-up demand to re-enter the crypto markets at lower levels.
+
+An analysis of long-term holders (bitcoin held for a year or more) shows these tend to accumulate during bear markets, with increased selling on any relief rallies. This is something that Glassnode says is a potential to watch for in any rally in bitcoin prices in the coming months.
+
+The market now stands on a knife edge, with unrealised profits and losses held by long-term investors slipping under water. New arrivals to bitcoin in the last few months are suffering the greatest pain, while longer term investors tend to be less spooked by these sharp drops in price, having lived through them before.

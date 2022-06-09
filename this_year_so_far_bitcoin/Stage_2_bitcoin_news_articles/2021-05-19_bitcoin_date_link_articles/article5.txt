@@ -1,0 +1,51 @@
+Bitcoin tumbled for a fifth-straight day, putting the largest cryptocurrency on track for its worst month in more than three years and leading a full-flown retreat from digital-asset markets.
+
+At press time, bitcoin (BTC) was changing hands at around $38,500, after dropping below $31,000 earlier Wednesday. The price was down 9.8% since 0:00 coordinated universal time (8 p.m. ET Tuesday). As recently as April, the price had hit an all-time high of close to $65,000.
+
+The latest crash shook out bullish leverage from cryptocurrency derivatives markets, leading to more than $8 billion in position liquidations due to margin calls.
+
+Just in May alone, the bitcoin price is down more than 30%.
+
+This month’s slide was exacerbated by recent tweets by Tesla CEO Elon Musk, who terminated the electric-vehicle maker’s acceptance of BTC as a form of payment because of his concerns about the environmental impact of bitcoin mining. But as reported by CoinDesk, indicators from price charts and blockchain data had been signaling a downturn recently.
+
+The top cryptocurrency slipped earlier Wednesday to below its 200-day simple moving price average (SMA) of around $39,825, which had been seen as a key level of support. The average has come into play for the first time since April 29, 2020. Back then, the long-term technical line was located at about $7,977.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+While bitcoin has shed 40% in the past 24 hours, other top 10 coins such as ether (ETH), internet computer token (ICP), binance token (BNB), cardano (ADA), XRP (XRP) have suffered even bigger losses, according to data source Messari. Bitcoin’s 24-hour slide the biggest single-day percentage sell-off since the crash of March 12, 2020.
+
+Amid the market-wide risk aversion, exchanges offering crypto futures have liquidated $8 billion worth of positions, according to data source bybt.com. Bitcoin futures account for almost 50% of the total market-wide liquidations.
+
+Total liquidations seen in the past 24 hours, however, are still short of the record $10 billion worth of forced closures observed on April 17, when bitcoin fell sharply from $60,000. Since then, the market has mostly seen daily liquidations of less than $4 billion, barring today’s brief spike.
+
+Crypto futures market-wide liquidations Source: bybt
+
+The data shows the major part of the recent decline from $55,000 to below $40,000 is primarily driven by increased selling in the spot market. The number of bitcoin held on exchanges has risen by more than 65,000 BTC in the past seven days, according to data provided by Glassnode. Investors transfer coins to exchanges when they want to liquidate their holdings.
+
+The first leg of the correction – the drop from $60,000 to $52,000 seen in mid-April – was mainly due to the record liquidations. Forced closure of longs added to bearish pressures around the cryptocurrency, leading to an exaggerated price drop.
+
+What's next for bitcoin
+
+The correction could soon run out of steam as technical indicators show oversold conditions. Further, the order book is flashing signs of capitulation, the point at which traders trying to enter long positions begin throwing in the towel.
+
+“We are nearing capitulation to the downside,” crypto research firm Jarvis Labs noted in a post on Medium early Wednesday, while drawing attention to the relatively low concentration of leveraged longs at deeper price levels on Binance, the world’s largest crypto exchange by trading volume.
+
+Binance bitcoin liquidity map Source: Jarvis Labs
+
+“The pink bubbles buried underneath the price represent 25x leveraged longs. Red bubbles are 50x longs, which hardly exist, and yellowish-orange are 100x longs, which are virtually non-existent,” the post on Medium said. “Bubbles above the price line are showing not only a large amount of 25x shorts but also 50x and even 100x.”
+
+Capitulation is widely considered the final stage of the price sell-off.
+
+Analysts, however, stand divided on whether the market has bottomed out. Patrick Heusser, head of trading at Swiss-based Crypto Finance AG, told CoinDesk that the market needed a correction, and prices could consolidate at lows before moving higher.
+
+“Our desk is buying the dip,” Heusser told CoinDesk.
+
+Justin Sun, founder of the Tron blockchain, tweeted that he had bought $152.8 million worth of BTC at an average price of $36,686.
+
+Stack Funds Chief Operating Officer and co-founder Matthew Dibb said the pullback to the 200-day SMA is nothing out of the ordinary, and noted that a further decline to $30,000 is possible.
+
+Bitcoin has taken a beating over the past week, falling sharply from over $50,000 to 3.5-month lows under $40,000.
+
+“The BTC enthusiasm has been sucked out last week by the confluence of “Elon’s corporate ESG (environmental, social and governance) stamp of disapproval, the SEC’s (U..S. Securities and Exchange Commission) public un-enthusiasm for any ETF (exchange-traded fund) & the CME backwardation,” QCP Capital noted in its Telegram channel. Backwardation is when the current price of an asset is higher than its futures price.
+
+Musk attempted to calm market nerves late Sunday with a Twitter announcement stating that the company hasn’t sold its bitcoin holdings. So far, however, that has failed to put a floor under the cryptocurrency.

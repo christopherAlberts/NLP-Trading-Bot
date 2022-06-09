@@ -1,0 +1,23 @@
+10 May 2021
+
+New Bitcoin indicator series from State Street
+
+State Street Corporation has announced the launch of its new Bitcoin Thematic Indicator series, aiming to measure the rising popularity of Bitcoin and its impact on traditional financial markets.
+
+The company says the new indicator series will monitor media coverage of Bitcoin, measuring the intensity relative to general news of the day, as well as the sentiment of news over a period of time.
+
+The new indicator series expands on State Street’s MediaStats Thematic Indicator platform, which was launched in November 2020 in partnership with MKT MediaStats, a big-data information technology company specialising in financial markets.
+
+In an attempt to help institutional investors form a more complete picture of what factors are driving their portfolios and overall markets, the indicators analyse hundreds of thousands of digital news sources to generate daily sentiment signals.
+
+The new bitcoin indicator will capture large amounts of bitcoin information as well as linkages to traditional currencies and emerging trends, which investors can then leverage for portfolio planning and gain indirect exposure through equity baskets.
+
+“Over the last few months, media coverage around Bitcoin has grown significantly relative to corporate, financial and economic media markets, and continues to trend higher,” says State Street Associates, head of the investor behaviour research team, Rajeev Bhargava.
+
+“Understandably, institutional investors are increasingly eager to learn how this rising attention is impacting traditional asset markets. Our newest Bitcoin series provides a quantitative and timely measure of the tone and intensity of media discussion and reveals additional transparency into this highly sentiment-driven market, enabling our clients to make more informed investment decisions.”
+
+MKT MediaStats managing partner and founder, Dr Gideon Ozik, says, “Our indicators are built on a decade’s worth of natural language processing research combined with a strong academic underpinning.
+
+“Now, harnessing the power of vast data to provide real-time perspectives, we’re able to offer investors a tool they can leverage to make tactical and strategic judgments on key narratives that drive financial markets,” he says.
+
+Some of State Street MediaStats’ other new indicators include:

@@ -1,0 +1,43 @@
+The price of bitcoin has reached US$50,000 (£36,095) – another all-time high. It’s hard to believe that 10,000 bitcoin would only buy a couple of pizzas ten years ago. It’s even stranger to think that bitcoins are completely virtual. You can’t hold one, except on a hard drive, and there’s no underlying asset to them. A bitcoin is simply a digital representation of the computer power needed to make one, what’s called its “proof-of-work”.
+
+This isn’t actually a new idea though. Rai stones were one of the first forms of money used on the Micronesian islands of Yap. To get hold of a Rai, you had to row a canoe for 500km or so to Palau and chisel away at some local limestone. Then you needed to take the 3m-wide lump of rock back to Yap without sinking in the Pacific. No one is quite sure when it started, but the practice is at least several centuries old. Yapese money had no inherent value. For everyone to respect the proof-of-work, the process was deliberately inefficient and incredibly resource-intensive, just like bitcoin.
+
+Instead of relying on intrepid voyagers, bitcoin uses a global network of competing computers. Like safe crackers at a safe-cracking contest, these bitcoin mining machines guess the combination to a digital lock (a long string of digits) with the correct combination winning a few new bitcoins. The combination changes every ten minutes, and the contest continues.
+
+This might all sound like a harmless game of digital bingo. But with more and more people enticed by the heady rewards, bitcoin mining on some days uses as much energy as Poland and generates 37 million tonnes of CO 2 each year.
+
+New institutional investors, like the carmaker, Tesla, are driving the asset’s price skywards while ignoring bitcoin’s climate-changing appetite. And to keep the bull market charging, supporters are working hard to argue for bitcoin’s green credentials.
+
+For the sake of a stable climate, these myths need debunking.
+
+Myth one: bitcoin mining is becoming more efficient
+
+Bitcoin’s carbon emissions are not the network’s only dirty secret. In 2011, competing miners could win the bitcoin bingo with an average laptop. Today, viable operations require investing in warehouses filled with specialised hardware known as Application Specific Integrated Circuits (ASIC). As the majority of mining costs come from energy to run these units, bitcoin miners are always careful to use the cheapest. To avoid wasting energy, the global arms race for bitcoin requires ASICs to be replaced for newer and more efficient models every year.
+
+ASICs can’t be easily repurposed for general computing. Redundant units create around 11,500 tonnes of hazardous electronic waste each year, much of which is dumped on cities in the global south.
+
+Myth two: bitcoin encourages investment in clean energy
+
+Chinese hydroelectric power plants are popular spots for bitcoin mining. While China cracks down on the industry, 61% of bitcoin mining is powered by fossil fuels.
+
+Cheap coal in Australia has found new buyers through bitcoin, as formerly redundant coal mines are reopened to power mining. Miners are willing to move anywhere for residual energy, increasing the profitability of natural gas in Siberia and supporting oil drilling in Texas.
+
+In Virunga National Park in the Democratic Republic of Congo, bitcoin miners are getting special access to cheap, clean energy produced by an EU-funded hydroelectric plant. The plant was designed to help locals find livelihoods beyond poaching and stop them resorting to scouring parkland for wood fuel. Bitcoin miners employ armies of computer servers, not the ex-combatants the plant could help.
+
+Myth three: bitcoin replaces the need for gold mining
+
+Gold mining is one of the world’s most destructive industries. Bitcoin was originally intended as a digital replacement for gold that was also a deflationary means of exchange, capable of rendering wasteful banks and regulators redundant.
+
+But for many institutional investors, gold is being bought to hedge against bitcoin’s volatility. Tesla poured US$1.5 billion into bitcoin, but also declared an interest in gold. While bitcoin is currently experiencing all-time price highs, gold hit one of its own in 2020.
+
+Read more: Gold mining leaves deforested Amazon land barren for years, find scientists
+
+Nor has bitcoin displaced traditional finance institutions. Major banks are vying to get very rich indeed on the back of it.
+
+Myth four: corporate players will boost market for ‘green bitcoin’
+
+Some argue that institutional investors can turn bitcoin green. Yves Bennaim, the founder of Swiss cryptocurrency think tank 2B4CH, claims that as investors like Tesla push prices up, “there will be more incentive to make investments in renewable sources of energy” for bitcoin mining. But miners will always use the cheapest option to maximise returns. It’s not possible to allocate additional rewards to miners using renewables, because it’s difficult to know exactly which bitcoin miners use renewables.
+
+Unfortunately, there is currently no such thing as a “green bitcoin”.
+
+Not all cryptocurrencies are as energy-intensive as bitcoin, though. There are alternatives to proof-of-work. The second biggest blockchain project, ethereum, is switching to proof-of-stake, a new system which is supposed to remove the need for data miners and perpetual hardware updates. Bitcoins are dirty things, but pointing this out to would-be investors should not mean throwing the blockchain baby out with bitcoin’s bath water.

@@ -1,0 +1,35 @@
+Phuture Raises $1.5m in Seed Funding to Launch Indexing Protocol on Ethereum
+
+press release
+
+PRESS RELEASE. Phuture, a decentralised protocol built for the creation and investment of passive index strategies in a Web3 environment, today announced that it has completed its private seed round fundraise. The round, led by Ascensive Assets, raised a total of $1.5 million.
+
+Once live, Phuture will introduce an open design philosophy for creating passive investment strategies. Designed from the ground up to be intuitive to both crypto and non-crypto native users, Phuture provides the tools to create new indices or invest into existing ones created by the community. The Phuture protocol introduces its unique, scalable, aggregated index architecture that allows it to rebalance across multiple indices simultaneously. Its smart rebalancing engine dynamically ascertains the optimal rebalancing triggers, minimising value lost through swaps and improving index performance.
+
+The round included several prominent blockchain investors, including: NGC Ventures, SevenX, Moonrock Capital, Origin Capital, Waterdrip Capital, and D64.
+
+Other backers included Genblock Capital, Decentralabs, Synergia, Vendetta Capital, Richard Ma (CEO of QuantStamp), Danish Chaudry (CEO of Bitcoin.com Exchange), and leading liquidity provider Skynet Trading.
+
+Charles Storry, Head of Growth at Phuture, said: “At Phuture we’re delighted to be partnering with some of the most exciting investors in the space. We’ll be working in unison to redefine the role of an index within a Web 3.0 environment, and fulfil our vision of becoming the de facto index solution within crypto. The capital raised will be used to fund the continued development of Phuture as it moves towards its upcoming version one launch, as well as building out the ecosystem; including the Phuture team and early user base.”
+
+On its investment into Phuture, Oliver Blakey, Managing Partner at Ascensive Assets, added: “We’re proud to be backing Phuture as its lead investor. We believe that indices are going to have a huge role to play within crypto, just as they have in traditional finance. Phuture is introducing a new blueprint for indexing protocols and its development trajectory converges the usability gap between crypto natives and the wider market – an invaluable attribute to have as crypto continues to permeate into traditional finance.”
+
+About Phuture:
+
+Phuture is a decentralised protocol built for the creation and investment of token based passive investment strategies in a Web3 environment.
+
+The Phuture protocol introduces a permissionless index creation process that is capable of delivering powerful index products with dynamic weights, sector tracking and asset yield optimisation.
+
+Website: phuture.finance
+
+Twitter: https://twitter.com/Phuturedao
+
+Telegram: https://t.me/phuture_group
+
+Gitbooks: https://docs.phuture.finance/
+
+Medium: https://phuture-finance.medium.com/
+
+This is a press release. Readers should do their own due diligence before taking any actions related to the promoted company or any of its affiliates or services. Bitcoin.com is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in the press release.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons

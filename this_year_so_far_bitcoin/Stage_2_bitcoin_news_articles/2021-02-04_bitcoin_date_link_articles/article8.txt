@@ -1,0 +1,34 @@
+DENVER, Feb. 4, 2021 /PRNewswire/ -- BitBoss, the Denver-based iGaming technology developer, today announces that it has completed an integration for its market-leading blockchain-based casino application with DotWallet, the popular China-based Bitcoin SV-powered digital currency wallet and application ecosystem. As a result of the integration, the more than 1 million-strong userbase of DotWallet will gain native access to the BitBoss iGaming platform, which is now available for download from the DotWallet App Centre.
+
+BitBoss have established themselves as a market-leading developer in the iGaming space, leveraging blockchain technology to bring innovative new products to market that facilitate provably fair gaming, coupled with the ease and transparency of a public digital ledger. The gaming technology company has created the first provably fair Bitcoin SV-based iGaming platform, which includes slot machines, poker, blackjack, roulette and baccarat.
+
+All games offered by BitBoss are powered by Bitcoin SV, with every bet, decision and result – including all associated payments – intertwined and recorded as a series of transactions on its blockchain. All game data is uploaded in real-time to blockchain tracking service whatsonchain.com, enabling players at any time to verify on the public Bitcoin SV blockchain that the game was conducted fairly and under the agreed terms – establishing trust between player and operator.
+
+The iGaming experience for DotWallet users on the BitBoss platform is completely integrated, with players wagering funds and receiving pay-outs directly to-and-from their DotWallet, embedding an additional layer of trust by eliminating the need to deposit funds onto a third-party platform. Winnings are distributed immediately after each game, a unique feature enabled by the speed and efficiency of Bitcoin SV.
+
+DotWallet users can log in to the BitBoss game platform automatically - without the need to register - and are able to start playing after activating automatic payments. Transaction flows and order details, as well as features such as automatic payment limits, are all provided natively within DotWallet, which, together with the security technology integrated with the BitBoss platform, ensures a secure and transparent experience for players at all times.
+
+The BitBoss platform is powered by Bitcoin SV, the only blockchain with the scaling capacity, data functionalities and low transaction costs (sending a payment transaction on the Bitcoin SV network generally costs less than 1/100 of a U.S. cent) required to support a sophisticated iGaming infrastructure. Only the Bitcoin SV network can provide the unbounded scaling necessary to enable the massive amounts of concurrent transactions required to offer a real-time iGaming experience and underpin the suite of games offered by BitBoss - which includes simple single-turn casino games right through to more complex, multi-turn and logic-based games.
+
+Speaking on today's announcement, BitBoss CEO Matthew Dickson commented:
+
+'Today's news marks the culmination of a months-long process between the BitBoss and DotWallet teams to integrate our leading iGaming technology with their successful digital currency platform. We are excited to be able to offer DotWallet's substantial userbase an iGaming experience which puts fairness first and look forward to working with their team further as we continue to innovate with BitBoss.'
+
+Also commenting, DotWallet CEO Lin Zheming said:
+
+'At DotWallet, we believe that there is a bright future for Bitcoin SV-based iGaming applications such as BitBoss, that ensure fairness and honesty for all players. We are delighted to see the combined efforts of our two teams go live today and demonstrate the benefits of a more efficient and transparent digital ledger with Bitcoin SV.'
+
+About BitBoss
+
+Headquartered in Denver, Colorado, BitBoss is an international team of gaming experts, blockchain innovators and technologists building technology to power the future of gaming and the new internet. They offer a suite of gaming products that leverage the unique qualities of the Bitcoin SV blockchain, combining innovative software and hardware solutions for both land-based and online gaming operators.
+
+About DotWallet
+
+DotWallet is a lightweight non-custodial wallet built on the Bitcoin SV protocol. It provides quick registration and login using mobile phone numbers, email, and third-party providers like Google, Facebook and WeChat. It supports the sending, receiving, and storage of multiple digital currencies. Powered by Bitcoin SV's tokenization technology, users can send and receive transactions across several digital currencies instantly using 0 confirmation transactions.
+
+SOURCE BitBoss
+
+Related Links
+
+https://bitboss.io
+

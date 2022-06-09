@@ -1,0 +1,93 @@
+Last February I predicted that the crypto market would breach $1T in market capitalization. Less than a year later that prediction came true.
+
+Roughly 6 months after that the total market cap for all crypto markets including security tokens rounded the corner of $3T.
+
+Keep that in mind as we dive into the current debate around cryptocurrency and its impact on the environment.
+
+First, some real talk.
+
+We are being naive if we do not acknowledge that media corporations (roughly 5 parent entities control over 95% of all mainstream media) are not in the business of offering unbiased “truth”.
+
+Sadly, journalism as an institution is largely a relic of the past. That’s a massive problem obviously, but a topic for another day.
+
+The reality is that we have for-profit corporations who purvey human attention to the highest bidder. “News” is now marketing for the most part. Facts and truth are signals that must be extracted from the noise.
+
+With that said, let’s see if we can find a signal.
+
+NFTs
+
+The environmental impact debate around cryptocurrencies began to reach a critical mass a few months ago, before Elon Musk decided to jump in.
+
+The debate began around the specific impact of NFTs being minted on the Ethereum blockchain.
+
+What is interesting is that blockchain technology has been consuming energy for over 10 years but for some odd reason nobody made a fuss until just recently.
+
+A sudden appearance of a narrative being pushed into the mainstream news cycle (Remember, not journalism but marketing) almost always indicates a coordinated campaign rather than an organic, grassroots event. Back to that in a moment.
+
+Regarding the initial hubbub around NFTs the environmental impact argument is largely out of context and based on ignorance of how blockchains work.
+
+Case in point:
+
+Ethereum =1/3 of what Bitcoin is using in the chart below.
+
+NFTs only represent about 1% of all Ethereum transactions.
+
+In terms of energy consumption, Minting an NFT isn’t the lead catalyst on Ethereum. That would be mining.
+
+Pairing Ethereum with a sidechain technology (a framework that batches transactions together to reduce overall mining impact/fees) like Polygon reduces operational load and fees by roughly 10,000x.
+
+It’s also relevant to note that there seems to be no consensus on how to calculate a “carbon footprint”. Googling calculators reveals several different approaches. Is there an actual science based approach for this? Who knows.
+
+What many people don’t know is that most of the conversation around “carbon footprints” was actually a PR strategy funded by BP to distract from who the true culprits are.
+
+Musk vs Bitcoin
+
+Elon Musk, via Tesla holds roughly 43k Bitcoin. Recently, Musk announced that Tesla would no longer accept Bitcoin due to its alleged negative impact on the environment.
+
+Negative impact compared to what? (See chart above) Context is king in this conversation. The announcement sparked off a debate with various pundits, each with their own agendas.
+
+Of course, I also have an agenda but as an entrepreneur and professional advisor I am more interested in facts than propaganda. Facts are what get problems solved.
+
+In addition to the chart above provided by ARK investment management another key indicator provided by Mike Novogratz’s firm Galaxy Digital comes by way of an independent audit showing that Bitcoin uses roughly ½ the energy of traditional banking systems.
+
+It doesn’t help Musk’s argument that along with his tweets around Bitcoin energy consumption that he doubled down on his promotion of Dogecoin which is a meme coin created off-the-cuff as a joke by insinuating that he had been working with Dogecoin devs on making it more energy efficient and better than Bitcoin.
+
+The problem is that there are no official “Dogecoin devs” and that most of the devs on that project are actually Bitcoin engineers.
+
+Every suggestion Musk has made in that regard is not technically feasible given Dogecoin’s architecture. Musk was taken to task by crypto advocates in social media over the past week and the general consensus in the industry is that he is either completely ignorant on how blockchains work or is trolling.
+
+My experience over the past several years in the crypto space including the pioneering of a security token model for venture investment and capital raising gives me a better than layman’s understanding of the topics at hand.
+
+My assessment is that much of the narrative around environmental impact regarding cryptocurrency is simply that – a narrative. A narrative being promoted by an agenda.
+
+The same applies to Elon Musk’s tweets.
+
+The bigger meta framing this entire conversation though is vastly more significant imo.
+
+The Big Meta
+
+The recent pullback in Bitcoin price had been expected by industry leaders. The Musk announcement had some impact but wasn’t the reason for the pullback as is being widely “reported”.
+
+Going back to my $1T market cap prediction and the fact that less than 6 months after that happened the crypto market including security tokens breached $3T indicates that we are reaching a critical mass inflection point where exponential growth becomes the norm.
+
+Environmental impact of blockchain technology is irrelevant in the big scheme of things and will become increasingly so once new consensus mechanisms eliminating high energy consumption Proof of Work mechanisms come online over the next 24 months.
+
+What is relevant to widespread adoption of cryptocurrency is usability and real world application. This is the thesis behind my work on the Make Crypto Easy campaign and its flagship product Digital Names.
+
+Digital Names enables crypto users to create a simple, human-readable name to replace the long, alpha-numerical addresses used in digital wallets.
+
+Digital Names for cryptocurrency and digital wallets do what domain names did for the internet back in the 90s. Rather than remember a numerical IP address for a website, you can simply type in www.google.com and arrive at the desired destination.
+
+The projected growth of this nascent industry is potentially larger than the Domain Name Service Industry, which currently grosses about $6 billion a year.
+
+As part of this campaign I’ve been working closely with a consortium of telco and manufacturing companies on a stealth project aimed at delivering an interoperable solution that would bring an entirely new spectrum of networked communication between the traditional internet, blockchains, and IoT (Internet of Things) enabled devices.
+
+My career focus has been on empowerment and providing value in the fintech space. The advent of blockchain tech has increased that capability 1000x and represents a generational disruption across all the industries that can benefit from distributed ledger technology. I’m excited to be among those leading the charge.
+
+Blockchain is truly novel. There are things you can do with blockchain that you just can’t do with any other technology.
+
+The things you can do only with blockchain technology have one thing in common, and that is the empowerment of the individual and democratization of transactional activities, whether that be in logistics, finance, communications, etc.
+
+The simple truth is that blockchain technology is a 1st order, paradigm shifting technology. If it is a “ponzi scheme” as detractors assert, then it is the second longest running and most popular ponzi scheme of all time. What holds first place? Chart below.
+
+Thomas Carter, founder and Chairman of DealBox, Inc; read about Thomas: “This FinTech Veteran Is Making Cryptocurrency Startup Funding Legitimate“; connect on LinkedIn and Instagram.

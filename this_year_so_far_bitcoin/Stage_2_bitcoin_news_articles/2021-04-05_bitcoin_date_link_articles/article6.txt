@@ -1,0 +1,69 @@
+Mayoral contender Andrew Yang wants New York City to capitalize on the Bitcoin boom.
+
+The cryptocurrency has seen a 963% increase over the past year, setting a record valuation near $61,000 in March. (Tesla’s 1.5 billion dollar investment helped spur the rise at the beginning of 2021.) Yang tweeted on February 11th, “As mayor of NYC - the world’s financial capital - I would invest in making the city a hub for BTC and other cryptocurrencies.”
+
+The former presidential candidate has also tweeted about climate change, calling the issue “a matter of life and death,” hence why New Yorkers were quick to point out the energy consumption controversy that has some environmental experts concerned about future fallout from the cryptocurrency’s meteoric rise.
+
+Bitcoin has the potential to create significant challenges for curbing the world’s emissions. A study from 2018, published in Nature, showed that Bitcoin’s energy use alone could push global warming above 2.0 degrees Celsius within three decades if it follows the adoption rate seen with other popular technologies. Camilo Mora, a statistics professor at the University of Hawaii and one of the study’s co-authors, said when they ran the calculations of Bitcoin’s energy consumption, he thought something was wrong with his eyesight.
+
+“I recall counting the zeros to see if I was seeing blurry,” said Mora.
+
+Gothamist/WNYC contacted Andrew Yang’s campaign for comment but received no reply.
+
+Even now, Bitcoin uses almost the same amount of energy as all the data centers in the world that power mega-scale operations such as Big Tech, the internet, cloud computing services and the financial sector, said Alex de Vries, financial economist and the founder of Digiconomist, a blog about digital trends.
+
+“It's pretty hard to wrap your head around,” De Vries said, “because when I'm talking about all data centers in the world, I literally mean all data centers in the world.”
+
+Bitcoin consumes more electricity than the country of Argentina. How exactly can this align with your climate change plan, when energy efficiency is key to slashing our greenhouse gas emissions? — Tasfia (@tnclimate) February 12, 2021
+
+Bitcoin is an environmental catastrophe. Encouraging it is denial of the climate crisis, and suicidal for a city at sea level. https://t.co/29f3pNPwdd — Alec Perkins (@alecperkins) February 11, 2021
+
+If Bitcoin were a country, it would rank 27th in terms of energy consumption, ahead of countries like Sweden, the Ukraine and Argentina, according to data from the University of Cambridge Bitcoin Electricity Consumption Index. As of April 5th, Bitcoin is on pace to consume about as much electricity this year as all the homes in the mid-Atlantic states.
+
+"In effect, a single bitcoin transaction could actually power nearly 31 US households for a full day,” said Tara Shirvani, a digitalization and infrastructure specialist at the European Bank for Reconstruction and Development. “At its peak, bitcoin was consuming the same amount of energy per year as nearly 7 million U.S. homes.”
+
+Mining Power
+
+How can a cryptocurrency that exists solely in a virtual space create this problem?
+
+Mining for bitcoin carries most of the blame. Cryptocurrency can’t be pulled out of the ground like coal, gold or other physical resources. Instead, new bitcoin is minted by having computers solve complex mathematical equations. Before more currency is added to the marketplace, miners must prove they’ve invested resources into the process.
+
+The Bitcoin process is designed to become more complicated as the marketplace grows, creating a greater demand for the computational power needed to earn bitcoin and verify transactions on the network. This setup has resulted in people building warehouses filled with computers—mainly in China, where energy is cheap—to mine for bitcoin.
+
+Keeping all those computers running and cooled requires a tremendous amount of electricity.
+
+Proponents argue that renewables support a large portion of Bitcoin. And they’re right—39% of the energy used by cryptocurrencies, including bitcoin, comes from green sources, an impressive number for any industry.
+
+Bitcoin mining alone uses more energy than the entire country of Chile and we are in a climate crisis but go off I guesshttps://t.co/Pf32yM7Xi5 pic.twitter.com/pDIfcvFJiG — NYC-DSA Ecosocialist Working Group 🌹 (@NYCDSA_Ecosoc) February 12, 2021
+
+But in places where there’s a limited amount of cheap renewables, bitcoin miners can drain local economies, which then must bring in more expensive non-renewable energy from elsewhere to make up the difference, said David Gerard, author of Attack of the 50-foot Blockchain. “People in small towns suddenly get a two hundred dollar electricity bill instead of 40, and they get a bit upset,” said Gerard.
+
+In 2018, Plattsburg in upstate New York put a moratorium on new cryptomining operations because an influx of bitcoin prospectors siphoned up the city’s low-cost hydroelectric power. “Bitcoin advocates never talk about displacement because it makes the numbers sound bad,” said Gerard.
+
+And that’s in places where renewables are cheaper than fossil fuels, which is not the widespread norm, especially in countries like China, where coal is cheap. Shirvani said that Bitcoiners switching to green energy would remain untenable on a large scale.
+
+arrow In February, Tesla and CEO Elon Musk purchased $1.5 billion in Bitcoin. The electric car company now accepts the cryptocurrency as a form of payment. Britta Pedersen/AP/Shutterstock
+
+“The dominance of Chinese miners and lack of motivation to swap cheap fossil fuels for more expensive intermittent renewables means there are few quick fixes to the emissions problem,” said Shirvani.
+
+Another favorite argument for Bitcoin is that its mining can use otherwise wasted energy from natural gas flares. But De Vries said this solution isn’t climate-friendly because it motivates more investment in greenhouse gas production.
+
+“Now we're going to make a byproduct of fossil fuel extraction more profitable. Who is that going to help? It's going to help the fossil fuel companies, and it doesn't stop emissions,” said de Vries.
+
+Social Value Of Bitcoin
+
+Nic Carter, a partner at Castle Island Ventures, a public blockchain-focused venture fund, said the debate about Bitcoin’s electricity use is not about energy but about the societal merits. “A lot of people, frankly, dislike Bitcoin for a number of reasons, and energy is the most effective way to critique it,” Carter said.
+
+Dr. Garrick Hileman, head of research at Blockchain.com and visiting fellow at the London School of Economics, said he thinks Bitcoin is being targeted rather than other industries such as the traditional financial system because its energy data is transparent. “Other uses that could be similarly debated do not have energy consumption data as readily available for scrutiny.”
+
+Compared to manufacturing or transportation, Bitcoin is negligible in its energy consumption (anywhere between 0.1 to 1% of global energy, depending on who you ask). According to the Cambridge Bitcoin Electricity Consumption Index, electricity used by plugged-in but passive home devices in the U.S. alone could power bitcoin mining for 1.8 years. But when only two countries in the world—Morocco and The Gambia—are meeting their Paris accord targets, every bit counts on the march toward net-zero emissions.
+
+arrow The Datacenter Mjoelnir is located in Reykjanesbaer, Iceland, February 17th, 2018. A cryptocurrency mining company, Genesis-Mining, runs a farm here to mine Bitcoin and Ethereum. The Svartsengi Power Plant produces electricity using geothermal energy. Hanna Andresdottir/EPA-EFE/Shutterstock
+
+“The obvious thing is to put a carbon tax on cryptocurrency at the exchanges where you get actual U.S. dollars out,” said Gerard.
+
+Energy use isn’t the only environmental cost of bitcoin mining, as the devices involved in the process cannot be reused. This creates a significant amount of electronics waste once they become obsolete. Only 20% of electronic waste is recycled worldwide.
+
+Some alternatives to cryptomining don’t require as much energy. Ethereum, another popular cryptocurrency, is working on replacing the mining algorithm with a greener alternative. “I don't see that at all in Bitcoin. They’re just much more conservative,” said De Vries.
+
+Bitcoin may also lose sway in the future, reducing its energy demands. What we do know is that there are a finite number of bitcoins, and the last one will be mined in 2140. “Which is way too late to do something about climate change,” said De Vries.

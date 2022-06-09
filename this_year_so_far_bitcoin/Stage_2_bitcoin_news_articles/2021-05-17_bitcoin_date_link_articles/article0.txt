@@ -1,0 +1,29 @@
+Blockchain data shows that the latest bitcoin market correction, which sent the oldest cryptocurrency down by more than 35% from its peak price above $64,000, may have been driven by panic selling from investors who bought during the recent bull market.
+
+“The bitcoin market is in a historically significant correction,” blockchain data analytics firm Glassnode wrote in a post on Monday. “There are strong signals that short-term holders are leading with panic selling.”
+
+BTC/USD pair on Coinbase. Source: TradingView, Coinbase
+
+At press time, bitcoin (BTC) was changing hands at $42,860.11, down 9.65% in the past 24 hours, based on the CoinDesk 20. The steep price drop came after a series of tweets by Tesla CEO Elon Musk in which he initially failed to deny outright that his electric-car company has sold or could soon sell all of its more than $1 billion holdings of BTC. He later clarified that Tesla had not sold any of the holdings.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+On Wednesday, Musk announced that Tesla would no longer accept bitcoin as a form of payment because of concerns about its impact on the environment. The price fell by nearly 13% that day, or more than $7,000, on the Coinbase exchange, according to TradingView.
+
+In the post Monday, Glassnode, citing several key blockchain data metrics, said that the market correction has been led by new investors who are selling in a panic.
+
+The “short-term holder SOPR,” or STH-SOPR that filters for coins younger than 155 days, dropped well below the key threshold of 1, meaning that newer market entrants appear to have “panic-sold” and realized “significant” losses on their invesments, according to Glassnode.
+
+SOPR measures the net profit/loss position of bitcoin outstanding. A reading below 1 implies that any bitcoin moved that day is on average selling at a loss. At the time of writing, while the SOPR for the long-term holders is also trending downward, the value is still above 4.
+
+aSOPR versus short-term holder SOPR Source: Glassnode
+
+Long term holder SOPR Source: Glassnode
+
+At the same time, the number of accumulation addresses of bitcoin continues to rise, as the count of non-zero balance addresses dropped by about 2.8% – indicating that long-term holders are buying on the latest price dip, according to the Glassnode post.
+
+The number of addresses with a non-zero bitcoin balance. Source: Glassnode
+
+With bitcoin still at a much higher price than it was during the last bull market, bigger capital inflows are needed to drive a full price recovery, according to Glassnode’s report
+
+On the other hand, the blockchain data also might imply that the current correction could be “a larger time-frame pullback in a bull cycle.”

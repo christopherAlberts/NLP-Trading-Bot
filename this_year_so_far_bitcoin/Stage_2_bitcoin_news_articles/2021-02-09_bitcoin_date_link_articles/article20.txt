@@ -1,0 +1,73 @@
+Welcome to State of Crypto, a CoinDesk newsletter looking at the intersection of cryptocurrency and government. I’m your host, Nikhilesh De.
+
+Are governments worrying more about the growth of crypto? Two countries already announced crypto-related bans, though this could be an extension of previous efforts at controlling the space – and their own economies – rather than new initiatives
+
+Click here to sign up for State of Crypto.
+
+The crackdown begins (again)
+
+The narrative
+
+In recent weeks, both India and Nigeria have made noises about banning crypto industry participants’ access to the traditional banking sector. This could be a sign of renewed government crackdowns on the space.
+
+Why it matters
+
+Bitcoin and subsequent cryptocurrencies were designed to be censorship-resistant, stateless and a tool of economic freedom. Citizens in Belarus and Nigeria used bitcoin to raise funds for those who lost their jobs or otherwise faced repercussions for protesting against authoritarian regimes. People in other countries use cryptocurrencies as a way of cheaply transferring value across borders.
+
+But the crypto space might not yet be mature enough to actually fulfill those goals – at least, not entirely. Ray Dalio, head of major hedge fund Bridgewater Associates, said government prohibition could have a significant negative impact on cryptocurrency adoption, and we’re indeed seeing governments try to enact or enforce stringent regulation.
+
+Breaking it down
+
+The Indian government began considering a bill that would ban private cryptocurrencies late last month, defining “private” as any cryptocurrency that’s not state-backed. The bill, which was introduced to the Lok Sabha, the lower house of the Indian parliament, also suggested that India could launch its own central bank digital currency (CBDC), issued by the Reserve Bank of India (RBI), the nation’s central bank.
+
+There are two details here that stick out to me, The first is that the RBI tried to restrict cryptocurrencies once before, when it told banks they could not provide services to crypto companies in 2018. That ban was later struck down by the nation’s Supreme Court, though RBI vowed to fight the ruling. This new bill, which was also introduced in the Rajya Sabha (the upper house), could be a natural evolution of that policy goal, one that would have the force of law behind it.
+
+The second detail is the Indian government has also tried to control its financial system before. In 2016, the government demonetized the ₹500 and ₹1,000 notes, some 86% of the circulating currency, nominally in an effort to stamp out “black money,” or cash held from illicit means. In 2018, India’s Aadhaar system decided every resident effectively needed access to the biometric identification platform in order to buy a cell phone or access banking services.
+
+A continent away, the Central Bank of Nigeria (CBN) published a document saying banks cannot provide crypto exchanges with services. Binance and Bundle Africa immediately announced they would suspend deposits.
+
+Here, too, the CBN says its ban isn’t new, but rather that its statement last week is merely reiterating a position it has held since 2017. Still, the timing of the move is interesting, coming just months after residents began using bitcoin to raise funds as part of the #ENDSARs movement.
+
+Basically, this looks like a trend. Crypto is getting to a place where governments have to pay attention to it. Some industry insiders seem less alarmed about Nigeria’s ban than their Indian counterparts are about the subcontinent’s ban.
+
+U.S. Congress
+
+Meanwhile, Congress is gearing up to face a number of issues this year, beginning with an impeachment trial that starts this week and coronavirus pandemic relief. However, a number of cryptocurrency issues will likely work their way through Capitol Hill. Here are a few of the major players to watch:
+
+House of Representatives
+
+Representative Maxine Waters (D-Calif.) – Rep. Waters chairs the House Financial Services Committee, the main committee that oversees cryptocurrency and fintech issues in the House of Representatives. She has called a hearing next week on Robinhood and the GameStop pump.
+
+Representative Patrick McHenry (R-N.C.) – Rep. McHenry is the ranking member on House Financial Services. McHenry has said publicly that he’s a proponent of cryptocurrencies and fintech innovation.
+
+Representative Jim Himes (D-Conn.) – Rep. Himes is the chair of the HFSC Subcommittee on National Security, International Development and Monetary Policy, which is holding a hearing on domestic terrorism funding in the wake of the Jan. 6 Capitol Hill insurrection later this month. Expect bitcoin to come up.
+
+Representative French Hill (R-Ark.) – Rep. Hill is the ranking member on the National Security subcommittee.
+
+Senate
+
+Senator Sherrod Brown (D-Ohio) – Sen. Brown is the new chair of the Senate Committee on Banking, Housing and Urban Development. In public statements he has said his focus will be on evaluating a real-time payments system , as well as paying more attention to housing and urban development issues than the committee has in years past.
+
+as well as paying more attention to housing and urban development issues than the committee has in years past. Senator Patrick Toomey (R-Pa.) – Sen. Toomey is the ranking member of the Senate Banking committee.
+
+Senator Elizabeth Warren (D-Mass.) – Sen. Warren, who drove the creation of the Consumer Financial Protection Bureau, is on the Senate Banking and Finance committees. She hasn’t explicitly said anything about cryptocurrencies recently but has been outspoken on consumer protection issues that could intersect with the crypto industry.
+
+Senator Cynthia Lummis (R-Wyo.) – Sen. Lummis, who won her seat in last year’s election, is joining the Senate Banking committee as its first member who’s an active bitcoin advocate. She has already announced her intention to launch a fintech caucus in the Senate and said she hopes to “work with federal regulators to ensure that regulation of digital assets are structured to encourage innovation, instead of stifling it.”
+
+Biden's rule
+
+Last week, President Joe Biden formally withdrew the nominations of Robert Benedict Bowes and Brian Brooks. Bowes was former President Donald Trump’s nominee to be a Commodity Futures Trading Commission commissioner to succeed current Commissioner Brian Quintenz. Brooks, the former Acting Comptroller of the Currency, was nominated to a full five-year term. Biden is expected to name Chris Brummer and Michael Barr to fill the CFTC and OCC roles.
+
+Changing of the guard
+
+Key: (nom.) = nominee, (rum.) = rumored, (act.) = acting, (inc.) = incumbent (no replacement anticipated)
+
+Elsewhere:
+
+Outside crypto:
+
+Getting vaccinated is hard. It’s even harder without the internet.: This MIT Technology Review article looks at the difficulties Americans living in San Francisco – the heart of the nation’s tech scene – face trying to get internet access. It’s not just a matter of physical infrastructure either. Reporter Eileen Guo notes that even where the internet is easily accessible, people might not be able to afford telecom provider costs.
+
+If you’ve got thoughts or questions on what I should discuss next week or any other feedback you’d like to share, feel free to email me at nik@coindesk.com or find me on Twitter @nikhileshde.
+
+You can also join the group conversation on Telegram.

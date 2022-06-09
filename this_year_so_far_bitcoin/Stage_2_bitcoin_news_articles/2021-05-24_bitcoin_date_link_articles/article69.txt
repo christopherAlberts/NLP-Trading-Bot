@@ -1,0 +1,71 @@
+Even by the standards of cryptocurrencies, the past seven days have been a wild ride. The price of bitcoin crashed 30 per cent on Wednesday to $30,000 – less than half the peak reached last month – after China announced a new crackdown and Elon Musk announced Tesla would not accept bitcoin as payment.
+
+Traders sold off almost every major coin, turning exchanges into a sea of red. A rapid rebound later in the week wasn’t enough to recoup the losses. By Monday, bitcoin was back up to $37,700.
+
+Concerningly, the main crypto exchanges weren’t able to cope with the sell-off, experiencing technical outages which left customers temporarily unable to trade.
+
+For critics, these problems give a taste of more serious issues that might occur in the event of a deeper downturn; problems which would have ramifications far beyond cryptoland.
+
+Frances Coppola, a financial economist who has written extensively about cryptocurrencies, believes exchanges could struggle to cope with demand for withdrawals if enough people rush for the door and want to swap their crypto for traditional, or fiat, money.
+
+“It would look very like a traditional bank run,” says Coppola.
+
+“If the exchanges didn’t have enough fiat currency to meet withdrawal requests they would either have to obtain more in a hurry through a fire sale of assets or refuse to allow people to draw down fiat currencies.”
+
+In practice this would mean shutting down their apps which, Coppola points out, might look to a customer like a technical outage.
+
+At the heart of potential problems in the $2-trillion market are stablecoins; a vitally important component of the crypto world which act as a bridge to the traditional financial system.
+
+Stablecoins are so-called because they are pegged to the value of a real-world asset, typically a currency like the dollar.
+
+They alleviate the biggest problem faced by cryptocurrencies: huge volatility. It can be nerve-wracking to go to bed while leaving your savings in an asset like bitcoin that’s fallen 10 per cent by lunchtime, then risen by almost as much by the time you sit down for dinner.
+
+Having a coin anchored to the price of the dollar, pound, or euro, which are in turn backed by central banks, means that people can “cash out” of the crypto market when it gets too choppy.
+
+The availability of stablecoins has been a key factor in driving the recent bull run that saw bitcoin’s price surge 600 per cent between September and April. But critics argue that the stability they claim to offer is a dangerous illusion.
+
+Why? Crucially, when someone swaps their volatile cryptocurrency for a stablecoin such as Tether (by far the most widely used), they are still within the crypto ecosystem. They have not withdrawn real funds into a bank account.
+
+A digital analogue of a dollar is not a dollar. Tether dollars (“USDT”) can’t be used in many places outside of a crypto exchange. Its dollars are not backed by the US Federal Reserve but by an opaque company registered in Hong Kong with a bank account in the Bahamas that has been less than transparent about its financial position.
+
+Tether derives its value largely from the promise that it can be swapped for real dollars at a 1:1 exchange rate. That promise has looked increasingly shaky. JPMorgan is among those to have warned that a crash in the value of Tether could sink the whole bitcoin market.
+
+“Exchanges market tether as a USD equivalent,” Coppola says. “But there’s no guarantee from exchanges that people will always be able to exchange their tethers for USD and, more importantly, withdraw those dollars from the exchange,”
+
+“And there’s also no guarantee from Tether that people will be able to exchange their tethers for USD.”
+
+Tether, the company behind the coin of the same name, disagrees that it faces a problem. It says that, whatever price tether may be trading at on exchanges, the company will honour the 1:1 peg with the dollar.
+
+The company is facing increased scrutiny however because until recently it had claimed that for every digital dollar it created, it kept a real one in reserve at the bank.
+
+Then in 2019, it admitted this wasn’t true. It only had enough to cover 74 per cent of its coins and not all of that amount was held in actual cash in the bank. Most of it was held in various forms of debt. Tether has refused repeated calls to audit its reserves so no one can verify its claims, but the net is closing in.
+
+In February, Tether agreed to pay $18.5m as part of a settlement with the New York Attorney General after a 22-month investigation which concluded: “Tether’s claims that it was at all times backed by dollars was a lie.”
+
+Tether was ordered to file quarterly disclosures stating what assets it is holding in reserve. The first of those disclosures was published earlier this month in the form of a one-page document with two pie charts and no explanation.
+
+In order to ensure that it can meet its promise to redeem a tether for a dollar, the company needs to hold lots of dollars and high quality assets that can be sold quickly in exchange for dollars, should the need arise. But the company said only 3.9 per cent of its reserves are in cash with the rest held in various forms of debt issued by unknown entities.
+
+Tether is acting in some ways like a bank, creating money out of nothing. However, for good reason, banks are highly regulated and must keep a reasonable cushion of capital (assets minus liabilities) to absorb potential losses.
+
+Tether is not regulated and its capital is a fraction of the amount that banks maintain. At the end of March its capital ratio was just 0.36 per cent, according to the best that can be deduced from the figures it has published.
+
+For anyone who can remember the global financial crisis, some of these points – an institution with a dangerously low amount of capital; risky debt labelled as safe – may sound familiar.
+
+Meanwhile, Tether is growing at phenomenal pace. In January last year it had issued $3bn in tethers, now more than $60bn are in circulation.
+
+While a collapse of stablecoins like Tether could have dire consequences for the whole crypto market, a full-blown economic meltdown similar to 2008 is not likely, says Coppola.
+
+“Nevertheless, an awful lot of people stand to get badly burned if it crashes.”
+
+Just like banks, stablecoins are vulnerable to a run if people lose faith in their solvency and rush for the exit.
+
+During the rapid bitcoin sell-off this week, tether dollars were briefly changing hands for around $0.80. That price could easily fall further if people’s confidence in the company behind it deteriorates.
+
+A spokesperson for the company said the peg to the dollar was not under threat.
+
+“Last week, Tether performed extremely well under challenging conditions for many,” Tether said. “Subject to our terms of service, Tether issues and redeems one USDT for one dollar: no more, no less. This is irrespective of market conditions.
+
+“As the pioneer of the stablecoin model, Tether represents battle-tested technology that has been through many cycles. Many users were flooding into USDT as a safe harbour.”
+
+The allure of the cryptocurrency revolution has been that it is decentralised and therefore not reliant on powerful, unaccountable institutions. By becoming reliant on stable coins, it has arguably created exactly what it set out to overthrow.

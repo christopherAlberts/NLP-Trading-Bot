@@ -1,0 +1,41 @@
+There's Close to 300,000 Bitcoin-Pegged Tokens Hosted on ETH and BSC, Value Exceeds $12 Billion
+
+For quite some time now cryptocurrency traders have been leveraging bitcoin-based assets tethered to alternative blockchains. Mid-May statistics show there’s more than 299,000 bitcoin, worth over $12.8 billion today, tied to wrapped or synthetic bitcoin projects hosted on Ethereum or the Binance Smart Chain.
+
+Layer 2 and Sidechain Competitors Command $251 Million in Bitcoin Value
+
+Collateralized crypto tokens with underlying assets like fiat currencies or stocks, bonds, and commodities have been around for years now. In fact, with just fiat currencies alone, the stablecoin market valuation today is around $97.5 billion. During the last two years, bitcoin-pegged tokens have been all the rage, and a significant number of collateralized BTC is tied to alternative chains today.
+
+Bitcoin-pegged tokens are hosted on a variety of blockchains and bitcoins are also utilized in the layer 2 solution called the Lightning Network (LN) as well. The LN total-valued locked (TVL) statistics for Tuesday shows there’s around 1,300 BTC or $56.3 million worth of bitcoin used within the layer 2 network.
+
+The smart contract project RSK also features bitcoin-pegged tokens called RBTC and there’s 1,594 RBTC ($69 million) in circulation today. 2,914 bitcoins ($126 million) are currently being used as L-BTC for Blockstream’s Liquid network. All three of these platforms combined hold a total of $251 million worth of BTC using today’s bitcoin exchange rates.
+
+The aggregate total of Lightning-BTC, RBTC, and L-BTC is child’s play compared to the $12.8 billion dollars in bitcoin tethered to Ethereum (ETH) and the Binance Smart Chain (BSC).
+
+$12.8 Billion TVL: In Terms of Total-Value Locked, Ethereum and Binance Smart Chain Eclipse the Competition
+
+Ethereum commands the most bitcoin-pegged tokens out of all the schemes deployed today.
+
+Data from Dune Analytics shows that 225,975 BTC is connected to Ethereum via a myriad of projects. Deployed BTC-pegged tokens on Ethereum include WBTC (178,865), HBTC (31,906), RENBTC (12,009), IMBTC (1,327), SBTC (1,149), TBTC (1,039), and PBTC (648).
+
+The Wrapped Bitcoin (WBTC) project is by far the largest BTC-pegged platform with over $7 billion in value using today’s BTC exchange rates. WBTC is also the 25th largest crypto asset in terms of market capitalization. The Wrapped Bitcoin project’s collateralized BTC is maintained by the project’s custodian Bitgo.
+
+Another strong contender in the land of bitcoin-pegged tokens is the BTC token issued on the Binance Smart Chain. Binance’s Bitcoin BEP2 or BTCB is a collateralized bitcoin-based asset with a market valuation just below WBTC’s market cap.
+
+At the time of writing, there is 54,598.02 BTCB circulating on the Binance Smart Chain according to stats stemming from coinmarketcap.com. That’s a fully diluted market cap of over $2 billion worth of bitcoin-pegged tokens. During Tuesday’s trading sessions, BTCB had around $159 million in 24-hour trade volume, according to market statistics.
+
+Statistics on bscan.com are a touch different than the data that’s been recorded on coinmarketcap.com on May 18, 2021. Records from bscan.com show a total of 80,501 BTCB and a circulating supply of 73,105.515028 BTCB. If bscan.com stats are correct, the number of ETH on BSC stands at 299,080 bitcoin-pegged tokens in circulation today.
+
+Binance Smart Chain and Ethereum Both Hold Decentralized Exchange Dominance
+
+In terms of decentralized exchange offerings, ETH and BSC also destroy the competition, as far as the number of these trading platforms is concerned. Ethereum dex applications are plentiful, but BSC dex platforms like Pancakeswap have been moving very quickly up the trade volume ranks.
+
+ETH-based bitcoin-pegged tokens can be traded on a variety of dex platforms like Uniswap, Sushiswap, 0x Native, Curve, Balancer, Bancor Network, Tokenlon, Dodo, Synthetix, Dydx, Kyber, and Airswap. The Binance Smart Chain (BSC) has EVM capabilities and BSC tokens can also be swapped on Pancakeswap and Binance Dex. Pegged-bitcoin tokens not only give users the ability to perform cross-chain trading schemes, but BTC tokens on alternative chains can save users money on network fees as well.
+
+After Q1 2021 has finished, statistics show that Ethereum and the Binance Smart Chain have towered over competitors when it comes to moving BTC on alternative networks, and even layer 2 solutions like the Lightning Network. It will take a massive effort for any layer 2 solution or sidechain competitor to catch up to these networks, as ETH and BSC continue to fortify their decentralized finance (defi) supremacies.
+
+What do you think about the 280,000 bitcoin used on the Ether and BSC networks? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, Dune Analytics, Coinmarketcap.com, Bscan.com, Defipulse.com, liquid.net,
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

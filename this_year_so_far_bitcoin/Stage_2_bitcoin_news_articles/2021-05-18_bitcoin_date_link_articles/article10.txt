@@ -1,0 +1,87 @@
+JOHNSON CITY, Tenn. (WJHL) – David Campbell didn’t share New Salem residents’ surprise at how loud a Bitcoin mine in their rural Washington County community is.
+
+The Milligan University economics professor offered News Channel 11 a brief explanation of the concept behind what is arguably the leading cryptocurrency’s “mining” process.
+
+“You’ve probably heard of blockchain,” Campbell said.
+
+If you haven’t, it’s a digital “ledger of transactions” called blocks that use cryptography to keep them secure. It’s been around since 2008 and though it’s more widely used now, it started as the transaction ledger for Bitcoin.
+
+The ongoing viability of Bitcoin depends on the security of these blocks, which are linked by something called a “cryptographic hash” from the previous block.
+
+“Bitcoin mining is a process where computers break off chunks of that and validate the transactions by solving complex mathematical problems,” Campbell said.
+
+That’s of value because it verifies transactions and prevents fraudulent ones.
+
+“They’re rewarded for that by earning Bitcoin in the process,” Campbell said.
+
+That process takes computing power, which of course requires electricity coming and going — first to power the units that are processing the information, and second to keep those units cool as they work.
+
+“Even on a home scale the fans required to keep these systems cool can be so loud two people can’t hear each other talk in the same room,” Campbell said.
+
+The value of Bitcoin is up more than fourfold in the last year — one Bitcoin sat at more than $43,000 Tuesday afternoon — and capital is pouring into the race to “mine” it successfully.
+
+The number of coins is finite, and as value increases, Campbell said, it takes more computing capability — usually now through the use of graphics processing units (GPUs), or graphics cards also popular with computer gamers.
+
+Milligan University professor David Campbell with a graphics processing unit (GPU). GPUs are the key to Bitcoin mining and use huge amounts of power to operate.
+
+Those GPUs happen to be really good at solving the “complex mathematical problems” Campbell referenced.
+
+“Bitcoin is capped in terms of how many Bitcoins can ever be created,” Campbell said. “As we approach that point it’s gonna take more and more computer power to produce each Bitcoin. So it’s been designed that way.”
+
+As long as Bitcoin’s model holds, the computing power needed will increase.
+
+Computing power equals power sales
+
+That model has spurred the rise of free-standing mining operations like Red Dog Technologies’ multimillion dollar setup in New Salem. Brightridge CEO Jeff Dykes told News Channel 11 it became the power distributor’s biggest customer overnight.
+
+“We have this escalation of computing power and of course with more computing power comes more energy in order to solve these computer problems,” Campbell said.
+
+“In calculus terms it is going to approach that number in the limit and maybe actually never get there because it’s going to require such computing power to get those last few Bitcoins.”
+
+In February, BBC reported that worldwide Bitcoin mining uses more electricity than the entire country of Argentina. Tuesday the source for that report — the Cambridge Center for Alternative Finance’s “Bitcoin Electricity Consumption Index” — had moved Bitcoin up two slots, surpassing Ukraine and Sweden.
+
+Researchers place worldwide energy usage by Bitcoin mining and operations above the annual power usage of all but 27 countries. (Reproduced from cbeci.org, Cambridge Centre for Alternative Finance)
+
+The GPUs furiously at work digging for Bitcoins are the culprit, Campbell said.
+
+“As these GPUs get bigger they run hotter, they require more fans — as you keep building out your mining rig electricity usage increases, the heat increases, so then you have to in more cooling – which uses more electricity to cool down your GPUs or else they burn out.”
+
+And those fans? All the high-tech know how in the world hasn’t solved the noise problem.
+
+“I’ve seen at home setups use multiple box fans and when they’re in the room it’s hard to talk to the person,” Campbell said.
+
+Campbell’s putting in a small set up to mine for Ethereum, a different currency, because Milligan business students are fascinated by the cryptocurrency boom. But his brother Chad has him beat — and has helped keep Campbell up on the technology.
+
+“He’s got two box fans cooling his system and when he’s in there showing me things I can’t hear him over it.”
+
+Environmental concerns mounting
+
+Brightridge’s Dykes said Red Dog, which signed a five-year lease to purchase Brightridge power and occupy space adjacent to its New Salem substation, is in expansion mode. But the future of the technologies behind Bitcoin and other cryptocurrencies is anything but certain — largely due to environmental questions.
+
+“There are dozens of cryptocurrencies out there and a lot of them are already onto this,” Campbell said. “They’ve got greener ways of setting up their blockchain.
+
+“Chia for example relies on SSD (solid state drive) which means your (hard drive) storage.”
+
+And Ethereum, which Campbell is building a rig to mine, is switching from the energy intensive “proof of work” concept to a “proof of stake” concept.
+
+Red Dog Technologies’ Bitcoin mine adjacent to a Brightridge substation in New Salem community, Washington County, Tennessee.
+
+“Instead of allocating the coins toward the highest-powered computers it allocates the coins toward the people who have staked the most Ethereum into the system,” he said.
+
+“So what that should do is deescalate this computer arms race and require less power to validate the blockchain.”
+
+A greener future for crypto?
+
+Campbell said he hasn’t heard any similar plans for Bitcoin, but said the future will be driven by the market, and that is influenced by people’s concern for carbon emissions.
+
+“It’s of course all driven by profit, which is generally a good thing,” Campbell said.
+
+“We want people to pursue putting resources together in ways that create value. The way some of these mining systems are set up, the problem that we’re running into is that the true costs, the external costs, aren’t included in their intrinsic cost.
+
+“They do pay for the power, but they don’t bear the full cost of that power generation in terms of environmental pollution.”
+
+Just last week, Tesla CEO Elon Musk announced the company was reversing its offer to accept Bitcoin as payment for its vehicles. He pointed to the environmental effects.
+
+But Campbell said the blockchain technology itself offers a wide range of benefits to society.
+
+“That technology is something we want to keep. If we can do it in a greener way, that would be a real value add for everyone.”

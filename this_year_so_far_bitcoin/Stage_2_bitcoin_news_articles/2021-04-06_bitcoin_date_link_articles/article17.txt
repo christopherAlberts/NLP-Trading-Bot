@@ -1,0 +1,91 @@
+They have major impact on your reputation, cause players to abandon, and take a big bite from your bottom line. Join Dean Takahashi and others to learn how to defend your game against cheaters and pirates.
+
+Elevate your enterprise data technology and strategy at Transform 2021.
+
+Mythical Games plans to launch an nonfungible-token (NFT) marketplace for its Blankos Block Party video game.
+
+Once the alpha version of that marketplace opens next month, the company will make the transition from a maker of a game with collectible digital items to a game with items that you can buy and sell. Eventually, you’ll be able to earn those items (which are cute, vinyl-like characters dubbed Blankos) through gameplay and cash out your NFTs with any currency, said CEO John Linden in an interview with GamesBeat.
+
+In other words, it’s an example of the Leisure Economy, where we get paid to play games. Mythical has been working on its NFT technology, which is based on blockchain, the decentralized, transparent, and secure ledger technology. That technology makes it possible to track transactions and make it easy to audit things. The full game will debut on the PC in 2021.
+
+Until recently, Linden didn’t mention NFTs, since there was a kind of backlash against blockchain and cryptocurrencies as the tech went through its boom-and-bust cycle. But cryptocurrencies such as Bitcoin and Ethereum are booming again, and NFTs have gone through the roof.
+
+“When my mom starts talking about NFT’s and Saturday Night Live does a skit on it, I gues we can talk about it, too,” he said. “Now it’s like everybody is talking about it.”
+
+Image Credit: Mythical
+
+Now Linden is happy to say the acronym NFTs, as he believes Blankos Block Party has a chance of taking them to the mainstream. He has a headstart, as Mythical has a few hundred thousand users, more than most blockchain game companies.
+
+In the past few months, NFTs have exploded in other applications such as art, sports collectibles, and music. NBA Top Shot (a digital take on collectible basketball cards) is one example. Published by Animoca Brands and built by Dapper Labs, NBA Top Shot has surpassed $100 million in sales, five months after going public to a worldwide audience. And an NFT digital collage by the artist Beeple sold at Christie’s for $69.3 million. Investors are pouring money into NFTs, and some of those investors are game fans. But many of these items are being purchased by crypto enthusiasts with a lot of money and tech savvy.
+
+The question is whether the mainstream will use them.
+
+Taking NFTs to the mainstream
+
+“We’re really excited about how we’re doing something different with the market than some of these other NFC markets out there,” Linden said. “It’s really focused around these concepts of utility, getting characters you can play with leveling them up, and being able to resell them.”
+
+That’s why Mythical has made it easier to use NFTs via its cute characters and simple market, Linden said. Mythical’s Marketplace will facilitate peer-to-peer sales of playable NFTs from Blankos Block Party, an open-world multiplayer party game with an emphasis on player-designed levels.
+
+“It’s easy for players to find what they’re looking for,” he said. “You can buy an NFT character and it’s already minted for you. We’re trying to take away all of that complexity. You can pull it up, open the box, see what number you have, and go into the marketplace. With Mythical, we set out to bring it to the common player.”
+
+Image Credit: Mythical
+
+Blankos Block Party offers NFTs with utility in a triple-A game experience, Linden said. Collectors take an active role in increasing the value of their digital vinyl toys by leveling them up, competing in special events, and more.
+
+Players have invested billions of dollars into digital items in other online games without a tangible way to benefit from it beyond occasional gameplay advantages. Content remains locked behind in-game accounts because the typical “purchase” is really just a lease or licensing agreement, with no capability to transfer or sell. (I think of game companies as the lords of a manor, and gamers as peasants renting the land that they work, to use a class warfare analogy).
+
+And while other secondary marketplaces have existed in the form of gray and black markets (think gold farmers in World of Warcraft from years ago), players who participate are exposed to unsafe transactions, scams and even the threat of losing their accounts for Terms of Service violations, Linden said. But Linden wants Blankos Block Party to be a fun game first, where gameplay and blockchain make sense.
+
+Image Credit: Mythical
+
+“The theme we’ve been talking about is how does gameplay change scarcity and rarity, which then can be reflected immediately in that marketplace,” he said. “We’re really excited because it’s going to start really start unlocking that investment that players are buying these items for that they actually own. Now they have buyer or seller options.”
+
+Through the proprietary Mythical Marketplace, players can unlock the value of monetary, rarity, and time-based investments by selling their Blankos to other players for real money (like U.S. dollars) or cryptocurrency in safe and secure transactions, with proof of authenticity, he said.
+
+“The first step is going to get the marketplace out. And so people can start interacting with that,” he said.
+
+Right now, players start with a Blankos starter character that they use to play, but it’s not an NFT. Over time, they could use such a character to earn rewards and eventually earn money. Other Blankos in the game are NFT-based.
+
+“We can actually have a path to where a player could come in and grind the game, get a Blanko, and level up and exchange that,” he said. “It becomes your Leisure Economy. We’ll see how they play out. Maybe they’ll turn into Pokémon cards in 10 years.”
+
+Building on the blockchain
+
+With Blankos Block Party and its marketplace, Mythical aims to drive mass adoption of ownership in games through NFTs and Proof of Stake (PoS) blockchain technology, opening the door to a new kind of global game economy where creators are owners and players are investors.
+
+I should pause and explain this. Blockchain verifies the authenticity of something — a digital item — by storing it in a decentralized way on a bunch of computers and then checking those computers to see if the thing that is stored matches. If one of those computers is hacked, it’s no big deal because all of the other computers have matching data of what is stored on the blockchain. Data entered on the blockchain is immutable, and anyone can see transactions that are recorded on the blockchain.
+
+If somebody hacked 51% of all the computers that recorded the data, then the hacker could succeed in hacking the blockchain and stealing money recorded on it. But it takes an enormous amount of computing power to do that, so hacking becomes impractical. To motivate parties to lend their computers to the blockchain, the creators of various cryptocurrencies have enabled mining. That is, the computers can solve complex mathematical puzzles and are rewarded with cryptocurrency. But mining consumes a lot of energy, and that’s why this type of cryptocurrency tech, dubbed Proof of Work, is considered wasteful. On top of that, it’s slow. And fees, known as gas fees, are high on the blockchains that are extremely popular.
+
+Image Credit: Mythical
+
+So Mythical Games is working with an alternative game-friendly blockchain, dubbed EOSIO, that is fast and uses Proof of Stake, which focuses on trusted parties to do record the blockchain transactions and maintain the network. Mythical uses EOSIO to handle minting, or creating, its NFTs, which are one-of-a-kind digital items that can be verified on the blockchain. And EOSIO doesn’t use as much energy, Linden said. And Mythical does not require crypto mining to participate.
+
+EOSIO might be slightly easier to crack than a high energy-consuming alternative like Bitcoin or Ethereum, and so there’s a tradeoff for Mythical.
+
+“We have rewritten a good portion of stuff that we didn’t find necessary for us,” he said. “It uses proof of authority versus proof of work. Ours is environmentally friendly, and it’s fast and efficient.”
+
+But so far the community of 300,000 registered players has shown its enthusiasm. Those players have bought more than 60,000 NFTs based on the 35 Blankos characters. Each character has 5,000 or fewer copies, enhancing the collectibility.
+
+As the game’s audience continues to grow, earlier assets and specialized releases will become more scarce, and likely more valuable in the secondary market, creating rarity on a mass market scale.
+
+The company will later add some ways for players to take the NFTs to the public blockchains such as Ethereum or Bitcoin, or to fiat currencies like the U.S. dollar. So in the future, when the alpha marketplace is ready, players will be able to sell their Blankos for real money. By the summer, the marketplace is expected to open to all players.
+
+“Some will be happy to have that liquidity,” Linden said.
+
+Since players can cash out their items, Mythical has had to comply with regulations so that it can prevent money laundering through its game. And it has had to work with a lot of countries around the world to make sure it can legally function in those places. But all of this complexity will be masked from users, Linden said.
+
+“Most people are never going to know about that. And that’s the way we want it,” he said. “We don’t want people having to think about this stuff.”
+
+Staffing up
+
+Image Credit: Mythical
+
+Mythical recently hired new executives focused on developing large-scale systems. Stoyan Stoyanov, he vice president of the marketplace, joined Mythical from StubHub, the ticket resale company. Stoyanov has experience in marketplace management, e-commerce, inventory strategy and related areas.
+
+And Matt Nutt has joined Mythical as vice president of NFT Engine, working with Stoyanov and the marketplace team to help other games and interactive media companies to build their own economy engines leveraging Mythical’s proprietary platform. This means that Mythical plans to license its NFT tech to other game companies. Nutt was previously group general manager for EA Mobile.
+
+And Cristina Lee has joined the company as vice president of finance, following nearly a decade at Warner Bros. Entertainment and more than six years at Fox Filmed Entertainment. Overall, Mythical has almost 100 people and it is hiring.
+
+In the future, Linden believes that Mythical can license its tech to others.
+
+“We’re in talks with quite a few other games right now, which is really exciting,” he said.

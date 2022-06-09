@@ -1,0 +1,19 @@
+Paxos has raised a $300 million Series D funding round led by Oak HC/FT. With today’s funding, the company is now valued at $2.4 billion. The company has been building infrastructure and white-label services for enterprise clients that want to offer cryptocurrency products to their own customers.
+
+In particular, Paxos has partnered with PayPal for its cryptocurrency features. Since October 2020, PayPal customers have been able to buy, hold and sell a handful of crypto assets — Bitcoin, Ethereum, Bitcoin Cash and Litecoin. Venmo, a PayPal subsidiary, added the same cryptocurrency features just a few days ago.
+
+Investors in today’s funding round include Declaration Partners, PayPal Ventures, Mithril Capital, Senator Investment Group, Liberty City Ventures and WestCap.
+
+Paxos offers different products, such as crypto trading and settlement, custody and the ability to issue tokens. It focuses on big enterprise clients, such as Revolut, Crédit Suisse, Société Générale and StoneX.
+
+The company tries to be as compliant as possible. And it plans to remain committed to regulation across several geographies and verticals.
+
+For instance, Paxos plans to launch the Paxos National Trust Bank and to apply for a Clearing Agency registration with the SEC in the U.S. In Singapore, the company is applying for a Major Payment Institution license. Paxos thinks that this regulation edge will foster partnerships with more enterprise clients looking for safe cryptocurrency opportunities.
+
+Paxos has also launched its own stablecoin called Paxos Standard (PAX). Stablecoins are crypto assets like BTC or ETH. But the value of PAX is indexed on USD. At any point in time, one PAX is worth one USD. Other popular stablecoins include Tether and USDC.
+
+The company also lets you issue your own branded stablecoin. For instance, Binance has worked with Paxos to issue BUSD on its platform. As expected, one BUSD is also worth one USD.
+
+Paxos is also well known for PAX Gold, a digital asset that is backed by physical gold. It’s an alternative to gold ETFs that should be more efficient as it lives on the Ethereum blockchain.
+
+Finally, Paxos has its own cryptocurrency exchange called itBit. According to CoinMarketCap, itBit only features a handful of trading pairs. It isn’t meant to be a consumer-facing exchange, but it powers Paxos’ other products.

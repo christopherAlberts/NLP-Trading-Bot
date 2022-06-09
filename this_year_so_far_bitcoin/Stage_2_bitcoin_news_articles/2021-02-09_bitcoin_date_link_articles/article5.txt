@@ -1,0 +1,61 @@
+There’s a popular misconception that the cryptocurrency industry is a realm of rogue tech-bro cowboys. But the reality is many of the most ambitious entrepreneurs in fintech are betting big on institutional bitcoin adoption.
+
+Such is the case with Lebanese-American venture capitalist Soona Amhaz of Volt Capital, whom Forbes recently listed as one of the most influential people in Silicon Valley. She discovered bitcoin through Reddit, back when she was an engineering student at the University of Michigan. Now her firm has invested in 11 crypto startups and is working alongside institutional players like TD Ameritrade, Cumberland and CMT Digital as part of the Chicago DeFi Alliance (CDA).
+
+“Where institutions are at now is they’re looking to back quality founders in the space early on. They’re looking to be market makers for a lot of these [crypto] projects, and they’re looking to help with integrations and partnerships between decentralized finance [DeFi] projects and more established financial firms,” Amhaz said. “They see where the puck is going and the smart ones are getting ahead of the curve.”
+
+When it comes to “DeFi,” Amhaz said the term includes bitcoin and the variety of blockchain-based systems gaining popularity among day traders during the pandemic.
+
+“Specific DeFi projects that are gaining more traction now include automated market makers (AMMs), stablecoins and platforms for decentralized exchange (DEX) aggregation, lending and derivatives,” Amhaz said. “Recent DeFi projects simply offer more avenues to use bitcoin as a productive asset, not just a reserve asset.”
+
+Until now, most institutions have preferred indirect exposure to cryptocurrency. Goldman Sachs alum Juthica Chou, who co-founded the derivatives exchange LedgerX back in 2013, pioneered the physically settled bitcoin futures that are now mainstay offerings among firms like Bakkt and CME Group. Futures contracts and bitcoin options offer a way for institutions to bet on the price of bitcoin without actually owning bitcoin directly. A cash-settled product means the buyer is paid in dollars, such as getting $10,000 when the option to buy at $10,000 expires, instead of getting paid in bitcoin. Rumor has it the asset management giant BlackRock will soon become the next player offering bitcoin futures products.
+
+So far, many institutions are willing to forgo some profits in exchange for lower risk. One of the most popular institutional product providers, Grayscale’s Bitcoin Trust (GBTC), reportedly saw $1.2 billion in fresh investor funds in January 2021.
+
+“I’m still bullish on options and derivatives,” Chou said, adding there’s enough demand from institutions for trust shares like GBTC, bitcoin options and even prospective exchange-traded funds (ETFs) to all generate substantial wealth in 2021.
+
+“The environment has way more infrastructure than we had back in 2013,” Chou said. “There’s security infrastructure and best practices for custodians, auditing infrastructure … banking is another great example. Compared to 2013, the difference between where we were and where we are today is night and day.”
+
+With regards to GBTC, in particular, insatiable demand for shares with lower risks than custodying bitcoin leads to sky-high premiums, sometimes up to 100% more expensive than buying cryptocurrency directly. That’s why Valkyrie CEO Leah Wald launched her own Texas-based asset management firm in 2020. According to Crunchbase, she was one of roughly 800 women founders who raised capital last year.
+
+“It was really difficult to raise during a pandemic… not being able to organically expand my network,” Wald said. “I couldn’t have a meeting with someone even if I wanted to. And so much of seed investing is trusting in the team; trust built through high-quality, in-person conversations.”
+
+Yet by January 2021, her startup had raised an undisclosed seed round from angel investors like Coinbase alum Charlie Lee, then applied to the Securities and Exchange Commission for permission to launch a bitcoin ETF. Chou said such a bitcoin ETF would boost the whole ecosystem because it would “open access for people who are already users brokers or securities services.”
+
+Several ETF proposals have been rejected over the years, starting with a proposal by Tyler and Cameron Winklevoss in 2013. However, Wald says now she believes there’s never been better timing for an ETF to get approved. Among futures and options, trust shares and ETFs, all these products have different regulatory shapes that allow them to be redeemed faster, or traded in different ways, than the underlying asset, bitcoin, could be at-scale. Generally speaking, institutions seek indirect ways to gain exposure to these nascent, and often lucrative, crypto markets.
+
+“Bitcoin’s market cap has grown large enough that it may have finally surpassed an important threshold in the minds of the regulators,” Wald said. “I believe the biggest reason the regulators were nervous about approving a bitcoin ETF in 2017 was concerns around custodial solutions and security. And I agree with that. We’re much closer to better security and custody now with institutional-grade options.”
+
+Wald added that both Valkyrie’s bitcoin trust shares and prospective ETF are structured to reduce volatility and premiums.
+
+“We wanted to create a more transparent product. I wanted our product to trade closer to the net asset value [NAV],” Wald said. “We’re the only bitcoin trust launching an ETF fund so everyday investors can buy exposure to bitcoin.”
+
+This propensity among women entrepreneurs using cryptocurrency isn’t restricted to American tech bubbles. According to Toya Zhang, head of marketing at the Hong Kong-based crypto and futures exchange AAX, women make up 25% of her platform’s users and a third of the top users.
+
+“Our biggest market is in Russia. Other than Russia, our biggest markets are Hong Kong, Korea, Indonesia and India,” Zhang said. “Asian women are more often the one to take care of finances. If you look at stock investment user groups in China and Hong Kong, women are more than half of them.”
+
+The highly specialized crypto landscape is quickly gaining diversity, compared to other financial sectors. At India’s Coinswitch.co exchange, women reportedly make up 50% of around 25,000 users, depending on the specific region. Women also make up at least 40% of British cryptocurrency users, according to a survey by the crypto exchange Gemini.
+
+Across borders, the clear gender disparity may be associated with net worth rather than any lack of interest. In 2018, the World Bank estimated women only held 38% of capital wealth. Plus, Crunchbase tallied just 15,379 companies, less than 20% of startups that raised capital, that had women founders from 2009-2019.
+
+Beyond startups, there are also several companies like the New York Digital Investments Group (NYDIG), where women executives took the helm in order to innovate on established brokerage models.
+
+In December 2020, the insurance company Massachusetts Mutual Life Insurance Co. purchased $100 million in bitcoin and acquired NYDIG equity, a move that signaled a bullish outlook on institutional demand for bitcoin exposure in 2021. Then, on February 8, 2021, Elon Musk’s publicly traded car company Tesla validated the institutional thesis by buying $1.5 billion worth of bitcoin.
+
+“In 2021, the greater acceptance of bitcoin by traditional investors and allocators is really exciting,” said NYDIG president Yan Zhao. “We’ll give banks and wealth managers the ability to offer bitcoin products and exposure. We’ll handle the back end.”
+
+Zhao said her bitcoin-focused firm has roughly $4 billion under management, including derivatives, and is currently courting prospective clients like private banks and various asset managers. Her firm is open to exploring ideas like a bitcoin ETF or trust shares, she said, but isn’t interested in Ethereum-based DeFi products.
+
+“We’ve made a conscious decision to focus on bitcoin,” Zhao said.
+
+Likewise, Chou was skeptical about many of the Ethereum-based DeFi options available today, while remaining cautiously optimistic about the future of DeFi derivative options.
+
+“Crypto-native products are important because that’s how you can really harness the power of not having centralized authorities involved to facilitate the transaction,” Chou said.
+
+In short, now traditional options offer indirect access to cryptocurrency gains. At the same time, cryptocurrency itself is experimentally being used to offer comparable, yet more accessible, financial products. These DeFi products are designed for new functionality, not just price exposure.
+
+Meanwhile in California, from network scaling crusader Elizabeth Stark, CEO of Lightning Labs, to Amhaz at Volt Capital, the next generation of bitcoin whales may look remarkably different from Silicon Valley’s past unicorn-building bros.
+
+“The face of our industry looks different than how the tech industry looked in the early 90s or how finance has looked since forever,” Amhaz said. “We’re starting at a higher, more informed baseline. So, although there’s still work to be done here, I’m optimistic.”
+
+Disclosure: Together, Leah Wald and Leigh Cuen are volunteer co-founders of the Digital Salon Initiative.

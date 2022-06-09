@@ -1,0 +1,45 @@
+VANCOUVER, British Columbia, Jan. 19, 2021 (GLOBE NEWSWIRE) -- Loop Insights Inc. (MTRX:TSXV RACMF:OTCQB) (the “Company” or “Loop”), a provider of contactless solutions and artificial intelligence (“AI”) to drive real-time insights, enhanced customer engagement, and automated contact tracing to the brick and mortar space, is pleased to announce the final integration of major cryptocurrency payments into the Company’s contactless payment platform. Initial integration was prepared in 2018, with patents filed in 2019 and put on standby in anticipation of today’s global commerce and regulatory acceptance of cryptocurrency payments.
+
+
+
+The methods described in the 2019 patent application provide a unique method of facilitating and verifying cryptocurrency payments, all performed with the fundamental Loop principle of not requiring POS integration to achieve these goals.
+
+Loop Insights CEO Rob Anson stated: “Whereas many companies try to use cryptocurrencies as a buzz word, Loop has been way ahead of this global paradigm shift to the delight of our customers and partners who want be ahead of what we anticipate being a parabolic growth decade for cryptocurrency transactions and payments. Our Fobi device is already configured to accept leading cryptocurrencies including Bitcoin, Ethereum, and Litecoin, providing retailers with new long-term opportunities for growth and Enterprise partners with an even stronger value proposition that already includes our world-leading artificial intelligence-driven, real-time transaction technology.”
+
+LOOP’S CRYPTOCURRENCY PAYMENT PROCESSING KEEPS PACE WITH RECENT SHIFT BY WORLD’S LARGEST COMPANIES AND PAYMENT PROCESSORS
+
+COVID-19 accelerated the demand for contactless payment solutions, while the recovery and new all-time highs in cryptocurrency prices accelerated the pace of change in financial services, with consumers around the world adopting and demanding the ability to transact in digital currencies.
+
+Loop Insights enables traditional brick and mortar retail clients and global enterprise partners to maintain or accelerate their leadership positions by easily accepting payments in the massive, growing cryptocurrency space, which has seen significant growth in both merchants and payment processors accepting cryptocurrencies including:
+
+AT&T became the First Mobile Carrier to Accept Payment in Cryptocurrency
+
+Microsoft accepting cryptocurrency on their website and Xbox store
+
+Visa recently filing a cryptocurrency system patent
+
+PayPal and Venmo accepting cryptocurrency for all online payments
+
+Square’s Cash App launching a Bitcoin Auto Payments Tool
+
+HOW IT WORKS
+
+Loop’s Fobi device will create a unique QR code that can be printed or displayed to a customer, allowing them to send payments through a mobile wallet application such as those designed to support leading cryptocurrencies. The platform will then communicate with the retailer, depositing the sum in either cryptocurrency or local FIAT currency. Because the Fobi platform is not dependent on any individual cryptocurrency, customers are free to use whichever cryptocurrency they prefer, using the mobile wallet of their choice.
+
+Furthermore, Loop’s Fobi device provides incredible flexibility and currency risk mitigation by allowing the retailer to decide whether they would like to receive a FIAT currency or hold the cryptocurrency used in payment for future use. Moving forward, Loop will continue to work with leading cryptocurrency exchanges such as Kraken, BitFinex, and Binance to convert payments made in cryptocurrency into local FIAT currencies.
+
+Loop Insights CTO Casey Matson-DeKay stated: “I have been involved in crypto since 2012 and recognized the need for hardware-based solutions to enable digital payments, particularly cryptocurrencies. Through the power of Loop’s Fobi device, we are able to instantly process cryptocurrency payments, confirmed by the retailer through our platform, allowing consumers to use contactless payment options such as cryptocurrencies at additional retail locations.”
+
+This Press Release Is Available On The Loop Insights Verified Forum On AGORACOM For Shareholder Discussion And Management Engagement https://agoracom.com/ir/LoopInsights/forums/discussion
+
+About Loop Insights
+
+Loop Insights Inc. is a Vancouver-based Internet of Things (“IoT”) technology company that delivers transformative artificial intelligence (“AI”) automated marketing, contact tracing, and contactless solutions to the brick and mortar space. Its unique IoT device, Fobi, enables data connectivity across online and on-premise platforms to provide real-time, detailed insights and automated, personalized engagement. Its ability to integrate seamlessly into existing infrastructure, and customize campaigns according to each vertical, creates a highly scalable solution for its prospective global clients that span industries. Loop Insights operates in the telecom, casino gaming, sports and entertainment, hospitality, and retail industries, in Canada, the US, the UK, Latin America, Australia, Japan, and Indonesia. Loop’s products and services are backed by Amazon’s Partner Network.
+
+For more information, please contact:
+
+Loop Insights Inc. LOOP Website: www.loopinsights.ai Rob Anson, CEO Facebook: @ LoopInsights T : +1 877-754-5336 Ext. 4 Twitter: @ LoopInsights E: ir@loopinsights.ai LinkedIn: @ LoopInsights
+
+This news release contains certain statements that constitute forward-looking statements or information, including statements regarding Loop’s business and technology; the ability of Loop to engage with industry participants to achieve its goals; the development of Loop’s technology; and the viability of Loop’s business model. Such forward-looking statements are subject to numerous risks and uncertainties, some of which are beyond Loop’s control, including the impact of general economic conditions, industry conditions, competition from other industry participants, stock market volatility, and the ability to access sufficient capital from internal and external sources. Although Loop believes that the expectations in its forward-looking statements are reasonable, they are based on factors and assumptions concerning future events which may prove to be inaccurate. Those factors and assumptions are based upon currently available information. Such forward-looking statements are subject to known and unknown risks, uncertainties, and other factors that could influence actual results or events and cause actual results or events to differ materially from those stated, anticipated, or implied in the forward-looking statements. As such, readers are cautioned not to place undue reliance on the forward-looking statements, as no assurance can be provided as to future results, levels of activity or achievements. The forward-looking statements contained in this news release are made as of the date of this news release and, except as required by applicable law, Loop does not undertake any obligation to publicly update or to revise any of the included forward-looking statements, whether as a result of new information, future events or otherwise. The forward-looking statements contained in this document are expressly qualified by this cautionary statement. Trading in the securities of Loop should be considered highly speculative. There can be no assurance that Loop will be able to achieve all or any of its proposed objectives.
+
+Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release.

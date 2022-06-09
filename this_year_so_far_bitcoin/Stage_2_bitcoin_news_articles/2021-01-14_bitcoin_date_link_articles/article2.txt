@@ -1,0 +1,47 @@
+“Miners are selling” is a popular trope used to explain bitcoin’s occasional downward price action. But on-chain data doesn’t support this narrative, according to analysts and mining pools themselves.
+
+After bitcoin’s correction earlier this week to the tune of nearly 30%, miners were a popular scapegoat. But miners have been extremely consistent in their selling habits for months, according to network data collected by Glassnode and analyzed by CoinDesk.
+
+For the past six months, weekly bitcoin flows from mining wallets to exchanges have been steady despite the cryptocurrency’s more than 330% gains over the same period. The only anomalous activity seen among mining wallets happened well before bitcoin’s correction.
+
+Since July 2020, miners have sent an average of 2,100 coins per week to exchanges, per CoinDesk Research. Miners are currently on track to finish another extremely average week with only 1,200 coins transferred so far from their wallets for cryptocurrency exchanges.
+
+Total bitcoin transfers from mining wallets to exchange addresses. Source: Glassnode, CoinDesk Research
+
+Confirming this observation, Coin Metrics senior analyst Karim Helmy told CoinDesk there isn’t any on-chain data supporting increased miner selling.
+
+“BTC-denominated gross inflows and outflows out of mining wallets have both remained stable, as have net flows,” Helmy said in a direct message.
+
+The timing is off
+
+An unusually large reduction in mining wallet supply, however, did occur over a recent four-day period from Dec. 26 to 30. During this period, the aggregate balance of mining wallets dropped by 21,000 BTC, a 1% decrease.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+But instead of possibly causing a correction, these transfers happened while bitcoin was climbing from $26,000 to $29,000. Over the next nine days, moreover, bitcoin’s price gained another 43% before temporarily topping out just below $42,000 and falling nearly 30% into Monday morning.
+
+These coins don’t appear to have ever been sent to exchanges, per Glassnode data. Over the four-day period, exchange addresses received a total of less than 2,400 coins from mining wallets, an amount far less than the 21,000 withdrawn from mining wallets.
+
+Total BTC balance of bitcoin miner addresses Source: Glassnode, Coin Metrics, CoinDesk Research
+
+Even if every coin sent by miners exchanges were instantly sold at market, however, their order would represent a tiny percentage of daily trading volume.
+
+Miners sent 1,890 BTC to exchanges on Dec. 26, 2020, worth roughly $48 million at the time and the largest single-day transfer in the past year. That same day, Binance – currently the largest cryptocurrency exchange by volume – reported over 148,000 BTC in volume on its BTC/USDT pair, the exchange’s largest bitcoin market.
+
+Assuming miners sold all their coins on one market at one exchange, they would represent 1.3% of its daily volume.
+
+Pools are stacking, not selling.
+
+Leading mining pools are in fact increasing their bitcoin holdings, not liquidating them, with the balances belonging to miners at F2Pool and Lubian – the two largest mining pools by their individual holdings – steadily increasing for the past eight months, per Glassnode.
+
+“I’m not sure what addresses they’re watching,” said Poolin CEO Kevin Pan, calling anything showing a significant increase in miner selling “maybe fake data.”
+
+Even though Slush Pool doesn’t closely track what their miners do with their bitcoin payouts, engineer and technical writer Daniel Frumkin told CoinDesk, “We know that many of our miners are long BTC and only sell the portion of their revenue that’s needed to cover costs and manage risk.”
+
+Thus, when the price drastically increases, Frumkin explains, miners are able to and in fact do sell fewer bitcoins, not more since the price appreciation boosts their profit margins per coin mined.
+
+So, who is selling?
+
+More than likely, recent price dips are primarily caused by U.S. investors realizing some profits.
+
+For example, Guggenheim CIO Scott Minerd took to Twitter Sunday saying it’s “time to take some money off the table,” referring to bitcoin, after telling CNBC a month ago that bitcoin “should be worth” $400,000. Significant selling activity on Coinbase over the weekend and Monday also signaled profit taking from U.S. investors.

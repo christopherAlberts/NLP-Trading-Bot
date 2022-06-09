@@ -1,0 +1,89 @@
+From 21st century carmaker Tesla to 170-year-old life insurer MassMutual. From banks to the auction house Christie's. They have all opened their doors to cryptocurrency, bringing it to the mainstream.
+
+Transcript
+
+MARY LOUISE KELLY, HOST:
+
+If you think America's politics are polarizing, consider Bitcoin. The price of a single bitcoin today is nearly $50,000. Ten years ago, in its infancy, it was around a buck. The digital currency's meteoric rise has minted millionaires. It has energized true believers around the world, which has only convinced skeptics that Bitcoin is the mother of all bubbles. NPR's Uri Berliner wades in.
+
+URI BERLINER, BYLINE: Nikki Beesetti was an engineering student at Purdue University facing money pressure and teaching a bit on the side.
+
+NIKKI BEESETTI: And I was getting paid about, I think, like, $10 an hour. It was just enough money for me to buy food and coffee and just get ramen.
+
+BERLINER: This was back in 2017. And being an engineering major, she was curious about Bitcoin - about its technology, its innovative design and maybe, just maybe, as an investment. So she did a lot of research and spent $2,000 dollars on a single bitcoin. And then...
+
+BEESETTI: I sold at the end of the year, when it was about $19,000. I got a email from my bursar's office telling me, this is how much you owe for the next semester.
+
+BERLINER: That single bitcoin she bought covered her tuition, books and lab fees, and in a way, it changed her life. She's still buying Bitcoin, still excited by its promise.
+
+BEESETTI: I think sometimes when you're very young, a new technology can really excite you, and it can really shape your future and the way you look at the world. And I think that was the case for me and Bitcoin. It's definitely made me more optimistic. It's definitely given me, like, a lot of things to look forward to, especially in a time when things can seem so lonely and dreary.
+
+BERLINER: There's a phrase for people who are all in on Bitcoin not just to get rich but as a force for good. They're called Bitcoin maximalists. George Mekhail is one of them.
+
+GEORGE MEKHAIL: I found something that I believe in. I found something that seems like it's - it has a benevolent mission to sort of help humanity. And so I stuck around.
+
+BERLINER: Mekhail is a mortgage professional in his day job and the co-author of a book called "Thank God For Bitcoin" on the moral case for the cryptocurrency. He started buying Bitcoin in 2017 and has continued buying and holding ever since.
+
+MEKHAIL: It's not like - we're not becoming astronomically wealthy yet. But if this thing does what we think it's going to do, we will be, and that will be a part of it. But I think it's important to note that that's not the motivation. That's a byproduct of being here.
+
+BERLINER: Here's the maximalist case for Bitcoin. The cryptocurrency is beyond politics at a time when many people mistrust government. It's not controlled by central banks or leaders craving popular approval. Mekhail calls Bitcoin money for the people.
+
+MEKHAIL: There's no CEO. There's no headquarters. So that's unique.
+
+BERLINER: Bitcoin is borderless. Bitcoin can't be counterfeited. And here's what might be the biggest argument of all on behalf of Bitcoin. The way it's designed, only 21 million bitcoins will ever exist. So it's like gold - finite and a hedge against inflation. In contrast, governments can print endless amounts of money. So, the argument goes, scarcity will keep Bitcoin valuable. There's only so much of it. That's the all-in maximalist case. Here's the more expedient one.
+
+(SOUNDBITE OF MONTAGE)
+
+REBECCA QUICK: Bitcoin rising this morning following news that Tesla has bought about $1.5 billion in the cryptocurrency.
+
+UNIDENTIFIED REPORTER #1: Massachusetts Mutual Life Insurance buying $100 million worth of Bitcoin.
+
+SCOTT WAPNER: Let's talk rocket ships - first, Bitcoin. That falls into that category because that's what that is.
+
+BERLINER: Companies have been snapping up Bitcoin recently. So are ordinary people on apps like Robinhood, often buying a fraction of a Bitcoin at a time, all sending the price skyrocketing even higher.
+
+(SOUNDBITE OF ARCHIVED RECORDING)
+
+UNIDENTIFIED REPORTER #2: Check this out. Bitcoin - it broke through the $50,000 level just a short time ago. It's now up more than 70% since January 1.
+
+BERLINER: It's fallen a bit since then, but the phrase you hear about Bitcoin this year is FOMO. Given all this buzz, it's probably a good time to ask, what is Bitcoin?
+
+JAMES LEDBETTER: It is essentially a currency that's based on nothing except mathematics.
+
+BERLINER: James Ledbetter is the publisher of Fin, a financial technology newsletter.
+
+LEDBETTER: It doesn't correspond to anything that exists in the real world.
+
+BERLINER: But it does exist in the digital world. Each transaction is kept on a ledger. And who's keeping tabs on those transactions? They're called Bitcoin miners, digital miners. Anyone can be one. What they do is make sure that everything on the ledger is legitimate.
+
+LEDBETTER: It's verifying the transactions so that everybody can have faith that the system is clean and transparent.
+
+BERLINER: The system does have its drawbacks. Verifying those transactions takes a lot of computer power and uses a lot of energy. Cybercriminals have stolen Bitcoin and other cryptocurrencies from exchanges where they're traded. And bitcoin doesn't always go up. Its price has crashed several times before. So is Bitcoin an innovation that will improve the world, as true believers contend? Is it something more modest, a savvy financial hedge? Or is it a mirage?
+
+(SOUNDBITE OF TV SHOW, "SQUAWK BOX")
+
+WARREN BUFFETT: The asset itself is creating nothing.
+
+BERLINER: That's the legendary investor Warren Buffett on CNBC. He says Bitcoin doesn't lead to anything productive. He's even called it rat poison. A number of Nobel Prize-winning economists have warned against Bitcoin, saying it's a speculative bubble. One of them, Oliver Hart, wrote me in an email, like many economists, I don't understand why its price isn't zero. Bitcoin isn't used that much for actual buying and selling. It can be cumbersome. There are fees. Many economists say it's just way too volatile to be used as everyday currency. And they say Bitcoin is a solution for a problem that doesn't really exist.
+
+ROBERT SHILLER: We already have money.
+
+BERLINER: That's Robert Shiller of Yale University.
+
+SHILLER: What's special about Bitcoin? Well, it's special in our imagination.
+
+BERLINER: Shiller says Bitcoin is certainly fascinating.
+
+SHILLER: I have to say it's a great story - secret codes, computers that write codes that can't be broken. So there's a narrative about this particular invention that sounds like it belongs in a movie.
+
+BERLINER: Shiller is a Nobel Prize-winning economist known for his work on bubbles. And he says bubbles ride on a crest of enthusiasm, and there's plenty of enthusiasm about Bitcoin. One place he sees it is in his classroom at Yale.
+
+SHILLER: I teach a course, financial markets, and sometimes they seem to be falling asleep. I just bring up Bitcoin, and they suddenly perk up.
+
+BERLINER: Remember Nikki Beesetti, the former Purdue student who paid off her semester's tuition with Bitcoin? She thinks the enthusiasm is justified, that Bitcoin and its technology will have uses that are hard to imagine today.
+
+BEESETTI: When the Internet was just starting out 20 years ago, a lot of people didn't think that the Internet was going to become the next big thing. They didn't see a value in it. They didn't see the point in sharing all this information to everybody in the world.
+
+BERLINER: The next Internet, digital fool's gold or something else? The story of Bitcoin is evolving. So for now, it can be whatever you believe it to be.
+
+Uri Berliner, NPR News. Transcript provided by NPR, Copyright NPR.

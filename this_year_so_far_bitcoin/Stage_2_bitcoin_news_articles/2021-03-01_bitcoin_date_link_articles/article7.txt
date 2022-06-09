@@ -1,0 +1,63 @@
+There are strawberries growing in the village of Neuville, Quebec, in the middle of a Canadian winter. The small farm Le Caveau à Légumes is funneling the excess heat from crypto miners to battle the frost, and grow a rarity for the region.
+
+“Now is really cold, so we need the heat,” Melissa Girard, an agronomist at the small producer, told CoinDesk in a phone interview. “We couldn’t afford to produce strawberries if we had to pay for electricity.”
+
+The farm is among a growing number of businesses and individuals turning to crypto mining for supplementary income, but approaching the highly consumptive industry in a carbon-neutral way.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Bitcoin is wasteful by design. The distributed network eliminates centralized and trusted parties by trading energy for consensus. Miners – essentially specialized graphics chips designed to churn through cryptographic math problems – audit the network and receive the occasional subsidy for that work.
+
+Some see this as an inborn inefficiency, others as a necessary price to pay for an open and uncensorable payment network. No matter your view, however, it’s a fact that bitcoin mining expends a ton of power.
+
+Cambridge University estimates the global bitcoin network consumes more energy than Ukraine did in 2019. This figure has certainly increased along with the cryptocurrency’s meteoric price rise, which draws in less-efficient miners that could now operate in profit. This is to say nothing of another bitcoin externality: heat.
+
+Enterprising folks see that byproduct as crypto mining’s saving grace. For most of Bitcoin’s existence, it has not been economical for individuals to participate in the network by mining. But with a little know-how and some PVC pipe and duct tape, bitcoin mining can generate profit while helping to cut power bills.
+
+Le Caveau began mining cryptocurrencies to generate heat for its greenhouses in 2018. (Le Caveau à Légumes)
+
+Le Caveau began mining cryptocurrencies to generate heat for its greenhouses, and help offset the cost of electricity, in 2018. It was part of a pilot for the upstart hobbyist mining manufacturer Heatmine, also based in the region, which never got off the ground.
+
+Founded by Jonathan Forte, Heatmine pitched itself as an ethical solution to crypto’s worrisome environmental footprint. The manufacturer wanted to offer a way for home and business owners to spin up a miner, earn passive income and recycle some of the heat generated in the process.
+
+While the startup has folded (the website is offline, and Forte now says his partners “never delivered”) the idea has taken hold even without dedicated heat-producing miners.
+
+Jonathan Forte, formerly of Heatmine, is producing crypto-miners geared for greenhouses in Canada. (Jonathan Forte)
+
+Kevin Carthy, founder of bitcoin ATM operator WinnipegBTC, has been reducing his carbon footprint while participating in the Bitcoin mining ecosystem by recycling heat into his office since 2013, he said in a direct message. He also uses it to keep his “little electric car warm in the winter,” he said.
+
+Canada’s cheap energy and cold weather make it the ideal location to “mine for heat,” he said. While our conversation ran short, Carthy estimated his cost in 2018 to operate a bitcoin miner at $70 with revenue of $100 in crypto per month.
+
+“We have cold weather, and we have inexpensive hydro,” Carthy told local news station CTV News. “You mine for heat and you still make a profit.”
+
+Christian Haschek, a computer scientist and tech blogger, recently started solo-mining ether (ETH) in his home in Austria. (Christian Haschek)
+
+Those figures line up with returns seen by other people experimenting with small-scale crypto mining. Christian Haschek, a computer scientist and tech blogger, recently started solo-mining ether (ETH) in his home in Austria.
+
+“It has always been my lifelong wish to warm my home with the server heat,” Haschek said. After designing his own environmentally efficient house, which is primarily powered by solar energy, he started experimenting.
+
+Haschek uses four crypto miners (that run at about 176°F) to preheat the air in his central ventilation system. “It’s basically just a funnel,” he said. “It’s a pretty low-tech solution.” Even still, he said the incoming ETH covered half his electricity bill in January while also lowering the heat pump’s electricity needs by about 50%.
+
+“Mining is not very efficient,” he said. “I’m reusing the heat I’m self-producing, so it’s almost a closed loop.”
+
+Haschek estimates his mining operation would be profitable as long as ETH stays above about $900 (at the time of writing, it is above $1,500). Despite the allure of nearly free money, it’s only a solution for colder months, he says.
+
+“It would definitely in the summer end up cooking my tomatoes on the vine,” Thomas Smith, a tech photographer and CEO of Gado Images, told CoinDesk. At the beginning of the pandemic, Smith began pumping heat from his crypto miners into a greenhouse in California.
+
+Smith’s crypto mining adventures go back several years, when he decided to see if a rig could warm his home. The trial was a success, though he realized the variable nature of mining might be better suited to hobbyist pursuits.
+
+Thomas Smith recycled heat from his crypto miners to grow tomatoes. (Gado Images)
+
+Now in a new house, Smith is using the radiant heat to keep his chickens happy at night. “It’s a little bit easier because chicken coops have to be pretty well ventilated, so you’re putting the heat into the coop, but it’s circulating and being vented out.” (Chickens produce more eggs when coop temperatures reach 70 degrees F or so.)
+
+He’s now thinking through how he might be able to automate when his rigs to turn on and off, adjusting to the temperature of his home, garden or coop. Not counting the value of his farm birds or caprese salad, Smith estimates he’s earned about $1,600 worth of cryptocurrencies.
+
+It’s mostly just a hobby that helps pay for itself. But Smith, like Haschek, thinks it could provide a path forward for others looking to help secure cryptocurrency networks without adding to their climate guilt.
+
+Of course, these efforts are small, and nowhere near significant to counterbalance the larger geopolitical forces at play in corporate crypto mining. But it’s a start.
+
+And it couldn’t come at a better time. With bitcoin’s price going parabolic, alarm over the network’s consumption has never been sharper. Projects like Layer1 in Texas, which is making use of excess renewable energy production in West Texas as well as the numerous hydro-powered mining farms across the U.S., Canada and China are doing little to improve bitcoin’s image.
+
+“Even if I scale this up as much as I could as one individual, it’s not going to take me super far. But if a lot of people take these ideas and apply them at a larger scale, that could start to have a major impact on how much electricity and carbon emissions come out of these technologies,” Smith said.
+
+Even neophytes such as Melissa Girard, from Le Caveau, who only lets the machines run while she tends to the plants, could see a future in crypto.

@@ -1,0 +1,27 @@
+In the eyes of many Bitcoin advocates, scarcity is a key advantage over more conventional assets.
+
+Unlike fiat money, which can be created from nothing on a bank’s balance sheet, or gold, which can be mined from the ground in quantities still far from being exhausted, the supply of Bitcoins was set from the start at 21 million. That means, in the words of its pseudonymous founder Satoshi Nakamoto, it should ultimately be “completely inflation free” — making it a far better store of wealth than assets whose real value declines over time.
+
+That’s the theory, at least. With the price of Bitcoin climbing as high as US$34,792 Sunday and putting the value of all coins in circulation at around US$647 billion, though, there’s a different scarcity problem looming larger.
+
+It’s easiest to think about this in terms of asset allocation. When the value of all Bitcoin outstanding was measured in the tens or hundreds of millions, a minuscule shift of money away from the US$217 trillion world equity and bond markets into digital currency would be sufficient to make its price go wild. If investors in aggregate decide to put just 0.1 per cent of their stock and bond portfolios into Bitcoin right now, that represents an additional US$200 billion or so chasing the same pile of 18.6 million coins that have been mined to date — enough to push the price well over US$40,000.
+
+In that sense, the roller-coaster ride that Bitcoin has ridden in recent years looks almost sedate. At current prices, all the digital coins in circulation are equivalent to about 0.6 per cent of the US$103 trillion market capitalization of the world’s equity markets. That’s higher than the 0.4 per cent allocation when the crypto price last peaked on Dec. 18, 2017 and much higher than levels shy of 0.1 per cent that have prevailed at times since then — but it looks a whole lot less dramatic than the 79 per cent run-up in coin prices from their last peak.
+
+The problem for digital bulls is that the success of cryptocurrencies tends to eat itself. As the value of the asset class rises, the shifts away from more conventional investments needed to provoke price spikes get larger and larger.
+
+Right now, Bitcoin on its own is worth about six times the 56 million ounces of metal represented by all the contracts outstanding on the Comex 100-ounce gold contract. The world’s biggest gold ETF, SPDR Gold Shares, holds about US$72 billion of the yellow metal. Add in other forms of private investment gold and you’ve got about US$2.87 trillion worth of metal — but much of that is in the form of bars and coins that aren’t easily liquidated when investors want to tweak their portfolios.
+
+That should be enough to concentrate the minds of circumspect investors. Cryptocurrencies are no longer a new arrival on the scene that can attract many more investors on their novelty alone. Turnover of digital coin derivatives in the September quarter came to US$2.7 trillion, according to TokenInsight, a research company. That’s not all that far behind the run rate of the world’s biggest equity markets. The value of all shares traded in Japan in 2019 came to just US$5.09 trillion, according to the World Federation of Exchanges, enough to make it the third-largest equity market on that basis.1
+
+Looked at that way, the core problem for crypto is thrown into stark relief. Why would you choose to allocate a slice of your stock and bond holdings into a digital currency, instead of more conventional assets? Once momentum stops driving the price higher, as it inevitably will, the best argument is still the hope that it might balance out the swings in your broader portfolio. As we’ve argued in the past, the prospect of Bitcoin becoming that sort of negative beta asset is the most promising way for it to become something more useful than a dice game for investors.
+
+Unfortunately, there’s still little sign of that happening. As my colleague Lionel Laurent has argued, these days it looks not so much like a hedge against the gyrations of the equity market as a leveraged bet on the same movements. The correlation between Bitcoin and the S&P 500 index was 0.767 over the past year — somewhat closer than the link between the S&P and the FTSE 100 index, and substantially tighter than that between U.S. and Hong Kong stocks. Gold’s correlation with the S&P 500 was a far lower 0.299, while the Bloomberg Barclays U.S. Treasury Index of total sovereign bond returns posted a prized negative beta of minus 0.036.
+
+Crypto will only grow up if and when it finds a different driving force to the animal spirits that govern equity markets. If it really wants to be an alternative asset to stocks and bonds, it needs to start behaving like one.
+
+1 To be sure, the notional value traded on derivatives markets is often larger than that of the underlying assets because it represents a range of prices at different points in time. Still, it's a sign of the sums that are now invested in crypto.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+David Fickling is a Bloomberg Opinion columnist covering commodities, as well as industrial and consumer companies. He has been a reporter for Bloomberg News, Dow Jones, the Wall Street Journal, the Financial Times and the Guardian.

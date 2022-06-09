@@ -1,0 +1,33 @@
+Key facts:
+
+For Nick Szabo, the intrinsic value of bitcoin is in “being good money.”
+
+The specialist assumes that BTC and fiat money will coexist in the short and medium term.
+
+“Bitcoin solves a number of fundamental historical problems,” says developer Nick Szabo. This was expressed yesterday during his participation in the Bitcoin Conference 2021 that is taking place in the city of Miami, United States, on June 4 and 5.
+
+For this defender of privacy on the Internet, the cryptocurrency devised by Satoshi Nakamoto has advantages over fiat money and gold as an exchange tool and as a means of store of value.
+
+“The deficiencies of both precious metals and fiat money are, among others, costly transactions and security problems,” said Szabo. According to him, bitcoin (BTC) solves these problems “through the use of full nodes and good key management practices, rather than the costly and trust-based validation” that banking operations with money issued by states require. .
+
+According to Nick Szabo, being good money is the intrinsic value of bitcoin. Source: Youtube.
+
+In addition, according to the expert in computer science, bitcoin “corrects the digital centralization of the fiat standard and replaces it with a decentralization resistant to censorship.”
+
+So does bitcoin fix the story? Well that’s a great statement, but there are many specific problems and fundamental shortcomings of fiat money and precious metals that bitcoin actually fixed. Nick Szabo, computer science expert.
+
+During his presentation, Szabo made a journey through the history of money, in which he made it clear that, currently, fiat money is based entirely on trust in a state. There is nothing that supports it more than the power that state has.
+
+For this reason, and for the ease with which States can borrow and refinance debts, which affects the confidence that is given to your currencies, the developer believes that “fiat currencies are subject to catastrophic failure” and “can often be seen to end in failure.”
+
+As reported by CriptoNoticias, Szabo defines himself as a “confident minimalist maximalist.” This self-perception is consistent with his apology for Bitcoin, a monetary system that eliminates the need to trust third parties It is open source, decentralized and all transactions are traceable on the blockchain.
+
+Nick Szabo on Bitcoin: “being good money is intrinsic value”
+
+An argument frequently made by critics of bitcoin is that this cryptoasset is said to have no backing or lack of intrinsic value. Szabo, at the conference, refuted this idea: “being good money is intrinsic value.”
+
+Despite his convictions in favor of bitcoin, this American of Hungarian descent does not believe that cryptocurrency will replace fiat money in the short or medium term, but rather imagine a future of coexistence. This is what he said yesterday at the Bitcoin Conference:
+
+I think bitcoin and fiat currencies will probably work together, like Square and PayPal. You can have something like a savings account in BTC and use fiat for daily payments. This is quite likely to happen, given the way things are going, in the short and medium term. Nick Szabo, computer science expert.
+
+Indeed, that seems to be the direction part of the traditional financial system is taking in relation to bitcoin. This medium has reported numerous cases of banking institutions that, in various ways, incorporate services with BTC, which includes the custody of crypto assets.

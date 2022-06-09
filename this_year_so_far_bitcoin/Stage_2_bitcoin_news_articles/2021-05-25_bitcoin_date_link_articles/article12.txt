@@ -1,0 +1,85 @@
+Investor interest in ether appears to keep growing, based on spot market volume and a pop in open interest in institutional-grade futures.
+
+Ether (ETH) trading around $2,507 as of 21:00 UTC (4 p.m. ET). In the red 5% over the previous 24 hours.
+
+Ether’s 24-hour range: $2,397-$2,750 (CoinDesk 20)
+
+Bitcoin (BTC) trading around $37,310 as of 21:00 UTC (4 p.m. ET). Losing 5.6% over the previous 24 hours.
+
+Bitcoin’s 24-hour range: $36,591-$39,824 (CoinDesk 20)
+
+Ether volumes rival bitcoin again
+
+Ether’s hourly price chart on Bitstamp since May 22. Source: TradingView
+
+The second-largest cryptocurrency by market capitalization, ether, was trading at around $2,507 as of 21:00 UTC (4:00 p.m. ET), slipping 5% over the prior 24 hours. The asset is near the 10-hour moving average and above the 50-day, a sideways signal for market technicians.
+
+Ether dipped from $2,750 at 00:45 UTC (8:45 p.m. ET Monday) to as low as $2,397 by 12:00 UTC (8 a.m. ET), a 12.8% decrease, based on CoinDesk 20 data. Bitcoin has since made gains, however, settling at $2,507 as of press time.
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+“There is a good deal of room to intermediate-term oversold territory for ether,” said Katie Stockton, a technical analyst for Fairlead Strategies, in her weekly investor note. “The corrective phase has not damaged the long-term uptrend or positive monthly momentum indicators, so we ultimately would be a buyer into the weakness.”
+
+Despite Stockton’s concerns about oversold territory, trading volumes for ether appear robust. Monday’s closing data from CoinDesk Research again highlights that traders will pool liquidity in digital assets that have long-term fundamental promise, and not just in bitcoin.
+
+Volumes on major spot exchanges tracked by CoinDesk Research for bitcoin Monday were at $72,762,652,345, while ether was at $72,479,251,812, whereas BTC usually has dominated in the past.
+
+Bitcoin and ether volumes so far in 2021. Source: CoinGecko
+
+Ether futures open interest rebounding on CME
+
+Open interest for ether futures on CME. Source: Skew
+
+On Feb. 8, when institutional-grade venue CME first launched ether futures, open interest was $20 million, according to data aggregator Skew.
+
+By May 14, ether open interest hit a record high of $598.4 million, a 28-fold increase and a sign professional money managers were seeking increased exposure in the digital asset. Since that zenith open interest dropped to as low as $366.9 million on Sunday, but closing data from Monday suggests interest is heading way back up, spiking almost 20% to $437.2 million.
+
+“Traders’ outlook on Ethereum switched yesterday to highly positive after being negative for weeks,” said Nick Mancini, research analyst for crypto analytics platform Trade the Chain. “Such a jump in sentiment implies a hyper focus on Ethereum and ERC-20, or Ethereum-based, assets.”
+
+Ether is up over 240% since the start of the year.
+
+Spot ether performance on Coinbase in 2021. Source: TradingView
+
+Read More: Crypto Assets May Force SEC to Modernize Custody Rules
+
+Bitcoin and ether correlation going back up
+
+Bitcoin’s hourly price chart on Bitstamp since May 22. Source: TradingView
+
+Bitcoin, the world’s largest cryptocurrency by market capitalization, dropped Tuesday by 5.6% as of press time. BTC was above the 10-hour moving average and the 50-day, a bullish signal for market technicians.
+
+“Intermediate-term bitcoin momentum is to the downside,” said Fairlead’s Stockton. “But it should moderate in the weeks ahead, we expect temporary stabilization near a 50% retracement level of about $34,000.”
+
+BTC fell from $39,824 at 00:45 UTC (8:45 p.m. ET Monday) to as low as $36,591 by 12:00 UTC (8 a.m. ET), an 8% decrease based on CoinDesk 20 data. Bitcoin has since recovered, however, settling at $37,310 as of press time. It’s similar market behavior to ether, with market ups-and-downs in tandem over the past 24 hours. Ether is gyrating more in percentages.
+
+Bitcoin versus ether
+
+Correlation between BTC and ETH the past three months. Source: CoinDesk Indexes
+
+Bitcoin’s 90-day correlation to ETH is trending back up after dipping to a three-month low of 0.69. It’s at 0.75 as of closing data from Monday, according to CoinDesk Research.
+
+Action in the ether market might take the spotlight from bitcoin over time due to very different mechanics between the two assets, according to Steven McClurg, chief investment officer at digital asset manager Valkyrie Investments.
+
+“Due to the law of large numbers, it takes many more users today than it did a year ago to increase activity on the bitcoin network to the point it drives the price higher,” said McClurg. “ETH is getting traction due to ETH 2.0 and those staking their assets to the network in anticipation of proof-of-stake, taking out supply as demand comes in.”
+
+Other markets
+
+Fairlead’s Stockton sees promise in the relative stability of bitcoin over alternative cryptocurrencies in the week ahead based on her technical analysis of trends for her investor update late Monday.
+
+Cardano, dogecoin, polkadot, XRP and stellar have fallen out of favor versus bitcoin, Stockton noted.
+
+Digital assets on the CoinDesk 20 are red Tuesday. Notable losers as of 21:00 UTC (4:00 p.m. ET):
+
+Equities:
+
+Commodities:
+
+Oil was down 0.26%. Price per barrel of West Texas Intermediate crude: $65.85.
+
+Gold was in the green 1% and at $1,899 as of press time.
+
+Silver is gaining, up 0.78% and changing hands at $27.99.
+
+Treasurys:
+
+The 10-year U.S. Treasury bond yield fell Tuesday to 1.557 and in the red 2.8%.

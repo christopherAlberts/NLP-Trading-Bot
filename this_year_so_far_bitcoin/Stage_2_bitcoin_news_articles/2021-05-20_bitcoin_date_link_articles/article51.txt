@@ -1,0 +1,35 @@
+A couple of years ago, I found that friends thought my involvement with a weird and wacky business like Bitcoin was a bit of a laugh. They were vaguely aware of a dark side to it—drugs and money-laundering—but that just lent a shady glamour to the idea compared to, say, working for a bank or a mortgage broker.
+
+Now it’s different. People know more about Bitcoin but they’d rather not say what they think for fear of giving offence. Mostly they’re thinking about energy. ‘More electricity used than [insert your favourite small country].’ In many people’s eyes, Bitcoin is a green disgrace.
+
+Elon Musk, the king of green energy, ostentatiously blessed Bitcoin and then changed his mind with even more fanfare. On Saturday Night Live, he mentioned Dogecoin (DOGE), the ultimate joke cryptocurrency which, funnily enough (so to speak), was ‘worth’ $8 billion according to Forbes’ pre-SNL briefing.
+
+Things have been going from bad to worse for speculators (sorry, investors) ever since:
+
+How can all these coins be worth 40 percent less today than they were yesterday? It makes no sense—except to those who’ve been in this world so long they’ve forgotten that.
+
+And where does it leave those of us toiling in the small but exclusive Bitcoin SV section of the crypto woods? Well, we’re not out of them yet, evidently.
+
+But back to my conversations with outsiders. If anyone wants to talk about Bitcoin, then I go into my ‘Bitcoin SV is different’ lecture. The trouble is, it’s a long one and a lot to take in at once. Moving from the big crypto picture to a narrower field in which ‘very different’ begins to make any sense is an epic journey and I fear many people get lost on the way.
+
+If anyone is still paying attention after I’ve separated BSV from the rest, then we can return to the green question. I don’t claim to be an expert, but it makes sense to say that bigger blocks containing more transactions mean that energy per transaction is less on BSV than on a chain like BTC which can only process a more restricted throughput.
+
+That’s easy enough to say, but I fear is not the end of the story because energy usage depends on how many miners are trying to find a block, and that’s different from how much data will be in the block. The bigger the reward for winning a block, whether in block reward payments or transaction fees, the more miners will find it worth playing the game, using more energy. So if the dollar value of BSV or the perceived value of its network rises, then more miners will join, counteracting the efficiency gains from having more transactions per block. So that argument only really works at a very superficial level and is actually a little misleading.
+
+Where BSV is a clear winner is in its overall direction. It’s focused on useful applications, not just speculation. However much energy is used, at least it’s for a purpose: data is being stored, microtransactions are being processed—whether health data, weather stats, social media interactions or many other kinds. Compare that with the energy powering BTC whose only purpose is to make BTC owners richer.
+
+It’s even worse than that because every dollar invested in BTC is a dollar that might otherwise be employed for something worthwhile. It could be invested in the stock market, creating jobs and businesses. Or used to put a roof over people’s heads. Or be spent on a holiday, supporting hotels, restaurants and those poor people whose job it is to wander round the beach collecting rent on deck chairs. But no, BTC just sits there, doing nothing useful.
+
+One argument that makes sense in the green debate is about miners’ incentives—and this applies whatever coin is being mined. Whatever miners spend on energy comes straight out of their profits. So they’re incentivised to use as little as possible and to acquire it as cheaply as possible. Of course, they’re not unique in that: everyone wants their energy cheap. But the fact that miners are big customers who are also relatively mobile means they can have more effect than other industries. Just as cloud computing facilities have been built near renewable energy sources, so miners can locate themselves near to the cheapest energy sources, making them more economically viable.
+
+In fact, less portable industries are also starting to operate like that. Hydropower in Sweden is being used to split hydrogen from water as a source of energy to melt iron ore in steel-making. ‘Eco-steel’ will be used by Volvo. And as the Economist helpfully points out, this dramatically improves the ecological impact of car-making: “For each tonne of steel produced using fossil fuels, around two tonnes of planet-cooking carbon dioxide gets belched into the atmosphere.”
+
+An extreme libertarian view of the ‘waste’ of electricity in Bitcoin mining would be that if people want to spend their money like that they should be allowed to: who’s to say what’s waste and what isn’t if the market supports a particular activity? Why is steel-making with fossil fuels any better than Bitcoin mining?
+
+If you don’t want to go quite that far and would allow that individuals and society can legitimately have views about what’s worth doing and what’s not, then you might decide that the question of Bitcoin mining is a matter not for individuals or Bitcoin businesses but for governments. After all, we’re used to governments legislating on pollution, the environment, industrial development or market regulation and there are plenty of mechanisms available. People are discouraged from driving their cars, for instance, by the tax on petrol. Bitcoin SV supporters are firmly in favour of working within conventional regulatory frameworks, so this feels like an appropriate line to take.
+
+The best hope for BSV’s long-term relationship with energy is that it will grow into an essential component of everyday life for billions of people, using thousands of new businesses. Once again, the Economist has encouraging news. It considers what will happen when Covid is eventually brought under control by looking at the aftermath of Spanish flu in the 1920s. A recent book found “increased expressions of risk-taking” when the danger was over. Another study reported a boom in startups. This same effect could be happening now: “Today new business formation is once again surging across the rich world, as entrepreneurs seek to fill gaps in the market.”
+
+With more people thinking about starting businesses, some will find their way to BSV. And as BSV businesses eat into the markets of AWS and other cloud providers, not to mention the work of banks and payment processors, then the energy those existing businesses currently use could be replaced by a mining network that is constantly striving for efficiency. That’s how Bitcoin could earn its green credentials.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

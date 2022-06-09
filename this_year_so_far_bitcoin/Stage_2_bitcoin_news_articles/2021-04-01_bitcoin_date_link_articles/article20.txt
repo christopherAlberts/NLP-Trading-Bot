@@ -1,0 +1,13 @@
+This week for the “Bitcoin Magazine Podcast,” host Christian Keroles sat down with Max Carjuzaa, the cofounder and CEO of Money On Chain.
+
+Watch This Episode On YouTube
+
+Listen To This Episode:
+
+This week for the “Bitcoin Magazine Podcast,” host Christian Keroles sat down with Max Carjuzaa, the cofounder and CEO of Money On Chain.
+
+Money On Chain is a fascinating new trustless application built on the RSK sidechain. RSK is a sidechain that pegs one-to-one with bitcoin and allows users to leverage a Turing complete computing environment. Money On Chain is part of the emerging decentralized finance and banking movement coming to Bitcoin in a more native way. Money On Chain allows users to leverage their bitcoin collateral to mint dollar-backed tokens as well as its B2X token that enables the users earn a two-times leveraged bitcoin position, all with minimized trust on the RSK sidechain.
+
+Carjuzaa explained the story behind Money On Chain and how he and his team conceived of the idea and leveraged RSK and learning from other ecosystems to build the Money On Chain system in the most Bitcoin-native way possible. Money On Chain is built to enable bitcoiners to express short and long sentiments on Bitcoin while also creating a dollar synthetic token that is permissionless and censorship resistant. Carjuzaa explained how RSK and Money On Chain are thriving in Latin America, where financial services and fiat currency are much worse and there is a substantial need for alternative banking solutions.
+
+Follow Max on Twitter, learn more about Money On Chain on Twitter or its website.

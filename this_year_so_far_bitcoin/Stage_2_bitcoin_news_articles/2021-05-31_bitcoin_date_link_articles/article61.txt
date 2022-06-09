@@ -1,0 +1,43 @@
+The trustee presiding over the Mt. Gox civil rehabilitation case has taken the next step toward partially reimbursing victims who lost money to the cryptocurrency exchange in hacks that date back nearly a decade. As of today, claimants can begin to vote on whether or not they will accept the civil rehabilitation proposal.
+
+The deadline for claimants to cast their vote online is Oct. 8.
+
+Significantly, the notice from the trustee states:
+
+"If you do not vote, you will be deemed to have voted against the Draft Rehabilitation Plan for the requirement of the amount of the voting rights."
+
+Because a minimum threshold of 50% of votes is required in order for the proposal to pass, there is a chance the proposal could fail even if the majority of votes actively cast vote in favor of acceptance.
+
+How the payouts could work
+
+According to a letter sent to claimants last year, the proposed payout would reimburse creditors in both JPY and BTC or BCH. The total value of each claim is denominated in Japanese yen (JPY) with each bitcoin being pegged to nearly $7,000, the rough price of bitcoin when the civil rehabilitation began in 2018 (not the $37,000 price of today, but also not the few hundreds of dollars bitcoin was trading at when Mt. Gox fell).
+
+Subscribe to , By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy
+
+Mt. Gox was hacked recurrently from 2012-2014, eventually driving it into insolvency. Since 2014, bankruptcy proceedings have evolved into these rehabilitation proceedings. The drawn-out drama means some exhausted creditors sold their claims to law firms, individuals and other stakeholders in the case.
+
+According to the terms of the proposal, if a claimant filed a fiat bankruptcy claim back in the day, they would be entitled to a priority payment for the full sum lost plus damages.
+
+For everyone else, there are a few options.
+
+First, all approved creditors will receive a base payment of up to 200,000 JPY (approximately $1,800 USD) that will count toward their total claim.
+
+From there, they can choose between two options: They can opt for a faster, early-sum payment which will reimburse them for about 21% of their first claim. Or, they can also choose to wait for what could be potentially a few more percentage points, but this isn’t guaranteed.
+
+In other words, someone who lost 1 BTC and $1,000 who selects the “Early Sum” payment would receive a base (small sum) payment of 200,000 JPY ($1,826.43 USD), along with 0.13194012 BTC, 0.13302035 BCH and 247,396 JPY, for an approximate value of nearly $10,000 USD.
+
+Should that same person select the later “Final” payment options, they could see that amount go up to around $11,000 USD. But it could also dip lower than the Early Sum amount of $10,00.
+
+There is no guarantee that the price will go up (or down) because Mt. Gox currently holds over 141,000 BTC and 141,000 BCH and some 68 billion JPY of fiat, but they have a total of 680,000 BTC/BCH and 8.8 billion JPY in approved claims (and 130,000 BTC/BCH and 50 billion JPY), per a WizSec blog post which explains payout details. There are also some claims awaiting approval; so, at this point, there is no way of knowing exactly what the final total disbursement amount to all creditors will be.
+
+Also up for clarification is how those funds will be denominated. Creditors who lost funds in fiat currencies will be paid in JPY. Any cryptocurrency amounts owing will be reimbursed in a mix of BTC and/or BCH and JPY.
+
+WizSec estimates that 30% of the dollar amount for BTC/BCH claims will likely have to settle in JPY due to the shortage of cryptocurrency funds recovered and the numerous exchanges for fiat that have been conducted over the years. Any disbursement in cryptocurrencies will be sent to exchanges included on a whitelist approved by the trustee.
+
+Creditors can get an estimate of their potential payout, should the proposal pass the vote, by using the payout calculator on WizSec’s latest post regarding the rehabilitation proceedings.
+
+Voting for an end to the drama
+
+Should the proposal be accepted by the majority of stakeholders, individuals can then decide which of the two options (early or final settlements) they will choose for themselves.
+
+Should the vote fail, it will be back to the drawing board for the trustee and the board, leaving creditors waiting for a new proposal to be drawn up. Considering the years it has taken for this proposal to be created, failure to accept these terms would likely force creditors to wait even longer for any compensation.

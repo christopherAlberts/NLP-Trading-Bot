@@ -1,0 +1,45 @@
+Bitcoin remains one of the hottest topics of debate in the financial world and beyond. The cryptocurrency also soared recently as companies like Tesla begin investing in and accepting Bitcoin as a form of payment. Visa recently announced support for Bitcoin trades through custodian banks in a new pilot, joining Square’s Cash App and PayPal in offering Bitcoin trading through their pre-existing brand services.
+
+Along with Mastercard, these companies are offering bank cards that allow users to spend crypto balances and some even offer cash-back or crypto-back awards. We define these types of services as CeDeFi, or centralised decentralised finance.
+
+In this new world, maturing DeFi apps are set to be embraced by traditional centralised (CeFi) financial companies (such as Visa and Mastercard). What we then see is CeDeFi - the blended offering of bringing together the best of a centralised and decentralised finance systems.
+
+In practice, this means the meeting of old school regulatory protections offered by the older and more traditional companies with the new school innovative financial infrastructure and products. For example, we know that Bitcoin & other digital assets can be used for collaterising loans and borrowings rather than sit around as a stored value (like Gold).
+
+Hardly a revolution
+
+However, there are sceptics wary of this CeDeFi ‘revolution’. These card and payment company offerings are welcome in theory as they increase the technical rails between consumers, businesses and blockchains, and help us all prepare for a move to future payment infrastructure. However in practice, these offerings come from CeFi companies who currently earn their money by charging transaction fees for settlement, payment services and clearing.
+
+The scepticism can therefore be justified as they look to blockchain payments. The latter execute peer-to-peer transactions that eliminate central intermediaries and associated bank fees. Users are fairly left to wonder if in the future, they will have to pay these centralised services higher or further transaction fees for moving cryptocurrency across blockchain networks, therefore defeating the promise of blockchain.
+
+An alternative?
+
+Many users are now looking for an offering that we haven’t yet seen in the market as the below suggestions detail:
+
+Low cost on-chain payments using Stablecoin pegged to fiat currency
+
+Easily accessible applications for executing Stablecoin payments
+
+Lower payment acceptance fees than exist today in the card networks
+
+Transparent real time Stablecoin payments (and settlements) on blockchain, tied to underlying information supporting the payment
+
+Card brand and bank protections for Stablecoin funds sitting off chain in partner bank accounts
+
+In this situation, the alternative payment company or card brand would issue such a Stablecoin customer could use for transacting on blockchains. Stablecoin payments would be tied to the underlying records so for example what was purchased, and would be transparent and real time on the blockchain.
+
+The payment companies or card brands would provide the on and off ramps for payors and payees, which would add functionality to the ramps already in place today, but would not actually be involved in the payment that would occur on the blockchain.
+
+The issuing and acquiring sides would take advantage of current card brand services e.g. on boarding, protections for balances, risk management etc. but the payees and merchants would not incur the transaction fees currently associated with actual card payment transactions.
+
+This may seem unsustainable from a revenue perspective for the card brands in question, but they could still earn money from on and off ramp value-added services, and from interest on the reserves underlying the Stablecoins.
+
+Technology is not the obstacle
+
+The recent announcement from Visa is overall welcome in the industry, but the bottom line is that Bitcoin is too volatile to be used for payments, and we don’t see high adoption of Bitcoin payments until its price stabilizes.
+
+However, there is a clear need for Stablecoin payments on blockchains. This is a value proposition that card brands and alternatives can offer, along with the value-added risk management, cash management, onboarding and more that are consolidated with existing fiat currency services.
+
+Some may argue that this precludes payment companies and card brands from earning fees as they do today, but that is fundamentally what blockchain payments are all about – removing the need for central clearing and moving to a peer to peer structure.
+
+Whilst some centralised financial services may not want to embrace the spirit of blockchain, they may find their hand forced as alternative emerging Stablecoin payment networks are more than likely set to fill the market need even if legacy companies don’t catch up.

@@ -1,0 +1,35 @@
+Report: China's Bitcoin Hashrate Dominance Dives, 'North America Could Steal the Lead'
+
+A newly published regional report shows that China’s hashrate has likely dropped to 55% while the U.S. has climbed to 11%. Another study predicts that it’s possible North America could overtake China in terms of hashrate by the end of 2021.
+
+Bitcoin Mining Farm Operator Says Mining Industry in North America Is Booming
+
+For years now China has been the most dominant region in terms of bitcoin miners worldwide and at one point 65% to 70% of the network hashrate stemmed from the country. In May 2021, the Bitcoin hashrate is significantly higher nearing 200 exahash per second (EH/s) as a great number of participants are mining the crypto asset. At the time of writing, the global hashrate is around 181 EH/s following the massive drop in hashpower two weeks ago.
+
+Now a few reports are showing that China’s SHA256 hashrate dominance is steadily dropping and the U.S. and North America, in general, have become greater competitors. 8btc’s regional columnist, Iyke Aru explains that one reason hashrate is dropping in the country is because of China’s energy commitments.
+
+China’s communist government aims to reduce carbon emissions a great deal in the next few years and a recent proposal was invoked to shut down bitcoin miners located in the autonomous region of Inner Mongolia. Other regions like Sichuan are also tightening up energy requirements which are placing more demand on the region’s hydropower facilities.
+
+Another study, published by Sam Ling at the end of January 2021 shows that China’s hashrate dominance has dropped considerably this year. Ling’s study follows a report published by Bitooda that was released a few months prior in the summer of 2020. Bitooda’s report noted that China’s hashrate was estimated to be only 50% of the global hashrate and North American bitcoin mining was on the rise. Similarly, Ling’s report this published year indicates estimates are roughly the same.
+
+Ling’s data shows that China’s overall SHA256 hashrate is around 55%, while the U.S. now captures around 11%. At the beginning of 2021, mining industry leaders predicted that roughly 200,000 to 1 million ASIC mining rigs would be shipped internationally.
+
+The forecast predicts a rise to 240 EH/s by the end of the year. During the mining industry meeting, bitcoin mining farm operator, Yao Wanni says Chinese citizens are still buying mining rigs but North American ASIC purchases have catapulted.
+
+“The whole mining industry in North America is booming” Yao insisted at the time.
+
+Study Shows It’s ‘Unlikely’ but ‘North America Could steal the Hashrate Lead’
+
+The study forecasts the hashrate by 2022 and it predicts the U.S. could possibly overtake China’s dominant hashrate by then. The report also notes that unpublicized deals could make the ASIC shipment estimates much larger.
+
+Based on theoretical analysis Ling’s study says although it is “unlikely,” the possibility of North American hashpower dominance still exists. “North America could steal the lead of the BTC hashrate from China in 2021,” the report notes. “But only by purchasing at least an additional 630,000 ASICs,” Ling’s study adds.
+
+U.S. and Canadian miners will have to increase their ASIC machine power by 5x in order to bring North America to the forefront.
+
+“From our investigation, we find that in order for the USA and Canada to take the hashing power lead over China, they must secure a minimum of 63 more EH/s this year,” Ling’s study concludes. “This equates to an extra order of 630,000 ASICs, with an average of 100 TH/s, costing nearly $4 billion dollars,” he added.
+
+What do you think about China’s hashrate dominance dropping and the possibilty of North American miners dominating by the year’s end? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons
+
+Disclaimer: This article is for informational purposes only. It is not a direct offer or solicitation of an offer to buy or sell, or a recommendation or endorsement of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

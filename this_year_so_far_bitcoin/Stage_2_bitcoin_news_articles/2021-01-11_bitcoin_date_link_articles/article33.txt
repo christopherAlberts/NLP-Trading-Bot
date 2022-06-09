@@ -1,0 +1,69 @@
+2020 has been a torrid year for stock markets globally. Fiscal and monetary stimulus rescued investors from a brutal bear-market. Digital transformation has accelerated and fortunes of the technology sector with it. With mass-vaccination still some way off, 2021 will see many trends continue.
+
+State of the Global Markets
+
+The US stock market is making all-time highs (as at 29th December). It has been a torrid year. The 35% shakeout in the S&P 500, seen in March, turned out to be the best buying opportunity in several years. The market recovered, despite the human tragedy of the pandemic, fuelled by a cocktail of monetary and fiscal stimulus. When news of the rollout of a vaccine finally arrived in November, apart from a renewed rise in the broad market, there was an abrupt rotation from Growth to Value stocks. Value ETFs saw $8bln of inflows during November, there was also a weakening of the US$ and resurgence of European stocks. This was not necessarily the sea-change anticipated by many commentators, by the start of December technology stocks had resumed their upward march.
+
+November marked some market records. It was the strongest month for the Dow since 1987 and the best November since 1928. European stocks rose 14%, their best monthly gain since April 2009 - that headline grabbing performance needs to be qualified, European indices remain lower than they began the year. For Japan’s Nikkei 255, the 15% rise marked its most positive monthly performance since January 1994, whilst for Global Equities, which returned 12.7%, it was the best month since January 1975.
+
+Other financial and commodity markets also reacted to the vaccine news. OPEC agreed supply reductions helping oil prices higher, although Brent Crude remains around 22% lower than it started the year. The larger issue for stock markets is the logistical challenge of delivering the vaccination, this will test the healthcare systems of every country on the planet. The OPEC deal may fray at the edges, demand for oil could arrive later than anticipated. Nonetheless, risk assets have generally benefitted whilst both gold and silver have remained range-bound. After their strong rally in the summer, precious metals seem to have had their time in the sun. Interestingly, Bitcoin appears to be dancing to a different tune. Over the past two months it has risen more than 120%, breaking the previous highs of December 2017 to breach $28,000.
+
+Looking ahead, Covid sensitive stocks should continue to recover, this chart shows the relative performance by industry sector over the last year (to 29th December): -
+
+Source: Barchart.com, S&P
+
+Energy, November’s top performing sector, remains more than 38% down over the last 12 months, whilst Information Technology is up almost 41% over the same period.
+
+Prospects for 2021
+
+Central bank monetary policy and developed nation fiscal policy will be key to deciding the direction of stocks next year. This infographic from McKinsey shows the gargantuan scale of the fiscal response compared to the Great Financial Crisis of 2008: -
+
+Source: McKinsey, IMF
+
+The degree of largesse needs to be qualified, more than half of government support has been in the form of guarantees, designed to help companies avoid insolvency. Added to which, other stimulus measures have been announced, but that capital has yet to be been committed. The eventual bill for the pandemic might not be quite the strain on collective international government finances the McKinsey infographic portends. This chart from the IMF shows the composition of fiscal support as at mid-May: -
+
+Source: IMF
+
+A more important factor for global stocks is the enormous injection of liquidity which has been pumped into the world economy: -
+
+Source: Yardeni
+
+This global picture disguises the variance between countries: -
+
+Source: Federal Reserve, National Central Banks, Haver Analytics, Globalization Institute
+
+With the exception of the US, money supply growth has been relatively muted thus far, although it has been broadly comparable to the expansion undertaken in the aftermath of the sub-prime crisis of 2008. The vast expansion of the US monetary base is unprecedented by comparison with its developed nation peers, but even more so when seen in the context of US policy since WWII: -
+
+Source: Gavekal/Macrobond
+
+Money supply growth cannot be ignored when seeking a reason for the rise in US stocks. North American asset markets, such as stocks and real estate, will continue to benefit even if some of that liquidity seeps away to international investment opportunities. The Cantillon Effect, named after 18th century Irish economist, Richard Cantillon, remains very much alive and well. In Cantillon’s - Essai sur la Nature du Commerce en General - which was published posthumously in 1755 – he observed that those who were closest to the minting of money benefitted most.
+
+Today, with unemployment sharply higher and lockdown restrictions curtailing consumption, the US savings rate has risen sharply. Even after hitting a peak in April it remains well above the levels seen since the 1970’s. The chart below does not account for the effect of the recent relief package which will release a further $900bln, including cheques to many individuals of $600 each: -
+
+Source: Federal Reserve Bank of St Louis
+
+Whilst the unemployment rate remains elevated, that excess liquidity will either be hoarded or flow into the stock market, in these uncertain times it is unlikely to fuel a consumption boom. This chart shows how unemployment rates have increased across the US, EU and OECD countries in aggregate: -
+
+Source: OECD
+
+Aside from a short-lived boom in the grocery sector at the start of the crisis, US consumer spending remained muted running into the summer: -
+
+Source: NEBR
+
+The situation improved in Q3 as the inforgraphic below reveals: -
+
+Source: Deloitte, BEA, Haver Analytics
+
+Real personal consumer expenditure grew by 8.9% in Q3 compared to Q2. The nature of consumer spending has also changed as a result of the pandemic, with many consumers buying relatively more goods than services. Without reliable data it is difficult to assess the picture for Q4, but the second wave of Corona cases appears to be a worldwide phenomenon, a repeat of the April/May lockdown may yet defer the much anticipated recovery in consumption.
+
+Investment Opportunities for 2021
+
+Looking ahead, the first important test of US political sentiment will be the runoff Senate race in Georgia on January 5 . Nonetheless, for the coming year, with government bond yields still miserably low, excess liquidity will continue to flow into stocks. The recent weakening of the US$ may lend additional support to international markets, especially if Europe stops its squabbling and embraces fiscal expansion. Dollar bulls might just be rescued by the US bond market, 10yr yields reached 99bps at the beginning of December, the highest since the pandemic struck in March, yields have remained elevated with a fresh stimulus package to finance, but an economic recovery remains some way off, a real bond bear-market needs a significant inflation catalyst.
+
+As Milton Friedman famously observed, ‘Inflation is always and everywhere a monetary phenomenon.’ Even allowing for a strong rebound in demand for goods and services in 2021, the consumer will remain cautious until mass-vaccination has proved to be effective. Meanwhile, that excess liquidity will have to go somewhere, all other things equal, asset markets will rise with liquid, listed equities in the vanguard.
+
+Originally Published in In the Long Run.
+
+FIN.
+
+Having a slow day and yearning for some more intellectual stimulation? Our Podcasts can offer some respite! Subscribe to TRANSFIN. E-O-D and get them started!
