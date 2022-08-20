@@ -3,7 +3,7 @@
  
  The idea behind this project was to make a crypto trading bot that conducts trades based on the media's perseption of that currency at that given time period.
  
- ![](Images/c3po.png)
+ ![](c3po.png)
  
  The core of this project and purpose does not lie in the bot's trading ability but rather it's ability to gage the media's opinion of the currency in question at a given time. To do this I made use of the magic that is NLP...
  
